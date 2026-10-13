@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#202420">
+  <meta name="description" content="Step into Dad’s record room. Browse the original boxes, pull out a sleeve, and rediscover a lifetime of music.">
+  <title>Dad’s record room</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=15">
+  <link rel="preload" href="assets/room-wide.jpg" as="image">
+</head>
+<body>
+  <main class="room" id="room">
+    <div class="scene" id="scene">
+      <div class="scene-plane" id="scene-plane">
+        <img class="room-image" src="assets/room-wide.jpg" alt="Five worn white boxes full of vintage records, with a silver Sony turntable on top, in Dad’s room.">
+        <svg class="hotspots" viewBox="0 0 1659 948" aria-label="Choose a record box">
+          <g class="box-hotspot" data-box="upper-left" role="button" tabindex="0" aria-label="Browse the upper left box">
+            <polygon points="194,243 588,248 598,525 249,590 207,510"/><g class="marker" transform="translate(410 423)"><circle r="23"/><text y="5">1</text></g>
+          </g>
+          <g class="box-hotspot" data-box="lower-left" role="button" tabindex="0" aria-label="Browse the lower left box">
+            <polygon points="211,590 563,528 572,747 249,845"/><g class="marker" transform="translate(397 694)"><circle r="23"/><text y="5">2</text></g>
+          </g>
+          <g class="box-hotspot" data-box="upper-middle" role="button" tabindex="0" aria-label="Browse the upper middle box">
+            <polygon points="618,235 921,236 915,478 657,504 621,470"/><g class="marker" transform="translate(790 376)"><circle r="23"/><text y="5">3</text></g>
+          </g>
+          <g class="box-hotspot" data-box="lower-middle" role="button" tabindex="0" aria-label="Browse the lower middle box">
+            <polygon points="631,493 921,468 913,667 675,713 638,690"/><g class="marker" transform="translate(797 595)"><circle r="23"/><text y="5">4</text></g>
+          </g>
+          <g class="box-hotspot" data-box="right" role="button" tabindex="0" aria-label="Browse the right-hand box">
+            <polygon points="951,520 1020,446 1294,477 1262,814 946,747"/><g class="marker" transform="translate(1120 672)"><circle r="23"/><text y="5">5</text></g>
+          </g>
+        </svg>
+      </div>
+    </div>
+    <header class="room-header">
+      <a class="brand" href="./" aria-label="Dad’s record room home"><span class="brand-disc" aria-hidden="true"></span><span>Dad’s record room<span class="brand-sub">A personal collection</span></span></a>
+      <button class="quiet-button" id="find-button"><span aria-hidden="true">⌕</span> Find a record</button>
+    </header>
+    <div class="room-intro"><p class="eyebrow">The collection, just as it was</p><h1>A lifetime<br> on vinyl.</h1><p>Same boxes. Same well-loved sleeves.<br> A new way to listen again.</p></div>
+    <div class="box-tooltip" id="box-tooltip" aria-hidden="true"></div>
+    <footer class="room-footer">
+      <div><span class="small-label">COME ON IN</span><p>Choose a box.<br>See what’s inside.</p></div>
+      <button class="collection-button" id="all-button">Browse all records <span aria-hidden="true">↗</span></button>
+      <div class="room-count"><span id="record-total">Five boxes</span><span id="identified-total">A lifetime of music</span></div>
+    </footer>
+    <p class="room-note">Recreated from family photographs <button id="about-button" aria-label="About this collection">ⓘ</button></p>
+  </main>
+
+  <dialog id="box-dialog" class="box-dialog" aria-labelledby="box-name">
+    <div class="focus-layer"><div class="focus-plane" id="focus-plane" aria-hidden="true"><img src="assets/room-wide.jpg" id="focus-image" alt=""><img class="box-detail-image" id="box-detail-image" alt=""></div><svg class="spine-layer" id="spine-layer" viewBox="0 0 1659 948" aria-label="Record spines in the selected box"></svg></div><div id="announcement" class="sr-only" aria-live="polite"></div><div class="record-preview" id="record-preview" aria-hidden="true"></div><div class="box-shell">
+      <header class="box-header"><button class="back-button" id="close-box"><span aria-hidden="true">←</span> Back to the room</button><div class="box-heading"><span class="small-label" id="box-number"></span><h2 id="box-name"></h2></div><button class="icon-button" id="box-search" aria-label="Find a record">⌕</button></header>
+      <div class="box-invitation" id="box-invitation"><span class="small-label">YOU’RE AT THE BOX</span><h3>What shall we<br> listen to?</h3><p>Choose a spine, or browse the sleeves below.<br>Pull out a record to take a closer look.</p><div class="hover-record" id="hover-record"></div></div><button class="put-back" id="put-back"><span aria-hidden="true">↓</span> Put the record back</button><div class="browsing-room">
+        <aside class="box-aside"><div class="photo-frame"><img id="box-photo" src="" alt=""><span>THE ORIGINAL BOX</span></div><p id="box-description"></p><button class="text-button" id="source-photo-button">Look closer at the photograph ↗</button></aside>
+        <section class="sleeve-stage" aria-label="Selected record">
+          <div class="record-view" id="record-view">
+            <button class="neighbor previous-sleeve" id="previous-sleeve" aria-label="Previous record"><img alt=""></button>
+            <div class="sleeve-object" id="sleeve-object">
+              <div class="vinyl" id="vinyl" aria-hidden="true"><div class="vinyl-label"><img id="vinyl-label-image" alt=""><span id="vinyl-label-title"></span><i></i></div></div>
+              <button class="jacket" id="jacket" aria-label="Turn this sleeve over"><div class="jacket-front" id="jacket-front"></div><div class="jacket-back" id="jacket-back"></div></button>
+            </div>
+            <button class="neighbor next-sleeve" id="next-sleeve" aria-label="Next record"><img alt=""></button>
+          </div>
+          <div class="view-controls" role="group" aria-label="Sleeve view"><button class="active" data-view="front">Front</button><button data-view="back">Back</button><button data-view="vinyl" id="vinyl-button">Record inside</button></div>
+          <div class="album-navigation" aria-label="Browse albums"><button class="album-nav" id="album-prev" aria-label="Previous record"><span class="nav-cover" aria-hidden="true"></span><span class="nav-copy"><small>Previous</small><strong class="nav-title"></strong></span></button><span id="album-position"></span><button class="album-nav" id="album-next" aria-label="Next record"><span class="nav-cover" aria-hidden="true"></span><span class="nav-copy"><small>Next</small><strong class="nav-title"></strong></span></button></div><p class="view-note" id="view-note"></p>
+        </section>
+        <aside class="record-info"><span class="small-label" id="record-location"></span><h3 id="record-title"></h3><p class="record-artist" id="record-artist"></p><div class="record-tags" id="record-tags"></div><p class="record-evidence" id="record-evidence"></p><div class="listen-actions" id="listen-actions"></div><details class="identification"><summary>About this sleeve</summary><p id="record-notes"></p><div id="record-sources"></div><button class="text-button" id="record-photo">View the original photograph ↗</button></details></aside>
+      </div>
+      <div class="crate-browser"><div class="crate-toolbar"><button class="icon-button" id="prev-record" aria-label="Previous record">←</button><button class="carousel-caption" id="carousel-selected"><strong id="carousel-title"></strong><span id="carousel-artist"></span><small id="position-label"></small></button><button class="icon-button" id="next-record" aria-label="Next record">→</button></div><div class="record-strip" id="record-strip" aria-label="Records in this box"></div></div>
+    </div>
+  </dialog>
+
+  <dialog id="library-dialog" class="library-dialog" aria-labelledby="library-title"><header class="library-header"><div><p class="eyebrow">Dad’s record room</p><h2 id="library-title">The collection</h2></div><button class="icon-button" id="close-library" aria-label="Close collection">✕</button></header><div class="search-row"><label class="search-field"><span aria-hidden="true">⌕</span><input id="search-input" type="search" placeholder="Search an artist or album" aria-label="Search an artist or album" autocomplete="off"></label><select id="box-filter" aria-label="Filter by box"><option value="all">Every box</option><option value="upper-left">1 · Upper left</option><option value="lower-left">2 · Lower left</option><option value="upper-middle">3 · Upper middle</option><option value="lower-middle">4 · Lower middle</option><option value="right">5 · Right-hand box</option></select></div><p class="search-results" id="search-results" aria-live="polite"></p><div class="library-grid" id="library-grid"></div></dialog>
+
+  <dialog id="listen-dialog" class="listen-dialog" aria-labelledby="playing-title"><header><span class="small-label">ON THE TURNTABLE</span><button class="icon-button" id="close-listen" aria-label="Close Spotify player">✕</button></header><div class="mini-turntable"><div class="mini-disc"><img id="playing-cover" alt=""></div><div class="tonearm"></div><span>33⅓</span></div><h2 id="playing-title"></h2><p id="playing-artist"></p><div id="spotify-player"></div><a id="spotify-open" target="_blank" rel="noopener noreferrer">Open album in Spotify ↗</a><p class="spotify-note">Spotify controls playback. Availability and full playback depend on your Spotify account.</p></dialog>
+
+  <dialog id="about-dialog" class="about-dialog" aria-labelledby="about-title"><button class="icon-button" id="close-about" aria-label="Close information">✕</button><p class="eyebrow">A family collection</p><h2 id="about-title">Kept in its own order.</h2><p>This room is a photographic reconstruction of the five boxes in your family photos. Records stay in their original left-to-right order.</p><p>Readable spines identify the albums. Cover artwork represents the album, and may come from a different pressing. Worn, unreadable sleeves keep their place until more photographs can identify them.</p><p>Back covers appear only where sourced. The vinyl inside is an illustration; labels and condition of the original discs haven’t been photographed.</p><p>Spotify albums are linked only when verified. Other records offer a clearly labeled Spotify search.</p><div class="about-stats" id="about-stats"></div></dialog>
+  
+  <script src="app.js?v=18" type="module"></script>
+</body>
+</html>

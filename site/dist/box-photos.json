@@ -1,0 +1,344 @@
+{
+  "version": 2,
+  "roomWidth": 1659,
+  "roomHeight": 948,
+  "boxes": {
+    "upper-left": {
+      "path": "assets/boxes/upper-left.jpg",
+      "width": 4032,
+      "height": 3024,
+      "sourceQuad": [
+        [
+          375,
+          124
+        ],
+        [
+          3386,
+          207
+        ],
+        [
+          3154,
+          2698
+        ],
+        [
+          721,
+          2936
+        ]
+      ],
+      "targetQuad": [
+        [
+          244,
+          264
+        ],
+        [
+          590,
+          254
+        ],
+        [
+          598,
+          525
+        ],
+        [
+          251,
+          588
+        ]
+      ],
+      "notes": "Original family photograph projected onto the flat front face. Room side/top surfaces remain from the room rendering.",
+      "openingQuad": [
+        [
+          435,
+          183
+        ],
+        [
+          3338,
+          257
+        ],
+        [
+          3118,
+          2666
+        ],
+        [
+          763,
+          2900
+        ]
+      ],
+      "completeFrontVisible": true,
+      "calibrationNotes": "Front white frame is the narrow coplanar rim. The interior left/right wall and bottom shelf remain photographed depth cues inside openingQuad; do not use them to set the front plane corners. Outer bottom-right corrected to exclude shadow below the frame.",
+      "compartmentCount": 3
+    },
+    "lower-left": {
+      "path": "assets/boxes/lower-left.jpg",
+      "width": 4032,
+      "height": 3024,
+      "sourceQuad": [
+        [
+          379,
+          75
+        ],
+        [
+          3900,
+          151
+        ],
+        [
+          3254,
+          2762
+        ],
+        [
+          882,
+          2730
+        ]
+      ],
+      "targetQuad": [
+        [
+          221,
+          590
+        ],
+        [
+          562,
+          530
+        ],
+        [
+          572,
+          748
+        ],
+        [
+          248,
+          843
+        ]
+      ],
+      "notes": "Original family photograph projected onto the flat front face. Room side/top surfaces remain from the room rendering.",
+      "openingQuad": [
+        [
+          441,
+          150
+        ],
+        [
+          3820,
+          212
+        ],
+        [
+          3219,
+          2734
+        ],
+        [
+          914,
+          2704
+        ]
+      ],
+      "completeFrontVisible": true,
+      "calibrationNotes": "Top white front rail is slightly occluded by the upper box overhang near centre/right. Use the lower rail's own edge, rather than the overlapping upper box. Bottom edge is nearly level and slopes down slightly toward right.",
+      "compartmentCount": 3
+    },
+    "upper-middle": {
+      "path": "assets/boxes/upper-middle.jpg",
+      "width": 4032,
+      "height": 3024,
+      "sourceQuad": [
+        [
+          425,
+          145
+        ],
+        [
+          3214,
+          319
+        ],
+        [
+          3006,
+          2686
+        ],
+        [
+          635,
+          2866
+        ]
+      ],
+      "targetQuad": [
+        [
+          651,
+          250
+        ],
+        [
+          918,
+          236
+        ],
+        [
+          915,
+          478
+        ],
+        [
+          657,
+          503
+        ]
+      ],
+      "notes": "Original family photograph projected onto the flat front face. Room side/top surfaces remain from the room rendering.",
+      "openingQuad": [
+        [
+          477,
+          206
+        ],
+        [
+          3173,
+          363
+        ],
+        [
+          2978,
+          2652
+        ],
+        [
+          675,
+          2832
+        ]
+      ],
+      "completeFrontVisible": true,
+      "calibrationNotes": "One physical central divider. Bottom-right is approximately [3006,2686], not the lower box's protruding top corner near [3170,2670]. This distinction materially improves the projection crop.",
+      "compartmentCount": 2
+    },
+    "lower-middle": {
+      "path": "assets/boxes/lower-middle.jpg",
+      "width": 4032,
+      "height": 3024,
+      "sourceQuad": [
+        [
+          419,
+          278
+        ],
+        [
+          3703,
+          337
+        ],
+        [
+          3231,
+          2721
+        ],
+        [
+          896,
+          3158
+        ]
+      ],
+      "targetQuad": [
+        [
+          666,
+          503
+        ],
+        [
+          916,
+          479
+        ],
+        [
+          913,
+          667
+        ],
+        [
+          675,
+          713
+        ]
+      ],
+      "notes": "Original family photograph projected onto the flat front face. Room side/top surfaces remain from the room rendering.",
+      "openingQuad": [
+        [
+          499,
+          329
+        ],
+        [
+          3650,
+          387
+        ],
+        [
+          3198,
+          2690
+        ],
+        [
+          942,
+          3121
+        ]
+      ],
+      "completeFrontVisible": false,
+      "calibrationNotes": "This close-up clips the lower-left frame corner. Outer corner is extrapolated to y3158, 134px beyond the 3024px image height. Measured outer left edge points x730@y2200, x764@y2400, x799@y2600, x834@y2800, x869@y3000; measured bottom edge points y2933@x2100, y2897@x2300, y2860@x2500, y2823@x2700, y2784@x2900, y2747@x3100. Their fitted intersection is [896,3158]. Keep the generated frame beneath the real projection at the small missing corner, or limit the blend to an inset opening crop.",
+      "compartmentCount": 1,
+      "clipPolygon": [
+        [
+          419,
+          278
+        ],
+        [
+          3703,
+          337
+        ],
+        [
+          3231,
+          2721
+        ],
+        [
+          1617,
+          3024
+        ],
+        [
+          868,
+          3024
+        ]
+      ]
+    },
+    "right": {
+      "path": "assets/boxes/right.jpg",
+      "width": 4032,
+      "height": 3024,
+      "sourceQuad": [
+        [
+          300,
+          188
+        ],
+        [
+          3652,
+          269
+        ],
+        [
+          3080,
+          2767
+        ],
+        [
+          773,
+          2747
+        ]
+      ],
+      "targetQuad": [
+        [
+          952,
+          521
+        ],
+        [
+          1290,
+          562
+        ],
+        [
+          1262,
+          814
+        ],
+        [
+          946,
+          747
+        ]
+      ],
+      "notes": "Original family photograph projected onto the flat front face. Room side/top surfaces remain from the room rendering.",
+      "openingQuad": [
+        [
+          363,
+          254
+        ],
+        [
+          3589,
+          334
+        ],
+        [
+          3046,
+          2743
+        ],
+        [
+          806,
+          2719
+        ]
+      ],
+      "completeFrontVisible": true,
+      "calibrationNotes": "All four frame corners visible. The larger record/book sleeves at right are part of the actual collection and should remain included.",
+      "compartmentCount": 3
+    }
+  }
+}

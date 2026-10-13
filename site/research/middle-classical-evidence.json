@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "lower-middle-04",
+    "catalogue": "MAB 752",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22MAB+752%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:28:54.453Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  },
+  {
+    "id": "lower-middle-07",
+    "catalogue": "4054",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%224054%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:28:56.168Z",
+      "count": 8,
+      "offset": 0,
+      "releases": [
+        {
+          "id": "6a8663dc-a6d3-4332-8edc-b4ee68c1f07a",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "artist-credit-id": "81220ebb-b526-3e33-82b5-35f50e40778c",
+          "count": 1,
+          "title": "Moeder, laat je kindje leven / Wanneer je voor altijd .....",
+          "status": "Official",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "language": "nld",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "Peter Wesley",
+              "artist": {
+                "id": "1103d6a7-6e2b-470d-9ea2-cd06da0f5bee",
+                "name": "Peter Wesley",
+                "sort-name": "Wesley, Peter",
+                "disambiguation": "Belgian country / variety singer"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5a863d37-cea0-4c94-a64d-0a4975d60953",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Moeder, laat je kindje leven / Wanneer je voor altijd .....",
+            "primary-type": "Single"
+          },
+          "date": "1979",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1979",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "barcode": "",
+          "label-info": [
+            {
+              "catalog-number": "4054",
+              "label": {
+                "id": "95f0cde7-8db2-43f0-9d0b-99ce9f94af5c",
+                "name": "Dureco Benelux"
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "f6ebb357-653a-3501-ba9d-377d1d3fc637",
+              "format": "7\" Vinyl",
+              "disc-count": 0,
+              "track-count": 2
+            }
+          ]
+        },
+        {
+          "id": "585e08b2-6ba1-47fd-9128-77e92c5da87f",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "feec5cc0-8a85-3f2f-bd1f-81222099190f",
+          "count": 1,
+          "title": "Meet You at the Jazz Corner of the World (Volume 1)",
+          "status": "Official",
+          "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "Art Blakey & The Jazz Messengers",
+              "artist": {
+                "id": "209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee",
+                "name": "Art Blakey & The Jazz Messengers",
+                "sort-name": "Blakey, Art & The Jazz Messengers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "47bfc480-a569-3a59-8a86-2ef842a68cba",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Meet You at the Jazz Corner of the World, Volume 1",
+            "primary-type": "Album"
+          },
+          "date": "1961",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1961",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "label-info": [
+            {
+              "catalog-number": "4054",
+              "label": {
+                "id": "713c4a95-6616-442b-9cf6-14e1ddfd5946",
+                "name": "Blue Note"
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "773fc17c-3dc5-37fa-b17a-8cb3392fb819",
+              "format": "Vinyl",
+              "disc-count": 0,
+              "track-count": 5
+            }
+          ]
+        },
+        {
+          "id": "0a3fd2ee-44eb-4bbf-82cd-39c4a65310ca",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+          "artist-credit-id": "a6e7570c-c52e-3001-8a80-3b708d23034c",
+          "count": 1,
+          "title": "Freddy Fender: 20 Hits",
+          "status": "Official",
+          "packaging": "Jewel Case",
+          "text-representation": {
+            "language": "mul",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "Freddy Fender",
+              "artist": {
+                "id": "e2050382-282f-40e5-8f33-01ee4647ad3f",
+                "name": "Freddy Fender",
+                "sort-name": "Fender, Freddy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ff259072-5b4f-4742-8c13-0929728e9fc1",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Freddy Fender: 20 Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2000-07-11",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2000-07-11",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "barcode": "607707405420",
+          "label-info": [
+            {
+              "catalog-number": "4054",
+              "label": {
+                "id": "4a1840b4-8a53-4a83-b112-5fb879ea260f",
+                "name": "CD Double Play"
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "a72b2667-51e8-311a-ac06-f6af2058c2e4",
+              "format": "CD",
+              "disc-count": 1,
+              "track-count": 20
+            }
+          ]
+        },
+        {
+          "id": "c77ff2be-da4e-49df-bb88-e8531c7f8b7f",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "fd81d043-50a9-3c02-ac59-fbbb7451545c",
+          "count": 1,
+          "title": "Calcutta Meditation",
+          "status": "Official",
+          "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "Subroto Roy Chowdhury",
+              "artist": {
+                "id": "43b5799e-a92c-452c-b730-8bb18334dde3",
+                "name": "Subroto Roy Chowdhury",
+                "sort-name": "Chowdhury, Subroto Roy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ebda41bb-ec8a-4336-9100-a6a48a202faa",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Calcutta Meditation",
+            "primary-type": "Album"
+          },
+          "date": "1983",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1983",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "label-info": [
+            {
+              "catalog-number": "4054",
+              "label": {
+                "id": "1f78d416-5a0d-43c5-9946-2d8831fa760f",
+                "name": "enja"
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "87d10673-4f07-32da-97f6-d9ef497758a8",
+              "format": "12\" Vinyl",
+              "disc-count": 0,
+              "track-count": 2
+            }
+          ]
+        },
+        {
+          "id": "ccd46b29-b839-4bbc-82ac-6ab2e762f7ec",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1287bf63-c333-45c1-8508-111f1302d713",
+          "count": 1,
+          "title": "Oh! What a Little Whopper / I Might Be Your Once-In-A-While",
+          "status": "Official",
+          "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": " / ",
+              "name": "Billy Murray",
+              "artist": {
+                "id": "6116bd4a-1e7a-4e76-9b59-0b23a2887b01",
+                "name": "Billy Murray",
+                "sort-name": "Murray, Billy",
+                "disambiguation": "early 20th century popular American singer"
+              }
+            },
+            {
+              "name": "Harvey Hindermyer",
+              "artist": {
+                "id": "b32fe2fe-93a3-4dc0-b221-78c5b1abd6f2",
+                "name": "Harvey Hindermyer",
+                "sort-name": "Hindermyer, Harvey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3c650ba1-8101-4ed4-b33f-14f29407a23c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Oh! What a Little Whopper / I Might Be Your Once-In-A-While",
+            "primary-type": "Single"
+          },
+          "date": "1920",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1920",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "label-info": [
+            {
+              "catalog-number": "4054",
+              "label": {
+                "id": "968ea5bb-1662-4bcd-beea-9a97ba8b30ca",
+                "name": "OKeh"
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "406e81aa-f4bf-3f89-94c8-8fb5cf149941",
+              "format": "10\" Shellac",
+              "disc-count": 0,
+              "track-count": 2
+            }
+          ]
+        },
+        {
+          "id": "d05fb42e-2b27-45bc-a658-d1dc6ea85ef7",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "packaging-id": "c1668fc7-8944-4a00-bc3e-46e8d861d211",
+          "artist-credit-id": "018fd271-d5fd-4d00-9fce-2fd2ef30fc58",
+          "count": 1,
+          "title": "Arandas / Niégalo pues",
+          "status": "Official",
+          "packaging": "Box",
+          "text-representation": {
+            "language": "spa",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": " con Mariachi",
+              "name": "Martín y Eloisa",
+              "artist": {
+                "id": "1ee5b1c4-b08a-478d-a890-b45c95c34af3",
+                "name": "Martín y Eloisa",
+                "sort-name": "Martín y Eloisa",
+                "disambiguation": "Ranchera duo"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8e703874-2956-4374-be11-a707bc3efd64",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Arandas / Niégalo pues",
+            "primary-type": "Single"
+          },
+          "date": "1942",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "1942",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "barcode": "",
+          "label-info": [
+            {
+              "catalog-number": "4054",
+              "label": {
+                "id": "13c05f14-592e-49e4-9098-ec05c05c0395",
+                "name": "Fénix"
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "483c137e-c598-3f1b-af1e-6597fcb887dd",
+              "format": "10\" Shellac",
+              "disc-count": 0,
+              "track-count": 2
+            }
+          ]
+        },
+        {
+          "id": "4543dc81-bae8-4bd5-9945-b03c48cf35c2",
+          "score": 100,
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "artist-credit-id": "b0b6350d-c6cd-3a9c-b5f6-56585e3b78f9",
+          "count": 1,
+          "title": "Surrender",
+          "status": "Promotion",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "Jon Anderson",
+              "artist": {
+                "id": "24202038-7b02-4444-96c2-cf2fc7b81308",
+                "name": "Jon Anderson",
+                "sort-name": "Anderson, Jon",
+                "disambiguation": "Yes/Jon & Vangelis"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b1ac262a-2198-45e0-9ee4-8a3f95e26773",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Surrender",
+            "primary-type": "Single"
+          },
+          "date": "1982",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1982",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "barcode": "",
+          "label-info": [
+            {
+              "catalog-number": "4054",
+              "label": {
+                "id": "50c384a2-0b44-401b-b893-8181173339c7",
+                "name": "Atlantic"
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "927c19d7-6cc6-3603-8039-559dad26f0b4",
+              "format": "7\" Vinyl",
+              "disc-count": 0,
+              "track-count": 2
+            }
+          ]
+        },
+        {
+          "id": "1d61300d-656b-43dd-bdfb-07649e43eef7",
+          "score": 71,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "8908c756-740c-438d-85bc-eedf8a896a84",
+          "count": 1,
+          "title": "Hoe kom ik in een discotheek",
+          "status": "Official",
+          "text-representation": {
+            "language": "nld",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "Carla",
+              "artist": {
+                "id": "55f98930-22bc-429c-b050-962371904903",
+                "name": "Carla",
+                "sort-name": "Carla",
+                "disambiguation": "Dutch singer Carla Raaymakers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce35bc40-2db7-46d2-951c-3a649317c82c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hoe kom ik in een discotheek",
+            "primary-type": "Single"
+          },
+          "date": "1983",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1983",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "label-info": [
+            {
+              "catalog-number": "TS 4054 TF",
+              "label": {
+                "id": "34b1f8a5-2e28-47a3-8e7d-22b6f9441f77",
+                "name": "Telstar Music"
+              }
+            },
+            {
+              "catalog-number": "4054",
+              "label": {
+                "id": "34b1f8a5-2e28-47a3-8e7d-22b6f9441f77",
+                "name": "Telstar Music"
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "a04fb70f-5af0-326b-9cd3-f5cf3406b42c",
+              "format": "7\" Vinyl",
+              "disc-count": 0,
+              "track-count": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "lower-middle-35",
+    "catalogue": "WGS 8196",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22WGS+8196%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:28:59.385Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  },
+  {
+    "id": "lower-middle-36",
+    "catalogue": "S 37020",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22S+37020%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:01.071Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  },
+  {
+    "id": "lower-middle-37",
+    "catalogue": "WGS 8203",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22WGS+8203%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:03.732Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  },
+  {
+    "id": "lower-middle-38",
+    "catalogue": "CSA 2249",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22CSA+2249%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:05.339Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  },
+  {
+    "id": "lower-middle-43",
+    "catalogue": "WGS 8163",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22WGS+8163%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:07.002Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  },
+  {
+    "id": "lower-middle-45",
+    "catalogue": "SQN 7765",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22SQN+7765%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:08.619Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  },
+  {
+    "id": "lower-middle-51",
+    "catalogue": "M 30241",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22M+30241%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:10.347Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  },
+  {
+    "id": "lower-middle-52",
+    "catalogue": "HM 52",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22HM+52%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:12.121Z",
+      "count": 2,
+      "offset": 0,
+      "releases": [
+        {
+          "id": "180052be-14b0-43b9-acc0-383ccbd7fc72",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+          "artist-credit-id": "cdb53d20-1838-3322-8aed-8929173420a5",
+          "count": 1,
+          "title": "Bright😭😷psychic 😍👌tunnel girl break💔no wire no plan 💯🙅😭👎🙅☝️ noprophet🚫💔🔓💯👿👎👪 no balance 🙅🚫💯🙅👧👩 no male 🚫🙅💯nofemale🚺🚹🚫👎",
+          "status": "Official",
+          "packaging": "None",
+          "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "The Psychic Tunnel",
+              "artist": {
+                "id": "e37e4dc3-1850-465d-9cb9-b808d8217946",
+                "name": "The Psychic Tunnel",
+                "sort-name": "The Psychic Tunnel"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7e8f4173-c067-4ac2-943c-7bdf065ac9fb",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Bright😭😷psychic 😍👌tunnel girl break💔no wire no plan 💯🙅😭👎🙅☝️ noprophet🚫💔🔓💯👿👎👪 no balance 🙅🚫💯🙅👧👩 no male 🚫🙅💯nofemale🚺🚹🚫👎",
+            "primary-type": "EP"
+          },
+          "date": "2019-05-04",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-05-04",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "barcode": "",
+          "label-info": [
+            {
+              "catalog-number": "HM_52",
+              "label": {
+                "id": "299f06fb-2564-46c6-bd87-d1fef3578782",
+                "name": "HM Records"
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "ecff422d-374a-3fcb-bb29-c8f14c745ac1",
+              "format": "Digital Media",
+              "disc-count": 0,
+              "track-count": 3
+            }
+          ]
+        },
+        {
+          "id": "b21f1cc1-60b5-4cb3-ba42-cabd99fe544d",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "eddf68db-58c6-3df9-b2a1-16d72977ab93",
+          "count": 1,
+          "title": "Bygone Days",
+          "status": "Official",
+          "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "P. J. Murrihy",
+              "artist": {
+                "id": "f4f79d10-49d6-4afa-a175-1bb66a9d9de4",
+                "name": "P. J. Murrihy",
+                "sort-name": "Murrihy, P. J."
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ff2bc069-b45f-4685-ab8d-cd9f7de1d28b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bygone Days",
+            "primary-type": "Album"
+          },
+          "date": "1989",
+          "country": "IE",
+          "release-events": [
+            {
+              "date": "1989",
+              "area": {
+                "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                "name": "Ireland",
+                "sort-name": "Ireland",
+                "iso-3166-1-codes": [
+                  "IE"
+                ]
+              }
+            }
+          ],
+          "barcode": "5099458005212",
+          "label-info": [
+            {
+              "catalog-number": "HM 52",
+              "label": {
+                "id": "ed5bbd9f-f03f-4f64-a364-e269a60441ab",
+                "name": "Harmac Records"
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "5d70eaca-262c-39f9-9ece-e7c2172ddc03",
+              "format": "12\" Vinyl",
+              "disc-count": 0,
+              "track-count": 14
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "lower-middle-54",
+    "catalogue": "S 37277",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22S+37277%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:13.734Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  },
+  {
+    "id": "lower-middle-58",
+    "catalogue": "XMS 5823",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22XMS+5823%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:15.355Z",
+      "count": 1,
+      "offset": 0,
+      "releases": [
+        {
+          "id": "be4af83f-41f9-4eb5-8125-04aa74bf2f7d",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "5ad691af-4c52-338e-923e-3dda40c1f3d4",
+          "count": 1,
+          "title": "Christmas Album",
+          "status": "Official",
+          "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "Boney M.",
+              "artist": {
+                "id": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
+                "name": "Boney M.",
+                "sort-name": "Boney M."
+              }
+            }
+          ],
+          "release-group": {
+            "id": "33c617fe-37bd-311f-94d0-f4bf29907832",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Christmas Album",
+            "primary-type": "Album"
+          },
+          "date": "1981",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1981",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "label-info": [
+            {
+              "catalog-number": "XMS 5823",
+              "label": {
+                "id": "50c384a2-0b44-401b-b893-8181173339c7",
+                "name": "Atlantic"
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "f0635370-5d0e-388e-a36a-330980ad6f8e",
+              "format": "12\" Vinyl",
+              "disc-count": 0,
+              "track-count": 12
+            }
+          ],
+          "tags": [
+            {
+              "count": 1,
+              "name": "rock"
+            },
+            {
+              "count": 1,
+              "name": "electronic"
+            },
+            {
+              "count": 1,
+              "name": "pop"
+            },
+            {
+              "count": 1,
+              "name": "disco"
+            },
+            {
+              "count": 1,
+              "name": "holiday"
+            },
+            {
+              "count": 2,
+              "name": "christmas music"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "lower-middle-63",
+    "catalogue": "BSK 3212",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22BSK+3212%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:17.002Z",
+      "count": 2,
+      "offset": 0,
+      "releases": [
+        {
+          "id": "b966b0ad-31b0-4144-92f2-f7e7aa110546",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e81dc271-e0bc-30be-8b32-55987f03965c",
+          "count": 1,
+          "title": "Wavelength",
+          "status": "Official",
+          "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "Van Morrison",
+              "artist": {
+                "id": "a41ac10f-0a56-4672-9161-b83f9b223559",
+                "name": "Van Morrison",
+                "sort-name": "Morrison, Van"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cb5a7ce8-8ddd-3b0f-ae06-7f87629398d1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Wavelength",
+            "primary-type": "Album"
+          },
+          "date": "1978",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1978",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "label-info": [
+            {
+              "catalog-number": "BSK 3212",
+              "label": {
+                "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+                "name": "Warner Bros. Records"
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "a47adbbb-0dd9-3b24-93a9-ab6920c616f4",
+              "format": "12\" Vinyl",
+              "disc-count": 0,
+              "track-count": 9
+            }
+          ]
+        },
+        {
+          "id": "8485e4fb-b7b3-4409-a1cf-99c130d6637a",
+          "score": 100,
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+          "artist-credit-id": "e81dc271-e0bc-30be-8b32-55987f03965c",
+          "count": 1,
+          "title": "Wavelength",
+          "status": "Official",
+          "packaging": "Cardboard/Paper Sleeve",
+          "text-representation": {
+            "language": "eng",
+            "script": "Latn"
+          },
+          "artist-credit": [
+            {
+              "name": "Van Morrison",
+              "artist": {
+                "id": "a41ac10f-0a56-4672-9161-b83f9b223559",
+                "name": "Van Morrison",
+                "sort-name": "Morrison, Van"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cb5a7ce8-8ddd-3b0f-ae06-7f87629398d1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Wavelength",
+            "primary-type": "Album"
+          },
+          "date": "1978",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1978",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "barcode": "",
+          "label-info": [
+            {
+              "catalog-number": "BSK 3212",
+              "label": {
+                "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+                "name": "Warner Bros. Records"
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "389ae0b3-c865-3624-a8d7-09b3e7e5294c",
+              "format": "12\" Vinyl",
+              "disc-count": 0,
+              "track-count": 9
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "upper-middle-02",
+    "catalogue": "PS 669",
+    "url": "https://musicbrainz.org/ws/2/release?query=catno%3A%22PS+669%22&fmt=json&limit=8",
+    "data": {
+      "created": "2026-10-13T02:29:18.699Z",
+      "count": 0,
+      "offset": 0,
+      "releases": []
+    }
+  }
+]

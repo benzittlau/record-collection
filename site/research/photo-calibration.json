@@ -1,0 +1,67 @@
+{
+  "coordinateSystem": "EXIF-oriented original image pixels, origin at top left; x right, y down",
+  "sourceWidth": 4032,
+  "sourceHeight": 3024,
+  "cornerOrder": ["top-left", "top-right", "bottom-right", "bottom-left"],
+  "orientationNote": "These coordinates refer to the photos as a browser displays them after applying EXIF orientation. For canvas/Pillow processing, apply EXIF transpose first. Do not use the un-oriented raw JPEG pixel order.",
+  "estimatedVisibleCornerErrorPx": 10,
+  "boxes": {
+    "upper-left": {
+      "photo": "IMG_3569.jpg",
+      "frontQuad": [[375,124],[3386,207],[3154,2698],[721,2936]],
+      "openingQuad": [[435,183],[3338,257],[3118,2666],[763,2900]],
+      "compartmentCount": 3,
+      "completeFrontVisible": true,
+      "exclude": "Everything outside frontQuad, including the left exterior side panel, neighbouring box at right, the lower box's top surface below, and turntable/background above.",
+      "notes": "Front white frame is the narrow coplanar rim. The interior left/right wall and bottom shelf remain photographed depth cues inside openingQuad; do not use them to set the front plane corners. Outer bottom-right corrected to exclude shadow below the frame."
+    },
+    "lower-left": {
+      "photo": "IMG_3571.jpg",
+      "frontQuad": [[379,75],[3900,151],[3254,2762],[882,2730]],
+      "openingQuad": [[441,150],[3820,212],[3219,2734],[914,2704]],
+      "compartmentCount": 3,
+      "completeFrontVisible": true,
+      "exclude": "Upper box and its bottom front edge at the top of the image; grey exterior side at left; floor outside left, right and bottom of the quad.",
+      "notes": "Top white front rail is slightly occluded by the upper box overhang near centre/right. Use the lower rail's own edge, rather than the overlapping upper box. Bottom edge is nearly level and slopes down slightly toward right."
+    },
+    "upper-middle": {
+      "photo": "IMG_3570.jpg",
+      "frontQuad": [[425,145],[3214,319],[3006,2686],[635,2866]],
+      "openingQuad": [[477,206],[3173,363],[2978,2652],[675,2832]],
+      "compartmentCount": 2,
+      "completeFrontVisible": true,
+      "exclude": "Turntable/background above; neighbouring furniture at left; wall/outlet at right; especially the lower box's top surface protruding to the right/below the photographed upper box.",
+      "notes": "One physical central divider. Bottom-right is approximately [3006,2686], not the lower box's protruding top corner near [3170,2670]. This distinction materially improves the projection crop."
+    },
+    "lower-middle": {
+      "photo": "IMG_3572.jpg",
+      "frontQuad": [[419,278],[3703,337],[3231,2721],[896,3158]],
+      "openingQuad": [[499,329],[3650,387],[3198,2690],[942,3121]],
+      "visibleFrontPolygon": [[419,278],[3703,337],[3231,2721],[1617,3024],[868,3024]],
+      "compartmentCount": 1,
+      "completeFrontVisible": false,
+      "extrapolatedCorners": ["frontQuad.bottom-left", "openingQuad.bottom-left"],
+      "extrapolatedCornerErrorPx": 25,
+      "exclude": "Upper box at top, outlet/background to right, floor to left/right. The missing lower-left frame corner is outside the image, so never stretch the nearest visible image corner to stand in for it.",
+      "notes": "This close-up clips the lower-left frame corner. Outer corner is extrapolated to y3158, 134px beyond the 3024px image height. Measured outer left edge points x730@y2200, x764@y2400, x799@y2600, x834@y2800, x869@y3000; measured bottom edge points y2933@x2100, y2897@x2300, y2860@x2500, y2823@x2700, y2784@x2900, y2747@x3100. Their fitted intersection is [896,3158]. Keep the generated frame beneath the real projection at the small missing corner, or limit the blend to an inset opening crop."
+    },
+    "right": {
+      "photo": "IMG_3573.jpg",
+      "frontQuad": [[300,188],[3652,269],[3080,2767],[773,2747]],
+      "openingQuad": [[363,254],[3589,334],[3046,2743],[806,2719]],
+      "compartmentCount": 3,
+      "completeFrontVisible": true,
+      "exclude": "Neighbouring box at left, outlet/background above, floor below, dark object at right. The top of the box lies outside the frontQuad and must not be projected onto the front face.",
+      "notes": "All four frame corners visible. The larger record/book sleeves at right are part of the actual collection and should remain included."
+    }
+  },
+  "projectionReview": {
+    "mappingDirection": "Solve the forward homography from oriented source image pixels to destination front-face CSS pixels. CSS matrix3d applies that forward mapping directly; a canvas inverse-sampling implementation needs the inverse instead.",
+    "cssMatrixConvention": "For H=[[a,b,c],[d,e,f],[g,h,1]], CSS column-major matrix3d is [a,d,0,g, b,e,0,h, 0,0,1,0, c,f,0,1]. The image must have transform-origin:0 0 and rendered width/height exactly matching the source coordinate system, or source points must be scaled to the actual rendered image size.",
+    "targetPlane": "Map frontQuad to the generated room's OUTER front-frame quad, not an inner opening quad. Mapping the whole source outer frame to destination inner opening produces oversized rims and a scale jump. Derive the destination opening by applying H to openingQuad.",
+    "cameraConsistency": "Put the projected source image and interactive spine overlays under the same camera parent transform and transform-origin. Do not separately rescale the source photo during camera zoom.",
+    "perspectiveLimitation": "A single homography exactly matches the white coplanar frame. Interior shelves and spines are at different depths, so they cannot all be perfectly reprojected to a new camera angle by one planar transform. Use a modest target perspective close to the original and show the original photo's internal depth cues unchanged.",
+    "lighting": "Original photos are cool/neutral with bright white frames; the generated room is warmer and more directional. Crossfade late in the camera move, apply only a subtle shared warm grade to the photographic layer, and use a narrow edge feather on the rim. Strong filters sacrifice spine readability. Avoid a visibly rectangular photograph panel or frame-sized dark vignette.",
+    "qualityChecks": "Numerically verify all four source corners land within 0.5 CSS pixel of target corners. Use source-natural-size coordinates only once. Check browser zoom, narrow mobile viewport, EXIF orientation, re-open/resize, and clipped lower-middle bottom-left. Compare pulled sleeve/hotspot position with readable physical spine text."
+  }
+}
