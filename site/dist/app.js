@@ -1,4 +1,5 @@
 import {fitHomography,cssProjection,sourceClip,projectPoint} from './photo-projection.js';
+import {projectSpineMasks} from './spine-masks.js';
 const $ = (id) => document.getElementById(id);
 const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -18,11 +19,12 @@ const roomGeometry = {
 };
 let cameraReturnTimer;
 let cameraBase = null, carouselIndex = 0, manualCarouselScroll = false, scrollSettleTimer;
-let records = [], currentBox = null, currentIndex = 0, previewIndex = null, currentView = 'front', lastRoomFocus = null, ignoreJacketClick = false;
+let records = [], currentBox = null, currentIndex = 0, previewIndex = null, previewAnchor = {}, currentView = 'front', lastRoomFocus = null, ignoreJacketClick = false;
 const spotifyIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="currentColor"/><path d="M5 8c5-1.6 10-1.3 14 1M6 12c4-1.2 8-1 12 .8M7 16c3-.7 6-.5 9 .6" fill="none" stroke="#d8e0cb" stroke-width="1.6" stroke-linecap="round"/></svg>';
 const photoCalibrationReady=fetch('box-photos.json?v=2',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+const spineMasksReady=fetch('spine-masks.json?v=2',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 let photoProjectionRequest=0;
-const catalogReady = fetch('catalog.json?v=final-318-263-92',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
+const catalogReady = fetch('catalog.json?v=spine-traces-318-263-92',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
   records = data.records ?? data;
   records = records.map(r => ({...r,cover:r.cover ?? r.coverPath ?? null,back:r.back ?? r.backPath ?? r.backCover ?? null,kind:r.kind ?? 'record'}));
   const identified = records.filter(r => r.confidence === 'confirmed').length;
@@ -199,7 +201,10 @@ function focusCamera(box,list,instant=false){
   const g=roomGeometry[box],rect=getCameraBase(),mobile=innerWidth<=650;
   cameraBase=rect;
   const targetHeight=mobile?Math.min(innerWidth*.97,innerHeight*.48):Math.min(innerHeight*.64,570);
-  const scale=targetHeight/(g.height/948*rect.height);
+  const heightScale=targetHeight/(g.height/948*rect.height);
+  const xs=g.polygon.split(' ').map(point=>Number(point.split(',')[0]));
+  const widthScale=(innerWidth-44)/((Math.max(...xs)-Math.min(...xs))/1659*rect.width);
+  const scale=mobile?Math.min(heightScale,widthScale):heightScale;
   const tx=innerWidth*(mobile?.5:.44)-g.center[0]/1659*rect.width*scale;
   const ty=innerHeight*(mobile?.38:.45)-g.center[1]/948*rect.height*scale;
   const fp=$('focus-plane'),sp=$('spine-layer'),p=$('scene-plane');
@@ -220,7 +225,7 @@ function focusCamera(box,list,instant=false){
   if(instant)move();else requestAnimationFrame(move);
 }
 returnCameraToRoom(true);
-function buildSpines(list,face){
+function buildSpines(list,face,traced=new Map()){
   const svg=$('spine-layer');svg.replaceChildren();const [tl,tr,br,bl]=face;
   const lerp=(a,b,t)=>[a[0]+(b[0]-a[0])*t,a[1]+(b[1]-a[1])*t];
   const compartmentCount=list[0]?.compartmentCount||3;
@@ -230,7 +235,9 @@ function buildSpines(list,face){
   const positions=Array(compartmentCount).fill(0);
   list.forEach((r,i)=>{const c=compartmentOf(r),local=positions[c],weight=weightOf(r),count=weights[c]||1;positions[c]+=weight;
     const a=c/compartmentCount+.009+(local/count)*(1/compartmentCount-.018),b=c/compartmentCount+.009+((local+weight)/count)*(1/compartmentCount-.018);
-    const poly=document.createElementNS('http://www.w3.org/2000/svg','polygon');poly.setAttribute('points',[lerp(tl,tr,a),lerp(tl,tr,b),lerp(bl,br,b),lerp(bl,br,a)].map(p=>p.join(',')).join(' '));poly.setAttribute('class',`spine-hit${i===currentIndex?' selected-spine':''}`);poly.dataset.index=i;poly.setAttribute('role','button');poly.setAttribute('aria-label',`Pull out ${r.title} by ${r.artist}`);poly.setAttribute('tabindex',i===currentIndex&&!$('box-dialog').classList.contains('album-open')?'0':'-1');
+    const outline=traced.get(r.id),points=outline?.polygon??[lerp(tl,tr,a),lerp(tl,tr,b),lerp(bl,br,b),lerp(bl,br,a)];
+    const anchor=outline?.anchor??[(points[2][0]+points[3][0])/2,(points[2][1]+points[3][1])/2];
+    const poly=document.createElementNS('http://www.w3.org/2000/svg','polygon');poly.setAttribute('points',points.map(p=>p.join(',')).join(' '));poly.setAttribute('class',`spine-hit${i===currentIndex?' selected-spine':''}`);poly.dataset.index=i;poly.dataset.recordId=r.id;poly.dataset.maskSource=outline?'photo':'estimated';poly.dataset.slotAnchor=anchor.join(',');poly.setAttribute('role','button');poly.setAttribute('aria-label',`Pull out ${r.title} by ${r.artist}`);poly.setAttribute('tabindex',i===currentIndex&&!$('box-dialog').classList.contains('album-open')?'0':'-1');
     poly.addEventListener('mouseenter',e=>previewSpine(r,{event:e}));poly.addEventListener('mouseleave',hidePreview);
     poly.addEventListener('focus',()=>previewSpine(r));poly.addEventListener('blur',hidePreview);poly.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openRecord(i);}});poly.addEventListener('click',e=>{e.stopPropagation();openRecord(i);});svg.append(poly);
   });
@@ -241,17 +248,26 @@ function previewSpine(r,anchor={}){
   const card=$('record-preview');card.innerHTML='<div class="preview-art"></div><div class="preview-caption"></div>';
   mountCover(card.querySelector('.preview-art'),r,'front',true);
   card.querySelector('.preview-caption').innerHTML=`<span class="small-label">Sleeve ${r.position} · ${r.confidence==='unknown'?'Unidentified':'Pull out to explore'}</span><strong>${escapeHtml(r.title)}</strong><span>${escapeHtml(r.artist)}</span>`;
+  previewAnchor=anchor;positionPreview();
+  card.classList.add('visible');$('box-dialog').classList.add('has-preview');
+}
+function positionPreview(){
+  const card=$('record-preview'),anchor=previewAnchor;
   const mobile=innerWidth<=650;
   if(mobile){card.style.left='50%';card.style.top='auto';card.style.bottom='132px';card.style.transform='translateX(-50%)';}
   else{
-    const width=220,height=295;let x=innerWidth*.57,y=innerHeight*.32;
+    const width=card.offsetWidth||220,height=card.offsetHeight||295;let x=innerWidth*.57,y=innerHeight*.32;
     if(anchor.event){x=anchor.event.clientX+26;y=anchor.event.clientY-100;}
     if(anchor.element){const rect=anchor.element.getBoundingClientRect();x=rect.left+rect.width/2-width/2;y=rect.top-height-16;}
     if(x+width>innerWidth-25)x=(anchor.event?.clientX||innerWidth)-width-28;
     x=Math.max(24,Math.min(innerWidth-width-24,x));y=Math.max(100,Math.min(innerHeight-height-140,y));
+    const slot=$('spine-layer').querySelector('.spine-slot-marker')?.getBoundingClientRect();
+    if(slot&&x<slot.right+8&&x+width>slot.left-8&&y<slot.bottom+8&&y+height>slot.top-8){
+      const left=slot.left-width-14,right=slot.right+14;
+      if(left>=24)x=left;else if(right+width<=innerWidth-24)x=right;else y=Math.max(100,slot.top-height-14);
+    }
     card.style.left=`${x}px`;card.style.top=`${y}px`;card.style.bottom='auto';card.style.transform='none';
   }
-  card.classList.add('visible');$('box-dialog').classList.add('has-preview');
 }
 function hidePreview(){ previewIndex=null;$('record-preview').classList.remove('visible');$('box-dialog').classList.remove('has-preview');updateSlotMarker(); }
 
@@ -316,14 +332,16 @@ function updateSlotMarker(){
   if(!poly)return;
   let marker=svg.querySelector('.spine-slot-marker');
   if(!marker){marker=document.createElementNS('http://www.w3.org/2000/svg','g');marker.setAttribute('class','spine-slot-marker');marker.setAttribute('aria-hidden','true');marker.innerHTML='<path d="M-3 0 L0 -5 L3 0"/><rect x="-10" y="1" width="20" height="13" rx="2"/><text x="0" y="10"></text>';svg.append(marker);}
-  const points=poly.getAttribute('points').split(' ').map(p=>p.split(',').map(Number)),x=(points[2][0]+points[3][0])/2,y=(points[2][1]+points[3][1])/2;
+  const [x,y]=poly.dataset.slotAnchor.split(',').map(Number);
   marker.setAttribute('transform',`translate(${x} ${y+5})`);marker.querySelector('text').textContent=boxRecords()[index].position;
+  if(previewIndex!==null&&$('record-preview').classList.contains('visible'))positionPreview();
 }
+$('spine-layer').addEventListener('transitionend',e=>{if(e.propertyName==='transform'&&$('box-dialog').classList.contains('has-preview'))positionPreview();});
 
 async function applyBoxPhoto(box,rect,list,preserve=false){
   const request=++photoProjectionRequest,photo=$('box-detail-image');
   if(!preserve){photo.style.transition='none';photo.classList.remove('source-ready');photo.offsetWidth;photo.style.transition='';}
-  const config=await photoCalibrationReady;
+  const [config,masks]=await Promise.all([photoCalibrationReady,spineMasksReady]);
   if(request!==photoProjectionRequest||currentBox!==box||!config?.boxes?.[box])return;
   const calibration=config.boxes[box];
   try{
@@ -335,6 +353,6 @@ async function applyBoxPhoto(box,rect,list,preserve=false){
     photo.onerror=()=>photo.classList.remove('source-ready');
     if(photo.getAttribute('src')!==calibration.path)photo.src=calibration.path;
     else if(photo.complete&&photo.naturalWidth)photo.classList.add('source-ready');
-    if(calibration.openingQuad){const face=calibration.openingQuad.map(p=>projectPoint(h,p));roomGeometry[box].face=face;buildSpines(list,face);updateSlotMarker();}
+    if(calibration.openingQuad){const face=calibration.openingQuad.map(p=>projectPoint(h,p));roomGeometry[box].face=face;const traced=projectSpineMasks(h,masks?.boxes?.[box],calibration.width,calibration.height);buildSpines(list,face,traced);updateSlotMarker();}
   }catch(error){console.warn('Box photograph projection could not load',error.message);}
 }
