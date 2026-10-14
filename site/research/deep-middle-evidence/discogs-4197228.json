@@ -1,0 +1,864 @@
+{
+  "id": 4197228,
+  "status": "Accepted",
+  "year": 1977,
+  "resource_url": "https://api.discogs.com/releases/4197228",
+  "uri": "https://www.discogs.com/release/4197228-Hoyt-Axton-Snowblind-Friend",
+  "artists": [
+    {
+      "name": "Hoyt Axton",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 288390,
+      "resource_url": "https://api.discogs.com/artists/288390",
+      "thumbnail_url": "https://i.discogs.com/62PeGU0-BpjRNC0VKliw6V8AWL1dmofvS_lMjQxaUog/rs:fit/g:sm/q:90/h:584/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4ODM5/MC0xNjUwNDU5NzU4/LTYyNzguanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Hoyt Axton",
+  "labels": [
+    {
+      "name": "MCA Records",
+      "catno": "MCA-2263",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 878,
+      "resource_url": "https://api.discogs.com/labels/878",
+      "thumbnail_url": "https://i.discogs.com/3Oi4E2FXGQ2IRBxJ7uZ5OxM4WQSXkBoqnwf_NYW66RI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg3OC0x/NTkwNjg0OTg1LTQ2/ODYucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "MCA Records (Canada)",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 40780,
+      "resource_url": "https://api.discogs.com/labels/40780",
+      "thumbnail_url": "https://i.discogs.com/Jpc1ssTdPkMaTC6--bZOTHaYzTNbjCvCGhGpQe9Zbfw/rs:fit/g:sm/q:90/h:466/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwNzgw/LTE2MjQxMjU2Mjgt/MjU4OS5qcGVn.jpeg"
+    },
+    {
+      "name": "MCA Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 63704,
+      "resource_url": "https://api.discogs.com/labels/63704",
+      "thumbnail_url": "https://i.discogs.com/QPWjh6iiNARoxC6ZLR4M9qWuhn6F2pyzwxx2_8QZ5hQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYzNzA0/LTE3ODI0MjcwNjgt/ODIzNS5qcGVn.jpeg"
+    },
+    {
+      "name": "MCA Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 63704,
+      "resource_url": "https://api.discogs.com/labels/63704",
+      "thumbnail_url": "https://i.discogs.com/QPWjh6iiNARoxC6ZLR4M9qWuhn6F2pyzwxx2_8QZ5hQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYzNzA0/LTE3ODI0MjcwNjgt/ODIzNS5qcGVn.jpeg"
+    },
+    {
+      "name": "Mountain Madness Studio",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 640536,
+      "resource_url": "https://api.discogs.com/labels/640536"
+    },
+    {
+      "name": "MCA Recording Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 314492,
+      "resource_url": "https://api.discogs.com/labels/314492",
+      "thumbnail_url": "https://i.discogs.com/3oymkvFKXzJeqx_V48rx7awR3IC9cBdAXEjoa4GIkY8/rs:fit/g:sm/q:90/h:600/w:515/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNDQ5/Mi0xNjk2Njk1NTg4/LTk0MjguanBlZw.jpeg"
+    },
+    {
+      "name": "MCA Recording Studios",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 314492,
+      "resource_url": "https://api.discogs.com/labels/314492",
+      "thumbnail_url": "https://i.discogs.com/3oymkvFKXzJeqx_V48rx7awR3IC9cBdAXEjoa4GIkY8/rs:fit/g:sm/q:90/h:600/w:515/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNDQ5/Mi0xNjk2Njk1NTg4/LTk0MjguanBlZw.jpeg"
+    },
+    {
+      "name": "Light Hearted Music Publishing Company",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1593898,
+      "resource_url": "https://api.discogs.com/labels/1593898"
+    },
+    {
+      "name": "Lady Jane Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 297907,
+      "resource_url": "https://api.discogs.com/labels/297907",
+      "thumbnail_url": "https://i.discogs.com/OwZPMwbKifsGCSyLgEkIYx6lcAxiMD5Ov_SbGHccFuo/rs:fit/g:sm/q:90/h:134/w:428/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5Nzkw/Ny0xNjcwNTk5MTY1/LTUyODUuanBlZw.jpeg"
+    },
+    {
+      "name": "United Artists Music Co., Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 282829,
+      "resource_url": "https://api.discogs.com/labels/282829",
+      "thumbnail_url": "https://i.discogs.com/4ZkySPxhYRFJPe5motOo9R64E8DOJA_ZNBrOHMMO6UU/rs:fit/g:sm/q:90/h:274/w:548/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4Mjgy/OS0xNzQ2NTUxODMz/LTU4MDcuanBlZw.jpeg"
+    },
+    {
+      "name": "The New York Times Music Corporation",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 390605,
+      "resource_url": "https://api.discogs.com/labels/390605",
+      "thumbnail_url": "https://i.discogs.com/g1BbZlBto8Emc0wp-SMai_7WXTRW71LeEgoweAZqIrg/rs:fit/g:sm/q:90/h:254/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MDYw/NS0xNjg0NjQ4NjUw/LTcxODkuanBlZw.jpeg"
+    },
+    {
+      "name": "Screen Gems-EMI Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 271521,
+      "resource_url": "https://api.discogs.com/labels/271521",
+      "thumbnail_url": "https://i.discogs.com/oNcSzXGcjlTNaA0PT09jqCMMUDwVRrFKPy15tBKIROo/rs:fit/g:sm/q:90/h:45/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTUy/MS0xNzMxNjcwOTgz/LTQ0NjUuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 199,
+    "want": 8,
+    "rating": {
+      "count": 12,
+      "average": 3.58
+    },
+    "submitter": {
+      "username": "In_It_To_Spin_It",
+      "resource_url": "https://api.discogs.com/users/In_It_To_Spin_It"
+    },
+    "contributors": [
+      {
+        "username": "In_It_To_Spin_It",
+        "resource_url": "https://api.discogs.com/users/In_It_To_Spin_It"
+      },
+      {
+        "username": "Stoof",
+        "resource_url": "https://api.discogs.com/users/Stoof"
+      },
+      {
+        "username": "AndysWax",
+        "resource_url": "https://api.discogs.com/users/AndysWax"
+      },
+      {
+        "username": "Baroq",
+        "resource_url": "https://api.discogs.com/users/Baroq"
+      },
+      {
+        "username": "Jeffco121",
+        "resource_url": "https://api.discogs.com/users/Jeffco121"
+      },
+      {
+        "username": "rush2pin",
+        "resource_url": "https://api.discogs.com/users/rush2pin"
+      },
+      {
+        "username": "data_boy",
+        "resource_url": "https://api.discogs.com/users/data_boy"
+      },
+      {
+        "username": "Pe-Pe",
+        "resource_url": "https://api.discogs.com/users/Pe-Pe"
+      },
+      {
+        "username": "brownjai",
+        "resource_url": "https://api.discogs.com/users/brownjai"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2013-01-15T12:39:19-08:00",
+  "date_changed": "2026-01-12T00:32:56-08:00",
+  "num_for_sale": 3,
+  "lowest_price": 2.79,
+  "master_id": 396377,
+  "master_url": "https://api.discogs.com/masters/396377",
+  "title": "Snowblind Friend",
+  "country": "Canada",
+  "released": "1977",
+  "released_formatted": "1977",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "MCA-2263-A MCA 1205 W-1 \u29c8-\u25a2-\u29c8",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MCA 1206 W-1 MCA-2263-B \u29c8-\u25a2-\u29c8",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP",
+      "description": "Track B3"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=OcMvgzSECuc",
+      "title": "You're The Hangnail In My Life",
+      "description": "Provided to YouTube by Universal Music Group\n\nYou're The Hangnail In My Life \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Woody C. Bowles\nCompose",
+      "duration": 127,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bk9ptHJYYWY",
+      "title": "Little White Moon",
+      "description": "Provided to YouTube by Universal Music Group\n\nLittle White Moon \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Mark Dawson\n\nAuto-generated by YouTu",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=FJqmIFJ5KyM",
+      "title": "Water For My Horses",
+      "description": "Provided to YouTube by Universal Music Group\n\nWater For My Horses \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Hoyt Axton\n\nAuto-generated by YouT",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nlflZyOH5mU",
+      "title": "Funeral Of The King",
+      "description": "Provided to YouTube by Universal Music Group\n\nFuneral Of The King \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Hoyt Axton\n\nAuto-generated by YouT",
+      "duration": 181,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZDJd0M86ibA",
+      "title": "I Light This Candle",
+      "description": "Provided to YouTube by Universal Music Group\n\nI Light This Candle \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Hoyt Axton\nComposer  Lyricist: Nic",
+      "duration": 195,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j8EeJncGhkY",
+      "title": "Never Been To Spain",
+      "description": "Provided to YouTube by Universal Music Group\n\nNever Been To Spain \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Hoyt Wayne Axton\n\nAuto-generated b",
+      "duration": 157,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=R3UIz1YfKVg",
+      "title": "You Taught Me How To Cry",
+      "description": "Provided to YouTube by Universal Music Group\n\nYou Taught Me How To Cry \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Hoyt Axton\n\nAuto-generated by",
+      "duration": 200,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HOIgo9rEjDE",
+      "title": "Snowblind Friend",
+      "description": "Provided to YouTube by Universal Music Group\n\nSnowblind Friend \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Hoyt Axton\n\nAuto-generated by YouTube",
+      "duration": 177,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7501auhzL-4",
+      "title": "Poncho And Lefty",
+      "description": "Provided to YouTube by Universal Music Group\n\nPoncho And Lefty \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Townes Van Zandt\n\nAuto-generated by Y",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pmc3-yxBjD4",
+      "title": "Seven Come",
+      "description": "Provided to YouTube by Universal Music Group\n\nSeven Come \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Hoyt Axton\n\nAuto-generated by YouTube.",
+      "duration": 149,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bW1LF6wS3Lc",
+      "title": "I Don't Know Why I Love You",
+      "description": "Provided to YouTube by Universal Music Group\n\nI Don't Know Why I Love You \u00b7 Hoyt Axton\n\nSnowblind Friend\n\n\u2117 A Geffen Records Release; \u2117 1977 UMG Recordings, Inc.\n\nReleased on: 1977-01-01\n\nProducer: Hoyt Axton\nComposer  Lyricist: Mark Dawson\n\nAuto-generate",
+      "duration": 203,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Folk"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "You're The Hangnail In My Life",
+      "extraartists": [
+        {
+          "name": "Jeff Baxter",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Acoustic Guitar",
+          "tracks": "",
+          "id": 336761,
+          "resource_url": "https://api.discogs.com/artists/336761"
+        },
+        {
+          "name": "Mike Montgomery (6)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3257674,
+          "resource_url": "https://api.discogs.com/artists/3257674"
+        },
+        {
+          "name": "Woody Bowles",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3643280,
+          "resource_url": "https://api.discogs.com/artists/3643280"
+        }
+      ],
+      "duration": "2:03"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Little White Moon",
+      "extraartists": [
+        {
+          "name": "Jeff Baxter",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Acoustic Guitar",
+          "tracks": "",
+          "id": 336761,
+          "resource_url": "https://api.discogs.com/artists/336761"
+        },
+        {
+          "name": "Jim Messina",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Acoustic Guitar",
+          "tracks": "",
+          "id": 343371,
+          "resource_url": "https://api.discogs.com/artists/343371"
+        },
+        {
+          "name": "Mark Dawson (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1190523,
+          "resource_url": "https://api.discogs.com/artists/1190523"
+        }
+      ],
+      "duration": "2:40"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Water For My Horses",
+      "extraartists": [
+        {
+          "name": "Mimi Farina",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 624467,
+          "resource_url": "https://api.discogs.com/artists/624467"
+        },
+        {
+          "name": "Hoyt Axton",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288390,
+          "resource_url": "https://api.discogs.com/artists/288390"
+        }
+      ],
+      "duration": "3:06"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Funeral Of The King",
+      "extraartists": [
+        {
+          "name": "Byron Berline",
+          "anv": "",
+          "join": "",
+          "role": "Mandolin, Fiddle",
+          "tracks": "",
+          "id": 255181,
+          "resource_url": "https://api.discogs.com/artists/255181"
+        },
+        {
+          "name": "Mark Dawson (4)",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Duet]",
+          "tracks": "",
+          "id": 1190523,
+          "resource_url": "https://api.discogs.com/artists/1190523"
+        },
+        {
+          "name": "Hoyt Axton",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288390,
+          "resource_url": "https://api.discogs.com/artists/288390"
+        }
+      ],
+      "duration": "2:57"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "I Light This Candle",
+      "extraartists": [
+        {
+          "name": "Jim Messina",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Acoustic Guitar",
+          "tracks": "",
+          "id": 343371,
+          "resource_url": "https://api.discogs.com/artists/343371"
+        },
+        {
+          "name": "Hoyt Axton",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288390,
+          "resource_url": "https://api.discogs.com/artists/288390"
+        },
+        {
+          "name": "Nicolette Larson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 249839,
+          "resource_url": "https://api.discogs.com/artists/249839"
+        }
+      ],
+      "duration": "3:12"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Never Been To Spain",
+      "extraartists": [
+        {
+          "name": "Jeff Baxter",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Acoustic Guitar",
+          "tracks": "",
+          "id": 336761,
+          "resource_url": "https://api.discogs.com/artists/336761"
+        },
+        {
+          "name": "Hoyt Axton",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288390,
+          "resource_url": "https://api.discogs.com/artists/288390"
+        }
+      ],
+      "duration": "2:33"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "You Taught Me How To Cry",
+      "extraartists": [
+        {
+          "name": "Tanya Tucker",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Duet]",
+          "tracks": "",
+          "id": 357985,
+          "resource_url": "https://api.discogs.com/artists/357985"
+        },
+        {
+          "name": "Hoyt Axton",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288390,
+          "resource_url": "https://api.discogs.com/artists/288390"
+        }
+      ],
+      "duration": "3:17"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Snowblind Friend",
+      "extraartists": [
+        {
+          "name": "Jeff Baxter",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Acoustic Guitar",
+          "tracks": "",
+          "id": 336761,
+          "resource_url": "https://api.discogs.com/artists/336761"
+        },
+        {
+          "name": "Pierre La Porte",
+          "anv": "",
+          "join": "",
+          "role": "Harp [Echo]",
+          "tracks": "",
+          "id": 5421750,
+          "resource_url": "https://api.discogs.com/artists/5421750"
+        },
+        {
+          "name": "Hoyt Axton",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288390,
+          "resource_url": "https://api.discogs.com/artists/288390"
+        }
+      ],
+      "duration": "2:54"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Poncho And Lefty",
+      "extraartists": [
+        {
+          "name": "Byron Berline",
+          "anv": "",
+          "join": "",
+          "role": "Mandolin, Fiddle",
+          "tracks": "",
+          "id": 255181,
+          "resource_url": "https://api.discogs.com/artists/255181"
+        },
+        {
+          "name": "Townes Van Zandt",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 274324,
+          "resource_url": "https://api.discogs.com/artists/274324"
+        }
+      ],
+      "duration": "3:06"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Seven Come",
+      "extraartists": [
+        {
+          "name": "Jeff Baxter",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Acoustic Guitar",
+          "tracks": "",
+          "id": 336761,
+          "resource_url": "https://api.discogs.com/artists/336761"
+        },
+        {
+          "name": "Hoyt Axton",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288390,
+          "resource_url": "https://api.discogs.com/artists/288390"
+        }
+      ],
+      "duration": "2:26"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "I Don't Know Why I Love You",
+      "extraartists": [
+        {
+          "name": "Bambi Roberts",
+          "anv": "Bambi",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2354034,
+          "resource_url": "https://api.discogs.com/artists/2354034"
+        },
+        {
+          "name": "Claudia Darling",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 5421749,
+          "resource_url": "https://api.discogs.com/artists/5421749"
+        },
+        {
+          "name": "Jack Skinner (2)",
+          "anv": "The Coyote",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2144887,
+          "resource_url": "https://api.discogs.com/artists/2144887"
+        },
+        {
+          "name": "Judi Kriss",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3642971,
+          "resource_url": "https://api.discogs.com/artists/3642971"
+        },
+        {
+          "name": "Jeff Baxter",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Acoustic Guitar",
+          "tracks": "",
+          "id": 336761,
+          "resource_url": "https://api.discogs.com/artists/336761"
+        },
+        {
+          "name": "Mark Dawson (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1190523,
+          "resource_url": "https://api.discogs.com/artists/1190523"
+        }
+      ],
+      "duration": "3:23"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Alan Thornhill",
+      "anv": "",
+      "join": "",
+      "role": "Acoustic Guitar, Electric Guitar, Percussion [Sesame Seed Shaker]",
+      "tracks": "",
+      "id": 2622236,
+      "resource_url": "https://api.discogs.com/artists/2622236"
+    },
+    {
+      "name": "Jana Lee Dare",
+      "anv": "Jana Lee",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 1302880,
+      "resource_url": "https://api.discogs.com/artists/1302880"
+    },
+    {
+      "name": "Kathy Ward (2)",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 2314749,
+      "resource_url": "https://api.discogs.com/artists/2314749"
+    },
+    {
+      "name": "Shandi Sinnamon",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 538255,
+      "resource_url": "https://api.discogs.com/artists/538255"
+    },
+    {
+      "name": "Jack Skinner (2)",
+      "anv": "Jack (Coyote) Skinner",
+      "join": "",
+      "role": "Bass, Acoustic Guitar, Percussion [Barley Shaker]",
+      "tracks": "",
+      "id": 2144887,
+      "resource_url": "https://api.discogs.com/artists/2144887"
+    },
+    {
+      "name": "Gary Wattman",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 3649064,
+      "resource_url": "https://api.discogs.com/artists/3649064"
+    },
+    {
+      "name": "Jerry Hall (2)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 636949,
+      "resource_url": "https://api.discogs.com/artists/636949"
+    },
+    {
+      "name": "Terry Brown (9)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant Mixdown]",
+      "tracks": "",
+      "id": 2880173,
+      "resource_url": "https://api.discogs.com/artists/2880173"
+    },
+    {
+      "name": "Mark Dawson (4)",
+      "anv": "",
+      "join": "",
+      "role": "Harmonica, Acoustic Guitar, Backing Vocals",
+      "tracks": "",
+      "id": 1190523,
+      "resource_url": "https://api.discogs.com/artists/1190523"
+    },
+    {
+      "name": "Bambi Roberts",
+      "anv": "Donna (Bambi) Roberts",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 2354034,
+      "resource_url": "https://api.discogs.com/artists/2354034"
+    },
+    {
+      "name": "Hoyt Axton",
+      "anv": "",
+      "join": "",
+      "role": "Lead Vocals, Acoustic Guitar",
+      "tracks": "",
+      "id": 288390,
+      "resource_url": "https://api.discogs.com/artists/288390"
+    },
+    {
+      "name": "Pete Grant",
+      "anv": "",
+      "join": "",
+      "role": "Pedal Steel Guitar, Dobro, Autoharp",
+      "tracks": "",
+      "id": 1288237,
+      "resource_url": "https://api.discogs.com/artists/1288237"
+    },
+    {
+      "name": "John Blakemore",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Cover]",
+      "tracks": "",
+      "id": 3642970,
+      "resource_url": "https://api.discogs.com/artists/3642970"
+    },
+    {
+      "name": "Steve Smith (49)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Liner]",
+      "tracks": "",
+      "id": 2237854,
+      "resource_url": "https://api.discogs.com/artists/2237854"
+    },
+    {
+      "name": "Hoyt Axton",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 288390,
+      "resource_url": "https://api.discogs.com/artists/288390"
+    },
+    {
+      "name": "Judi Kriss",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Assistant]",
+      "tracks": "",
+      "id": 3642971,
+      "resource_url": "https://api.discogs.com/artists/3642971"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/gis0IOOfZVeRuPFwty8aYzv8_3ZwLJvs5-LtE6j4Ht4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTQ3MTI2NTEw/OS03MzM3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/gis0IOOfZVeRuPFwty8aYzv8_3ZwLJvs5-LtE6j4Ht4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTQ3MTI2NTEw/OS03MzM3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/RM2ZswKftTvf4Jdjrmj9bt93ZSv02qL_OtiAffKztfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTQ3MTI2NTEw/OS03MzM3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2uPaYbc4q2HuIZonm3paEgnPV5TzkJKH2JPEa5UkJok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTQ3MTI2NTEw/OC04MDI0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/2uPaYbc4q2HuIZonm3paEgnPV5TzkJKH2JPEa5UkJok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTQ3MTI2NTEw/OC04MDI0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/0hRHAawqsOSvKKzSDO2gBUFlaIWI8pxXrZeEA1Cj4Es/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTQ3MTI2NTEw/OC04MDI0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fESRb4Ssp8zNT7OLdnfM2Lub1zHF3Y5fcNRM9MTnE7E/rs:fit/g:sm/q:90/h:432/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTM1ODI4Mjk4/OS03MjExLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/fESRb4Ssp8zNT7OLdnfM2Lub1zHF3Y5fcNRM9MTnE7E/rs:fit/g:sm/q:90/h:432/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTM1ODI4Mjk4/OS03MjExLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ATtk8xSPzDvIEl5jYvqSFt7R09Nxl2A_Su8OwcK_msY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTM1ODI4Mjk4/OS03MjExLmpwZWc.jpeg",
+      "width": 432,
+      "height": 432
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hDRSqQwXzTFG2AykCTeVgsoMjTlPReqcwCTSqDk9qco/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTU3MjcwNjUx/OC04MTgwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/hDRSqQwXzTFG2AykCTeVgsoMjTlPReqcwCTSqDk9qco/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTU3MjcwNjUx/OC04MTgwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/liVuNdy9NDVRJJ9frhyivqzyZ4l9aRu4KYPLGcRdD1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTU3MjcwNjUx/OC04MTgwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 593
+    }
+  ],
+  "thumb": "https://i.discogs.com/RM2ZswKftTvf4Jdjrmj9bt93ZSv02qL_OtiAffKztfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTQ3MTI2NTEw/OS03MzM3LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

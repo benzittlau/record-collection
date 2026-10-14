@@ -1,0 +1,100 @@
+{
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "status": "Official",
+  "country": "US",
+  "disambiguation": "",
+  "asin": null,
+  "cover-art-archive": {
+    "count": 1,
+    "back": false,
+    "front": true,
+    "artwork": true,
+    "darkened": false
+  },
+  "title": "Squeezing Out Sparks",
+  "quality": "normal",
+  "barcode": "",
+  "packaging": "Cardboard/Paper Sleeve",
+  "label-info": [
+    {
+      "catalog-number": "AB 4223",
+      "label": {
+        "type": "Imprint",
+        "sort-name": "Arista",
+        "label-code": 3484,
+        "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+        "id": "c62e3985-6370-446a-bfb8-f1f6122e9c33",
+        "name": "Arista",
+        "disambiguation": "American label owned by Sony Music Entertainment"
+      }
+    }
+  ],
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "name": "Graham Parker & The Rumour",
+      "artist": {
+        "sort-name": "Parker, Graham & The Rumour",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Graham Parker & The Rumour",
+        "id": "c4e861e5-42d5-4d9c-ac84-4862ed12f585"
+      }
+    }
+  ],
+  "media": [
+    {
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "track-count": 10,
+      "title": "",
+      "id": "b4ce9e57-3621-33c8-a50f-68cb7ccc7a64",
+      "format": "12\" Vinyl",
+      "position": 1
+    }
+  ],
+  "relations": [
+    {
+      "type": "discogs",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.discogs.com/release/1393317",
+        "id": "a033dcb9-3df7-420e-a91e-6378fd984175"
+      },
+      "target-credit": "",
+      "end": null,
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "url",
+      "attribute-values": {}
+    }
+  ],
+  "id": "ae841b53-62e8-42c7-8afd-b64c71ffefde",
+  "release-events": [
+    {
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "name": "United States",
+        "disambiguation": "",
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "US"
+        ],
+        "type": null,
+        "sort-name": "United States"
+      },
+      "date": "1979-03"
+    }
+  ],
+  "date": "1979-03"
+}

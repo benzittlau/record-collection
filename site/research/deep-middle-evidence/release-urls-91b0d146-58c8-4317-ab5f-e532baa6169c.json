@@ -1,0 +1,118 @@
+{
+  "disambiguation": "",
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "artist-credit": [
+    {
+      "name": "Audience",
+      "joinphrase": "",
+      "artist": {
+        "name": "Audience",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "sort-name": "Audience",
+        "disambiguation": "UK art rock/prog rock band",
+        "id": "9e7b854c-c8af-4883-a7e4-d36a779c4421"
+      }
+    }
+  ],
+  "asin": "B000024XDE",
+  "country": "GB",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "title": "Lunch",
+  "packaging": "Cardboard/Paper Sleeve",
+  "media": [
+    {
+      "track-count": 10,
+      "position": 1,
+      "id": "3aed37e7-42c3-34f0-96d6-14e75dcc0bd9",
+      "format": "12\" Vinyl",
+      "title": "",
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+    }
+  ],
+  "quality": "normal",
+  "label-info": [
+    {
+      "label": {
+        "sort-name": "Charisma",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "label-code": null,
+        "id": "924da91f-86a6-4f15-842f-b9afb645fe5c",
+        "disambiguation": "",
+        "type": "Original Production",
+        "name": "Charisma"
+      },
+      "catalog-number": "CAS 1054"
+    }
+  ],
+  "status": "Official",
+  "id": "91b0d146-58c8-4317-ab5f-e532baa6169c",
+  "relations": [
+    {
+      "direction": "forward",
+      "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+      "url": {
+        "resource": "https://www.amazon.com/gp/product/B000024XDE",
+        "id": "3582e878-62a2-4415-8770-75409f16c4c6"
+      },
+      "target-type": "url",
+      "begin": null,
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "type": "amazon asin",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "url": {
+        "resource": "https://www.discogs.com/release/2233591",
+        "id": "7bea21a3-c66b-46c8-a54b-96a80b23088d"
+      },
+      "target-type": "url",
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "type": "discogs",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {}
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "release-events": [
+    {
+      "date": "1972",
+      "area": {
+        "name": "United Kingdom",
+        "type": null,
+        "type-id": null,
+        "sort-name": "United Kingdom",
+        "disambiguation": "",
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "iso-3166-1-codes": [
+          "GB"
+        ]
+      }
+    }
+  ],
+  "barcode": "",
+  "cover-art-archive": {
+    "front": true,
+    "artwork": true,
+    "count": 1,
+    "back": false,
+    "darkened": false
+  },
+  "date": "1972"
+}

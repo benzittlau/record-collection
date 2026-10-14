@@ -1,0 +1,933 @@
+{
+  "id": 6090306,
+  "status": "Accepted",
+  "year": 1973,
+  "resource_url": "https://api.discogs.com/releases/6090306",
+  "uri": "https://www.discogs.com/release/6090306-Stephen-Stills-Manassas-Down-The-Road",
+  "artists": [
+    {
+      "name": "Stephen Stills",
+      "anv": "",
+      "join": ",",
+      "role": "",
+      "tracks": "",
+      "id": 236968,
+      "resource_url": "https://api.discogs.com/artists/236968",
+      "thumbnail_url": "https://i.discogs.com/u4EjUGmDXuYa9D1uS8YpI-Uv1HYR9RG6DW6qcetz0c4/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzNjk2/OC0xMjk0ODI4MDQ5/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Manassas",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 526826,
+      "resource_url": "https://api.discogs.com/artists/526826",
+      "thumbnail_url": "https://i.discogs.com/PxykUl-0mbPTfbzLdccH-eUDiVGkTikZKU2i2LtJcZM/rs:fit/g:sm/q:90/h:428/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyNjgy/Ni0xNjgwNTI5MjE4/LTkwMDkuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Stephen Stills, Manassas",
+  "labels": [
+    {
+      "name": "Atlantic",
+      "catno": "SD 7250",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 681,
+      "resource_url": "https://api.discogs.com/labels/681",
+      "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Atlantic Recording Corporation",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 23937,
+      "resource_url": "https://api.discogs.com/labels/23937",
+      "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+    },
+    {
+      "name": "Atlantic Recording Corporation",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 23937,
+      "resource_url": "https://api.discogs.com/labels/23937",
+      "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+    },
+    {
+      "name": "Gold Hill Enterprises Inc.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 640361,
+      "resource_url": "https://api.discogs.com/labels/640361"
+    },
+    {
+      "name": "Criteria Recording Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 269412,
+      "resource_url": "https://api.discogs.com/labels/269412",
+      "thumbnail_url": "https://i.discogs.com/mXg2wEwOwICm3wjhw9qGdCoPtqOiXznmRWLfgWoDn2c/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTQx/Mi0xNjIzOTE2OTI1/LTg2ODQuanBlZw.jpeg"
+    },
+    {
+      "name": "Caribou Ranch",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 271382,
+      "resource_url": "https://api.discogs.com/labels/271382",
+      "thumbnail_url": "https://i.discogs.com/zGlx1akWoWAVLIuGBW_buJNAOjUODmm4986qQ_JpEMU/rs:fit/g:sm/q:90/h:403/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTM4/Mi0xNDkyMTAyOTgy/LTI3MDAuanBlZw.jpeg"
+    },
+    {
+      "name": "Record Plant, Los Angeles",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 304319,
+      "resource_url": "https://api.discogs.com/labels/304319",
+      "thumbnail_url": "https://i.discogs.com/LLydeqd2WB6jXG6OABBkFMMrbbqIdDVIpSzaaYGD1qY/rs:fit/g:sm/q:90/h:252/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNDMx/OS0xNjQ1MjMzMjE0/LTkxODcuanBlZw.jpeg"
+    },
+    {
+      "name": "Atlantic Studios",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 264584,
+      "resource_url": "https://api.discogs.com/labels/264584",
+      "thumbnail_url": "https://i.discogs.com/p0I8ehlfTm_iEWWkwO9YhR1Ee5FTLfoVLkTXrQWY9SI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDU4/NC0xNjYzMzQxMzg4/LTE1NTMuanBlZw.jpeg"
+    },
+    {
+      "name": "Artisan Sound Recorders",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 267310,
+      "resource_url": "https://api.discogs.com/labels/267310",
+      "thumbnail_url": "https://i.discogs.com/cC642yFOUYkhedsG2ga2aJbls_pKHjleXiAyzOV1VR4/rs:fit/g:sm/q:90/h:147/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzMx/MC0xNjQ3NTU4OTM3/LTU4ODAuanBlZw.jpeg"
+    },
+    {
+      "name": "PRC Recording Company, Richmond, IN",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 408779,
+      "resource_url": "https://api.discogs.com/labels/408779",
+      "thumbnail_url": "https://i.discogs.com/FQZuQRqu9p9-JSdXLjKvxsq_6h7eoUod-KORnzMudr4/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwODc3/OS0xNjEwODA4MzMz/LTY0MzEuanBlZw.jpeg"
+    },
+    {
+      "name": "Queens Litho",
+      "catno": "",
+      "entity_type": "19",
+      "entity_type_name": "Printed By",
+      "id": 298407,
+      "resource_url": "https://api.discogs.com/labels/298407",
+      "thumbnail_url": "https://i.discogs.com/cptiAUUQtsncyyt8s3I4L-ua2m3a3TNivtUryBjjRGE/rs:fit/g:sm/q:90/h:295/w:461/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5ODQw/Ny0xNjQ4MDA4NTI5/LTI1NjYuanBlZw.jpeg"
+    },
+    {
+      "name": "Atlantic Recording Corporation",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 23937,
+      "resource_url": "https://api.discogs.com/labels/23937",
+      "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+    },
+    {
+      "name": "Gold Hill Music, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 915126,
+      "resource_url": "https://api.discogs.com/labels/915126",
+      "thumbnail_url": "https://i.discogs.com/p9mYGYmcZ_K0qx6XtA5mhkG4jTzT50WQcZ_mZ42lXS0/rs:fit/g:sm/q:90/h:82/w:174/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxNTEy/Ni0xNjY0NTYxMzQz/LTk0NDAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "RI - PRC Richmond Press"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 812,
+    "want": 77,
+    "rating": {
+      "count": 55,
+      "average": 4.0
+    },
+    "submitter": {
+      "username": "Showbiz_Kid",
+      "resource_url": "https://api.discogs.com/users/Showbiz_Kid"
+    },
+    "contributors": [
+      {
+        "username": "Showbiz_Kid",
+        "resource_url": "https://api.discogs.com/users/Showbiz_Kid"
+      },
+      {
+        "username": "RLMetheny",
+        "resource_url": "https://api.discogs.com/users/RLMetheny"
+      },
+      {
+        "username": "OneEyedWilly",
+        "resource_url": "https://api.discogs.com/users/OneEyedWilly"
+      },
+      {
+        "username": "Cornbread55",
+        "resource_url": "https://api.discogs.com/users/Cornbread55"
+      },
+      {
+        "username": "hols_der_geier",
+        "resource_url": "https://api.discogs.com/users/hols_der_geier"
+      },
+      {
+        "username": "Bask-n-Roger33Record",
+        "resource_url": "https://api.discogs.com/users/Bask-n-Roger33Record"
+      },
+      {
+        "username": "Reklein56",
+        "resource_url": "https://api.discogs.com/users/Reklein56"
+      },
+      {
+        "username": "783345records",
+        "resource_url": "https://api.discogs.com/users/783345records"
+      },
+      {
+        "username": "LarsTH",
+        "resource_url": "https://api.discogs.com/users/LarsTH"
+      },
+      {
+        "username": "GParty",
+        "resource_url": "https://api.discogs.com/users/GParty"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2014-09-15T11:33:03-07:00",
+  "date_changed": "2025-04-28T10:17:40-07:00",
+  "num_for_sale": 39,
+  "lowest_price": 1.83,
+  "master_id": 81054,
+  "master_url": "https://api.discogs.com/masters/81054",
+  "title": "Down The Road",
+  "country": "US",
+  "released": "1973",
+  "notes": "[l=PRC Recording Company, Richmond, IN] pressing denoted by \"RI\" suffix in label matrices and original 1841 Broadway address in rimtext. Orange text on front cover. Issued with custom lyric inner sleeve.\n\nProduced for Gold Hill Enterprises, Inc.\nEngineered by Ronald & Howard Albert, Criteria Studios, Miami, Florida; Jeff Guercio, Caribou Ranch, Nederlands, Colorado; Bill Halverson & Malcolm Cecil, Record Plant, Los Angeles, Calif.\nMix-Down Engineering by Ronald & Howard Albert, Stephen Stills & Bill Halverson\n\n\u2117 \u00a9 1973 Atlantic Recording Corporation\nPrinted in U.S.A.\n'Queens Litho in U.S.A' logo on inner sleeve.\n\nLyrics \u00a9 1972 by Gold Hill Music, Inc.\n\nThe Artisan Recorders stamp resembles an LP record with two diagonal strokes forming the shape of an \"A\".",
+  "released_formatted": "1973",
+  "identifiers": [
+    {
+      "type": "Pressing Plant ID",
+      "value": "RI",
+      "description": "Labels"
+    },
+    {
+      "type": "Price Code",
+      "value": "0598",
+      "description": "Spine"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732825RI",
+      "description": "Label A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732826RI",
+      "description": "Label A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732825-C [Artisan Logo] AT  PR D",
+      "description": "Runout A, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732826-C [Artisan Logo] AT  PR D",
+      "description": "Runout B, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732825-CCC-1-11 [Artisan Logo] AT  PR D",
+      "description": "Runout A, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732826-CCC-1-111 [Artisan Logo] AT  PR D",
+      "description": "Runout B, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732825-BBB-1 [Artisan Logo] AT  PR D",
+      "description": "Runout A, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732826-CCC-1 [Artisan Logo] AT  PR D",
+      "description": "Runout B, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732825-CCC-1-111 [Artisan Logo] AT  PR +1 ",
+      "description": "Runout A, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732826-BBB-1 AT D  [Artisan Logo] PR +1",
+      "description": "Runout B, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732825-CCC-1-11 [Artisan Logo] AT D PR +1 ",
+      "description": "Runout A, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732826-CCC-1-111 AT [Artisan Logo] D PR",
+      "description": "Runout B, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732825-B [Artisan Logo] AT PR",
+      "description": "Runout A, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ST-A-732826-B [Artisan Logo] AT PR",
+      "description": "Runout B, variant 6"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=yL4Yef0gsJ8",
+      "title": "Isn't It About Time",
+      "description": "Provided to YouTube by Atlantic Records\n\nIsn't It About Time \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation\n\nBanjo, Guitar: Al Perkins\nPedal Steel Guitar: Al Perkins\nEngineer: Bill Halverson\nMixing Engineer: Bill Halverson\nKeyboard",
+      "duration": 183,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=fKNlljLc4n8",
+      "title": "Lies",
+      "description": "Provided to YouTube by Atlantic Records\n\nLies \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation\n\nBanjo, Guitar: Al Perkins\nPedal Steel Guitar: Al Perkins\nEngineer: Bill Halverson\nMixing Engineer: Bill Halverson\nKeyboards, Vocals: Bobb",
+      "duration": 176,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KwCed0TetBQ",
+      "title": "Pensamiento",
+      "description": "Provided to YouTube by Atlantic Records\n\nPensamiento \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.\n\nBanjo: Al Perkins\nPedal  Steel  Guita",
+      "duration": 157,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0ymV5SzI2ME",
+      "title": "Business on the Street",
+      "description": "Provided to YouTube by Atlantic Records\n\nBusiness on the Street \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.\n\nBanjo: Al Perkins\nPedal  S",
+      "duration": 176,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Rc57jrMjBuA",
+      "title": "So Many Times",
+      "description": "Provided to YouTube by Atlantic Records\n\nSo Many Times \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation\n\nBanjo, Guitar: Al Perkins\nPedal Steel Guitar: Al Perkins\nEngineer: Bill Halverson\nMixing Engineer: Bill Halverson\nKeyboards, Voc",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DHUrnWWlPJ4",
+      "title": "Do You Remember the Americans",
+      "description": "Provided to YouTube by Atlantic Records\n\nDo You Remember the Americans \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation\n\nBanjo, Guitar: Al Perkins\nPedal Steel Guitar: Al Perkins\nEngineer: Bill Halverson\nMixing Engineer: Bill Halverso",
+      "duration": 130,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=egziI41vnAI",
+      "title": "Down the Road",
+      "description": "Provided to YouTube by Atlantic Records\n\nDown the Road \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation\n\nBanjo, Guitar: Al Perkins\nPedal Steel Guitar: Al Perkins\nEngineer: Bill Halverson\nMixing Engineer: Bill Halverson\nKeyboards, Voc",
+      "duration": 198,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hOhCpXvrROI",
+      "title": "City Junkies",
+      "description": "Provided to YouTube by Atlantic Records\n\nCity Junkies \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.\n\nBanjo: Al Perkins\nPedal  Steel  Guit",
+      "duration": 174,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3yP6SnwYBo0",
+      "title": "Guaguanco De Vero",
+      "description": "Provided to YouTube by Atlantic Records\n\nGuaguanco De Vero \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States.\n\nBanjo: Al Perkins\nPedal  Steel ",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JjqqlphQzxg",
+      "title": "Rollin My Stone",
+      "description": "Provided to YouTube by Atlantic Records\n\nRollin My Stone \u00b7 Stephen Stills\n\nDown The Road\n\n\u2117 1973 Atlantic Recording Corporation\n\nBanjo, Guitar: Al Perkins\nPedal Steel Guitar: Al Perkins\nEngineer: Bill Halverson\nMixing Engineer: Bill Halverson\nKeyboards, V",
+      "duration": 287,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Folk Rock",
+    "Blues Rock",
+    "Pop Rock",
+    "Country Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Isn't It About Time",
+      "extraartists": [
+        {
+          "name": "Stephen Stills",
+          "anv": "Stills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968"
+        }
+      ],
+      "duration": "3:02"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Lies",
+      "extraartists": [
+        {
+          "name": "Chris Hillman",
+          "anv": "Hillman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 275406,
+          "resource_url": "https://api.discogs.com/artists/275406"
+        }
+      ],
+      "duration": "2:55"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Pensamiento",
+      "extraartists": [
+        {
+          "name": "Bobby Escoto",
+          "anv": "Escoto",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 914968,
+          "resource_url": "https://api.discogs.com/artists/914968"
+        },
+        {
+          "name": "Stephen Stills",
+          "anv": "Stills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968"
+        }
+      ],
+      "duration": "2:36"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "So Many Times",
+      "extraartists": [
+        {
+          "name": "Chris Hillman",
+          "anv": "Hillman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 275406,
+          "resource_url": "https://api.discogs.com/artists/275406"
+        },
+        {
+          "name": "Stephen Stills",
+          "anv": "Stills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968"
+        }
+      ],
+      "duration": "3:30"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Business On The Street",
+      "extraartists": [
+        {
+          "name": "Stephen Stills",
+          "anv": "Stills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968"
+        }
+      ],
+      "duration": "2:55"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Do You Remember The Americans",
+      "extraartists": [
+        {
+          "name": "Stephen Stills",
+          "anv": "Stills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968"
+        }
+      ],
+      "duration": "2:05"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Down The Road",
+      "extraartists": [
+        {
+          "name": "Stephen Stills",
+          "anv": "Stills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968"
+        }
+      ],
+      "duration": "3:16"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "City Junkies",
+      "extraartists": [
+        {
+          "name": "Stephen Stills",
+          "anv": "Stills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968"
+        }
+      ],
+      "duration": "2:50"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Guaguanc\u00f3 De Ver\u00f3",
+      "extraartists": [
+        {
+          "name": "Joe Lala",
+          "anv": "Lala",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 308192,
+          "resource_url": "https://api.discogs.com/artists/308192"
+        },
+        {
+          "name": "Stephen Stills",
+          "anv": "Stills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968"
+        }
+      ],
+      "duration": "2:51"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Rollin' My Stone",
+      "extraartists": [
+        {
+          "name": "Calvin \"Fuzzy\" Samuels",
+          "anv": "Samuels",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 308189,
+          "resource_url": "https://api.discogs.com/artists/308189"
+        },
+        {
+          "name": "Stephen Stills",
+          "anv": "Stills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968"
+        }
+      ],
+      "duration": "4:50"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Calvin \"Fuzzy\" Samuels",
+      "anv": "Fuzzy Samuels",
+      "join": "",
+      "role": "Bass, Vocals",
+      "tracks": "",
+      "id": 308189,
+      "resource_url": "https://api.discogs.com/artists/308189"
+    },
+    {
+      "name": "Joe Lala",
+      "anv": "",
+      "join": "",
+      "role": "Congas, Timbales, Percussion, Vocals",
+      "tracks": "",
+      "id": 308192,
+      "resource_url": "https://api.discogs.com/artists/308192"
+    },
+    {
+      "name": "Bob Jenkins (3)",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1148815,
+      "resource_url": "https://api.discogs.com/artists/1148815"
+    },
+    {
+      "name": "Buddy Zoloth",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1595081,
+      "resource_url": "https://api.discogs.com/artists/1595081"
+    },
+    {
+      "name": "Dallas Taylor",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 308191,
+      "resource_url": "https://api.discogs.com/artists/308191"
+    },
+    {
+      "name": "Jeff Guercio",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Caribou]",
+      "tracks": "",
+      "id": 311935,
+      "resource_url": "https://api.discogs.com/artists/311935"
+    },
+    {
+      "name": "Howard Albert",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Criteria]",
+      "tracks": "",
+      "id": 177333,
+      "resource_url": "https://api.discogs.com/artists/177333"
+    },
+    {
+      "name": "Ron Albert",
+      "anv": "Ronald Albert",
+      "join": "",
+      "role": "Engineer [Criteria]",
+      "tracks": "",
+      "id": 177334,
+      "resource_url": "https://api.discogs.com/artists/177334"
+    },
+    {
+      "name": "Bill Halverson",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Record Plant]",
+      "tracks": "",
+      "id": 285407,
+      "resource_url": "https://api.discogs.com/artists/285407"
+    },
+    {
+      "name": "Malcolm Cecil",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Record Plant]",
+      "tracks": "",
+      "id": 286465,
+      "resource_url": "https://api.discogs.com/artists/286465"
+    },
+    {
+      "name": "Sydney George",
+      "anv": "",
+      "join": "",
+      "role": "Flute",
+      "tracks": "",
+      "id": 708549,
+      "resource_url": "https://api.discogs.com/artists/708549"
+    },
+    {
+      "name": "Charles Grimes",
+      "anv": "Charlie Grimes",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 1413065,
+      "resource_url": "https://api.discogs.com/artists/1413065"
+    },
+    {
+      "name": "Chris Hillman",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Bass, Mandolin, Vocals",
+      "tracks": "",
+      "id": 275406,
+      "resource_url": "https://api.discogs.com/artists/275406"
+    },
+    {
+      "name": "Stephen Stills",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Slide Guitar, Piano, Organ, Bass, Vocals",
+      "tracks": "",
+      "id": 236968,
+      "resource_url": "https://api.discogs.com/artists/236968"
+    },
+    {
+      "name": "Bobby Whitlock",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards, Vocals",
+      "tracks": "",
+      "id": 255376,
+      "resource_url": "https://api.discogs.com/artists/255376"
+    },
+    {
+      "name": "Bill Halverson",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Mix-Down Engineering]",
+      "tracks": "",
+      "id": 285407,
+      "resource_url": "https://api.discogs.com/artists/285407"
+    },
+    {
+      "name": "Howard Albert",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Mix-Down Engineering]",
+      "tracks": "",
+      "id": 177333,
+      "resource_url": "https://api.discogs.com/artists/177333"
+    },
+    {
+      "name": "Ron Albert",
+      "anv": "Ronald Albert",
+      "join": "",
+      "role": "Mixed By [Mix-Down Engineering]",
+      "tracks": "",
+      "id": 177334,
+      "resource_url": "https://api.discogs.com/artists/177334"
+    },
+    {
+      "name": "Stephen Stills",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Mix-Down Engineering]",
+      "tracks": "",
+      "id": 236968,
+      "resource_url": "https://api.discogs.com/artists/236968"
+    },
+    {
+      "name": "Jerry Aiello",
+      "anv": "",
+      "join": "",
+      "role": "Organ",
+      "tracks": "",
+      "id": 680993,
+      "resource_url": "https://api.discogs.com/artists/680993"
+    },
+    {
+      "name": "Al Perkins",
+      "anv": "",
+      "join": "",
+      "role": "Pedal Steel Guitar, Guitar, Banjo",
+      "tracks": "",
+      "id": 265804,
+      "resource_url": "https://api.discogs.com/artists/265804"
+    },
+    {
+      "name": "Guille Garcia",
+      "anv": "",
+      "join": "",
+      "role": "Percussion [Additional Percussion]",
+      "tracks": "",
+      "id": 464386,
+      "resource_url": "https://api.discogs.com/artists/464386"
+    },
+    {
+      "name": "Lachy Espinol",
+      "anv": "",
+      "join": "",
+      "role": "Percussion [Additional Percussion]",
+      "tracks": "",
+      "id": 708552,
+      "resource_url": "https://api.discogs.com/artists/708552"
+    },
+    {
+      "name": "Bob Jenkins (3)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 1148815,
+      "resource_url": "https://api.discogs.com/artists/1148815"
+    },
+    {
+      "name": "Paul Harris (2)",
+      "anv": "",
+      "join": "",
+      "role": "Piano, Organ",
+      "tracks": "",
+      "id": 161917,
+      "resource_url": "https://api.discogs.com/artists/161917"
+    },
+    {
+      "name": "Chris Hillman",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 275406,
+      "resource_url": "https://api.discogs.com/artists/275406"
+    },
+    {
+      "name": "Dallas Taylor",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 308191,
+      "resource_url": "https://api.discogs.com/artists/308191"
+    },
+    {
+      "name": "Stephen Stills",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 236968,
+      "resource_url": "https://api.discogs.com/artists/236968"
+    },
+    {
+      "name": "Joe Walsh",
+      "anv": "",
+      "join": "",
+      "role": "Slide Guitar",
+      "tracks": "",
+      "id": 162617,
+      "resource_url": "https://api.discogs.com/artists/162617"
+    },
+    {
+      "name": "P.P. Arnold",
+      "anv": "Pat Arnold",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 30212,
+      "resource_url": "https://api.discogs.com/artists/30212"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/7Kb1qNJOHSsT526vJg-KUBxmh76a7IoInnJiM6fuHak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My00MjY2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/7Kb1qNJOHSsT526vJg-KUBxmh76a7IoInnJiM6fuHak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My00MjY2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/tyIE_t6mHdb2ObL8qpzRsxHkBF-mEfocPzBEKByHBbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My00MjY2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DAp1gXGXxZHPBsU6_V8py17PyuX0BxYFUOU1Sb6mJA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My0xODI2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/DAp1gXGXxZHPBsU6_V8py17PyuX0BxYFUOU1Sb6mJA0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My0xODI2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/OAFTArFWLFs1_tYIlWwuuAhu0d5teqkGRw7r3WEvru0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My0xODI2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QS2la0tchObNnVJ_gMmdiPjyXOGnJk_b9IeaCudhPDQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/Mi01MTg1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/QS2la0tchObNnVJ_gMmdiPjyXOGnJk_b9IeaCudhPDQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/Mi01MTg1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ST-_0JjUJ7-6d_cjFFSDm8dgLLPjcxAdbggMN6EvBSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/Mi01MTg1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PhZzvB-2PJ8PtKVM6-OtARURHztID5sQ6gT-8wNHKwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/Mi03NDE2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/PhZzvB-2PJ8PtKVM6-OtARURHztID5sQ6gT-8wNHKwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/Mi03NDE2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/RRMNjULtVPtc2Dl0tWBYFZAJTFNRcSpbEFG2hc0ihE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/Mi03NDE2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lSi_wwvMhU9rwDIF8Ur5i5zSuAlStLEbDQF9lcPIXc8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My02MzU1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/lSi_wwvMhU9rwDIF8Ur5i5zSuAlStLEbDQF9lcPIXc8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My02MzU1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/wdY-dxAwmHLOjZSd0jhGLmb4l2J_1AEzaSf3mN79lHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My02MzU1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1JZ34N9Qg1HIiu86FqOSA_6tdv5KFgU91PZJiC289YE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My0zNDY4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/1JZ34N9Qg1HIiu86FqOSA_6tdv5KFgU91PZJiC289YE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My0zNDY4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/rAqJ1DV4CaUhN8VLFSISGfK_-yKfJxCXB7st81BkldM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My0zNDY4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/tyIE_t6mHdb2ObL8qpzRsxHkBF-mEfocPzBEKByHBbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTAz/MDYtMTQxMDkwNDYx/My00MjY2LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

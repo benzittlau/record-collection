@@ -1,0 +1,716 @@
+{
+  "id": 2971495,
+  "status": "Accepted",
+  "year": 1971,
+  "resource_url": "https://api.discogs.com/releases/2971495",
+  "uri": "https://www.discogs.com/release/2971495-Audience-2-The-House-On-The-Hill",
+  "artists": [
+    {
+      "name": "Audience (2)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 280051,
+      "resource_url": "https://api.discogs.com/artists/280051",
+      "thumbnail_url": "https://i.discogs.com/EeFrmeB2qcgrgtiNXSxqrPpHEpgH5Zpf4Qpk-rjdm5g/rs:fit/g:sm/q:90/h:351/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4MDA1/MS0xMjg5MjMyMjI3/LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Audience (2)",
+  "labels": [
+    {
+      "name": "Charisma",
+      "catno": "CAS 1032",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 3109,
+      "resource_url": "https://api.discogs.com/labels/3109",
+      "thumbnail_url": "https://i.discogs.com/xdXicj-QfyH-4lFVjrsR2vmkUdyh03Zm8Z33V9ui65E/rs:fit/g:sm/q:90/h:477/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMDkt/MTM1NDY1MzA1My0z/NTk3LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "B&C Records Ltd.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 378438,
+      "resource_url": "https://api.discogs.com/labels/378438",
+      "thumbnail_url": "https://i.discogs.com/XX6XFbVnpAWE2_IXPVLrSczWlA51QrJLs6g1J2O9cfo/rs:fit/g:sm/q:90/h:155/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3ODQz/OC0xNTQ4MTc2MDc4/LTk0NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "Trident Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 218698,
+      "resource_url": "https://api.discogs.com/labels/218698",
+      "thumbnail_url": "https://i.discogs.com/qBzTp7bUDRGYQ6Gge1VGKQyOeVgaAv2QwOqD5qqliyY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxODY5/OC0xNjgwMTg4NjEz/LTU3NDEuanBlZw.jpeg"
+    },
+    {
+      "name": "Essex Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 214727,
+      "resource_url": "https://api.discogs.com/labels/214727",
+      "thumbnail_url": "https://i.discogs.com/NZuPGrfwZ7ldUknJbBCbYt3I6WzmtAbsCImNmEU7HXQ/rs:fit/g:sm/q:90/h:99/w:324/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNDcy/Ny0xNjY1NzM4NTk3/LTQwMDEuanBlZw.jpeg"
+    },
+    {
+      "name": "United Artists Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 280650,
+      "resource_url": "https://api.discogs.com/labels/280650",
+      "thumbnail_url": "https://i.discogs.com/rREKbrSDx75urqRZd7WWS_knGe3L4-HhqFCKT7pY0UE/rs:fit/g:sm/q:90/h:79/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MDY1/MC0xNzA3NjgwNjU3/LTQ0MzYuanBlZw.jpeg"
+    },
+    {
+      "name": "B&C Records Ltd.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 378438,
+      "resource_url": "https://api.discogs.com/labels/378438",
+      "thumbnail_url": "https://i.discogs.com/XX6XFbVnpAWE2_IXPVLrSczWlA51QrJLs6g1J2O9cfo/rs:fit/g:sm/q:90/h:155/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3ODQz/OC0xNTQ4MTc2MDc4/LTk0NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "B&C Records Ltd.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 378438,
+      "resource_url": "https://api.discogs.com/labels/378438",
+      "thumbnail_url": "https://i.discogs.com/XX6XFbVnpAWE2_IXPVLrSczWlA51QrJLs6g1J2O9cfo/rs:fit/g:sm/q:90/h:155/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3ODQz/OC0xNTQ4MTc2MDc4/LTk0NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "E.J. Day Group",
+      "catno": "",
+      "entity_type": "16",
+      "entity_type_name": "Made By",
+      "id": 265241,
+      "resource_url": "https://api.discogs.com/labels/265241",
+      "thumbnail_url": "https://i.discogs.com/fuNEUKqzXp3xNfh5FCzYx-hYeS2JxkdGGB5ziql8_u4/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTI0/MS0xNDI5MzEzMjQ4/LTk4MTAuanBlZw.jpeg"
+    },
+    {
+      "name": "E.J. Day Group",
+      "catno": "",
+      "entity_type": "19",
+      "entity_type_name": "Printed By",
+      "id": 265241,
+      "resource_url": "https://api.discogs.com/labels/265241",
+      "thumbnail_url": "https://i.discogs.com/fuNEUKqzXp3xNfh5FCzYx-hYeS2JxkdGGB5ziql8_u4/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTI0/MS0xNDI5MzEzMjQ4/LTk4MTAuanBlZw.jpeg"
+    },
+    {
+      "name": "The Gramophone Co. Ltd.",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 253617,
+      "resource_url": "https://api.discogs.com/labels/253617",
+      "thumbnail_url": "https://i.discogs.com/kaHN3N80A8IXVPH27nFTTeDqB7M7IA7sKwwV5NYBVyQ/rs:fit/g:sm/q:90/h:90/w:246/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MzYx/Ny0xMzM4MDU1ODI0/LTU5NDUuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Pink Scroll Labels, Gatefold"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 807,
+    "want": 296,
+    "rating": {
+      "count": 112,
+      "average": 4.29
+    },
+    "submitter": {
+      "username": "vada_19-79.",
+      "resource_url": "https://api.discogs.com/users/vada_19-79."
+    },
+    "contributors": [
+      {
+        "username": "vada_19-79.",
+        "resource_url": "https://api.discogs.com/users/vada_19-79."
+      },
+      {
+        "username": "Raisedonrecords",
+        "resource_url": "https://api.discogs.com/users/Raisedonrecords"
+      },
+      {
+        "username": "yr130962",
+        "resource_url": "https://api.discogs.com/users/yr130962"
+      },
+      {
+        "username": "Rossmichael",
+        "resource_url": "https://api.discogs.com/users/Rossmichael"
+      },
+      {
+        "username": "zelik",
+        "resource_url": "https://api.discogs.com/users/zelik"
+      },
+      {
+        "username": "musikat",
+        "resource_url": "https://api.discogs.com/users/musikat"
+      },
+      {
+        "username": "othall",
+        "resource_url": "https://api.discogs.com/users/othall"
+      },
+      {
+        "username": "marklungo",
+        "resource_url": "https://api.discogs.com/users/marklungo"
+      },
+      {
+        "username": "Babylon_Music",
+        "resource_url": "https://api.discogs.com/users/Babylon_Music"
+      },
+      {
+        "username": "vinyljunkie66",
+        "resource_url": "https://api.discogs.com/users/vinyljunkie66"
+      },
+      {
+        "username": "chillyboy64",
+        "resource_url": "https://api.discogs.com/users/chillyboy64"
+      },
+      {
+        "username": "Ackaraga",
+        "resource_url": "https://api.discogs.com/users/Ackaraga"
+      },
+      {
+        "username": "boropete",
+        "resource_url": "https://api.discogs.com/users/boropete"
+      },
+      {
+        "username": "Dreammare",
+        "resource_url": "https://api.discogs.com/users/Dreammare"
+      },
+      {
+        "username": "Andy_Nic",
+        "resource_url": "https://api.discogs.com/users/Andy_Nic"
+      },
+      {
+        "username": "templar53",
+        "resource_url": "https://api.discogs.com/users/templar53"
+      },
+      {
+        "username": "Crate_Expectations_",
+        "resource_url": "https://api.discogs.com/users/Crate_Expectations_"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2011-07-04T08:49:38-07:00",
+  "date_changed": "2025-09-19T02:03:53-07:00",
+  "num_for_sale": 60,
+  "lowest_price": 8.99,
+  "master_id": 186421,
+  "master_url": "https://api.discogs.com/masters/186421",
+  "title": "The House On The Hill",
+  "country": "UK",
+  "released": "1971",
+  "notes": "First UK pressing. \n\"Pink scroll\" Charisma labels. \nMatte gatefold sleeve. \nPrinted red/white inner sleeve with lyrics. \n \nCatalogue number CAS 1032 credited on labels, rear of sleeve and in parentheses on lyric inner. \n \n[Labels]\n\u2117 1971 \nTracks A1 to B2 & B4. Essex Music\nTrack B3. United Artists Music\n \n[Sleeve] \nThe string arrangement on Raviol\u00e9 by R. Kirby, who conducted members of the L.S.O. \nSleeve design and photography by HIPGNOSIS based on an original screenplay by Hipgnosis and Howard Werth\nB & C Records Ltd., 37 Soho Square, London, W.1.\nPrinted and made by the E. J. Day Group, London and Bedford\n\nAll matrix runouts are stamped.",
+  "released_formatted": "1971",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1032A",
+      "description": "A-side label, in parentheses"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1032B",
+      "description": "B-side label, in parentheses"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1032 A-1U",
+      "description": "A-side runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1032 B-1U",
+      "description": "B-side runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1032 A-1U P 1",
+      "description": "A-side runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1032 B-1U H 1",
+      "description": "B-side runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1032 A-1U G 1",
+      "description": "A-side runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1032 B-1U G 1",
+      "description": "B-side runout, variant 3"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=P_neA4B1_VA",
+      "title": "Jackdaw",
+      "description": "Provided to YouTube by Universal Music Group\n\nJackdaw \u00b7 Audience\n\nThe House On The Hill\n\n\u2117 1971 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nAssociated  Performer, Vocals, Guitar: Howard Werth\nAssociated  Performer, Flute, Tenor ",
+      "duration": 452,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uaNJONzcvIM",
+      "title": "You're Not Smiling",
+      "description": "Provided to YouTube by Universal Music Group\n\nYou're Not Smiling \u00b7 Audience\n\nThe House On The Hill\n\n\u2117 1971 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nAssociated  Performer, Vocals, Guitar: Howard Werth\nAssociated  Performer, Bass  Guitar: Trevor Wil",
+      "duration": 322,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pvtECq6Z-Wg",
+      "title": "I Had A Dream",
+      "description": "Provided to YouTube by Universal Music Group\n\nI Had A Dream \u00b7 Audience\n\nThe House On The Hill\n\n\u2117 1971 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nAssociated  Performer, Vocals, Guitar: Howard Werth\nAssociated  Performer, Flute, Tenor  Saxophone, Clar",
+      "duration": 260,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=K4nLcoQ9Iro",
+      "title": "Raviole",
+      "description": "Provided to YouTube by Universal Music Group\n\nRaviole \u00b7 Audience\n\nThe House On The Hill\n\n\u2117 1971 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nAssociated  Performer, Flute, Tenor  Saxophone, Clarinet: Keith Gemmell\nAssociated  Performer, Percussion, Vib",
+      "duration": 221,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4B1BkWEqyqs",
+      "title": "Nancy",
+      "description": "Provided to YouTube by Universal Music Group\n\nNancy \u00b7 Audience\n\nThe House On The Hill\n\n\u2117 1971 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nAssociated  Performer, Bass  Guitar: Trevor Williams\nAssociated  Performer, Flute, Tenor  Saxophone, Clarinet: K",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=x17WBuAg9RA",
+      "title": "Eye To Eye",
+      "description": "Provided to YouTube by Universal Music Group\n\nEye To Eye \u00b7 Audience\n\nThe House On The Hill\n\n\u2117 1971 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nAssociated  Performer, Vocals, Guitar: Howard Werth\nAssociated  Performer, Bass  Guitar: Trevor Williams\nAs",
+      "duration": 153,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lUu5KFua5H0",
+      "title": "I Put A Spell On You",
+      "description": "Provided to YouTube by Universal Music Group\n\nI Put A Spell On You \u00b7 Audience\n\nThe House On The Hill\n\n\u2117 1971 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nAssociated  Performer, Vocals, Guitar: Howard Werth\nAssociated  Performer, Flute, Tenor  Saxophon",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YlCEkpXX58E",
+      "title": "The House On The Hill",
+      "description": "Provided to YouTube by Universal Music Group\n\nThe House On The Hill \u00b7 Audience\n\nThe House On The Hill\n\n\u2117 1971 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nAssociated  Performer, Vocals, Guitar: Howard Werth\nAssociated  Performer,",
+      "duration": 450,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NyrJ51FcV4E",
+      "title": "Indian Summer",
+      "description": "Provided to YouTube by Universal Music Group\n\nIndian Summer \u00b7 Audience\n\nThe House On The Hill\n\n\u2117 1971 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nAssociated  Performer, Bass  Guitar: Trevor Williams\nAssociated  Performer, Flute, Tenor  Saxophone, Cla",
+      "duration": 197,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Art Rock",
+    "Prog Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Jackdaw",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Keith Gemmell",
+          "anv": "Gemmell",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 859502,
+          "resource_url": "https://api.discogs.com/artists/859502"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Your Not Smiling",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Keith Gemmell",
+          "anv": "Gemmell",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 859502,
+          "resource_url": "https://api.discogs.com/artists/859502"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "I Had A Dream",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Trevor Williams (18)",
+          "anv": "Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10400887,
+          "resource_url": "https://api.discogs.com/artists/10400887"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Raviol\u00e9",
+      "extraartists": [
+        {
+          "name": "Robert Kirby",
+          "anv": "R. Kirby",
+          "join": "",
+          "role": "Arranged By [String Arrangement], Conductor [Members Of The L.S.O.]",
+          "tracks": "",
+          "id": 285388,
+          "resource_url": "https://api.discogs.com/artists/285388"
+        },
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Nancy",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Trevor Williams (18)",
+          "anv": "Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10400887,
+          "resource_url": "https://api.discogs.com/artists/10400887"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Eye To Eye",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Trevor Williams (18)",
+          "anv": "Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10400887,
+          "resource_url": "https://api.discogs.com/artists/10400887"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "I Put A Spell On You",
+      "extraartists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "anv": "J. Hawkins",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 160905,
+          "resource_url": "https://api.discogs.com/artists/160905"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "The House On The Hill",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Trevor Williams (18)",
+          "anv": "Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10400887,
+          "resource_url": "https://api.discogs.com/artists/10400887"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Trevor Williams (18)",
+      "anv": "",
+      "join": "",
+      "role": "Bass Guitar",
+      "tracks": "",
+      "id": 10400887,
+      "resource_url": "https://api.discogs.com/artists/10400887"
+    },
+    {
+      "name": "Howard Werth",
+      "anv": "",
+      "join": "",
+      "role": "Classical Guitar [Electric Classical Guitar], Vocals",
+      "tracks": "",
+      "id": 510079,
+      "resource_url": "https://api.discogs.com/artists/510079"
+    },
+    {
+      "name": "Hipgnosis (2)",
+      "anv": "",
+      "join": "",
+      "role": "Design Concept [Original Screenplay]",
+      "tracks": "",
+      "id": 1826972,
+      "resource_url": "https://api.discogs.com/artists/1826972"
+    },
+    {
+      "name": "Howard Werth",
+      "anv": "",
+      "join": "",
+      "role": "Design Concept [Original Screenplay]",
+      "tracks": "",
+      "id": 510079,
+      "resource_url": "https://api.discogs.com/artists/510079"
+    },
+    {
+      "name": "Robin Geoffrey Cable",
+      "anv": "Robin Cable",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 277713,
+      "resource_url": "https://api.discogs.com/artists/277713"
+    },
+    {
+      "name": "Gus Dudgeon",
+      "anv": "",
+      "join": "",
+      "role": "Guest [Special Guest Star], Maracas, Cowbell",
+      "tracks": "",
+      "id": 179206,
+      "resource_url": "https://api.discogs.com/artists/179206"
+    },
+    {
+      "name": "Tony Connor",
+      "anv": "",
+      "join": "",
+      "role": "Percussion, Vibraphone [Vibes]",
+      "tracks": "",
+      "id": 510078,
+      "resource_url": "https://api.discogs.com/artists/510078"
+    },
+    {
+      "name": "Gus Dudgeon",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Produced By], Directed By",
+      "tracks": "",
+      "id": 179206,
+      "resource_url": "https://api.discogs.com/artists/179206"
+    },
+    {
+      "name": "Hipgnosis (2)",
+      "anv": "",
+      "join": "",
+      "role": "Sleeve [Sleeve Design], Design [Sleeve Design], Photography By",
+      "tracks": "",
+      "id": 1826972,
+      "resource_url": "https://api.discogs.com/artists/1826972"
+    },
+    {
+      "name": "Keith Gemmell",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Saxophone, Clarinet, Flute",
+      "tracks": "",
+      "id": 859502,
+      "resource_url": "https://api.discogs.com/artists/859502"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/b3othB9ID2XnjcY9CaYx5biWZVEo-B6ud_CFavhSYRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ4/MS03Mzk5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/b3othB9ID2XnjcY9CaYx5biWZVEo-B6ud_CFavhSYRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ4/MS03Mzk5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/T89raU-JMgj98BS0u3xWR03nkyGHkjfgzlA_43SJ3u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ4/MS03Mzk5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/F2PDhZzfCfHYQ-6a6IcvfVzSM7eq7UoOjpU6UrgneYQ/rs:fit/g:sm/q:90/h:584/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM5MTYwOTQ0/My04MTc0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/F2PDhZzfCfHYQ-6a6IcvfVzSM7eq7UoOjpU6UrgneYQ/rs:fit/g:sm/q:90/h:584/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM5MTYwOTQ0/My04MTc0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/s4fXhU7WX6z3DiwoUWFzKT8IIAf0ysHVEcDagBro7qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM5MTYwOTQ0/My04MTc0LmpwZWc.jpeg",
+      "width": 595,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PbgEOYdjpdaMWf8vyxXWpJN7npogFdzVY4jvJTEq1vE/rs:fit/g:sm/q:90/h:587/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM5MTYwOTQ3/My00Mjk2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/PbgEOYdjpdaMWf8vyxXWpJN7npogFdzVY4jvJTEq1vE/rs:fit/g:sm/q:90/h:587/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM5MTYwOTQ3/My00Mjk2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/WRvsae9Tey7-arCHtY_hcENq5lU6D4jmQCSZFGgwvMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM5MTYwOTQ3/My00Mjk2LmpwZWc.jpeg",
+      "width": 595,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ta4_mgvf9eGoRpieJtPPn0fqdh4mrgVODCpVW4oMcmo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ4/Ni0yODk3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ta4_mgvf9eGoRpieJtPPn0fqdh4mrgVODCpVW4oMcmo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ4/Ni0yODk3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/tQPJe1tX1yhePLcF-qoPaQ-Zg_Er9Sio6VgULYeeiak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ4/Ni0yODk3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gZiHkPgVs-ygFoZtkLYFXy0Pf8EUos9wqfRnb3Wu4lg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTMwOTc5NDU2/NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/gZiHkPgVs-ygFoZtkLYFXy0Pf8EUos9wqfRnb3Wu4lg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTMwOTc5NDU2/NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/DFJNpEpmSGAndJajrql-0RMWp9fEGc5SNqhr8VmNmeU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTMwOTc5NDU2/NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nhpSj4YtgfnKKVWPTeF4fmCsytHuzpjdPk64d_f_riw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTMwOTc5NDU2/OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nhpSj4YtgfnKKVWPTeF4fmCsytHuzpjdPk64d_f_riw/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTMwOTc5NDU2/OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ySAxujFkBLm6t4EVyxV3Fk-lgnjGzBc1MY1KfCC8S8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTMwOTc5NDU2/OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-M3UoPDktwWmgubdPmqqyiGTNhaN96HQyGlJXFcbkAQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTQ5MzQ5MDg2/OS04ODY1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/-M3UoPDktwWmgubdPmqqyiGTNhaN96HQyGlJXFcbkAQ/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTQ5MzQ5MDg2/OS04ODY1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ijmyqq-rHKat_lJ-RJCiIKo5iT-XQAKTddrbzfdDV4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTQ5MzQ5MDg2/OS04ODY1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 582
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/SLV-Y6Qy6oyw5EzxMGjwmFStrkKvvo5oiZ0pIWJ9J5Y/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ5/MS02Mzg5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/SLV-Y6Qy6oyw5EzxMGjwmFStrkKvvo5oiZ0pIWJ9J5Y/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ5/MS02Mzg5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/XgxRIRWebM5myvQpB2qlwDidZCw9W11WhsjmW7-X7zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ5/MS02Mzg5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zoQZ-rlUY19VPMJ2tRqky5fZr11D2pPDV5u_IMDitk8/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ5/Ni0zNjA0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/zoQZ-rlUY19VPMJ2tRqky5fZr11D2pPDV5u_IMDitk8/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ5/Ni0zNjA0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/DHVEQky5mhp37yJ8JQqKKlZg2ADJ6wbZV5QBAZna684/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ5/Ni0zNjA0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_aMtPzti9yKiB3jbxYvZrf4mndetoVotPUhpzahKyfI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTMwOTc5NDU1/Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_aMtPzti9yKiB3jbxYvZrf4mndetoVotPUhpzahKyfI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTMwOTc5NDU1/Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5aKrLn4JP8r6VyK18IZokcC22Slf1iBnQWdGgwWXAFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTMwOTc5NDU1/Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    }
+  ],
+  "thumb": "https://i.discogs.com/T89raU-JMgj98BS0u3xWR03nkyGHkjfgzlA_43SJ3u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NzE0/OTUtMTM4MTc3NDQ4/MS03Mzk5LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

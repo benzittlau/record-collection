@@ -1,0 +1,413 @@
+{
+  "id": "upper-middle-65",
+  "identity": "This Is the Ice Age",
+  "searches": [
+    {
+      "query": "rgid:fc247905-c4ad-4cc8-8283-7c3893b84642",
+      "url": "https://musicbrainz.org/ws/2/release/?query=rgid%3Afc247905-c4ad-4cc8-8283-7c3893b84642&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "7471a7c9-d6b8-497c-b082-51111fb2d5bd",
+      "url": "https://musicbrainz.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd",
+      "title": "This Is the Ice Age",
+      "artistCredit": [
+        {
+          "name": "Martha and the Muffins",
+          "artist": {
+            "id": "d0a4fd70-d8ab-442e-8fb0-f5608936dce3",
+            "name": "Martha and the Muffins",
+            "sort-name": "Martha and the Muffins",
+            "disambiguation": "Canadian rock band"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1981",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "VL 2228",
+          "label": {
+            "id": "49b58bdb-3d74-40c6-956a-4c4b46115c9c",
+            "name": "Virgin"
+          }
+        },
+        {
+          "catalog-number": "VL 2228",
+          "label": {
+            "id": "227d9de7-0688-405e-8a4a-0a23ee712bae",
+            "name": "Dindisc"
+          }
+        }
+      ],
+      "images": [
+        {
+          "comment": "",
+          "types": [
+            "Front"
+          ],
+          "image": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160467609.jpg",
+          "edit": 46370739,
+          "approved": true,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160467609-250.jpg",
+            "large": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160467609-500.jpg"
+          },
+          "front": true,
+          "id": 17160467609,
+          "back": false
+        },
+        {
+          "back": true,
+          "id": 17160469102,
+          "front": false,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160469102-250.jpg",
+            "large": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160469102-500.jpg"
+          },
+          "image": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160469102.jpg",
+          "comment": "",
+          "types": [
+            "Back"
+          ],
+          "edit": 46370740,
+          "approved": true
+        },
+        {
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160469586-250.jpg",
+            "large": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160469586-500.jpg"
+          },
+          "edit": 46370741,
+          "approved": true,
+          "comment": "",
+          "types": [
+            "Liner"
+          ],
+          "image": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160469586.jpg",
+          "back": false,
+          "id": 17160469586,
+          "front": false
+        },
+        {
+          "edit": 46370742,
+          "approved": true,
+          "types": [
+            "Liner"
+          ],
+          "image": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160470075.jpg",
+          "comment": "",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160470075-500.jpg",
+            "small": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160470075-250.jpg"
+          },
+          "front": false,
+          "id": 17160470075,
+          "back": false
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "comment": "",
+          "image": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160470449.jpg",
+          "edit": 46370743,
+          "approved": true,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160470449-250.jpg",
+            "large": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160470449-500.jpg"
+          },
+          "front": false,
+          "back": false,
+          "id": 17160470449
+        },
+        {
+          "id": 17160471008,
+          "back": false,
+          "front": false,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160471008-500.jpg",
+            "small": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160471008-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ],
+          "comment": "",
+          "image": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160471008.jpg",
+          "edit": 46370744,
+          "approved": true
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "77357c74-277f-4d01-a49f-783588215e51",
+      "url": "https://musicbrainz.org/release/77357c74-277f-4d01-a49f-783588215e51",
+      "title": "This Is the Ice Age",
+      "artistCredit": [
+        {
+          "name": "Martha and the Muffins",
+          "artist": {
+            "id": "d0a4fd70-d8ab-442e-8fb0-f5608936dce3",
+            "name": "Martha and the Muffins",
+            "sort-name": "Martha and the Muffins",
+            "disambiguation": "Canadian rock band"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1981",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "VL4-2228",
+          "label": {
+            "id": "227d9de7-0688-405e-8a4a-0a23ee712bae",
+            "name": "Dindisc"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "e56c77a7-f371-4dd4-9778-f632f93db859",
+      "url": "https://musicbrainz.org/release/e56c77a7-f371-4dd4-9778-f632f93db859",
+      "title": "This Is the Ice Age",
+      "artistCredit": [
+        {
+          "name": "Martha and the Muffins",
+          "artist": {
+            "id": "d0a4fd70-d8ab-442e-8fb0-f5608936dce3",
+            "name": "Martha and the Muffins",
+            "sort-name": "Martha and the Muffins",
+            "disambiguation": "Canadian rock band"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1981",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "DID 10",
+          "label": {
+            "id": "227d9de7-0688-405e-8a4a-0a23ee712bae",
+            "name": "Dindisc"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "aee7be06-e6cb-392b-a5a5-e9661253659e",
+      "url": "https://musicbrainz.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e",
+      "title": "This Is the Ice Age",
+      "artistCredit": [
+        {
+          "name": "Martha and the Muffins",
+          "artist": {
+            "id": "d0a4fd70-d8ab-442e-8fb0-f5608936dce3",
+            "name": "Martha and the Muffins",
+            "sort-name": "Martha and the Muffins",
+            "disambiguation": "Canadian rock band"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1981",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "OVED 79",
+          "label": {
+            "id": "49b58bdb-3d74-40c6-956a-4c4b46115c9c",
+            "name": "Virgin"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 74544960,
+          "front": true,
+          "id": 27715878402,
+          "image": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715878402.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715878402-1200.jpg",
+            "250": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715878402-250.jpg",
+            "500": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715878402-500.jpg",
+            "large": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715878402-500.jpg",
+            "small": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715878402-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 74544961,
+          "front": false,
+          "id": 27715881641,
+          "image": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715881641.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715881641-1200.jpg",
+            "250": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715881641-250.jpg",
+            "500": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715881641-500.jpg",
+            "large": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715881641-500.jpg",
+            "small": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715881641-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "side one",
+          "edit": 74544964,
+          "front": false,
+          "id": 27715882772,
+          "image": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715882772.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715882772-1200.jpg",
+            "250": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715882772-250.jpg",
+            "500": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715882772-500.jpg",
+            "large": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715882772-500.jpg",
+            "small": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715882772-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "side two",
+          "edit": 74544965,
+          "front": false,
+          "id": 27715884065,
+          "image": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715884065.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715884065-1200.jpg",
+            "250": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715884065-250.jpg",
+            "500": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715884065-500.jpg",
+            "large": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715884065-500.jpg",
+            "small": "http://coverartarchive.org/release/aee7be06-e6cb-392b-a5a5-e9661253659e/27715884065-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": {
+    "packaging": "Cardboard/Paper Sleeve",
+    "label-info": [
+      {
+        "label": {
+          "disambiguation": "",
+          "label-code": 3098,
+          "type": "Production",
+          "id": "227d9de7-0688-405e-8a4a-0a23ee712bae",
+          "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+          "name": "Dindisc",
+          "sort-name": "Dindisc"
+        },
+        "catalog-number": "VL 2228"
+      },
+      {
+        "catalog-number": "VL 2228",
+        "label": {
+          "sort-name": "Virgin",
+          "name": "Virgin",
+          "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+          "id": "49b58bdb-3d74-40c6-956a-4c4b46115c9c",
+          "type": "Imprint",
+          "label-code": 3098,
+          "disambiguation": "worldwide imprint of Virgin Records Ltd. and all its subsidiaries"
+        }
+      }
+    ],
+    "id": "7471a7c9-d6b8-497c-b082-51111fb2d5bd",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "date": "1981",
+    "status": "Official",
+    "country": "CA",
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "artwork": true,
+      "back": true,
+      "front": true,
+      "darkened": false,
+      "count": 6
+    },
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "release-events": [
+      {
+        "date": "1981",
+        "area": {
+          "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+          "sort-name": "Canada",
+          "name": "Canada",
+          "iso-3166-1-codes": [
+            "CA"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "type": null
+        }
+      }
+    ],
+    "barcode": "",
+    "title": "This Is the Ice Age",
+    "disambiguation": "",
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "artist": {
+          "id": "d0a4fd70-d8ab-442e-8fb0-f5608936dce3",
+          "sort-name": "Martha and the Muffins",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "name": "Martha and the Muffins",
+          "disambiguation": "Canadian rock band",
+          "country": "CA",
+          "type": "Group"
+        },
+        "name": "Martha and the Muffins"
+      }
+    ],
+    "media": [
+      {
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "position": 1,
+        "track-count": 9,
+        "format": "12\" Vinyl",
+        "title": "",
+        "id": "45ab2545-a7eb-3fe8-8be4-ec7c0128e915"
+      }
+    ],
+    "asin": null
+  }
+}

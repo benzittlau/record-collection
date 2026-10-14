@@ -1,0 +1,647 @@
+{
+  "id": 1706811,
+  "status": "Accepted",
+  "year": 1972,
+  "resource_url": "https://api.discogs.com/releases/1706811",
+  "uri": "https://www.discogs.com/release/1706811-New-Riders-Of-The-Purple-Sage-Gypsy-Cowboy",
+  "artists": [
+    {
+      "name": "New Riders Of The Purple Sage",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 476171,
+      "resource_url": "https://api.discogs.com/artists/476171",
+      "thumbnail_url": "https://i.discogs.com/vBZkqoNQxHBScQYKenjtIrJwTW_bvOB5xd5jUh7DFH0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3NjE3/MS0xNjkwNzMyMDEy/LTk3MTEuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "New Riders Of The Purple Sage",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "KC 31930",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "Columbia Records Pressing Plant, Pitman",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 447694,
+      "resource_url": "https://api.discogs.com/labels/447694",
+      "thumbnail_url": "https://i.discogs.com/wBWbBFOUkrSdKRV0SZ5BnJd4BHbnh6JtHDUy3MT6h4s/rs:fit/g:sm/q:90/h:216/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ0NzY5/NC0xMzk1MzQzMzg3/LTU3NDguanBlZw.jpeg"
+    },
+    {
+      "name": "Artisan Sound Recorders",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 267310,
+      "resource_url": "https://api.discogs.com/labels/267310",
+      "thumbnail_url": "https://i.discogs.com/cC642yFOUYkhedsG2ga2aJbls_pKHjleXiAyzOV1VR4/rs:fit/g:sm/q:90/h:147/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzMx/MC0xNjQ3NTU4OTM3/LTU4ODAuanBlZw.jpeg"
+    },
+    {
+      "name": "Customatrix",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 586613,
+      "resource_url": "https://api.discogs.com/labels/586613",
+      "thumbnail_url": "https://i.discogs.com/LiE-B7ojg3c5y6MjWhT1mxNVst27bYOmGZyVCBx8Ljo/rs:fit/g:sm/q:90/h:203/w:176/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4NjYx/My0xNzYwNTM1MzEw/LTk2NTAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Pitman Pressing"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 2111,
+    "want": 203,
+    "rating": {
+      "count": 111,
+      "average": 3.8
+    },
+    "submitter": {
+      "username": "djminoch",
+      "resource_url": "https://api.discogs.com/users/djminoch"
+    },
+    "contributors": [
+      {
+        "username": "djminoch",
+        "resource_url": "https://api.discogs.com/users/djminoch"
+      },
+      {
+        "username": "Alton2",
+        "resource_url": "https://api.discogs.com/users/Alton2"
+      },
+      {
+        "username": "Popschmecker",
+        "resource_url": "https://api.discogs.com/users/Popschmecker"
+      },
+      {
+        "username": "afrankski",
+        "resource_url": "https://api.discogs.com/users/afrankski"
+      },
+      {
+        "username": "RobertoArredondo",
+        "resource_url": "https://api.discogs.com/users/RobertoArredondo"
+      },
+      {
+        "username": "maude-vinyl",
+        "resource_url": "https://api.discogs.com/users/maude-vinyl"
+      },
+      {
+        "username": "Columbia39",
+        "resource_url": "https://api.discogs.com/users/Columbia39"
+      },
+      {
+        "username": "ElektraRecords",
+        "resource_url": "https://api.discogs.com/users/ElektraRecords"
+      },
+      {
+        "username": "hockeydad9371",
+        "resource_url": "https://api.discogs.com/users/hockeydad9371"
+      },
+      {
+        "username": "casadyfan",
+        "resource_url": "https://api.discogs.com/users/casadyfan"
+      },
+      {
+        "username": "mister_mojorisin",
+        "resource_url": "https://api.discogs.com/users/mister_mojorisin"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2009-03-28T07:48:30-07:00",
+  "date_changed": "2022-04-14T18:05:38-07:00",
+  "num_for_sale": 52,
+  "lowest_price": 2.7,
+  "master_id": 277101,
+  "master_url": "https://api.discogs.com/masters/277101",
+  "title": "Gypsy Cowboy",
+  "country": "US",
+  "released": "1972",
+  "released_formatted": "1972",
+  "identifiers": [
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 31930",
+      "description": "Side A label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BL 31930",
+      "description": "Side B label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "PAL 31930-1A Sy B o P [Artisan Logo]",
+      "description": "Side A Runout etched [o P Artisan stamped], variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "PBL 31930-1C 2 o P [Artisan Logo]",
+      "description": "Side B Runout etched [o P Artisan stamped], variant 1"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=mAuh6HjiiaM",
+      "title": "New Riders of the Purple Sage - Gypsy Cowboy",
+      "description": "The song Gypsy Cowboy by New Riders of the Purple Sage released in 1972",
+      "duration": 261,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sWlPSpufsNY",
+      "title": "New Riders of the Purple Sage - Sutter's Mill (Gypsy Cowboy, 1972)",
+      "description": "",
+      "duration": 113,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zf6f3w7zdAs",
+      "title": "Gypsy Cowboy -  New Riders Of The Purple Sage",
+      "description": "Gypsy Cowboy\nCopyrights owned by SME\nGypsy Cowboy is the third album by the country rock band the New Riders of the Purple Sage. It was recorded and released in 1972.\n\nThe album includes six original songs by John Dawson and three by Dave Torbert, plus co",
+      "duration": 261,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QBEDtS_80Nk",
+      "title": "She's No Angel",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nShe's No Angel \u00b7 New Riders of The Purple Sage\u00ae\n\nGypsy Cowboy\n\n\u2117 1972 SONY BMG MUSIC ENTERTAINMENT\n\nReleased on: 2010-07-16\n\nAssociated Performer: New Riders of The Purple Sage\u00ae\nProducer: Steve Barncar",
+      "duration": 172,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=p0_Pj1xx-mY",
+      "title": "Gypsy Cowboy",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nGypsy Cowboy \u00b7 New Riders Of The Purple Sage\n\nGypsy Cowboy\n\n\u2117 1972 SONY BMG MUSIC ENTERTAINMENT\n\nReleased on: 2010-07-16\n\nAssociated Performer: New Riders Of The Purple Sage\nProducer: Steve Barncard\nComp",
+      "duration": 259,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IZXmj6KjK2I",
+      "title": "Death And Destruction",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nDeath And Destruction \u00b7 New Riders Of The Purple Sage\n\nGypsy Cowboy\n\n\u2117 1972 SONY BMG MUSIC ENTERTAINMENT\n\nReleased on: 2010-07-16\n\nAssociated Performer: New Riders Of The Purple Sage\nProducer: Steve Barn",
+      "duration": 520,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZAynOu1QlTg",
+      "title": "Linda",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nLinda \u00b7 New Riders Of The Purple Sage\n\nGypsy Cowboy\n\n\u2117 1972 SONY BMG MUSIC ENTERTAINMENT\n\nReleased on: 2010-07-16\n\nAssociated Performer: New Riders Of The Purple Sage\nProducer: Steve Barncard\nComposer, L",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lgfSP7L21SU",
+      "title": "On My Way Back Home",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nOn My Way Back Home \u00b7 New Riders Of The Purple Sage\n\nGypsy Cowboy\n\n\u2117 1972 SONY BMG MUSIC ENTERTAINMENT\n\nReleased on: 2010-07-16\n\nAssociated Performer: New Riders Of The Purple Sage\nProducer: Steve Barnca",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9OS_AZwCuRM",
+      "title": "Whiskey",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nWhiskey \u00b7 New Riders Of The Purple Sage\n\nGypsy Cowboy\n\n\u2117 1972 SONY BMG MUSIC ENTERTAINMENT\n\nReleased on: 2010-07-16\n\nAssociated Performer: New Riders Of The Purple Sage\nProducer: Steve Barncard\nComposer,",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ullS7j5qXsU",
+      "title": "Superman",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nSuperman \u00b7 New Riders Of The Purple Sage\n\nGypsy Cowboy\n\n\u2117 1972 SONY BMG MUSIC ENTERTAINMENT\n\nReleased on: 2010-07-16\n\nAssociated Performer: New Riders Of The Purple Sage\nProducer: Steve Barncard\nComposer",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mC4vjoEZEjc",
+      "title": "Sailin'",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nSailin' \u00b7 New Riders Of The Purple Sage\n\nGypsy Cowboy\n\n\u2117 1972 SONY BMG MUSIC ENTERTAINMENT\n\nReleased on: 2010-07-16\n\nAssociated Performer: New Riders Of The Purple Sage\nProducer: Steve Barncard\nComposer,",
+      "duration": 170,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Folk Rock",
+    "Country Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Gypsy Cowboy",
+      "duration": "4:17"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Whiskey",
+      "extraartists": [
+        {
+          "name": "Darlene DiDomenico",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 1406781,
+          "resource_url": "https://api.discogs.com/artists/1406781"
+        }
+      ],
+      "duration": "3:33"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Groupie",
+      "duration": "2:37"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Sutter's Mill",
+      "duration": "1:51"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Death And Destruction",
+      "duration": "8:41"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Linda",
+      "duration": "3:03"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "On My Way Back Home",
+      "extraartists": [
+        {
+          "name": "Darlene DiDomenico",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 1406781,
+          "resource_url": "https://api.discogs.com/artists/1406781"
+        }
+      ],
+      "duration": "3:28"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Superman",
+      "extraartists": [
+        {
+          "name": "Darlene DiDomenico",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 1406781,
+          "resource_url": "https://api.discogs.com/artists/1406781"
+        }
+      ],
+      "duration": "3:08"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "She's No Angel",
+      "extraartists": [
+        {
+          "name": "Donna Godchaux",
+          "anv": "Donna Jean Godchaux",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 718936,
+          "resource_url": "https://api.discogs.com/artists/718936"
+        },
+        {
+          "name": "J. W. Arnold",
+          "anv": "J. Arnold",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2844181,
+          "resource_url": "https://api.discogs.com/artists/2844181"
+        },
+        {
+          "name": "Wanda Ballman",
+          "anv": "W. Ballman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 710721,
+          "resource_url": "https://api.discogs.com/artists/710721"
+        }
+      ],
+      "duration": "2:51"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Long Black Veil",
+      "extraartists": [
+        {
+          "name": "Donna Godchaux",
+          "anv": "Donna Jean Godchaux",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 718936,
+          "resource_url": "https://api.discogs.com/artists/718936"
+        },
+        {
+          "name": "Danny Dill",
+          "anv": "D. Dill",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 760791,
+          "resource_url": "https://api.discogs.com/artists/760791"
+        },
+        {
+          "name": "Marijohn Wilkin",
+          "anv": "M. Wilkin",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 695533,
+          "resource_url": "https://api.discogs.com/artists/695533"
+        }
+      ],
+      "duration": "3:54"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Sailin'",
+      "duration": "2:48"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Dave Torbert",
+      "anv": "",
+      "join": "",
+      "role": "Bass, Vocals, Acoustic Guitar",
+      "tracks": "",
+      "id": 274437,
+      "resource_url": "https://api.discogs.com/artists/274437"
+    },
+    {
+      "name": "Spencer Dryden",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Percussion",
+      "tracks": "",
+      "id": 399027,
+      "resource_url": "https://api.discogs.com/artists/399027"
+    },
+    {
+      "name": "David Brown (14)",
+      "anv": "Dave Brown",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 652309,
+      "resource_url": "https://api.discogs.com/artists/652309"
+    },
+    {
+      "name": "Ellen Burke",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 1406780,
+      "resource_url": "https://api.discogs.com/artists/1406780"
+    },
+    {
+      "name": "Stephen Barncard",
+      "anv": "Steve Barncard",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 526818,
+      "resource_url": "https://api.discogs.com/artists/526818"
+    },
+    {
+      "name": "Jack Schroer",
+      "anv": "",
+      "join": "",
+      "role": "Horns",
+      "tracks": "",
+      "id": 271944,
+      "resource_url": "https://api.discogs.com/artists/271944"
+    },
+    {
+      "name": "David Nelson",
+      "anv": "",
+      "join": "",
+      "role": "Lead Guitar, Vocals, Dobro, Mandolin, Bagpipes",
+      "tracks": "",
+      "id": 272416,
+      "resource_url": "https://api.discogs.com/artists/272416"
+    },
+    {
+      "name": "Buddy Cage",
+      "anv": "",
+      "join": "",
+      "role": "Pedal Steel Guitar",
+      "tracks": "",
+      "id": 261827,
+      "resource_url": "https://api.discogs.com/artists/261827"
+    },
+    {
+      "name": "Thomas Weir",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 1998915,
+      "resource_url": "https://api.discogs.com/artists/1998915"
+    },
+    {
+      "name": "Mark Naftalin",
+      "anv": "",
+      "join": "",
+      "role": "Piano",
+      "tracks": "",
+      "id": 476175,
+      "resource_url": "https://api.discogs.com/artists/476175"
+    },
+    {
+      "name": "New Riders Of The Purple Sage",
+      "anv": "Nrps",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 476171,
+      "resource_url": "https://api.discogs.com/artists/476171"
+    },
+    {
+      "name": "Stephen Barncard",
+      "anv": "Steve Barncard",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 526818,
+      "resource_url": "https://api.discogs.com/artists/526818"
+    },
+    {
+      "name": "Richard Greene",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "",
+      "id": 336054,
+      "resource_url": "https://api.discogs.com/artists/336054"
+    },
+    {
+      "name": "John Dawson",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Rhythm Guitar",
+      "tracks": "",
+      "id": 476177,
+      "resource_url": "https://api.discogs.com/artists/476177"
+    },
+    {
+      "name": "Dave Torbert",
+      "anv": "D. Torbert",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1, A3, B2",
+      "id": 274437,
+      "resource_url": "https://api.discogs.com/artists/274437"
+    },
+    {
+      "name": "John Dawson",
+      "anv": "J. Dawson",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A2, A4 to B1, B3, B6",
+      "id": 476177,
+      "resource_url": "https://api.discogs.com/artists/476177"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/2QQm3_Bb9GK8tiZFlgL2khb1XSJP01Gx9oEx8hFE7XE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTUzMzIxNDYz/Ny05NzQ3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/2QQm3_Bb9GK8tiZFlgL2khb1XSJP01Gx9oEx8hFE7XE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTUzMzIxNDYz/Ny05NzQ3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Ew3Dlf_LzrkueMeb67JTEhGeuoIv-ZVnuFVu77HTKBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTUzMzIxNDYz/Ny05NzQ3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YvoaxpHRZYqEAGbhhE3LP2WEpP5C8ZaZ6DmwjLhQY1s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTUzMzIxNDY2/MS05Mjc5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/YvoaxpHRZYqEAGbhhE3LP2WEpP5C8ZaZ6DmwjLhQY1s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTUzMzIxNDY2/MS05Mjc5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/fVl9IqY5CY5UB1jPCFooCu8zoZWDv4_CAS8-fBPVcF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTUzMzIxNDY2/MS05Mjc5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/S0ZgJLNTmcRoCklnJQRLolcpBQFCgBumeKLNPfZd2Ko/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTQ1NzU3MTY4/OC02NTkxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/S0ZgJLNTmcRoCklnJQRLolcpBQFCgBumeKLNPfZd2Ko/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTQ1NzU3MTY4/OC02NTkxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/FbZx7rY3rMf_2-ksEZLJ_ZgkuLTWgbazyZpkjIgUUpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTQ1NzU3MTY4/OC02NTkxLmpwZWc.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-W8qn7a1pjc0tboqtdX7U2A8ZyCwW40BheKM7k7TXSk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTQ1NzU3MTY5/MS0yMDY3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/-W8qn7a1pjc0tboqtdX7U2A8ZyCwW40BheKM7k7TXSk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTQ1NzU3MTY5/MS0yMDY3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/k3ci5d9ak3j_iNaFFDgC2WJfA1pQC7rxn5MI_-X-p6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTQ1NzU3MTY5/MS0yMDY3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5RvwoFtSZlLrzSsDzj-dKPxNxb4ctscvP66daEfNDYI/rs:fit/g:sm/q:90/h:436/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTQ3MjI3MjQy/NS0yMDc4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/5RvwoFtSZlLrzSsDzj-dKPxNxb4ctscvP66daEfNDYI/rs:fit/g:sm/q:90/h:436/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTQ3MjI3MjQy/NS0yMDc4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/_MR8QaEdMh3Q9Zyb7UKzMRugvj0MXMHQy7ldk7LfHeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTQ3MjI3MjQy/NS0yMDc4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 436
+    }
+  ],
+  "thumb": "https://i.discogs.com/Ew3Dlf_LzrkueMeb67JTEhGeuoIv-ZVnuFVu77HTKBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTUzMzIxNDYz/Ny05NzQ3LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

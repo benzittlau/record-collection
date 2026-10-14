@@ -1,0 +1,216 @@
+{
+  "created": "2026-10-14T03:18:39.679Z",
+  "count": 2,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "fa8e35ad-468a-402c-a28e-15eb2341185b",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "d6dbb690-252e-3f6a-8242-2dc1b4b4518e",
+      "count": 1,
+      "title": "\"Trout\" Quintet / String Quartet \"Death and the Maiden\"",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Hungarian Quartet",
+          "artist": {
+            "id": "e199308d-bb49-4fab-9a5a-e1675fc55240",
+            "name": "Hungarian Quartet",
+            "sort-name": "Hungarian Quartet",
+            "disambiguation": "1935-1972"
+          }
+        },
+        {
+          "name": "Hephzibah Menuhin",
+          "artist": {
+            "id": "f0282d0f-f602-4269-897b-10a79a1f0db8",
+            "name": "Hephzibah Menuhin",
+            "sort-name": "Menuhin, Hephzibah",
+            "disambiguation": "pianist"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "9e70c9ba-bae5-3b66-8cc6-6846f0e17a2b",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "\"Trout\" Quintet / String Quartet \"Death and the Maiden\"",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Compilation"
+        ],
+        "secondary-type-ids": [
+          "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+        ]
+      },
+      "date": "1989",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "1989",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          }
+        }
+      ],
+      "barcode": "724348948120",
+      "label-info": [
+        {
+          "catalog-number": "Seraphim",
+          "label": {
+            "id": "c029628b-6633-439e-bcee-ed02e8a338f7",
+            "name": "EMI"
+          }
+        }
+      ],
+      "track-count": 9,
+      "media": [
+        {
+          "id": "af70b6a3-7c87-36d8-bf70-2009351460dc",
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 9
+        }
+      ]
+    },
+    {
+      "id": "93abd14e-1d16-407e-afb7-958c0ce776d5",
+      "score": 80,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "612eca8d-ef4a-4a5d-8332-6ad85b8b328f",
+      "count": 1,
+      "title": "Schubert: Piano Quintet in A 'Trout' / Beethoven: Piano Trio in D 'Ghost'",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": ", ",
+          "name": "Franz Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": "; ",
+          "name": "Ludwig van Beethoven",
+          "artist": {
+            "id": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+            "name": "Ludwig van Beethoven",
+            "sort-name": "Beethoven, Ludwig van",
+            "disambiguation": "German composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Hephzibah Menuhin",
+          "artist": {
+            "id": "f0282d0f-f602-4269-897b-10a79a1f0db8",
+            "name": "Hephzibah Menuhin",
+            "sort-name": "Menuhin, Hephzibah",
+            "disambiguation": "pianist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Yehudi Menuhin",
+          "artist": {
+            "id": "2a8949f5-d681-4df2-a2fd-a08966ae2d31",
+            "name": "Yehudi Menuhin",
+            "sort-name": "Menuhin, Yehudi",
+            "disambiguation": "violinist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Maurice Gendron",
+          "artist": {
+            "id": "b671fcf8-b5b3-40ee-a58e-c4a396a00eac",
+            "name": "Maurice Gendron",
+            "sort-name": "Gendron, Maurice",
+            "disambiguation": "cellist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Members of the Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "name": "J. Edward Merrett",
+          "artist": {
+            "id": "2cc76cca-4fb0-4477-8e84-8c0f53ff16dd",
+            "name": "James Merrett",
+            "sort-name": "Merrett, James",
+            "disambiguation": "double bass player"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ef42fea0-3ca3-4f28-8a88-73b8af467e4d",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Schubert: Piano Quintet in A 'Trout' / Beethoven: Piano Trio in D 'Ghost'",
+        "primary-type": "Album"
+      },
+      "barcode": "0077776315027",
+      "label-info": [
+        {
+          "catalog-number": "CD-EMX 2078",
+          "label": {
+            "id": "c029628b-6633-439e-bcee-ed02e8a338f7",
+            "name": "EMI"
+          }
+        }
+      ],
+      "track-count": 8,
+      "media": [
+        {
+          "id": "0f483829-27f4-37d1-a6bd-b7d20b3aebe4",
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 8
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": "lower-middle-18",
+  "identity": "Low",
+  "searches": [
+    {
+      "query": "release:\"Low\" AND artist:\"David Bowie\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Low%22%20AND%20artist%3A%22David%20Bowie%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "e0f741ae-9254-38b9-bef8-fd0516d36c94",
+      "url": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
+      "title": "Low",
+      "artistCredit": [
+        {
+          "name": "David Bowie",
+          "artist": {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "sort-name": "Bowie, David",
+            "disambiguation": "English singer‐songwriter"
+          }
+        }
+      ],
+      "country": "JP",
+      "date": "1977",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "RVP-6154",
+          "label": {
+            "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+            "name": "RCA"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 18146814,
+          "image": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079-500.jpg",
+            "small": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079-250.jpg"
+          },
+          "id": "1331191079"
+        },
+        {
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "back": true,
+          "edit": 18146845,
+          "image": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267-500.jpg",
+            "small": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267-250.jpg"
+          },
+          "id": "1331201267"
+        },
+        {
+          "types": [
+            "Obi"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 17726598,
+          "image": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1029479873.jpg",
+          "comment": "obi front",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1029479873-500.jpg",
+            "small": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1029479873-250.jpg"
+          },
+          "id": "1029479873"
+        },
+        {
+          "types": [
+            "Obi"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 17726604,
+          "image": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1029494687.jpg",
+          "comment": "obi back",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1029494687-500.jpg",
+            "small": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1029494687-250.jpg"
+          },
+          "id": "1029494687"
+        },
+        {
+          "types": [
+            "Other"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 18146861,
+          "image": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331214271.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331214271-500.jpg",
+            "small": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331214271-250.jpg"
+          },
+          "id": "1331214271"
+        },
+        {
+          "types": [
+            "Other"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 18146877,
+          "image": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331222976.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331222976-500.jpg",
+            "small": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331222976-250.jpg"
+          },
+          "id": "1331222976"
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 18146892,
+          "image": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331237463.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331237463-500.jpg",
+            "small": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331237463-250.jpg"
+          },
+          "id": "1331237463"
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 18146914,
+          "image": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331244751.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331244751-500.jpg",
+            "small": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331244751-250.jpg"
+          },
+          "id": "1331244751"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "3dfd3d20-fa03-4db3-85b1-02c439133884",
+      "url": "https://musicbrainz.org/release/3dfd3d20-fa03-4db3-85b1-02c439133884",
+      "title": "Low",
+      "artistCredit": [
+        {
+          "name": "David Bowie",
+          "artist": {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "sort-name": "Bowie, David",
+            "disambiguation": "English singer‐songwriter"
+          }
+        }
+      ],
+      "country": "XE",
+      "date": "2018-02-23",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "DB 77821",
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "394420bd-47a0-4ad3-90dc-93856eb44552",
+      "url": "https://musicbrainz.org/release/394420bd-47a0-4ad3-90dc-93856eb44552",
+      "title": "Low",
+      "artistCredit": [
+        {
+          "name": "David Bowie",
+          "artist": {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "sort-name": "Bowie, David",
+            "disambiguation": "English singer‐songwriter"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "2018-02-23",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "DB 77821",
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "f480baa5-1e25-4f4a-aff6-250397993534",
+      "url": "https://musicbrainz.org/release/f480baa5-1e25-4f4a-aff6-250397993534",
+      "title": "Low",
+      "artistCredit": [
+        {
+          "name": "David Bowie",
+          "artist": {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "sort-name": "Bowie, David",
+            "disambiguation": "English singer‐songwriter"
+          }
+        }
+      ],
+      "country": "XE",
+      "date": "1984",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "NL 83856",
+          "label": {
+            "id": "5e56de85-b963-4db5-87da-6506c9455c57",
+            "name": "RCA International"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 18049016,
+          "image": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268952152.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268952152-500.jpg",
+            "small": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268952152-250.jpg"
+          },
+          "id": "1268952152"
+        },
+        {
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "back": true,
+          "edit": 18049020,
+          "image": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268958897.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268958897-500.jpg",
+            "small": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268958897-250.jpg"
+          },
+          "id": "1268958897"
+        },
+        {
+          "types": [
+            "Other"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 18049038,
+          "image": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268963107.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268963107-500.jpg",
+            "small": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268963107-250.jpg"
+          },
+          "id": "1268963107"
+        },
+        {
+          "types": [
+            "Other"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 18049064,
+          "image": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268971887.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268971887-500.jpg",
+            "small": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268971887-250.jpg"
+          },
+          "id": "1268971887"
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 18049085,
+          "image": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268989494.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268989494-500.jpg",
+            "small": "http://coverartarchive.org/release/f480baa5-1e25-4f4a-aff6-250397993534/1268989494-250.jpg"
+          },
+          "id": "1268989494"
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

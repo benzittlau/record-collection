@@ -1,0 +1,220 @@
+{
+  "id": "lower-middle-27",
+  "identity": "Baldry's Out!",
+  "searches": [
+    {
+      "query": "rgid:e1feb03d-86f9-4a11-bb58-a6153b63288b",
+      "url": "https://musicbrainz.org/ws/2/release/?query=rgid%3Ae1feb03d-86f9-4a11-bb58-a6153b63288b&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "e76a31ba-47c7-44b6-bea1-1fb939d06967",
+      "url": "https://musicbrainz.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967",
+      "title": "Baldry's Out!",
+      "artistCredit": [
+        {
+          "name": "Long John Baldry",
+          "artist": {
+            "id": "e43ab2d7-beac-453b-aa02-83756951d71c",
+            "name": "Long John Baldry",
+            "sort-name": "Baldry, Long John"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1979",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "ST 6459",
+          "label": {
+            "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+            "name": "Capitol Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "comment": "",
+          "front": true,
+          "id": 16137661211,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137661211-500.jpg",
+            "small": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137661211-250.jpg"
+          },
+          "types": [
+            "Front"
+          ],
+          "edit": 44061420,
+          "image": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137661211.jpg",
+          "approved": true,
+          "back": false
+        },
+        {
+          "back": true,
+          "approved": true,
+          "image": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137663048.jpg",
+          "edit": 44061421,
+          "types": [
+            "Back"
+          ],
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137663048-250.jpg",
+            "large": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137663048-500.jpg"
+          },
+          "id": 16137663048,
+          "front": false,
+          "comment": ""
+        },
+        {
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137663740-250.jpg",
+            "large": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137663740-500.jpg"
+          },
+          "types": [
+            "Liner"
+          ],
+          "image": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137663740.jpg",
+          "edit": 44061422,
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "front": false,
+          "id": 16137663740
+        },
+        {
+          "comment": "",
+          "id": 16137664487,
+          "front": false,
+          "approved": true,
+          "back": false,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137664487-250.jpg",
+            "large": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137664487-500.jpg"
+          },
+          "types": [
+            "Liner"
+          ],
+          "edit": 44061423,
+          "image": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137664487.jpg"
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137665042-250.jpg",
+            "large": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137665042-500.jpg"
+          },
+          "image": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137665042.jpg",
+          "edit": 44061424,
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "front": false,
+          "id": 16137665042
+        },
+        {
+          "comment": "",
+          "id": 16137665825,
+          "front": false,
+          "types": [
+            "Medium"
+          ],
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137665825-500.jpg",
+            "small": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137665825-250.jpg"
+          },
+          "image": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137665825.jpg",
+          "edit": 44061425,
+          "approved": true,
+          "back": false
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": {
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "status": "Official",
+    "country": "CA",
+    "disambiguation": "",
+    "cover-art-archive": {
+      "back": true,
+      "count": 6,
+      "front": true,
+      "artwork": true,
+      "darkened": false
+    },
+    "title": "Baldry's Out!",
+    "asin": null,
+    "barcode": "",
+    "packaging": "Cardboard/Paper Sleeve",
+    "artist-credit": [
+      {
+        "artist": {
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "sort-name": "Baldry, Long John",
+          "type": "Person",
+          "disambiguation": "",
+          "name": "Long John Baldry",
+          "id": "e43ab2d7-beac-453b-aa02-83756951d71c",
+          "country": "GB"
+        },
+        "name": "Long John Baldry",
+        "joinphrase": ""
+      }
+    ],
+    "label-info": [
+      {
+        "label": {
+          "name": "Capitol Records",
+          "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+          "disambiguation": "imprint of Capitol Records, Inc.",
+          "sort-name": "Capitol Records",
+          "type": "Imprint",
+          "label-code": 148,
+          "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded"
+        },
+        "catalog-number": "ST 6459"
+      }
+    ],
+    "quality": "normal",
+    "media": [
+      {
+        "track-count": 11,
+        "title": "",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "format": "12\" Vinyl",
+        "position": 1,
+        "id": "2439b39d-d6e4-36d9-ad6f-ea9dc9b6fdc3"
+      }
+    ],
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "sort-name": "Canada",
+          "iso-3166-1-codes": [
+            "CA"
+          ],
+          "type": null,
+          "disambiguation": "",
+          "name": "Canada",
+          "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b"
+        },
+        "date": "1979"
+      }
+    ],
+    "date": "1979",
+    "id": "e76a31ba-47c7-44b6-bea1-1fb939d06967"
+  }
+}

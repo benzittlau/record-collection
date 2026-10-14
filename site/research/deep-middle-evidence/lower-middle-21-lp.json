@@ -1,0 +1,320 @@
+{
+  "id": "lower-middle-21",
+  "identity": "Heroes",
+  "searches": [
+    {
+      "query": "release:\"Heroes\" AND artist:\"David Bowie\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Heroes%22%20AND%20artist%3A%22David%20Bowie%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "47792942-1537-4a1c-af65-23923fdbd0d3",
+      "url": "https://musicbrainz.org/release/47792942-1537-4a1c-af65-23923fdbd0d3",
+      "title": "“Heroes”",
+      "artistCredit": [
+        {
+          "name": "David Bowie",
+          "artist": {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "sort-name": "Bowie, David",
+            "disambiguation": "English singer‐songwriter"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1977",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "AFL1-2522",
+          "label": {
+            "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+            "name": "RCA"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 27874211,
+          "image": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350041483.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "7350041483",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350041483-500.jpg",
+            "small": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350041483-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "back": true,
+          "edit": 27874215,
+          "image": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350042564.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "7350042564",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350042564-500.jpg",
+            "small": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350042564-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Liner"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 27874220,
+          "image": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350043434.jpg",
+          "comment": "Sleeve",
+          "approved": true,
+          "id": "7350043434",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350043434-500.jpg",
+            "small": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350043434-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Liner"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 27874222,
+          "image": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350044355.jpg",
+          "comment": "Sleeve 2nd side",
+          "approved": true,
+          "id": "7350044355",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350044355-500.jpg",
+            "small": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350044355-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 27874224,
+          "image": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350045399.jpg",
+          "comment": "A-side",
+          "approved": true,
+          "id": "7350045399",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350045399-500.jpg",
+            "small": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350045399-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 27874225,
+          "image": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350046140.jpg",
+          "comment": "B-side",
+          "approved": true,
+          "id": "7350046140",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350046140-500.jpg",
+            "small": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350046140-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "1c6f8bb4-02b1-3266-8a0b-74688e2fb1f6",
+      "url": "https://musicbrainz.org/release/1c6f8bb4-02b1-3266-8a0b-74688e2fb1f6",
+      "title": "“Heroes”",
+      "artistCredit": [
+        {
+          "name": "David Bowie",
+          "artist": {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "sort-name": "Bowie, David",
+            "disambiguation": "English singer‐songwriter"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1981",
+      "formats": [
+        "Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "INTS 5066",
+          "label": {
+            "id": "d36eae1b-4a8b-499d-9efd-66b17b9928de",
+            "name": "RCA International Series"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 25256088,
+          "image": "http://coverartarchive.org/release/1c6f8bb4-02b1-3266-8a0b-74688e2fb1f6/5949886215.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "5949886215",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/1c6f8bb4-02b1-3266-8a0b-74688e2fb1f6/5949886215-500.jpg",
+            "small": "http://coverartarchive.org/release/1c6f8bb4-02b1-3266-8a0b-74688e2fb1f6/5949886215-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "4c26061a-4317-43c0-bdc7-281629542fee",
+      "url": "https://musicbrainz.org/release/4c26061a-4317-43c0-bdc7-281629542fee",
+      "title": "“Heroes”",
+      "artistCredit": [
+        {
+          "name": "David Bowie",
+          "artist": {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "sort-name": "Bowie, David",
+            "disambiguation": "English singer‐songwriter"
+          }
+        }
+      ],
+      "country": "XE",
+      "date": "2018-02-23",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "DB 77822",
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "852d83b5-9bba-3672-b8d8-60bfc821ec16",
+      "url": "https://musicbrainz.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16",
+      "title": "“Heroes”",
+      "artistCredit": [
+        {
+          "name": "David Bowie",
+          "artist": {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "name": "David Bowie",
+            "sort-name": "Bowie, David",
+            "disambiguation": "English singer‐songwriter"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1980",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "AYL1-3857",
+          "label": {
+            "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+            "name": "RCA"
+          }
+        }
+      ],
+      "images": [
+        {
+          "image": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639289674.jpg",
+          "comment": "",
+          "approved": true,
+          "types": [
+            "Front"
+          ],
+          "id": 15639289674,
+          "edit": 42803613,
+          "back": false,
+          "front": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639289674-500.jpg",
+            "small": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639289674-250.jpg"
+          }
+        },
+        {
+          "comment": "",
+          "image": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639290293.jpg",
+          "edit": 42803614,
+          "id": 15639290293,
+          "types": [
+            "Back"
+          ],
+          "approved": true,
+          "back": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639290293-500.jpg",
+            "small": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639290293-250.jpg"
+          },
+          "front": false
+        },
+        {
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639291045-250.jpg",
+            "large": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639291045-500.jpg"
+          },
+          "front": false,
+          "back": false,
+          "id": 15639291045,
+          "edit": 42803615,
+          "types": [
+            "Medium"
+          ],
+          "approved": true,
+          "comment": "Side 1",
+          "image": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639291045.jpg"
+        },
+        {
+          "front": false,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639291694-250.jpg",
+            "large": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639291694-500.jpg"
+          },
+          "back": false,
+          "approved": true,
+          "id": 15639291694,
+          "edit": 42803616,
+          "types": [
+            "Medium"
+          ],
+          "comment": "Side 2",
+          "image": "http://coverartarchive.org/release/852d83b5-9bba-3672-b8d8-60bfc821ec16/15639291694.jpg"
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

@@ -1,0 +1,157 @@
+{
+  "id": "upper-middle-46",
+  "identity": "Burgers",
+  "searches": [
+    {
+      "query": "release:\"Burgers\" AND artist:\"Hot Tuna\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Burgers%22%20AND%20artist%3A%22Hot%20Tuna%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "6efd8d28-3c68-4afb-b21b-3fbf8691b0ec",
+      "url": "https://musicbrainz.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec",
+      "title": "Burgers",
+      "artistCredit": [
+        {
+          "name": "Hot Tuna",
+          "artist": {
+            "id": "d13d9feb-b7c7-49f4-9b72-65e29a16aa24",
+            "name": "Hot Tuna",
+            "sort-name": "Hot Tuna"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1972-02",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "FTR 1004",
+          "label": {
+            "id": "9ce627e0-f0e0-4e88-ae1b-739574691ee7",
+            "name": "Grunt"
+          }
+        },
+        {
+          "catalog-number": "88725437722",
+          "label": {
+            "id": "db413bad-8bbd-4c08-a378-91872ed4f659",
+            "name": "Afterthought Productions Corp."
+          }
+        },
+        {
+          "catalog-number": "FTR-1004",
+          "label": {
+            "id": "9ce627e0-f0e0-4e88-ae1b-739574691ee7",
+            "name": "Grunt"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 55280211,
+          "front": true,
+          "id": 20688016135,
+          "image": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688016135.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688016135-1200.jpg",
+            "250": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688016135-250.jpg",
+            "500": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688016135-500.jpg",
+            "large": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688016135-500.jpg",
+            "small": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688016135-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 55280217,
+          "front": false,
+          "id": 20688018962,
+          "image": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688018962.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688018962-1200.jpg",
+            "250": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688018962-250.jpg",
+            "500": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688018962-500.jpg",
+            "large": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688018962-500.jpg",
+            "small": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688018962-250.jpg"
+          },
+          "types": [
+            "Back",
+            "Spine"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 55280226,
+          "front": false,
+          "id": 20688021246,
+          "image": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688021246.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688021246-1200.jpg",
+            "250": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688021246-250.jpg",
+            "500": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688021246-500.jpg",
+            "large": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688021246-500.jpg",
+            "small": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688021246-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 55280234,
+          "front": false,
+          "id": 20688023622,
+          "image": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688023622.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688023622-1200.jpg",
+            "250": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688023622-250.jpg",
+            "500": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688023622-500.jpg",
+            "large": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688023622-500.jpg",
+            "small": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688023622-250.jpg"
+          },
+          "types": [
+            "Booklet",
+            "Spine"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 55280237,
+          "front": false,
+          "id": 20688028566,
+          "image": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688028566.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688028566-1200.jpg",
+            "250": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688028566-250.jpg",
+            "500": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688028566-500.jpg",
+            "large": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688028566-500.jpg",
+            "small": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688028566-250.jpg"
+          },
+          "types": [
+            "Booklet",
+            "Tray"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

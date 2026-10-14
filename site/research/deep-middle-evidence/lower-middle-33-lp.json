@@ -1,0 +1,97 @@
+{
+  "id": "lower-middle-33",
+  "identity": "Down the Road",
+  "searches": [
+    {
+      "query": "rgid:4cd038b0-21f6-3d82-bf98-1af964ef383c",
+      "url": "https://musicbrainz.org/ws/2/release/?query=rgid%3A4cd038b0-21f6-3d82-bf98-1af964ef383c&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "0a17e842-4665-42ba-af96-fa2d0811664b",
+      "url": "https://musicbrainz.org/release/0a17e842-4665-42ba-af96-fa2d0811664b",
+      "title": "Down the Road",
+      "artistCredit": [
+        {
+          "name": "Manassas",
+          "artist": {
+            "id": "6964478b-5f5d-48a4-839a-dfc3886c0843",
+            "name": "Manassas",
+            "sort-name": "Manassas",
+            "disambiguation": "Stephen Stills group"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1973",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SD 7250",
+          "label": {
+            "id": "50c384a2-0b44-401b-b893-8181173339c7",
+            "name": "Atlantic"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "c86c4643-07d6-48d6-a55a-ad03b2c505f6",
+      "url": "https://musicbrainz.org/release/c86c4643-07d6-48d6-a55a-ad03b2c505f6",
+      "title": "Down the Road",
+      "artistCredit": [
+        {
+          "name": "Manassas",
+          "artist": {
+            "id": "6964478b-5f5d-48a4-839a-dfc3886c0843",
+            "name": "Manassas",
+            "sort-name": "Manassas",
+            "disambiguation": "Stephen Stills group"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1973",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SD 7250",
+          "label": {
+            "id": "50c384a2-0b44-401b-b893-8181173339c7",
+            "name": "Atlantic"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 25374242,
+          "front": true,
+          "id": 6031971278,
+          "image": "http://coverartarchive.org/release/c86c4643-07d6-48d6-a55a-ad03b2c505f6/6031971278.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/c86c4643-07d6-48d6-a55a-ad03b2c505f6/6031971278-1200.jpg",
+            "250": "http://coverartarchive.org/release/c86c4643-07d6-48d6-a55a-ad03b2c505f6/6031971278-250.jpg",
+            "500": "http://coverartarchive.org/release/c86c4643-07d6-48d6-a55a-ad03b2c505f6/6031971278-500.jpg",
+            "large": "http://coverartarchive.org/release/c86c4643-07d6-48d6-a55a-ad03b2c505f6/6031971278-500.jpg",
+            "small": "http://coverartarchive.org/release/c86c4643-07d6-48d6-a55a-ad03b2c505f6/6031971278-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

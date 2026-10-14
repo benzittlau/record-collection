@@ -1,0 +1,128 @@
+{
+  "id": "upper-middle-22",
+  "query": {
+    "type": "release",
+    "format": "Vinyl",
+    "per_page": 30,
+    "catno": "FC39298"
+  },
+  "url": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=30&catno=FC39298",
+  "results": [
+    {
+      "country": "Canada",
+      "year": "1984",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Columbia"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Reggae",
+        "Funk / Soul"
+      ],
+      "style": [
+        "Reggae-Pop",
+        "Pop Rock",
+        "Disco",
+        "Health-Fitness"
+      ],
+      "id": 4949322,
+      "barcode": [],
+      "master_id": 155392,
+      "master_url": "https://api.discogs.com/masters/155392",
+      "uri": "/release/4949322-Arnold-Schwarzenegger-Arnold-Schwarzeneggers-Total-Body-Workout",
+      "catno": "FC 39298",
+      "title": "Arnold Schwarzenegger - Arnold Schwarzenegger's Total Body Workout",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4949322",
+      "community": {
+        "want": 92,
+        "have": 31
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1984",
+      "format": [
+        "Vinyl",
+        "LP"
+      ],
+      "label": [
+        "Columbia",
+        "CBS Inc.",
+        "Columbia Records",
+        "CBS Inc.",
+        "Sterling Sound",
+        "Celestial Sound Studios, New York, NY",
+        "CBS Inc.",
+        "T.W. Music Limited",
+        "Clover Recorders"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Reggae",
+        "Pop"
+      ],
+      "style": [
+        "Reggae-Pop",
+        "Pop Rock",
+        "Disco",
+        "Health-Fitness"
+      ],
+      "id": 612203,
+      "barcode": [
+        "074643929813",
+        "0 7464-39298-1",
+        "AL 39298",
+        "BL 39298",
+        "ASCAP",
+        "BMI",
+        "AL-39298-1C G1 A5 STERLING",
+        "BL-39298-1C G1 B4 STERLING",
+        "P AL-39298-1B *STERLING",
+        "P BL39298-1B *STERLING"
+      ],
+      "master_id": 155392,
+      "master_url": "https://api.discogs.com/masters/155392",
+      "uri": "/release/612203-Arnold-Schwarzenegger-Arnold-Schwarzeneggers-Total-Body-Workout",
+      "catno": "FC 39298",
+      "title": "Arnold Schwarzenegger - Arnold Schwarzenegger's Total Body Workout",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/612203",
+      "community": {
+        "want": 291,
+        "have": 324
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ]
+    }
+  ],
+  "candidates": []
+}

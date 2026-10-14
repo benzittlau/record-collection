@@ -1,0 +1,118 @@
+{
+  "label-info": [
+    {
+      "catalog-number": "SD 7250",
+      "label": {
+        "type": "Imprint",
+        "name": "Atlantic",
+        "disambiguation": "Warner Music imprint",
+        "id": "50c384a2-0b44-401b-b893-8181173339c7",
+        "label-code": 121,
+        "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+        "sort-name": "Atlantic"
+      }
+    }
+  ],
+  "id": "0a17e842-4665-42ba-af96-fa2d0811664b",
+  "status": "Official",
+  "relations": [
+    {
+      "direction": "forward",
+      "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+      "url": {
+        "resource": "https://www.amazon.ca/gp/product/B00401KJO2",
+        "id": "4de6ad39-483e-41b9-875a-e8b62bc654c7"
+      },
+      "target-type": "url",
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "type": "amazon asin",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "ended": false,
+      "type": "discogs",
+      "attribute-values": {},
+      "url": {
+        "id": "1436479a-90fe-41e8-b7ad-7e5a697c4ef0",
+        "resource": "https://www.discogs.com/release/5291554"
+      },
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "begin": null,
+      "end": null,
+      "target-type": "url",
+      "direction": "forward"
+    }
+  ],
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "release-events": [
+    {
+      "date": "1973",
+      "area": {
+        "type": null,
+        "name": "Canada",
+        "type-id": null,
+        "sort-name": "Canada",
+        "disambiguation": "",
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "iso-3166-1-codes": [
+          "CA"
+        ]
+      }
+    }
+  ],
+  "barcode": "",
+  "date": "1973",
+  "cover-art-archive": {
+    "darkened": false,
+    "back": false,
+    "artwork": false,
+    "front": false,
+    "count": 0
+  },
+  "disambiguation": "",
+  "artist-credit": [
+    {
+      "artist": {
+        "type": "Group",
+        "name": "Manassas",
+        "country": "US",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Manassas",
+        "id": "6964478b-5f5d-48a4-839a-dfc3886c0843",
+        "disambiguation": "Stephen Stills group"
+      },
+      "joinphrase": "",
+      "name": "Manassas"
+    }
+  ],
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "asin": "B00401KJO2",
+  "country": "CA",
+  "title": "Down the Road",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "packaging": "Cardboard/Paper Sleeve",
+  "media": [
+    {
+      "id": "381a4669-e1f4-3679-a857-ac0835b16459",
+      "position": 1,
+      "format": "12\" Vinyl",
+      "title": "",
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "track-count": 10
+    }
+  ],
+  "quality": "normal"
+}

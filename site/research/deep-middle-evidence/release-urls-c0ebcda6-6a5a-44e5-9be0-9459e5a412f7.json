@@ -1,0 +1,87 @@
+{
+  "disambiguation": "",
+  "cover-art-archive": {
+    "count": 2,
+    "darkened": false,
+    "back": false,
+    "front": true,
+    "artwork": true
+  },
+  "quality": "normal",
+  "title": "L'Extraordinaire Tour de France d'Ad\u00e9lard Rousseau",
+  "country": "FR",
+  "text-representation": {
+    "script": "Latn",
+    "language": "fra"
+  },
+  "status": "Official",
+  "barcode": "",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "id": "c0ebcda6-6a5a-44e5-9be0-9459e5a412f7",
+  "release-events": [
+    {
+      "area": {
+        "disambiguation": "",
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "sort-name": "France",
+        "iso-3166-1-codes": [
+          "FR"
+        ],
+        "type-id": null,
+        "type": null,
+        "name": "France"
+      },
+      "date": "1978"
+    }
+  ],
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "id": "ce5f578f-5dec-455f-8f24-cc7dc3964a12",
+        "sort-name": "Malicorne",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Malicorne",
+        "type": "Group",
+        "country": "FR",
+        "disambiguation": ""
+      },
+      "name": "Malicorne"
+    }
+  ],
+  "media": [
+    {
+      "id": "2e518216-c73d-326f-a1cb-90fe82df1944",
+      "title": "",
+      "position": 1,
+      "track-count": 11,
+      "format-id": "10e17707-9751-3aaf-95b2-2432acd5374c",
+      "format": "Vinyl"
+    }
+  ],
+  "label-info": [],
+  "asin": "B000B5JRYE",
+  "date": "1978",
+  "packaging-id": null,
+  "relations": [
+    {
+      "type": "amazon asin",
+      "source-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "d6dd7d62-af75-48fb-88fb-91e7eab8a296",
+        "resource": "https://www.amazon.fr/gp/product/B000B5JRYE"
+      },
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "ended": false,
+      "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+      "end": null,
+      "attributes": []
+    }
+  ],
+  "packaging": null
+}

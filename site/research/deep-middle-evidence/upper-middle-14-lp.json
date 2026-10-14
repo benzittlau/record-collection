@@ -1,0 +1,330 @@
+{
+  "id": "upper-middle-14",
+  "identity": "Chance",
+  "searches": [
+    {
+      "query": "rgid:b20405cf-b154-3e30-bd4e-e351fdc54bb4",
+      "url": "https://musicbrainz.org/ws/2/release/?query=rgid%3Ab20405cf-b154-3e30-bd4e-e351fdc54bb4&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "518878f9-b54c-4e57-8e38-21a57896bf1c",
+      "url": "https://musicbrainz.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c",
+      "title": "Chance",
+      "artistCredit": [
+        {
+          "name": "Manfred Mann’s Earth Band",
+          "artist": {
+            "id": "83e9c775-84ea-4cf6-abdf-b9ffa8c3d060",
+            "name": "Manfred Mann’s Earth Band",
+            "sort-name": "Mann, Manfred, Earth Band"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1980-10-10",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "BRON 529",
+          "label": {
+            "id": "5f5334fe-9873-4be3-9650-8b1888a7ae25",
+            "name": "Bronze"
+          }
+        }
+      ],
+      "images": [
+        {
+          "image": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469499800.jpg",
+          "edit": 38569330,
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "id": "13469499800",
+          "back": false,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469499800-250.jpg",
+            "large": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469499800-500.jpg"
+          },
+          "approved": true,
+          "comment": ""
+        },
+        {
+          "comment": "",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469501181-500.jpg",
+            "small": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469501181-250.jpg"
+          },
+          "approved": true,
+          "back": true,
+          "id": "13469501181",
+          "front": false,
+          "types": [
+            "Back"
+          ],
+          "edit": 38569333,
+          "image": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469501181.jpg"
+        },
+        {
+          "edit": 38569335,
+          "image": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469502322.jpg",
+          "id": "13469502322",
+          "back": false,
+          "types": [
+            "Booklet",
+            "Liner"
+          ],
+          "front": false,
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469502322-500.jpg",
+            "small": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469502322-250.jpg"
+          }
+        },
+        {
+          "image": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469503350.jpg",
+          "edit": 38569346,
+          "back": false,
+          "id": "13469503350",
+          "front": false,
+          "types": [
+            "Booklet",
+            "Liner"
+          ],
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469503350-500.jpg",
+            "small": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469503350-250.jpg"
+          }
+        },
+        {
+          "edit": 38569349,
+          "image": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469504488.jpg",
+          "front": false,
+          "types": [
+            "Sticker"
+          ],
+          "back": false,
+          "id": "13469504488",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469504488-500.jpg",
+            "small": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469504488-250.jpg"
+          },
+          "approved": true,
+          "comment": "A side"
+        },
+        {
+          "types": [
+            "Sticker"
+          ],
+          "front": false,
+          "id": "13469504951",
+          "back": false,
+          "edit": 38569351,
+          "image": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469504951.jpg",
+          "approved": true,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469504951-250.jpg",
+            "large": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469504951-500.jpg"
+          },
+          "comment": "B side"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "c36e8ca8-5a3a-4d79-a442-7ce94ff999cd",
+      "url": "https://musicbrainz.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd",
+      "title": "Chance",
+      "artistCredit": [
+        {
+          "name": "Manfred Mann’s Earth Band",
+          "artist": {
+            "id": "83e9c775-84ea-4cf6-abdf-b9ffa8c3d060",
+            "name": "Manfred Mann’s Earth Band",
+            "sort-name": "Mann, Manfred, Earth Band"
+          }
+        }
+      ],
+      "country": "JP",
+      "date": "1980-10-10",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "VIP-6782",
+          "label": {
+            "id": "5f5334fe-9873-4be3-9650-8b1888a7ae25",
+            "name": "Bronze"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 83261201,
+          "front": true,
+          "id": 30573380531,
+          "image": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573380531.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573380531-1200.jpg",
+            "250": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573380531-250.jpg",
+            "500": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573380531-500.jpg",
+            "large": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573380531-500.jpg",
+            "small": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573380531-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 83261410,
+          "front": false,
+          "id": 30573536089,
+          "image": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573536089.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573536089-1200.jpg",
+            "250": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573536089-250.jpg",
+            "500": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573536089-500.jpg",
+            "large": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573536089-500.jpg",
+            "small": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573536089-250.jpg"
+          },
+          "types": [
+            "Liner"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 83261706,
+          "front": false,
+          "id": 30573573103,
+          "image": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573573103.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573573103-1200.jpg",
+            "250": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573573103-250.jpg",
+            "500": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573573103-500.jpg",
+            "large": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573573103-500.jpg",
+            "small": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573573103-250.jpg"
+          },
+          "types": [
+            "Liner"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 83262073,
+          "front": false,
+          "id": 30573605846,
+          "image": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573605846.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573605846-1200.jpg",
+            "250": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573605846-250.jpg",
+            "500": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573605846-500.jpg",
+            "large": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573605846-500.jpg",
+            "small": "http://coverartarchive.org/release/c36e8ca8-5a3a-4d79-a442-7ce94ff999cd/30573605846-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": {
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null,
+    "media": [
+      {
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "id": "4eb8f0e2-a9a2-33ac-924a-124d7e9f0e11",
+        "title": "",
+        "track-count": 9,
+        "position": 1,
+        "format": "12\" Vinyl"
+      }
+    ],
+    "artist-credit": [
+      {
+        "name": "Manfred Mann’s Earth Band",
+        "artist": {
+          "sort-name": "Mann, Manfred, Earth Band",
+          "name": "Manfred Mann’s Earth Band",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "id": "83e9c775-84ea-4cf6-abdf-b9ffa8c3d060",
+          "type": "Group",
+          "disambiguation": "",
+          "country": "GB"
+        },
+        "joinphrase": ""
+      }
+    ],
+    "disambiguation": "",
+    "title": "Chance",
+    "barcode": "",
+    "release-events": [
+      {
+        "date": "1980-10-10",
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "name": "United Kingdom",
+          "type-id": null,
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type": null,
+          "disambiguation": ""
+        }
+      }
+    ],
+    "status": "Official",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "date": "1980-10-10",
+    "id": "518878f9-b54c-4e57-8e38-21a57896bf1c",
+    "packaging": "Cardboard/Paper Sleeve",
+    "label-info": [
+      {
+        "label": {
+          "disambiguation": "",
+          "type": "Original Production",
+          "label-code": 2313,
+          "id": "5f5334fe-9873-4be3-9650-8b1888a7ae25",
+          "name": "Bronze",
+          "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+          "sort-name": "Bronze"
+        },
+        "catalog-number": "BRON 529"
+      }
+    ],
+    "cover-art-archive": {
+      "darkened": false,
+      "count": 6,
+      "artwork": true,
+      "back": true,
+      "front": true
+    },
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "GB"
+  }
+}

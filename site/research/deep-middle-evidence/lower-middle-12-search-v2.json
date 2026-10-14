@@ -1,0 +1,139 @@
+{
+  "created": "2026-10-14T03:14:07.621Z",
+  "count": 2,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "9bdf4502-57c2-403d-ad11-4a07e5cd8649",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "27d48f29-6441-37d1-a08a-4ed28aa6149b",
+      "count": 1,
+      "title": "Snowblind Friend",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Hoyt Axton",
+          "artist": {
+            "id": "2e359fac-9a6b-4436-9719-6170315e0072",
+            "name": "Hoyt Axton",
+            "sort-name": "Axton, Hoyt"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "688544a3-3391-3995-ac58-6354730d83ec",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Snowblind Friend",
+        "primary-type": "Album"
+      },
+      "date": "1977",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1977",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "label-info": [
+        {
+          "catalog-number": "MCA-2263",
+          "label": {
+            "id": "46a3941a-c810-47a1-974f-955effec4d09",
+            "name": "MCA Records"
+          }
+        }
+      ],
+      "track-count": 11,
+      "media": [
+        {
+          "id": "1f1e6280-8700-313f-95c8-99ef44c462cb",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 11
+        }
+      ]
+    },
+    {
+      "id": "5f311435-b4c0-405d-bd1b-fd6b22e2562d",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "artist-credit-id": "27d48f29-6441-37d1-a08a-4ed28aa6149b",
+      "count": 1,
+      "title": "Snowblind Friend",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Hoyt Axton",
+          "artist": {
+            "id": "2e359fac-9a6b-4436-9719-6170315e0072",
+            "name": "Hoyt Axton",
+            "sort-name": "Axton, Hoyt"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "688544a3-3391-3995-ac58-6354730d83ec",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Snowblind Friend",
+        "primary-type": "Album"
+      },
+      "date": "1995-12-13",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "1995-12-13",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          }
+        }
+      ],
+      "barcode": "740155142629",
+      "asin": "B0000011V0",
+      "label-info": [
+        {
+          "catalog-number": "EDCD 426",
+          "label": {
+            "id": "a4a01f0f-c349-4352-9075-b268f6ef0f48",
+            "name": "Edsel Records"
+          }
+        }
+      ],
+      "track-count": 11,
+      "media": [
+        {
+          "id": "ea61e8ba-508e-3084-b9c4-71090cf3efa9",
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 11
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "created": "2026-10-14T03:11:43.631Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "7fdd20ae-8f36-4a60-8425-3111dc52338c",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "43522d4c-a572-3960-8f1e-ecbefc509167",
+      "count": 1,
+      "title": "Baptism",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Ann Mortifee",
+          "artist": {
+            "id": "568e3b31-1f44-4d3f-9cee-1e41963a7180",
+            "name": "Ann Mortifee",
+            "sort-name": "Mortifee, Ann"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "aa0ae3c6-e60c-420b-9bd4-b79b6398fea1",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Baptism",
+        "primary-type": "Album"
+      },
+      "date": "1975",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "1975",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "ST-6437",
+          "label": {
+            "id": "c029628b-6633-439e-bcee-ed02e8a338f7",
+            "name": "EMI"
+          }
+        }
+      ],
+      "track-count": 13,
+      "media": [
+        {
+          "id": "3b833893-1475-34e0-a223-c6d28f7c41b2",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 13
+        }
+      ]
+    }
+  ]
+}

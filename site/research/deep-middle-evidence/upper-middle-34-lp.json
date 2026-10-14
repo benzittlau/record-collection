@@ -1,0 +1,69 @@
+{
+  "id": "upper-middle-34",
+  "identity": "L'extraordinaire Tour de France d'Adélard Rousseau",
+  "searches": [
+    {
+      "query": "release:\"L'extraordinaire Tour de France d'Adélard Rousseau\" AND artist:\"Malicorne\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22L%27extraordinaire%20Tour%20de%20France%20d%27Ad%C3%A9lard%20Rousseau%22%20AND%20artist%3A%22Malicorne%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "c0ebcda6-6a5a-44e5-9be0-9459e5a412f7",
+      "url": "https://musicbrainz.org/release/c0ebcda6-6a5a-44e5-9be0-9459e5a412f7",
+      "title": "L'Extraordinaire Tour de France d'Adélard Rousseau",
+      "artistCredit": [
+        {
+          "name": "Malicorne",
+          "artist": {
+            "id": "ce5f578f-5dec-455f-8f24-cc7dc3964a12",
+            "name": "Malicorne",
+            "sort-name": "Malicorne"
+          }
+        }
+      ],
+      "country": "FR",
+      "date": "1978",
+      "formats": [
+        "Vinyl"
+      ],
+      "labels": [],
+      "images": [
+        {
+          "front": false,
+          "edit": 41700427,
+          "back": false,
+          "types": [
+            "Liner"
+          ],
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/c0ebcda6-6a5a-44e5-9be0-9459e5a412f7/15159878598-250.jpg",
+            "large": "http://coverartarchive.org/release/c0ebcda6-6a5a-44e5-9be0-9459e5a412f7/15159878598-500.jpg"
+          },
+          "image": "http://coverartarchive.org/release/c0ebcda6-6a5a-44e5-9be0-9459e5a412f7/15159878598.jpg",
+          "id": 15159878598,
+          "comment": "",
+          "approved": true
+        },
+        {
+          "image": "http://coverartarchive.org/release/c0ebcda6-6a5a-44e5-9be0-9459e5a412f7/6425896125.jpg",
+          "id": 6425896125,
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/c0ebcda6-6a5a-44e5-9be0-9459e5a412f7/6425896125-500.jpg",
+            "small": "http://coverartarchive.org/release/c0ebcda6-6a5a-44e5-9be0-9459e5a412f7/6425896125-250.jpg"
+          },
+          "types": [
+            "Front"
+          ],
+          "edit": 26208379,
+          "front": true,
+          "back": false
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

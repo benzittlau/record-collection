@@ -1,0 +1,128 @@
+{
+  "created": "2026-10-14T03:14:56.544Z",
+  "count": 2,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "e76a31ba-47c7-44b6-bea1-1fb939d06967",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "aeeedffd-689a-3cfd-98e2-dbcee1eb6155",
+      "count": 1,
+      "title": "Baldry's Out!",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Long John Baldry",
+          "artist": {
+            "id": "e43ab2d7-beac-453b-aa02-83756951d71c",
+            "name": "Long John Baldry",
+            "sort-name": "Baldry, Long John"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "e1feb03d-86f9-4a11-bb58-a6153b63288b",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Baldry's Out!",
+        "primary-type": "Album"
+      },
+      "date": "1979",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "1979",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "ST 6459",
+          "label": {
+            "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+            "name": "Capitol Records"
+          }
+        }
+      ],
+      "track-count": 11,
+      "media": [
+        {
+          "id": "2439b39d-d6e4-36d9-ad6f-ea9dc9b6fdc3",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 11
+        }
+      ]
+    },
+    {
+      "id": "32801024-1006-4516-b49d-23d26db9f23d",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "aeeedffd-689a-3cfd-98e2-dbcee1eb6155",
+      "count": 1,
+      "title": "Baldry's Out",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Long John Baldry",
+          "artist": {
+            "id": "e43ab2d7-beac-453b-aa02-83756951d71c",
+            "name": "Long John Baldry",
+            "sort-name": "Baldry, Long John"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "e1feb03d-86f9-4a11-bb58-a6153b63288b",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Baldry's Out!",
+        "primary-type": "Album"
+      },
+      "date": "2011-07-12",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "2011-07-12",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          }
+        }
+      ],
+      "asin": "B00007LKZW",
+      "track-count": 11,
+      "media": [
+        {
+          "id": "3954378b-5492-3da3-b458-51309820bcd0",
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 11
+        }
+      ]
+    }
+  ]
+}

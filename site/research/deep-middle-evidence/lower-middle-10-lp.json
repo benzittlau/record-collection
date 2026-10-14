@@ -1,0 +1,280 @@
+{
+  "id": "lower-middle-10",
+  "identity": "The B-52's",
+  "searches": [
+    {
+      "query": "release:\"The B-52's\" AND artist:\"The B-52's\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22The%20B-52%27s%22%20AND%20artist%3A%22The%20B-52%27s%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "ffe29dd7-a6cc-42eb-a7f1-f72ceb206357",
+      "url": "https://musicbrainz.org/release/ffe29dd7-a6cc-42eb-a7f1-f72ceb206357",
+      "title": "The B‐52’s",
+      "artistCredit": [
+        {
+          "name": "The B‐52’s",
+          "artist": {
+            "id": "127f591a-7e27-4435-92db-0780f219f3a1",
+            "name": "The B‐52s",
+            "sort-name": "B‐52s, The"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1979-07-12",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "BSK 3355",
+          "label": {
+            "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+            "name": "Warner Bros. Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "back": false,
+          "approved": true,
+          "comment": "",
+          "types": [
+            "Front"
+          ],
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/ffe29dd7-a6cc-42eb-a7f1-f72ceb206357/11479697222-250.jpg",
+            "large": "http://coverartarchive.org/release/ffe29dd7-a6cc-42eb-a7f1-f72ceb206357/11479697222-500.jpg"
+          },
+          "image": "http://coverartarchive.org/release/ffe29dd7-a6cc-42eb-a7f1-f72ceb206357/11479697222.jpg",
+          "id": "11479697222",
+          "edit": 35072965,
+          "front": true
+        },
+        {
+          "types": [
+            "Front"
+          ],
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/ffe29dd7-a6cc-42eb-a7f1-f72ceb206357/7303259833-250.jpg",
+            "large": "http://coverartarchive.org/release/ffe29dd7-a6cc-42eb-a7f1-f72ceb206357/7303259833-500.jpg"
+          },
+          "image": "http://coverartarchive.org/release/ffe29dd7-a6cc-42eb-a7f1-f72ceb206357/7303259833.jpg",
+          "edit": 27801271,
+          "id": "7303259833",
+          "front": false,
+          "comment": "",
+          "approved": true,
+          "back": false
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "760ac0d4-7d7f-3e01-81d9-9f364383f108",
+      "url": "https://musicbrainz.org/release/760ac0d4-7d7f-3e01-81d9-9f364383f108",
+      "title": "The B‐52’s",
+      "artistCredit": [
+        {
+          "name": "The B‐52’s",
+          "artist": {
+            "id": "127f591a-7e27-4435-92db-0780f219f3a1",
+            "name": "The B‐52s",
+            "sort-name": "B‐52s, The"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1979-07",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "ILPS 9580",
+          "label": {
+            "id": "dfd92cd3-4888-46d2-b968-328b1feb2642",
+            "name": "Island"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "8eb965de-2d72-4ab4-ae38-c5e6025ebe10",
+      "url": "https://musicbrainz.org/release/8eb965de-2d72-4ab4-ae38-c5e6025ebe10",
+      "title": "The B‐52’s",
+      "artistCredit": [
+        {
+          "name": "The B‐52’s",
+          "artist": {
+            "id": "127f591a-7e27-4435-92db-0780f219f3a1",
+            "name": "The B‐52s",
+            "sort-name": "B‐52s, The"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "2010",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "MOFI 1-004",
+          "label": {
+            "id": "edd54e2f-2eef-46b1-a9b5-bedfe5ed33be",
+            "name": "Mobile Fidelity Sound Lab"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "05f614ea-6955-3593-8490-e7fca315986a",
+      "url": "https://musicbrainz.org/release/05f614ea-6955-3593-8490-e7fca315986a",
+      "title": "The B‐52’s",
+      "artistCredit": [
+        {
+          "name": "The B‐52’s",
+          "artist": {
+            "id": "127f591a-7e27-4435-92db-0780f219f3a1",
+            "name": "The B‐52s",
+            "sort-name": "B‐52s, The"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1986",
+      "formats": [
+        "Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "ILPM 9580",
+          "label": {
+            "id": "dfd92cd3-4888-46d2-b968-328b1feb2642",
+            "name": "Island"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "382ac88e-9831-4c0c-aefe-6b09ea70f3c0",
+      "url": "https://musicbrainz.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0",
+      "title": "The B‐52’s",
+      "artistCredit": [
+        {
+          "name": "The B‐52’s",
+          "artist": {
+            "id": "127f591a-7e27-4435-92db-0780f219f3a1",
+            "name": "The B‐52s",
+            "sort-name": "B‐52s, The"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1986",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "ILPM 9580",
+          "label": {
+            "id": "dfd92cd3-4888-46d2-b968-328b1feb2642",
+            "name": "Island"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 89368926,
+          "front": true,
+          "id": 32422823135,
+          "image": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823135.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823135-1200.jpg",
+            "250": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823135-250.jpg",
+            "500": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823135-500.jpg",
+            "large": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823135-500.jpg",
+            "small": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823135-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 89368928,
+          "front": false,
+          "id": 32422823634,
+          "image": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823634.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823634-1200.jpg",
+            "250": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823634-250.jpg",
+            "500": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823634-500.jpg",
+            "large": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823634-500.jpg",
+            "small": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823634-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 89368929,
+          "front": false,
+          "id": 32422824092,
+          "image": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824092.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824092-1200.jpg",
+            "250": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824092-250.jpg",
+            "500": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824092-500.jpg",
+            "large": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824092-500.jpg",
+            "small": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824092-250.jpg"
+          },
+          "types": [
+            "Front",
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 89368930,
+          "front": false,
+          "id": 32422824500,
+          "image": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824500.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824500-1200.jpg",
+            "250": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824500-250.jpg",
+            "500": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824500-500.jpg",
+            "large": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824500-500.jpg",
+            "small": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422824500-250.jpg"
+          },
+          "types": [
+            "Back",
+            "Medium"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

@@ -1,0 +1,205 @@
+{
+  "id": "upper-middle-06",
+  "identity": "Lightfoot!",
+  "searches": [
+    {
+      "query": "release:\"Lightfoot!\" AND artist:\"Gordon Lightfoot\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Lightfoot%21%22%20AND%20artist%3A%22Gordon%20Lightfoot%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "778787b6-d502-485a-b230-beb309329147",
+      "url": "https://musicbrainz.org/release/778787b6-d502-485a-b230-beb309329147",
+      "title": "Lightfoot!",
+      "artistCredit": [
+        {
+          "name": "Gordon Lightfoot",
+          "artist": {
+            "id": "9d97b077-b28d-4ba8-a3d9-c71926e3b2b6",
+            "name": "Gordon Lightfoot",
+            "sort-name": "Lightfoot, Gordon"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1966",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "UAS 6487",
+          "label": {
+            "id": "f1477534-482c-41bd-8219-870a199728ee",
+            "name": "United Artists"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "comment": "",
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144634819-250.jpg",
+            "large": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144634819-500.jpg"
+          },
+          "back": false,
+          "image": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144634819.jpg",
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "id": 15144634819,
+          "edit": 41668977
+        },
+        {
+          "front": false,
+          "id": 15144638934,
+          "edit": 41668983,
+          "approved": true,
+          "comment": "",
+          "back": true,
+          "image": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144638934.jpg",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144638934-500.jpg",
+            "small": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144638934-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "id": 15144642005,
+          "edit": 41668987,
+          "front": false,
+          "types": [
+            "Medium"
+          ],
+          "approved": true,
+          "comment": "",
+          "back": false,
+          "image": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144642005.jpg",
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144642005-250.jpg",
+            "large": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144642005-500.jpg"
+          }
+        },
+        {
+          "back": false,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144643207-500.jpg",
+            "small": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144643207-250.jpg"
+          },
+          "image": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144643207.jpg",
+          "comment": "",
+          "approved": true,
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "edit": 41668989,
+          "id": 15144643207
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "9517fee5-3c5c-47ac-a1c0-135463b335b5",
+      "url": "https://musicbrainz.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5",
+      "title": "Lightfoot!",
+      "artistCredit": [
+        {
+          "name": "Gordon Lightfoot",
+          "artist": {
+            "id": "9d97b077-b28d-4ba8-a3d9-c71926e3b2b6",
+            "name": "Gordon Lightfoot",
+            "sort-name": "Lightfoot, Gordon"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1966-01",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "UAL 3487",
+          "label": {
+            "id": "f1477534-482c-41bd-8219-870a199728ee",
+            "name": "United Artists"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 29742107,
+          "image": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604798017.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "8604798017",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604798017-500.jpg",
+            "small": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604798017-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "back": true,
+          "edit": 29742110,
+          "image": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604799943.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "8604799943",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604799943-500.jpg",
+            "small": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604799943-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 29742113,
+          "image": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604801343.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "8604801343",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604801343-500.jpg",
+            "small": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604801343-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 29742114,
+          "image": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604802387.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "8604802387",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604802387-500.jpg",
+            "small": "http://coverartarchive.org/release/9517fee5-3c5c-47ac-a1c0-135463b335b5/8604802387-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

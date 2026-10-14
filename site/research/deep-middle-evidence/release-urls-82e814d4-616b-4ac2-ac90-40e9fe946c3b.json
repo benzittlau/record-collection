@@ -1,0 +1,100 @@
+{
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "relations": [
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "end": null,
+      "begin": null,
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "url": {
+        "id": "6ac9b76c-250e-41c3-a15e-99c6b9725fcc",
+        "resource": "https://www.discogs.com/release/519991"
+      },
+      "type": "discogs",
+      "attribute-values": {},
+      "ended": false,
+      "source-credit": "",
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": ""
+    }
+  ],
+  "id": "82e814d4-616b-4ac2-ac90-40e9fe946c3b",
+  "status": "Official",
+  "label-info": [
+    {
+      "label": {
+        "name": "A&M Records",
+        "type": "Production",
+        "sort-name": "A&M Records",
+        "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+        "label-code": 485,
+        "id": "35515729-1f2c-4cc9-9390-9af2764bc56c",
+        "disambiguation": ""
+      },
+      "catalog-number": "SP-5136"
+    }
+  ],
+  "cover-art-archive": {
+    "darkened": false,
+    "front": false,
+    "artwork": false,
+    "count": 0,
+    "back": false
+  },
+  "date": "1987",
+  "barcode": "075021513617",
+  "release-events": [
+    {
+      "area": {
+        "type": null,
+        "name": "United States",
+        "type-id": null,
+        "sort-name": "United States",
+        "iso-3166-1-codes": [
+          "US"
+        ],
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "disambiguation": ""
+      },
+      "date": "1987"
+    }
+  ],
+  "title": "Solitude Standing",
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "asin": null,
+  "country": "US",
+  "artist-credit": [
+    {
+      "artist": {
+        "id": "cf119120-7df5-47d7-9dec-49f8837a4e40",
+        "disambiguation": "American singer-songwriter",
+        "sort-name": "Vega, Suzanne",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Suzanne Vega"
+      },
+      "name": "Suzanne Vega",
+      "joinphrase": ""
+    }
+  ],
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "disambiguation": "",
+  "quality": "normal",
+  "media": [
+    {
+      "track-count": 11,
+      "position": 1,
+      "id": "4e3210f5-8772-37ad-9023-7e25bfc738fe",
+      "format": "12\" Vinyl",
+      "title": "",
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+    }
+  ],
+  "packaging": "Cardboard/Paper Sleeve"
+}

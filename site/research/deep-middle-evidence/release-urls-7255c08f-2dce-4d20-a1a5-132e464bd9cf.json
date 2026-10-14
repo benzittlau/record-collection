@@ -1,0 +1,100 @@
+{
+  "status": "Official",
+  "barcode": "",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "release-events": [
+    {
+      "area": {
+        "name": "Japan",
+        "type": null,
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "JP"
+        ],
+        "sort-name": "Japan",
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "disambiguation": ""
+      },
+      "date": "1979"
+    }
+  ],
+  "id": "7255c08f-2dce-4d20-a1a5-132e464bd9cf",
+  "disambiguation": "",
+  "country": "JP",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "quality": "normal",
+  "title": "George Harrison",
+  "cover-art-archive": {
+    "back": false,
+    "artwork": false,
+    "front": false,
+    "count": 0,
+    "darkened": false
+  },
+  "asin": null,
+  "date": "1979",
+  "packaging": "Cardboard/Paper Sleeve",
+  "relations": [
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type": "discogs",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "target-credit": "",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.discogs.com/release/4110189",
+        "id": "094782ec-05e3-4399-a047-e88ee45ada5a"
+      },
+      "attribute-ids": {}
+    }
+  ],
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "type": "Person",
+        "name": "George Harrison",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Harrison, George",
+        "id": "42a8f507-8412-4611-854f-926571049fa0",
+        "disambiguation": "The Beatles",
+        "country": "GB"
+      },
+      "name": "George Harrison"
+    }
+  ],
+  "media": [
+    {
+      "id": "cc7d70df-1e0d-3094-b351-07e7354403f2",
+      "title": "",
+      "position": 1,
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "track-count": 10,
+      "format": "12\" Vinyl"
+    }
+  ],
+  "label-info": [
+    {
+      "label": {
+        "type": "Original Production",
+        "name": "Dark Horse Records",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "sort-name": "Dark Horse Records",
+        "id": "9feb1272-e583-43b6-8101-cacd67814e58",
+        "label-code": null,
+        "disambiguation": "UK, founded/controlled by George Harrison"
+      },
+      "catalog-number": "P10561D"
+    }
+  ]
+}

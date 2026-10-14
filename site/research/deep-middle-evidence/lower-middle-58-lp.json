@@ -1,0 +1,204 @@
+{
+  "id": "lower-middle-58",
+  "identity": "Christmas Album",
+  "searches": [
+    {
+      "query": "release:\"Christmas Album\" AND artist:\"Boney M.\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Christmas%20Album%22%20AND%20artist%3A%22Boney%20M.%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "be4af83f-41f9-4eb5-8125-04aa74bf2f7d",
+      "url": "https://musicbrainz.org/release/be4af83f-41f9-4eb5-8125-04aa74bf2f7d",
+      "title": "Christmas Album",
+      "artistCredit": [
+        {
+          "name": "Boney M.",
+          "artist": {
+            "id": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
+            "name": "Boney M.",
+            "sort-name": "Boney M."
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1981",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "XMS 5823",
+          "label": {
+            "id": "50c384a2-0b44-401b-b893-8181173339c7",
+            "name": "Atlantic"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "28768c8d-9fe1-42e5-9a0e-84a20a53a319",
+      "url": "https://musicbrainz.org/release/28768c8d-9fe1-42e5-9a0e-84a20a53a319",
+      "title": "Christmas Album",
+      "artistCredit": [
+        {
+          "name": "Boney M.",
+          "artist": {
+            "id": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
+            "name": "Boney M.",
+            "sort-name": "Boney M."
+          }
+        }
+      ],
+      "country": "JP",
+      "date": "1982",
+      "formats": [
+        "Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "P-13016",
+          "label": {
+            "id": "50c384a2-0b44-401b-b893-8181173339c7",
+            "name": "Atlantic"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad",
+      "url": "https://musicbrainz.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad",
+      "title": "Christmas Album",
+      "artistCredit": [
+        {
+          "name": "Boney M.",
+          "artist": {
+            "id": "5403bf6e-bc1d-4e62-b31f-926a2bf66a14",
+            "name": "Boney M.",
+            "sort-name": "Boney M."
+          }
+        }
+      ],
+      "country": "DE",
+      "date": "1981-11-23",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "204 300-320",
+          "label": {
+            "id": "fe94efb9-21bc-45c3-9d66-d8edd908138d",
+            "name": "Hansa International"
+          }
+        },
+        {
+          "catalog-number": "204 300-320",
+          "label": {
+            "id": "3cfa65af-d11c-4337-843c-0b6d4ca385d3",
+            "name": "Hansa"
+          }
+        },
+        {
+          "catalog-number": "204 300",
+          "label": {
+            "id": "fe94efb9-21bc-45c3-9d66-d8edd908138d",
+            "name": "Hansa International"
+          }
+        },
+        {
+          "catalog-number": "204 300",
+          "label": {
+            "id": "3cfa65af-d11c-4337-843c-0b6d4ca385d3",
+            "name": "Hansa"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 121047088,
+          "front": true,
+          "id": 41045667315,
+          "image": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045667315.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045667315-1200.jpg",
+            "250": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045667315-250.jpg",
+            "500": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045667315-500.jpg",
+            "large": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045667315-500.jpg",
+            "small": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045667315-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 121047096,
+          "front": false,
+          "id": 41045668679,
+          "image": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045668679.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045668679-1200.jpg",
+            "250": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045668679-250.jpg",
+            "500": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045668679-500.jpg",
+            "large": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045668679-500.jpg",
+            "small": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045668679-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 121047098,
+          "front": false,
+          "id": 41045669475,
+          "image": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669475.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669475-1200.jpg",
+            "250": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669475-250.jpg",
+            "500": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669475-500.jpg",
+            "large": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669475-500.jpg",
+            "small": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669475-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 121047100,
+          "front": false,
+          "id": 41045669850,
+          "image": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669850.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669850-1200.jpg",
+            "250": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669850-250.jpg",
+            "500": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669850-500.jpg",
+            "large": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669850-500.jpg",
+            "small": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045669850-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

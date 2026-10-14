@@ -1,0 +1,100 @@
+{
+  "quality": "normal",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "country": "US",
+  "cover-art-archive": {
+    "darkened": false,
+    "count": 0,
+    "back": false,
+    "front": false,
+    "artwork": false
+  },
+  "id": "ceb4cbe8-9d80-3ef4-bada-2d2035b7a872",
+  "label-info": [
+    {
+      "catalog-number": "LP 133",
+      "label": {
+        "sort-name": "A&M Records",
+        "name": "A&M Records",
+        "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+        "id": "35515729-1f2c-4cc9-9390-9af2764bc56c",
+        "type": "Production",
+        "label-code": 485,
+        "disambiguation": ""
+      }
+    }
+  ],
+  "packaging": null,
+  "packaging-id": null,
+  "date": "1967-10-31",
+  "status": "Official",
+  "barcode": "",
+  "release-events": [
+    {
+      "area": {
+        "disambiguation": "",
+        "type": null,
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "name": "United States",
+        "iso-3166-1-codes": [
+          "US"
+        ],
+        "type-id": null,
+        "sort-name": "United States"
+      },
+      "date": "1967-10-31"
+    }
+  ],
+  "disambiguation": "mono",
+  "title": "Pleasures of the Harbor",
+  "media": [
+    {
+      "format": "12\" Vinyl",
+      "track-count": 8,
+      "position": 1,
+      "title": "",
+      "id": "6909f348-563a-384c-bdaf-a320a80ae35d",
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+    }
+  ],
+  "artist-credit": [
+    {
+      "name": "Phil Ochs",
+      "artist": {
+        "id": "80cd255d-995c-47f1-a5bc-cc34669a37a0",
+        "sort-name": "Ochs, Phil",
+        "name": "Phil Ochs",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "US",
+        "type": "Person"
+      },
+      "joinphrase": ""
+    }
+  ],
+  "asin": null,
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "relations": [
+    {
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.discogs.com/release/1799382",
+        "id": "e307b988-d11a-44e8-8a19-6dd8a0e76e12"
+      },
+      "begin": null,
+      "target-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "source-credit": "",
+      "type": "discogs"
+    }
+  ]
+}

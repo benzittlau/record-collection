@@ -1,0 +1,169 @@
+{
+  "id": "lower-middle-56",
+  "identity": "The Corner Grocery Store",
+  "searches": [
+    {
+      "query": "release:\"The Corner Grocery Store\" AND artist:\"Raffi\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22The%20Corner%20Grocery%20Store%22%20AND%20artist%3A%22Raffi%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "4cbf7459-9104-4620-b022-c06a9acc1b78",
+      "url": "https://musicbrainz.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78",
+      "title": "The Corner Grocery Store",
+      "artistCredit": [
+        {
+          "joinphrase": " with ",
+          "name": "Raffi",
+          "artist": {
+            "id": "d5d5ba92-4bd4-4975-9806-99339eed3046",
+            "name": "Raffi",
+            "sort-name": "Raffi",
+            "disambiguation": "Canadian singer/songwriter/author"
+          }
+        },
+        {
+          "name": "Ken Whiteley",
+          "artist": {
+            "id": "3f849db3-791a-475e-97b7-6ae7c005e1fa",
+            "name": "Ken Whiteley",
+            "sort-name": "Whiteley, Ken"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1979",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "TR-007",
+          "label": {
+            "id": "f68ae225-cd8b-431a-b9af-7b66ddd07875",
+            "name": "Troubadour"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 57803786,
+          "front": true,
+          "id": 21624951089,
+          "image": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624951089.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624951089-1200.jpg",
+            "250": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624951089-250.jpg",
+            "500": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624951089-500.jpg",
+            "large": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624951089-500.jpg",
+            "small": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624951089-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 57803788,
+          "front": false,
+          "id": 21624953163,
+          "image": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953163.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953163-1200.jpg",
+            "250": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953163-250.jpg",
+            "500": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953163-500.jpg",
+            "large": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953163-500.jpg",
+            "small": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953163-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 57803789,
+          "front": false,
+          "id": 21624953894,
+          "image": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953894.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953894-1200.jpg",
+            "250": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953894-250.jpg",
+            "500": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953894-500.jpg",
+            "large": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953894-500.jpg",
+            "small": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953894-250.jpg"
+          },
+          "types": [
+            "Liner"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 57803791,
+          "front": false,
+          "id": 21624954650,
+          "image": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624954650.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624954650-1200.jpg",
+            "250": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624954650-250.jpg",
+            "500": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624954650-500.jpg",
+            "large": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624954650-500.jpg",
+            "small": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624954650-250.jpg"
+          },
+          "types": [
+            "Liner"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 57803831,
+          "front": false,
+          "id": 21624955464,
+          "image": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624955464.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624955464-1200.jpg",
+            "250": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624955464-250.jpg",
+            "500": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624955464-500.jpg",
+            "large": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624955464-500.jpg",
+            "small": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624955464-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 57803832,
+          "front": false,
+          "id": 21624956061,
+          "image": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624956061.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624956061-1200.jpg",
+            "250": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624956061-250.jpg",
+            "500": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624956061-500.jpg",
+            "large": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624956061-500.jpg",
+            "small": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624956061-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

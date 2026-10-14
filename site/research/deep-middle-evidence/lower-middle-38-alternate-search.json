@@ -1,0 +1,1850 @@
+{
+  "query": {
+    "type": "release",
+    "format": "Vinyl",
+    "per_page": 40,
+    "artist": "Mehta",
+    "release_title": "Symphony 3"
+  },
+  "url": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=40&artist=Mehta&release_title=Symphony+3",
+  "data": {
+    "pagination": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 40,
+      "items": 36,
+      "urls": {}
+    },
+    "results": [
+      {
+        "country": "Japan",
+        "year": "1979",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "label": [
+          "London Records"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 8722196,
+        "barcode": [],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/8722196-Zubin-Mehta-Mahler-Symphony-No-3-In-D-Minor",
+        "catno": "SLA-1231-2",
+        "title": "Zubin Mehta - Mahler : Symphony No. 3 In D Minor",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/8722196",
+        "community": {
+          "want": 24,
+          "have": 15
+        },
+        "format_quantity": 2,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Gatefold",
+            "descriptions": [
+              "LP"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Japan",
+        "year": "1971",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo"
+        ],
+        "label": [
+          "London Records",
+          "London Records",
+          "Royce Hall",
+          "Decca Studios",
+          "Clout & Baker Ltd.",
+          "The Decca Record Company Limited"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic"
+        ],
+        "id": 21535774,
+        "barcode": [
+          "B.I.E.M.",
+          "SLC-2112",
+          "SLC-2112",
+          "ZAL-9820-2K",
+          "ZAL-9820-4K SDLB 3196-1"
+        ],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/21535774-Saint-Sa%C3%ABns-Zubin-Mehta-Los-Angeles-Philharmonic-Orchestra-Symphony-No-3",
+        "catno": "SLC-2112",
+        "title": "Saint-Sa\u00ebns*, Zubin Mehta, Los Angeles Philharmonic Orchestra - Symphony No. 3",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/21535774",
+        "community": {
+          "want": 1,
+          "have": 14
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1971",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo"
+        ],
+        "label": [
+          "Decca",
+          "Decca",
+          "Royce Hall",
+          "Decca Studios",
+          "Clout & Baker Ltd.",
+          "The Decca Record Company Limited"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic",
+          "Symphony",
+          "Orchestra"
+        ],
+        "id": 2613604,
+        "barcode": [
+          "B.I.E.M.",
+          "ZAL.9820",
+          "ZAL.9821",
+          "ZAL-9820-2K",
+          "ZAL-9821-4K"
+        ],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/2613604-Saint-Sa%C3%ABns-Zubin-Mehta-Los-Angeles-Philharmonic-Orchestra-Symphony-No-3",
+        "catno": "SXL 6482",
+        "title": "Saint-Sa\u00ebns*, Zubin Mehta, Los Angeles Philharmonic Orchestra - Symphony No. 3",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/2613604",
+        "community": {
+          "want": 18,
+          "have": 221
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1980",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "CBS Masterworks"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Classical",
+          "Romantic",
+          "Symphony",
+          "Orchestra"
+        ],
+        "id": 3692951,
+        "barcode": [
+          "DAL-35883-2HK",
+          "DBL-35883-2AC",
+          "0 7464-35883-1",
+          "o DAL-35886-2AK \\ T A",
+          "DBL-34884-2AC \\ T o"
+        ],
+        "master_id": 725894,
+        "master_url": "https://api.discogs.com/masters/725894",
+        "uri": "/release/3692951-Beethoven-Mehta-New-York-Philharmonic-Symphony-No-3-Eroica",
+        "catno": "IM 35883",
+        "title": "Beethoven* / Mehta* / New York Philharmonic - Symphony No. 3 \"Eroica\"",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/3692951",
+        "community": {
+          "want": 4,
+          "have": 143
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Brazil",
+        "year": "1984",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "CBS Masterworks"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 10691988,
+        "barcode": [],
+        "master_id": 725894,
+        "master_url": "https://api.discogs.com/masters/725894",
+        "uri": "/release/10691988-Beethoven-Mehta-New-York-Philharmonic-Symphony-No-3-Eroica",
+        "catno": "160.343",
+        "title": "Beethoven* / Mehta* / New York Philharmonic - Symphony No. 3 \"Eroica\"",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/10691988",
+        "community": {
+          "want": 0,
+          "have": 8
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Japan",
+        "year": "1980",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo"
+        ],
+        "label": [
+          "CBS/Sony"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Classical"
+        ],
+        "id": 20947621,
+        "barcode": [],
+        "master_id": 725894,
+        "master_url": "https://api.discogs.com/masters/725894",
+        "uri": "/release/20947621-Zubin-Mehta-New-York-Philharmonic-Beethoven-Symphony-No-3-Eroica",
+        "catno": "28AC 1178",
+        "title": "Zubin Mehta, New York Philharmonic, Beethoven* - Symphony No. 3 \"Eroica\"",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/20947621",
+        "community": {
+          "want": 0,
+          "have": 6
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Israel",
+        "year": "1980",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "CBS Masterworks",
+          "CBS Masterworks",
+          "CBS Masterworks Digital",
+          "CBS Records Ltd.",
+          "CBS Inc.",
+          "CBS Studios, New York"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 14419200,
+        "barcode": [
+          "DAL 35883 1A  Q  Q",
+          "DBL 35883 1B  Q"
+        ],
+        "master_id": 725894,
+        "master_url": "https://api.discogs.com/masters/725894",
+        "uri": "/release/14419200-Mehta-New-York-Philharmonic-Beethoven-Symphony-No-3-Eroica",
+        "catno": "CBSD 35883",
+        "title": "Mehta*, New York Philharmonic, Beethoven* - Symphony No. 3 \"Eroica\"",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/14419200",
+        "community": {
+          "want": 1,
+          "have": 1
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Germany",
+        "year": "1979",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "Decca"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Late Romantic",
+          "Symphony",
+          "Orchestra"
+        ],
+        "id": 26053534,
+        "barcode": [
+          "FA",
+          "6.48127-01-1   A-B-III Manufactured in Germany",
+          "6.48127-01-2   A-B-III Manufactured in Germany",
+          "6.48127-02-1   A-B-III Manufactured in Germany",
+          "6.48127-02.2   A-B-III Manufactured in Germany",
+          "LC 0171"
+        ],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/26053534-Mahler-Zubin-Mehta-Los-Angeles-Philharmonic-Orchestra-Symphony-Nr-3-D-Moll",
+        "catno": "6.48127",
+        "title": "Mahler*, Zubin Mehta - Los Angeles Philharmonic Orchestra - Symphony Nr. 3 D-Moll",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/26053534",
+        "community": {
+          "want": 10,
+          "have": 6
+        },
+        "format_quantity": 2,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Gatefold",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Germany",
+        "year": "1979",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "Decca"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 3770626,
+        "barcode": [],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/3770626-Mahler-Zubin-Mehta-Los-Angeles-Philharmonic-Orchestra-Symphony-Nr-3-D-Moll",
+        "catno": "6.48127",
+        "title": "Mahler*, Zubin Mehta - Los Angeles Philharmonic Orchestra - Symphony Nr. 3 D-Moll",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/3770626",
+        "community": {
+          "want": 38,
+          "have": 41
+        },
+        "format_quantity": 2,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Gatefold",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Japan",
+        "year": "1980",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Reissue",
+          "Stereo"
+        ],
+        "label": [
+          "London Records",
+          "London The Best 150"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Late Romantic",
+          "Symphony",
+          "Orchestra"
+        ],
+        "id": 13395862,
+        "barcode": [],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/13395862-Mahler-Zubin-Mehta-Los-Angeles-Philharmonic-Orchestra-Symphony-Nr-3-D-Moll",
+        "catno": "L45C 3154/5",
+        "title": "Mahler*, Zubin Mehta - Los Angeles Philharmonic Orchestra - Symphony Nr. 3 D-Moll",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/13395862",
+        "community": {
+          "want": 6,
+          "have": 2
+        },
+        "format_quantity": 2,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Gatefold",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1984",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "CBS Masterworks",
+          "CBS Records",
+          "CBS Inc.",
+          "CBS Inc.",
+          "Columbia Records Pressing Plant, Carrollton, GA",
+          "Customatrix"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic"
+        ],
+        "id": 3116392,
+        "barcode": [
+          "074643903219",
+          "0 7464-39032-1",
+          "07464390321",
+          "G",
+          "AL 39032",
+          "BL 39032",
+          "<B\u00b7AD> MAL 39032 GID G1 D2",
+          "<B\u00b7AD> MBL 39032 GIB G1 B16",
+          "<B-AD> MAL 39032 G1D o G1 B9",
+          "<B-AD>  \u0336M\u0336B\u0336L\u0336 \u03363\u03369\u03360\u03362\u03363\u0336 \u0336G\u03361\u0336C\u0336 \u0336 MBL 39032-G1C o G1 B4"
+        ],
+        "master_id": 1548877,
+        "master_url": "https://api.discogs.com/masters/1548877",
+        "uri": "/release/3116392-Brahms-New-York-Philharmonic-Zubin-Mehta-Symphony-No-3-Haydn-Variations",
+        "catno": "M39032",
+        "title": "Brahms* - New York Philharmonic, Zubin Mehta - Symphony No. 3 / \"Haydn\" Variations",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/3116392",
+        "community": {
+          "want": 3,
+          "have": 173
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Carrollton Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Japan",
+        "year": "1991",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "London Records",
+          "King Record Co. Ltd",
+          "The Super Analogue Disc"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Late Romantic",
+          "Symphony",
+          "Orchestra"
+        ],
+        "id": 11533331,
+        "barcode": [
+          "4988003106072",
+          "KIJC 9014 A T Makino",
+          "KIJC 9014  B T Makino",
+          "KIJC 9015 A T Makino",
+          "KIJC 9015 B T Makino"
+        ],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/11533331-Mahler-Zubin-Mehta-Los-Angeles-Philharmonic-Orchestra-Symphony-No-3-in-D-Minor",
+        "catno": "KIJC 9014-5",
+        "title": "Mahler*, Zubin Mehta, Los Angeles Philharmonic Orchestra - Symphony No. 3 in D Minor",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/11533331",
+        "community": {
+          "want": 47,
+          "have": 38
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "2013",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Remastered",
+          "Test Pressing",
+          "Stereo"
+        ],
+        "label": [
+          "Analogue Productions",
+          "Decca",
+          "Quality Record Pressings"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 21254422,
+        "barcode": [
+          "7 53088 11701 5",
+          "753088117015"
+        ],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/21254422-Mahler-Zubin-Mehta-Los-Angeles-Philharmonic-Orchestra-Symphony-No-3-In-D-Minor",
+        "catno": "APC 117",
+        "title": "Mahler*, Zubin Mehta - Los Angeles Philharmonic Orchestra - Symphony No. 3 In D Minor",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/21254422",
+        "community": {
+          "want": 1,
+          "have": 1
+        },
+        "format_quantity": 2,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Gatefold, 200 gram",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Remastered",
+              "Test Pressing",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Netherlands",
+        "year": "1984",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "CBS",
+          "CBS Records",
+          "CBS Masterworks Digital"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 16088476,
+        "barcode": [
+          "AL 39032",
+          "BL 39032",
+          "DAL 39032-1E 8 1 1",
+          "DBL 39032-1F 1 1"
+        ],
+        "master_id": 1548877,
+        "master_url": "https://api.discogs.com/masters/1548877",
+        "uri": "/release/16088476-Brahms-New-York-Philharmonic-Zubin-Mehta-Brahms-Symphony-No-3-Haydn-Variations",
+        "catno": "IM 39032",
+        "title": "Brahms* - New York Philharmonic, Zubin Mehta - Brahms Symphony No. 3, \"Haydn\" Variations",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/16088476",
+        "community": {
+          "want": 1,
+          "have": 28
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "2014",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "Analogue Productions",
+          "Decca",
+          "Universal Music Special Markets",
+          "Decca Group",
+          "The Decca Record Company Limited",
+          "UMG Recordings, Inc.",
+          "Universal Music Enterprises",
+          "Decca Music Group Limited",
+          "Decca Music Group Limited",
+          "Quality Record Pressings",
+          "Royce Hall"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Late Romantic",
+          "Symphony",
+          "Orchestra"
+        ],
+        "id": 5918186,
+        "barcode": [
+          "7 53088 11701 5",
+          "753088117015",
+          "B0019685-01LP1",
+          "B0019685-01LP2",
+          "AAPC 117",
+          "APC-117 D117D-A A33 ZAL16187A WM QRP",
+          "APC-117 D117D-B A33 ZAL16188B WM QRP",
+          "APC-117 D117D-C2 A33 ZAL16189C WM QRP",
+          "APC-117 D117-D A33 ZAL16190D WM QRP"
+        ],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/5918186-Mahler-Maureen-ForresterLos-Angeles-Philharmonic-Zubin-Mehta-Symphony-No-3-In-D-Minor",
+        "catno": "APC 117",
+        "title": "Mahler*, Maureen Forrester, The Los Angeles Philharmonic*, Zubin Mehta - Symphony No. 3 In D Minor",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/5918186",
+        "community": {
+          "want": 108,
+          "have": 327
+        },
+        "format_quantity": 2,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Gatefold, 200 gram",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK & Europe",
+        "year": "1980",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "Decca",
+          "The Decca Record Company Limited",
+          "The Decca Record Company Limited",
+          "Royce Hall",
+          "Decca Recording Studios UK",
+          "Robert Stace"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Late Romantic",
+          "Symphony",
+          "Orchestra"
+        ],
+        "id": 12593626,
+        "barcode": [
+          "ZAL-16187-IG",
+          "ZAL-16188-IG  T",
+          "ZAL-16189-IG  2",
+          "ZAL-16190-IG"
+        ],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/12593626-Mahler-Maureen-ForresterLos-Angeles-Philharmonic-Orchestra-Zubin-Mehta-Symphony-Nr-3-In-D-Minor",
+        "catno": "D117D 2",
+        "title": "Mahler* : Maureen Forrester, The Los Angeles Philharmonic Orchestra*, Zubin Mehta - Symphony Nr. 3 In D Minor",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/12593626",
+        "community": {
+          "want": 38,
+          "have": 35
+        },
+        "format_quantity": 2,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Gatefold",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1983",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "London Records",
+          "London Digital",
+          "Sofiensaal"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic"
+        ],
+        "id": 2954195,
+        "barcode": [
+          "PDZAL 17309",
+          "PDZAL 17310",
+          "82-743243"
+        ],
+        "master_id": 430711,
+        "master_url": "https://api.discogs.com/masters/430711",
+        "uri": "/release/2954195-Schumann-Zubin-MehtaVienna-Philharmonic-Symphony-No-3-Manfred-Overture-Op-115",
+        "catno": "LDR 71055",
+        "title": "Schumann*, Zubin Mehta, The Vienna Philharmonic* - Symphony No. 3; Manfred Overture, Op. 115",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/2954195",
+        "community": {
+          "want": 2,
+          "have": 44
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1979",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo",
+          "Box Set"
+        ],
+        "label": [
+          "London Records",
+          "London Records"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Late Romantic",
+          "Symphony",
+          "Orchestra"
+        ],
+        "id": 12235580,
+        "barcode": [],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/12235580-Mahler-Maureen-ForresterLos-Angeles-Philharmonic-Zubin-Mehta-Symphony-No3-In-D-Minor",
+        "catno": "CSA2249",
+        "title": "Mahler*, Maureen Forrester, The Los Angeles Philharmonic*, Zubin Mehta - Symphony No.3 In D Minor",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/12235580",
+        "community": {
+          "want": 59,
+          "have": 67
+        },
+        "format_quantity": 2,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "country": "South Korea",
+        "year": "1980",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Remastered",
+          "Stereo"
+        ],
+        "label": [
+          "Decca"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Late Romantic",
+          "Symphony",
+          "Orchestra"
+        ],
+        "id": 9806179,
+        "barcode": [],
+        "master_id": 713044,
+        "master_url": "https://api.discogs.com/masters/713044",
+        "uri": "/release/9806179-Mahler-Zubin-Mehta-Los-Angeles-Philharmonic-Orchestra-Maureen-Forrester-Symphony-No-3-In-D-Minor",
+        "catno": "D117D2 SEL-0497",
+        "title": "Mahler*, Zubin Mehta - Los Angeles Philharmonic Orchestra, Maureen Forrester - Symphony No. 3 In D Minor",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/9806179",
+        "community": {
+          "want": 6,
+          "have": 14
+        },
+        "format_quantity": 2,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Remastered",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Canada",
+        "year": "1971",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "London Records",
+          "The Decca Record Company Limited",
+          "London Records Of Canada (1967) LTD.",
+          "Royce Hall",
+          "The Decca Record Company Limited"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic"
+        ],
+        "id": 3576244,
+        "barcode": [
+          "ZAL-9820-2K",
+          "ZAL-9821-4K"
+        ],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/3576244-Saint-Sa%C3%ABns-Zubin-MehtaLos-Angeles-Philharmonic-Orchestra-Symphony-No-3-In-C-Minor-Op-78",
+        "catno": "CS 6680",
+        "title": "Saint-Sa\u00ebns* - Zubin Mehta, The Los Angeles Philharmonic Orchestra* - Symphony No. 3 In C Minor, Op. 78",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/3576244",
+        "community": {
+          "want": 5,
+          "have": 59
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Canada",
+        "year": "1977",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo"
+        ],
+        "label": [
+          "London Records"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic"
+        ],
+        "id": 4890092,
+        "barcode": [],
+        "master_id": 547182,
+        "master_url": "https://api.discogs.com/masters/547182",
+        "uri": "/release/4890092-Schubert-Israel-Philharmonic-Orchestra-Conducted-By-Zubin-Mehta-Symphony-No3-In-D-Major-D200-Symphon",
+        "catno": "CS 7020",
+        "title": "Schubert* : Israel Philharmonic Orchestra Conducted By Zubin Mehta - Symphony No.3 In D Major, D.200 / Symphony No.5 In B Flat Major, D.485",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4890092",
+        "community": {
+          "want": 0,
+          "have": 25
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1977",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo"
+        ],
+        "label": [
+          "London Records"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Classical"
+        ],
+        "id": 11939877,
+        "barcode": [],
+        "master_id": 547182,
+        "master_url": "https://api.discogs.com/masters/547182",
+        "uri": "/release/11939877-Schubert-Israel-Philharmonic-Orchestra-Conducted-By-Zubin-Mehta-Symphony-No3-In-D-Major-D200-Symphon",
+        "catno": "CS 7020",
+        "title": "Schubert* : Israel Philharmonic Orchestra Conducted By Zubin Mehta - Symphony No.3 In D Major, D.200 / Symphony No.5 In B Flat Major, D.485",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/11939877",
+        "community": {
+          "want": 1,
+          "have": 22
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1977",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "Decca",
+          "Clout & Baker Ltd.",
+          "Decca Studios",
+          "Decca Record Co. Ltd., Pressing Plant, UK."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Classical"
+        ],
+        "id": 4478488,
+        "barcode": [
+          "ZAL-14989-2W U U",
+          "ZAL-14990-1W 2 D"
+        ],
+        "master_id": 547182,
+        "master_url": "https://api.discogs.com/masters/547182",
+        "uri": "/release/4478488-Schubert-Israel-Philharmonic-Orchestra-Conducted-By-Zubin-Mehta-Symphony-No3-In-D-Major-D200-Symphon",
+        "catno": "SXL 6799",
+        "title": "Schubert* : Israel Philharmonic Orchestra Conducted By Zubin Mehta - Symphony No.3 In D Major, D.200 / Symphony No.5 In B Flat Major, D.485",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4478488",
+        "community": {
+          "want": 2,
+          "have": 54
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1971",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "London Records",
+          "London Records",
+          "The Decca Record Company Limited",
+          "Royce Hall",
+          "The Decca Record Company Limited",
+          "Decca Studios",
+          "Decca Record Co. Ltd., Pressing Plant, UK."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic",
+          "Symphony",
+          "Organ",
+          "Orchestra"
+        ],
+        "id": 6582179,
+        "barcode": [
+          "ZAL.9820",
+          "ZAL.9821",
+          "ZAL-9820-2K",
+          "ZAL-9821-4K",
+          "ZAL-9820-2K CA JT 1",
+          "ZAL-9821-4K CK JT 1"
+        ],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/6582179-Saint-Sa%C3%ABns-Zubin-MehtaLos-Angeles-Philharmonic-Orchestra-Symphony-No-3-In-C-Minor-Op-78",
+        "catno": "CS 6680",
+        "title": "Saint-Sa\u00ebns*, Zubin Mehta, The Los Angeles Philharmonic Orchestra* - Symphony No. 3 In C Minor, Op. 78",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/6582179",
+        "community": {
+          "want": 9,
+          "have": 168
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1977",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo",
+          "Test Pressing"
+        ],
+        "label": [
+          "Decca"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Classical"
+        ],
+        "id": 3476576,
+        "barcode": [],
+        "master_id": 547182,
+        "master_url": "https://api.discogs.com/masters/547182",
+        "uri": "/release/3476576-Schubert-Israel-Philharmonic-Orchestra-conducted-by-Zubin-Mehta-Symphony-No3-In-D-Major-D200-Symphon",
+        "catno": "SXL 6799",
+        "title": "Schubert* : Israel Philharmonic Orchestra conducted by Zubin Mehta - Symphony No.3 In D Major, D.200 / Symphony No.5 In B Flat Major, D.485",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/3476576",
+        "community": {
+          "want": 0,
+          "have": 2
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Stereo",
+              "Test Pressing"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1983",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "Decca",
+          "The Decca Record Company Limited",
+          "The Decca Record Company Limited",
+          "Sofiensaal",
+          "Senol Printing Ltd."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic"
+        ],
+        "id": 10437837,
+        "barcode": [
+          "PDZAL 17309 1G \u25bd 420 133",
+          "PDZAL 17310 1G \u25bd 420 134"
+        ],
+        "master_id": 430711,
+        "master_url": "https://api.discogs.com/masters/430711",
+        "uri": "/release/10437837-Schumann-Wiener-Philharmoniker-Zubin-Mehta-Symphony-No-3-Rhenish-Rh%C3%A9nane-Rheinische-Manfred-Overtur",
+        "catno": "SXDL 7555",
+        "title": "Schumann* - Wiener Philharmoniker, Zubin Mehta - Symphony No. 3 (Rhenish \u2022 Rh\u00e9nane \u2022 Rheinische) / Manfred Overture",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/10437837",
+        "community": {
+          "want": 2,
+          "have": 28
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Digital Recording",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1978",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "London Records"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic"
+        ],
+        "id": 7969734,
+        "barcode": [],
+        "master_id": 0,
+        "master_url": null,
+        "uri": "/release/7969734-Pyotr-Ilyich-Tchaikovsky-Zubin-Mehta-Los-Angeles-Philharmonic-Orchestra-Symphony-No-3-In-D-Major-Op-",
+        "catno": "CS 7154",
+        "title": "Pyotr Ilyich Tchaikovsky, Zubin Mehta, Los Angeles Philharmonic Orchestra - Symphony No. 3 In D Major, Op. 29 'Polish'",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/7969734",
+        "community": {
+          "want": 3,
+          "have": 26
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Japan",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "style": [],
+        "id": 19031014,
+        "label": [
+          "CBS/Sony",
+          "CBS / Sony Family Club Inc.",
+          "CBS/Sony Inc."
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 725894,
+        "master_url": "https://api.discogs.com/masters/725894",
+        "uri": "/release/19031014-Beethoven-New-York-Philharmonic-Zubin-Mehta-Symphony-No3-In-E-Flat-Major-Op55-Eroica",
+        "catno": "FCCA 419",
+        "title": "Beethoven*, New York Philharmonic, Zubin Mehta - Symphony No.3 In E-Flat Major, Op.55 \"Eroica\"",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/19031014",
+        "community": {
+          "want": 0,
+          "have": 4
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Japan",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "style": [],
+        "id": 15436397,
+        "label": [
+          "CBS Masterworks",
+          "CBS / Sony Family Club Inc.",
+          "CBS/Sony Inc."
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 725894,
+        "master_url": "https://api.discogs.com/masters/725894",
+        "uri": "/release/15436397-Beethoven-New-York-Philharmonic-Zubin-Mehta-Symphony-No-3-In-E-Flat-Major-Op-55-Eroica",
+        "catno": "FCCA 514",
+        "title": "Beethoven*, New York Philharmonic, Zubin Mehta - Symphony No. 3 In E-Flat Major, Op. 55 \"Eroica\"",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/15436397",
+        "community": {
+          "want": 0,
+          "have": 4
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1971",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Club Edition",
+          "Stereo"
+        ],
+        "label": [
+          "London Records",
+          "London Records",
+          "Royce Hall",
+          "The Decca Record Company Limited",
+          "Decca Studios",
+          "Decca Record Co. Ltd., Pressing Plant, UK.",
+          "The Decca Record Company Limited",
+          "Capitol Record Club"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Romantic"
+        ],
+        "id": 25391143,
+        "barcode": [],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/25391143-Saint-Sa%C3%ABns-Zubin-MehtaLos-Angeles-Philharmonic-Orchestra-Anita-Priest-Shibley-Boyes-Gerald-Robbins",
+        "catno": "CS 6680",
+        "title": "Saint-Sa\u00ebns*, Zubin Mehta, The Los Angeles Philharmonic Orchestra*, Anita Priest, Shibley Boyes, Gerald Robbins - Symphony No. 3 In C Minor, Op. 78",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/25391143",
+        "community": {
+          "want": 1,
+          "have": 2
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Capitol Record Club",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Club Edition",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "style": [
+          "Romantic"
+        ],
+        "id": 18800317,
+        "label": [
+          "London Records",
+          "London Records",
+          "The Decca Record Company Limited",
+          "The Decca Record Company Limited",
+          "Decca Record Co. Ltd., Pressing Plant, UK.",
+          "Royce Hall",
+          "Decca Studios"
+        ],
+        "type": "release",
+        "barcode": [
+          "ZAL 9820",
+          "ZAL 9821",
+          "ZAL-9820-4W KU 2 B",
+          "ZAL-9821-5W BM 1"
+        ],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/18800317-Saint-Sa%C3%ABns-Zubin-MehtaLos-Angeles-Philharmonic-Orchestra-Anita-Priest-Shibley-Boyes-Gerald-Robbins",
+        "catno": "CS 6680",
+        "title": "Saint-Sa\u00ebns*, Zubin Mehta, The Los Angeles Philharmonic Orchestra*, Anita Priest, Shibley Boyes, Gerald Robbins - Symphony No. 3 In C Minor, Op. 78",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/18800317",
+        "community": {
+          "want": 1,
+          "have": 5
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1971",
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "label": [
+          "Decca",
+          "Decca",
+          "Clout & Baker Ltd.",
+          "The Decca Record Company Limited"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 7920798,
+        "barcode": [
+          "B.I.E.M.",
+          "ZAL.9820",
+          "ZAL.9821",
+          "ZAL-9820-2K",
+          "ZAL-9821-4K"
+        ],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/7920798-Saint-Sa%C3%ABns-Anita-Priest-With-Los-Angeles-Philharmonic-Orchestra-Conducted-By-Zubin-Mehta-Saint-Sa",
+        "catno": "SXL 6482",
+        "title": "Saint-Sa\u00ebns*, Anita Priest With Los Angeles Philharmonic Orchestra Conducted By Zubin Mehta - Saint-Sa\u00ebns Symphony No. 3 In C Minor, Op. 78",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/7920798",
+        "community": {
+          "want": 9,
+          "have": 58
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Japan",
+        "year": "1970",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "London Records",
+          "London Records",
+          "Decca Studios"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 26230211,
+        "barcode": [],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/26230211-Saint-Sa%C3%ABns-Anita-Priest-With-Los-Angeles-Philharmonic-Orchestra-Conducted-By-Zubin-Mehta-Saint-Sa",
+        "catno": "L18C 5058",
+        "title": "Saint-Sa\u00ebns*, Anita Priest With Los Angeles Philharmonic Orchestra Conducted By Zubin Mehta - Saint-Sa\u00ebns Symphony No. 3 In C Minor, Op. 78",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/26230211",
+        "community": {
+          "want": 2,
+          "have": 3
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1970",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "Decca",
+          "Clout & Baker Ltd."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 17004861,
+        "barcode": [],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/17004861-Saint-Sa%C3%ABns-Anita-Priest-With-Los-Angeles-Philharmonic-Orchestra-Conducted-By-Zubin-Mehta-Saint-Sa",
+        "catno": "SXL 6482",
+        "title": "Saint-Sa\u00ebns*, Anita Priest With Los Angeles Philharmonic Orchestra Conducted By Zubin Mehta - Saint-Sa\u00ebns Symphony No. 3 In C Minor, Op. 78",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/17004861",
+        "community": {
+          "want": 3,
+          "have": 22
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1970",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "Decca",
+          "Decca",
+          "Clout & Baker Ltd.",
+          "The Decca Record Company Limited",
+          "Decca Studios",
+          "Decca Record Co. Ltd., Pressing Plant, UK."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 8858605,
+        "barcode": [
+          "BIEM",
+          "ZAL.9820",
+          "ZAL.9821",
+          "ZAL-9820-2K",
+          "ZAL-9821-4K"
+        ],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/8858605-Saint-Sa%C3%ABns-Anita-Priest-With-Los-Angeles-Philharmonic-Orchestra-Conducted-By-Zubin-Mehta-Saint-Sa",
+        "catno": "SXL 6482",
+        "title": "Saint-Sa\u00ebns*, Anita Priest With Los Angeles Philharmonic Orchestra Conducted By Zubin Mehta - Saint-Sa\u00ebns Symphony No. 3 In C Minor, Op. 78",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/8858605",
+        "community": {
+          "want": 16,
+          "have": 87
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "France",
+        "year": "1970",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Club Edition"
+        ],
+        "label": [
+          "Decca"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [],
+        "id": 8081591,
+        "barcode": [],
+        "master_id": 463541,
+        "master_url": "https://api.discogs.com/masters/463541",
+        "uri": "/release/8081591-Saint-Sa%C3%ABns-Anita-Priest-With-Los-Angeles-Philharmonic-Orchestra-Conducted-By-Zubin-Mehta-Saint-Sa",
+        "catno": "ZAL 9.821",
+        "title": "Saint-Sa\u00ebns*, Anita Priest With Los Angeles Philharmonic Orchestra Conducted By Zubin Mehta - Saint-Sa\u00ebns Symphony No. 3 In C Minor, Op. 78",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/8081591",
+        "community": {
+          "want": 3,
+          "have": 10
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Club Edition"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

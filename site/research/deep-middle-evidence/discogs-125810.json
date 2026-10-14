@@ -1,0 +1,854 @@
+{
+  "id": 125810,
+  "status": "Accepted",
+  "year": 1983,
+  "resource_url": "https://api.discogs.com/releases/125810",
+  "uri": "https://www.discogs.com/release/125810-Martha-And-The-Muffins-MM-Danseparc",
+  "artists": [
+    {
+      "name": "Martha And The Muffins",
+      "anv": "",
+      "join": "\u2022",
+      "role": "",
+      "tracks": "",
+      "id": 30735,
+      "resource_url": "https://api.discogs.com/artists/30735",
+      "thumbnail_url": "https://i.discogs.com/mM9vZc5RkyKCsITm7EudTffGssUoAn2uWJ_jLxw3oKk/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwNzM1/LTE2MDYzOTUxNTQt/MzEyNy5wbmc.jpeg"
+    },
+    {
+      "name": "M + M",
+      "anv": "M+M",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 79790,
+      "resource_url": "https://api.discogs.com/artists/79790",
+      "thumbnail_url": "https://i.discogs.com/rNw7Fv3QzDV6aP7u1TR4CZhRqi2QoazVKK_JmRdjVr4/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5Nzkw/LTE1MjEwNjIyMjEt/NDY5MS5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Martha And The Muffins \u2022 M + M",
+  "labels": [
+    {
+      "name": "RCA",
+      "catno": "AFL1-4664",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "resource_url": "https://api.discogs.com/labels/895",
+      "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "RCA Victor",
+      "catno": "AFL1-4664",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 11358,
+      "resource_url": "https://api.discogs.com/labels/11358",
+      "thumbnail_url": "https://i.discogs.com/ZCo68cHzmhLrSleTHNX_kOp4d2Rwy6waokVzr-sHxWs/rs:fit/g:sm/q:90/h:256/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMzU4/LTE1NDgyODQ5ODMt/OTY5OS5wbmc.jpeg"
+    },
+    {
+      "name": "RCA",
+      "catno": "Wave 1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "resource_url": "https://api.discogs.com/labels/895",
+      "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "RCA Records Pressing Plant, Indianapolis",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 406973,
+      "resource_url": "https://api.discogs.com/labels/406973",
+      "thumbnail_url": "https://i.discogs.com/p_Qla4SdKYhhQnjY9s-VoLNzHOitiwfDGxLvhjBaBX0/rs:fit/g:sm/q:90/h:294/w:288/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwNjk3/My0xNDY0MDU5OTcz/LTk3MDMuanBlZw.jpeg"
+    },
+    {
+      "name": "Grant Avenue Studio",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 264119,
+      "resource_url": "https://api.discogs.com/labels/264119",
+      "thumbnail_url": "https://i.discogs.com/wsBzzVa537FT_FanXZChoQhm2tikLH7tswFdufS_6LA/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDEx/OS0xMzE2NDQ4Mjc1/LmpwZWc.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "Indianapolis Pressing"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1090,
+    "want": 142,
+    "rating": {
+      "count": 69,
+      "average": 4.06
+    },
+    "submitter": {
+      "username": "siart",
+      "resource_url": "https://api.discogs.com/users/siart"
+    },
+    "contributors": [
+      {
+        "username": "siart",
+        "resource_url": "https://api.discogs.com/users/siart"
+      },
+      {
+        "username": "vanity6",
+        "resource_url": "https://api.discogs.com/users/vanity6"
+      },
+      {
+        "username": "pleh",
+        "resource_url": "https://api.discogs.com/users/pleh"
+      },
+      {
+        "username": "joeybolt",
+        "resource_url": "https://api.discogs.com/users/joeybolt"
+      },
+      {
+        "username": "eri9",
+        "resource_url": "https://api.discogs.com/users/eri9"
+      },
+      {
+        "username": "truedream",
+        "resource_url": "https://api.discogs.com/users/truedream"
+      },
+      {
+        "username": "CTripp",
+        "resource_url": "https://api.discogs.com/users/CTripp"
+      },
+      {
+        "username": "data_boy",
+        "resource_url": "https://api.discogs.com/users/data_boy"
+      },
+      {
+        "username": "markzip",
+        "resource_url": "https://api.discogs.com/users/markzip"
+      },
+      {
+        "username": "Audioear",
+        "resource_url": "https://api.discogs.com/users/Audioear"
+      },
+      {
+        "username": "jims_eargasms",
+        "resource_url": "https://api.discogs.com/users/jims_eargasms"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2003-03-28T00:55:05-08:00",
+  "date_changed": "2023-12-02T19:19:12-08:00",
+  "num_for_sale": 65,
+  "lowest_price": 1.33,
+  "master_id": 105629,
+  "master_url": "https://api.discogs.com/masters/105629",
+  "title": "Danseparc",
+  "country": "US",
+  "released": "1983",
+  "notes": "Recorded spring-summer 1982 at Grant Ave. Studio, Hamilton, Canada.\n\n*(B1) Pygmy excerpts from \u2018Music of the Rain Forest Pygmies\u2019 Lyrichord Record LLST 7157\n\nThanks to Current Records and Grant Ave. Studio for making this album possible.\n\nRunout details are etched except I and A1 stamped.",
+  "released_formatted": "1983",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 7863-54664-1",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "078635466416",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664-A",
+      "description": "Label Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664-B",
+      "description": "Label Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664 A-5 1 1V",
+      "description": "Runout Side A, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664 B-5 1 1V",
+      "description": "Runout Side B, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664 A -5 I A1 E",
+      "description": "Runout Side A, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664 B -5 I A1 F",
+      "description": "Runout Side B, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664 A -5 I A1I",
+      "description": "Runout Side A, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664 B -5 I A1K",
+      "description": "Runout Side B, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664 A -5 I A1C",
+      "description": "Runout Side A, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AFL1-4664 B -5 I A1B",
+      "description": "Runout Side B, variant 4"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=bU7ZgjzfQrE",
+      "title": "Martha and the Muffins - Several Styles of Blonde Girls Dancing",
+      "description": "From \"Danseparc\" (1983).",
+      "duration": 350,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=A_gTbilIL-s",
+      "title": "World Without Borders",
+      "description": "Provided to YouTube by CDBaby\n\nWorld Without Borders \u00b7 Martha and the Muffins\n\nDanseparc\n\n\u2117 2008 Muffin Music Ltd.\n\nReleased on: 2008-01-01\n\nAuto-generated by YouTube.",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mocmEYfESBM",
+      "title": "The World Is a Ball",
+      "description": "Provided to YouTube by CDBaby\n\nThe World Is a Ball \u00b7 Martha and the Muffins\n\nThe World Is a Ball (30th Anniversary Edition)\n\n\u2117 2017 Licensed Courtesy of Sony Music Entertainment Canada Inc.\n\nReleased on: 2017-02-15\n\nAuto-generated by YouTube.",
+      "duration": 260,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KrXQ31dGlB8",
+      "title": "Obedience",
+      "description": "Provided to YouTube by CDBaby\n\nObedience \u00b7 Martha and the Muffins\n\nDanseparc\n\n\u2117 2008 Muffin Music Ltd.\n\nReleased on: 2008-01-01\n\nAuto-generated by YouTube.",
+      "duration": 211,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WAt3HG1PEdE",
+      "title": "Walking Into Walls",
+      "description": "Provided to YouTube by CDBaby\n\nWalking Into Walls \u00b7 Martha and the Muffins\n\nDanseparc\n\n\u2117 2008 Muffin Music Ltd.\n\nReleased on: 2008-01-01\n\nAuto-generated by YouTube.",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JZwiBiu6hbo",
+      "title": "Danseparc (Every Day It's Tomorrow)",
+      "description": "Martha And The Muffins [M+M] (Danseparc)",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=e7apknZqjWM",
+      "title": "Sins Of Children",
+      "description": "Provided to YouTube by CDBaby\n\nSins Of Children \u00b7 Martha and the Muffins\n\nDanseparc\n\n\u2117 2008 Muffin Music Ltd.\n\nReleased on: 2008-01-01\n\nAuto-generated by YouTube.",
+      "duration": 338,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=fSfyRDwQQg0",
+      "title": "Several Styles Of Blonde Girls Dancing",
+      "description": "Provided to YouTube by CDBaby\n\nSeveral Styles Of Blonde Girls Dancing \u00b7 Martha and the Muffins\n\nDanseparc\n\n\u2117 2008 Muffin Music Ltd.\n\nReleased on: 2008-01-01\n\nAuto-generated by YouTube.",
+      "duration": 354,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vu4qO9tA4DI",
+      "title": "Boys In The Bushes",
+      "description": "Provided to YouTube by CDBaby\n\nBoys In The Bushes \u00b7 Martha and the Muffins\n\nDanseparc\n\n\u2117 2008 Muffin Music Ltd.\n\nReleased on: 2008-01-01\n\nAuto-generated by YouTube.",
+      "duration": 284,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Bxm0T4UgAJI",
+      "title": "What People Do For Fun",
+      "description": "Provided to YouTube by CDBaby\n\nWhat People Do For Fun \u00b7 Martha and the Muffins\n\nDanseparc\n\n\u2117 2008 Muffin Music Ltd.\n\nReleased on: 2008-01-01\n\nAuto-generated by YouTube.",
+      "duration": 243,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zdNkmA4zLsk",
+      "title": "Whatever Happened To Radio Valve Road?",
+      "description": "Provided to YouTube by CDBaby\n\nWhatever Happened To Radio Valve Road? \u00b7 Martha and the Muffins\n\nDanseparc\n\n\u2117 2008 Muffin Music Ltd.\n\nReleased on: 2008-01-01\n\nAuto-generated by YouTube.",
+      "duration": 181,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1hLt30nQpqs",
+      "title": "These Dangerous Machines",
+      "description": "Provided to YouTube by CDBaby\n\nThese Dangerous Machines \u00b7 Martha and the Muffins\n\nDanseparc\n\n\u2117 2008 Muffin Music Ltd.\n\nReleased on: 2008-01-01\n\nAuto-generated by YouTube.",
+      "duration": 313,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8Hx_3Q63xZc",
+      "title": "Martha & the Muffins | Danseparc",
+      "description": "Martha & the Muffins | Danseparc",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Synth-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Danseparc (Every Day It's Tomorrow)",
+      "extraartists": [
+        {
+          "name": "Ron Allen (2)",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone [Tenor Sax]",
+          "tracks": "",
+          "id": 465837,
+          "resource_url": "https://api.discogs.com/artists/465837"
+        },
+        {
+          "name": "Mark Gane",
+          "anv": "M. Gane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 224716,
+          "resource_url": "https://api.discogs.com/artists/224716"
+        },
+        {
+          "name": "Martha Johnson",
+          "anv": "M. Johnson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 47731,
+          "resource_url": "https://api.discogs.com/artists/47731"
+        }
+      ],
+      "duration": "3:18"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Obedience",
+      "extraartists": [
+        {
+          "name": "Martha Johnson",
+          "anv": "M. Johnson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 47731,
+          "resource_url": "https://api.discogs.com/artists/47731"
+        }
+      ],
+      "duration": "3:28"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "World Without Borders",
+      "extraartists": [
+        {
+          "name": "Ron Allen (2)",
+          "anv": "",
+          "join": "",
+          "role": "Soprano Saxophone [Soprano Sax]",
+          "tracks": "",
+          "id": 465837,
+          "resource_url": "https://api.discogs.com/artists/465837"
+        },
+        {
+          "name": "Mark Gane",
+          "anv": "M. Gane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 224716,
+          "resource_url": "https://api.discogs.com/artists/224716"
+        },
+        {
+          "name": "Martha Johnson",
+          "anv": "M. Johnson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 47731,
+          "resource_url": "https://api.discogs.com/artists/47731"
+        }
+      ],
+      "duration": "3:05"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Walking Into Walls",
+      "extraartists": [
+        {
+          "name": "Dick Smith (4)",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 618858,
+          "resource_url": "https://api.discogs.com/artists/618858"
+        },
+        {
+          "name": "Ron Allen (2)",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone [Tenor Sax], Soprano Saxophone [Soprano Sax]",
+          "tracks": "",
+          "id": 465837,
+          "resource_url": "https://api.discogs.com/artists/465837"
+        },
+        {
+          "name": "Mark Gane",
+          "anv": "M. Gane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 224716,
+          "resource_url": "https://api.discogs.com/artists/224716"
+        },
+        {
+          "name": "Martha Johnson",
+          "anv": "M. Johnson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 47731,
+          "resource_url": "https://api.discogs.com/artists/47731"
+        }
+      ],
+      "duration": "2:56"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Sins Of Children",
+      "extraartists": [
+        {
+          "name": "Martha Johnson",
+          "anv": "M. Johnson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 47731,
+          "resource_url": "https://api.discogs.com/artists/47731"
+        }
+      ],
+      "duration": "5:35"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Several Styles Of Blonde Girls Dancing",
+      "extraartists": [
+        {
+          "name": "Debbie Griffiths",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Extra Backing Vocal]",
+          "tracks": "",
+          "id": 1413404,
+          "resource_url": "https://api.discogs.com/artists/1413404"
+        },
+        {
+          "name": "Dick Smith (4)",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 618858,
+          "resource_url": "https://api.discogs.com/artists/618858"
+        },
+        {
+          "name": "Glenn Schellenberg",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer [Casiotone 202]",
+          "tracks": "",
+          "id": 499508,
+          "resource_url": "https://api.discogs.com/artists/499508"
+        },
+        {
+          "name": "Mark Gane",
+          "anv": "M. Gane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 224716,
+          "resource_url": "https://api.discogs.com/artists/224716"
+        },
+        {
+          "name": "Martha Johnson",
+          "anv": "M. Johnson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 47731,
+          "resource_url": "https://api.discogs.com/artists/47731"
+        }
+      ],
+      "duration": "5:50"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Boys In The Bushes",
+      "extraartists": [
+        {
+          "name": "John Oswald",
+          "anv": "",
+          "join": "",
+          "role": "Alto Saxophone [Alto Sax]",
+          "tracks": "",
+          "id": 26997,
+          "resource_url": "https://api.discogs.com/artists/26997"
+        },
+        {
+          "name": "Bentones/Bentonettes",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2027338,
+          "resource_url": "https://api.discogs.com/artists/2027338"
+        },
+        {
+          "name": "Dick Smith (4)",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 618858,
+          "resource_url": "https://api.discogs.com/artists/618858"
+        },
+        {
+          "name": "Glenn Schellenberg",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer [Casiotone 202]",
+          "tracks": "",
+          "id": 499508,
+          "resource_url": "https://api.discogs.com/artists/499508"
+        },
+        {
+          "name": "Mark Gane",
+          "anv": "M. Gane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 224716,
+          "resource_url": "https://api.discogs.com/artists/224716"
+        }
+      ],
+      "duration": "4:42"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "What People Do For Fun",
+      "extraartists": [
+        {
+          "name": "Martha Johnson",
+          "anv": "M. Johnson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 47731,
+          "resource_url": "https://api.discogs.com/artists/47731"
+        }
+      ],
+      "duration": "4:00"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Whatever Happened To Radio Valve Road?",
+      "extraartists": [
+        {
+          "name": "Nick Gane",
+          "anv": "",
+          "join": "",
+          "role": "Piano [Acoustic Piano], Guitar [False Guitar Cloud]",
+          "tracks": "",
+          "id": 499502,
+          "resource_url": "https://api.discogs.com/artists/499502"
+        },
+        {
+          "name": "Jocelyne Lanois",
+          "anv": "J. Lanois",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 499507,
+          "resource_url": "https://api.discogs.com/artists/499507"
+        },
+        {
+          "name": "Mark Gane",
+          "anv": "M. Gane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 224716,
+          "resource_url": "https://api.discogs.com/artists/224716"
+        },
+        {
+          "name": "Martha Johnson",
+          "anv": "M. Johnson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 47731,
+          "resource_url": "https://api.discogs.com/artists/47731"
+        },
+        {
+          "name": "Nick Kent",
+          "anv": "N. Kent",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 910718,
+          "resource_url": "https://api.discogs.com/artists/910718"
+        }
+      ],
+      "duration": "2:51"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jocelyne Lanois",
+      "anv": "",
+      "join": "",
+      "role": "Bass, Backing Vocals, Percussion",
+      "tracks": "",
+      "id": 499507,
+      "resource_url": "https://api.discogs.com/artists/499507"
+    },
+    {
+      "name": "Mark Gane",
+      "anv": "",
+      "join": "",
+      "role": "Cover",
+      "tracks": "",
+      "id": 224716,
+      "resource_url": "https://api.discogs.com/artists/224716"
+    },
+    {
+      "name": "Nick Kent",
+      "anv": "",
+      "join": "",
+      "role": "Drum Machine [Drum Kit], Percussion",
+      "tracks": "",
+      "id": 910718,
+      "resource_url": "https://api.discogs.com/artists/910718"
+    },
+    {
+      "name": "Daniel Lanois",
+      "anv": "",
+      "join": "",
+      "role": "Engineer, Percussion, Backing Vocals, Effects [Treatments]",
+      "tracks": "",
+      "id": 23858,
+      "resource_url": "https://api.discogs.com/artists/23858"
+    },
+    {
+      "name": "Mark Gane",
+      "anv": "",
+      "join": "",
+      "role": "Guitar [Guitars], Vocals, Keyboards, Percussion, Effects [Treatments]",
+      "tracks": "",
+      "id": 224716,
+      "resource_url": "https://api.discogs.com/artists/224716"
+    },
+    {
+      "name": "Martin Soldat",
+      "anv": "",
+      "join": "",
+      "role": "Layout [Cover Layout]",
+      "tracks": "",
+      "id": 1970158,
+      "resource_url": "https://api.discogs.com/artists/1970158"
+    },
+    {
+      "name": "Jocelyne Lanois",
+      "anv": "",
+      "join": "",
+      "role": "Performer [M+M]",
+      "tracks": "",
+      "id": 499507,
+      "resource_url": "https://api.discogs.com/artists/499507"
+    },
+    {
+      "name": "Mark Gane",
+      "anv": "",
+      "join": "",
+      "role": "Performer [M+M]",
+      "tracks": "",
+      "id": 224716,
+      "resource_url": "https://api.discogs.com/artists/224716"
+    },
+    {
+      "name": "Martha Johnson",
+      "anv": "",
+      "join": "",
+      "role": "Performer [M+M]",
+      "tracks": "",
+      "id": 47731,
+      "resource_url": "https://api.discogs.com/artists/47731"
+    },
+    {
+      "name": "Nick Kent",
+      "anv": "",
+      "join": "",
+      "role": "Performer [M+M]",
+      "tracks": "",
+      "id": 910718,
+      "resource_url": "https://api.discogs.com/artists/910718"
+    },
+    {
+      "name": "Peter Noble (2)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Back Cover Photo]",
+      "tracks": "",
+      "id": 2298572,
+      "resource_url": "https://api.discogs.com/artists/2298572"
+    },
+    {
+      "name": "Daniel Lanois",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 23858,
+      "resource_url": "https://api.discogs.com/artists/23858"
+    },
+    {
+      "name": "Mark Gane",
+      "anv": "",
+      "join": "",
+      "role": "Producer [With]",
+      "tracks": "",
+      "id": 224716,
+      "resource_url": "https://api.discogs.com/artists/224716"
+    },
+    {
+      "name": "Martha Johnson",
+      "anv": "",
+      "join": "",
+      "role": "Producer [With]",
+      "tracks": "",
+      "id": 47731,
+      "resource_url": "https://api.discogs.com/artists/47731"
+    },
+    {
+      "name": "David Millar",
+      "anv": "",
+      "join": "",
+      "role": "Technician [Live Sound]",
+      "tracks": "",
+      "id": 460571,
+      "resource_url": "https://api.discogs.com/artists/460571"
+    },
+    {
+      "name": "Martha Johnson",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Guitar [Inverse Guitar], Keyboards, Percussion",
+      "tracks": "",
+      "id": 47731,
+      "resource_url": "https://api.discogs.com/artists/47731"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/BPocZzYScNzZAxwpNKbaVmAe5May1jXo7lof11XjyWs/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xMzQyMjA0NTkz/LTkyOTguanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/BPocZzYScNzZAxwpNKbaVmAe5May1jXo7lof11XjyWs/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xMzQyMjA0NTkz/LTkyOTguanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/FhEebaDpmPKltACETrImgg0DjayU6bd-NoxkxXLFFG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xMzQyMjA0NTkz/LTkyOTguanBlZw.jpeg",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1RgNClxd5ATozVHVEU6jd7KxvUvS-sCvF6WBT-AnI-M/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjIx/LTc0NDAuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/1RgNClxd5ATozVHVEU6jd7KxvUvS-sCvF6WBT-AnI-M/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjIx/LTc0NDAuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/IcMYeOJcEjWHgcsjh6Wgx0-tP9wC1EEGzxVdYedwQ_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjIx/LTc0NDAuanBlZw.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6NpdpjnU8RwVrD5t9ZsGl9sRKMA7en-rqjyNO7XkLOc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjMx/LTUyMzEuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/6NpdpjnU8RwVrD5t9ZsGl9sRKMA7en-rqjyNO7XkLOc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjMx/LTUyMzEuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/k4fjfdkmJPEYJfnvJXBJMfwkvCr05BYQGA942ovJYS8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjMx/LTUyMzEuanBlZw.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hEN-gfq3NU56dA6YAziFbva1ODVYUcZtJRAtLitvVYE/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjQx/LTE4NDIuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/hEN-gfq3NU56dA6YAziFbva1ODVYUcZtJRAtLitvVYE/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjQx/LTE4NDIuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/1kRr-AjI8xzYoM_hVgcN_O5lXqk8Neeh2D6uGVCsGOc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjQx/LTE4NDIuanBlZw.jpeg",
+      "width": 591,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/FhEebaDpmPKltACETrImgg0DjayU6bd-NoxkxXLFFG8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xMzQyMjA0NTkz/LTkyOTguanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

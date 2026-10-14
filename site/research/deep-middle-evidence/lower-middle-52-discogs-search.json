@@ -1,0 +1,110 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 30,
+    "items": 2,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "1976",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Vanguard",
+        "The Bach Guild",
+        "Historical Anthology Of Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Baroque"
+      ],
+      "id": 14170693,
+      "barcode": [
+        "HM 52 A-1A",
+        "HM 52 B-1A",
+        "HM 53 A-1A",
+        "HM 53 B-1A"
+      ],
+      "master_id": 1870950,
+      "master_url": "https://api.discogs.com/masters/1870950",
+      "uri": "/release/14170693-Johann-Sebastian-Bach-I-Solisti-Di-Zagreb-Antonio-Janigro-Concertos-For-2-3-4-Harpsichords",
+      "catno": "HM-52/53 SD",
+      "title": "Johann Sebastian Bach, I Solisti Di Zagreb*, Antonio Janigro - Concertos For 2, 3 & 4 Harpsichords",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/14170693",
+      "community": {
+        "want": 1,
+        "have": 26
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1976",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Vanguard"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Baroque"
+      ],
+      "id": 27153792,
+      "barcode": [],
+      "master_id": 1870950,
+      "master_url": "https://api.discogs.com/masters/1870950",
+      "uri": "/release/27153792-Johann-Sebastian-Bach-Zagreba%C4%8Dki-Solisti-Concertos-For-2-3-4-Harpsichords",
+      "catno": "HM-52/53 SD",
+      "title": "Johann Sebastian Bach, Zagreba\u010dki Solisti - Concertos For 2, 3 & 4 Harpsichords",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/27153792",
+      "community": {
+        "want": 0,
+        "have": 0
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "upper-middle-59",
+  "identity": "Tim Hardin 1",
+  "searches": [
+    {
+      "query": "release:\"Tim Hardin 1\" AND artist:\"Tim Hardin\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Tim%20Hardin%201%22%20AND%20artist%3A%22Tim%20Hardin%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "70d857a1-173e-49bb-8e36-5e0b726ef9b0",
+      "url": "https://musicbrainz.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0",
+      "title": "Tim Hardin 1",
+      "artistCredit": [
+        {
+          "name": "Tim Hardin",
+          "artist": {
+            "id": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+            "name": "Tim Hardin",
+            "sort-name": "Hardin, Tim"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1966-07",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "FT-3004",
+          "label": {
+            "id": "0756df09-5c1c-4660-9161-a4490f28cbfe",
+            "name": "Verve Folkways"
+          }
+        }
+      ],
+      "images": [
+        {
+          "comment": "",
+          "types": [
+            "Front"
+          ],
+          "approved": true,
+          "front": true,
+          "id": "13756868999",
+          "edit": 39115492,
+          "image": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756868999.jpg",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756868999-500.jpg",
+            "small": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756868999-250.jpg"
+          },
+          "back": false
+        },
+        {
+          "front": false,
+          "edit": 39115493,
+          "id": "13756869685",
+          "image": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756869685.jpg",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756869685-500.jpg",
+            "small": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756869685-250.jpg"
+          },
+          "back": true,
+          "comment": "",
+          "types": [
+            "Back"
+          ],
+          "approved": true
+        },
+        {
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756870436-250.jpg",
+            "large": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756870436-500.jpg"
+          },
+          "image": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756870436.jpg",
+          "id": "13756870436",
+          "edit": 39115494,
+          "front": false,
+          "back": false,
+          "types": [
+            "Medium"
+          ],
+          "comment": "",
+          "approved": true
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

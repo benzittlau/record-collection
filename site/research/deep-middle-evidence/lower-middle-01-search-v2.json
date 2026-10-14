@@ -1,0 +1,144 @@
+{
+  "created": "2026-10-14T03:13:54.354Z",
+  "count": 2,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "356e0c46-0409-4432-ad35-4bedb5280ee8",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "f7946a32-374e-3ee8-8e21-c0ef89515d7a",
+      "count": 1,
+      "title": "Cognac and Bologna",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Doug and the Slugs",
+          "artist": {
+            "id": "b7f71f66-5dd9-4945-a7eb-b94509fe67fb",
+            "name": "Doug and the Slugs",
+            "sort-name": "Doug and the Slugs"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "74b83d36-ba48-3951-bd4a-380461bae9a8",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Cognac and Bologna",
+        "primary-type": "Album"
+      },
+      "date": "1980",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "1980",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "KKL1-0375",
+          "label": {
+            "id": "310e5700-23f6-48b2-83cd-5300c0c0694f",
+            "name": "Ritdong Records"
+          }
+        }
+      ],
+      "track-count": 11,
+      "media": [
+        {
+          "id": "1abfec8e-a63d-3bef-ad91-cc3b4b888729",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 11
+        }
+      ]
+    },
+    {
+      "id": "e67f3093-45f5-45c9-b474-10afe5f1e835",
+      "score": 84,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "f7946a32-374e-3ee8-8e21-c0ef89515d7a",
+      "count": 1,
+      "title": "Cognac and Bologna / Wrap It!",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Doug and the Slugs",
+          "artist": {
+            "id": "b7f71f66-5dd9-4945-a7eb-b94509fe67fb",
+            "name": "Doug and the Slugs",
+            "sort-name": "Doug and the Slugs"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "17727911-2a7b-33be-a7e6-aba473cf91c0",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Cognac and Bologna / Wrap It!",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Compilation"
+        ],
+        "secondary-type-ids": [
+          "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+        ]
+      },
+      "date": "1997-03-18",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1997-03-18",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "0046633443029",
+      "asin": "B000002R8R",
+      "label-info": [
+        {
+          "catalog-number": "OW 34430",
+          "label": {
+            "id": "cdd905e9-5a4d-4814-b0f7-9eae6e56fae8",
+            "name": "One Way Records"
+          }
+        }
+      ],
+      "track-count": 22,
+      "media": [
+        {
+          "id": "138b4194-0f1e-3af0-ba57-315166747163",
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 22
+        }
+      ]
+    }
+  ]
+}

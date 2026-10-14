@@ -1,0 +1,737 @@
+{
+  "id": 38668164,
+  "status": "Accepted",
+  "year": 1981,
+  "resource_url": "https://api.discogs.com/releases/38668164",
+  "uri": "https://www.discogs.com/release/38668164-Landscape-From-The-Tea-rooms-Of-Mars-To-The-Hell-holes-Of-Uranus",
+  "artists": [
+    {
+      "name": "Landscape",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 45600,
+      "resource_url": "https://api.discogs.com/artists/45600",
+      "thumbnail_url": "https://i.discogs.com/w2yntcwXtEXE9q7BnPaXXBH6j0ViwfT6s1jTNA-Mi4A/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ1NjAw/LTE2MDA2NDc2ODUt/NTYzOC5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Landscape",
+  "labels": [
+    {
+      "name": "RCA Victor",
+      "catno": "PL 25328",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 11358,
+      "resource_url": "https://api.discogs.com/labels/11358",
+      "thumbnail_url": "https://i.discogs.com/ZCo68cHzmhLrSleTHNX_kOp4d2Rwy6waokVzr-sHxWs/rs:fit/g:sm/q:90/h:256/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMzU4/LTE1NDgyODQ5ODMt/OTY5OS5wbmc.jpeg"
+    },
+    {
+      "name": "RCA",
+      "catno": "PL 25328",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "resource_url": "https://api.discogs.com/labels/895",
+      "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "RCA Corporation",
+      "catno": "",
+      "entity_type": "46",
+      "entity_type_name": "Corporate Owner",
+      "id": 68984,
+      "resource_url": "https://api.discogs.com/labels/68984",
+      "thumbnail_url": "https://i.discogs.com/mCsu-fm9T0QKy4-QMkuXhABXXfOPvrCPxYD314ZycOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4OTg0/LTE0NTk2MzU1NDgt/NzM4OS5qcGVn.jpeg"
+    },
+    {
+      "name": "RCA S.A.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 264980,
+      "resource_url": "https://api.discogs.com/labels/264980",
+      "thumbnail_url": "https://i.discogs.com/UWXqdW8coxWZibfm5KPCf1bbf-Ji3zdbE9w6rnIlU6I/rs:fit/g:sm/q:90/h:61/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDk4/MC0xNTM0NzgxNDIz/LTQyNjguanBlZw.jpeg"
+    },
+    {
+      "name": "RCA S.A.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 264980,
+      "resource_url": "https://api.discogs.com/labels/264980",
+      "thumbnail_url": "https://i.discogs.com/UWXqdW8coxWZibfm5KPCf1bbf-Ji3zdbE9w6rnIlU6I/rs:fit/g:sm/q:90/h:61/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDk4/MC0xNTM0NzgxNDIz/LTQyNjguanBlZw.jpeg"
+    },
+    {
+      "name": "Event Horizon Enterprises",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 65680,
+      "resource_url": "https://api.discogs.com/labels/65680"
+    },
+    {
+      "name": "RCA Victor",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 11358,
+      "resource_url": "https://api.discogs.com/labels/11358",
+      "thumbnail_url": "https://i.discogs.com/ZCo68cHzmhLrSleTHNX_kOp4d2Rwy6waokVzr-sHxWs/rs:fit/g:sm/q:90/h:256/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMzU4/LTE1NDgyODQ5ODMt/OTY5OS5wbmc.jpeg"
+    },
+    {
+      "name": "Event Horizon Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 358516,
+      "resource_url": "https://api.discogs.com/labels/358516"
+    },
+    {
+      "name": "DFI",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 219229,
+      "resource_url": "https://api.discogs.com/labels/219229",
+      "thumbnail_url": "https://i.discogs.com/EpLh_gPT7di-2SJpm9TFnz3NDPjy6RM2p5UUlR9FyHM/rs:fit/g:sm/q:90/h:128/w:279/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxOTIy/OS0xMzI3MjYxMTc2/LmpwZWc.jpeg"
+    },
+    {
+      "name": "France Imprimerie Sorel",
+      "catno": "",
+      "entity_type": "19",
+      "entity_type_name": "Printed By",
+      "id": 272692,
+      "resource_url": "https://api.discogs.com/labels/272692",
+      "thumbnail_url": "https://i.discogs.com/2SAwuQ3WIjvFGCpsA_JjYnJBhZxjTDTKmAliymjhabw/rs:fit/g:sm/q:90/h:307/w:307/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MjY5/Mi0xMzk3MDUyMjE5/LTg4NTcuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1,
+    "want": 0,
+    "rating": {
+      "count": 0,
+      "average": 0.0
+    },
+    "submitter": {
+      "username": "genitek.rge",
+      "resource_url": "https://api.discogs.com/users/genitek.rge"
+    },
+    "contributors": [
+      {
+        "username": "genitek.rge",
+        "resource_url": "https://api.discogs.com/users/genitek.rge"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2026-10-09T23:51:57-07:00",
+  "date_changed": "2026-10-10T06:16:14-07:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "master_id": 71340,
+  "master_url": "https://api.discogs.com/masters/71340",
+  "title": "From The Tea-rooms Of Mars... To The Hell-holes Of Uranus",
+  "country": "France",
+  "released": "1981",
+  "notes": "Full glossy non-gatefold cover\nWhite original paper inner sleeve with [l272692] logo \n\n[Spine]\nFrom The Tea-Rooms Of Mars... To The Hell Holes Of Uranus\nRCA (P) 1981\n\n[Label]\n\u2117 1981 RCA Victor\nMADE IN FRANCE\n\n[Rear cover]\nPress\u00e9 et distribu\u00e9 par la soci\u00e9t\u00e9 RCA S.A.\nRCA \u00e9diteur\n\nThe runouts are stamped, Y.D. is etched.",
+  "released_formatted": "1981",
+  "identifiers": [
+    {
+      "type": "Rights Society",
+      "value": "SACEM SDRM SACD SGDL"
+    },
+    {
+      "type": "Price Code",
+      "value": "RC 250",
+      "description": "Printed on rear, boxed"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "PL 25328 A",
+      "description": "A-side label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "PL 25328 B",
+      "description": "B-side label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[AGI logo] 81-3  PL. 25328 A  Y.D.",
+      "description": "A-side runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[AGI logo] 81-3  PL. 25328 B  Y.D.",
+      "description": "B-side runout"
+    },
+    {
+      "type": "Pressing Plant ID",
+      "value": "[AGI logo]",
+      "description": "\u2a53  is stamped"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=cFkPN5kco_k",
+      "title": "Landscape - Norman Bates (7-Inch Version) [Official Music Video]",
+      "description": "Taken from Landscape A Go-Go: The Story Of Landscape 1977-83, a 5CD box set collection featuring 84 remastered tracks. Of these titles, 52 are available on CD for the first time \u2013 and 22 have never been released in any format. Out now: https://landscape.l",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Eb6rdBNk0bw",
+      "title": "Landscape - European Man (Official Promo Video)",
+      "description": "Landscape's 'European Man', featuring Barbie Wilde. \n\nLandscape had other hits such as 'Einstein a Go-Go' and 'Norman Bates'. Singer Richard James Burgess went on to produce Spandau Ballet, Adam Ant, Kim Wilde, Five Star and many others. Barbie Wilde was ",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dFxse9kY38I",
+      "title": "Landscape - Computer Person",
+      "description": "Computer fantasy footage--with  80's mystique",
+      "duration": 177,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NCGd4IwQ5hA",
+      "title": "Landscape - Shake The West  Awake",
+      "description": "",
+      "duration": 211,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rn8jPj9g_CM",
+      "title": "Landscape - Einstein a Go Go (1981)",
+      "description": "Landscape is a British band, best known for the 1981 hits \"Einstein A Go-Go\" and \"Norman Bates.\" Formed in 1974, it toured constantly during the mid-to-late-1970s, playing rock, punk, and jazz venues and releasing two instrumental EPs on its own Event Hor",
+      "duration": 169,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UY1lIBAMP7E",
+      "title": "Landscape - European Man (7-Inch Version) [Official Music Video]",
+      "description": "Taken from Landscape A Go-Go: The Story Of Landscape 1977-83, a 5CD box set collection featuring 84 remastered tracks. Of these titles, 52 are available on CD for the first time \u2013 and 22 have never been released in any format. Out now: https://landscape.l",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zthChjUe1II",
+      "title": "Landscape - Norman Bates (Official Promo Video)",
+      "description": "Official promo video for the \"Norman Bates\" single by Landscape, released in May 1981",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ccmtWmdGe7o",
+      "title": "Landscape - Norman Bates",
+      "description": "from 1981's \"From the Tea-Rooms of Mars.... ....To the Hell Holes of Uranus\"",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WCyKGzhZeWw",
+      "title": "From the Tea Rooms of Mars...To the Hell Holes of Uranus",
+      "description": "Provided to YouTube by Redeye Worldwide\n\nFrom the Tea Rooms of Mars...To the Hell Holes of Uranus \u00b7 Landscape\n\nFrom the Tea Rooms of Mars...To the Hell Holes of Uranus\n\n\u2117 1981 XNTRIX Records under exclusive licence to Cooking Vinyl Limited\n\nReleased on: 1",
+      "duration": 462,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Ri0M__nWkkA",
+      "title": "From the Tea Rooms of Mars... A) Beguine (2023 Remaster)",
+      "description": "Provided to YouTube by Redeye Worldwide\n\nFrom the Tea Rooms of Mars... A) Beguine (2023 Remaster) \u00b7 Landscape\n\nFrom the Tea Rooms of Mars...To the Hell Holes of Uranus\n\n\u2117 1981 Landscape Music under exclusive licence to Cooking Vinyl Limited\n\nReleased on: ",
+      "duration": 169,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4fyGU_C0Efk",
+      "title": "From the Tea Rooms of Mars... C) Tango (2023 Remaster)",
+      "description": "Provided to YouTube by Redeye Worldwide\n\nFrom the Tea Rooms of Mars... C) Tango (2023 Remaster) \u00b7 Landscape\n\nFrom the Tea Rooms of Mars...To the Hell Holes of Uranus\n\n\u2117 1981 Landscape Music under exclusive licence to Cooking Vinyl Limited\n\nReleased on: 19",
+      "duration": 155,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-HPp0VMZkIg",
+      "title": "From the Tea Rooms of Mars... B) Mambo (2023 Remaster)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nFrom the Tea Rooms of Mars... B) Mambo (2023 Remaster) \u00b7 Landscape \u00b7 Richard James Burgess \u00b7 Chris Heaton \u00b7 Andy Pask \u00b7 Peter Thoms \u00b7 John L. Walters\n\nFrom the Tea Rooms of Mars... To the Hell Holes of Uranu",
+      "duration": 141,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_xful-C6qXk",
+      "title": "The Doll's House (2023 Remaster)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nThe Doll's House (2023 Remaster) \u00b7 Landscape \u00b7 Richard James Burgess \u00b7 Chris Heaton \u00b7 Andy Pask \u00b7 Peter Thoms \u00b7 John L. Walters\n\nFrom the Tea Rooms of Mars... To the Hell Holes of Uranus\n\n\u2117 2023 Landscape Mu",
+      "duration": 320,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZmyLxBlK5AA",
+      "title": "Landscape - Face of the 80's",
+      "description": "From the album \"From the Tea-Rooms of Mars...To the Hell Holes of Uranus\".\n\nComposed by John Walters & Richard James Burgess",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=12hEJhIT_pA",
+      "title": "Landscape - Alpine Tragedy/Sisters",
+      "description": "From the album \"From the Tea-Rooms of Mars...To the Hell Holes of Uranus\"\n\nComposed by Christopher Heaton (Alpine Tragedy) and John Walters & Richard James Burgess (Sisters)",
+      "duration": 286,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop",
+    "Experimental"
+  ],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "\"From The Tea-rooms Of Mars...\"",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "European Man",
+      "extraartists": [
+        {
+          "name": "Colin Thurston",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 60619,
+          "resource_url": "https://api.discogs.com/artists/60619"
+        },
+        {
+          "name": "Landscape",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By",
+          "tracks": "",
+          "id": 45600,
+          "resource_url": "https://api.discogs.com/artists/45600"
+        },
+        {
+          "name": "Richard James Burgess",
+          "anv": "Burgess",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 32501,
+          "resource_url": "https://api.discogs.com/artists/32501"
+        }
+      ],
+      "duration": "4:15"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Shake The West Awake",
+      "extraartists": [
+        {
+          "name": "Landscape",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 45600,
+          "resource_url": "https://api.discogs.com/artists/45600"
+        }
+      ],
+      "duration": "3:24"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Computer Person",
+      "extraartists": [
+        {
+          "name": "Landscape",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 45600,
+          "resource_url": "https://api.discogs.com/artists/45600"
+        },
+        {
+          "name": "Peter Thoms",
+          "anv": "Thoms",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 157446,
+          "resource_url": "https://api.discogs.com/artists/157446"
+        }
+      ],
+      "duration": "2:56"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Alpine Tragedy; Sisters",
+      "extraartists": [
+        {
+          "name": "Christopher Heaton",
+          "anv": "Heaton",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 534593,
+          "resource_url": "https://api.discogs.com/artists/534593"
+        },
+        {
+          "name": "Landscape",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 45600,
+          "resource_url": "https://api.discogs.com/artists/45600"
+        }
+      ],
+      "duration": "4:44"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Face Of The 80's",
+      "extraartists": [
+        {
+          "name": "John L. Walters",
+          "anv": "Walters",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288653,
+          "resource_url": "https://api.discogs.com/artists/288653"
+        },
+        {
+          "name": "Landscape",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 45600,
+          "resource_url": "https://api.discogs.com/artists/45600"
+        },
+        {
+          "name": "Richard James Burgess",
+          "anv": "Burgess",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 32501,
+          "resource_url": "https://api.discogs.com/artists/32501"
+        }
+      ],
+      "duration": "3:27"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "New Religion",
+      "extraartists": [
+        {
+          "name": "Christopher Heaton",
+          "anv": "Heaton",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 534593,
+          "resource_url": "https://api.discogs.com/artists/534593"
+        },
+        {
+          "name": "Landscape",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 45600,
+          "resource_url": "https://api.discogs.com/artists/45600"
+        },
+        {
+          "name": "Richard James Burgess",
+          "anv": "Burgess",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 32501,
+          "resource_url": "https://api.discogs.com/artists/32501"
+        }
+      ],
+      "duration": "3:11"
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "\"...To The Hell-holes Of Uranus\"",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Einstein A Go-Go",
+      "extraartists": [
+        {
+          "name": "John L. Walters",
+          "anv": "Walters",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288653,
+          "resource_url": "https://api.discogs.com/artists/288653"
+        },
+        {
+          "name": "Landscape",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 45600,
+          "resource_url": "https://api.discogs.com/artists/45600"
+        },
+        {
+          "name": "Richard James Burgess",
+          "anv": "Burgess",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 32501,
+          "resource_url": "https://api.discogs.com/artists/32501"
+        }
+      ],
+      "duration": "3:00"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Norman Bates",
+      "extraartists": [
+        {
+          "name": "John L. Walters",
+          "anv": "Walters",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 288653,
+          "resource_url": "https://api.discogs.com/artists/288653"
+        },
+        {
+          "name": "Landscape",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 45600,
+          "resource_url": "https://api.discogs.com/artists/45600"
+        }
+      ],
+      "duration": "5:28"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "The Doll's House",
+      "extraartists": [
+        {
+          "name": "Christopher Heaton",
+          "anv": "Heaton",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 534593,
+          "resource_url": "https://api.discogs.com/artists/534593"
+        },
+        {
+          "name": "Landscape",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 45600,
+          "resource_url": "https://api.discogs.com/artists/45600"
+        },
+        {
+          "name": "Richard James Burgess",
+          "anv": "Burgess",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 32501,
+          "resource_url": "https://api.discogs.com/artists/32501"
+        }
+      ],
+      "duration": "5:01"
+    },
+    {
+      "position": "",
+      "type_": "index",
+      "title": "From The Tea-rooms Of Mars...To The Hell-holes Of Uranus",
+      "duration": "7:57",
+      "sub_tracks": [
+        {
+          "position": "B4-1",
+          "type_": "track",
+          "title": "Beguine",
+          "duration": ""
+        },
+        {
+          "position": "B4-2",
+          "type_": "track",
+          "title": "Mambo",
+          "duration": ""
+        },
+        {
+          "position": "B4-3",
+          "type_": "track",
+          "title": "Tango",
+          "duration": ""
+        }
+      ]
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Yves Delaunay",
+      "anv": "Y.D.",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 497537,
+      "resource_url": "https://api.discogs.com/artists/497537"
+    },
+    {
+      "name": "Andy Pask",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 373497,
+      "resource_url": "https://api.discogs.com/artists/373497"
+    },
+    {
+      "name": "Christopher Heaton",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 534593,
+      "resource_url": "https://api.discogs.com/artists/534593"
+    },
+    {
+      "name": "John L. Walters",
+      "anv": "John Walters",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 288653,
+      "resource_url": "https://api.discogs.com/artists/288653"
+    },
+    {
+      "name": "Peter Thoms",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 157446,
+      "resource_url": "https://api.discogs.com/artists/157446"
+    },
+    {
+      "name": "Richard James Burgess",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 32501,
+      "resource_url": "https://api.discogs.com/artists/32501"
+    },
+    {
+      "name": "Landscape",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 45600,
+      "resource_url": "https://api.discogs.com/artists/45600"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/B6Kku3ZYMEZQiU7LDqGCiuLu2cHXlWiBJIf5XNufbtU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MTk5/OTktMTE5Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/B6Kku3ZYMEZQiU7LDqGCiuLu2cHXlWiBJIf5XNufbtU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MTk5/OTktMTE5Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MOzliwu8-pZH0Ymzx3g2Z8KbAbcVYi4Rjp9UHptJpn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MTk5/OTktMTE5Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WCMSc_ajPRv6-MyXdGPNYaOyhqb411FdjNYNpKd1QO8/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MjAw/MjktNDM4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WCMSc_ajPRv6-MyXdGPNYaOyhqb411FdjNYNpKd1QO8/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MjAw/MjktNDM4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/RyeHw5uR-CsmraV7CwGiHRsmebtb1_qZ5VLe1pDM_rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MjAw/MjktNDM4My5qcGVn.jpeg",
+      "width": 579,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ksxb26U1zdOh2p2es3IwxOColS93cf-ROfnxxbn0q3k/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MjAw/NjAtNTgxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ksxb26U1zdOh2p2es3IwxOColS93cf-ROfnxxbn0q3k/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MjAw/NjAtNTgxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/brurzKjVtQ6VtGrJGR64Sl-SOkz6n3qZJpM-xWhdxv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MjAw/NjAtNTgxNS5qcGVn.jpeg",
+      "width": 579,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/__F6F7TLycCMvzaiEOs0rhdLdhaqp56Cc0zmg8OD3rY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MjAw/OTMtODk3MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/__F6F7TLycCMvzaiEOs0rhdLdhaqp56Cc0zmg8OD3rY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MjAw/OTMtODk3MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_6QqwRVFacviq3oTpO88wiupVb4ebUZomcxlYFZDYi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MjAw/OTMtODk3MS5qcGVn.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4rG_Qqyg_ncvlddN07CVRAxdE5GMfXzre-i8NQn5JKg/rs:fit/g:sm/q:90/h:248/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MzY0/NTItMzEyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4rG_Qqyg_ncvlddN07CVRAxdE5GMfXzre-i8NQn5JKg/rs:fit/g:sm/q:90/h:248/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MzY0/NTItMzEyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PbwcHKn6p0CqxQoLFCkdlyQzu5msmBL-xIBrGLQD8xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MzY0/NTItMzEyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 248
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gt7sO94PB-EFvOy668V8f7LKNQcXNXJyWIObgwcf0j8/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MzY0/NTItNTY5MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/gt7sO94PB-EFvOy668V8f7LKNQcXNXJyWIObgwcf0j8/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MzY0/NTItNTY5MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ENAUYrN4W1kzJOC3rfe5SP1agOD_ptvXCuomHqps16Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MzY0/NTItNTY5MS5qcGVn.jpeg",
+      "width": 569,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/MOzliwu8-pZH0Ymzx3g2Z8KbAbcVYi4Rjp9UHptJpn0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjY4/MTY0LTE3OTE2MTk5/OTktMTE5Ny5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

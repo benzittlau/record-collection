@@ -1,0 +1,1062 @@
+{
+  "created": "2026-10-14T03:12:46.522Z",
+  "count": 10,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "ce86bee8-dfaa-4bcd-a05f-d52ffd4666f1",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "7a835d57-79d2-3d9c-aa51-691dcd69f5d3",
+      "count": 1,
+      "title": "Trout Quintet",
+      "status": "Official",
+      "text-representation": {
+        "language": "deu",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Franz Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Emil Gilels",
+          "artist": {
+            "id": "88b4ad33-63ba-4923-947e-26a720631156",
+            "name": "\u042d\u043c\u0438\u043b\u044c \u0413\u0438\u043b\u0435\u043b\u044c\u0441",
+            "sort-name": "Gilels, Emil",
+            "disambiguation": "pianist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "name": "Rainer Zepperitz",
+          "artist": {
+            "id": "97759cec-1a54-4ffd-88ba-e72890c70e3e",
+            "name": "Rainer Zepperitz",
+            "sort-name": "Zepperitz, Rainer",
+            "disambiguation": "German double bass player"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "854f8c62-d5b3-403f-a46d-eb2a7a941a93",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "\"Forellenquintett\" (\"Trout\" quintet, \"La truite\")",
+        "primary-type": "Album"
+      },
+      "date": "1976",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "1976",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "2530 646",
+          "label": {
+            "id": "5a584032-dcef-41bb-9f8b-19540116fb1c",
+            "name": "Deutsche Grammophon"
+          }
+        }
+      ],
+      "track-count": 6,
+      "media": [
+        {
+          "id": "6604e46a-2d8e-3c42-a0e4-7964c74baa71",
+          "format": "Vinyl",
+          "disc-count": 0,
+          "track-count": 6
+        }
+      ]
+    },
+    {
+      "id": "50cd8bf3-712d-42f3-8c4b-9baa4b617227",
+      "score": 77,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "artist-credit-id": "c9fdf719-54eb-363e-bebc-228a93dc4f4f",
+      "count": 1,
+      "title": "\"Forellenquintett\" (\"Trout\" quintet, \"La truite\")",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "mul",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Franz Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Emil Gilels",
+          "artist": {
+            "id": "88b4ad33-63ba-4923-947e-26a720631156",
+            "name": "\u042d\u043c\u0438\u043b\u044c \u0413\u0438\u043b\u0435\u043b\u044c\u0441",
+            "sort-name": "Gilels, Emil",
+            "disambiguation": "pianist"
+          }
+        },
+        {
+          "name": "Rainer Zepperitz",
+          "artist": {
+            "id": "97759cec-1a54-4ffd-88ba-e72890c70e3e",
+            "name": "Rainer Zepperitz",
+            "sort-name": "Zepperitz, Rainer",
+            "disambiguation": "German double bass player"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "854f8c62-d5b3-403f-a46d-eb2a7a941a93",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "\"Forellenquintett\" (\"Trout\" quintet, \"La truite\")",
+        "primary-type": "Album"
+      },
+      "date": "1984",
+      "country": "DE",
+      "release-events": [
+        {
+          "date": "1984",
+          "area": {
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+            "name": "Germany",
+            "sort-name": "Germany",
+            "iso-3166-1-codes": [
+              "DE"
+            ]
+          }
+        }
+      ],
+      "barcode": "028941345325",
+      "asin": "B00000E2VE",
+      "label-info": [
+        {
+          "catalog-number": "413 453-2",
+          "label": {
+            "id": "5a584032-dcef-41bb-9f8b-19540116fb1c",
+            "name": "Deutsche Grammophon"
+          }
+        }
+      ],
+      "track-count": 6,
+      "media": [
+        {
+          "id": "a5620a41-e753-3108-9db2-d7e0e943f6df",
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 6
+        }
+      ]
+    },
+    {
+      "id": "198da098-c392-4b7b-b3b1-ecc424014a40",
+      "score": 73,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "1305f325-c9e1-3565-b204-94f37519de93",
+      "count": 2,
+      "title": "Brahms: Piano Quintet / Schubert: \u2018Trout\u2019 Quintet",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": ", ",
+          "name": "Brahms",
+          "artist": {
+            "id": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
+            "name": "Johannes Brahms",
+            "sort-name": "Brahms, Johannes",
+            "disambiguation": "German composer"
+          }
+        },
+        {
+          "joinphrase": "; ",
+          "name": "Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "name": "Clifford Curzon",
+          "artist": {
+            "id": "50c215ff-a1b0-40f4-a7b0-2f8ccd03920c",
+            "name": "Sir Clifford Curzon",
+            "sort-name": "Curzon, Clifford, Sir",
+            "disambiguation": "classical pianist, knighted in 1977"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "f8a5e73a-4b45-4aad-8045-a0ad4cca3e2c",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Brahms: Piano Quintet / Schubert: 'Trout' Quintet",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Compilation",
+          "Live"
+        ],
+        "secondary-type-ids": [
+          "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+        ]
+      },
+      "date": "1999-03-23",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "1999-03-23",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          }
+        }
+      ],
+      "barcode": "684911400922",
+      "asin": "B00000IL6E",
+      "label-info": [
+        {
+          "catalog-number": "BBCL 4009-2",
+          "label": {
+            "id": "5612c7dd-cfe7-4bef-b400-1b0acce24c21",
+            "name": "BBC Music"
+          }
+        }
+      ],
+      "track-count": 9,
+      "media": [
+        {
+          "id": "39d96a55-f657-3bd1-ac0e-b0cb891cae10",
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 4
+        },
+        {
+          "id": "6ee4a399-497a-3091-ba31-3466aad09d9b",
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 5
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "chamber music"
+        }
+      ]
+    },
+    {
+      "id": "77fa8e7f-ba2a-4e6b-9377-96cc6bfaf6c9",
+      "score": 69,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "d158e898-0a66-36c4-a895-0c8eb887e3d3",
+      "count": 1,
+      "title": "Piano Quintet in A major \"Trout\", D. 667",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Franz Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "name": "Clifford Curzon",
+          "artist": {
+            "id": "50c215ff-a1b0-40f4-a7b0-2f8ccd03920c",
+            "name": "Sir Clifford Curzon",
+            "sort-name": "Curzon, Clifford, Sir",
+            "disambiguation": "classical pianist, knighted in 1977"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "e43caa95-0988-3bb3-acc4-067b5890d75a",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Piano Quintet in A major \"Trout\", D. 667",
+        "primary-type": "Album"
+      },
+      "track-count": 5,
+      "media": [
+        {
+          "id": "5287e8d4-a9de-340c-89bc-d640f5069d1b",
+          "disc-count": 0,
+          "track-count": 5
+        }
+      ]
+    },
+    {
+      "id": "fa8e35ad-468a-402c-a28e-15eb2341185b",
+      "score": 64,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "d6dbb690-252e-3f6a-8242-2dc1b4b4518e",
+      "count": 1,
+      "title": "\"Trout\" Quintet / String Quartet \"Death and the Maiden\"",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Hungarian Quartet",
+          "artist": {
+            "id": "e199308d-bb49-4fab-9a5a-e1675fc55240",
+            "name": "Hungarian Quartet",
+            "sort-name": "Hungarian Quartet",
+            "disambiguation": "1935-1972"
+          }
+        },
+        {
+          "name": "Hephzibah Menuhin",
+          "artist": {
+            "id": "f0282d0f-f602-4269-897b-10a79a1f0db8",
+            "name": "Hephzibah Menuhin",
+            "sort-name": "Menuhin, Hephzibah",
+            "disambiguation": "pianist"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "9e70c9ba-bae5-3b66-8cc6-6846f0e17a2b",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "\"Trout\" Quintet / String Quartet \"Death and the Maiden\"",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Compilation"
+        ],
+        "secondary-type-ids": [
+          "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+        ]
+      },
+      "date": "1989",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "1989",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          }
+        }
+      ],
+      "barcode": "724348948120",
+      "label-info": [
+        {
+          "catalog-number": "Seraphim",
+          "label": {
+            "id": "c029628b-6633-439e-bcee-ed02e8a338f7",
+            "name": "EMI"
+          }
+        }
+      ],
+      "track-count": 9,
+      "media": [
+        {
+          "id": "af70b6a3-7c87-36d8-bf70-2009351460dc",
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 9
+        }
+      ]
+    },
+    {
+      "id": "f9aa84a3-cae2-4568-8c1c-6c06040c7d9a",
+      "score": 49,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "7a835d57-79d2-3d9c-aa51-691dcd69f5d3",
+      "count": 1,
+      "title": "\"Forellenquintett\" / Quartett \"Der Tod und das M\u00e4dchen\" (\"Trout\" Quintet / \"Death and the Maiden\" Quartet)",
+      "status": "Official",
+      "text-representation": {
+        "language": "mul",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Franz Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Emil Gilels",
+          "artist": {
+            "id": "88b4ad33-63ba-4923-947e-26a720631156",
+            "name": "\u042d\u043c\u0438\u043b\u044c \u0413\u0438\u043b\u0435\u043b\u044c\u0441",
+            "sort-name": "Gilels, Emil",
+            "disambiguation": "pianist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "name": "Rainer Zepperitz",
+          "artist": {
+            "id": "97759cec-1a54-4ffd-88ba-e72890c70e3e",
+            "name": "Rainer Zepperitz",
+            "sort-name": "Zepperitz, Rainer",
+            "disambiguation": "German double bass player"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "667d1214-6aa5-34cc-a29a-e6eed65e4283",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "\"Forellenquintett\" / Quartett \"Der Tod und das M\u00e4dchen\" (\"Trout\" Quintet / \"Death and the Maiden\" Quartet)",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Compilation"
+        ],
+        "secondary-type-ids": [
+          "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+        ]
+      },
+      "date": "2015",
+      "country": "XW",
+      "release-events": [
+        {
+          "date": "2015",
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]",
+            "sort-name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "label-info": [
+        {
+          "catalog-number": "none",
+          "label": {
+            "id": "5a584032-dcef-41bb-9f8b-19540116fb1c",
+            "name": "Deutsche Grammophon"
+          }
+        }
+      ],
+      "track-count": 9,
+      "media": [
+        {
+          "id": "83da3145-05e3-3dbc-906d-b54a9ec2cdd5",
+          "format": "Digital Media",
+          "disc-count": 0,
+          "track-count": 9
+        }
+      ]
+    },
+    {
+      "id": "8806b2aa-507e-48e6-ba07-0547e2a0b2b0",
+      "score": 49,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "artist-credit-id": "7a835d57-79d2-3d9c-aa51-691dcd69f5d3",
+      "count": 1,
+      "title": "\"Forellenquintett\" / Quartett \"Der Tod und das M\u00e4dchen\" (\"Trout\" Quintet / \"Death and the Maiden\" Quartet)",
+      "status": "Official",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "deu",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Franz Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Emil Gilels",
+          "artist": {
+            "id": "88b4ad33-63ba-4923-947e-26a720631156",
+            "name": "\u042d\u043c\u0438\u043b\u044c \u0413\u0438\u043b\u0435\u043b\u044c\u0441",
+            "sort-name": "Gilels, Emil",
+            "disambiguation": "pianist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "name": "Rainer Zepperitz",
+          "artist": {
+            "id": "97759cec-1a54-4ffd-88ba-e72890c70e3e",
+            "name": "Rainer Zepperitz",
+            "sort-name": "Zepperitz, Rainer",
+            "disambiguation": "German double bass player"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "667d1214-6aa5-34cc-a29a-e6eed65e4283",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "\"Forellenquintett\" / Quartett \"Der Tod und das M\u00e4dchen\" (\"Trout\" Quintet / \"Death and the Maiden\" Quartet)",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Compilation"
+        ],
+        "secondary-type-ids": [
+          "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+        ]
+      },
+      "date": "1997-01-06",
+      "country": "DE",
+      "release-events": [
+        {
+          "date": "1997-01-06",
+          "area": {
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+            "name": "Germany",
+            "sort-name": "Germany",
+            "iso-3166-1-codes": [
+              "DE"
+            ]
+          }
+        }
+      ],
+      "barcode": "028944974621",
+      "asin": "B000001GXF",
+      "label-info": [
+        {
+          "catalog-number": "449 746-2",
+          "label": {
+            "id": "5a584032-dcef-41bb-9f8b-19540116fb1c",
+            "name": "Deutsche Grammophon"
+          }
+        }
+      ],
+      "track-count": 9,
+      "media": [
+        {
+          "id": "df8911d3-91e6-3cf2-865e-e7e5086ba0cb",
+          "format": "CD",
+          "disc-count": 2,
+          "track-count": 9
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "93abd14e-1d16-407e-afb7-958c0ce776d5",
+      "score": 41,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "612eca8d-ef4a-4a5d-8332-6ad85b8b328f",
+      "count": 1,
+      "title": "Schubert: Piano Quintet in A 'Trout' / Beethoven: Piano Trio in D 'Ghost'",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": ", ",
+          "name": "Franz Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": "; ",
+          "name": "Ludwig van Beethoven",
+          "artist": {
+            "id": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+            "name": "Ludwig van Beethoven",
+            "sort-name": "Beethoven, Ludwig van",
+            "disambiguation": "German composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Hephzibah Menuhin",
+          "artist": {
+            "id": "f0282d0f-f602-4269-897b-10a79a1f0db8",
+            "name": "Hephzibah Menuhin",
+            "sort-name": "Menuhin, Hephzibah",
+            "disambiguation": "pianist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Yehudi Menuhin",
+          "artist": {
+            "id": "2a8949f5-d681-4df2-a2fd-a08966ae2d31",
+            "name": "Yehudi Menuhin",
+            "sort-name": "Menuhin, Yehudi",
+            "disambiguation": "violinist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Maurice Gendron",
+          "artist": {
+            "id": "b671fcf8-b5b3-40ee-a58e-c4a396a00eac",
+            "name": "Maurice Gendron",
+            "sort-name": "Gendron, Maurice",
+            "disambiguation": "cellist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Members of the Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        },
+        {
+          "name": "J. Edward Merrett",
+          "artist": {
+            "id": "2cc76cca-4fb0-4477-8e84-8c0f53ff16dd",
+            "name": "James Merrett",
+            "sort-name": "Merrett, James",
+            "disambiguation": "double bass player"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ef42fea0-3ca3-4f28-8a88-73b8af467e4d",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Schubert: Piano Quintet in A 'Trout' / Beethoven: Piano Trio in D 'Ghost'",
+        "primary-type": "Album"
+      },
+      "barcode": "0077776315027",
+      "label-info": [
+        {
+          "catalog-number": "CD-EMX 2078",
+          "label": {
+            "id": "c029628b-6633-439e-bcee-ed02e8a338f7",
+            "name": "EMI"
+          }
+        }
+      ],
+      "track-count": 8,
+      "media": [
+        {
+          "id": "0f483829-27f4-37d1-a6bd-b7d20b3aebe4",
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 8
+        }
+      ]
+    },
+    {
+      "id": "a8629877-b3f1-4553-9bc6-137828b38099",
+      "score": 41,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "artist-credit-id": "79bc889f-1053-498c-be54-2f3a9db23a5e",
+      "count": 1,
+      "title": "\"Forellenquintett\" / Quartett \"Der Tod und das M\u00e4dchen\" (\"Trout\" Quintet / \"Death and the Maiden\" Quartet)",
+      "status": "Official",
+      "disambiguation": "BMG club edition",
+      "packaging": "Jewel Case",
+      "text-representation": {
+        "language": "mul",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Franz Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Emil Gilels",
+          "artist": {
+            "id": "88b4ad33-63ba-4923-947e-26a720631156",
+            "name": "\u042d\u043c\u0438\u043b\u044c \u0413\u0438\u043b\u0435\u043b\u044c\u0441",
+            "sort-name": "Gilels, Emil",
+            "disambiguation": "pianist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Norbert Brainin",
+          "artist": {
+            "id": "18666cca-2c37-4371-ae98-700d8a01d0ab",
+            "name": "Norbert Brainin",
+            "sort-name": "Brainin, Norbert",
+            "disambiguation": "violinist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Peter Schidlof",
+          "artist": {
+            "id": "5bef88eb-fdc7-4479-88d7-e60060d06d93",
+            "name": "Peter Schidlof",
+            "sort-name": "Schidlof, Peter",
+            "disambiguation": "violist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Martin Lovett",
+          "artist": {
+            "id": "fad836ae-9904-42d6-a90e-bb6f3de3a04e",
+            "name": "Martin Lovett",
+            "sort-name": "Lovett, Martin",
+            "disambiguation": "cellist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Rainer Zepperitz",
+          "artist": {
+            "id": "97759cec-1a54-4ffd-88ba-e72890c70e3e",
+            "name": "Rainer Zepperitz",
+            "sort-name": "Zepperitz, Rainer",
+            "disambiguation": "German double bass player"
+          }
+        },
+        {
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "667d1214-6aa5-34cc-a29a-e6eed65e4283",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "\"Forellenquintett\" / Quartett \"Der Tod und das M\u00e4dchen\" (\"Trout\" Quintet / \"Death and the Maiden\" Quartet)",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Compilation"
+        ],
+        "secondary-type-ids": [
+          "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+        ]
+      },
+      "date": "",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "D120303",
+          "label": {
+            "id": "132282be-91ba-4185-ae10-0cb570a1288c",
+            "name": "BMG Direct"
+          }
+        },
+        {
+          "catalog-number": "449 746-2",
+          "label": {
+            "id": "5a584032-dcef-41bb-9f8b-19540116fb1c",
+            "name": "Deutsche Grammophon"
+          }
+        }
+      ],
+      "track-count": 9,
+      "media": [
+        {
+          "id": "3a8bc6d9-2b4d-4fc7-9c02-e8b88feb80e8",
+          "format": "CD",
+          "disc-count": 0,
+          "track-count": 9
+        }
+      ]
+    },
+    {
+      "id": "fb307803-014a-4c47-b87c-86d7e7bf8082",
+      "score": 31,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "79bc889f-1053-498c-be54-2f3a9db23a5e",
+      "count": 1,
+      "title": "Quintet for piano, violin, viola, cello and double bass in A major D 667 \u201cThe Trout\u201d / String quartet no. 14 in D minor D 810 \u201cDeath and the Maiden\u201d",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Franz Schubert",
+          "artist": {
+            "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+            "name": "Franz Schubert",
+            "sort-name": "Schubert, Franz",
+            "disambiguation": "composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Emil Gilels",
+          "artist": {
+            "id": "88b4ad33-63ba-4923-947e-26a720631156",
+            "name": "\u042d\u043c\u0438\u043b\u044c \u0413\u0438\u043b\u0435\u043b\u044c\u0441",
+            "sort-name": "Gilels, Emil",
+            "disambiguation": "pianist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Norbert Brainin",
+          "artist": {
+            "id": "18666cca-2c37-4371-ae98-700d8a01d0ab",
+            "name": "Norbert Brainin",
+            "sort-name": "Brainin, Norbert",
+            "disambiguation": "violinist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Peter Schidlof",
+          "artist": {
+            "id": "5bef88eb-fdc7-4479-88d7-e60060d06d93",
+            "name": "Peter Schidlof",
+            "sort-name": "Schidlof, Peter",
+            "disambiguation": "violist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Martin Lovett",
+          "artist": {
+            "id": "fad836ae-9904-42d6-a90e-bb6f3de3a04e",
+            "name": "Martin Lovett",
+            "sort-name": "Lovett, Martin",
+            "disambiguation": "cellist"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Rainer Zepperitz",
+          "artist": {
+            "id": "97759cec-1a54-4ffd-88ba-e72890c70e3e",
+            "name": "Rainer Zepperitz",
+            "sort-name": "Zepperitz, Rainer",
+            "disambiguation": "German double bass player"
+          }
+        },
+        {
+          "name": "Amadeus Quartet",
+          "artist": {
+            "id": "7bf0b7e0-ce0b-411e-9977-aed8e67172a1",
+            "name": "Amadeus Quartet",
+            "sort-name": "Amadeus Quartet"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "667d1214-6aa5-34cc-a29a-e6eed65e4283",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "\"Forellenquintett\" / Quartett \"Der Tod und das M\u00e4dchen\" (\"Trout\" Quintet / \"Death and the Maiden\" Quartet)",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Compilation"
+        ],
+        "secondary-type-ids": [
+          "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+        ]
+      },
+      "date": "1999",
+      "country": "BR",
+      "release-events": [
+        {
+          "date": "1999",
+          "area": {
+            "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+            "name": "Brazil",
+            "sort-name": "Brazil",
+            "iso-3166-1-codes": [
+              "BR"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "DGC 088 / 28947110422",
+          "label": {
+            "id": "43797ae4-ffa5-41aa-96c4-586e0d08a2f4",
+            "name": "Altaya"
+          }
+        }
+      ],
+      "track-count": 9,
+      "media": [
+        {
+          "id": "535f2a70-4fd5-3df5-9129-348d642b361c",
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 9
+        }
+      ]
+    }
+  ]
+}

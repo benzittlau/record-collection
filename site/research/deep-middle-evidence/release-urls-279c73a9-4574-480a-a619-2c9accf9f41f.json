@@ -1,0 +1,100 @@
+{
+  "relations": [
+    {
+      "source-credit": "",
+      "type": "discogs",
+      "target-type": "url",
+      "attribute-values": {},
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "attribute-ids": {},
+      "target-credit": "",
+      "ended": false,
+      "begin": null,
+      "url": {
+        "resource": "https://www.discogs.com/release/5696503",
+        "id": "24f0a32a-84f9-4f78-83d5-7b83417d510b"
+      },
+      "direction": "forward",
+      "end": null,
+      "attributes": []
+    }
+  ],
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "asin": null,
+  "media": [
+    {
+      "track-count": 10,
+      "format": "12\" Vinyl",
+      "position": 1,
+      "id": "a9ca0094-c8a5-3d83-9382-68cf0773f78c",
+      "title": "",
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64"
+    }
+  ],
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "name": "The Sensational Alex Harvey Band",
+      "artist": {
+        "id": "b304dc15-a567-47f7-9db0-8e9a1aeeba1e",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "The Sensational Alex Harvey Band",
+        "sort-name": "Harvey, Alex, Sensational Band, The",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Group"
+      }
+    }
+  ],
+  "disambiguation": "",
+  "title": "Tomorrow Belongs to Me",
+  "barcode": "",
+  "release-events": [
+    {
+      "area": {
+        "type": null,
+        "disambiguation": "",
+        "sort-name": "United Kingdom",
+        "name": "United Kingdom",
+        "iso-3166-1-codes": [
+          "GB"
+        ],
+        "type-id": null,
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+      },
+      "date": "1975"
+    }
+  ],
+  "status": "Official",
+  "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+  "date": "1975",
+  "id": "279c73a9-4574-480a-a619-2c9accf9f41f",
+  "label-info": [
+    {
+      "label": {
+        "disambiguation": "originally a British rock label; German since 1998",
+        "label-code": 1633,
+        "type": "Original Production",
+        "id": "1b3b52a5-ef89-4f8b-8d5f-e15a7a58863b",
+        "sort-name": "Vertigo",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "name": "Vertigo"
+      },
+      "catalog-number": "9102 003"
+    }
+  ],
+  "packaging": "Gatefold Cover",
+  "cover-art-archive": {
+    "back": false,
+    "front": false,
+    "artwork": false,
+    "count": 0,
+    "darkened": false
+  },
+  "quality": "normal",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "country": "GB"
+}

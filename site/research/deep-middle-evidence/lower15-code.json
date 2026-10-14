@@ -1,0 +1,80 @@
+{
+  "created": "2026-10-14T03:22:35.424Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "52d0a1dc-968a-3ef7-a380-81d24733f0a7",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+      "count": 1,
+      "title": "All That Jazz",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Various Artists",
+          "artist": {
+            "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+            "name": "Various Artists",
+            "sort-name": "Various Artists",
+            "disambiguation": "add compilations to this artist"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "1f79a72a-bcee-3d9f-af81-0b1a7f117e7f",
+        "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "All That Jazz",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Soundtrack"
+        ],
+        "secondary-type-ids": [
+          "22a628ad-c082-3c4f-b1b6-d41665107b88"
+        ]
+      },
+      "date": "1980-01-28",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1980-01-28",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "NBLP 7198",
+          "label": {
+            "id": "98f93684-2a6f-4d40-ac6a-41fd0cc8ecc8",
+            "name": "Casablanca Records"
+          }
+        }
+      ],
+      "track-count": 14,
+      "media": [
+        {
+          "id": "6730bfa9-c28a-3752-a874-db8a3390b204",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 14
+        }
+      ]
+    }
+  ]
+}

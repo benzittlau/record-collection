@@ -1,0 +1,308 @@
+{
+  "id": "lower-middle-59",
+  "identity": "Making Movies",
+  "searches": [
+    {
+      "query": "release:\"Making Movies\" AND artist:\"Dire Straits\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Making%20Movies%22%20AND%20artist%3A%22Dire%20Straits%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "724cf567-745a-4957-9033-064acc8204e2",
+      "url": "https://musicbrainz.org/release/724cf567-745a-4957-9033-064acc8204e2",
+      "title": "Making Movies",
+      "artistCredit": [
+        {
+          "name": "Dire Straits",
+          "artist": {
+            "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+            "name": "Dire Straits",
+            "sort-name": "Dire Straits"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1980-10-17",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SRM-1-3857",
+          "label": {
+            "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+            "name": "Mercury Records"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "ed94008d-eab0-4be1-8994-d809afdb2ae8",
+      "url": "https://musicbrainz.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8",
+      "title": "Making Movies",
+      "artistCredit": [
+        {
+          "name": "Dire Straits",
+          "artist": {
+            "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+            "name": "Dire Straits",
+            "sort-name": "Dire Straits"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1999",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SVLP 147",
+          "label": {
+            "id": "32010ee6-d280-4060-823c-f0214ea619fc",
+            "name": "Simply Vinyl"
+          }
+        }
+      ],
+      "images": [
+        {
+          "edit": 35513252,
+          "id": "11752108539",
+          "front": true,
+          "image": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752108539.jpg",
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752108539-250.jpg",
+            "large": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752108539-500.jpg"
+          },
+          "types": [
+            "Front",
+            "Sticker"
+          ],
+          "comment": "",
+          "approved": true,
+          "back": false
+        },
+        {
+          "approved": true,
+          "back": true,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752110650-250.jpg",
+            "large": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752110650-500.jpg"
+          },
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "id": "11752110650",
+          "edit": 35513255,
+          "image": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752110650.jpg",
+          "comment": ""
+        },
+        {
+          "approved": true,
+          "back": false,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752111564-250.jpg",
+            "large": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752111564-500.jpg"
+          },
+          "types": [
+            "Medium"
+          ],
+          "edit": 35513260,
+          "id": "11752111564",
+          "front": false,
+          "image": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752111564.jpg",
+          "comment": ""
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752112500-250.jpg",
+            "large": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752112500-500.jpg"
+          },
+          "image": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752112500.jpg",
+          "front": false,
+          "id": "11752112500",
+          "edit": 35513263,
+          "comment": "",
+          "approved": true,
+          "back": false
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "a5509d8d-a3bd-4791-ba4a-7337896ce1b3",
+      "url": "https://musicbrainz.org/release/a5509d8d-a3bd-4791-ba4a-7337896ce1b3",
+      "title": "Making Movies",
+      "artistCredit": [
+        {
+          "name": "Dire Straits",
+          "artist": {
+            "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+            "name": "Dire Straits",
+            "sort-name": "Dire Straits"
+          }
+        }
+      ],
+      "country": "AU",
+      "date": "1980",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "6359 034",
+          "label": {
+            "id": "1b3b52a5-ef89-4f8b-8d5f-e15a7a58863b",
+            "name": "Vertigo"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "2d7bd8fe-c988-4d6b-88fb-49620d5a10b7",
+      "url": "https://musicbrainz.org/release/2d7bd8fe-c988-4d6b-88fb-49620d5a10b7",
+      "title": "Making Movies",
+      "artistCredit": [
+        {
+          "name": "Dire Straits",
+          "artist": {
+            "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+            "name": "Dire Straits",
+            "sort-name": "Dire Straits"
+          }
+        }
+      ],
+      "country": "XE",
+      "date": "2014-05-19",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "3752905",
+          "label": {
+            "id": "1a181fea-ac2f-4a39-8e76-1f9a8760573b",
+            "name": "Phonogram"
+          }
+        },
+        {
+          "catalog-number": "3752905",
+          "label": {
+            "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+            "name": "Mercury Records"
+          }
+        },
+        {
+          "catalog-number": "3752905",
+          "label": {
+            "id": "1b3b52a5-ef89-4f8b-8d5f-e15a7a58863b",
+            "name": "Vertigo"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 134520192,
+          "front": true,
+          "id": 43347842936,
+          "image": "https://coverartarchive.org/release/2d7bd8fe-c988-4d6b-88fb-49620d5a10b7/43347842936.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/2d7bd8fe-c988-4d6b-88fb-49620d5a10b7/43347842936-1200.jpg",
+            "250": "https://coverartarchive.org/release/2d7bd8fe-c988-4d6b-88fb-49620d5a10b7/43347842936-250.jpg",
+            "500": "https://coverartarchive.org/release/2d7bd8fe-c988-4d6b-88fb-49620d5a10b7/43347842936-500.jpg",
+            "large": "https://coverartarchive.org/release/2d7bd8fe-c988-4d6b-88fb-49620d5a10b7/43347842936-500.jpg",
+            "small": "https://coverartarchive.org/release/2d7bd8fe-c988-4d6b-88fb-49620d5a10b7/43347842936-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "8aab83d8-029b-4464-a733-59f91633ffbc",
+      "url": "https://musicbrainz.org/release/8aab83d8-029b-4464-a733-59f91633ffbc",
+      "title": "Making Movies",
+      "artistCredit": [
+        {
+          "name": "Dire Straits",
+          "artist": {
+            "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+            "name": "Dire Straits",
+            "sort-name": "Dire Straits"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "2019-11-13",
+      "formats": [
+        "12\" Vinyl",
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "MFSL 2-468",
+          "label": {
+            "id": "edd54e2f-2eef-46b1-a9b5-bedfe5ed33be",
+            "name": "Mobile Fidelity Sound Lab"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 74523041,
+          "front": true,
+          "id": 27709546955,
+          "image": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709546955.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709546955-1200.jpg",
+            "250": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709546955-250.jpg",
+            "500": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709546955-500.jpg",
+            "large": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709546955-500.jpg",
+            "small": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709546955-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 74523044,
+          "front": false,
+          "id": 27709549116,
+          "image": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709549116.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709549116-1200.jpg",
+            "250": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709549116-250.jpg",
+            "500": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709549116-500.jpg",
+            "large": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709549116-500.jpg",
+            "small": "http://coverartarchive.org/release/8aab83d8-029b-4464-a733-59f91633ffbc/27709549116-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

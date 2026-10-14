@@ -1,0 +1,64 @@
+{
+  "id": "lower-middle-12",
+  "identity": "Snowblind Friend",
+  "searches": [
+    {
+      "query": "rgid:688544a3-3391-3995-ac58-6354730d83ec",
+      "url": "https://musicbrainz.org/ws/2/release/?query=rgid%3A688544a3-3391-3995-ac58-6354730d83ec&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "9bdf4502-57c2-403d-ad11-4a07e5cd8649",
+      "url": "https://musicbrainz.org/release/9bdf4502-57c2-403d-ad11-4a07e5cd8649",
+      "title": "Snowblind Friend",
+      "artistCredit": [
+        {
+          "name": "Hoyt Axton",
+          "artist": {
+            "id": "2e359fac-9a6b-4436-9719-6170315e0072",
+            "name": "Hoyt Axton",
+            "sort-name": "Axton, Hoyt"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1977",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "MCA-2263",
+          "label": {
+            "id": "46a3941a-c810-47a1-974f-955effec4d09",
+            "name": "MCA Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 52543462,
+          "front": true,
+          "id": 19748321472,
+          "image": "http://coverartarchive.org/release/9bdf4502-57c2-403d-ad11-4a07e5cd8649/19748321472.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/9bdf4502-57c2-403d-ad11-4a07e5cd8649/19748321472-1200.jpg",
+            "250": "http://coverartarchive.org/release/9bdf4502-57c2-403d-ad11-4a07e5cd8649/19748321472-250.jpg",
+            "500": "http://coverartarchive.org/release/9bdf4502-57c2-403d-ad11-4a07e5cd8649/19748321472-500.jpg",
+            "large": "http://coverartarchive.org/release/9bdf4502-57c2-403d-ad11-4a07e5cd8649/19748321472-500.jpg",
+            "small": "http://coverartarchive.org/release/9bdf4502-57c2-403d-ad11-4a07e5cd8649/19748321472-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

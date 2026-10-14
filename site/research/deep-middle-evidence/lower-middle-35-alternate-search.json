@@ -1,0 +1,69 @@
+{
+  "query": {
+    "type": "release",
+    "format": "Vinyl",
+    "per_page": 40,
+    "q": "Trios Flute Viola Harp Grujon"
+  },
+  "url": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=40&q=Trios+Flute+Viola+Harp+Grujon",
+  "data": {
+    "pagination": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 40,
+      "items": 1,
+      "urls": {}
+    },
+    "results": [
+      {
+        "country": "US",
+        "year": "1972",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "label": [
+          "ABC Records",
+          "Westminster Gold"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Contemporary",
+          "Serial",
+          "Neo-Romantic"
+        ],
+        "id": 6297034,
+        "barcode": [],
+        "master_id": 0,
+        "master_url": null,
+        "uri": "/release/6297034-Friedrich-Voss-Arnold-Bax-Marc-Lavry-Ami-MaAyani-Trios-For-Flute-Viola-And-Harp",
+        "catno": "WGS-8196",
+        "title": "Friedrich Voss, Arnold Bax, Marc Lavry, Ami Ma'Ayani - Trios For Flute, Viola And Harp",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/6297034",
+        "community": {
+          "want": 8,
+          "have": 43
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

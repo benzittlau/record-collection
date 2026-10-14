@@ -1,0 +1,125 @@
+{
+  "created": "2026-10-14T03:18:41.889Z",
+  "count": 2,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "01f1aa07-fd23-4ccf-9b52-69957a2749f8",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "f4922687-8a04-34da-8e0a-9a74afb23ed4",
+      "count": 1,
+      "title": "Dulcimer World",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Kevin Roth",
+          "artist": {
+            "id": "02d1acad-2ce3-446c-81fa-2811e2813037",
+            "name": "Kevin Roth",
+            "sort-name": "Roth, Kevin",
+            "disambiguation": "US singer-songwriter & dulcimer player"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "9629f69e-bd01-3c4e-8032-3118a76f6cb4",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Dulcimer World",
+        "primary-type": "Album"
+      },
+      "date": "2004-06-10",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "2004-06-10",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "track-count": 25,
+      "media": [
+        {
+          "id": "8e167c10-897e-3afd-b313-86a7bbbfeb58",
+          "disc-count": 0,
+          "track-count": 25
+        }
+      ]
+    },
+    {
+      "id": "8c3c6f0c-0d4b-4f9a-8b6e-209f05614848",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "f4922687-8a04-34da-8e0a-9a74afb23ed4",
+      "count": 1,
+      "title": "Dulcimer Man",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Kevin Roth",
+          "artist": {
+            "id": "02d1acad-2ce3-446c-81fa-2811e2813037",
+            "name": "Kevin Roth",
+            "sort-name": "Roth, Kevin",
+            "disambiguation": "US singer-songwriter & dulcimer player"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "a9922791-97b1-4e43-8ea6-731b4006c0c3",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Dulcimer Man",
+        "primary-type": "Album"
+      },
+      "date": "1982",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1982",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "label-info": [
+        {
+          "catalog-number": "FTS 31087",
+          "label": {
+            "id": "4c119b4a-d398-454a-be5d-96b7aac653bc",
+            "name": "Folkways Records"
+          }
+        }
+      ],
+      "track-count": 13,
+      "media": [
+        {
+          "id": "dd57c0a5-3599-49aa-833c-7555a852b1d8",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 13
+        }
+      ]
+    }
+  ]
+}

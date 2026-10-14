@@ -1,0 +1,1559 @@
+{
+  "query": {
+    "type": "release",
+    "format": "Vinyl",
+    "per_page": 40,
+    "artist": "Scherchen",
+    "release_title": "Messiah"
+  },
+  "url": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=40&artist=Scherchen&release_title=Messiah",
+  "data": {
+    "pagination": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 40,
+      "items": 30,
+      "urls": {}
+    },
+    "results": [
+      {
+        "country": "US",
+        "year": "1971",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo"
+        ],
+        "label": [
+          "Westminster Gold",
+          "ABC Records",
+          "True Sound Manufacturing Corp."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 5987501,
+        "barcode": [
+          "WGS-8163-A E1 TSM",
+          "WGS-8163-B E1 TSM",
+          "WGS-8163-C E1 TSM",
+          "WGS-8163-D E1 TSM",
+          "WGS-8163-E E1 TSM",
+          "WGS-8163-F E1 TSM",
+          "TSM"
+        ],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/5987501-Handels-Hermann-Scherchen-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Messiah",
+        "catno": "WGS-8163-3",
+        "title": "Handel\u2019s*, Hermann Scherchen, Vienna State Opera Orchestra*, Vienna Academy Chorus* - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/5987501",
+        "community": {
+          "want": 2,
+          "have": 96
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "text": "Tri Fold",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1959",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "Westminster"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 4288704,
+        "barcode": [],
+        "master_id": 694998,
+        "master_url": "https://api.discogs.com/masters/694998",
+        "uri": "/release/4288704-Handel-Hermann-Scherchen-Conducting-The-London-Symphony-Orchestra-London-Philharmonic-Choir-Messiah",
+        "catno": "XWN 3306",
+        "title": "Handel* / Hermann Scherchen Conducting The London Symphony Orchestra, London Philharmonic Choir - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4288704",
+        "community": {
+          "want": 1,
+          "have": 43
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1957",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Mono"
+        ],
+        "label": [
+          "The Bach Guild"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 10119453,
+        "barcode": [
+          "BG-631-A / N8OP-8638",
+          "BG-631-A / N8OP-8640",
+          "BG-631-A / N8OP-8642",
+          "BG-631-A / N8OP-8643",
+          "BG-631-A / N8OP-8641",
+          "BG-631-B / N8OP-8639"
+        ],
+        "master_id": 694998,
+        "master_url": "https://api.discogs.com/masters/694998",
+        "uri": "/release/10119453-Handel-London-Philharmonic-Choir-London-Symphony-Orchestra-Hermann-Scherchen-Messiah",
+        "catno": "BG 631/3",
+        "title": "Handel*, London Philharmonic Choir, London Symphony Orchestra, Hermann Scherchen - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/10119453",
+        "community": {
+          "want": 1,
+          "have": 35
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1957",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Mono",
+          "Reissue"
+        ],
+        "label": [
+          "Westminster",
+          "Nixa",
+          "Westminster Recording Sales Corp.",
+          "RCA Records Pressing Plant, Rockaway"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 5881961,
+        "barcode": [
+          "XWN 18301",
+          "XWN 18302",
+          "XWN 18303",
+          "H8-OP-7802",
+          "H8-OP-7803",
+          "H8-OP-7804",
+          "H8-OP-7805",
+          "H8-OP-7806",
+          "H8-OP-7807",
+          "H8 OP7802-1    B3    R",
+          "H8 OP7809-1    A1    R",
+          "H8 OP7804-1    C1    R",
+          "H8 OP7805 1A    A2    R",
+          "H8 OP7806-1    A1    R",
+          "H8 OP7807-1A    A1    R"
+        ],
+        "master_id": 694998,
+        "master_url": "https://api.discogs.com/masters/694998",
+        "uri": "/release/5881961-Handel-Hermann-Scherchen-Conducting-The-London-Symphony-Orchestra-London-Philharmonic-Choir-Messiah",
+        "catno": "XWN 3306",
+        "title": "Handel* / Hermann Scherchen Conducting The London Symphony Orchestra, London Philharmonic Choir - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/5881961",
+        "community": {
+          "want": 3,
+          "have": 54
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Mono",
+              "Reissue"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Mono"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 28427695,
+        "label": [
+          "Westminster"
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/28427695-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Messiah",
+        "catno": "XWN 3306",
+        "title": "Handel* / Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/28427695",
+        "community": {
+          "want": 1,
+          "have": 4
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1959",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo",
+          "Box Set"
+        ],
+        "label": [
+          "Westminster"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 21519370,
+        "barcode": [],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/21519370-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Messiah",
+        "catno": "WST 306",
+        "title": "Handel*, Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/21519370",
+        "community": {
+          "want": 3,
+          "have": 10
+        },
+        "format_quantity": 4,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "4",
+            "text": "Black and Red Labels",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Repress",
+          "Stereo",
+          "Box Set"
+        ],
+        "style": [
+          "Baroque"
+        ],
+        "id": 8316137,
+        "label": [
+          "Westminster",
+          "ABC Records"
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/8316137-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Messiah",
+        "catno": "WST 306",
+        "title": "Handel*, Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/8316137",
+        "community": {
+          "want": 3,
+          "have": 24
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Reissue",
+          "Stereo",
+          "Box Set"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 4244736,
+        "label": [
+          "Westminster",
+          "Westminster"
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/4244736-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Messiah",
+        "catno": "WMS 1013",
+        "title": "Handel*, Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4244736",
+        "community": {
+          "want": 2,
+          "have": 30
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "text": "Blue Stripe Labels",
+            "descriptions": [
+              "LP",
+              "Reissue",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1959",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Mono",
+          "Box Set"
+        ],
+        "label": [
+          "Westminster"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 4288667,
+        "barcode": [],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/4288667-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Messiah",
+        "catno": "XWL 3306",
+        "title": "Handel*, Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4288667",
+        "community": {
+          "want": 5,
+          "have": 90
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Mono"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1",
+            "text": "Oversixed"
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1959",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo",
+          "Box Set"
+        ],
+        "label": [
+          "Westminster"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 5117126,
+        "barcode": [],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/5117126-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Messiah",
+        "catno": "WST 306",
+        "title": "Handel*, Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/5117126",
+        "community": {
+          "want": 4,
+          "have": 25
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo",
+          "Box Set",
+          "Reissue"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 5242232,
+        "label": [
+          "Westminster"
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/5242232-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Messiah",
+        "catno": "WST 306",
+        "title": "Handel*, Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/5242232",
+        "community": {
+          "want": 5,
+          "have": 61
+        },
+        "format_quantity": 4,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "4",
+            "text": "Blue Stripe Labels",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1",
+            "descriptions": [
+              "Reissue"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Germany, Austria, & Switzerland",
+        "year": "1960",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Mono",
+          "Box Set"
+        ],
+        "label": [
+          "Heliodor"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 18561283,
+        "barcode": [],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/18561283-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-The-Messi",
+        "catno": "479037/40",
+        "title": "Handel*, Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - The Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/18561283",
+        "community": {
+          "want": 1,
+          "have": 5
+        },
+        "format_quantity": 4,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "4",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Mono"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Box Set"
+        ],
+        "style": [],
+        "id": 14444640,
+        "label": [
+          "ABC Records",
+          "Music Guild Records"
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/14444640-Hermann-Scherchen-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Pierrette-Alarie-Nan-Merriman-L",
+        "catno": "MS-6302",
+        "title": "Hermann Scherchen, Vienna State Opera Orchestra*, Vienna Academy Chorus*, Pierrette Alarie, Nan Merriman, Leopold Simoneau, Richard Standen - Handel: Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/14444640",
+        "community": {
+          "want": 1,
+          "have": 5
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1"
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Mono"
+        ],
+        "style": [
+          "Oratorio",
+          "Baroque"
+        ],
+        "id": 31455977,
+        "label": [
+          "Nixa",
+          "Nixa",
+          "Nixa"
+        ],
+        "type": "release",
+        "barcode": [
+          "XTV20367-1C E",
+          "XTV20368-1C E",
+          "XTV20369-1B E",
+          "XTV20370-1C E",
+          "XTV20371-1C E",
+          "XTV20372-1D E"
+        ],
+        "master_id": 694998,
+        "master_url": "https://api.discogs.com/masters/694998",
+        "uri": "/release/31455977-Handel-Margaret-Ritchie-William-Herbert-Constance-Shacklock-Richard-Standen-Thomas-Matthews-George-E",
+        "catno": "NLP907-1",
+        "title": "Handel*, Margaret Ritchie, William Herbert, Constance Shacklock, Richard Standen, Thomas Matthews, George Eskdale, London Philharmonic Choir, London Symphony Orchestra, Hermann Scherchen - Messiah Oratorio",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/31455977",
+        "community": {
+          "want": 2,
+          "have": 4
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Australia",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "style": [
+          "Oratorio",
+          "Baroque"
+        ],
+        "id": 19722424,
+        "label": [
+          "Nixa"
+        ],
+        "type": "release",
+        "barcode": [
+          "XTV20367.1C E",
+          "XTV20368 1C E",
+          "XTV20369 1B E",
+          "XTV20370 1C E",
+          "XTV20371 1C",
+          "XTV20372 1D E"
+        ],
+        "master_id": 694998,
+        "master_url": "https://api.discogs.com/masters/694998",
+        "uri": "/release/19722424-Handel-Margaret-Ritchie-William-Herbert-Constance-Shacklock-Richard-Standen-Thomas-Matthews-George-E",
+        "catno": "NLP907-1-3",
+        "title": "Handel*, Margaret Ritchie, William Herbert, Constance Shacklock, Richard Standen, Thomas Matthews, George Eskdale, London Philharmonic Choir, London Symphony Orchestra, Hermann Scherchen - Messiah Oratorio",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/19722424",
+        "community": {
+          "want": 0,
+          "have": 5
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Mono"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 13993560,
+        "label": [
+          "Westminster",
+          "Westminster"
+        ],
+        "type": "release",
+        "barcode": [
+          "WXTV23595-1D   8",
+          "WXTV23596-1AB-   20"
+        ],
+        "master_id": 1289239,
+        "master_url": "https://api.discogs.com/masters/1289239",
+        "uri": "/release/13993560-London-Philharmonic-Choir-London-Symphony-Orchestra-Conducted-By-Hermann-Scherchen-Beloved-Choruses-",
+        "catno": "XWN 18099",
+        "title": "London Philharmonic Choir, London Symphony Orchestra Conducted By Hermann Scherchen - Beloved Choruses From Handel's \"Messiah\"",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/13993560",
+        "community": {
+          "want": 0,
+          "have": 35
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1960",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Mono"
+        ],
+        "label": [
+          "Whitehall Records",
+          "Whitehall Records"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 12997881,
+        "barcode": [
+          "M 14094 A-1L KOBY 0596",
+          "2 E/T F",
+          "M 14094 B-1L KOBY 0597",
+          "E"
+        ],
+        "master_id": 1289239,
+        "master_url": "https://api.discogs.com/masters/1289239",
+        "uri": "/release/12997881-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Choruses-",
+        "catno": "WH.20043",
+        "title": "Handel* - Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Choruses From Handel Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/12997881",
+        "community": {
+          "want": 0,
+          "have": 3
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1958",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Mono"
+        ],
+        "label": [
+          "Westminster",
+          "Westminster Recording Sales Corp."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Choral"
+        ],
+        "id": 9956467,
+        "barcode": [],
+        "master_id": 1690818,
+        "master_url": "https://api.discogs.com/masters/1690818",
+        "uri": "/release/9956467-Handel-Vienna-Academy-Chorus-Vienna-State-Opera-Orchestra-Conducted-By-Hermann-Scherchen-Highlights-",
+        "catno": "XWN 18676",
+        "title": "Handel*, Vienna Academy Chorus*, Vienna State Opera Orchestra* Conducted By Hermann Scherchen - Highlights From Handel's Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/9956467",
+        "community": {
+          "want": 0,
+          "have": 12
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1960",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo"
+        ],
+        "label": [
+          "Whitehall Records"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 4559612,
+        "barcode": [],
+        "master_id": 1289239,
+        "master_url": "https://api.discogs.com/masters/1289239",
+        "uri": "/release/4559612-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Choruses-",
+        "catno": "WHS 20043",
+        "title": "Handel* / Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Choruses From Handel's 'Messiah'",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4559612",
+        "community": {
+          "want": 0,
+          "have": 11
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Canada",
+        "year": "1960",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Mono"
+        ],
+        "label": [
+          "Westminster",
+          "Sparton Of Canada Ltd."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 12405124,
+        "barcode": [
+          "W18099A   1-1",
+          "W18099B   1-1"
+        ],
+        "master_id": 1289239,
+        "master_url": "https://api.discogs.com/masters/1289239",
+        "uri": "/release/12405124-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Beloved-Choruses",
+        "catno": "XWN 18099",
+        "title": "Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Beloved Choruses From Handel's \"Messiah\"",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/12405124",
+        "community": {
+          "want": 0,
+          "have": 6
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1959",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo"
+        ],
+        "label": [
+          "Westminster",
+          "Westminster Stereo Corp."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Choral",
+          "Oratorio"
+        ],
+        "id": 11492586,
+        "barcode": [
+          "KO8Y-0596",
+          "KO8Y-0597"
+        ],
+        "master_id": 1289239,
+        "master_url": "https://api.discogs.com/masters/1289239",
+        "uri": "/release/11492586-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Beloved-Choruses",
+        "catno": "WST 14094",
+        "title": "Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus* - Beloved Choruses From Handel Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/11492586",
+        "community": {
+          "want": 2,
+          "have": 15
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Canada",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 25140070,
+        "label": [
+          "Westminster"
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 1289239,
+        "master_url": "https://api.discogs.com/masters/1289239",
+        "uri": "/release/25140070-Handel-Hermann-Scherchen-Vienna-State-Opera-Orchestra-Beloved-Chorus-From-Handel-Messiah",
+        "catno": "WST 14094",
+        "title": "Handel* - Hermann Scherchen, Vienna State Opera Orchestra* - Beloved Chorus From Handel Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/25140070",
+        "community": {
+          "want": 0,
+          "have": 3
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Israel",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 8465425,
+        "label": [
+          "Westminster",
+          "Hed Arzi Ltd.",
+          "Westminster"
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 1289239,
+        "master_url": "https://api.discogs.com/masters/1289239",
+        "uri": "/release/8465425-H%C3%A4ndel-Vienna-Academy-ChorusVienna-State-Opera-Orchestra-Hermann-Scherchen-Beloved-Choruses-From-Ha",
+        "catno": "AN 66-07",
+        "title": "H\u00e4ndel*, Vienna Academy Chorus*, The Vienna State Opera Orchestra*, Hermann Scherchen - Beloved Choruses From Handel's \"Messiah\"",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/8465425",
+        "community": {
+          "want": 1,
+          "have": 3
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Unknown",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 3335089,
+        "label": [
+          "Westminster"
+        ],
+        "type": "release",
+        "barcode": [],
+        "master_id": 1289239,
+        "master_url": "https://api.discogs.com/masters/1289239",
+        "uri": "/release/3335089-Handel-London-Philharmonic-Choir-London-Symphony-Orchestra-Conducted-By-Hermann-Scherchen-Beloved-Ch",
+        "catno": "XWN18099",
+        "title": "Handel*, London Philharmonic Choir, London Symphony Orchestra Conducted By Hermann Scherchen - Beloved Choruses From Handel's Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/3335089",
+        "community": {
+          "want": 0,
+          "have": 16
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "Germany",
+        "year": "1960",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo",
+          "Box Set",
+          "Stereo"
+        ],
+        "label": [
+          "Heliodor",
+          "Westminster Serie"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio",
+          "Choral"
+        ],
+        "id": 14832348,
+        "barcode": [
+          "429 037 A",
+          "429 037 B",
+          "429 038 A",
+          "429 038 B",
+          "429 039 A",
+          "429 039 B",
+          "429 040 A",
+          "429 040 B"
+        ],
+        "master_id": 551191,
+        "master_url": "https://api.discogs.com/masters/551191",
+        "uri": "/release/14832348-Georg-Friedrich-H%C3%A4ndel-Pierrette-Alarie-Nan-Merriman-L%C3%A9opold-Simoneau-Richard-Standen-Dirigent-Her",
+        "catno": "429037/40",
+        "title": "Georg Friedrich H\u00e4ndel, Pierrette Alarie, Nan Merriman, L\u00e9opold Simoneau*, Richard Standen Dirigent: Hermann Scherchen - Der Messias = The Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/14832348",
+        "community": {
+          "want": 5,
+          "have": 3
+        },
+        "format_quantity": 4,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "4",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1",
+            "descriptions": [
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1959",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Compilation",
+          "Stereo"
+        ],
+        "label": [
+          "Westminster",
+          "Westminster Recording Co., Inc.",
+          "Westminster Stereo Corp."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Choral",
+          "Oratorio"
+        ],
+        "id": 12887839,
+        "barcode": [
+          "K08Y-0598-1",
+          "K08Y-0599-1D",
+          "KO8Y-0598",
+          "KO8Y-0599"
+        ],
+        "master_id": 1690818,
+        "master_url": "https://api.discogs.com/masters/1690818",
+        "uri": "/release/12887839-Handel-Hermann-Scherchen-Conducting-The-Vienna-State-Opera-Orchestra-Vienna-Academy-Chorus-Pierrette",
+        "catno": "WST 14095",
+        "title": "Handel* - Hermann Scherchen Conducting The Vienna State Opera Orchestra*, Vienna Academy Chorus*, Pierrette Alarie, Nan Merriman, Leopold Simoneau, Richard Standen - Highlights From Handel Messiah",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/12887839",
+        "community": {
+          "want": 2,
+          "have": 12
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Compilation",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1954",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Mono"
+        ],
+        "label": [
+          "Westminster",
+          "Westminster Recording Co., Inc.",
+          "Nixa",
+          "Nixa",
+          "Westminster",
+          "Columbia Recording Studios"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque",
+          "Oratorio"
+        ],
+        "id": 4320119,
+        "barcode": [
+          "XTV20367-1AB",
+          "XTV20368-1AA",
+          "XTV20369-1G",
+          "XTV20370-2C",
+          "XTV20371-2AA",
+          "XTV20372-1G",
+          "XTV 20367",
+          "XTV 20368",
+          "XTV 20369",
+          "XTV 20370",
+          "XTV 20371",
+          "XTV 20372"
+        ],
+        "master_id": 694998,
+        "master_url": "https://api.discogs.com/masters/694998",
+        "uri": "/release/4320119-Handel-Hermann-Scherchen-Conducting-The-London-Symphony-Orchestra-London-Philharmonic-Choir-Messiah-",
+        "catno": "WAL 308",
+        "title": "Handel*, Hermann Scherchen Conducting The London Symphony Orchestra, London Philharmonic Choir - Messiah - Original Dublin Version (1742)",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/4320119",
+        "community": {
+          "want": 1,
+          "have": 58
+        },
+        "format_quantity": 3,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1958",
+        "format": [
+          "Vinyl",
+          "7\"",
+          "45 RPM",
+          "EP"
+        ],
+        "label": [
+          "Nixa"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque"
+        ],
+        "id": 3197034,
+        "barcode": [],
+        "master_id": 4075324,
+        "master_url": "https://api.discogs.com/masters/4075324",
+        "uri": "/release/3197034-Handel-London-Philharmonic-Choir-With-London-Symphony-Orchestra-Conducted-By-Hermann-Scherchen-Favou",
+        "catno": "NEC 23001",
+        "title": "Handel*, London Philharmonic Choir With London Symphony Orchestra Conducted By Hermann Scherchen - Favourite Choruses From \"Messiah\" Volume One",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/3197034",
+        "community": {
+          "want": 2,
+          "have": 11
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "7\"",
+              "45 RPM",
+              "EP"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "UK",
+        "year": "1958",
+        "format": [
+          "Vinyl",
+          "7\"",
+          "45 RPM",
+          "EP"
+        ],
+        "label": [
+          "Nixa",
+          "Pye Nixa",
+          "Pye Group Of Companies",
+          "Pye Group Records (Sales) Ltd"
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Classical"
+        ],
+        "id": 7833921,
+        "barcode": [],
+        "master_id": 0,
+        "master_url": null,
+        "uri": "/release/7833921-Handel-London-Philharmonic-Choir-With-London-Symphony-Orchestra-Conducted-By-Hermann-Scherchen-Favou",
+        "catno": "NEC 23002",
+        "title": "Handel*, London Philharmonic Choir With London Symphony Orchestra Conducted By Hermann Scherchen - Favourite Choruses From 'Messiah' Volume Two",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/7833921",
+        "community": {
+          "want": 0,
+          "have": 7
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "7\"",
+              "45 RPM",
+              "EP"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "New Zealand",
+        "year": "1958",
+        "format": [
+          "Vinyl",
+          "7\"",
+          "45 RPM",
+          "EP"
+        ],
+        "label": [
+          "Nixa",
+          "Pye Nixa",
+          "Pye Ltd."
+        ],
+        "type": "release",
+        "genre": [
+          "Classical"
+        ],
+        "style": [
+          "Baroque"
+        ],
+        "id": 35987422,
+        "barcode": [],
+        "master_id": 4075324,
+        "master_url": "https://api.discogs.com/masters/4075324",
+        "uri": "/release/35987422-Handel-London-Philharmonic-Choir-With-London-Symphony-Orchestra-Conducted-By-Hermann-Scherchen-Favou",
+        "catno": "NEC 23001",
+        "title": "Handel*, London Philharmonic Choir With London Symphony Orchestra Conducted By Hermann Scherchen - Favourite Choruses From \"Messiah\" Volume One",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/35987422",
+        "community": {
+          "want": 0,
+          "have": 0
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "7\"",
+              "45 RPM",
+              "EP"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

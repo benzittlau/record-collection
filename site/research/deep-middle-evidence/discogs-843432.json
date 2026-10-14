@@ -1,0 +1,616 @@
+{
+  "id": 843432,
+  "status": "Accepted",
+  "year": 1982,
+  "resource_url": "https://api.discogs.com/releases/843432",
+  "uri": "https://www.discogs.com/release/843432-Men-At-Work-Business-As-Usual",
+  "artists": [
+    {
+      "name": "Men At Work",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 114210,
+      "resource_url": "https://api.discogs.com/artists/114210",
+      "thumbnail_url": "https://i.discogs.com/6ueDFjGlmv9ApZvOaIPRUPziBJcAEX3lCqCCHDl7p_Q/rs:fit/g:sm/q:90/h:445/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNDIx/MC0xNDkxMzg0MTM5/LTczOTgucG5n.jpeg"
+    }
+  ],
+  "artists_sort": "Men At Work",
+  "labels": [
+    {
+      "name": "Epic",
+      "catno": "EPC 85669",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1005,
+      "resource_url": "https://api.discogs.com/labels/1005",
+      "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Richmond Recorders",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 264265,
+      "resource_url": "https://api.discogs.com/labels/264265"
+    },
+    {
+      "name": "CBS Records Australia Limited",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 157083,
+      "resource_url": "https://api.discogs.com/labels/157083"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "Shorewood Packaging Co. Ltd.",
+      "catno": "",
+      "entity_type": "16",
+      "entity_type_name": "Made By",
+      "id": 297132,
+      "resource_url": "https://api.discogs.com/labels/297132",
+      "thumbnail_url": "https://i.discogs.com/tRmY7igpnEOri_Wt1aS3lHSLAIL9EUGvDBDDfNM9BXk/rs:fit/g:sm/q:90/h:78/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NzEz/Mi0xNDM4MTg5Njg0/LTE4MDYuanBlZw.jpeg"
+    },
+    {
+      "name": "CBS Pressing Plant, Aston Clinton",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 553982,
+      "resource_url": "https://api.discogs.com/labels/553982",
+      "thumbnail_url": "https://i.discogs.com/uJGOIG3RRJpQPbCNsf4T3q0LFcTj1g3sGVfShINaHaQ/rs:fit/g:sm/q:90/h:554/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU1Mzk4/Mi0xMzcwNzgzMjUx/LTcxMTYuanBlZw.jpeg"
+    },
+    {
+      "name": "April Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 269113,
+      "resource_url": "https://api.discogs.com/labels/269113",
+      "thumbnail_url": "https://i.discogs.com/Zl5UIGD11ygfrg21yJZbCFfulmk1p_sFrizwwobSzSg/rs:fit/g:sm/q:90/h:158/w:158/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTEx/My0xNTk0MjYwNzI3/LTY1MjcuanBlZw.jpeg"
+    },
+    {
+      "name": "CBS Records Australia Limited",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 157083,
+      "resource_url": "https://api.discogs.com/labels/157083"
+    },
+    {
+      "name": "CBS Records",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 19936,
+      "resource_url": "https://api.discogs.com/labels/19936",
+      "thumbnail_url": "https://i.discogs.com/SaMj-8Lf2hSdztEzV8bVbntzoC8mSP105LGUjsUL91o/rs:fit/g:sm/q:90/h:72/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTM2/LTE3NjY5MjIzNzMt/OTkyNy5qcGVn.jpeg"
+    },
+    {
+      "name": "CBS Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 19936,
+      "resource_url": "https://api.discogs.com/labels/19936",
+      "thumbnail_url": "https://i.discogs.com/SaMj-8Lf2hSdztEzV8bVbntzoC8mSP105LGUjsUL91o/rs:fit/g:sm/q:90/h:72/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTM2/LTE3NjY5MjIzNzMt/OTkyNy5qcGVn.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 4878,
+    "want": 306,
+    "rating": {
+      "count": 345,
+      "average": 3.86
+    },
+    "submitter": {
+      "username": "eclectic_collector",
+      "resource_url": "https://api.discogs.com/users/eclectic_collector"
+    },
+    "contributors": [
+      {
+        "username": "eclectic_collector",
+        "resource_url": "https://api.discogs.com/users/eclectic_collector"
+      },
+      {
+        "username": "jape",
+        "resource_url": "https://api.discogs.com/users/jape"
+      },
+      {
+        "username": "Love42",
+        "resource_url": "https://api.discogs.com/users/Love42"
+      },
+      {
+        "username": "ForkMe",
+        "resource_url": "https://api.discogs.com/users/ForkMe"
+      },
+      {
+        "username": "CallsignMedia",
+        "resource_url": "https://api.discogs.com/users/CallsignMedia"
+      },
+      {
+        "username": "Dimple",
+        "resource_url": "https://api.discogs.com/users/Dimple"
+      },
+      {
+        "username": "Mister.Marken",
+        "resource_url": "https://api.discogs.com/users/Mister.Marken"
+      },
+      {
+        "username": "Electro-Magnetic",
+        "resource_url": "https://api.discogs.com/users/Electro-Magnetic"
+      },
+      {
+        "username": "DIFFO",
+        "resource_url": "https://api.discogs.com/users/DIFFO"
+      },
+      {
+        "username": "kai81",
+        "resource_url": "https://api.discogs.com/users/kai81"
+      },
+      {
+        "username": "Oedipus_Recs",
+        "resource_url": "https://api.discogs.com/users/Oedipus_Recs"
+      },
+      {
+        "username": "1skinnylad",
+        "resource_url": "https://api.discogs.com/users/1skinnylad"
+      },
+      {
+        "username": "deangersmith",
+        "resource_url": "https://api.discogs.com/users/deangersmith"
+      },
+      {
+        "username": "andygrayrecords",
+        "resource_url": "https://api.discogs.com/users/andygrayrecords"
+      },
+      {
+        "username": "double-happiness",
+        "resource_url": "https://api.discogs.com/users/double-happiness"
+      },
+      {
+        "username": "bargainvinyl1",
+        "resource_url": "https://api.discogs.com/users/bargainvinyl1"
+      },
+      {
+        "username": "Popmaster-pl",
+        "resource_url": "https://api.discogs.com/users/Popmaster-pl"
+      },
+      {
+        "username": "chillyboy64",
+        "resource_url": "https://api.discogs.com/users/chillyboy64"
+      },
+      {
+        "username": "TROWERHEAD1",
+        "resource_url": "https://api.discogs.com/users/TROWERHEAD1"
+      },
+      {
+        "username": "Andy_Nic",
+        "resource_url": "https://api.discogs.com/users/Andy_Nic"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2007-01-25T13:58:04-08:00",
+  "date_changed": "2025-01-05T09:35:00-08:00",
+  "num_for_sale": 96,
+  "lowest_price": 1.32,
+  "master_id": 82009,
+  "master_url": "https://api.discogs.com/masters/82009",
+  "title": "Business As Usual",
+  "country": "UK",
+  "released": "1982",
+  "notes": "Rear Sleeve: \u00a9 1982 CBS Inc.\nLabels: \u2117 1981 CBS Records Australia Ltd.\nMade in England.\nOriginal sound recording made by CBS Records Australia Ltd.\nCBS Records are the exclusive licensees for the UK.\n\nShorepak by Shorewood Packaging Co. Ltd., England.\n\nAll matrix runouts are etched except stampers and mothers which are stamped.",
+  "released_formatted": "1982",
+  "identifiers": [
+    {
+      "type": "Label Code",
+      "value": "LC 0199"
+    },
+    {
+      "type": "Rights Society",
+      "value": "MCPS/BIEM"
+    },
+    {
+      "type": "Price Code",
+      "value": "CB 271"
+    },
+    {
+      "type": "Other",
+      "value": "57"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "EPC 85669 A*",
+      "description": "A-side label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "EPC 85669 B*",
+      "description": "B-side label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "EPC 85669 A1 E",
+      "description": "A-side runout variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "EPC 85669 B1 A",
+      "description": "B-side runout variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "EPC 85669 A1 14 A",
+      "description": "A-side runout variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "EPC 85669 B1 10 A",
+      "description": "B-side runout variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "EPC.85669 A1 17 E",
+      "description": "A-side runout variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "EPC.85669 B1 20 C",
+      "description": "B-side runout variant 3"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=SECVGN4Bsgg",
+      "title": "Men At Work - Who Can It Be Now? (Video Version)",
+      "description": "Men At Work's official music video for 'Who Can It Be Now'. Click to listen to Men At Work on Spotify: http://smarturl.it/MenAtWorkSpotify?I...\n\nAs featured on Contraband: The Best of Men At Work. Click to buy the track or album via iTunes: http://smartur",
+      "duration": 208,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=E0iIBHYjYqA",
+      "title": "I Can See It in Your Eyes",
+      "description": "Provided to YouTube by Columbia\n\nI Can See It in Your Eyes \u00b7 Men At Work\n\nBusiness As Usual\n\n\u2117 1981 Sony Music Entertainment Inc.\n\nReleased on: 1981-11-09\n\nGuitar, Vocal, Composer, Lyricist: Colin Hay\nProducer: Peter McIan\nGuitar, Vocal: Ron Strykert\nDrum",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XfR9iY5y94s",
+      "title": "Men At Work - Down Under (Official HD Video)",
+      "description": "Official HD Video for \"Down Under\" by Men at Work\n\nListen to Men at Work: https://MenAtWork.lnk.to/listenYD\n\nSubscribe to the official Men at Work YouTube channel: https://MenAtWork.lnk.to/subscribeYD\n\nFollow Men at Work:\nFacebook: https://MenAtWork.lnk.t",
+      "duration": 221,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RpqZeLetIgU",
+      "title": "Underground",
+      "description": "Provided to YouTube by Columbia\n\nUnderground \u00b7 Men At Work\n\nBusiness As Usual\n\n\u2117 1996 Sony Music Productions Pty.\n\nReleased on: 1981-11-09\n\nComposer, Lyricist: Colin Hay\nProducer: Peter McIan\n\nAuto-generated by YouTube.",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=aarvno68oKM",
+      "title": "Helpless Automaton",
+      "description": "Provided to YouTube by Columbia\n\nHelpless Automaton \u00b7 Men At Work\n\nBusiness As Usual\n\n\u2117 1981 Sony Music Entertainment Inc.\n\nReleased on: 1981-11-09\n\nComposer, Lyricist: G. Ham\nGuitar, Vocal: Colin Hay\nProducer: Peter McIan\nGuitar, Vocal: Ron Strykert\nDrum",
+      "duration": 202,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Yz8TTZjxkoM",
+      "title": "People Just Love to Play with Words",
+      "description": "Provided to YouTube by Columbia\n\nPeople Just Love to Play with Words \u00b7 Men At Work\n\nBusiness As Usual\n\n\u2117 1981 Sony Music Entertainment Inc.\n\nReleased on: 1981-11-09\n\nGuitar, Vocal: Colin Hay\nGuitar, Vocal, Composer, Lyricist: Ron Strykert\nProducer: Peter ",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=74dvJVwGA6Y",
+      "title": "Men At Work - Be Good Johnny (Official Music Video)",
+      "description": "Watch the official music video for \"Be Good Johnny\" by Men at Work\nListen to Men at Work: https://MenAtWork.lnk.to/listenYD\n\nSubscribe to the official Men at Work YouTube channel: https://MenAtWork.lnk.to/subscribeYD\n\nFollow Men at Work:\nFacebook: https:/",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Ao7voZ0c9jA",
+      "title": "Touching the Untouchables",
+      "description": "Provided to YouTube by Columbia\n\nTouching the Untouchables \u00b7 Men At Work\n\nBusiness As Usual\n\n\u2117 1981 Columbia Records, a division of Sony Music Entertainment\n\nReleased on: 1981-11-09\n\nGuitar, Vocal, Composer, Lyricist: Colin Hay\nProducer: Peter McIan\nGuita",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Nrd5MWc6M5Y",
+      "title": "Catch a Star",
+      "description": "Provided to YouTube by Columbia\n\nCatch a Star \u00b7 Men At Work\n\nBusiness As Usual\n\n\u2117 1981 SONY BMG MUSIC ENTERTAINMENT (AUSTRALIA) PTY. LTD.\n\nReleased on: 1981-11-09\n\nGuitar, Vocal, Composer, Lyricist: Colin Hay\nProducer: Peter McIan\nGuitar, Vocal: Ron Stryk",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VV0E1H-uLrY",
+      "title": "Down By the Sea",
+      "description": "Provided to YouTube by Columbia\n\nDown By the Sea \u00b7 Men At Work\n\nBusiness As Usual\n\n\u2117 1981 Sony Music Entertainment Inc.\n\nReleased on: 1981-11-09\n\nGuitar, Vocal, Composer, Lyricist: Colin Hay\nProducer: Peter McIan\nGuitar, Vocal, Composer, Lyricist: Ron Str",
+      "duration": 414,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "New Wave",
+    "Pop Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Who Can It Be Now?",
+      "duration": "3:20"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "I Can See It In Your Eyes",
+      "duration": "3:26"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Down Under",
+      "duration": "3:39"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Underground",
+      "duration": "3:04"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Helpless Automaton",
+      "duration": "3:18"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "People Just Love To Play With Words",
+      "duration": "3:33"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Be Good Johnny",
+      "duration": "3:33"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Touching The Untouchables",
+      "duration": "3:47"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Catch A Star",
+      "duration": "3:28"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Down By The Sea",
+      "extraartists": [
+        {
+          "name": "Jerry Speiser",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 588786,
+          "resource_url": "https://api.discogs.com/artists/588786"
+        }
+      ],
+      "duration": "6:48"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "John Rees (2)",
+      "anv": "",
+      "join": "",
+      "role": "Bass, Vocals",
+      "tracks": "",
+      "id": 870983,
+      "resource_url": "https://api.discogs.com/artists/870983"
+    },
+    {
+      "name": "Jerry Speiser",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Vocals",
+      "tracks": "",
+      "id": 588786,
+      "resource_url": "https://api.discogs.com/artists/588786"
+    },
+    {
+      "name": "Jim Barbour",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 442997,
+      "resource_url": "https://api.discogs.com/artists/442997"
+    },
+    {
+      "name": "Peter McIan",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 353555,
+      "resource_url": "https://api.discogs.com/artists/353555"
+    },
+    {
+      "name": "Paul Ray (3)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Additional]",
+      "tracks": "",
+      "id": 824718,
+      "resource_url": "https://api.discogs.com/artists/824718"
+    },
+    {
+      "name": "John Dickson (3)",
+      "anv": "",
+      "join": "",
+      "role": "Illustration [Front Cover]",
+      "tracks": "",
+      "id": 2162547,
+      "resource_url": "https://api.discogs.com/artists/2162547"
+    },
+    {
+      "name": "Russell Deppeler",
+      "anv": "",
+      "join": "",
+      "role": "Management [Telephone, Calculator]",
+      "tracks": "",
+      "id": 861923,
+      "resource_url": "https://api.discogs.com/artists/861923"
+    },
+    {
+      "name": "Peter McIan",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 353555,
+      "resource_url": "https://api.discogs.com/artists/353555"
+    },
+    {
+      "name": "Greg Ham",
+      "anv": "",
+      "join": "",
+      "role": "Saxophone, Flute, Vocals, Keyboards, Other [Fiddly Things]",
+      "tracks": "",
+      "id": 285082,
+      "resource_url": "https://api.discogs.com/artists/285082"
+    },
+    {
+      "name": "Colin Hay",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Guitar",
+      "tracks": "",
+      "id": 285083,
+      "resource_url": "https://api.discogs.com/artists/285083"
+    },
+    {
+      "name": "Ron Strykert",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Guitar",
+      "tracks": "",
+      "id": 588785,
+      "resource_url": "https://api.discogs.com/artists/588785"
+    },
+    {
+      "name": "Colin Hay",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1 to A4, B2 to B5",
+      "id": 285083,
+      "resource_url": "https://api.discogs.com/artists/285083"
+    },
+    {
+      "name": "Greg Ham",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A5, B2, B3, B5",
+      "id": 285082,
+      "resource_url": "https://api.discogs.com/artists/285082"
+    },
+    {
+      "name": "Ron Strykert",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A3, B1, B5",
+      "id": 588785,
+      "resource_url": "https://api.discogs.com/artists/588785"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Dp237AborP2o74AIpSYRMmtRagc40PNh7hSV8zfEePM/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDk1MTc4NTM3/LTkwODEuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/Dp237AborP2o74AIpSYRMmtRagc40PNh7hSV8zfEePM/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDk1MTc4NTM3/LTkwODEuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/8s7FujtGjlITxm-QMyt3YsfXsqVyIqlPuzP2Uq22YKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDk1MTc4NTM3/LTkwODEuanBlZw.jpeg",
+      "width": 578,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_sev06Xu9y9fcb2zMOS56FzNucoMchRPqc8NjTB_lQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xMjc1NjMyNDU4/LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/_sev06Xu9y9fcb2zMOS56FzNucoMchRPqc8NjTB_lQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xMjc1NjMyNDU4/LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/wBOe6YrYCYoFFeupoZ67TKi4tatzzZ7J3BOik5tpONU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xMjc1NjMyNDU4/LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ojBlocIgctIHhLf-Dq6VDEKi53LH8lpXsFdApQKSFRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDE0Nzc4NTM2/LTQ0MzAuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/ojBlocIgctIHhLf-Dq6VDEKi53LH8lpXsFdApQKSFRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDE0Nzc4NTM2/LTQ0MzAuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/cr9oBhB_iKyu_LUX3EooQyR9B78OtnP9rSP-AoalAt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDE0Nzc4NTM2/LTQ0MzAuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gELvbJdT1jsqs2Uv7Z6ryo4YAIg936odnrfZ5LU5FVY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDE0Nzc4NTM2/LTkyODUuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/gELvbJdT1jsqs2Uv7Z6ryo4YAIg936odnrfZ5LU5FVY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDE0Nzc4NTM2/LTkyODUuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/qpPUSP8Pc9p_cGqEKZ9drf0ABJ2EPvm2ktYr9kjrFuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDE0Nzc4NTM2/LTkyODUuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/S9u01UjwZHykQJM8Ul45j9USptAybBPZ33Vd5RVa4tk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNTMwODkzNzMw/LTY5NjkuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/S9u01UjwZHykQJM8Ul45j9USptAybBPZ33Vd5RVa4tk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNTMwODkzNzMw/LTY5NjkuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/5v6JHXfofxIVM3GgExesVUIykxXgtl5l-__0Xwvu3dU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNTMwODkzNzMw/LTY5NjkuanBlZw.jpeg",
+      "width": 597,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/8s7FujtGjlITxm-QMyt3YsfXsqVyIqlPuzP2Uq22YKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDk1MTc4NTM3/LTkwODEuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

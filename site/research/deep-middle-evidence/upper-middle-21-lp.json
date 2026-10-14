@@ -1,0 +1,141 @@
+{
+  "id": "upper-middle-21",
+  "identity": "Sleeper Catcher",
+  "searches": [
+    {
+      "query": "release:\"Sleeper Catcher\" AND artist:\"Little River Band\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Sleeper%20Catcher%22%20AND%20artist%3A%22Little%20River%20Band%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "a81974d7-05f9-4769-97be-39241ca745ea",
+      "url": "https://musicbrainz.org/release/a81974d7-05f9-4769-97be-39241ca745ea",
+      "title": "Sleeper Catcher",
+      "artistCredit": [
+        {
+          "name": "Little River Band",
+          "artist": {
+            "id": "0b5df3f3-7f4c-4ffb-9279-dbab6cd9bea5",
+            "name": "Little River Band",
+            "sort-name": "Little River Band"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1978",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SW-11783",
+          "label": {
+            "id": "993af7f6-bb99-456b-83e7-5e728ea80a0e",
+            "name": "Harvest"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 33011384,
+          "image": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368592148.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "10368592148",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368592148-500.jpg",
+            "small": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368592148-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "back": true,
+          "edit": 33011393,
+          "image": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368594147.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "10368594147",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368594147-500.jpg",
+            "small": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368594147-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Liner"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 33011404,
+          "image": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368595204.jpg",
+          "comment": "LP Sleeve",
+          "approved": true,
+          "id": "10368595204",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368595204-500.jpg",
+            "small": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368595204-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Liner"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 33011406,
+          "image": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368596343.jpg",
+          "comment": "LP Sleeve",
+          "approved": true,
+          "id": "10368596343",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368596343-500.jpg",
+            "small": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368596343-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 33011409,
+          "image": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368597467.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "10368597467",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368597467-500.jpg",
+            "small": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368597467-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 33011412,
+          "image": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368598298.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "10368598298",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368598298-500.jpg",
+            "small": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368598298-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

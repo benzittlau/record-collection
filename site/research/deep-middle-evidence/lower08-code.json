@@ -1,0 +1,91 @@
+{
+  "created": "2026-10-14T03:22:33.198Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "7b65b311-4ff9-43b3-8f09-1c9b4a09eae0",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "ec212e88-d500-3b50-9513-7f3c9ef546db",
+      "count": 1,
+      "title": "Images for Orchestra / Pr\u00e9lude \u00e0 l\u2019apr\u00e8s-midi d\u2019un faune",
+      "status": "Official",
+      "text-representation": {
+        "language": "fra",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Debussy",
+          "artist": {
+            "id": "be50643c-0377-4968-b48c-47e06b2e2a3b",
+            "name": "Claude Debussy",
+            "sort-name": "Debussy, Claude",
+            "disambiguation": "French composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "London Symphony Orchestra",
+          "artist": {
+            "id": "38712b4c-0fd4-4c65-8c7a-45676fecc973",
+            "name": "London Symphony Orchestra",
+            "sort-name": "London Symphony Orchestra"
+          }
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "artist": {
+            "id": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+            "name": "Andr\u00e9 Previn",
+            "sort-name": "Previn, Andr\u00e9",
+            "disambiguation": "pianist, conductor, composer, arranger"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "e0709bc5-e651-3566-ae2c-f25982818444",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Images pour orchestre / Pr\u00e9lude \u00e0 l\u2019apr\u00e8s-midi d\u2019un faune",
+        "primary-type": "Album"
+      },
+      "date": "1979",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1979",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "DS-37674",
+          "label": {
+            "id": "d65671f6-53c0-4bbb-9415-ae07c8963254",
+            "name": "Angel Records"
+          }
+        }
+      ],
+      "track-count": 6,
+      "media": [
+        {
+          "id": "17e793cc-746f-3eb7-8ca8-55af06afddf1",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 6
+        }
+      ]
+    }
+  ]
+}

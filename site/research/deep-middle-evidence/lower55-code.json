@@ -1,0 +1,81 @@
+{
+  "created": "2026-10-14T03:22:45.397Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "787b4564-8e27-47bd-8ab8-34fb1ab8fe06",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "e32e70d7-2bca-3b1e-808c-49d930e0c2aa",
+      "count": 1,
+      "title": "Merry Christmas",
+      "status": "Official",
+      "disambiguation": "Gloversville pressing",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Bing Crosby",
+          "artist": {
+            "id": "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+            "name": "Bing Crosby",
+            "sort-name": "Crosby, Bing"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "a82c4b78-9e9a-390c-af1f-3c8a8a44c555",
+        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Merry Christmas",
+        "disambiguation": "later known as \u201cWhite Christmas\u201d",
+        "primary-type": "Album",
+        "secondary-types": [
+          "Compilation"
+        ],
+        "secondary-type-ids": [
+          "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+        ]
+      },
+      "date": "",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "MCA-15024",
+          "label": {
+            "id": "46a3941a-c810-47a1-974f-955effec4d09",
+            "name": "MCA Records"
+          }
+        }
+      ],
+      "track-count": 12,
+      "media": [
+        {
+          "id": "581c4e52-17ca-39b6-95f7-6794b62c31ab",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 12
+        }
+      ]
+    }
+  ]
+}

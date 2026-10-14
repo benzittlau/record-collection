@@ -1,0 +1,83 @@
+{
+  "created": "2026-10-14T03:15:33.894Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "4cbf7459-9104-4620-b022-c06a9acc1b78",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "82e7328d-ff9e-371e-9377-3b7f6e92a90f",
+      "count": 1,
+      "title": "The Corner Grocery Store",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": " with ",
+          "name": "Raffi",
+          "artist": {
+            "id": "d5d5ba92-4bd4-4975-9806-99339eed3046",
+            "name": "Raffi",
+            "sort-name": "Raffi",
+            "disambiguation": "Canadian singer/songwriter/author"
+          }
+        },
+        {
+          "name": "Ken Whiteley",
+          "artist": {
+            "id": "3f849db3-791a-475e-97b7-6ae7c005e1fa",
+            "name": "Ken Whiteley",
+            "sort-name": "Whiteley, Ken"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "ac45fabd-9c2f-3d09-8d7a-db63313a092c",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "The Corner Grocery Store",
+        "primary-type": "Album"
+      },
+      "date": "1979",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "1979",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "TR-007",
+          "label": {
+            "id": "f68ae225-cd8b-431a-b9af-7b66ddd07875",
+            "name": "Troubadour"
+          }
+        }
+      ],
+      "track-count": 18,
+      "media": [
+        {
+          "id": "969d310d-1ae3-36f0-b251-2f5092f7e97f",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 18
+        }
+      ]
+    }
+  ]
+}

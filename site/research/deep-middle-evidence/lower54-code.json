@@ -1,0 +1,87 @@
+{
+  "created": "2026-10-14T03:12:01.327Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "97d52546-7873-4cd1-a53c-ad554c3c039b",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "artist-credit-id": "cab2cda0-9801-31dd-a23f-80e92660429e",
+      "count": 1,
+      "title": "The World\u2019s Jazz Crazy, Lawdy So Am I / Farewell to Storyville",
+      "status": "Official",
+      "packaging": "None",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Kid Ory and his Creole Jazz Band",
+          "artist": {
+            "id": "72222d63-c85a-458f-bb90-f60df5cf3af1",
+            "name": "Kid Ory\u02bcs Creole Jazz Band",
+            "sort-name": "Ory, Kid, Creole Jazz Band"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "104acaf5-144d-4fd5-b2d9-2c72488e846a",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "The World\u2019s Jazz Crazy, Lawdy So Am I / Farewell to Storyville",
+        "primary-type": "Single"
+      },
+      "date": "1946-10-16",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1946-10-16",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "37277",
+          "label": {
+            "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+            "name": "Columbia"
+          }
+        },
+        {
+          "catalog-number": "C 126-7",
+          "label": {
+            "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+            "name": "Columbia"
+          }
+        },
+        {
+          "catalog-number": "C 126-8",
+          "label": {
+            "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+            "name": "Columbia"
+          }
+        }
+      ],
+      "track-count": 2,
+      "media": [
+        {
+          "id": "505ceb6c-f301-3a0b-9041-623a7ac6c98d",
+          "format": "10\" Shellac",
+          "disc-count": 0,
+          "track-count": 2
+        }
+      ]
+    }
+  ]
+}

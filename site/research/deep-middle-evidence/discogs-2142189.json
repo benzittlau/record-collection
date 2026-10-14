@@ -1,0 +1,811 @@
+{
+  "id": 2142189,
+  "status": "Accepted",
+  "year": 1979,
+  "resource_url": "https://api.discogs.com/releases/2142189",
+  "uri": "https://www.discogs.com/release/2142189-New-Riders-Of-The-Purple-Sage-The-Adventures-Of-Panama-Red",
+  "artists": [
+    {
+      "name": "New Riders Of The Purple Sage",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 476171,
+      "resource_url": "https://api.discogs.com/artists/476171",
+      "thumbnail_url": "https://i.discogs.com/vBZkqoNQxHBScQYKenjtIrJwTW_bvOB5xd5jUh7DFH0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3NjE3/MS0xNjkwNzMyMDEy/LTk3MTEuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "New Riders Of The Purple Sage",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "PC 32450",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "Record Plant, Sausalito",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 304325,
+      "resource_url": "https://api.discogs.com/labels/304325",
+      "thumbnail_url": "https://i.discogs.com/QXh8YXz_LxZ_xChVOrqoiQvqWpUHiLCbgfFeiRdZf6o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNDMy/NS0xMzU4MDQxNzM2/LTcyOTguanBlZw.jpeg"
+    },
+    {
+      "name": "Quadrafonic Sound Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 270979,
+      "resource_url": "https://api.discogs.com/labels/270979",
+      "thumbnail_url": "https://i.discogs.com/oQY98ceaNPq3MWSuI6syTw4SZ36IEHCgNg_iLyT4WpQ/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MDk3/OS0xNzMxNzExMjQ5/LTU2NDEuanBlZw.jpeg"
+    },
+    {
+      "name": "Customatrix",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 586613,
+      "resource_url": "https://api.discogs.com/labels/586613",
+      "thumbnail_url": "https://i.discogs.com/LiE-B7ojg3c5y6MjWhT1mxNVst27bYOmGZyVCBx8Ljo/rs:fit/g:sm/q:90/h:203/w:176/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4NjYx/My0xNzYwNTM1MzEw/LTk2NTAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "Album",
+        "LP",
+        "Reissue"
+      ],
+      "text": "Gatefold"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1938,
+    "want": 52,
+    "rating": {
+      "count": 112,
+      "average": 3.93
+    },
+    "submitter": {
+      "username": "afrankski",
+      "resource_url": "https://api.discogs.com/users/afrankski"
+    },
+    "contributors": [
+      {
+        "username": "afrankski",
+        "resource_url": "https://api.discogs.com/users/afrankski"
+      },
+      {
+        "username": "markrichards",
+        "resource_url": "https://api.discogs.com/users/markrichards"
+      },
+      {
+        "username": "jamesneal241",
+        "resource_url": "https://api.discogs.com/users/jamesneal241"
+      },
+      {
+        "username": "sconjin",
+        "resource_url": "https://api.discogs.com/users/sconjin"
+      },
+      {
+        "username": "swbostoncd",
+        "resource_url": "https://api.discogs.com/users/swbostoncd"
+      },
+      {
+        "username": "electric_violin",
+        "resource_url": "https://api.discogs.com/users/electric_violin"
+      },
+      {
+        "username": "mistergoodkat",
+        "resource_url": "https://api.discogs.com/users/mistergoodkat"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2010-02-15T15:57:58-08:00",
+  "date_changed": "2021-08-03T14:04:59-07:00",
+  "num_for_sale": 61,
+  "lowest_price": 1.99,
+  "master_id": 150839,
+  "master_url": "https://api.discogs.com/masters/150839",
+  "title": "The Adventures Of Panama Red",
+  "country": "US",
+  "released": "1979",
+  "notes": "Original released 1973\n\nRecorded at the Record Plant, Sausalito\nMixed at Quadrafonic Studios, Nashville\n\n\u00a9 \u2117 1973 CBS, Incl",
+  "released_formatted": "1979",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "I PAL 32450-1B \u00ba",
+      "description": "Side 1 etched \u00ba stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "\u00ba I PBL 32450-1C ",
+      "description": "Side 2 etched \u00ba stamped"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "\u00ba PAL 32450-1G I",
+      "description": "Side 1 variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "\u00ba PBL 32450-1G I",
+      "description": "Side 2 variant 1"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=O9G0emfp87E",
+      "title": "Panama Red",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nPanama Red \u00b7 New Riders Of The Purple Sage\n\nThe Adventures Of Panama Red\n\n\u2117 1973 Columbia Records, a division of Sony Music Entertainment\n\nProducer: Norbert Putnam\nComposer, Lyricist: P. Rowan\nGuitar, Vo",
+      "duration": 167,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eKgB-3aANe0",
+      "title": "New Riders of the Purple Sage - Panama Red",
+      "description": "Off the 1973 album The Adventures of Panama Red.\n\nPanama Red, Panama Red\nHe'll steal your woman, then he'll rob your head \nPanama Red, Panama Red \nOn his white horse, Mescalito \nHe comes breezin' through town \nI'll bet your woman's up in bed with \nol' Pan",
+      "duration": 165,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tVrkBB6kj_0",
+      "title": "New Riders Of The Purple Sage - Lonesme LA Cowboy",
+      "description": "A great track from the Album: The Adventures Of Panama Red\r\n\r\nJohn Dawson -- guitar, vocals \r\nDavid Nelson -- guitar, vocals \r\nDave Torbert -- bass, guitar, vocals \r\nBuddy Cage -- pedal steel guitar \r\nSpencer Dryden -- drums, percussion",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qLykM7jv7Zw",
+      "title": "Cement, Clay and Glass",
+      "description": "New Riders of the Purple Sage- Cement, Clay and Glass.\r\n\r\nFrom The Adventures of Panama Red, 1973.",
+      "duration": 155,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Folk Rock",
+    "Country Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Panama Red",
+      "extraartists": [
+        {
+          "name": "Peter Rowan",
+          "anv": "P. Rowan",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 499276,
+          "resource_url": "https://api.discogs.com/artists/499276"
+        }
+      ],
+      "duration": "2:48"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "It's Alright With Me",
+      "extraartists": [
+        {
+          "name": "Dave Torbert",
+          "anv": "D. Torbert",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 274437,
+          "resource_url": "https://api.discogs.com/artists/274437"
+        }
+      ],
+      "duration": "2:41"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Lonesome L.A. Cowboy",
+      "extraartists": [
+        {
+          "name": "Peter Rowan",
+          "anv": "P. Rowan",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 499276,
+          "resource_url": "https://api.discogs.com/artists/499276"
+        }
+      ],
+      "duration": "4:08"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Important Exportin Man",
+      "extraartists": [
+        {
+          "name": "Dave Torbert",
+          "anv": "D. Torbert",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 274437,
+          "resource_url": "https://api.discogs.com/artists/274437"
+        },
+        {
+          "name": "Tom Hovey",
+          "anv": "T. Hovey",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1324014,
+          "resource_url": "https://api.discogs.com/artists/1324014"
+        }
+      ],
+      "duration": "2:24"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "One Too Many Stories",
+      "extraartists": [
+        {
+          "name": "John Dawson",
+          "anv": "J. Dawson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 476177,
+          "resource_url": "https://api.discogs.com/artists/476177"
+        }
+      ],
+      "duration": "2:54"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Kick In The Head",
+      "extraartists": [
+        {
+          "name": "Robert Hunter",
+          "anv": "R. Hunter",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 337575,
+          "resource_url": "https://api.discogs.com/artists/337575"
+        }
+      ],
+      "duration": "2:28"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "You Should Have Seen Me Running",
+      "extraartists": [
+        {
+          "name": "John Dawson",
+          "anv": "J. Dawson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 476177,
+          "resource_url": "https://api.discogs.com/artists/476177"
+        }
+      ],
+      "duration": "2:58"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Teardrops In My Eyes",
+      "extraartists": [
+        {
+          "name": "Red Allen (2)",
+          "anv": "R. Allen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 953871,
+          "resource_url": "https://api.discogs.com/artists/953871"
+        },
+        {
+          "name": "Tommy Sutton",
+          "anv": "T. Sutton",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1145012,
+          "resource_url": "https://api.discogs.com/artists/1145012"
+        }
+      ],
+      "duration": "2:12"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "L.A. Lady",
+      "extraartists": [
+        {
+          "name": "Don Goodman",
+          "anv": "D. Goodman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 238915,
+          "resource_url": "https://api.discogs.com/artists/238915"
+        },
+        {
+          "name": "Troy Seals",
+          "anv": "T. Seals",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 393995,
+          "resource_url": "https://api.discogs.com/artists/393995"
+        },
+        {
+          "name": "Will Jennings",
+          "anv": "W. Jennings",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 60452,
+          "resource_url": "https://api.discogs.com/artists/60452"
+        }
+      ],
+      "duration": "2:10"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Thank The Day",
+      "extraartists": [
+        {
+          "name": "Dave Torbert",
+          "anv": "D. Torbert",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 274437,
+          "resource_url": "https://api.discogs.com/artists/274437"
+        }
+      ],
+      "duration": "2:22"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Cement, Clay And Glass",
+      "extraartists": [
+        {
+          "name": "David Nelson",
+          "anv": "D. Nelson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 272416,
+          "resource_url": "https://api.discogs.com/artists/272416"
+        },
+        {
+          "name": "Spencer Dryden",
+          "anv": "S. Dryden",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 399027,
+          "resource_url": "https://api.discogs.com/artists/399027"
+        }
+      ],
+      "duration": "2:33"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Norbert Putnam",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Horns]",
+      "tracks": "",
+      "id": 362726,
+      "resource_url": "https://api.discogs.com/artists/362726"
+    },
+    {
+      "name": "The Memphis Horns",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Horns]",
+      "tracks": "",
+      "id": 156316,
+      "resource_url": "https://api.discogs.com/artists/156316"
+    },
+    {
+      "name": "Chris Harms (2)",
+      "anv": "Chris",
+      "join": "",
+      "role": "Artwork [Cover]",
+      "tracks": "",
+      "id": 2869593,
+      "resource_url": "https://api.discogs.com/artists/2869593"
+    },
+    {
+      "name": "Lore Coyote Orion",
+      "anv": "Lore",
+      "join": "",
+      "role": "Artwork [Cover]",
+      "tracks": "",
+      "id": 4786552,
+      "resource_url": "https://api.discogs.com/artists/4786552"
+    },
+    {
+      "name": "Dave Torbert",
+      "anv": "D. Torbert",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 274437,
+      "resource_url": "https://api.discogs.com/artists/274437"
+    },
+    {
+      "name": "Norbert Putnam",
+      "anv": "N. Putnam",
+      "join": "",
+      "role": "Bass",
+      "tracks": "B5",
+      "id": 362726,
+      "resource_url": "https://api.discogs.com/artists/362726"
+    },
+    {
+      "name": "Dale Franklin",
+      "anv": "",
+      "join": "",
+      "role": "Crew",
+      "tracks": "",
+      "id": 2030195,
+      "resource_url": "https://api.discogs.com/artists/2030195"
+    },
+    {
+      "name": "Gary Harover",
+      "anv": "",
+      "join": "",
+      "role": "Crew",
+      "tracks": "",
+      "id": 5813575,
+      "resource_url": "https://api.discogs.com/artists/5813575"
+    },
+    {
+      "name": "John P. Hagen",
+      "anv": "",
+      "join": "",
+      "role": "Crew",
+      "tracks": "",
+      "id": 2223494,
+      "resource_url": "https://api.discogs.com/artists/2223494"
+    },
+    {
+      "name": "Nadine Kaplan",
+      "anv": "",
+      "join": "",
+      "role": "Crew",
+      "tracks": "",
+      "id": 5813576,
+      "resource_url": "https://api.discogs.com/artists/5813576"
+    },
+    {
+      "name": "Robbie Cook (3)",
+      "anv": "",
+      "join": "",
+      "role": "Crew",
+      "tracks": "",
+      "id": 5813577,
+      "resource_url": "https://api.discogs.com/artists/5813577"
+    },
+    {
+      "name": "Lore Coyote Orion",
+      "anv": "Lore",
+      "join": "",
+      "role": "Design Concept [Album Concept]",
+      "tracks": "",
+      "id": 4786552,
+      "resource_url": "https://api.discogs.com/artists/4786552"
+    },
+    {
+      "name": "Spencer Dryden",
+      "anv": "Spencer",
+      "join": "",
+      "role": "Design Concept [Album Concept]",
+      "tracks": "",
+      "id": 399027,
+      "resource_url": "https://api.discogs.com/artists/399027"
+    },
+    {
+      "name": "Toots And Toots",
+      "anv": "",
+      "join": "",
+      "role": "Design [Cover]",
+      "tracks": "",
+      "id": 2671091,
+      "resource_url": "https://api.discogs.com/artists/2671091"
+    },
+    {
+      "name": "Spencer Dryden",
+      "anv": "S. Dryden",
+      "join": "",
+      "role": "Drums, Percussion",
+      "tracks": "",
+      "id": 399027,
+      "resource_url": "https://api.discogs.com/artists/399027"
+    },
+    {
+      "name": "Bobby Hughes (2)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Associate]",
+      "tracks": "",
+      "id": 807950,
+      "resource_url": "https://api.discogs.com/artists/807950"
+    },
+    {
+      "name": "John Stronach",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Associate]",
+      "tracks": "",
+      "id": 373222,
+      "resource_url": "https://api.discogs.com/artists/373222"
+    },
+    {
+      "name": "Tom Flye",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Recording]",
+      "tracks": "",
+      "id": 269839,
+      "resource_url": "https://api.discogs.com/artists/269839"
+    },
+    {
+      "name": "Norbert Putnam",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Remix]",
+      "tracks": "",
+      "id": 362726,
+      "resource_url": "https://api.discogs.com/artists/362726"
+    },
+    {
+      "name": "Bob Edwards",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Second]",
+      "tracks": "",
+      "id": 287648,
+      "resource_url": "https://api.discogs.com/artists/287648"
+    },
+    {
+      "name": "Phil Brown",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Second]",
+      "tracks": "",
+      "id": 395063,
+      "resource_url": "https://api.discogs.com/artists/395063"
+    },
+    {
+      "name": "Tom Anderson (3)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Second]",
+      "tracks": "",
+      "id": 492033,
+      "resource_url": "https://api.discogs.com/artists/492033"
+    },
+    {
+      "name": "Dave Torbert",
+      "anv": "D. Torbert",
+      "join": "",
+      "role": "Guitar, Vocals",
+      "tracks": "",
+      "id": 274437,
+      "resource_url": "https://api.discogs.com/artists/274437"
+    },
+    {
+      "name": "David Nelson",
+      "anv": "D. Nelson",
+      "join": "",
+      "role": "Guitar, Vocals",
+      "tracks": "",
+      "id": 272416,
+      "resource_url": "https://api.discogs.com/artists/272416"
+    },
+    {
+      "name": "John Dawson",
+      "anv": "J. Dawson",
+      "join": "",
+      "role": "Guitar, Vocals",
+      "tracks": "",
+      "id": 476177,
+      "resource_url": "https://api.discogs.com/artists/476177"
+    },
+    {
+      "name": "The Memphis Horns",
+      "anv": "",
+      "join": "",
+      "role": "Horns",
+      "tracks": "",
+      "id": 156316,
+      "resource_url": "https://api.discogs.com/artists/156316"
+    },
+    {
+      "name": "John McIntire",
+      "anv": "Jon McIntire",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 561804,
+      "resource_url": "https://api.discogs.com/artists/561804"
+    },
+    {
+      "name": "Buddy Cage",
+      "anv": "B. Cage",
+      "join": "",
+      "role": "Pedal Steel Guitar",
+      "tracks": "",
+      "id": 261827,
+      "resource_url": "https://api.discogs.com/artists/261827"
+    },
+    {
+      "name": "Thomas Weir",
+      "anv": "Tom Weir",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 1998915,
+      "resource_url": "https://api.discogs.com/artists/1998915"
+    },
+    {
+      "name": "Norbert Putnam",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 362726,
+      "resource_url": "https://api.discogs.com/artists/362726"
+    },
+    {
+      "name": "Buffy Sainte-Marie",
+      "anv": "",
+      "join": "",
+      "role": "Vocals [Additional]",
+      "tracks": "B2, B6",
+      "id": 384185,
+      "resource_url": "https://api.discogs.com/artists/384185"
+    },
+    {
+      "name": "Donna Godchaux",
+      "anv": "",
+      "join": "",
+      "role": "Vocals [Additional]",
+      "tracks": "A4, B4",
+      "id": 718936,
+      "resource_url": "https://api.discogs.com/artists/718936"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/DVMh-uDDuR8JLhohDu3Foqd4LaoMM0ZWl2G3S-6FhGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkw/Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/DVMh-uDDuR8JLhohDu3Foqd4LaoMM0ZWl2G3S-6FhGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkw/Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/l903bRpaICiGv3SVMmzow7TK61cEFMiICt9BBKBlIlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkw/Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/m7kgl8Zxc_-waIACyBJoV3_xQY8EPncwozxYb6hdR84/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkx/OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/m7kgl8Zxc_-waIACyBJoV3_xQY8EPncwozxYb6hdR84/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkx/OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/fc3O-KlXh4KgLinUAlZy4kWtsFUAa5Jtv1RugYJuQoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkx/OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/IOb1Jrd8iRHDeXcLHeUzSDzy6Ha9VuCph_-VELv9oTM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkz/Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/IOb1Jrd8iRHDeXcLHeUzSDzy6Ha9VuCph_-VELv9oTM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkz/Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bEPoZ57lw_OLupCDXzh-EiB_jaop5eXLvn4eKiP0fto/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkz/Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ex2sb-ZPNjgBz7XKhI86WshZ16UiMgf6AV3-v3BVs8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODk0/Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ex2sb-ZPNjgBz7XKhI86WshZ16UiMgf6AV3-v3BVs8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODk0/Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2tWSw0edC4Zs-1sOGOBSNh1KMks5F8E91gGpBFkowqY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODk0/Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rrgAC4sIUliPVDkNXYRrqIVmzPN5JOjXodfY6kKHbUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMzA2NzA2/OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rrgAC4sIUliPVDkNXYRrqIVmzPN5JOjXodfY6kKHbUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMzA2NzA2/OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/owgFURozRwF7hyoNZvUQizFRDbpAYhf4bUw3DNrRWdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMzA2NzA2/OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HWqXgWRYiBiWQSQakK2grpRH6wVkYclFgTY4gSvLQxI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMzA2NzA3/OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HWqXgWRYiBiWQSQakK2grpRH6wVkYclFgTY4gSvLQxI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMzA2NzA3/OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/I3rSyIkiX5aA1v8VZ-awDmWr5xtDHqZJooGXUuWxvNo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMzA2NzA3/OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/l903bRpaICiGv3SVMmzow7TK61cEFMiICt9BBKBlIlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkw/Ny5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

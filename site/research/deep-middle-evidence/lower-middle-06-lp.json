@@ -1,0 +1,103 @@
+{
+  "id": "lower-middle-06",
+  "identity": "Boléro / Rapsodie Espagnole / La Valse",
+  "searches": [
+    {
+      "query": "release:\"Boléro / Rapsodie Espagnole / La Valse\" AND artist:\"Boston Symphony Orchestra\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Bol%C3%A9ro%20/%20Rapsodie%20Espagnole%20/%20La%20Valse%22%20AND%20artist%3A%22Boston%20Symphony%20Orchestra%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1",
+      "url": "https://musicbrainz.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1",
+      "title": "Bolero / Rapsodie Espagnole / La Valse",
+      "artistCredit": [
+        {
+          "joinphrase": "; ",
+          "name": "Ravel",
+          "artist": {
+            "id": "6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a",
+            "name": "Maurice Ravel",
+            "sort-name": "Ravel, Maurice",
+            "disambiguation": "French composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Boston Symphony Orchestra",
+          "artist": {
+            "id": "6ed6a493-0300-428d-82da-91c62b4d50aa",
+            "name": "Boston Symphony Orchestra",
+            "sort-name": "Boston Symphony Orchestra"
+          }
+        },
+        {
+          "name": "Seiji Ozawa",
+          "artist": {
+            "id": "98c3e4e1-2f01-4ead-911f-8d4b95a6c461",
+            "name": "小澤征爾",
+            "sort-name": "Ozawa, Seiji",
+            "disambiguation": "conductor and composer"
+          }
+        }
+      ],
+      "country": "DE",
+      "date": "1974",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "2530 475",
+          "label": {
+            "id": "5a584032-dcef-41bb-9f8b-19540116fb1c",
+            "name": "Deutsche Grammophon"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 51461700,
+          "front": true,
+          "id": 19326094733,
+          "image": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326094733.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326094733-1200.jpg",
+            "250": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326094733-250.jpg",
+            "500": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326094733-500.jpg",
+            "large": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326094733-500.jpg",
+            "small": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326094733-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 51461704,
+          "front": false,
+          "id": 19326097114,
+          "image": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326097114.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326097114-1200.jpg",
+            "250": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326097114-250.jpg",
+            "500": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326097114-500.jpg",
+            "large": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326097114-500.jpg",
+            "small": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326097114-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

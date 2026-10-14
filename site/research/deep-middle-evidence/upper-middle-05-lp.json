@@ -1,0 +1,257 @@
+{
+  "id": "upper-middle-05",
+  "identity": "Graceland",
+  "searches": [
+    {
+      "query": "release:\"Graceland\" AND artist:\"Paul Simon\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Graceland%22%20AND%20artist%3A%22Paul%20Simon%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "bd442e81-f273-351a-a286-6df6e7ff1d53",
+      "url": "https://musicbrainz.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53",
+      "title": "Graceland",
+      "artistCredit": [
+        {
+          "name": "Paul Simon",
+          "artist": {
+            "id": "05517043-ff78-4988-9c22-88c68588ebb9",
+            "name": "Paul Simon",
+            "sort-name": "Simon, Paul",
+            "disambiguation": "of Simon & Garfunkel"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1986",
+      "formats": [
+        "Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "9254471",
+          "label": {
+            "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+            "name": "Warner Bros. Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 24989411,
+          "image": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804754612.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "5804754612",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804754612-500.jpg",
+            "small": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804754612-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "back": true,
+          "edit": 24989412,
+          "image": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804757101.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "5804757101",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804757101-500.jpg",
+            "small": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804757101-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 24989413,
+          "image": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804758843.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "5804758843",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804758843-500.jpg",
+            "small": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804758843-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 24989415,
+          "image": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804759601.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "5804759601",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804759601-500.jpg",
+            "small": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804759601-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "b1b2f602-f72b-4ccf-88a1-e8e22ee328ae",
+      "url": "https://musicbrainz.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae",
+      "title": "Graceland",
+      "artistCredit": [
+        {
+          "name": "Paul Simon",
+          "artist": {
+            "id": "05517043-ff78-4988-9c22-88c68588ebb9",
+            "name": "Paul Simon",
+            "sort-name": "Simon, Paul",
+            "disambiguation": "of Simon & Garfunkel"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1986-09-01",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "1-25447",
+          "label": {
+            "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+            "name": "Warner Bros. Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "from discogs",
+          "edit": 41482605,
+          "front": true,
+          "id": 15038251550,
+          "image": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/15038251550.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/15038251550-1200.jpg",
+            "250": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/15038251550-250.jpg",
+            "500": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/15038251550-500.jpg",
+            "large": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/15038251550-500.jpg",
+            "small": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/15038251550-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 69840839,
+          "front": false,
+          "id": 26212201091,
+          "image": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212201091.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212201091-1200.jpg",
+            "250": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212201091-250.jpg",
+            "500": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212201091-500.jpg",
+            "large": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212201091-500.jpg",
+            "small": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212201091-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "Side 1",
+          "edit": 69840864,
+          "front": false,
+          "id": 26212202103,
+          "image": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202103.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202103-1200.jpg",
+            "250": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202103-250.jpg",
+            "500": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202103-500.jpg",
+            "large": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202103-500.jpg",
+            "small": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202103-250.jpg"
+          },
+          "types": [
+            "Liner"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "Side 2",
+          "edit": 69840892,
+          "front": false,
+          "id": 26212202657,
+          "image": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202657.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202657-1200.jpg",
+            "250": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202657-250.jpg",
+            "500": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202657-500.jpg",
+            "large": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202657-500.jpg",
+            "small": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212202657-250.jpg"
+          },
+          "types": [
+            "Liner"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "Side 1",
+          "edit": 69840900,
+          "front": false,
+          "id": 26212203243,
+          "image": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212203243.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212203243-1200.jpg",
+            "250": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212203243-250.jpg",
+            "500": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212203243-500.jpg",
+            "large": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212203243-500.jpg",
+            "small": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212203243-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "Side 2",
+          "edit": 69840901,
+          "front": false,
+          "id": 26212204463,
+          "image": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212204463.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212204463-1200.jpg",
+            "250": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212204463-250.jpg",
+            "500": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212204463-500.jpg",
+            "large": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212204463-500.jpg",
+            "small": "http://coverartarchive.org/release/b1b2f602-f72b-4ccf-88a1-e8e22ee328ae/26212204463-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

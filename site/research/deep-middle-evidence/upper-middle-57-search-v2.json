@@ -1,0 +1,68 @@
+{
+  "created": "2026-10-14T03:13:28.068Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "a9eed89e-d333-41e4-b502-ac1067bca2e7",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "d503fb47-8629-3e80-a1d2-791e94833fa7",
+      "count": 1,
+      "title": "Confessions of a Male Chauvinist Pig",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "artist-credit": [
+        {
+          "name": "Artie Kaplan",
+          "artist": {
+            "id": "19865a62-0930-478c-a609-3d679f9944c5",
+            "name": "Artie Kaplan",
+            "sort-name": "Kaplan, Artie"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "e2e1f4a1-2725-4f47-9ba5-3b01969cd589",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Confessions of a Male Chauvinist Pig",
+        "primary-type": "Album"
+      },
+      "date": "1972",
+      "country": "US",
+      "release-events": [
+        {
+          "date": "1972",
+          "area": {
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "name": "United States",
+            "sort-name": "United States",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          }
+        }
+      ],
+      "label-info": [
+        {
+          "catalog-number": "VHS-901",
+          "label": {
+            "id": "2804835b-6796-46ec-87a5-0d0f87bdf229",
+            "name": "Hopi Records"
+          }
+        }
+      ],
+      "track-count": 7,
+      "media": [
+        {
+          "id": "9cb69a14-631f-3992-b52f-256af1c0db2d",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 7
+        }
+      ]
+    }
+  ]
+}

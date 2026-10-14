@@ -1,0 +1,224 @@
+{
+  "id": "lower-middle-63",
+  "identity": "Wavelength",
+  "searches": [
+    {
+      "query": "release:\"Wavelength\" AND artist:\"Van Morrison\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Wavelength%22%20AND%20artist%3A%22Van%20Morrison%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "b966b0ad-31b0-4144-92f2-f7e7aa110546",
+      "url": "https://musicbrainz.org/release/b966b0ad-31b0-4144-92f2-f7e7aa110546",
+      "title": "Wavelength",
+      "artistCredit": [
+        {
+          "name": "Van Morrison",
+          "artist": {
+            "id": "a41ac10f-0a56-4672-9161-b83f9b223559",
+            "name": "Van Morrison",
+            "sort-name": "Morrison, Van"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1978",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "BSK 3212",
+          "label": {
+            "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+            "name": "Warner Bros. Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 27372708,
+          "image": "http://coverartarchive.org/release/b966b0ad-31b0-4144-92f2-f7e7aa110546/7022301495.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "7022301495",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/b966b0ad-31b0-4144-92f2-f7e7aa110546/7022301495-500.jpg",
+            "small": "http://coverartarchive.org/release/b966b0ad-31b0-4144-92f2-f7e7aa110546/7022301495-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "8485e4fb-b7b3-4409-a1cf-99c130d6637a",
+      "url": "https://musicbrainz.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a",
+      "title": "Wavelength",
+      "artistCredit": [
+        {
+          "name": "Van Morrison",
+          "artist": {
+            "id": "a41ac10f-0a56-4672-9161-b83f9b223559",
+            "name": "Van Morrison",
+            "sort-name": "Morrison, Van"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1978",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "BSK 3212",
+          "label": {
+            "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+            "name": "Warner Bros. Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 112974640,
+          "front": true,
+          "id": 39110648109,
+          "image": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648109.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648109-1200.jpg",
+            "250": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648109-250.jpg",
+            "500": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648109-500.jpg",
+            "large": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648109-500.jpg",
+            "small": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648109-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 112974643,
+          "front": false,
+          "id": 39110648685,
+          "image": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648685.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648685-1200.jpg",
+            "250": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648685-250.jpg",
+            "500": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648685-500.jpg",
+            "large": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648685-500.jpg",
+            "small": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648685-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 112974644,
+          "front": false,
+          "id": 39110649434,
+          "image": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649434.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649434-1200.jpg",
+            "250": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649434-250.jpg",
+            "500": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649434-500.jpg",
+            "large": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649434-500.jpg",
+            "small": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649434-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 112974646,
+          "front": false,
+          "id": 39110649744,
+          "image": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649744.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649744-1200.jpg",
+            "250": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649744-250.jpg",
+            "500": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649744-500.jpg",
+            "large": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649744-500.jpg",
+            "small": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110649744-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 112974649,
+          "front": false,
+          "id": 39110650047,
+          "image": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650047.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650047-1200.jpg",
+            "250": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650047-250.jpg",
+            "500": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650047-500.jpg",
+            "large": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650047-500.jpg",
+            "small": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650047-250.jpg"
+          },
+          "types": [
+            "Other"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 112974652,
+          "front": false,
+          "id": 39110650673,
+          "image": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650673.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650673-1200.jpg",
+            "250": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650673-250.jpg",
+            "500": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650673-500.jpg",
+            "large": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650673-500.jpg",
+            "small": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110650673-250.jpg"
+          },
+          "types": [
+            "Other"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 112974654,
+          "front": false,
+          "id": 39110651001,
+          "image": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110651001.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110651001-1200.jpg",
+            "250": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110651001-250.jpg",
+            "500": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110651001-500.jpg",
+            "large": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110651001-500.jpg",
+            "small": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110651001-250.jpg"
+          },
+          "types": []
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

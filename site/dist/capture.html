@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#273d35">
+  <title>Photo guide · Dad’s record room</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="capture.css?v=6c3bceaec29c" rel="stylesheet">
+</head>
+<body>
+  <header class="page-header"><a href="./">← Dad’s record room</a><a href="capture-map.pdf?v=7ac3efbb41aa" id="pdf-link" download>Printable map ↓</a></header>
+  <main>
+    <section class="intro" id="intro">
+      <div><p class="eyebrow">A few more photographs</p><h1>Photograph the<br>remaining sleeves.</h1><p id="plan-summary">Loading the capture plan…</p><p>Front, then back. Work through the boxes in order, and send the original camera files together. You don’t need to name or sort them.</p><button class="primary" id="start" disabled>Start the photo sequence →</button></div>
+      <figure class="room-map"><img src="assets/room-wide.jpg" alt="The five record boxes in their original arrangement."><svg viewBox="0 0 1659 948" aria-label="Box numbers"><g><circle cx="410" cy="423" r="46"/><text x="410" y="438">1</text></g><g><circle cx="397" cy="694" r="46"/><text x="397" y="709">2</text></g><g><circle cx="790" cy="376" r="46"/><text x="790" y="391">3</text></g><g><circle cx="797" cy="595" r="46"/><text x="797" y="610">4</text></g><g><circle cx="1120" cy="672" r="46"/><text x="1120" y="687">5</text></g></svg></figure>
+    </section>
+    <nav class="guide-nav" aria-label="Photo guide views"><button id="step-tab" aria-pressed="true">Photo sequence</button><button id="maps-tab" aria-pressed="false">All box maps</button><span id="progress-label"></span></nav>
+    <section id="step-view" hidden aria-labelledby="shot-heading">
+      <div class="step-top"><label>Go to box <select id="box-jump" aria-label="Jump to a box"></select></label><a id="open-record" href="./">View in the collection ↗</a></div>
+      <div class="step-layout">
+        <figure class="sleeve-map"><div id="focus-map"></div><figcaption><span class="target-swatch"></span> Highlighted sleeve · <button id="whole-box">Show the whole box</button></figcaption></figure>
+        <div class="shot-card"><p class="eyebrow" id="location"></p><div class="shot-heading"><span id="shot-number"></span><h2 id="shot-heading"></h2></div><p class="face-instruction" id="face-instruction"></p><div class="target-record"><img id="reference-cover" alt="Reference front artwork" hidden><div><h3 id="record-title"></h3><p id="record-artist"></p><p class="spine-text" id="spine-text"></p></div></div><p id="special-instruction" hidden></p><button id="skip-fold" class="secondary" hidden>This is part of the neighboring sleeve · skip pair</button><div class="neighbors" id="neighbors"></div><details class="why"><summary>Why this sleeve needs photos</summary><ul id="reasons"></ul></details><div class="shot-actions"><button id="previous-shot" class="secondary">← Previous photo</button><button id="next-shot" class="primary"></button></div><p class="camera-tip">Fill the frame with the sleeve. Include all four corners, avoid glare, and keep catalogue numbers readable.</p></div>
+      </div>
+      <details class="setup"><summary>Sequence and camera tips</summary><p>Every pair is the front followed by the back of the same sleeve. Return it to its original place, then move to the next highlighted sleeve.</p><p>Some narrow edges may be folds of a neighboring jacket. If an entry is not a separate sleeve, skip the pair. You don’t need to photograph the same jacket twice. Guide numbers need not match the camera filenames.</p><p>Photograph the closed outer cover. For a box set, photograph the outer box front and back. There’s no need to photograph the disc or gatefold inside in this pass.</p><p>Use even daylight and hold your phone parallel to the cover. Check that small text is sharp. Leave the original camera filenames intact when you send the photos.</p><p>If you retake a photo, keep both copies. I’ll match photos using their original order and cover contents, including any skipped folds.</p><button class="secondary" id="reset-progress">Start again from photo 1</button></details>
+    </section>
+    <section id="map-view" hidden aria-label="Maps of all requested sleeves"><p class="map-instruction">The numbered tags are sleeve positions in the original photos. The list below each map gives the camera photo numbers. Tap a sleeve or list entry to jump to its first photo.</p><div id="all-maps"></div></section>
+    <section id="complete" hidden><h2>That’s the sequence.</h2><p id="complete-copy"></p><p>Send the original photos together. I’ll match them to the saved list, identify the remaining records, and replace the missing artwork.</p><button class="secondary" id="review-last">Review the last photo</button></section>
+    <p id="error" role="alert" hidden>The photo guide could not load. <button onclick="location.reload()">Try again</button></p>
+    <footer><span>Front → back → put it back → next sleeve</span><span id="manifest-label"></span></footer>
+  </main>
+  <script src="capture.js?v=e7dac9f9681b" type="module"></script>
+</body>
+</html>

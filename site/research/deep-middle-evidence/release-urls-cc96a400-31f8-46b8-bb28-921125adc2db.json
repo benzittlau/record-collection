@@ -1,0 +1,100 @@
+{
+  "barcode": "",
+  "status": "Official",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "release-events": [
+    {
+      "area": {
+        "type-id": null,
+        "name": "United States",
+        "type": null,
+        "sort-name": "United States",
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "iso-3166-1-codes": [
+          "US"
+        ],
+        "disambiguation": ""
+      },
+      "date": "1979"
+    }
+  ],
+  "id": "cc96a400-31f8-46b8-bb28-921125adc2db",
+  "disambiguation": "",
+  "country": "US",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "title": "George Harrison",
+  "quality": "normal",
+  "cover-art-archive": {
+    "artwork": true,
+    "front": true,
+    "back": false,
+    "darkened": false,
+    "count": 1
+  },
+  "asin": null,
+  "date": "1979",
+  "packaging": "Cardboard/Paper Sleeve",
+  "relations": [
+    {
+      "type": "discogs",
+      "target-type": "url",
+      "begin": null,
+      "source-credit": "",
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "dc964e17-19e1-489c-bcf6-d953550161aa",
+        "resource": "https://www.discogs.com/release/1123236"
+      },
+      "attributes": [],
+      "end": null
+    }
+  ],
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "artist-credit": [
+    {
+      "name": "George Harrison",
+      "artist": {
+        "id": "42a8f507-8412-4611-854f-926571049fa0",
+        "sort-name": "Harrison, George",
+        "name": "George Harrison",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "disambiguation": "The Beatles"
+      },
+      "joinphrase": ""
+    }
+  ],
+  "media": [
+    {
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "track-count": 10,
+      "format": "12\" Vinyl",
+      "id": "ca8cc0cb-cad5-31a5-a0cb-6c89f08e809d",
+      "title": "",
+      "position": 1
+    }
+  ],
+  "label-info": [
+    {
+      "catalog-number": "DHK 3255",
+      "label": {
+        "label-code": null,
+        "disambiguation": "UK, founded/controlled by George Harrison",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "type": "Original Production",
+        "name": "Dark Horse Records",
+        "sort-name": "Dark Horse Records",
+        "id": "9feb1272-e583-43b6-8101-cacd67814e58"
+      }
+    }
+  ]
+}

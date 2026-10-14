@@ -1,0 +1,100 @@
+{
+  "status": "Official",
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "disambiguation": "Canadian single b/w Tom's Diner",
+  "country": "CA",
+  "quality": "normal",
+  "barcode": "075021296077",
+  "packaging": "Cardboard/Paper Sleeve",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "name": "Suzanne Vega",
+      "artist": {
+        "country": "US",
+        "disambiguation": "American singer-songwriter",
+        "id": "cf119120-7df5-47d7-9dec-49f8837a4e40",
+        "name": "Suzanne Vega",
+        "type": "Person",
+        "sort-name": "Vega, Suzanne",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    }
+  ],
+  "label-info": [
+    {
+      "label": {
+        "name": "A&M Records",
+        "id": "35515729-1f2c-4cc9-9390-9af2764bc56c",
+        "disambiguation": "",
+        "label-code": 485,
+        "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+        "sort-name": "A&M Records",
+        "type": "Production"
+      },
+      "catalog-number": "AM2960"
+    }
+  ],
+  "asin": null,
+  "cover-art-archive": {
+    "count": 4,
+    "back": true,
+    "front": true,
+    "artwork": true,
+    "darkened": false
+  },
+  "title": "Solitude Standing",
+  "relations": [
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "url",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.discogs.com/release/4079323",
+        "id": "06bfb0f8-3d31-4f14-b800-dae339cb5ad3"
+      },
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "source-credit": "",
+      "attributes": [],
+      "type": "discogs",
+      "direction": "forward"
+    }
+  ],
+  "id": "efbab072-2733-4b3d-ba76-b7a0c91a45ac",
+  "release-events": [
+    {
+      "area": {
+        "name": "Canada",
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "disambiguation": "",
+        "type-id": null,
+        "sort-name": "Canada",
+        "iso-3166-1-codes": [
+          "CA"
+        ],
+        "type": null
+      },
+      "date": ""
+    }
+  ],
+  "date": "",
+  "media": [
+    {
+      "format-id": "1d5a48e4-e94a-36dc-84e2-0c5f9f880aa7",
+      "track-count": 2,
+      "title": "",
+      "id": "6130c191-daaf-3656-a77f-4c90fd81c6d6",
+      "format": "7\" Vinyl",
+      "position": 1
+    }
+  ]
+}

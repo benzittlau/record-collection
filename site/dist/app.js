@@ -24,7 +24,7 @@ const spotifyIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12"
 const photoCalibrationReady=fetch('box-photos.json?v=2',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 const spineMasksReady=fetch('spine-masks.json?v=3cee3be1a42d',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 let photoProjectionRequest=0;
-const catalogReady = fetch('catalog.json?v=spine-traces-318-263-92',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
+const catalogReady = fetch('catalog.json?v=a2fda78b26aa',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
   records = data.records ?? data;
   records = records.map(r => ({...r,cover:r.cover ?? r.coverPath ?? null,back:r.back ?? r.backPath ?? r.backCover ?? null,kind:r.kind ?? 'record'}));
   const identified = records.filter(r => r.confidence === 'confirmed').length;
@@ -79,7 +79,7 @@ function renderRecord(){
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('active',b.dataset.view==='front');b.setAttribute('aria-pressed',String(b.dataset.view==='front'));});
   mountCover($('jacket-front'),r);
   if(artworkPath(r,'back'))mountCover($('jacket-back'),r,'back');else $('jacket-back').innerHTML=backPlaceholder();
-  $('vinyl-label-image').src=r.cover||'';$('vinyl-label-image').style.display=r.cover?'block':'none';$('vinyl-label-title').textContent=r.title;
+  $('vinyl-label-image').src=r.label||r.cover||'';$('vinyl-label-image').style.display=r.label||r.cover?'block':'none';$('vinyl-label-image').style.opacity=r.label?'1':'';$('vinyl-label-image').parentElement.style.border=r.label?'1px solid #25231e':'';$('vinyl-label-title').textContent=r.label?'':r.title;
   $('vinyl-button').hidden=r.kind==='book';
   $('jacket').setAttribute('aria-label',`Turn over ${r.title}`);
   $('record-location').textContent=`Box ${boxes[currentBox].number} · ${r.kind==='book'?'Art book':'Sleeve'} ${r.position}${r.compartment?` · Section ${r.compartment}`:''}`;
@@ -89,7 +89,7 @@ function renderRecord(){
   $('record-title').textContent=r.title;$('record-artist').textContent=r.artist;
   $('record-tags').innerHTML=[r.year,r.kind==='book'?'Art book':'Vinyl',r.confidence==='unknown'?'Unidentified':r.confidence==='probable'?'Likely identification':null].filter(Boolean).map(t=>`<span>${escapeHtml(t)}</span>`).join('');
   $('record-evidence').textContent=r.confidence==='confirmed'?'Identified from the photographed spine.':r.confidence==='probable'?'A likely match from the visible spine. A closer photograph will help confirm it.':'The spine is too worn to identify yet. Its place in the collection is preserved.';
-  $('record-notes').textContent=[r.spineText?`Spine: “${r.spineText}”.`:null,r.notes,r.cover?'Cover art represents the album; the exact pressing is unverified.':null,r.back?'The sourced back cover may be from a different pressing.':null].filter(Boolean).join(' ');
+  $('record-notes').textContent=[r.spineText?`Spine: “${r.spineText}”.`:null,r.notes,r.artworkEdition||r.coverNotes||(r.cover?'Cover art represents the album; the exact pressing is unverified.':null),r.backArtworkEdition||r.backEdition||r.backNotes||(r.back?'The sourced back cover may be from a different pressing.':null),r.label?(r.labelEdition||'The pictured label is sourced from a documented LP edition; the family disc and its condition have not been photographed.'):null].filter(Boolean).join(' ');
   const sourceLinks=(r.sources??[]).map(s=>typeof s==='string'?s:s.url).filter(s=>/^https?:\/\//.test(s??''));
   $('record-sources').innerHTML=sourceLinks.slice(0,6).map((url,i)=>`<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(sourceName(url,i))} ↗</a>`).join('');
   const search=`https://open.spotify.com/search/${encodeURIComponent(`${r.artist} ${r.title}`)}`;
@@ -128,7 +128,7 @@ function changeRecord(step){const focusWasSpine=document.activeElement?.classLis
 function changeView(view){
   const r=boxRecords()[currentIndex];currentView=view;document.querySelector('.sleeve-stage').dataset.view=view;$('jacket-front').setAttribute('aria-hidden',String(view==='back'));$('jacket-back').setAttribute('aria-hidden',String(view!=='back'));$('jacket').classList.toggle('is-back',view==='back');$('record-view').classList.toggle('show-vinyl',view==='vinyl');
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('active',b.dataset.view===view);b.setAttribute('aria-pressed',String(b.dataset.view===view));});
-  $('view-note').textContent=view==='vinyl'?'Illustrated vinyl · original disc label hasn’t been photographed':view==='back'?(artworkPath(r,'back')?'Sourced back artwork · exact pressing may differ':'The original back cover is still to come'):(r.cover?'Album artwork · original sleeve edition may differ':'A placeholder until the cover is found');
+  $('view-note').textContent=view==='vinyl'?(r.label?'Illustrated vinyl · sourced LP label, exact pressing may differ':'Illustrated vinyl · original disc label hasn’t been photographed'):view==='back'?(artworkPath(r,'back')?'Sourced back artwork · exact pressing may differ':'The original back cover is still to come'):(r.cover?'Album artwork · original sleeve edition may differ':'A placeholder until the cover is found');
 }
 function closeBox(){if($('box-dialog').open)$('box-dialog').close();}
 $('box-dialog').addEventListener('close',()=>{returnCameraToRoom();$('scene-plane').classList.remove('camera-zoomed');cameraReturnTimer=setTimeout(()=>{if(!$('box-dialog').open)$('scene').classList.remove('camera-active');},reducedMotion?0:900);$('room').classList.remove('at-box');$('box-dialog').classList.remove('album-open');hidePreview();cameraBase=null;history.replaceState(null,'',location.pathname+location.search);lastRoomFocus?.focus();});

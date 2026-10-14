@@ -1,0 +1,4909 @@
+{
+  "version": "7ac3efbb41aa",
+  "created": "2026-10-13",
+  "recipe": "front-back",
+  "pairCount": 47,
+  "optionalPairCount": 16,
+  "shotCount": 94,
+  "boxes": [
+    {
+      "id": "upper-left",
+      "number": 1,
+      "name": "Upper left",
+      "photo": "assets/boxes/upper-left.jpg",
+      "photoSha256": "f203fc189510e40bcc1cd7421c716397de22e14ece1abc3a1ae4485958d55386",
+      "width": 4032,
+      "height": 3024,
+      "compartments": 3,
+      "pairCount": 11,
+      "firstShot": 1,
+      "lastShot": 22
+    },
+    {
+      "id": "lower-left",
+      "number": 2,
+      "name": "Lower left",
+      "photo": "assets/boxes/lower-left.jpg",
+      "photoSha256": "83cf1c6bc118373e33b012c243516219299834d084f3af7603345861d19e8ce7",
+      "width": 4032,
+      "height": 3024,
+      "compartments": 3,
+      "pairCount": 14,
+      "firstShot": 23,
+      "lastShot": 50
+    },
+    {
+      "id": "upper-middle",
+      "number": 3,
+      "name": "Upper middle",
+      "photo": "assets/boxes/upper-middle.jpg",
+      "photoSha256": "de11ca7a220bcc17e2f514e215d4b5af775da2f680947954ae9c25288b40c129",
+      "width": 4032,
+      "height": 3024,
+      "compartments": 2,
+      "pairCount": 9,
+      "firstShot": 51,
+      "lastShot": 68
+    },
+    {
+      "id": "lower-middle",
+      "number": 4,
+      "name": "Lower middle",
+      "photo": "assets/boxes/lower-middle.jpg",
+      "photoSha256": "6f949842d33f601f7dc1e038636d519e13736ed36dcfd36adfc3ba0bfc015612",
+      "width": 4032,
+      "height": 3024,
+      "compartments": 1,
+      "pairCount": 10,
+      "firstShot": 69,
+      "lastShot": 88
+    },
+    {
+      "id": "right",
+      "number": 5,
+      "name": "Right-hand box",
+      "photo": "assets/boxes/right.jpg",
+      "photoSha256": "6aeed81d91ac748d027c1d70262d919c6d44c8ef5138f913c2557086f577648a",
+      "width": 4032,
+      "height": 3024,
+      "compartments": 3,
+      "pairCount": 3,
+      "firstShot": 89,
+      "lastShot": 94
+    }
+  ],
+  "summary": {
+    "records": 318,
+    "confirmed": 281,
+    "probable": 7,
+    "unknown": 30,
+    "fronts": 287,
+    "backs": 284
+  },
+  "instructions": [
+    "Work through boxes 1 to 5, left to right within each section.",
+    "Take the front, then the back of each requested sleeve. Keep all four corners and small catalogue text in focus.",
+    "Put each sleeve back in its original place before moving on.",
+    "Some thin edges may be folded parts of neighboring sleeves. Skip them if they are not physically separate jackets; never photograph the same jacket twice.",
+    "Send the original camera files together, in batches if needed. Keep their original names; no renaming, captions or folders are required.",
+    "Retakes and skipped folds are fine. Photo order and cover contents will help match them; guide numbers need not match camera filenames."
+  ],
+  "pairs": [
+    {
+      "pair": 1,
+      "recordId": "upper-left-06",
+      "recordIds": [
+        "upper-left-06"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 6,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 6,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Worn dark brown spine; text not legible",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether the narrow edge is a separate jacket",
+        "No surviving artist/title/catalogue code on the brown edge. Could be a folded leaf of Anthology; no guessed identity assigned."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "This brown edge may be a folded part of Steve Miller Band’s Anthology, immediately to its left. Photograph it only if it is a physically separate jacket; otherwise skip this pair.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-left-05",
+        "position": 5,
+        "title": "Anthology",
+        "artist": "Steve Miller Band",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-left-07",
+        "position": 7,
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-06",
+          "polygon": [
+            [
+              790,
+              420
+            ],
+            [
+              823,
+              430
+            ],
+            [
+              917,
+              1580
+            ],
+            [
+              1019,
+              2733
+            ],
+            [
+              982,
+              2749
+            ],
+            [
+              880,
+              1580
+            ]
+          ],
+          "anchor": [
+            1000,
+            2741
+          ]
+        }
+      ],
+      "frontShot": 1,
+      "backShot": 2
+    },
+    {
+      "pair": 2,
+      "recordId": "upper-left-07",
+      "recordIds": [
+        "upper-left-07"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 7,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 7,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Olive green spine · LITHO IN CANADA · ABC RECORDS INC.",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "ABC RECORDS INC. / LITHO IN CANADA survives, but no album title or readable catalogue number. Label/color alone cannot select a Steely Dan or other ABC album."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-left-06",
+        "position": 6,
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "next": {
+        "id": "upper-left-08",
+        "position": 8,
+        "title": "The Hissing of Summer Lawns",
+        "artist": "Joni Mitchell",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-07",
+          "polygon": [
+            [
+              821,
+              390
+            ],
+            [
+              853,
+              390
+            ],
+            [
+              939,
+              1580
+            ],
+            [
+              1030,
+              2749
+            ],
+            [
+              1022,
+              2748
+            ],
+            [
+              919,
+              1580
+            ]
+          ],
+          "anchor": [
+            1026,
+            2748
+          ]
+        }
+      ],
+      "frontShot": 3,
+      "backShot": 4
+    },
+    {
+      "pair": 3,
+      "recordId": "upper-left-20",
+      "recordIds": [
+        "upper-left-20"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 20,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 20,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Worn black edge immediately after Graham Nash / David Crosby SD7220",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether the narrow edge is a separate jacket",
+        "No independent readable identity on the black edge following the Crosby & Nash jacket; possible folded leaf or overlapping geometry."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Anchor on Graham Nash / David Crosby’s Crosby & Nash (1972). The thin black edge to its right may be part of that jacket. Skip this pair if it is the same sleeve.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-left-19",
+        "position": 19,
+        "title": "Graham Nash / David Crosby",
+        "artist": "Crosby & Nash",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-left-21",
+        "position": 21,
+        "title": "Facades",
+        "artist": "Sad Café",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-20",
+          "polygon": [
+            [
+              1332,
+              403
+            ],
+            [
+              1360,
+              421
+            ],
+            [
+              1397,
+              1580
+            ],
+            [
+              1433,
+              2727
+            ],
+            [
+              1420,
+              2731
+            ],
+            [
+              1370,
+              1580
+            ]
+          ],
+          "anchor": [
+            1426,
+            2729
+          ]
+        }
+      ],
+      "frontShot": 5,
+      "backShot": 6
+    },
+    {
+      "pair": 4,
+      "recordId": "upper-left-36",
+      "recordIds": [
+        "upper-left-36"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 36,
+      "kind": "record",
+      "compartment": 2,
+      "compartmentPosition": 13,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Bright blue spine, extensively worn; no readable title",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Worn blue strip has no reliable artist/title/catalogue digits. Neighboring Todd/Leon titles and color do not establish identity."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-left-35",
+        "position": 35,
+        "title": "Todd",
+        "artist": "Todd Rundgren",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-left-37",
+        "position": 37,
+        "title": "Born in the U.S.A.",
+        "artist": "Bruce Springsteen",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-36",
+          "polygon": [
+            [
+              2113,
+              395
+            ],
+            [
+              2154,
+              403
+            ],
+            [
+              2105,
+              1580
+            ],
+            [
+              2067,
+              2662
+            ],
+            [
+              2031,
+              2667
+            ],
+            [
+              2070,
+              1580
+            ]
+          ],
+          "anchor": [
+            2049,
+            2664
+          ]
+        }
+      ],
+      "frontShot": 7,
+      "backShot": 8
+    },
+    {
+      "pair": 5,
+      "recordId": "upper-left-40",
+      "recordIds": [
+        "upper-left-40"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 40,
+      "kind": "record",
+      "compartment": 2,
+      "compartmentPosition": 17,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Thin worn dark sleeve with COLUMBIA STEREO; title obscured",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether this is a separate jacket or an overlapping outline",
+        "Overlapping crop repeats DAVID BROMBERG / DEMON IN DISGUISE; may be same jacket or split edge. Independent physical album is unproven."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "The visible text repeats David Bromberg’s Demon in Disguise. Photograph a second pair only if there is a physically separate sleeve beside it. Otherwise skip this pair.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-left-39",
+        "position": 39,
+        "title": "Demon in Disguise",
+        "artist": "David Bromberg",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-left-41",
+        "position": 41,
+        "title": "Another Grey Area",
+        "artist": "Graham Parker",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-40",
+          "polygon": [
+            [
+              2246,
+              414
+            ],
+            [
+              2263,
+              421
+            ],
+            [
+              2209,
+              1580
+            ],
+            [
+              2159,
+              2654
+            ],
+            [
+              2144,
+              2663
+            ],
+            [
+              2191,
+              1580
+            ]
+          ],
+          "anchor": [
+            2152,
+            2658
+          ]
+        }
+      ],
+      "frontShot": 9,
+      "backShot": 10
+    },
+    {
+      "pair": 6,
+      "recordId": "upper-left-50",
+      "recordIds": [
+        "upper-left-50"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 50,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 7,
+      "title": "Can't Buy a Thrill",
+      "artist": "Steely Dan",
+      "confidence": "probable",
+      "spineText": "ABCX 758 · partially legible THRILL",
+      "cover": "assets/covers/upper-left-50-lp-front.jpg",
+      "reasons": [
+        "Confirm the identification",
+        "Confirm the physical jacket and its place in the box",
+        "Confirm the worn jacket between the two known albums",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Use Best of OMD on the left and Queen’s Jazz on the right as anchors. Photograph only the physically separate worn purple/ABC jacket between them. The Can’t Buy a Thrill match is still tentative and the outline overlaps OMD. Skip the pair if there is no separate jacket.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-left-49",
+        "position": 49,
+        "title": "The Best of OMD",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-left-51",
+        "position": 51,
+        "title": "Jazz",
+        "artist": "Queen",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-50",
+          "polygon": [
+            [
+              2792,
+              448
+            ],
+            [
+              2871,
+              434
+            ],
+            [
+              2772,
+              1520
+            ],
+            [
+              2674,
+              2604
+            ],
+            [
+              2627,
+              2607
+            ],
+            [
+              2707,
+              1520
+            ]
+          ],
+          "anchor": [
+            2650,
+            2606
+          ]
+        }
+      ],
+      "frontShot": 11,
+      "backShot": 12
+    },
+    {
+      "pair": 7,
+      "recordId": "upper-left-53",
+      "recordIds": [
+        "upper-left-53"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 53,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 10,
+      "title": "The Up Escalator",
+      "artist": "Graham Parker",
+      "confidence": "confirmed",
+      "spineText": "GRAHAM PARKER · THE UP ESCALATOR · ARISTA AL 9517",
+      "cover": "assets/covers/upper-left-53-discogs-2672288-01.jpg",
+      "reasons": [
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "In this region, outlines can cross adjacent spines. Use the actual printed jackets in order: The Up Escalator, Construction #1, The Pointer Sisters, Between the Buttons, then Bruised Orange. Photograph the jacket named above once; if you already photographed it for an overlapping outline, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "upper-left-52",
+        "position": 52,
+        "title": "No Stranger to Danger",
+        "artist": "Payola$",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-left-54",
+        "position": 54,
+        "title": "Construction #1",
+        "artist": "Ten Wheel Drive with Genya Ravan",
+        "confidence": "probable"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-53",
+          "polygon": [
+            [
+              2939,
+              446
+            ],
+            [
+              2973,
+              455
+            ],
+            [
+              2869,
+              1520
+            ],
+            [
+              2763,
+              2604
+            ],
+            [
+              2731,
+              2605
+            ],
+            [
+              2834,
+              1520
+            ]
+          ],
+          "anchor": [
+            2747,
+            2604
+          ]
+        }
+      ],
+      "frontShot": 13,
+      "backShot": 14
+    },
+    {
+      "pair": 8,
+      "recordId": "upper-left-54",
+      "recordIds": [
+        "upper-left-54"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 54,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 11,
+      "title": "Construction #1",
+      "artist": "Ten Wheel Drive with Genya Ravan",
+      "confidence": "probable",
+      "spineText": "…STRUCTION NO.1 · POLYDOR 543 112",
+      "cover": "assets/covers/upper-left-54-discogs-3060009-01.jpg",
+      "reasons": [
+        "Confirm the identification",
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "In this region, outlines can cross adjacent spines. Use the actual printed jackets in order: The Up Escalator, Construction #1, The Pointer Sisters, Between the Buttons, then Bruised Orange. Photograph the jacket named above once; if you already photographed it for an overlapping outline, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "upper-left-53",
+        "position": 53,
+        "title": "The Up Escalator",
+        "artist": "Graham Parker",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-left-55",
+        "position": 55,
+        "title": "The Pointer Sisters",
+        "artist": "The Pointer Sisters",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-54",
+          "polygon": [
+            [
+              2979,
+              420
+            ],
+            [
+              3019,
+              424
+            ],
+            [
+              2916,
+              1520
+            ],
+            [
+              2814,
+              2596
+            ],
+            [
+              2767,
+              2586
+            ],
+            [
+              2871,
+              1520
+            ]
+          ],
+          "anchor": [
+            2790,
+            2591
+          ]
+        }
+      ],
+      "frontShot": 15,
+      "backShot": 16
+    },
+    {
+      "pair": 9,
+      "recordId": "upper-left-55",
+      "recordIds": [
+        "upper-left-55"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 55,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 12,
+      "title": "The Pointer Sisters",
+      "artist": "The Pointer Sisters",
+      "confidence": "confirmed",
+      "spineText": "BTS 48 · THE POINTER SISTERS · THE POINTER SISTERS",
+      "cover": "assets/covers/upper-left-55-lp-front.jpg",
+      "reasons": [
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "In this region, outlines can cross adjacent spines. Use the actual printed jackets in order: The Up Escalator, Construction #1, The Pointer Sisters, Between the Buttons, then Bruised Orange. Photograph the jacket named above once; if you already photographed it for an overlapping outline, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "upper-left-54",
+        "position": 54,
+        "title": "Construction #1",
+        "artist": "Ten Wheel Drive with Genya Ravan",
+        "confidence": "probable"
+      },
+      "next": {
+        "id": "upper-left-56",
+        "position": 56,
+        "title": "Between the Buttons",
+        "artist": "The Rolling Stones",
+        "confidence": "probable"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-55",
+          "polygon": [
+            [
+              3021,
+              430
+            ],
+            [
+              3068,
+              446
+            ],
+            [
+              2962,
+              1520
+            ],
+            [
+              2861,
+              2590
+            ],
+            [
+              2817,
+              2585
+            ],
+            [
+              2918,
+              1520
+            ]
+          ],
+          "anchor": [
+            2839,
+            2588
+          ]
+        }
+      ],
+      "frontShot": 17,
+      "backShot": 18
+    },
+    {
+      "pair": 10,
+      "recordId": "upper-left-56",
+      "recordIds": [
+        "upper-left-56"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 56,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 13,
+      "title": "Between the Buttons",
+      "artist": "The Rolling Stones",
+      "confidence": "probable",
+      "spineText": "…THE BUTTONS · THE ROLLING STONES · LONDON · PS 499",
+      "cover": "assets/covers/upper-left-56-lp-front.jpg",
+      "reasons": [
+        "Confirm the identification",
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "In this region, outlines can cross adjacent spines. Use the actual printed jackets in order: The Up Escalator, Construction #1, The Pointer Sisters, Between the Buttons, then Bruised Orange. Photograph the jacket named above once; if you already photographed it for an overlapping outline, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "upper-left-55",
+        "position": 55,
+        "title": "The Pointer Sisters",
+        "artist": "The Pointer Sisters",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-left-57",
+        "position": 57,
+        "title": "Bruised Orange",
+        "artist": "John Prine",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-56",
+          "polygon": [
+            [
+              3071,
+              442
+            ],
+            [
+              3099,
+              452
+            ],
+            [
+              2997,
+              1520
+            ],
+            [
+              2891,
+              2593
+            ],
+            [
+              2863,
+              2589
+            ],
+            [
+              2964,
+              1520
+            ]
+          ],
+          "anchor": [
+            2877,
+            2591
+          ]
+        }
+      ],
+      "frontShot": 19,
+      "backShot": 20
+    },
+    {
+      "pair": 11,
+      "recordId": "upper-left-57",
+      "recordIds": [
+        "upper-left-57"
+      ],
+      "box": "upper-left",
+      "boxNumber": 1,
+      "position": 57,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 14,
+      "title": "Bruised Orange",
+      "artist": "John Prine",
+      "confidence": "confirmed",
+      "spineText": "JOHN PRINE · BRUISED ORANGE · ASYLUM 6E-139",
+      "cover": "assets/covers/upper-left-57-lp-front.jpg",
+      "reasons": [
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "In this region, outlines can cross adjacent spines. Use the actual printed jackets in order: The Up Escalator, Construction #1, The Pointer Sisters, Between the Buttons, then Bruised Orange. Photograph the jacket named above once; if you already photographed it for an overlapping outline, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "upper-left-56",
+        "position": 56,
+        "title": "Between the Buttons",
+        "artist": "The Rolling Stones",
+        "confidence": "probable"
+      },
+      "next": {
+        "id": "upper-left-58",
+        "position": 58,
+        "title": "No Guru, No Method, No Teacher",
+        "artist": "Van Morrison",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-left-57",
+          "polygon": [
+            [
+              3101,
+              449
+            ],
+            [
+              3130,
+              450
+            ],
+            [
+              3032,
+              1520
+            ],
+            [
+              2927,
+              2593
+            ],
+            [
+              2894,
+              2590
+            ],
+            [
+              2999,
+              1520
+            ]
+          ],
+          "anchor": [
+            2910,
+            2592
+          ]
+        }
+      ],
+      "frontShot": 21,
+      "backShot": 22
+    },
+    {
+      "pair": 12,
+      "recordId": "lower-left-07",
+      "recordIds": [
+        "lower-left-07"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 7,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 7,
+      "title": "Unknown title",
+      "artist": "Van der Graaf Generator",
+      "confidence": "unknown",
+      "spineText": "THE FAMOUS CHARISMA LABEL · partial VAN DER GRAAF; title unclear",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Partial Van der Graaf / Charisma survives but the title/code is erased. Godbluff and other black Charisma sleeves cannot be distinguished from these pixels."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-left-06",
+        "position": 6,
+        "title": "Longer Fuse",
+        "artist": "Dan Hill",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-08",
+        "position": 8,
+        "title": "Broken English",
+        "artist": "Marianne Faithfull",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-07",
+          "polygon": [
+            [
+              900,
+              360
+            ],
+            [
+              929,
+              348
+            ],
+            [
+              1060,
+              1460
+            ],
+            [
+              1191,
+              2576
+            ],
+            [
+              1167,
+              2576
+            ],
+            [
+              1032,
+              1460
+            ]
+          ],
+          "anchor": [
+            1179,
+            2576
+          ]
+        }
+      ],
+      "frontShot": 23,
+      "backShot": 24
+    },
+    {
+      "pair": 13,
+      "recordId": "lower-left-12",
+      "recordIds": [
+        "lower-left-12"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 12,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 12,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Worn black sleeve between Eagles and Jimi Hendrix",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether this blank edge is a separate jacket",
+        "Blank dark edge between Eagles and Hendrix has no independent text; possible thick Hendrix gatefold leaf."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "This dark edge is between Eagles and the thick Electric Ladyland jacket. It may be part of the Hendrix sleeve. Skip this pair if it is not a separate jacket.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-left-11",
+        "position": 11,
+        "title": "Desperado",
+        "artist": "Eagles",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-13",
+        "position": 13,
+        "title": "Electric Ladyland",
+        "artist": "The Jimi Hendrix Experience",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-12",
+          "polygon": [
+            [
+              1103,
+              342
+            ],
+            [
+              1127,
+              343
+            ],
+            [
+              1219,
+              1460
+            ],
+            [
+              1320,
+              2577
+            ],
+            [
+              1301,
+              2580
+            ],
+            [
+              1195,
+              1460
+            ]
+          ],
+          "anchor": [
+            1310.5,
+            2578.5
+          ]
+        }
+      ],
+      "frontShot": 25,
+      "backShot": 26
+    },
+    {
+      "pair": 14,
+      "recordId": "lower-left-18",
+      "recordIds": [
+        "lower-left-18"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 18,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 18,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Worn cream sleeve with handwriting; title obscured",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Handwritten cream strip is too worn to interpret reliably; no guessed handwritten title assigned."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-left-17",
+        "position": 17,
+        "title": "Switched-On Bach II",
+        "artist": "Wendy Carlos",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-19",
+        "position": 19,
+        "title": "Gentle on My Mind and Other Originals by John Hartford",
+        "artist": "John Hartford",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-18",
+          "polygon": [
+            [
+              1443,
+              355
+            ],
+            [
+              1490,
+              356
+            ],
+            [
+              1534,
+              1460
+            ],
+            [
+              1575,
+              2575
+            ],
+            [
+              1544,
+              2575
+            ],
+            [
+              1490,
+              1460
+            ]
+          ],
+          "anchor": [
+            1559.5,
+            2575
+          ]
+        }
+      ],
+      "frontShot": 27,
+      "backShot": 28
+    },
+    {
+      "pair": 15,
+      "recordId": "lower-left-45",
+      "recordIds": [
+        "lower-left-45"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 45,
+      "kind": "record",
+      "compartment": 2,
+      "compartmentPosition": 24,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Almost completely flaked black-and-white spine · ©1974 WARNER BROS.",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether this narrow edge belongs to the neighboring gatefold",
+        "©1974 WARNER BROS. survives but is not an album identifier. May be folded rear edge of Before the Flood."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "This edge may be the rear fold of Bob Dylan and The Band’s Before the Flood. Photograph a second pair only if it belongs to a physically separate jacket.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-left-44",
+        "position": 44,
+        "title": "Before the Flood",
+        "artist": "Bob Dylan and The Band",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-46",
+        "position": 46,
+        "title": "Neiges",
+        "artist": "André Gagnon",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-45",
+          "polygon": [
+            [
+              2606,
+              378
+            ],
+            [
+              2622,
+              378
+            ],
+            [
+              2509,
+              1460
+            ],
+            [
+              2411,
+              2593
+            ],
+            [
+              2396,
+              2592
+            ],
+            [
+              2500,
+              1460
+            ]
+          ],
+          "anchor": [
+            2403.5,
+            2592.5
+          ]
+        }
+      ],
+      "frontShot": 29,
+      "backShot": 30
+    },
+    {
+      "pair": 16,
+      "recordId": "lower-left-46",
+      "recordIds": [
+        "lower-left-46"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 46,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 1,
+      "title": "Neiges",
+      "artist": "André Gagnon",
+      "confidence": "confirmed",
+      "spineText": "ANDRÉ GAGNON · NEIGES",
+      "cover": "assets/covers/lower-left-46-lp-front.jpg",
+      "reasons": [
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Start at Neiges and use the actual separate jackets through Third Ear Band’s Alchemy. This region contains David Bromberg, Humans, a worn TRUE NORTH edge, Pat Garrett & Billy the Kid, Never for Ever, then Alchemy. Some outlines cross neighboring spines. Use printed titles and physical order; if the jacket named above is already photographed, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "lower-left-45",
+        "position": 45,
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "next": {
+        "id": "lower-left-47",
+        "position": 47,
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-46",
+          "polygon": [
+            [
+              2695,
+              398
+            ],
+            [
+              2720,
+              398
+            ],
+            [
+              2604,
+              1475
+            ],
+            [
+              2499,
+              2585
+            ],
+            [
+              2480,
+              2584
+            ],
+            [
+              2572,
+              1475
+            ]
+          ],
+          "anchor": [
+            2489.5,
+            2584.5
+          ]
+        }
+      ],
+      "frontShot": 31,
+      "backShot": 32
+    },
+    {
+      "pair": 17,
+      "recordId": "lower-left-47",
+      "recordIds": [
+        "lower-left-47"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 47,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 2,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Pale sleeve following André Gagnon; no readable title",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Pale edge has no independent identity; possible neighboring Bromberg leaf or source-mask overlap."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Check the pale edge after André Gagnon’s Neiges, beside the David Bromberg jacket. Photograph it only if it is a separate jacket; if it is a fold of a neighboring sleeve, skip this pair.",
+      "optional": true,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "lower-left-46",
+        "position": 46,
+        "title": "Neiges",
+        "artist": "André Gagnon",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-48",
+        "position": 48,
+        "title": "David Bromberg",
+        "artist": "David Bromberg",
+        "confidence": "probable"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-47",
+          "polygon": [
+            [
+              2718,
+              380
+            ],
+            [
+              2746,
+              382
+            ],
+            [
+              2642,
+              1475
+            ],
+            [
+              2537,
+              2595
+            ],
+            [
+              2505,
+              2591
+            ],
+            [
+              2606,
+              1475
+            ]
+          ],
+          "anchor": [
+            2521,
+            2593
+          ]
+        }
+      ],
+      "frontShot": 33,
+      "backShot": 34
+    },
+    {
+      "pair": 18,
+      "recordId": "lower-left-48",
+      "recordIds": [
+        "lower-left-48"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 48,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 3,
+      "title": "David Bromberg",
+      "artist": "David Bromberg",
+      "confidence": "probable",
+      "spineText": "DAVID BROMBERG · C31104? (worn code; earlier ST114 reading rejected)",
+      "cover": "assets/covers/lower-left-48-owner-front.jpg",
+      "reasons": [
+        "Confirm the identification",
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Start at Neiges and use the actual separate jackets through Third Ear Band’s Alchemy. This region contains David Bromberg, Humans, a worn TRUE NORTH edge, Pat Garrett & Billy the Kid, Never for Ever, then Alchemy. Some outlines cross neighboring spines. Use printed titles and physical order; if the jacket named above is already photographed, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "lower-left-47",
+        "position": 47,
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "next": {
+        "id": "lower-left-49",
+        "position": 49,
+        "title": "Humans",
+        "artist": "Bruce Cockburn",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-48",
+          "polygon": [
+            [
+              2749,
+              386
+            ],
+            [
+              2794,
+              394
+            ],
+            [
+              2675,
+              1475
+            ],
+            [
+              2567,
+              2602
+            ],
+            [
+              2540,
+              2602
+            ],
+            [
+              2644,
+              1475
+            ]
+          ],
+          "anchor": [
+            2553.5,
+            2602
+          ]
+        }
+      ],
+      "frontShot": 35,
+      "backShot": 36
+    },
+    {
+      "pair": 19,
+      "recordId": "lower-left-49",
+      "recordIds": [
+        "lower-left-49"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 49,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 4,
+      "title": "Humans",
+      "artist": "Bruce Cockburn",
+      "confidence": "confirmed",
+      "spineText": "BRUCE COCKBURN HUMANS · SR 2107 SHELTER RECORDS",
+      "cover": "assets/covers/lower-left-49-lp-front.jpg",
+      "reasons": [
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Start at Neiges and use the actual separate jackets through Third Ear Band’s Alchemy. This region contains David Bromberg, Humans, a worn TRUE NORTH edge, Pat Garrett & Billy the Kid, Never for Ever, then Alchemy. Some outlines cross neighboring spines. Use printed titles and physical order; if the jacket named above is already photographed, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "lower-left-48",
+        "position": 48,
+        "title": "David Bromberg",
+        "artist": "David Bromberg",
+        "confidence": "probable"
+      },
+      "next": {
+        "id": "lower-left-50",
+        "position": 50,
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-49",
+          "polygon": [
+            [
+              2797,
+              418
+            ],
+            [
+              2822,
+              419
+            ],
+            [
+              2704,
+              1475
+            ],
+            [
+              2589,
+              2596
+            ],
+            [
+              2571,
+              2596
+            ],
+            [
+              2677,
+              1475
+            ]
+          ],
+          "anchor": [
+            2580,
+            2596
+          ]
+        }
+      ],
+      "frontShot": 37,
+      "backShot": 38
+    },
+    {
+      "pair": 20,
+      "recordId": "lower-left-50",
+      "recordIds": [
+        "lower-left-50"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 50,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 5,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Worn blue-gray strip · TRUE NORTH label fragment; title/code unreadable",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "TRUE NORTH label fragment is reliable, but artist/title/code are not. No Bruce Cockburn album guessed from the label alone."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Check the worn grey TRUE NORTH edge after Bruce Cockburn’s Humans and before Pat Garrett & Billy the Kid. Photograph it only if it is a separate jacket; if it belongs to a neighboring sleeve already photographed, skip the pair.",
+      "optional": true,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "lower-left-49",
+        "position": 49,
+        "title": "Humans",
+        "artist": "Bruce Cockburn",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-51",
+        "position": 51,
+        "title": "Pat Garrett & Billy the Kid",
+        "artist": "Bob Dylan",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-50",
+          "polygon": [
+            [
+              2836,
+              367
+            ],
+            [
+              2873,
+              369
+            ],
+            [
+              2735,
+              1475
+            ],
+            [
+              2613,
+              2590
+            ],
+            [
+              2593,
+              2590
+            ],
+            [
+              2706,
+              1475
+            ]
+          ],
+          "anchor": [
+            2603,
+            2590
+          ]
+        }
+      ],
+      "frontShot": 39,
+      "backShot": 40
+    },
+    {
+      "pair": 21,
+      "recordId": "lower-left-51",
+      "recordIds": [
+        "lower-left-51"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 51,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 6,
+      "title": "Pat Garrett & Billy the Kid",
+      "artist": "Bob Dylan",
+      "confidence": "confirmed",
+      "spineText": "BOB DYLAN / PAT GARRETT & BILLY THE KID · ORIGINAL SOUNDTRACK RECORDING",
+      "cover": "assets/covers/lower-left-51-discogs-1545825-01.jpg",
+      "reasons": [
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Start at Neiges and use the actual separate jackets through Third Ear Band’s Alchemy. This region contains David Bromberg, Humans, a worn TRUE NORTH edge, Pat Garrett & Billy the Kid, Never for Ever, then Alchemy. Some outlines cross neighboring spines. Use printed titles and physical order; if the jacket named above is already photographed, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "lower-left-50",
+        "position": 50,
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "next": {
+        "id": "lower-left-52",
+        "position": 52,
+        "title": "Never for Ever",
+        "artist": "Kate Bush",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-51",
+          "polygon": [
+            [
+              2877,
+              392
+            ],
+            [
+              2939,
+              391
+            ],
+            [
+              2802,
+              1475
+            ],
+            [
+              2672,
+              2621
+            ],
+            [
+              2617,
+              2619
+            ],
+            [
+              2737,
+              1475
+            ]
+          ],
+          "anchor": [
+            2644.5,
+            2620
+          ]
+        }
+      ],
+      "frontShot": 41,
+      "backShot": 42
+    },
+    {
+      "pair": 22,
+      "recordId": "lower-left-52",
+      "recordIds": [
+        "lower-left-52"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 52,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 7,
+      "title": "Never for Ever",
+      "artist": "Kate Bush",
+      "confidence": "confirmed",
+      "spineText": "KATE BUSH · NEVER FOR EVER · catalogue digits too worn/overlapped to establish",
+      "cover": "assets/covers/lower-left-52-lp-front.jpg",
+      "reasons": [
+        "Confirm the physical jacket and its place in the box",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Start at Neiges and use the actual separate jackets through Third Ear Band’s Alchemy. This region contains David Bromberg, Humans, a worn TRUE NORTH edge, Pat Garrett & Billy the Kid, Never for Ever, then Alchemy. Some outlines cross neighboring spines. Use printed titles and physical order; if the jacket named above is already photographed, skip this pair.",
+      "optional": false,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "lower-left-51",
+        "position": 51,
+        "title": "Pat Garrett & Billy the Kid",
+        "artist": "Bob Dylan",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-53",
+        "position": 53,
+        "title": "Alchemy",
+        "artist": "The Third Ear Band",
+        "confidence": "probable"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-52",
+          "polygon": [
+            [
+              2943,
+              414
+            ],
+            [
+              2960,
+              416
+            ],
+            [
+              2823,
+              1475
+            ],
+            [
+              2689,
+              2608
+            ],
+            [
+              2675,
+              2608
+            ],
+            [
+              2804,
+              1475
+            ]
+          ],
+          "anchor": [
+            2682,
+            2608
+          ]
+        }
+      ],
+      "frontShot": 43,
+      "backShot": 44
+    },
+    {
+      "pair": 23,
+      "recordId": "lower-left-53",
+      "recordIds": [
+        "lower-left-53"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 53,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 8,
+      "title": "Alchemy",
+      "artist": "The Third Ear Band",
+      "confidence": "probable",
+      "spineText": "THE THIRD EAR BAND · ALCHEMY (read on adjacent overlapping source strip)",
+      "cover": "assets/covers/lower-left-53-lp-front.jpg",
+      "reasons": [
+        "Confirm the identification",
+        "Confirm the physical jacket and its place in the box",
+        "Confirm the slot containing Alchemy",
+        "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "Start at Neiges and use the actual separate jackets through Third Ear Band’s Alchemy. This region contains David Bromberg, Humans, a worn TRUE NORTH edge, Pat Garrett & Billy the Kid, Never for Ever, then Alchemy. Some outlines cross neighboring spines. Use printed titles and physical order; if the jacket named above is already photographed, skip this pair.",
+      "optional": true,
+      "allowDuplicateSkip": true,
+      "previous": {
+        "id": "lower-left-52",
+        "position": 52,
+        "title": "Never for Ever",
+        "artist": "Kate Bush",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-54",
+        "position": 54,
+        "title": "The Black-Man's Burdon",
+        "artist": "Eric Burdon and War",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-53",
+          "polygon": [
+            [
+              2960,
+              416
+            ],
+            [
+              2994,
+              417
+            ],
+            [
+              2851,
+              1475
+            ],
+            [
+              2704,
+              2594
+            ],
+            [
+              2693,
+              2594
+            ],
+            [
+              2825,
+              1475
+            ]
+          ],
+          "anchor": [
+            2698.5,
+            2594
+          ]
+        }
+      ],
+      "frontShot": 45,
+      "backShot": 46
+    },
+    {
+      "pair": 24,
+      "recordId": "lower-left-57",
+      "recordIds": [
+        "lower-left-57"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 57,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 12,
+      "title": "Unknown title",
+      "artist": "Pure Prairie League",
+      "confidence": "unknown",
+      "spineText": "PURE PRAIRIE LEAGUE · RCA; title illegible",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Pure Prairie League / RCA survives; album title/catalogue digits do not. Bustin’ Out, self-titled, Dance and other RCA sleeves cannot be selected honestly."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-left-56",
+        "position": 56,
+        "title": "They Only Come Out at Night",
+        "artist": "The Edgar Winter Group",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-58",
+        "position": 58,
+        "title": "Slow Train Coming",
+        "artist": "Bob Dylan",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-57",
+          "polygon": [
+            [
+              3186,
+              409
+            ],
+            [
+              3207,
+              412
+            ],
+            [
+              3035,
+              1475
+            ],
+            [
+              2864,
+              2596
+            ],
+            [
+              2846,
+              2596
+            ],
+            [
+              3009,
+              1475
+            ]
+          ],
+          "anchor": [
+            2855,
+            2596
+          ]
+        }
+      ],
+      "frontShot": 47,
+      "backShot": 48
+    },
+    {
+      "pair": 25,
+      "recordId": "lower-left-61",
+      "recordIds": [
+        "lower-left-61"
+      ],
+      "box": "lower-left",
+      "boxNumber": 2,
+      "position": 61,
+      "kind": "record",
+      "compartment": 3,
+      "compartmentPosition": 16,
+      "title": "Unidentified sleeve",
+      "artist": "Unidentified",
+      "confidence": "unknown",
+      "spineText": "Narrow pale-yellow sleeve between Self Portrait and Planet Waves",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether this pale edge is a separate sleeve",
+        "Narrow pale-yellow edge is unreadable and may be part of Self Portrait gatefold; independent sleeve needs physical confirmation."
+      ],
+      "researchStatus": "needs_physical_confirmation",
+      "instruction": "The pale edge between Bob Dylan’s Self Portrait and Planet Waves may be part of the Self Portrait gatefold. Skip this pair if it is the same jacket.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-left-60",
+        "position": 60,
+        "title": "Self Portrait",
+        "artist": "Bob Dylan",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-left-62",
+        "position": 62,
+        "title": "Planet Waves",
+        "artist": "Bob Dylan",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-left-61",
+          "polygon": [
+            [
+              3397,
+              425
+            ],
+            [
+              3430,
+              416
+            ],
+            [
+              3227,
+              1475
+            ],
+            [
+              3026,
+              2599
+            ],
+            [
+              3012,
+              2598
+            ],
+            [
+              3202,
+              1475
+            ]
+          ],
+          "anchor": [
+            3019,
+            2598.5
+          ]
+        }
+      ],
+      "frontShot": 49,
+      "backShot": 50
+    },
+    {
+      "pair": 26,
+      "recordId": "upper-middle-08",
+      "recordIds": [
+        "upper-middle-08"
+      ],
+      "box": "upper-middle",
+      "boxNumber": 3,
+      "position": 8,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 8,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "WARNER BROS. RECORDS INC.",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-middle-07",
+        "position": 7,
+        "title": "Travelling Days",
+        "artist": "J.S.D. Band",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-middle-09",
+        "position": 9,
+        "title": "It Looks Like Snow",
+        "artist": "Phoebe Snow",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-middle-08",
+          "polygon": [
+            [
+              897,
+              450
+            ],
+            [
+              909.2,
+              452
+            ],
+            [
+              950.5,
+              1500
+            ],
+            [
+              998.5,
+              2716
+            ],
+            [
+              987.6,
+              2714
+            ],
+            [
+              939,
+              1500
+            ]
+          ],
+          "anchor": [
+            993,
+            2715
+          ],
+          "traceConfidence": "measured",
+          "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
+        }
+      ],
+      "frontShot": 51,
+      "backShot": 52
+    },
+    {
+      "pair": 27,
+      "recordId": "upper-middle-15",
+      "recordIds": [
+        "upper-middle-15"
+      ],
+      "box": "upper-middle",
+      "boxNumber": 3,
+      "position": 15,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 15,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[grey spine; text illegible]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-middle-14",
+        "position": 14,
+        "title": "Chance",
+        "artist": "Manfred Mann's Earth Band",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-middle-16",
+        "position": 16,
+        "title": "Danseparc",
+        "artist": "Martha and the Muffins / M+M",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-middle-15",
+          "polygon": [
+            [
+              1167.1,
+              460
+            ],
+            [
+              1189.5,
+              466
+            ],
+            [
+              1209.5,
+              1500
+            ],
+            [
+              1232.6,
+              2688
+            ],
+            [
+              1212.9,
+              2687
+            ],
+            [
+              1188.5,
+              1500
+            ]
+          ],
+          "anchor": [
+            1222.8,
+            2687.5
+          ],
+          "traceConfidence": "measured",
+          "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
+        }
+      ],
+      "frontShot": 53,
+      "backShot": 54
+    },
+    {
+      "pair": 28,
+      "recordId": "upper-middle-22",
+      "recordIds": [
+        "upper-middle-22"
+      ],
+      "box": "upper-middle",
+      "boxNumber": 3,
+      "position": 22,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 22,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "COLUMBIA · [worn catalogue] · [possibly HEART]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches. Faint catalogue resembles FC39298; Arnold Schwarzenegger’s Total Body Workout is a lead, not an established identity."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-middle-21",
+        "position": 21,
+        "title": "Sleeper Catcher",
+        "artist": "Little River Band",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-middle-23",
+        "position": 23,
+        "title": "Unidentified album",
+        "artist": "Unknown",
+        "confidence": "unknown"
+      },
+      "outlines": [
+        {
+          "id": "upper-middle-22",
+          "polygon": [
+            [
+              1398.8,
+              445
+            ],
+            [
+              1436.5,
+              444
+            ],
+            [
+              1438.4,
+              1500
+            ],
+            [
+              1440.5,
+              2709
+            ],
+            [
+              1409.5,
+              2709
+            ],
+            [
+              1403.8,
+              1500
+            ]
+          ],
+          "anchor": [
+            1425,
+            2709
+          ],
+          "traceConfidence": "measured",
+          "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
+        }
+      ],
+      "frontShot": 55,
+      "backShot": 56
+    },
+    {
+      "pair": 29,
+      "recordId": "upper-middle-23",
+      "recordIds": [
+        "upper-middle-23"
+      ],
+      "box": "upper-middle",
+      "boxNumber": 3,
+      "position": 23,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 23,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[blue spine; text illegible]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-middle-22",
+        "position": 22,
+        "title": "Unidentified album",
+        "artist": "Unknown",
+        "confidence": "unknown"
+      },
+      "next": {
+        "id": "upper-middle-24",
+        "position": 24,
+        "title": "Business as Usual",
+        "artist": "Men at Work",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-middle-23",
+          "polygon": [
+            [
+              1440.6,
+              469
+            ],
+            [
+              1469.5,
+              467
+            ],
+            [
+              1471.9,
+              1500
+            ],
+            [
+              1474.6,
+              2661
+            ],
+            [
+              1444.5,
+              2662
+            ],
+            [
+              1442.4,
+              1500
+            ]
+          ],
+          "anchor": [
+            1459.5,
+            2661.5
+          ],
+          "traceConfidence": "measured",
+          "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
+        }
+      ],
+      "frontShot": 57,
+      "backShot": 58
+    },
+    {
+      "pair": 30,
+      "recordId": "upper-middle-38",
+      "recordIds": [
+        "upper-middle-38"
+      ],
+      "box": "upper-middle",
+      "boxNumber": 3,
+      "position": 38,
+      "kind": "record",
+      "compartment": 2,
+      "compartmentPosition": 5,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[blue and multicoloured spine; title worn away]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-middle-37",
+        "position": 37,
+        "title": "Goodbye Yellow Brick Road",
+        "artist": "Elton John",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-middle-39",
+        "position": 39,
+        "title": "Unidentified album",
+        "artist": "Unknown",
+        "confidence": "unknown"
+      },
+      "outlines": [
+        {
+          "id": "upper-middle-38",
+          "polygon": [
+            [
+              2081.7,
+              476
+            ],
+            [
+              2118.7,
+              477
+            ],
+            [
+              2101.8,
+              1500
+            ],
+            [
+              2083.3,
+              2624
+            ],
+            [
+              2046.3,
+              2627
+            ],
+            [
+              2064.8,
+              1500
+            ]
+          ],
+          "anchor": [
+            2064.8,
+            2625.5
+          ],
+          "traceConfidence": "measured",
+          "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
+        }
+      ],
+      "frontShot": 59,
+      "backShot": 60
+    },
+    {
+      "pair": 31,
+      "recordId": "upper-middle-39",
+      "recordIds": [
+        "upper-middle-39"
+      ],
+      "box": "upper-middle",
+      "boxNumber": 3,
+      "position": 39,
+      "kind": "record",
+      "compartment": 2,
+      "compartmentPosition": 6,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[thin worn spine; LITHO IN CANADA]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether this cream strip is a separate jacket",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": "Check the very thin cream strip beside the heavily worn multicolor sleeve at38. Photograph front and back only if this is a separate jacket; if it is a fold of38, skip the pair.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-middle-38",
+        "position": 38,
+        "title": "Unidentified album",
+        "artist": "Unknown",
+        "confidence": "unknown"
+      },
+      "next": {
+        "id": "upper-middle-40",
+        "position": 40,
+        "title": "Visions of the Emerald Beyond",
+        "artist": "Mahavishnu Orchestra",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-middle-39",
+          "polygon": [
+            [
+              2122.1,
+              509
+            ],
+            [
+              2158,
+              507
+            ],
+            [
+              2132.3,
+              1500
+            ],
+            [
+              2103,
+              2631
+            ],
+            [
+              2087.2,
+              2631
+            ],
+            [
+              2105.8,
+              1500
+            ]
+          ],
+          "anchor": [
+            2095.1,
+            2631
+          ],
+          "traceConfidence": "measured",
+          "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
+        }
+      ],
+      "frontShot": 61,
+      "backShot": 62
+    },
+    {
+      "pair": 32,
+      "recordId": "upper-middle-47",
+      "recordIds": [
+        "upper-middle-47"
+      ],
+      "box": "upper-middle",
+      "boxNumber": 3,
+      "position": 47,
+      "kind": "record",
+      "compartment": 2,
+      "compartmentPosition": 14,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[pink spine; title illegible]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-middle-46",
+        "position": 46,
+        "title": "Burgers",
+        "artist": "Hot Tuna",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-middle-48",
+        "position": 48,
+        "title": "George Harrison",
+        "artist": "George Harrison",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "upper-middle-47",
+          "polygon": [
+            [
+              2412.1,
+              537
+            ],
+            [
+              2461.5,
+              543
+            ],
+            [
+              2427.8,
+              1500
+            ],
+            [
+              2389.5,
+              2607
+            ],
+            [
+              2384.5,
+              2608
+            ],
+            [
+              2399.6,
+              1500
+            ]
+          ],
+          "anchor": [
+            2387,
+            2607.5
+          ],
+          "traceConfidence": "measured",
+          "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
+        }
+      ],
+      "frontShot": 63,
+      "backShot": 64
+    },
+    {
+      "pair": 33,
+      "recordId": "upper-middle-67",
+      "recordIds": [
+        "upper-middle-67"
+      ],
+      "box": "upper-middle",
+      "boxNumber": 3,
+      "position": 67,
+      "kind": "record",
+      "compartment": 2,
+      "compartmentPosition": 34,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[black spine; no readable title]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether this black seam is a separate jacket",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": "At the right end of this box, check the blank black seam beside the cream sleeve with a faint WALTER fragment. Photograph only a separate physical jacket. If it is part of the neighboring jacket, skip the pair.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-middle-66",
+        "position": 66,
+        "title": "Solitude Standing",
+        "artist": "Suzanne Vega",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "upper-middle-68",
+        "position": 68,
+        "title": "Unidentified album",
+        "artist": "Unknown",
+        "confidence": "unknown"
+      },
+      "outlines": [
+        {
+          "id": "upper-middle-67",
+          "polygon": [
+            [
+              3079.6,
+              535
+            ],
+            [
+              3102.7,
+              534
+            ],
+            [
+              3016.9,
+              1500
+            ],
+            [
+              2919.6,
+              2596
+            ],
+            [
+              2910.4,
+              2590
+            ],
+            [
+              3000.1,
+              1500
+            ]
+          ],
+          "anchor": [
+            2915,
+            2593
+          ],
+          "traceConfidence": "measured",
+          "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
+        }
+      ],
+      "frontShot": 65,
+      "backShot": 66
+    },
+    {
+      "pair": 34,
+      "recordId": "upper-middle-68",
+      "recordIds": [
+        "upper-middle-68"
+      ],
+      "box": "upper-middle",
+      "boxNumber": 3,
+      "position": 68,
+      "kind": "record",
+      "compartment": 2,
+      "compartmentPosition": 35,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[cream spine; WALTER ...]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether the WALTER fragment belongs to a separate jacket",
+        "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches. WALTER fragment is insufficient to choose an artist or album; generic Walter search rejected."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": "Check the cream sleeve with the faint WALTER fragment at the right end of the box. Photograph its actual front and back if it is a separate jacket. If you already photographed this same jacket in the previous step, skip this pair.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "upper-middle-67",
+        "position": 67,
+        "title": "Unidentified album",
+        "artist": "Unknown",
+        "confidence": "unknown"
+      },
+      "next": null,
+      "outlines": [
+        {
+          "id": "upper-middle-68",
+          "polygon": [
+            [
+              3107.6,
+              524
+            ],
+            [
+              3156,
+              527
+            ],
+            [
+              3054.7,
+              1500
+            ],
+            [
+              2939.4,
+              2607
+            ],
+            [
+              2923.1,
+              2601
+            ],
+            [
+              3020.9,
+              1500
+            ]
+          ],
+          "anchor": [
+            2931.2,
+            2604
+          ],
+          "traceConfidence": "measured",
+          "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
+        }
+      ],
+      "frontShot": 67,
+      "backShot": 68
+    },
+    {
+      "pair": 35,
+      "recordId": "lower-middle-04",
+      "recordIds": [
+        "lower-middle-04"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 4,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 4,
+      "title": "Eine kleine Nachtmusik / Egmont Overture / Die Moldau / Les Préludes",
+      "artist": "Berliner Philharmoniker / Radio-Symphonie-Orchester Berlin / Ferenc Fricsay",
+      "confidence": "probable",
+      "spineText": "WOLFGANG AMADEUS MOZART · LUDWIG VAN BEETHOVEN · FRIEDRICH SMETANA · FRANZ LISZT · SLPEM 136 226?",
+      "cover": "assets/covers/lower-middle-04-deep-discogs-1845467-0.jpg",
+      "reasons": [
+        "Confirm the identification",
+        "Confirm the physical jacket and its place in the box",
+        "Album identity or performer/edition is unresolved from the worn source spine."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-03",
+        "position": 3,
+        "title": "Cabaret (Original Soundtrack Recording)",
+        "artist": "Original Soundtrack",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-05",
+        "position": 5,
+        "title": "The Firebird",
+        "artist": "London Philharmonic Orchestra / Bernard Haitink",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-04",
+          "polygon": [
+            [
+              741.5,
+              565
+            ],
+            [
+              830.1,
+              544
+            ],
+            [
+              934,
+              1500
+            ],
+            [
+              1098.7,
+              2925
+            ],
+            [
+              1083.8,
+              2934
+            ],
+            [
+              883,
+              1500
+            ]
+          ],
+          "anchor": [
+            1091.2,
+            2929.5
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 69,
+      "backShot": 70
+    },
+    {
+      "pair": 36,
+      "recordId": "lower-middle-11",
+      "recordIds": [
+        "lower-middle-11"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 11,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 11,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[black spine; no readable title]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-10",
+        "position": 10,
+        "title": "The B-52's",
+        "artist": "The B-52's",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-12",
+        "position": 12,
+        "title": "Snowblind Friend",
+        "artist": "Hoyt Axton",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-11",
+          "polygon": [
+            [
+              1047,
+              573
+            ],
+            [
+              1064.8,
+              574
+            ],
+            [
+              1162,
+              1500
+            ],
+            [
+              1337.1,
+              2883
+            ],
+            [
+              1324.1,
+              2889
+            ],
+            [
+              1142,
+              1500
+            ]
+          ],
+          "anchor": [
+            1330.6,
+            2886
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 71,
+      "backShot": 72
+    },
+    {
+      "pair": 37,
+      "recordId": "lower-middle-25",
+      "recordIds": [
+        "lower-middle-25"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 25,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 25,
+      "title": "Unidentified album",
+      "artist": "The Beatles",
+      "confidence": "unknown",
+      "spineText": "THE BEA... · CAPITOL · [worn]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether this edge is part of the White Album gatefold",
+        "Possible second fold of White Album26; a distinct physical jacket has not been established. Capture only if it is separate."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": "This Beatles edge may be a folded part of the White Album immediately to its right. Photograph it only if it is a physically separate jacket; otherwise skip the pair.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-24",
+        "position": 24,
+        "title": "Wired",
+        "artist": "Jeff Beck",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-26",
+        "position": 26,
+        "title": "The Beatles (The White Album)",
+        "artist": "The Beatles",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-25",
+          "polygon": [
+            [
+              1553.9,
+              551
+            ],
+            [
+              1582.2,
+              549
+            ],
+            [
+              1663.3,
+              1500
+            ],
+            [
+              1753,
+              2859
+            ],
+            [
+              1748.4,
+              2862
+            ],
+            [
+              1656.7,
+              1500
+            ]
+          ],
+          "anchor": [
+            1750.7,
+            2860.5
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 73,
+      "backShot": 74
+    },
+    {
+      "pair": 38,
+      "recordId": "lower-middle-32",
+      "recordIds": [
+        "lower-middle-32"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 32,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 32,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[blank cream spine]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-31",
+        "position": 31,
+        "title": "From the Witchwood",
+        "artist": "Strawbs",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-33",
+        "position": 33,
+        "title": "Down the Road",
+        "artist": "Stephen Stills / Manassas",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-32",
+          "polygon": [
+            [
+              1845.6,
+              544
+            ],
+            [
+              1899.1,
+              548
+            ],
+            [
+              1930,
+              1500
+            ],
+            [
+              1990.9,
+              2838
+            ],
+            [
+              1964,
+              2840
+            ],
+            [
+              1891,
+              1500
+            ]
+          ],
+          "anchor": [
+            1977.5,
+            2839
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 75,
+      "backShot": 76
+    },
+    {
+      "pair": 39,
+      "recordId": "lower-middle-35",
+      "recordIds": [
+        "lower-middle-35"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 35,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 35,
+      "title": "Trios for Flute, Viola and Harp",
+      "artist": "Lucien Grujon / Walter Mony / Kathleen Alister",
+      "confidence": "confirmed",
+      "spineText": "WGS-8196 · Music for Flute, Viola, Harp · WESTMINSTER GOLD SERIES",
+      "cover": "assets/covers/lower-middle-35.jpg",
+      "reasons": [
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "No usable, face-verified LP rear scan was found after alternate LP-edition searches."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-34",
+        "position": 34,
+        "title": "The Crossing",
+        "artist": "Big Country",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-36",
+        "position": 36,
+        "title": "Romeo and Juliet — Suite",
+        "artist": "André Previn",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-35",
+          "polygon": [
+            [
+              1958.1,
+              545
+            ],
+            [
+              1984.8,
+              546
+            ],
+            [
+              2017,
+              1500
+            ],
+            [
+              2079.2,
+              2800
+            ],
+            [
+              2056.1,
+              2805
+            ],
+            [
+              1988,
+              1500
+            ]
+          ],
+          "anchor": [
+            2067.6,
+            2802.5
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 77,
+      "backShot": 78
+    },
+    {
+      "pair": 40,
+      "recordId": "lower-middle-43",
+      "recordIds": [
+        "lower-middle-43"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 43,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 43,
+      "title": "Handel's Messiah",
+      "artist": "Hermann Scherchen / Vienna State Opera Orchestra",
+      "confidence": "confirmed",
+      "spineText": "WGS-8163-3 · HANDEL'S MESSIAH · SCHERCHEN · WESTMINSTER GOLD SERIES",
+      "cover": "assets/covers/lower-middle-43-deep-discogs-5987501-1.jpg",
+      "reasons": [
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "No usable, face-verified LP rear scan was found after alternate LP-edition searches."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-42",
+        "position": 42,
+        "title": "The 76/77 Show Album",
+        "artist": "Up with People",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-44",
+        "position": 44,
+        "title": "Unidentified classical album",
+        "artist": "Unknown",
+        "confidence": "unknown"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-43",
+          "polygon": [
+            [
+              2336.3,
+              575
+            ],
+            [
+              2363.4,
+              579
+            ],
+            [
+              2368,
+              1500
+            ],
+            [
+              2406.6,
+              2742
+            ],
+            [
+              2377,
+              2747
+            ],
+            [
+              2334,
+              1500
+            ]
+          ],
+          "anchor": [
+            2391.8,
+            2744.5
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 79,
+      "backShot": 80
+    },
+    {
+      "pair": 41,
+      "recordId": "lower-middle-44",
+      "recordIds": [
+        "lower-middle-44"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 44,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 44,
+      "title": "Unidentified classical album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "[yellow spine; no readable title]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-43",
+        "position": 43,
+        "title": "Handel's Messiah",
+        "artist": "Hermann Scherchen / Vienna State Opera Orchestra",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-45",
+        "position": 45,
+        "title": "Plays Bach & Villa-Lobos",
+        "artist": "Julian Bream",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-44",
+          "polygon": [
+            [
+              2367.5,
+              581
+            ],
+            [
+              2396.6,
+              582
+            ],
+            [
+              2384,
+              1500
+            ],
+            [
+              2425.4,
+              2742
+            ],
+            [
+              2410.7,
+              2744
+            ],
+            [
+              2372,
+              1500
+            ]
+          ],
+          "anchor": [
+            2418.1,
+            2743
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 81,
+      "backShot": 82
+    },
+    {
+      "pair": 42,
+      "recordId": "lower-middle-53",
+      "recordIds": [
+        "lower-middle-53"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 53,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 53,
+      "title": "Italian Baroque Trumpet Concertos",
+      "artist": "Performers awaiting verification",
+      "confidence": "probable",
+      "spineText": "ITALIAN BAROQUE TRUMPET CONCERTI · Turnabout?",
+      "cover": null,
+      "reasons": [
+        "Confirm the identification",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-52",
+        "position": 52,
+        "title": "Concertos for 2, 3 and 4 Harpsichords",
+        "artist": "I Solisti di Zagreb / Antonio Janigro",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-54",
+        "position": 54,
+        "title": "Schubert: Trout Quintet",
+        "artist": "Hephzibah Menuhin / Members of the Amadeus Quartet / J. Edward Merrett",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-53",
+          "polygon": [
+            [
+              2688,
+              546
+            ],
+            [
+              2704.8,
+              550
+            ],
+            [
+              2712,
+              1500
+            ],
+            [
+              2718.6,
+              2699
+            ],
+            [
+              2694.7,
+              2703
+            ],
+            [
+              2688,
+              1500
+            ]
+          ],
+          "anchor": [
+            2706.6,
+            2701
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 83,
+      "backShot": 84
+    },
+    {
+      "pair": 43,
+      "recordId": "lower-middle-66",
+      "recordIds": [
+        "lower-middle-66"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 66,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 66,
+      "title": "Unidentified album",
+      "artist": "Unknown",
+      "confidence": "unknown",
+      "spineText": "RSA 4099 · [blue spine; worn]",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-65",
+        "position": 65,
+        "title": "The Mountain Dulcimer Instrumental Album",
+        "artist": "Kevin Roth",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-67",
+        "position": 67,
+        "title": "Sakura: Japanese Melodies for Flute and Harp",
+        "artist": "Jean-Pierre Rampal / Lily Laskine",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-66",
+          "polygon": [
+            [
+              3116.7,
+              570
+            ],
+            [
+              3149.9,
+              576
+            ],
+            [
+              3099,
+              1500
+            ],
+            [
+              3038.6,
+              2614
+            ],
+            [
+              3036.3,
+              2618
+            ],
+            [
+              3090,
+              1500
+            ]
+          ],
+          "anchor": [
+            3037.4,
+            2616
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 85,
+      "backShot": 86
+    },
+    {
+      "pair": 44,
+      "recordId": "lower-middle-69",
+      "recordIds": [
+        "lower-middle-69"
+      ],
+      "box": "lower-middle",
+      "boxNumber": 4,
+      "position": 69,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 69,
+      "title": "Unidentified album",
+      "artist": "Orchestral Manoeuvres in the Dark",
+      "confidence": "unknown",
+      "spineText": "ORCHESTRAL MANOEUVRES IN THE DARK",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
+      ],
+      "researchStatus": "capture_required",
+      "instruction": null,
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "lower-middle-68",
+        "position": 68,
+        "title": "Squeezing Out Sparks",
+        "artist": "Graham Parker & the Rumour",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "lower-middle-70",
+        "position": 70,
+        "title": "Nothing Like the Sun",
+        "artist": "Sting",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "lower-middle-69",
+          "polygon": [
+            [
+              3218.9,
+              573
+            ],
+            [
+              3278.6,
+              569
+            ],
+            [
+              3196,
+              1500
+            ],
+            [
+              3113.2,
+              2596
+            ],
+            [
+              3099.1,
+              2598
+            ],
+            [
+              3176,
+              1500
+            ]
+          ],
+          "anchor": [
+            3106.1,
+            2597
+          ],
+          "traceConfidence": "estimated",
+          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+        }
+      ],
+      "frontShot": 87,
+      "backShot": 88
+    },
+    {
+      "pair": 45,
+      "recordId": "right-04",
+      "recordIds": [
+        "right-04"
+      ],
+      "box": "right",
+      "boxNumber": 5,
+      "position": 4,
+      "kind": "record",
+      "compartment": 1,
+      "compartmentPosition": 4,
+      "title": "Unidentified cream sleeve",
+      "artist": "Unknown artist",
+      "confidence": "unknown",
+      "spineText": "DANCES … RENA…",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether the cream edge is a separate jacket",
+        "Identity cannot be established from the worn/occluded spine. The edge may be a folded part of a neighboring jacket, not a separate record."
+      ],
+      "researchStatus": "conditional-unidentified-edge",
+      "instruction": "Check the cream edge between Don Sebesky’s Giant Box and Hubert Laws’ Afro-Classic. Photograph its front then back only if it is a separate jacket. If it is a folded part of Giant Box, skip this pair.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "right-03",
+        "position": 3,
+        "title": "Giant Box",
+        "artist": "Don Sebesky",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "right-05",
+        "position": 5,
+        "title": "Afro-Classic",
+        "artist": "Hubert Laws",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "right-04",
+          "polygon": [
+            [
+              708,
+              430
+            ],
+            [
+              764,
+              427
+            ],
+            [
+              907,
+              1500
+            ],
+            [
+              1044,
+              2606
+            ],
+            [
+              1003,
+              2610
+            ],
+            [
+              858,
+              1500
+            ]
+          ],
+          "anchor": [
+            1024,
+            2608
+          ],
+          "notes": "Unidentified cream edge retained as its catalogue slot. Its pale contour is traced, but it may be an adjacent sleeve/box-set fold; title and exact ownership remain unresolved."
+        }
+      ],
+      "frontShot": 89,
+      "backShot": 90
+    },
+    {
+      "pair": 46,
+      "recordId": "right-30",
+      "recordIds": [
+        "right-30"
+      ],
+      "box": "right",
+      "boxNumber": 5,
+      "position": 30,
+      "kind": "record",
+      "compartment": 2,
+      "compartmentPosition": 30,
+      "title": "Unidentified pale sleeve",
+      "artist": "Unknown artist",
+      "confidence": "unknown",
+      "spineText": "Pale narrow edge, no readable title",
+      "cover": null,
+      "reasons": [
+        "Identify this sleeve",
+        "Front artwork missing",
+        "Vinyl back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "Check whether the pale edge is a separate jacket",
+        "Identity cannot be established from the worn/occluded spine. The edge may be a folded part of a neighboring jacket, not a separate record."
+      ],
+      "researchStatus": "conditional-unidentified-edge",
+      "instruction": "Check the pale edge between Rick Wakeman’s Journey to the Centre of the Earth and The Six Wives of Henry VIII. Photograph its front then back only if it is a separate jacket. If it belongs to Journey’s gatefold, skip this pair.",
+      "optional": true,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "right-29",
+        "position": 29,
+        "title": "Journey to the Centre of the Earth",
+        "artist": "Rick Wakeman",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "right-31",
+        "position": 31,
+        "title": "The Six Wives of Henry VIII",
+        "artist": "Rick Wakeman",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "right-30",
+          "polygon": [
+            [
+              2078,
+              482
+            ],
+            [
+              2082,
+              484
+            ],
+            [
+              2053,
+              1500
+            ],
+            [
+              2008,
+              2582
+            ],
+            [
+              2003,
+              2580
+            ],
+            [
+              2048,
+              1500
+            ]
+          ],
+          "anchor": [
+            2006,
+            2581
+          ],
+          "notes": "Conservative narrow pale-edge mask between Journey and Six Wives. This is the catalogue placeholder; the edge may be a folded part of Journey rather than an independent sleeve."
+        }
+      ],
+      "frontShot": 91,
+      "backShot": 92
+    },
+    {
+      "pair": 47,
+      "recordId": "right-52",
+      "recordIds": [
+        "right-52"
+      ],
+      "box": "right",
+      "boxNumber": 5,
+      "position": 52,
+      "kind": "book",
+      "compartment": 3,
+      "compartmentPosition": 52,
+      "title": "Views",
+      "artist": "Roger Dean",
+      "confidence": "confirmed",
+      "spineText": "ROGER DEAN VIEWS LEHMKUHL/HAMILTON/CAPALBO DRAGON’S DREAM",
+      "cover": "assets/covers/right-52-book-front.jpg",
+      "reasons": [
+        "Book back artwork missing",
+        "Confirm the physical jacket and its place in the box",
+        "A representative historical front is available, but the physical book’s binding, edition and outer back remain unverified."
+      ],
+      "researchStatus": "book-edition-and-back-needed",
+      "instruction": "Photograph this book’s actual front, then its outer back. Keep any ISBN and publisher text readable. No record or disc photos are needed.",
+      "optional": false,
+      "allowDuplicateSkip": false,
+      "previous": {
+        "id": "right-51",
+        "position": 51,
+        "title": "Crime of the Century",
+        "artist": "Supertramp",
+        "confidence": "confirmed"
+      },
+      "next": {
+        "id": "right-53",
+        "position": 53,
+        "title": "Solo Concerts: Bremen / Lausanne",
+        "artist": "Keith Jarrett",
+        "confidence": "confirmed"
+      },
+      "outlines": [
+        {
+          "id": "right-52",
+          "polygon": [
+            [
+              3090,
+              574
+            ],
+            [
+              3213,
+              587
+            ],
+            [
+              3050,
+              1500
+            ],
+            [
+              2867,
+              2585
+            ],
+            [
+              2792,
+              2577
+            ],
+            [
+              2942,
+              1500
+            ]
+          ],
+          "anchor": [
+            2830,
+            2581
+          ],
+          "notes": "Wide Views art-book spine measured separately; short cap starts below adjacent records. Width is not borrowed from the wider Solo Concerts box set."
+        }
+      ],
+      "frontShot": 93,
+      "backShot": 94
+    }
+  ],
+  "shots": [
+    {
+      "sequence": 1,
+      "pair": 1,
+      "recordId": "upper-left-06",
+      "recordIds": [
+        "upper-left-06"
+      ],
+      "box": "upper-left",
+      "position": 6,
+      "face": "front"
+    },
+    {
+      "sequence": 2,
+      "pair": 1,
+      "recordId": "upper-left-06",
+      "recordIds": [
+        "upper-left-06"
+      ],
+      "box": "upper-left",
+      "position": 6,
+      "face": "back"
+    },
+    {
+      "sequence": 3,
+      "pair": 2,
+      "recordId": "upper-left-07",
+      "recordIds": [
+        "upper-left-07"
+      ],
+      "box": "upper-left",
+      "position": 7,
+      "face": "front"
+    },
+    {
+      "sequence": 4,
+      "pair": 2,
+      "recordId": "upper-left-07",
+      "recordIds": [
+        "upper-left-07"
+      ],
+      "box": "upper-left",
+      "position": 7,
+      "face": "back"
+    },
+    {
+      "sequence": 5,
+      "pair": 3,
+      "recordId": "upper-left-20",
+      "recordIds": [
+        "upper-left-20"
+      ],
+      "box": "upper-left",
+      "position": 20,
+      "face": "front"
+    },
+    {
+      "sequence": 6,
+      "pair": 3,
+      "recordId": "upper-left-20",
+      "recordIds": [
+        "upper-left-20"
+      ],
+      "box": "upper-left",
+      "position": 20,
+      "face": "back"
+    },
+    {
+      "sequence": 7,
+      "pair": 4,
+      "recordId": "upper-left-36",
+      "recordIds": [
+        "upper-left-36"
+      ],
+      "box": "upper-left",
+      "position": 36,
+      "face": "front"
+    },
+    {
+      "sequence": 8,
+      "pair": 4,
+      "recordId": "upper-left-36",
+      "recordIds": [
+        "upper-left-36"
+      ],
+      "box": "upper-left",
+      "position": 36,
+      "face": "back"
+    },
+    {
+      "sequence": 9,
+      "pair": 5,
+      "recordId": "upper-left-40",
+      "recordIds": [
+        "upper-left-40"
+      ],
+      "box": "upper-left",
+      "position": 40,
+      "face": "front"
+    },
+    {
+      "sequence": 10,
+      "pair": 5,
+      "recordId": "upper-left-40",
+      "recordIds": [
+        "upper-left-40"
+      ],
+      "box": "upper-left",
+      "position": 40,
+      "face": "back"
+    },
+    {
+      "sequence": 11,
+      "pair": 6,
+      "recordId": "upper-left-50",
+      "recordIds": [
+        "upper-left-50"
+      ],
+      "box": "upper-left",
+      "position": 50,
+      "face": "front"
+    },
+    {
+      "sequence": 12,
+      "pair": 6,
+      "recordId": "upper-left-50",
+      "recordIds": [
+        "upper-left-50"
+      ],
+      "box": "upper-left",
+      "position": 50,
+      "face": "back"
+    },
+    {
+      "sequence": 13,
+      "pair": 7,
+      "recordId": "upper-left-53",
+      "recordIds": [
+        "upper-left-53"
+      ],
+      "box": "upper-left",
+      "position": 53,
+      "face": "front"
+    },
+    {
+      "sequence": 14,
+      "pair": 7,
+      "recordId": "upper-left-53",
+      "recordIds": [
+        "upper-left-53"
+      ],
+      "box": "upper-left",
+      "position": 53,
+      "face": "back"
+    },
+    {
+      "sequence": 15,
+      "pair": 8,
+      "recordId": "upper-left-54",
+      "recordIds": [
+        "upper-left-54"
+      ],
+      "box": "upper-left",
+      "position": 54,
+      "face": "front"
+    },
+    {
+      "sequence": 16,
+      "pair": 8,
+      "recordId": "upper-left-54",
+      "recordIds": [
+        "upper-left-54"
+      ],
+      "box": "upper-left",
+      "position": 54,
+      "face": "back"
+    },
+    {
+      "sequence": 17,
+      "pair": 9,
+      "recordId": "upper-left-55",
+      "recordIds": [
+        "upper-left-55"
+      ],
+      "box": "upper-left",
+      "position": 55,
+      "face": "front"
+    },
+    {
+      "sequence": 18,
+      "pair": 9,
+      "recordId": "upper-left-55",
+      "recordIds": [
+        "upper-left-55"
+      ],
+      "box": "upper-left",
+      "position": 55,
+      "face": "back"
+    },
+    {
+      "sequence": 19,
+      "pair": 10,
+      "recordId": "upper-left-56",
+      "recordIds": [
+        "upper-left-56"
+      ],
+      "box": "upper-left",
+      "position": 56,
+      "face": "front"
+    },
+    {
+      "sequence": 20,
+      "pair": 10,
+      "recordId": "upper-left-56",
+      "recordIds": [
+        "upper-left-56"
+      ],
+      "box": "upper-left",
+      "position": 56,
+      "face": "back"
+    },
+    {
+      "sequence": 21,
+      "pair": 11,
+      "recordId": "upper-left-57",
+      "recordIds": [
+        "upper-left-57"
+      ],
+      "box": "upper-left",
+      "position": 57,
+      "face": "front"
+    },
+    {
+      "sequence": 22,
+      "pair": 11,
+      "recordId": "upper-left-57",
+      "recordIds": [
+        "upper-left-57"
+      ],
+      "box": "upper-left",
+      "position": 57,
+      "face": "back"
+    },
+    {
+      "sequence": 23,
+      "pair": 12,
+      "recordId": "lower-left-07",
+      "recordIds": [
+        "lower-left-07"
+      ],
+      "box": "lower-left",
+      "position": 7,
+      "face": "front"
+    },
+    {
+      "sequence": 24,
+      "pair": 12,
+      "recordId": "lower-left-07",
+      "recordIds": [
+        "lower-left-07"
+      ],
+      "box": "lower-left",
+      "position": 7,
+      "face": "back"
+    },
+    {
+      "sequence": 25,
+      "pair": 13,
+      "recordId": "lower-left-12",
+      "recordIds": [
+        "lower-left-12"
+      ],
+      "box": "lower-left",
+      "position": 12,
+      "face": "front"
+    },
+    {
+      "sequence": 26,
+      "pair": 13,
+      "recordId": "lower-left-12",
+      "recordIds": [
+        "lower-left-12"
+      ],
+      "box": "lower-left",
+      "position": 12,
+      "face": "back"
+    },
+    {
+      "sequence": 27,
+      "pair": 14,
+      "recordId": "lower-left-18",
+      "recordIds": [
+        "lower-left-18"
+      ],
+      "box": "lower-left",
+      "position": 18,
+      "face": "front"
+    },
+    {
+      "sequence": 28,
+      "pair": 14,
+      "recordId": "lower-left-18",
+      "recordIds": [
+        "lower-left-18"
+      ],
+      "box": "lower-left",
+      "position": 18,
+      "face": "back"
+    },
+    {
+      "sequence": 29,
+      "pair": 15,
+      "recordId": "lower-left-45",
+      "recordIds": [
+        "lower-left-45"
+      ],
+      "box": "lower-left",
+      "position": 45,
+      "face": "front"
+    },
+    {
+      "sequence": 30,
+      "pair": 15,
+      "recordId": "lower-left-45",
+      "recordIds": [
+        "lower-left-45"
+      ],
+      "box": "lower-left",
+      "position": 45,
+      "face": "back"
+    },
+    {
+      "sequence": 31,
+      "pair": 16,
+      "recordId": "lower-left-46",
+      "recordIds": [
+        "lower-left-46"
+      ],
+      "box": "lower-left",
+      "position": 46,
+      "face": "front"
+    },
+    {
+      "sequence": 32,
+      "pair": 16,
+      "recordId": "lower-left-46",
+      "recordIds": [
+        "lower-left-46"
+      ],
+      "box": "lower-left",
+      "position": 46,
+      "face": "back"
+    },
+    {
+      "sequence": 33,
+      "pair": 17,
+      "recordId": "lower-left-47",
+      "recordIds": [
+        "lower-left-47"
+      ],
+      "box": "lower-left",
+      "position": 47,
+      "face": "front"
+    },
+    {
+      "sequence": 34,
+      "pair": 17,
+      "recordId": "lower-left-47",
+      "recordIds": [
+        "lower-left-47"
+      ],
+      "box": "lower-left",
+      "position": 47,
+      "face": "back"
+    },
+    {
+      "sequence": 35,
+      "pair": 18,
+      "recordId": "lower-left-48",
+      "recordIds": [
+        "lower-left-48"
+      ],
+      "box": "lower-left",
+      "position": 48,
+      "face": "front"
+    },
+    {
+      "sequence": 36,
+      "pair": 18,
+      "recordId": "lower-left-48",
+      "recordIds": [
+        "lower-left-48"
+      ],
+      "box": "lower-left",
+      "position": 48,
+      "face": "back"
+    },
+    {
+      "sequence": 37,
+      "pair": 19,
+      "recordId": "lower-left-49",
+      "recordIds": [
+        "lower-left-49"
+      ],
+      "box": "lower-left",
+      "position": 49,
+      "face": "front"
+    },
+    {
+      "sequence": 38,
+      "pair": 19,
+      "recordId": "lower-left-49",
+      "recordIds": [
+        "lower-left-49"
+      ],
+      "box": "lower-left",
+      "position": 49,
+      "face": "back"
+    },
+    {
+      "sequence": 39,
+      "pair": 20,
+      "recordId": "lower-left-50",
+      "recordIds": [
+        "lower-left-50"
+      ],
+      "box": "lower-left",
+      "position": 50,
+      "face": "front"
+    },
+    {
+      "sequence": 40,
+      "pair": 20,
+      "recordId": "lower-left-50",
+      "recordIds": [
+        "lower-left-50"
+      ],
+      "box": "lower-left",
+      "position": 50,
+      "face": "back"
+    },
+    {
+      "sequence": 41,
+      "pair": 21,
+      "recordId": "lower-left-51",
+      "recordIds": [
+        "lower-left-51"
+      ],
+      "box": "lower-left",
+      "position": 51,
+      "face": "front"
+    },
+    {
+      "sequence": 42,
+      "pair": 21,
+      "recordId": "lower-left-51",
+      "recordIds": [
+        "lower-left-51"
+      ],
+      "box": "lower-left",
+      "position": 51,
+      "face": "back"
+    },
+    {
+      "sequence": 43,
+      "pair": 22,
+      "recordId": "lower-left-52",
+      "recordIds": [
+        "lower-left-52"
+      ],
+      "box": "lower-left",
+      "position": 52,
+      "face": "front"
+    },
+    {
+      "sequence": 44,
+      "pair": 22,
+      "recordId": "lower-left-52",
+      "recordIds": [
+        "lower-left-52"
+      ],
+      "box": "lower-left",
+      "position": 52,
+      "face": "back"
+    },
+    {
+      "sequence": 45,
+      "pair": 23,
+      "recordId": "lower-left-53",
+      "recordIds": [
+        "lower-left-53"
+      ],
+      "box": "lower-left",
+      "position": 53,
+      "face": "front"
+    },
+    {
+      "sequence": 46,
+      "pair": 23,
+      "recordId": "lower-left-53",
+      "recordIds": [
+        "lower-left-53"
+      ],
+      "box": "lower-left",
+      "position": 53,
+      "face": "back"
+    },
+    {
+      "sequence": 47,
+      "pair": 24,
+      "recordId": "lower-left-57",
+      "recordIds": [
+        "lower-left-57"
+      ],
+      "box": "lower-left",
+      "position": 57,
+      "face": "front"
+    },
+    {
+      "sequence": 48,
+      "pair": 24,
+      "recordId": "lower-left-57",
+      "recordIds": [
+        "lower-left-57"
+      ],
+      "box": "lower-left",
+      "position": 57,
+      "face": "back"
+    },
+    {
+      "sequence": 49,
+      "pair": 25,
+      "recordId": "lower-left-61",
+      "recordIds": [
+        "lower-left-61"
+      ],
+      "box": "lower-left",
+      "position": 61,
+      "face": "front"
+    },
+    {
+      "sequence": 50,
+      "pair": 25,
+      "recordId": "lower-left-61",
+      "recordIds": [
+        "lower-left-61"
+      ],
+      "box": "lower-left",
+      "position": 61,
+      "face": "back"
+    },
+    {
+      "sequence": 51,
+      "pair": 26,
+      "recordId": "upper-middle-08",
+      "recordIds": [
+        "upper-middle-08"
+      ],
+      "box": "upper-middle",
+      "position": 8,
+      "face": "front"
+    },
+    {
+      "sequence": 52,
+      "pair": 26,
+      "recordId": "upper-middle-08",
+      "recordIds": [
+        "upper-middle-08"
+      ],
+      "box": "upper-middle",
+      "position": 8,
+      "face": "back"
+    },
+    {
+      "sequence": 53,
+      "pair": 27,
+      "recordId": "upper-middle-15",
+      "recordIds": [
+        "upper-middle-15"
+      ],
+      "box": "upper-middle",
+      "position": 15,
+      "face": "front"
+    },
+    {
+      "sequence": 54,
+      "pair": 27,
+      "recordId": "upper-middle-15",
+      "recordIds": [
+        "upper-middle-15"
+      ],
+      "box": "upper-middle",
+      "position": 15,
+      "face": "back"
+    },
+    {
+      "sequence": 55,
+      "pair": 28,
+      "recordId": "upper-middle-22",
+      "recordIds": [
+        "upper-middle-22"
+      ],
+      "box": "upper-middle",
+      "position": 22,
+      "face": "front"
+    },
+    {
+      "sequence": 56,
+      "pair": 28,
+      "recordId": "upper-middle-22",
+      "recordIds": [
+        "upper-middle-22"
+      ],
+      "box": "upper-middle",
+      "position": 22,
+      "face": "back"
+    },
+    {
+      "sequence": 57,
+      "pair": 29,
+      "recordId": "upper-middle-23",
+      "recordIds": [
+        "upper-middle-23"
+      ],
+      "box": "upper-middle",
+      "position": 23,
+      "face": "front"
+    },
+    {
+      "sequence": 58,
+      "pair": 29,
+      "recordId": "upper-middle-23",
+      "recordIds": [
+        "upper-middle-23"
+      ],
+      "box": "upper-middle",
+      "position": 23,
+      "face": "back"
+    },
+    {
+      "sequence": 59,
+      "pair": 30,
+      "recordId": "upper-middle-38",
+      "recordIds": [
+        "upper-middle-38"
+      ],
+      "box": "upper-middle",
+      "position": 38,
+      "face": "front"
+    },
+    {
+      "sequence": 60,
+      "pair": 30,
+      "recordId": "upper-middle-38",
+      "recordIds": [
+        "upper-middle-38"
+      ],
+      "box": "upper-middle",
+      "position": 38,
+      "face": "back"
+    },
+    {
+      "sequence": 61,
+      "pair": 31,
+      "recordId": "upper-middle-39",
+      "recordIds": [
+        "upper-middle-39"
+      ],
+      "box": "upper-middle",
+      "position": 39,
+      "face": "front"
+    },
+    {
+      "sequence": 62,
+      "pair": 31,
+      "recordId": "upper-middle-39",
+      "recordIds": [
+        "upper-middle-39"
+      ],
+      "box": "upper-middle",
+      "position": 39,
+      "face": "back"
+    },
+    {
+      "sequence": 63,
+      "pair": 32,
+      "recordId": "upper-middle-47",
+      "recordIds": [
+        "upper-middle-47"
+      ],
+      "box": "upper-middle",
+      "position": 47,
+      "face": "front"
+    },
+    {
+      "sequence": 64,
+      "pair": 32,
+      "recordId": "upper-middle-47",
+      "recordIds": [
+        "upper-middle-47"
+      ],
+      "box": "upper-middle",
+      "position": 47,
+      "face": "back"
+    },
+    {
+      "sequence": 65,
+      "pair": 33,
+      "recordId": "upper-middle-67",
+      "recordIds": [
+        "upper-middle-67"
+      ],
+      "box": "upper-middle",
+      "position": 67,
+      "face": "front"
+    },
+    {
+      "sequence": 66,
+      "pair": 33,
+      "recordId": "upper-middle-67",
+      "recordIds": [
+        "upper-middle-67"
+      ],
+      "box": "upper-middle",
+      "position": 67,
+      "face": "back"
+    },
+    {
+      "sequence": 67,
+      "pair": 34,
+      "recordId": "upper-middle-68",
+      "recordIds": [
+        "upper-middle-68"
+      ],
+      "box": "upper-middle",
+      "position": 68,
+      "face": "front"
+    },
+    {
+      "sequence": 68,
+      "pair": 34,
+      "recordId": "upper-middle-68",
+      "recordIds": [
+        "upper-middle-68"
+      ],
+      "box": "upper-middle",
+      "position": 68,
+      "face": "back"
+    },
+    {
+      "sequence": 69,
+      "pair": 35,
+      "recordId": "lower-middle-04",
+      "recordIds": [
+        "lower-middle-04"
+      ],
+      "box": "lower-middle",
+      "position": 4,
+      "face": "front"
+    },
+    {
+      "sequence": 70,
+      "pair": 35,
+      "recordId": "lower-middle-04",
+      "recordIds": [
+        "lower-middle-04"
+      ],
+      "box": "lower-middle",
+      "position": 4,
+      "face": "back"
+    },
+    {
+      "sequence": 71,
+      "pair": 36,
+      "recordId": "lower-middle-11",
+      "recordIds": [
+        "lower-middle-11"
+      ],
+      "box": "lower-middle",
+      "position": 11,
+      "face": "front"
+    },
+    {
+      "sequence": 72,
+      "pair": 36,
+      "recordId": "lower-middle-11",
+      "recordIds": [
+        "lower-middle-11"
+      ],
+      "box": "lower-middle",
+      "position": 11,
+      "face": "back"
+    },
+    {
+      "sequence": 73,
+      "pair": 37,
+      "recordId": "lower-middle-25",
+      "recordIds": [
+        "lower-middle-25"
+      ],
+      "box": "lower-middle",
+      "position": 25,
+      "face": "front"
+    },
+    {
+      "sequence": 74,
+      "pair": 37,
+      "recordId": "lower-middle-25",
+      "recordIds": [
+        "lower-middle-25"
+      ],
+      "box": "lower-middle",
+      "position": 25,
+      "face": "back"
+    },
+    {
+      "sequence": 75,
+      "pair": 38,
+      "recordId": "lower-middle-32",
+      "recordIds": [
+        "lower-middle-32"
+      ],
+      "box": "lower-middle",
+      "position": 32,
+      "face": "front"
+    },
+    {
+      "sequence": 76,
+      "pair": 38,
+      "recordId": "lower-middle-32",
+      "recordIds": [
+        "lower-middle-32"
+      ],
+      "box": "lower-middle",
+      "position": 32,
+      "face": "back"
+    },
+    {
+      "sequence": 77,
+      "pair": 39,
+      "recordId": "lower-middle-35",
+      "recordIds": [
+        "lower-middle-35"
+      ],
+      "box": "lower-middle",
+      "position": 35,
+      "face": "front"
+    },
+    {
+      "sequence": 78,
+      "pair": 39,
+      "recordId": "lower-middle-35",
+      "recordIds": [
+        "lower-middle-35"
+      ],
+      "box": "lower-middle",
+      "position": 35,
+      "face": "back"
+    },
+    {
+      "sequence": 79,
+      "pair": 40,
+      "recordId": "lower-middle-43",
+      "recordIds": [
+        "lower-middle-43"
+      ],
+      "box": "lower-middle",
+      "position": 43,
+      "face": "front"
+    },
+    {
+      "sequence": 80,
+      "pair": 40,
+      "recordId": "lower-middle-43",
+      "recordIds": [
+        "lower-middle-43"
+      ],
+      "box": "lower-middle",
+      "position": 43,
+      "face": "back"
+    },
+    {
+      "sequence": 81,
+      "pair": 41,
+      "recordId": "lower-middle-44",
+      "recordIds": [
+        "lower-middle-44"
+      ],
+      "box": "lower-middle",
+      "position": 44,
+      "face": "front"
+    },
+    {
+      "sequence": 82,
+      "pair": 41,
+      "recordId": "lower-middle-44",
+      "recordIds": [
+        "lower-middle-44"
+      ],
+      "box": "lower-middle",
+      "position": 44,
+      "face": "back"
+    },
+    {
+      "sequence": 83,
+      "pair": 42,
+      "recordId": "lower-middle-53",
+      "recordIds": [
+        "lower-middle-53"
+      ],
+      "box": "lower-middle",
+      "position": 53,
+      "face": "front"
+    },
+    {
+      "sequence": 84,
+      "pair": 42,
+      "recordId": "lower-middle-53",
+      "recordIds": [
+        "lower-middle-53"
+      ],
+      "box": "lower-middle",
+      "position": 53,
+      "face": "back"
+    },
+    {
+      "sequence": 85,
+      "pair": 43,
+      "recordId": "lower-middle-66",
+      "recordIds": [
+        "lower-middle-66"
+      ],
+      "box": "lower-middle",
+      "position": 66,
+      "face": "front"
+    },
+    {
+      "sequence": 86,
+      "pair": 43,
+      "recordId": "lower-middle-66",
+      "recordIds": [
+        "lower-middle-66"
+      ],
+      "box": "lower-middle",
+      "position": 66,
+      "face": "back"
+    },
+    {
+      "sequence": 87,
+      "pair": 44,
+      "recordId": "lower-middle-69",
+      "recordIds": [
+        "lower-middle-69"
+      ],
+      "box": "lower-middle",
+      "position": 69,
+      "face": "front"
+    },
+    {
+      "sequence": 88,
+      "pair": 44,
+      "recordId": "lower-middle-69",
+      "recordIds": [
+        "lower-middle-69"
+      ],
+      "box": "lower-middle",
+      "position": 69,
+      "face": "back"
+    },
+    {
+      "sequence": 89,
+      "pair": 45,
+      "recordId": "right-04",
+      "recordIds": [
+        "right-04"
+      ],
+      "box": "right",
+      "position": 4,
+      "face": "front"
+    },
+    {
+      "sequence": 90,
+      "pair": 45,
+      "recordId": "right-04",
+      "recordIds": [
+        "right-04"
+      ],
+      "box": "right",
+      "position": 4,
+      "face": "back"
+    },
+    {
+      "sequence": 91,
+      "pair": 46,
+      "recordId": "right-30",
+      "recordIds": [
+        "right-30"
+      ],
+      "box": "right",
+      "position": 30,
+      "face": "front"
+    },
+    {
+      "sequence": 92,
+      "pair": 46,
+      "recordId": "right-30",
+      "recordIds": [
+        "right-30"
+      ],
+      "box": "right",
+      "position": 30,
+      "face": "back"
+    },
+    {
+      "sequence": 93,
+      "pair": 47,
+      "recordId": "right-52",
+      "recordIds": [
+        "right-52"
+      ],
+      "box": "right",
+      "position": 52,
+      "face": "front"
+    },
+    {
+      "sequence": 94,
+      "pair": 47,
+      "recordId": "right-52",
+      "recordIds": [
+        "right-52"
+      ],
+      "box": "right",
+      "position": 52,
+      "face": "back"
+    }
+  ]
+}

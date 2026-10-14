@@ -1,0 +1,678 @@
+{
+  "query": {
+    "catno": "ST3922",
+    "q": "Mary Poppins",
+    "country": "US",
+    "type": "release",
+    "format": "Vinyl",
+    "per_page": 40
+  },
+  "url": "https://api.discogs.com/database/search?catno=ST3922&q=Mary+Poppins&country=US&type=release&format=Vinyl&per_page=40",
+  "data": {
+    "pagination": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 40,
+      "items": 12,
+      "urls": {}
+    },
+    "results": [
+      {
+        "country": "US",
+        "year": "1964",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Walt Disney Music Company",
+          "Walt Disney Productions",
+          "Storyteller"
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 3069104,
+        "barcode": [],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/3069104-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "ST 3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/3069104",
+        "community": {
+          "want": 30,
+          "have": 1574
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1964",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Storyteller"
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 11631055,
+        "barcode": [
+          "ST3922-A-2",
+          "ST3922-B-2"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/11631055-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "ST 3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/11631055",
+        "community": {
+          "want": 16,
+          "have": 1062
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1966",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Reissue"
+        ],
+        "label": [
+          "Disneyland",
+          "Walt Disney Productions",
+          "Storyteller",
+          "Necco Wafers",
+          "Longwear Plating",
+          "All Disc Records, Inc."
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 9784340,
+        "barcode": [
+          "ST-3922-A",
+          "ST-3922-B",
+          "ST-3922-A LW 114",
+          "ST-3922-B LW 114"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/9784340-Various-Story-Of-Mary-Poppins",
+        "catno": "ST-3922-N",
+        "title": "Various - Story Of Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/9784340",
+        "community": {
+          "want": 11,
+          "have": 42
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "All Disc Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1981",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Repress"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Storyteller",
+          "Walt Disney Productions",
+          "H.V. Waddell Co.",
+          "PRC Recording Company, Richmond, IN"
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 8766687,
+        "barcode": [
+          "3922-WRICH-281-SIDE1-I-I-III 4 PRC",
+          "3922-WRICH-581-SIDE B-2-II-I PRC 15"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/8766687-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/8766687",
+        "community": {
+          "want": 13,
+          "have": 104
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "PRC Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1964",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Storyteller"
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 23230451,
+        "barcode": [
+          "ST.3922-A",
+          "ST 3922B"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/23230451-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "ST 3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/23230451",
+        "community": {
+          "want": 3,
+          "have": 106
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1969",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Repress"
+        ],
+        "label": [
+          "Disneyland",
+          "Storyteller",
+          "Sunset Sound Recorders"
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 21880270,
+        "barcode": [
+          "ST3922A SS-BR"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/21880270-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "ST-3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/21880270",
+        "community": {
+          "want": 2,
+          "have": 32
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1971",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Repress",
+          "Mono"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Disneyland",
+          "Storyteller",
+          "Walt Disney Music Company",
+          "Walt Disney Productions",
+          "Longwear Plating",
+          "All Disc Records, Inc."
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 29951395,
+        "barcode": [
+          "ST-3922-A LW",
+          "ST-3922-B LW"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/29951395-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "ST 3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/29951395",
+        "community": {
+          "want": 2,
+          "have": 10
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1969",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Repress",
+          "Mono"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Storyteller",
+          "Walt Disney Music Company",
+          "Walt Disney Productions"
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 27181842,
+        "barcode": [
+          "ST-3922-A-1",
+          "ST-3922-B-1"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/27181842-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "ST 3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/27181842",
+        "community": {
+          "want": 2,
+          "have": 8
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1964",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Storyteller",
+          "Walt Disney Music Company",
+          "Longwear Plating",
+          "All Disc Records, Inc.",
+          "Walt Disney Productions"
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 38201454,
+        "barcode": [
+          "ST-3922-A LW  114",
+          "ST-3922-B LW  114"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/38201454-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "ST 3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/38201454",
+        "community": {
+          "want": 0,
+          "have": 9
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "All Disc Pressing",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1969",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Repress",
+          "Mono"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Walt Disney Productions",
+          "Storyteller",
+          "Walt Disney Music Company",
+          "All Disc Records, Inc."
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story",
+          "Soundtrack"
+        ],
+        "id": 31857707,
+        "barcode": [
+          "ST-3922-A  114  + 114",
+          "ST 3922 B  114"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/31857707-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "ST 3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/31857707",
+        "community": {
+          "want": 1,
+          "have": 6
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "All Disc Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress",
+              "Mono"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1969",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Repress"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Storyteller",
+          "All Disc Records, Inc.",
+          "Walt Disney Productions"
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 37857060,
+        "barcode": [
+          "ST-3922-A 5-29-69 FL 66",
+          "ST 3922B 66"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/37857060-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "ST-3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/37857060",
+        "community": {
+          "want": 0,
+          "have": 3
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "All Disc Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "year": "1975",
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Repress"
+        ],
+        "label": [
+          "Disneyland",
+          "Disneyland",
+          "Storyteller",
+          "Walt Disney Productions",
+          "Walt Disney Music Company",
+          "H.V. Waddell Co.",
+          "H.V. Waddell Co."
+        ],
+        "type": "release",
+        "genre": [
+          "Children's",
+          "Stage & Screen"
+        ],
+        "style": [
+          "Story"
+        ],
+        "id": 38205978,
+        "barcode": [
+          "W",
+          "ST-3922-A-2",
+          "3922 W-W 1173 SIDE B"
+        ],
+        "master_id": 405470,
+        "master_url": "https://api.discogs.com/masters/405470",
+        "uri": "/release/38205978-Various-The-Story-And-Songs-From-Walt-Disneys-Mary-Poppins",
+        "catno": "3922",
+        "title": "Various - The Story And Songs From Walt Disney's Mary Poppins",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/38205978",
+        "community": {
+          "want": 0,
+          "have": 1
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Waddell Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

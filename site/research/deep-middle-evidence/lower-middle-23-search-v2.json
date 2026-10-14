@@ -1,0 +1,73 @@
+{
+  "created": "2026-10-14T03:14:48.806Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "96066e60-4228-44ad-bdce-ad511f3c7cb1",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "2ef28cba-bc2a-3c5d-b7f6-af57ae8b9f1c",
+      "count": 1,
+      "title": "Kid Full of Dreams",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Bim",
+          "artist": {
+            "id": "35e1c560-024c-4605-9dbd-f40385b201c1",
+            "name": "Bim",
+            "sort-name": "Bim",
+            "disambiguation": "aka Roy Forbes"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "982b85ae-b4b9-407d-a2eb-1dc4f8d3ffa0",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Kid Full of Dreams",
+        "primary-type": "Album"
+      },
+      "date": "1975",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "1975",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "label-info": [
+        {
+          "catalog-number": "CA 1007",
+          "label": {
+            "id": "c91783f0-d1ab-4f86-9ec2-2884e02fbfd1",
+            "name": "Casino Records"
+          }
+        }
+      ],
+      "track-count": 12,
+      "media": [
+        {
+          "id": "ada0ddba-3715-38d0-967b-fead15a376c2",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 12
+        }
+      ]
+    }
+  ]
+}

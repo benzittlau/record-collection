@@ -1,0 +1,204 @@
+{
+  "id": "upper-middle-36",
+  "identity": "Landscapes",
+  "searches": [
+    {
+      "query": "rgid:fd4e19e9-928d-43ac-bc29-de36a8a71eac",
+      "url": "https://musicbrainz.org/ws/2/release/?query=rgid%3Afd4e19e9-928d-43ac-bc29-de36a8a71eac&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "9dc981ec-4e33-4530-9349-a23170745d7a",
+      "url": "https://musicbrainz.org/release/9dc981ec-4e33-4530-9349-a23170745d7a",
+      "title": "Landscapes",
+      "artistCredit": [
+        {
+          "name": "Valdy",
+          "artist": {
+            "id": "b265389c-32a8-4ad4-ae8e-69e5ff247d34",
+            "name": "Valdy",
+            "sort-name": "Valdy"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1973",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "HL-5104",
+          "label": {
+            "id": "8081188b-2d7a-4b7c-ad84-c7bbef84de5e",
+            "name": "Haida Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 24958897,
+          "image": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787282403.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "5787282403",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787282403-500.jpg",
+            "small": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787282403-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Front"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 19093467,
+          "image": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/2069836319.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "2069836319",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/2069836319-500.jpg",
+            "small": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/2069836319-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "back": true,
+          "edit": 24958959,
+          "image": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787293534.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "5787293534",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787293534-500.jpg",
+            "small": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787293534-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 24958968,
+          "image": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787304115.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "5787304115",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787304115-500.jpg",
+            "small": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787304115-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 24958972,
+          "image": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787311922.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "5787311922",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787311922-500.jpg",
+            "small": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787311922-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": {
+    "date": "1973",
+    "release-events": [
+      {
+        "area": {
+          "iso-3166-1-codes": [
+            "CA"
+          ],
+          "disambiguation": "",
+          "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+          "sort-name": "Canada",
+          "type-id": null,
+          "name": "Canada",
+          "type": null
+        },
+        "date": "1973"
+      }
+    ],
+    "title": "Landscapes",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "label-info": [
+      {
+        "label": {
+          "id": "8081188b-2d7a-4b7c-ad84-c7bbef84de5e",
+          "label-code": null,
+          "disambiguation": "",
+          "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+          "sort-name": "Haida Records",
+          "name": "Haida Records",
+          "type": "Original Production"
+        },
+        "catalog-number": "HL-5104"
+      }
+    ],
+    "cover-art-archive": {
+      "artwork": true,
+      "front": true,
+      "count": 5,
+      "darkened": false,
+      "back": true
+    },
+    "status": "Official",
+    "quality": "normal",
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "name": "Valdy",
+        "artist": {
+          "id": "b265389c-32a8-4ad4-ae8e-69e5ff247d34",
+          "disambiguation": "",
+          "type": "Person",
+          "name": "Valdy",
+          "sort-name": "Valdy",
+          "country": "CA",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        }
+      }
+    ],
+    "id": "9dc981ec-4e33-4530-9349-a23170745d7a",
+    "media": [
+      {
+        "track-count": 12,
+        "format": "12\" Vinyl",
+        "id": "b4955821-d45b-36c3-943a-227df437c454",
+        "position": 1,
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": ""
+      }
+    ],
+    "country": "CA",
+    "packaging": "Cardboard/Paper Sleeve",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "barcode": "",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "disambiguation": "",
+    "asin": "B001B04YLO"
+  }
+}

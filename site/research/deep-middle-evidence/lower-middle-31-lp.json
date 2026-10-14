@@ -1,0 +1,77 @@
+{
+  "id": "lower-middle-31",
+  "identity": "From the Witchwood",
+  "searches": [
+    {
+      "query": "rgid:9dc36597-f457-3389-a25e-2ee134a1ef98",
+      "url": "https://musicbrainz.org/ws/2/release/?query=rgid%3A9dc36597-f457-3389-a25e-2ee134a1ef98&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "42a5a35b-6912-4798-ac95-b421c440c2dc",
+      "url": "https://musicbrainz.org/release/42a5a35b-6912-4798-ac95-b421c440c2dc",
+      "title": "From the Witchwood",
+      "artistCredit": [
+        {
+          "name": "Strawbs",
+          "artist": {
+            "id": "b0444851-901f-4ab7-a725-ed045ec2be09",
+            "name": "Strawbs",
+            "sort-name": "Strawbs",
+            "disambiguation": "English rock band"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1971",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SP 4304",
+          "label": {
+            "id": "35515729-1f2c-4cc9-9390-9af2764bc56c",
+            "name": "A&M Records"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "6afdba3c-4fa5-4934-81d5-b72c5162e857",
+      "url": "https://musicbrainz.org/release/6afdba3c-4fa5-4934-81d5-b72c5162e857",
+      "title": "From the Witchwood",
+      "artistCredit": [
+        {
+          "name": "Strawbs",
+          "artist": {
+            "id": "b0444851-901f-4ab7-a725-ed045ec2be09",
+            "name": "Strawbs",
+            "sort-name": "Strawbs",
+            "disambiguation": "English rock band"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1971",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "AMLH 64304",
+          "label": {
+            "id": "35515729-1f2c-4cc9-9390-9af2764bc56c",
+            "name": "A&M Records"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    }
+  ],
+  "existingBack": null
+}

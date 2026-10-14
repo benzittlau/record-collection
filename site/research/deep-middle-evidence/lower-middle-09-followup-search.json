@@ -1,0 +1,111 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 40,
+    "items": 2,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "1984",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Kid Stuff Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Pop",
+        "Children's"
+      ],
+      "style": [
+        "Electro"
+      ],
+      "id": 1868117,
+      "barcode": [
+        "0 43948 50501 5",
+        "SRC",
+        "SRC KSS 5050 B1 1-3 fs",
+        "SRC KSS 5050 A1 1-2 fs"
+      ],
+      "master_id": 3000374,
+      "master_url": "https://api.discogs.com/masters/3000374",
+      "uri": "/release/1868117-The-Care-Bears-Birthday-Party",
+      "catno": "KSS 5050",
+      "title": "The Care Bears - Birthday Party",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1868117",
+      "community": {
+        "want": 39,
+        "have": 222
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1984",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Kid Stuff Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Hip Hop",
+        "Pop",
+        "Children's"
+      ],
+      "style": [
+        "Electro"
+      ],
+      "id": 26272115,
+      "barcode": [
+        "KSS-5050-A (unknown initials) 230",
+        "KSS-5050 ('A' scratched over) B (unknown initials) 230"
+      ],
+      "master_id": 3000374,
+      "master_url": "https://api.discogs.com/masters/3000374",
+      "uri": "/release/26272115-The-Care-Bears-Birthday-Party",
+      "catno": "KSS 5050",
+      "title": "The Care Bears - Birthday Party",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26272115",
+      "community": {
+        "want": 0,
+        "have": 15
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ]
+}

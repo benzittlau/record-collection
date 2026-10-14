@@ -1,0 +1,92 @@
+{
+  "id": "upper-middle-13",
+  "identity": "Pleasures of the Harbor",
+  "searches": [
+    {
+      "query": "release:\"Pleasures of the Harbor\" AND artist:\"Phil Ochs\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Pleasures%20of%20the%20Harbor%22%20AND%20artist%3A%22Phil%20Ochs%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "cb4b08f8-796e-30cb-ad6f-2246fc4146b3",
+      "url": "https://musicbrainz.org/release/cb4b08f8-796e-30cb-ad6f-2246fc4146b3",
+      "title": "Pleasures of the Harbor",
+      "artistCredit": [
+        {
+          "name": "Phil Ochs",
+          "artist": {
+            "id": "80cd255d-995c-47f1-a5bc-cc34669a37a0",
+            "name": "Phil Ochs",
+            "sort-name": "Ochs, Phil"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1967-10-31",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SP 4133",
+          "label": {
+            "id": "35515729-1f2c-4cc9-9390-9af2764bc56c",
+            "name": "A&M Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 18773951,
+          "image": "http://coverartarchive.org/release/cb4b08f8-796e-30cb-ad6f-2246fc4146b3/1800662120.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/cb4b08f8-796e-30cb-ad6f-2246fc4146b3/1800662120-500.jpg",
+            "small": "http://coverartarchive.org/release/cb4b08f8-796e-30cb-ad6f-2246fc4146b3/1800662120-250.jpg"
+          },
+          "id": "1800662120"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "ceb4cbe8-9d80-3ef4-bada-2d2035b7a872",
+      "url": "https://musicbrainz.org/release/ceb4cbe8-9d80-3ef4-bada-2d2035b7a872",
+      "title": "Pleasures of the Harbor",
+      "artistCredit": [
+        {
+          "name": "Phil Ochs",
+          "artist": {
+            "id": "80cd255d-995c-47f1-a5bc-cc34669a37a0",
+            "name": "Phil Ochs",
+            "sort-name": "Ochs, Phil"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1967-10-31",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "LP 133",
+          "label": {
+            "id": "35515729-1f2c-4cc9-9390-9af2764bc56c",
+            "name": "A&M Records"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    }
+  ],
+  "existingBack": null
+}

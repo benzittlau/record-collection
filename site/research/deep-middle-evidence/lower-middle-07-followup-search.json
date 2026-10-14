@@ -1,0 +1,103 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 40,
+    "items": 2,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "Canada",
+      "genre": [
+        "Classical"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Stereo"
+      ],
+      "style": [
+        "Renaissance"
+      ],
+      "id": 34229644,
+      "label": [
+        "London Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "150-002A-2Y 1A",
+        "150-002B-3Y 1A"
+      ],
+      "master_id": 0,
+      "master_url": null,
+      "uri": "/release/34229644-Ch%C5%93ur-Des-Moines-De-LAbbaye-Saint-Pierre-De-Solesmes-director-Chant-Gr%C3%A9gorien-Kyriale-Pri%C3%A8res-Lit",
+      "catno": "SPA 4034",
+      "title": "Ch\u0153ur Des Moines De L'Abbaye Saint-Pierre De Solesmes, director* - Chant Gr\u00e9gorien - Kyriale - Pri\u00e8res Litaniques Anciennes",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/34229644",
+      "community": {
+        "want": 0,
+        "have": 1
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1972",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "London Records",
+        "Chant Gr\u00e9gorien"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Renaissance",
+        "Religious"
+      ],
+      "id": 3958360,
+      "barcode": [],
+      "master_id": 728052,
+      "master_url": "https://api.discogs.com/masters/728052",
+      "uri": "/release/3958360-Ch%C5%93ur-Des-Moines-De-LAbbaye-Saint-Pierre-De-Solesmes-Dir-Dom-J-Gajard-OSB-Chant-Gregorien-Kyriale-P",
+      "catno": "SPA 4034",
+      "title": "Ch\u0153ur Des Moines De L'Abbaye Saint-Pierre De Solesmes Dir. Dom J. Gajard O.S.B.* - Chant Gregorien - Kyriale / Pri\u00e8res Litaniques Anciennes -",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3958360",
+      "community": {
+        "want": 1,
+        "have": 64
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    }
+  ]
+}

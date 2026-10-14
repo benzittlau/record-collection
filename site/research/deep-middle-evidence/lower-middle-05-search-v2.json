@@ -1,0 +1,78 @@
+{
+  "created": "2026-10-14T03:14:01.044Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "3f8ef7b5-5934-432b-bd27-345b379f506b",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "2b7d526a-02eb-3a65-bf5d-cf787ef7ba0b",
+      "count": 1,
+      "title": "The Firebird",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Stravinsky",
+          "artist": {
+            "id": "c278de2c-9696-4fdf-a919-0781cd945e2c",
+            "name": "Игорь Фёдорович Стравинский",
+            "sort-name": "Stravinsky, Igor Fyodorovitch",
+            "disambiguation": "Russian composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "London Philharmonic Orchestra",
+          "artist": {
+            "id": "fa37018e-3557-4cb7-973f-555003c30174",
+            "name": "London Philharmonic Orchestra",
+            "sort-name": "London Philharmonic Orchestra",
+            "disambiguation": "orchestra founded in 1932 by Sir Thomas Beecham"
+          }
+        },
+        {
+          "name": "Franz Welser‐Möst",
+          "artist": {
+            "id": "bf039fcb-9617-4e16-81a0-0ae8ae86a839",
+            "name": "Franz Welser‐Möst",
+            "sort-name": "Welser‐Möst, Franz",
+            "disambiguation": "conductor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "6ba825a9-def2-4bb8-9506-6ef8da09ec0f",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "The Firebird",
+        "primary-type": "Album"
+      },
+      "barcode": "724357210324",
+      "asin": "B00000631O",
+      "label-info": [
+        {
+          "catalog-number": "5 72103 2",
+          "label": {
+            "id": "f3b662ac-d029-4c87-a9bd-2f2f65b21e4f",
+            "name": "EMI Classics"
+          }
+        }
+      ],
+      "track-count": 31,
+      "media": [
+        {
+          "id": "2608970c-02b7-3184-a31f-9cd70db6c9e6",
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 31
+        }
+      ]
+    }
+  ]
+}

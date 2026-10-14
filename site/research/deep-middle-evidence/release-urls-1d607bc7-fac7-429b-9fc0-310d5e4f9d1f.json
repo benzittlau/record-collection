@@ -1,0 +1,130 @@
+{
+  "label-info": [
+    {
+      "label": {
+        "id": "b8d33bec-92cc-40d9-bd92-4eb089b401a9",
+        "sort-name": "CBS",
+        "name": "CBS",
+        "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+        "disambiguation": "CBS Records\u2019 international imprint from 1962\u20131990; renamed since 1991 as Columbia",
+        "type": "Imprint",
+        "label-code": 149
+      },
+      "catalog-number": "CBS 450449 1"
+    },
+    {
+      "label": {
+        "disambiguation": "CBS Records\u2019 international imprint from 1962\u20131990; renamed since 1991 as Columbia",
+        "type": "Imprint",
+        "label-code": 149,
+        "id": "b8d33bec-92cc-40d9-bd92-4eb089b401a9",
+        "sort-name": "CBS",
+        "name": "CBS",
+        "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded"
+      },
+      "catalog-number": "SBP 237700"
+    }
+  ],
+  "packaging": "Cardboard/Paper Sleeve",
+  "id": "1d607bc7-fac7-429b-9fc0-310d5e4f9d1f",
+  "status": "Official",
+  "date": "1981-11-09",
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "country": "AU",
+  "quality": "normal",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+    "back": false,
+    "front": true,
+    "artwork": true,
+    "darkened": false,
+    "count": 1
+  },
+  "text-representation": {
+    "language": "eng",
+    "script": "Latn"
+  },
+  "relations": [
+    {
+      "type": "amazon asin",
+      "source-credit": "",
+      "url": {
+        "id": "fdc8e863-88db-4d6e-ac67-f6cc2a3c6625",
+        "resource": "https://www.amazon.com/gp/product/B000088E77"
+      },
+      "direction": "forward",
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {},
+      "target-credit": "",
+      "ended": false,
+      "begin": null,
+      "attribute-values": {},
+      "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+      "target-type": "url"
+    },
+    {
+      "type": "discogs",
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "attributes": [],
+      "url": {
+        "resource": "https://www.discogs.com/release/3192221",
+        "id": "16ade677-59b8-4933-a521-e54a753066b6"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "attribute-values": {}
+    }
+  ],
+  "title": "Business as Usual",
+  "disambiguation": "",
+  "release-events": [
+    {
+      "area": {
+        "type": null,
+        "disambiguation": "",
+        "sort-name": "Australia",
+        "type-id": null,
+        "name": "Australia",
+        "iso-3166-1-codes": [
+          "AU"
+        ],
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e"
+      },
+      "date": "1981-11-09"
+    }
+  ],
+  "barcode": null,
+  "asin": "B000088E77",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "id": "395cc503-63b5-4a0b-a20a-604e3fcacea2",
+        "name": "Men at Work",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Men at Work",
+        "country": "AU",
+        "disambiguation": "Australian rock band",
+        "type": "Group"
+      },
+      "name": "Men at Work"
+    }
+  ],
+  "media": [
+    {
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "title": "",
+      "id": "b5c7d57e-bf34-370c-a4d5-fecfb7269f8b",
+      "position": 1,
+      "track-count": 10,
+      "format": "12\" Vinyl"
+    }
+  ]
+}

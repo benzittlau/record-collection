@@ -1,0 +1,434 @@
+{
+  "id": "lower-middle-38",
+  "query": {
+    "type": "release",
+    "format": "Vinyl",
+    "per_page": 30,
+    "catno": "CSA2249"
+  },
+  "url": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=30&catno=CSA2249",
+  "results": [
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Stereo",
+        "Box Set"
+      ],
+      "label": [
+        "London Records",
+        "London Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Late Romantic",
+        "Symphony",
+        "Orchestra"
+      ],
+      "id": 12235580,
+      "barcode": [],
+      "master_id": 713044,
+      "master_url": "https://api.discogs.com/masters/713044",
+      "uri": "/release/12235580-Mahler-Maureen-ForresterLos-Angeles-Philharmonic-Zubin-Mehta-Symphony-No3-In-D-Minor",
+      "catno": "CSA2249",
+      "title": "Mahler*, Maureen Forrester, The Los Angeles Philharmonic*, Zubin Mehta - Symphony No.3 In D Minor",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12235580",
+      "community": {
+        "want": 59,
+        "have": 67
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1"
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "imageIndex": 0,
+      "local": "/assets/covers/lower-middle-38-deep-discogs-12235580-0.jpg",
+      "sourceUrl": "https://i.discogs.com/jbSdoSA3cS5jAinzXA2Or2T6Q0v2HO2KomWGhdi0-CU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NTgwLTE2MjAxNzM3/MzMtMjM4OC5qcGVn.jpeg",
+      "release": {
+        "id": 12235580,
+        "title": "Symphony No.3 In D Minor",
+        "artists": [
+          {
+            "name": "Gustav Mahler",
+            "anv": "Mahler",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 239236,
+            "resource_url": "https://api.discogs.com/artists/239236",
+            "thumbnail_url": "https://i.discogs.com/9KLp3U6Cg4_9EvcM-ZNirjs56uV-_1QFh70-UM3pSi0/rs:fit/g:sm/q:90/h:599/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzOTIz/Ni0xMzAzMzY0ODcz/LmpwZWc.jpeg"
+          },
+          {
+            "name": "Maureen Forrester",
+            "anv": "",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 833486,
+            "resource_url": "https://api.discogs.com/artists/833486",
+            "thumbnail_url": "https://i.discogs.com/hKlfKs6D6Ah3fYcFBe-Zh2Q4crE1qQia0YLyRzFHCbI/rs:fit/g:sm/q:90/h:411/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMzQ4/Ni0xMjczMjQ1MjQw/LmpwZWc.jpeg"
+          },
+          {
+            "name": "Los Angeles Philharmonic Orchestra",
+            "anv": "The Los Angeles Philharmonic",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 835190,
+            "resource_url": "https://api.discogs.com/artists/835190",
+            "thumbnail_url": "https://i.discogs.com/c7_OtMhGqTz5Cm7RN4QyGliMCg00dfLcGJ_kUVvQ4sA/rs:fit/g:sm/q:90/h:171/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzNTE5/MC0xNjc2ODM5MTgy/LTg5MDkucG5n.jpeg"
+          },
+          {
+            "name": "Zubin Mehta",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 538821,
+            "resource_url": "https://api.discogs.com/artists/538821",
+            "thumbnail_url": "https://i.discogs.com/ret9DAYbkxEtkMHavkath4hGanA1xrkH2PKnD4znzAE/rs:fit/g:sm/q:90/h:600/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzODgy/MS0xMTg1MDMyNzY2/LmpwZWc.jpeg"
+          }
+        ],
+        "country": "US",
+        "year": 1979,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1",
+            "descriptions": []
+          }
+        ],
+        "labels": [
+          {
+            "name": "London Records",
+            "catno": "CSA2249",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1060,
+            "resource_url": "https://api.discogs.com/labels/1060",
+            "thumbnail_url": "https://i.discogs.com/ySoLQMpNKbElzwnl6JvDQ58vM6tf9GKA10UwPC5Lq98/rs:fit/g:sm/q:90/h:290/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNjAt/MTY4MTE3Nzc1Ni02/NzM4LnBuZw.jpeg"
+          },
+          {
+            "name": "London Records",
+            "catno": "CSA-2249",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1060,
+            "resource_url": "https://api.discogs.com/labels/1060",
+            "thumbnail_url": "https://i.discogs.com/ySoLQMpNKbElzwnl6JvDQ58vM6tf9GKA10UwPC5Lq98/rs:fit/g:sm/q:90/h:290/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNjAt/MTY4MTE3Nzc1Ni02/NzM4LnBuZw.jpeg"
+          }
+        ],
+        "notes": "\"Made in England\" printed on labels"
+      },
+      "releaseUrl": "https://www.discogs.com/release/12235580",
+      "error": null,
+      "review": "pending"
+    },
+    {
+      "imageIndex": 1,
+      "local": "/assets/covers/lower-middle-38-deep-discogs-12235580-1.jpg",
+      "sourceUrl": "https://i.discogs.com/VWd5tV-IcUVI8wE2mz7G0Lj-ZuBcEw8jVBs0kjZUcQI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NTgwLTE3MTg3NTE4/MDEtMTE3My5qcGVn.jpeg",
+      "release": {
+        "id": 12235580,
+        "title": "Symphony No.3 In D Minor",
+        "artists": [
+          {
+            "name": "Gustav Mahler",
+            "anv": "Mahler",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 239236,
+            "resource_url": "https://api.discogs.com/artists/239236",
+            "thumbnail_url": "https://i.discogs.com/9KLp3U6Cg4_9EvcM-ZNirjs56uV-_1QFh70-UM3pSi0/rs:fit/g:sm/q:90/h:599/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzOTIz/Ni0xMzAzMzY0ODcz/LmpwZWc.jpeg"
+          },
+          {
+            "name": "Maureen Forrester",
+            "anv": "",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 833486,
+            "resource_url": "https://api.discogs.com/artists/833486",
+            "thumbnail_url": "https://i.discogs.com/hKlfKs6D6Ah3fYcFBe-Zh2Q4crE1qQia0YLyRzFHCbI/rs:fit/g:sm/q:90/h:411/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMzQ4/Ni0xMjczMjQ1MjQw/LmpwZWc.jpeg"
+          },
+          {
+            "name": "Los Angeles Philharmonic Orchestra",
+            "anv": "The Los Angeles Philharmonic",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 835190,
+            "resource_url": "https://api.discogs.com/artists/835190",
+            "thumbnail_url": "https://i.discogs.com/c7_OtMhGqTz5Cm7RN4QyGliMCg00dfLcGJ_kUVvQ4sA/rs:fit/g:sm/q:90/h:171/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzNTE5/MC0xNjc2ODM5MTgy/LTg5MDkucG5n.jpeg"
+          },
+          {
+            "name": "Zubin Mehta",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 538821,
+            "resource_url": "https://api.discogs.com/artists/538821",
+            "thumbnail_url": "https://i.discogs.com/ret9DAYbkxEtkMHavkath4hGanA1xrkH2PKnD4znzAE/rs:fit/g:sm/q:90/h:600/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzODgy/MS0xMTg1MDMyNzY2/LmpwZWc.jpeg"
+          }
+        ],
+        "country": "US",
+        "year": 1979,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1",
+            "descriptions": []
+          }
+        ],
+        "labels": [
+          {
+            "name": "London Records",
+            "catno": "CSA2249",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1060,
+            "resource_url": "https://api.discogs.com/labels/1060",
+            "thumbnail_url": "https://i.discogs.com/ySoLQMpNKbElzwnl6JvDQ58vM6tf9GKA10UwPC5Lq98/rs:fit/g:sm/q:90/h:290/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNjAt/MTY4MTE3Nzc1Ni02/NzM4LnBuZw.jpeg"
+          },
+          {
+            "name": "London Records",
+            "catno": "CSA-2249",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1060,
+            "resource_url": "https://api.discogs.com/labels/1060",
+            "thumbnail_url": "https://i.discogs.com/ySoLQMpNKbElzwnl6JvDQ58vM6tf9GKA10UwPC5Lq98/rs:fit/g:sm/q:90/h:290/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNjAt/MTY4MTE3Nzc1Ni02/NzM4LnBuZw.jpeg"
+          }
+        ],
+        "notes": "\"Made in England\" printed on labels"
+      },
+      "releaseUrl": "https://www.discogs.com/release/12235580",
+      "error": null,
+      "review": "pending"
+    },
+    {
+      "imageIndex": 2,
+      "local": "/assets/covers/lower-middle-38-deep-discogs-12235580-2.jpg",
+      "sourceUrl": "https://i.discogs.com/vyR6i6Pemd7f3XvFoa11oSFb9PH0kOH1pc1gOhtYpiY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NTgwLTE3MTg3NTE4/MDEtNTE1My5qcGVn.jpeg",
+      "release": {
+        "id": 12235580,
+        "title": "Symphony No.3 In D Minor",
+        "artists": [
+          {
+            "name": "Gustav Mahler",
+            "anv": "Mahler",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 239236,
+            "resource_url": "https://api.discogs.com/artists/239236",
+            "thumbnail_url": "https://i.discogs.com/9KLp3U6Cg4_9EvcM-ZNirjs56uV-_1QFh70-UM3pSi0/rs:fit/g:sm/q:90/h:599/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzOTIz/Ni0xMzAzMzY0ODcz/LmpwZWc.jpeg"
+          },
+          {
+            "name": "Maureen Forrester",
+            "anv": "",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 833486,
+            "resource_url": "https://api.discogs.com/artists/833486",
+            "thumbnail_url": "https://i.discogs.com/hKlfKs6D6Ah3fYcFBe-Zh2Q4crE1qQia0YLyRzFHCbI/rs:fit/g:sm/q:90/h:411/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMzQ4/Ni0xMjczMjQ1MjQw/LmpwZWc.jpeg"
+          },
+          {
+            "name": "Los Angeles Philharmonic Orchestra",
+            "anv": "The Los Angeles Philharmonic",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 835190,
+            "resource_url": "https://api.discogs.com/artists/835190",
+            "thumbnail_url": "https://i.discogs.com/c7_OtMhGqTz5Cm7RN4QyGliMCg00dfLcGJ_kUVvQ4sA/rs:fit/g:sm/q:90/h:171/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzNTE5/MC0xNjc2ODM5MTgy/LTg5MDkucG5n.jpeg"
+          },
+          {
+            "name": "Zubin Mehta",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 538821,
+            "resource_url": "https://api.discogs.com/artists/538821",
+            "thumbnail_url": "https://i.discogs.com/ret9DAYbkxEtkMHavkath4hGanA1xrkH2PKnD4znzAE/rs:fit/g:sm/q:90/h:600/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzODgy/MS0xMTg1MDMyNzY2/LmpwZWc.jpeg"
+          }
+        ],
+        "country": "US",
+        "year": 1979,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1",
+            "descriptions": []
+          }
+        ],
+        "labels": [
+          {
+            "name": "London Records",
+            "catno": "CSA2249",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1060,
+            "resource_url": "https://api.discogs.com/labels/1060",
+            "thumbnail_url": "https://i.discogs.com/ySoLQMpNKbElzwnl6JvDQ58vM6tf9GKA10UwPC5Lq98/rs:fit/g:sm/q:90/h:290/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNjAt/MTY4MTE3Nzc1Ni02/NzM4LnBuZw.jpeg"
+          },
+          {
+            "name": "London Records",
+            "catno": "CSA-2249",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1060,
+            "resource_url": "https://api.discogs.com/labels/1060",
+            "thumbnail_url": "https://i.discogs.com/ySoLQMpNKbElzwnl6JvDQ58vM6tf9GKA10UwPC5Lq98/rs:fit/g:sm/q:90/h:290/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNjAt/MTY4MTE3Nzc1Ni02/NzM4LnBuZw.jpeg"
+          }
+        ],
+        "notes": "\"Made in England\" printed on labels"
+      },
+      "releaseUrl": "https://www.discogs.com/release/12235580",
+      "error": null,
+      "review": "pending"
+    },
+    {
+      "imageIndex": 3,
+      "local": "/assets/covers/lower-middle-38-deep-discogs-12235580-3.jpg",
+      "sourceUrl": "https://i.discogs.com/RRPO0XCG_IVLoUt5TR1SoRAxntyY90btqp29d7ynANk/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM1/NTgwLTE3MTg3NTE4/MDEtMTkxNC5qcGVn.jpeg",
+      "release": {
+        "id": 12235580,
+        "title": "Symphony No.3 In D Minor",
+        "artists": [
+          {
+            "name": "Gustav Mahler",
+            "anv": "Mahler",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 239236,
+            "resource_url": "https://api.discogs.com/artists/239236",
+            "thumbnail_url": "https://i.discogs.com/9KLp3U6Cg4_9EvcM-ZNirjs56uV-_1QFh70-UM3pSi0/rs:fit/g:sm/q:90/h:599/w:457/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzOTIz/Ni0xMzAzMzY0ODcz/LmpwZWc.jpeg"
+          },
+          {
+            "name": "Maureen Forrester",
+            "anv": "",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 833486,
+            "resource_url": "https://api.discogs.com/artists/833486",
+            "thumbnail_url": "https://i.discogs.com/hKlfKs6D6Ah3fYcFBe-Zh2Q4crE1qQia0YLyRzFHCbI/rs:fit/g:sm/q:90/h:411/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzMzQ4/Ni0xMjczMjQ1MjQw/LmpwZWc.jpeg"
+          },
+          {
+            "name": "Los Angeles Philharmonic Orchestra",
+            "anv": "The Los Angeles Philharmonic",
+            "join": ",",
+            "role": "",
+            "tracks": "",
+            "id": 835190,
+            "resource_url": "https://api.discogs.com/artists/835190",
+            "thumbnail_url": "https://i.discogs.com/c7_OtMhGqTz5Cm7RN4QyGliMCg00dfLcGJ_kUVvQ4sA/rs:fit/g:sm/q:90/h:171/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzNTE5/MC0xNjc2ODM5MTgy/LTg5MDkucG5n.jpeg"
+          },
+          {
+            "name": "Zubin Mehta",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 538821,
+            "resource_url": "https://api.discogs.com/artists/538821",
+            "thumbnail_url": "https://i.discogs.com/ret9DAYbkxEtkMHavkath4hGanA1xrkH2PKnD4znzAE/rs:fit/g:sm/q:90/h:600/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzODgy/MS0xMTg1MDMyNzY2/LmpwZWc.jpeg"
+          }
+        ],
+        "country": "US",
+        "year": 1979,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1",
+            "descriptions": []
+          }
+        ],
+        "labels": [
+          {
+            "name": "London Records",
+            "catno": "CSA2249",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1060,
+            "resource_url": "https://api.discogs.com/labels/1060",
+            "thumbnail_url": "https://i.discogs.com/ySoLQMpNKbElzwnl6JvDQ58vM6tf9GKA10UwPC5Lq98/rs:fit/g:sm/q:90/h:290/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNjAt/MTY4MTE3Nzc1Ni02/NzM4LnBuZw.jpeg"
+          },
+          {
+            "name": "London Records",
+            "catno": "CSA-2249",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 1060,
+            "resource_url": "https://api.discogs.com/labels/1060",
+            "thumbnail_url": "https://i.discogs.com/ySoLQMpNKbElzwnl6JvDQ58vM6tf9GKA10UwPC5Lq98/rs:fit/g:sm/q:90/h:290/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNjAt/MTY4MTE3Nzc1Ni02/NzM4LnBuZw.jpeg"
+          }
+        ],
+        "notes": "\"Made in England\" printed on labels"
+      },
+      "releaseUrl": "https://www.discogs.com/release/12235580",
+      "error": null,
+      "review": "pending"
+    }
+  ]
+}

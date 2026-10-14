@@ -1,0 +1,213 @@
+{
+  "id": "upper-middle-44",
+  "identity": "Apocalypse",
+  "searches": [
+    {
+      "query": "release:\"Apocalypse\" AND artist:\"Mahavishnu Orchestra\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Apocalypse%22%20AND%20artist%3A%22Mahavishnu%20Orchestra%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "2be10f88-1374-428b-a67f-38a193d4b05e",
+      "url": "https://musicbrainz.org/release/2be10f88-1374-428b-a67f-38a193d4b05e",
+      "title": "Apocalypse",
+      "artistCredit": [
+        {
+          "joinphrase": " with ",
+          "name": "Mahavishnu Orchestra",
+          "artist": {
+            "id": "a2be74f5-0735-46f7-a295-7e41aab30029",
+            "name": "Mahavishnu Orchestra",
+            "sort-name": "Mahavishnu Orchestra"
+          }
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "artist": {
+            "id": "38712b4c-0fd4-4c65-8c7a-45676fecc973",
+            "name": "London Symphony Orchestra",
+            "sort-name": "London Symphony Orchestra"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1974",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "KC 32957",
+          "label": {
+            "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+            "name": "Columbia"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "edit": 46009881,
+          "id": 16996565232,
+          "back": false,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/2be10f88-1374-428b-a67f-38a193d4b05e/16996565232-250.jpg",
+            "large": "http://coverartarchive.org/release/2be10f88-1374-428b-a67f-38a193d4b05e/16996565232-500.jpg"
+          },
+          "image": "http://coverartarchive.org/release/2be10f88-1374-428b-a67f-38a193d4b05e/16996565232.jpg",
+          "types": [
+            "Front"
+          ],
+          "comment": "",
+          "front": true
+        },
+        {
+          "id": 16996566735,
+          "back": true,
+          "edit": 46009883,
+          "approved": true,
+          "image": "http://coverartarchive.org/release/2be10f88-1374-428b-a67f-38a193d4b05e/16996566735.jpg",
+          "comment": "",
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/2be10f88-1374-428b-a67f-38a193d4b05e/16996566735-250.jpg",
+            "large": "http://coverartarchive.org/release/2be10f88-1374-428b-a67f-38a193d4b05e/16996566735-500.jpg"
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "68b73b64-a80b-4f64-a2fa-5d1c10cc5256",
+      "url": "https://musicbrainz.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256",
+      "title": "Apocalypse",
+      "artistCredit": [
+        {
+          "joinphrase": " With ",
+          "name": "Mahavishnu Orchestra",
+          "artist": {
+            "id": "a2be74f5-0735-46f7-a295-7e41aab30029",
+            "name": "Mahavishnu Orchestra",
+            "sort-name": "Mahavishnu Orchestra"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "London Symphony Orchestra",
+          "artist": {
+            "id": "38712b4c-0fd4-4c65-8c7a-45676fecc973",
+            "name": "London Symphony Orchestra",
+            "sort-name": "London Symphony Orchestra"
+          }
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "artist": {
+            "id": "f6df125a-a83c-4161-8cbe-48f4a3a7cad5",
+            "name": "Michael Tilson Thomas",
+            "sort-name": "Tilson Thomas, Michael",
+            "disambiguation": "conductor and pianist"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1974",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "KC 32957",
+          "label": {
+            "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+            "name": "Columbia"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 130890657,
+          "front": true,
+          "id": 42762669714,
+          "image": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762669714.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762669714-1200.jpg",
+            "250": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762669714-250.jpg",
+            "500": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762669714-500.jpg",
+            "large": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762669714-500.jpg",
+            "small": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762669714-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 130890659,
+          "front": false,
+          "id": 42762670332,
+          "image": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670332.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670332-1200.jpg",
+            "250": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670332-250.jpg",
+            "500": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670332-500.jpg",
+            "large": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670332-500.jpg",
+            "small": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670332-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 130890661,
+          "front": false,
+          "id": 42762670681,
+          "image": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670681.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670681-1200.jpg",
+            "250": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670681-250.jpg",
+            "500": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670681-500.jpg",
+            "large": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670681-500.jpg",
+            "small": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762670681-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 130890663,
+          "front": false,
+          "id": 42762671092,
+          "image": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762671092.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762671092-1200.jpg",
+            "250": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762671092-250.jpg",
+            "500": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762671092-500.jpg",
+            "large": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762671092-500.jpg",
+            "small": "https://coverartarchive.org/release/68b73b64-a80b-4f64-a2fa-5d1c10cc5256/42762671092-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

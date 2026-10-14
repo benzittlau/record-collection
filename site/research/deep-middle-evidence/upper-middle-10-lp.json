@@ -1,0 +1,235 @@
+{
+  "id": "upper-middle-10",
+  "identity": "Spartacus",
+  "searches": [
+    {
+      "query": "release:\"Spartacus\" AND artist:\"Triumvirat\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Spartacus%22%20AND%20artist%3A%22Triumvirat%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "605a76bb-24d7-3f26-8833-3bf6405019ac",
+      "url": "https://musicbrainz.org/release/605a76bb-24d7-3f26-8833-3bf6405019ac",
+      "title": "Spartacus",
+      "artistCredit": [
+        {
+          "name": "Triumvirat",
+          "artist": {
+            "id": "22865dd6-d99f-4658-84f0-16c5a437ebaf",
+            "name": "Triumvirat",
+            "sort-name": "Triumvirat",
+            "disambiguation": "progressive rock band formed in 1969 in Cologne, Germany"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1975",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "ST-11392",
+          "label": {
+            "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+            "name": "Capitol Records"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "49c94861-8870-4de2-b63c-f7fca24af1d0",
+      "url": "https://musicbrainz.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0",
+      "title": "Spartacus",
+      "artistCredit": [
+        {
+          "name": "Triumvirat",
+          "artist": {
+            "id": "22865dd6-d99f-4658-84f0-16c5a437ebaf",
+            "name": "Triumvirat",
+            "sort-name": "Triumvirat",
+            "disambiguation": "progressive rock band formed in 1969 in Cologne, Germany"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SN 16121",
+          "label": {
+            "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+            "name": "Capitol Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 90823207,
+          "front": true,
+          "id": 32902229359,
+          "image": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229359.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229359-1200.jpg",
+            "250": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229359-250.jpg",
+            "500": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229359-500.jpg",
+            "large": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229359-500.jpg",
+            "small": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229359-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 90823209,
+          "front": false,
+          "id": 32902229880,
+          "image": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229880.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229880-1200.jpg",
+            "250": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229880-250.jpg",
+            "500": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229880-500.jpg",
+            "large": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229880-500.jpg",
+            "small": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229880-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 90823210,
+          "front": false,
+          "id": 32902230414,
+          "image": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230414.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230414-1200.jpg",
+            "250": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230414-250.jpg",
+            "500": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230414-500.jpg",
+            "large": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230414-500.jpg",
+            "small": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230414-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 90823211,
+          "front": false,
+          "id": 32902230947,
+          "image": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230947.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230947-1200.jpg",
+            "250": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230947-250.jpg",
+            "500": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230947-500.jpg",
+            "large": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230947-500.jpg",
+            "small": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902230947-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "8490bd63-d0ca-4850-8cf5-97973e331313",
+      "url": "https://musicbrainz.org/release/8490bd63-d0ca-4850-8cf5-97973e331313",
+      "title": "Spartacus",
+      "artistCredit": [
+        {
+          "name": "Triumvirat",
+          "artist": {
+            "id": "22865dd6-d99f-4658-84f0-16c5a437ebaf",
+            "name": "Triumvirat",
+            "sort-name": "Triumvirat",
+            "disambiguation": "progressive rock band formed in 1969 in Cologne, Germany"
+          }
+        }
+      ],
+      "country": "DE",
+      "date": "1975",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "1C 062-29567",
+          "label": {
+            "id": "993af7f6-bb99-456b-83e7-5e728ea80a0e",
+            "name": "Harvest"
+          }
+        }
+      ],
+      "images": [
+        {
+          "id": "13755002578",
+          "edit": 39112353,
+          "types": [
+            "Front"
+          ],
+          "comment": "",
+          "image": "http://coverartarchive.org/release/8490bd63-d0ca-4850-8cf5-97973e331313/13755002578.jpg",
+          "approved": true,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/8490bd63-d0ca-4850-8cf5-97973e331313/13755002578-250.jpg",
+            "large": "http://coverartarchive.org/release/8490bd63-d0ca-4850-8cf5-97973e331313/13755002578-500.jpg"
+          },
+          "back": false,
+          "front": true
+        },
+        {
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/8490bd63-d0ca-4850-8cf5-97973e331313/13755004934-250.jpg",
+            "large": "http://coverartarchive.org/release/8490bd63-d0ca-4850-8cf5-97973e331313/13755004934-500.jpg"
+          },
+          "back": true,
+          "front": false,
+          "approved": true,
+          "comment": "",
+          "image": "http://coverartarchive.org/release/8490bd63-d0ca-4850-8cf5-97973e331313/13755004934.jpg",
+          "types": [
+            "Back"
+          ],
+          "edit": 39112354,
+          "id": "13755004934"
+        },
+        {
+          "comment": "",
+          "image": "http://coverartarchive.org/release/8490bd63-d0ca-4850-8cf5-97973e331313/13755006322.jpg",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/8490bd63-d0ca-4850-8cf5-97973e331313/13755006322-500.jpg",
+            "small": "http://coverartarchive.org/release/8490bd63-d0ca-4850-8cf5-97973e331313/13755006322-250.jpg"
+          },
+          "back": false,
+          "front": false,
+          "approved": true,
+          "edit": 39112355,
+          "id": "13755006322",
+          "types": [
+            "Medium"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

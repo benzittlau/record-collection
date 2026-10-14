@@ -1,0 +1,880 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "items": 25,
+    "urls": {}
+  },
+  "filters": {
+    "applied": {
+      "format": [
+        "Vinyl"
+      ]
+    },
+    "available": {
+      "label": {
+        "Generation Sound Studios": 17,
+        "Abc Impulse!": 13,
+        "Kundalini Music": 12,
+        "Abc Records, Inc.": 10,
+        "Impulse!": 8,
+        "Kendun Recorders": 7,
+        "Mca Records": 7,
+        "Mca Records, Inc.": 7,
+        "Westlake Studios": 5,
+        "Victor Musical Industries, Inc.": 4,
+        "Abc Records": 3,
+        "Columbia Records Pressing Plant, Terre Haute": 3,
+        "Nippon Columbia Co., Ltd.": 3,
+        "Discos Mediterraneo, S.A.": 2,
+        "Jazztime Now!!": 2,
+        "Mca Pressing Plant, Gloversville": 2,
+        "\"Jazz The Best\" Lp Collection": 1,
+        "Anchor Records Ltd.": 1,
+        "Carrere Distribution": 1,
+        "Dischi Ricordi S.P.A.": 1,
+        "Emi Italiana": 1,
+        "Gramofonia, S.A.": 1,
+        "Grt Of Canada Ltd.": 1,
+        "Iberofon, S.A.": 1,
+        "Jazz Right Now": 1,
+        "Mca Impulse!": 1,
+        "Mediterraneo": 1,
+        "Moviegraf": 1,
+        "Movieplay": 1,
+        "Rca Limited": 1,
+        "Rca Victor Studios, Montreal": 1,
+        "Robert Stace": 1,
+        "Toshiba Emi Ltd": 1,
+        "Universal Music K.K.": 1,
+        "Victor Company Of Japan, Ltd.": 1,
+        "\u30a4\u30f3\u30d1\u30eb\u30b9\u30fb\u30b0\u30ec\u30a4\u30c8\u30fb\u30b8\u30e3\u30ba": 1,
+        "\u30a4\u30f3\u30d1\u30eb\u30b9\u6c7a\u5b9a\u76e41500\u30b3\u30ec\u30af\u30b7\u30e7\u30f3": 1,
+        "\u30b8\u30e3\u30ba\u30fb\u30ec\u30fc\u30d9\u30eb\u306e\u91d1\u5b57\u5854": 1
+      },
+      "country": {
+        "Japan": 9,
+        "US": 7,
+        "Canada": 2,
+        "Italy": 2,
+        "Spain": 2,
+        "UK": 2,
+        "France": 1
+      },
+      "released": {
+        "1975": 11,
+        "1976": 4,
+        "1978": 1,
+        "1979": 4,
+        "1980": 3,
+        "2004": 1
+      }
+    }
+  },
+  "filter_facets": [
+    {
+      "title": "Label",
+      "id": "label",
+      "values": [
+        {
+          "title": "Generation Sound Studios",
+          "value": "Generation+Sound+Studios",
+          "count": 17
+        },
+        {
+          "title": "Abc Impulse!",
+          "value": "Abc+Impulse%21",
+          "count": 13
+        },
+        {
+          "title": "Kundalini Music",
+          "value": "Kundalini+Music",
+          "count": 12
+        },
+        {
+          "title": "Abc Records, Inc.",
+          "value": "Abc+Records%2C+Inc.",
+          "count": 10
+        },
+        {
+          "title": "Impulse!",
+          "value": "Impulse%21",
+          "count": 8
+        },
+        {
+          "title": "Kendun Recorders",
+          "value": "Kendun+Recorders",
+          "count": 7
+        },
+        {
+          "title": "Mca Records",
+          "value": "Mca+Records",
+          "count": 7
+        },
+        {
+          "title": "Mca Records, Inc.",
+          "value": "Mca+Records%2C+Inc.",
+          "count": 7
+        },
+        {
+          "title": "Westlake Studios",
+          "value": "Westlake+Studios",
+          "count": 5
+        },
+        {
+          "title": "Victor Musical Industries, Inc.",
+          "value": "Victor+Musical+Industries%2C+Inc.",
+          "count": 4
+        },
+        {
+          "title": "Abc Records",
+          "value": "Abc+Records",
+          "count": 3
+        },
+        {
+          "title": "Columbia Records Pressing Plant, Terre Haute",
+          "value": "Columbia+Records+Pressing+Plant%2C+Terre+Haute",
+          "count": 3
+        },
+        {
+          "title": "Nippon Columbia Co., Ltd.",
+          "value": "Nippon+Columbia+Co.%2C+Ltd.",
+          "count": 3
+        },
+        {
+          "title": "Discos Mediterraneo, S.A.",
+          "value": "Discos+Mediterraneo%2C+S.A.",
+          "count": 2
+        },
+        {
+          "title": "Jazztime Now!!",
+          "value": "Jazztime+Now%21%21",
+          "count": 2
+        },
+        {
+          "title": "Mca Pressing Plant, Gloversville",
+          "value": "Mca+Pressing+Plant%2C+Gloversville",
+          "count": 2
+        },
+        {
+          "title": "\"Jazz The Best\" Lp Collection",
+          "value": "%22Jazz+The+Best%22+Lp+Collection",
+          "count": 1
+        },
+        {
+          "title": "Anchor Records Ltd.",
+          "value": "Anchor+Records+Ltd.",
+          "count": 1
+        },
+        {
+          "title": "Carrere Distribution",
+          "value": "Carrere+Distribution",
+          "count": 1
+        },
+        {
+          "title": "Dischi Ricordi S.P.A.",
+          "value": "Dischi+Ricordi+S.P.A.",
+          "count": 1
+        },
+        {
+          "title": "Emi Italiana",
+          "value": "Emi+Italiana",
+          "count": 1
+        },
+        {
+          "title": "Gramofonia, S.A.",
+          "value": "Gramofonia%2C+S.A.",
+          "count": 1
+        },
+        {
+          "title": "Grt Of Canada Ltd.",
+          "value": "Grt+Of+Canada+Ltd.",
+          "count": 1
+        },
+        {
+          "title": "Iberofon, S.A.",
+          "value": "Iberofon%2C+S.A.",
+          "count": 1
+        },
+        {
+          "title": "Jazz Right Now",
+          "value": "Jazz+Right+Now",
+          "count": 1
+        },
+        {
+          "title": "Mca Impulse!",
+          "value": "Mca+Impulse%21",
+          "count": 1
+        },
+        {
+          "title": "Mediterraneo",
+          "value": "Mediterraneo",
+          "count": 1
+        },
+        {
+          "title": "Moviegraf",
+          "value": "Moviegraf",
+          "count": 1
+        },
+        {
+          "title": "Movieplay",
+          "value": "Movieplay",
+          "count": 1
+        },
+        {
+          "title": "Rca Limited",
+          "value": "Rca+Limited",
+          "count": 1
+        },
+        {
+          "title": "Rca Victor Studios, Montreal",
+          "value": "Rca+Victor+Studios%2C+Montreal",
+          "count": 1
+        },
+        {
+          "title": "Robert Stace",
+          "value": "Robert+Stace",
+          "count": 1
+        },
+        {
+          "title": "Toshiba Emi Ltd",
+          "value": "Toshiba+Emi+Ltd",
+          "count": 1
+        },
+        {
+          "title": "Universal Music K.K.",
+          "value": "Universal+Music+K.K.",
+          "count": 1
+        },
+        {
+          "title": "Victor Company Of Japan, Ltd.",
+          "value": "Victor+Company+Of+Japan%2C+Ltd.",
+          "count": 1
+        },
+        {
+          "title": "\u30a4\u30f3\u30d1\u30eb\u30b9\u30fb\u30b0\u30ec\u30a4\u30c8\u30fb\u30b8\u30e3\u30ba",
+          "value": "%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%BA",
+          "count": 1
+        },
+        {
+          "title": "\u30a4\u30f3\u30d1\u30eb\u30b9\u6c7a\u5b9a\u76e41500\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+          "value": "%E3%82%A4%E3%83%B3%E3%83%91%E3%83%AB%E3%82%B9%E6%B1%BA%E5%AE%9A%E7%9B%A41500%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+          "count": 1
+        },
+        {
+          "title": "\u30b8\u30e3\u30ba\u30fb\u30ec\u30fc\u30d9\u30eb\u306e\u91d1\u5b57\u5854",
+          "value": "%E3%82%B8%E3%83%A3%E3%82%BA%E3%83%BB%E3%83%AC%E3%83%BC%E3%83%99%E3%83%AB%E3%81%AE%E9%87%91%E5%AD%97%E5%A1%94",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Country",
+      "id": "country",
+      "values": [
+        {
+          "title": "Japan",
+          "value": "Japan",
+          "count": 9
+        },
+        {
+          "title": "US",
+          "value": "US",
+          "count": 7
+        },
+        {
+          "title": "Canada",
+          "value": "Canada",
+          "count": 2
+        },
+        {
+          "title": "Italy",
+          "value": "Italy",
+          "count": 2
+        },
+        {
+          "title": "Spain",
+          "value": "Spain",
+          "count": 2
+        },
+        {
+          "title": "UK",
+          "value": "UK",
+          "count": 2
+        },
+        {
+          "title": "France",
+          "value": "France",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Released",
+      "id": "released",
+      "values": [
+        {
+          "title": "1975",
+          "value": "1975",
+          "count": 11
+        },
+        {
+          "title": "1976",
+          "value": "1976",
+          "count": 4
+        },
+        {
+          "title": "1978",
+          "value": "1978",
+          "count": 1
+        },
+        {
+          "title": "1979",
+          "value": "1979",
+          "count": 4
+        },
+        {
+          "title": "1980",
+          "value": "1980",
+          "count": 3
+        },
+        {
+          "title": "2004",
+          "value": "2004",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": false
+    }
+  ],
+  "versions": [
+    {
+      "id": 4790929,
+      "label": "ABC Impulse!",
+      "country": "Canada",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "9027-9301",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/4790929",
+      "thumb": "https://i.discogs.com/Orffmzd40EgfUqyBw_uWh24ztih72KAk_6QoegEJeDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3OTA5/MjktMTM3NTYzNTE2/My0yMTMzLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 39,
+          "in_collection": 55
+        }
+      }
+    },
+    {
+      "id": 9342779,
+      "label": "ABC Impulse!",
+      "country": "US",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Stereo, Quadraphonic",
+      "catno": "ASD-9301",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/9342779",
+      "thumb": "https://i.discogs.com/1txxaz6WEUgIJKR7vYEY7YKzslWE-xa2PIjB28ERTQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDI3/NzktMTUxNjM0NTUz/MC05MjczLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 69,
+          "in_collection": 440
+        }
+      }
+    },
+    {
+      "id": 11670698,
+      "label": "Impulse!",
+      "country": "Canada",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "ASD-9301",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/11670698",
+      "thumb": "https://i.discogs.com/1cJercYdlnT32o55hnFV1tXwD3yes7QxQrJ75f6ycOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjcw/Njk4LTE1MjAzNzU4/NDAtNzk2Ny5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 33,
+          "in_collection": 44
+        }
+      }
+    },
+    {
+      "id": 6609425,
+      "label": "ABC Impulse!",
+      "country": "US",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Promo, Stereo, Quadraphonic",
+      "catno": "ASD-9301",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/6609425",
+      "thumb": "https://i.discogs.com/qMx22kcnBSZdQicZehbGhMj821LdZG5NmhNpqXQY_KY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MDk0/MjUtMTc1MjMyNjI1/OC00ODQzLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 46,
+          "in_collection": 59
+        }
+      }
+    },
+    {
+      "id": 14924823,
+      "label": "Impulse!",
+      "country": "UK",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Single Sided, White Label",
+      "catno": "IMPL 8006",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/14924823",
+      "thumb": "",
+      "stats": {
+        "community": {
+          "in_wantlist": 30,
+          "in_collection": 0
+        }
+      }
+    },
+    {
+      "id": 3677262,
+      "label": "Impulse!",
+      "country": "UK",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "IMPL 8006",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/3677262",
+      "thumb": "https://i.discogs.com/AmEbZSgw5mfNujNY-uynmZUsDWU1FDURc7jog8Yik8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzcy/NjItMTM1MTc3Nzk1/NC0zMDk3LmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 72,
+          "in_collection": 311
+        }
+      }
+    },
+    {
+      "id": 2422933,
+      "label": "ABC Impulse!",
+      "country": "France",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "AS-9301",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/2422933",
+      "thumb": "https://i.discogs.com/3BWphWny5xm_6hIUaW8uaXZQpdrdaqGM9tB8P3ZjuEw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjI5/MzMtMTU5NDExNDM2/Mi0xMjE5LmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 51,
+          "in_collection": 135
+        }
+      }
+    },
+    {
+      "id": 5671029,
+      "label": "Impulse!",
+      "country": "Japan",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Reissue, Stereo",
+      "catno": "IMJ-80030",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/5671029",
+      "thumb": "https://i.discogs.com/09U2MDvkWi1kRfXAKSVSm3guPwkDqr-wBtvDZiSV3u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzEw/MjktMTQ3MTA4OTc0/Ni03MDM5LmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 65,
+          "in_collection": 223
+        }
+      }
+    },
+    {
+      "id": 23033180,
+      "label": "ABC Impulse!",
+      "country": "US",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Test Pressing, Stereo, Quadraphonic",
+      "catno": "ASD-9301",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/23033180",
+      "thumb": "https://i.discogs.com/dFMr16RaOYWn_-P1eJ2YG2d7a_BUMjXJDpR9p2AVzg8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDMz/MTgwLTE2NTEwODY1/NjUtNzg0Mi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 27,
+          "in_collection": 0
+        }
+      }
+    },
+    {
+      "id": 430419,
+      "label": "ABC Impulse!",
+      "country": "US",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Stereo, Quadraphonic, Album",
+      "catno": "ASD-9301",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/430419",
+      "thumb": "https://i.discogs.com/s8NPh1K8fqK9ahi5JXkDhgbgOTSwPn4VT8z-AJLNGO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDQx/OS0xNTg4MDkwNzc1/LTMyNDYuanBlZw.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 188,
+          "in_collection": 1064
+        }
+      }
+    },
+    {
+      "id": 5196471,
+      "label": "ABC Records",
+      "country": "Italy",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Stereo",
+      "catno": "3C 064-96336, ASD-9301",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/5196471",
+      "thumb": "https://i.discogs.com/Yjy42JgtpCVr4QhpxXpQm-1_fqMCEE6Shu14SKBjSyA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTY0/NzEtMTUxMDY4NTYy/MC05NzczLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 40,
+          "in_collection": 66
+        }
+      }
+    },
+    {
+      "id": 4313024,
+      "label": "Impulse!",
+      "country": "Spain",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "17.1101/4",
+      "released": "1976",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/4313024",
+      "thumb": "https://i.discogs.com/FSy4v-_4aLSYmto-JXog3oRSssDilupGtszSn0pqyFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTMw/MjQtMTU5ODQzODcy/Mi01NDYwLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 39,
+          "in_collection": 33
+        }
+      }
+    },
+    {
+      "id": 5673346,
+      "label": "ABC Impulse!",
+      "country": "Spain",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "LP 0103, LP-0103",
+      "released": "1976",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/5673346",
+      "thumb": "https://i.discogs.com/7ONi5FIZuedFG4HIZb6wRsZ6TnHCaENsicB9HCQYFnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NzMz/NDYtMTM5OTU2OTgy/Mi05NzA0LmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 39,
+          "in_collection": 26
+        }
+      }
+    },
+    {
+      "id": 21646027,
+      "label": "ABC Impulse!",
+      "country": "Japan",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Promo",
+      "catno": "YQ-8504-AI",
+      "released": "1976",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/21646027",
+      "thumb": "https://i.discogs.com/P-mTGUp_Zgj2Xh-n3YqsKlfB1tvYi3ifWQ075rZtvFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQ2/MDI3LTE2NDE1OTY2/NDEtODYxNy5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 25,
+          "in_collection": 4
+        }
+      }
+    },
+    {
+      "id": 3763193,
+      "label": "ABC Impulse!",
+      "country": "Japan",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "YQ-8504-AI",
+      "released": "1976",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/3763193",
+      "thumb": "https://i.discogs.com/w7yjza4KUwGJR8QFjGERZuKkL_QHN1_BeuF6VVkFfo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjMx/OTMtMTUwMTg0MDQx/My00OTIwLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 46,
+          "in_collection": 143
+        }
+      }
+    },
+    {
+      "id": 11750117,
+      "label": "ABC Impulse!",
+      "country": "Japan",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Repress",
+      "catno": "YX-8557-AI",
+      "released": "1978",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/11750117",
+      "thumb": "https://i.discogs.com/0j4u1bSJRHRR4WvuJ9N5kZN16NXKMtvVTA272V8UFdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzUw/MTE3LTE3MzM5ODIy/MjAtNTQwNy5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 37,
+          "in_collection": 48
+        }
+      }
+    },
+    {
+      "id": 6626426,
+      "label": "MCA Records",
+      "country": "Japan",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Reissue",
+      "catno": "VIM-4601",
+      "released": "1979",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/6626426",
+      "thumb": "https://i.discogs.com/eXveYLtrfvW29Esazozg0CDZgndwC9gov25qOiYauCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjY0/MjYtMTQ3Mzc1NzAy/MC0xODQyLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 42,
+          "in_collection": 224
+        }
+      }
+    },
+    {
+      "id": 37001862,
+      "label": "MCA Records",
+      "country": "Japan",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Promo",
+      "catno": "VIM-4601",
+      "released": "1979",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/37001862",
+      "thumb": "https://i.discogs.com/LzA8TijNkWpoBdfhM3wTJLlddQqjPDaYjHeuiPcLPQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDAx/ODYyLTE3NzU1Nzcy/NzEtODU4Ni5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 5,
+          "in_collection": 2
+        }
+      }
+    },
+    {
+      "id": 8777361,
+      "label": "MCA Records",
+      "country": "Japan",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Limited Edition, Reissue",
+      "catno": "VIM-5646",
+      "released": "1979",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/8777361",
+      "thumb": "https://i.discogs.com/9F44OV0LqpjX_15NWLLCbjXTrSXY8U4dlfVlc7n0zx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3Nzcz/NjEtMTQ2ODU1Nzg2/NC05NDg1LnBuZw.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 42,
+          "in_collection": 64
+        }
+      }
+    },
+    {
+      "id": 11324364,
+      "label": "MCA Records",
+      "country": "Japan",
+      "title": "Death And The Flower = \u751f\u3068\u6b7b\u306e\u5e7b\u60f3",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Reissue, Stereo",
+      "catno": "VIM-4601",
+      "released": "1979",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/11324364",
+      "thumb": "https://i.discogs.com/IzWtjMj4hCvMWCV9j97o9M-HpspcNqEdjLy_DMm0gkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzI0/MzY0LTE1MTQyODY2/NDYtMzg4Mi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 43,
+          "in_collection": 223
+        }
+      }
+    },
+    {
+      "id": 10206163,
+      "label": "MCA Records",
+      "country": "US",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Reissue",
+      "catno": "ASD-9301",
+      "released": "1980",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/10206163",
+      "thumb": "https://i.discogs.com/oVRyx5XM_tGeJUSZdekfPEJ0_v42TPBZ22zX-KGt-Sc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA2/MTYzLTE0OTMzODk2/NDMtNTUyNS5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 36,
+          "in_collection": 45
+        }
+      }
+    },
+    {
+      "id": 15015164,
+      "label": "MCA Records",
+      "country": "US",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Reissue",
+      "catno": "MCA-29046",
+      "released": "1980",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/15015164",
+      "thumb": "https://i.discogs.com/xWEz0tVhdqcVDz0s7L8LqgS-oSarQQ-WkQbN5ftmRLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MDE1/MTY0LTE2NTkzNjMz/MjktNDE5MC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 28,
+          "in_collection": 57
+        }
+      }
+    },
+    {
+      "id": 3858230,
+      "label": "MCA Impulse!",
+      "country": "US",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Reissue",
+      "catno": "29046, ASD-9301",
+      "released": "1980",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/3858230",
+      "thumb": "https://i.discogs.com/pk8TEVQlRNQ8jt7KcF-axqXqxgvhJQ20vRmw2e3Ltd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTgy/MzAtMTQ3NTc5MTQw/Ny02MDczLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 39,
+          "in_collection": 62
+        }
+      }
+    },
+    {
+      "id": 2421684,
+      "label": "Impulse!",
+      "country": "Japan",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Remastered, Reissue, Limited Edition, Stereo",
+      "catno": "UCJU-9017",
+      "released": "2004",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/2421684",
+      "thumb": "https://i.discogs.com/9-Oa2W5juzCm3ujJfpkDM9sK7EjfCc2pd5p-NElDUEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjE2/ODQtMTQ2MTA2MzM3/OS0xMjgwLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 48,
+          "in_collection": 17
+        }
+      }
+    },
+    {
+      "id": 3492343,
+      "label": "ABC Impulse!",
+      "country": "Italy",
+      "title": "Death And The Flower",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "IMPL 5032",
+      "released": "0",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/3492343",
+      "thumb": "https://i.discogs.com/dlESKFMu7AB4UuxRse-U5KouWFU0d_JoiEf-DGymUyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTIz/NDMtMTMzMjYwMDQ5/MC5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 44,
+          "in_collection": 142
+        }
+      }
+    }
+  ]
+}

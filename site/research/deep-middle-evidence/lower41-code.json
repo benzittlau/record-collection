@@ -1,0 +1,204 @@
+{
+  "created": "2026-10-14T03:22:38.719Z",
+  "count": 3,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "7d7cd963-8dbe-4333-af5e-1874b3308bc6",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "e3c3f263-024b-3224-9f11-620911e71880",
+      "count": 1,
+      "title": "The Big Rock Candy Mountain",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Steve Benbow",
+          "artist": {
+            "id": "087124db-784e-4cbb-9eec-f9d5381a53e9",
+            "name": "Steve Benbow",
+            "sort-name": "Benbow, Steve"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "6832a5fc-d89d-47a0-ab82-1afc6272d03c",
+        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+        "title": "The Big Rock Candy Mountain",
+        "primary-type": "Single"
+      },
+      "date": "1974",
+      "country": "GB",
+      "release-events": [
+        {
+          "date": "1974",
+          "area": {
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "name": "United Kingdom",
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "FP 10040",
+          "label": {
+            "id": "5d4d55aa-6302-41ec-ac5d-b166a6607edb",
+            "name": "Music for Pleasure"
+          }
+        }
+      ],
+      "track-count": 2,
+      "media": [
+        {
+          "id": "fa6f155d-c6a3-329f-96be-c18ae63b240d",
+          "format": "7\" Vinyl",
+          "disc-count": 0,
+          "track-count": 2
+        }
+      ]
+    },
+    {
+      "id": "e959c34a-e11f-4f67-b98b-436a752443cd",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "artist-credit-id": "0e640f32-0a88-48d9-92b6-11eb50507b78",
+      "count": 1,
+      "title": "Benbow-Strssy",
+      "status": "Official",
+      "packaging": "None",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "-",
+          "name": "Benbow",
+          "artist": {
+            "id": "f0516f08-3754-42e0-9cc8-184effb70b07",
+            "name": "Benbow",
+            "sort-name": "Benbow",
+            "disambiguation": "dark electronic beats"
+          }
+        },
+        {
+          "name": "Strssy",
+          "artist": {
+            "id": "da1a4c92-57a2-417e-b2ff-8f7f2e1c9554",
+            "name": "Strssy",
+            "sort-name": "Strssy"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "fdb15023-0f54-480b-9836-98a5f94f5c11",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Benbow-Strssy",
+        "primary-type": "Album"
+      },
+      "date": "2022-03-11",
+      "country": "XW",
+      "release-events": [
+        {
+          "date": "2022-03-11",
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]",
+            "sort-name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "label-info": [
+        {
+          "catalog-number": "CN200",
+          "label": {
+            "id": "c228c87e-ba60-4641-bab3-470269d6372a",
+            "name": "Cruel Nature Records"
+          }
+        }
+      ],
+      "track-count": 14,
+      "media": [
+        {
+          "id": "e5707757-ee2e-32c5-a6e7-9c639d4768e3",
+          "format": "Digital Media",
+          "disc-count": 0,
+          "track-count": 14
+        }
+      ]
+    },
+    {
+      "id": "a98a036b-3101-4bfd-a2f3-c1ad0b53313f",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "artist-credit-id": "e3c3f263-024b-3224-9f11-620911e71880",
+      "count": 1,
+      "title": "Songs of Ireland",
+      "status": "Official",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Steve Benbow",
+          "artist": {
+            "id": "087124db-784e-4cbb-9eec-f9d5381a53e9",
+            "name": "Steve Benbow",
+            "sort-name": "Benbow, Steve"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "2c9ccd09-3714-4576-99b5-b2c051ddd15d",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Songs of Ireland",
+        "primary-type": "Album"
+      },
+      "date": "1990",
+      "country": "XW",
+      "release-events": [
+        {
+          "date": "1990",
+          "area": {
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "name": "[Worldwide]",
+            "sort-name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "asin": "B00DGFRJ96",
+      "track-count": 16,
+      "media": [
+        {
+          "id": "e0c528de-0900-3fb2-8132-ec9bcb679fb3",
+          "format": "Digital Media",
+          "disc-count": 0,
+          "track-count": 16
+        }
+      ]
+    }
+  ]
+}

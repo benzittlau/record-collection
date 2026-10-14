@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "completed": "2026-10-13",
+  "researchVerdict": "All 51 identified LP outer fronts/backs are usable and visually verified; no known wrong-album/CD-tray/inner-panel scan remains in the accepted right shard. Exact pressing and physical-copy wear are not claimed.",
+  "catalogue": {
+    "file": "site/research/right.json",
+    "audit": "site/research/deep-right-audit.json",
+    "slots": 54,
+    "fronts": 52,
+    "backs": 51,
+    "labels": 20,
+    "spotifyIdsPreserved": 31,
+    "remainingPairs": [
+      "right-04",
+      "right-30",
+      "right-52"
+    ]
+  },
+  "checks": [
+    "All 54 IDs,positions,album identities,years,confidence,kind,compartments and Spotify IDs match baseline.",
+    "Each accepted local artwork path exists and has a corresponding source URL; empty cover/back paths have no stale remote fallback.",
+    "51 outer LP backs checked through 15 candidate sheets, ambiguous full-size images, then 3 final canonical contact sheets.",
+    "Five non-vinyl back images replaced; true Death and the Flower outerback distinguished from inner gatefold; Journey full exterior isolated to back panel; twofer Mose Allison programme/outerback validated."
+  ],
+  "limitations": [
+    "Representative LP edition country/label/printing may differ. Only readable observed catalogue numbers establish a catalogue-family match; matrix/runout data is unknown.",
+    "Many archived scans are 600px. Main sleeve content is usable; very small credits may require enlargement or later optional photo.",
+    "Views referencefront is a photographed 1975 paperback; actual edition is unknown and source edges are slightly cropped. Book front/back photos remain requested.",
+    "Edges 04 and 30 may be neighboring folds; physical independence is unresolved."
+  ],
+  "guideReadOnlyReview": {
+    "files": [
+      "site/scripts/build-capture-plan.mjs",
+      "site/dist/capture.js",
+      "site/dist/capture.css",
+      "site/dist/capture.html",
+      "site/research/capture-decisions.json"
+    ],
+    "snapshotVersion": "f4102cc9299a",
+    "pairCountAtReview": 240,
+    "pairSequence": "All manifest pairs/shots align:frontShot=2*pair-1,backShot=2*pair; two faces bind to same stable recordId.",
+    "rightBox": "Exactly 3 requested pairs:04 and 30 conditional with correct neighboring titles;52 Views book mandatory. No identified LP requests remain.",
+    "issues": [
+      {
+        "priority": "P2",
+        "finding": "Mobile next-pair navigation leaves the viewport at the previous card’s lower controls; the new physical map/title may be offscreen.",
+        "recommendation": "Use focus:true/scroll reset when going from a back to the next pair, skipping a fold, or jumping boxes. Same-pair front→back can retain viewport."
+      },
+      {
+        "priority": "P2",
+        "finding": "Guide view buttons have aria-selected without role=tab; screen readers may not announce which view is active.",
+        "recommendation": "Use aria-pressed toggles, or implement a complete tabs pattern."
+      },
+      {
+        "priority": "P3",
+        "finding": "Completion copy states the full sleeve/photo count even after conditional pairs are skipped.",
+        "recommendation": "Say the planned sequence is complete with up to N pairs/photos, or track skipped pairs before reporting an exact capture count."
+      },
+      {
+        "priority": "P3",
+        "finding": "Views currently has generic sleeve instructions and only “Book back artwork missing” as its reason.",
+        "recommendation": "Add the audit’s book-specific actualfront/outerback instruction and edition-uncertainty reason; preserve ISBN/publisher text if printed on back. No extra disc photo needed."
+      }
+    ],
+    "browserScope": "Source and manifest audit only; no external browser used. Native screenshots were not present in local visuals during this review."
+  }
+}

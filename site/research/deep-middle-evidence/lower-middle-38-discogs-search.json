@@ -1,0 +1,63 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 30,
+    "items": 1,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Stereo",
+        "Box Set"
+      ],
+      "label": [
+        "London Records",
+        "London Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Classical"
+      ],
+      "style": [
+        "Late Romantic",
+        "Symphony",
+        "Orchestra"
+      ],
+      "id": 12235580,
+      "barcode": [],
+      "master_id": 713044,
+      "master_url": "https://api.discogs.com/masters/713044",
+      "uri": "/release/12235580-Mahler-Maureen-ForresterLos-Angeles-Philharmonic-Zubin-Mehta-Symphony-No3-In-D-Minor",
+      "catno": "CSA2249",
+      "title": "Mahler*, Maureen Forrester, The Los Angeles Philharmonic*, Zubin Mehta - Symphony No.3 In D Minor",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12235580",
+      "community": {
+        "want": 59,
+        "have": 67
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        },
+        {
+          "name": "Box Set",
+          "qty": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2131 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 5,
+    "per_page": 30,
+    "items": 126,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=30&catno=SWBO101&artist=Beatles&page=5",
+      "next": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=30&catno=SWBO101&artist=Beatles&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "US",
+      "year": "1976",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Records, Inc.",
+        "Capitol Mastering",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc.",
+        "Capitol Records Pressing Plant, Los Angeles",
+        "Northern Songs Ltd.",
+        "Apple Music Publishing Co., Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock",
+        "Acoustic",
+        "Avantgarde",
+        "Blues Rock",
+        "Hard Rock",
+        "Rock & Roll",
+        "Music Hall"
+      ],
+      "id": 7854221,
+      "barcode": [
+        "\u2732",
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO-1-101 F82 MASTERED BY CAPITOL \u2732 KP",
+        "SWBO-2-101 F85 MASTERED BY CAPITOL \u2732 KP ",
+        "SWBO-3-101 H-27 MASTERED BY CAPITOL JM \u2732",
+        "SWBO-4-101 F89 MASTERED BY CAPITOL \u2732 KP"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/7854221-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7854221",
+      "community": {
+        "want": 788,
+        "have": 412
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Los Angeles Press",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1975",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Apple Records, Inc.",
+        "Capitol Mastering",
+        "Capitol Records Pressing Plant, Los Angeles"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Rock & Roll",
+        "Pop Rock",
+        "Psychedelic Rock",
+        "Experimental"
+      ],
+      "id": 7134083,
+      "barcode": [
+        "\u2732",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO-1-101-F80 1 \u2732",
+        "2-101-H-71 3 \u2732",
+        "SWBO-3-101-F82 1 \u2732 MASTERED BY CAPITOL",
+        "4-101-F-73 3 \u2732 MASTERED BY CAPITOL"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/7134083-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7134083",
+      "community": {
+        "want": 801,
+        "have": 508
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Los Angeles Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Apple Records, Inc.",
+        "Apple Records, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock",
+        "Experimental",
+        "Hard Rock"
+      ],
+      "id": 17181187,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO-1-101 - J 52",
+        "SWBO-2-101 - 55 1",
+        "SWBO-3-101 - J 54",
+        "SWBO 4-101 - 55 1"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/17181187-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/17181187",
+      "community": {
+        "want": 463,
+        "have": 250
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Records-EMI Of Canada Limited",
+        "Capitol Records-EMI Of Canada Limited",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc.",
+        "Apple Music Publishing Co., Inc.",
+        "Apple Records, Inc.",
+        "Northern Songs Ltd.",
+        "The Lacquer Channel Limited",
+        "Cinram Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 28810294,
+      "barcode": [
+        "BMI",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO 101 A5 \u2461 PN .T.\u2713",
+        "SWBO 101 B6 #2 \u2713.T.",
+        "SWBO 101 C # 2 pn CC CR(circled)",
+        "SWBO.101.D-2 TLC-A. NC.",
+        "SWBO 101 A\u2075 \u2461 PN .T.\u2713",
+        "SWBO 101 B\u2076 \u2713.T.",
+        "SWBO 101 C # 2 pn CC CR(circled)",
+        "SWBO\u00b7101\u00b7D-2 \u2461 TLC-A\u00b7 NC."
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/28810294-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/28810294",
+      "community": {
+        "want": 234,
+        "have": 14
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "3rd Gen, Purple Label, Cinram Pressing",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1976",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Records, Inc.",
+        "Capitol Records Pressing Plant, Winchester",
+        "Apple Music Publishing Co., Inc.",
+        "Northern Songs Ltd.",
+        "Capitol Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 8825796,
+      "barcode": [
+        "SWBO 1-101",
+        "SWBO 2-101",
+        "SWBO 3-101",
+        "SWBO 4-101",
+        "SWBO-1-101-H81 #2 Jay\u2612 \u2500\u25c1 MASTERED BY CAPITOL",
+        "SWBO-2-101-H75 #4 \u2500\u25c1 MASTERED BY CAPITOL Jay\u2612",
+        "SWBO-3-101-H83 #5 \u2500\u25c1 MASTERED BY CAPITOL Jay\u2612",
+        "SWBO-4-101-G76 \u2500\u25c1 MASTERED BY CAPITOL",
+        "SWBO-1-101-H81 Jay \u2612 \u2500\u25c1 MASTERED BY CAPITOL",
+        "SWBO-2-101-H75 #2 \u2500\u25c1 MASTERED BY CAPITOL Jay \u2612",
+        "SWBO-3-101-H83 #6 \u2500\u25c1 MASTERED BY CAPITOL Jay \u2612",
+        "SWBO 4-101-G83 \u2500\u25c1 MASTERED BY CAPITOL",
+        "SWBO-1-101-G83 #4 \u2500\u25c1 MASTERED BY CAPITOL",
+        "SWBO-2-101-H75 #4 \u2500\u25c1 MASTERED BY CAPITOL Jay \u2612",
+        "SWBO-3-101-H83 #6 \u2500\u25c1 MASTERED BY CAPITOL Jay \u2612",
+        "SWBO 4-101-G83 #3  \u2500\u25c1 MASTERED BY CAPITOL",
+        "\u2500\u25c1",
+        "BMI",
+        "ASCAP"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/8825796-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8825796",
+      "community": {
+        "want": 763,
+        "have": 701
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Winchester Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1978",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Abbey Road Studios",
+        "Capitol Mastering",
+        "Capitol Records Pressing Plant, Jacksonville",
+        "Capitol Records, Inc.",
+        "Apple Music Publishing Co., Inc.",
+        "Northern Songs Ltd.",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 7328075,
+      "barcode": [
+        "SWBO 1-101",
+        "SWBO 2-101",
+        "SWBO 3-101",
+        "SWBO 4-101",
+        "SWBO-1-101 J-98 MASTERED BY CAPITOL JAY 0",
+        "SWBO-2-101 J-91 MASTERED BY CAPITOL Gene 0",
+        "SWBO-3-101 J-103 #1 MASTERED BY CAPITOL JAY 0",
+        "SWBO-X4-101-J48 #5 2 0",
+        "ASCAP",
+        "BMI"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/7328075-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7328075",
+      "community": {
+        "want": 811,
+        "have": 427
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Jacksonville Press",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1980",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Records-EMI Of Canada Limited",
+        "Capitol Records-EMI Of Canada Limited",
+        "McClear Place",
+        "The Lacquer Channel Limited",
+        "Cinram"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 12658011,
+      "barcode": [
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO-1-101-A-4\u2462 K\u2022E\u2022F\u2022 TLC.T.",
+        "SWBO 101 B McL (CR)",
+        "SWBO 101 C #2 McL (CR)",
+        "SWBO  101 D-3 V.T."
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/12658011-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12658011",
+      "community": {
+        "want": 563,
+        "have": 112
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "3rd Gen, Purple Label, Cinram Pressing",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 29165362,
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc.",
+        "Apple Music Publishing Co., Inc.",
+        "Northern Songs Ltd.",
+        "Abbey Road Studios",
+        "Capitol Mastering",
+        "Capitol Records, Inc.",
+        "Capitol Records Pressing Plant, Jacksonville"
+      ],
+      "type": "release",
+      "barcode": [
+        "SWBO-X1-101 J-45 #3 O",
+        "SWBO-2-101 H90 #1 Gene MASTERED BY CAPITOL O",
+        "SWBO-X3-101-J61 #4 O",
+        "SWBO-X4-101-J57 #4 O"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/29165362-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/29165362",
+      "community": {
+        "want": 245,
+        "have": 41
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Purple Label, Jacksonville Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Capitol Records Pressing Plant, Winchester"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Rock & Roll",
+        "Pop Rock",
+        "Psychedelic Rock",
+        "Experimental"
+      ],
+      "id": 22671146,
+      "barcode": [
+        "SWBO-101 (SWBO1-101)",
+        "SWBO-101 (SWBO2-101)",
+        "SWBO-101 (SWBO3-101)",
+        "SWBO-101 (SWBO4-101)",
+        "SWBO-1-101-X8  \u2014\u25c4",
+        "SWBO-2-101-X8  \u2014\u25c4",
+        "SWBO-3-101-X8 #3   \u2014\u25c4",
+        "SWBO-4-101-X8 #2   \u2014\u25c4"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/22671146-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/22671146",
+      "community": {
+        "want": 365,
+        "have": 73
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Winchester Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1971",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Repress",
+        "Stereo"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Apple Records, Inc.",
+        "Apple Records, Inc.",
+        "Capitol Records Pressing Plant, Jacksonville"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock",
+        "Experimental"
+      ],
+      "id": 6591350,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "0",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO-X1-101-J45 #2 0",
+        "SWBO-X2-101-J44 #1 0",
+        "SWBO-X3-101-J61 #2 0",
+        "SWBO-X4-101-J49 #3 0",
+        "SWBO-1-101-J59 #1 0",
+        "SWBO-X2-101-J44 #1 0",
+        "SWBO-X3-101-J61 #2 0",
+        "SWBO-X4-101-J42 #2 0",
+        "SWBO 1 101 J61 #2 0",
+        "SWBO-X2-101-J43 #1 0",
+        "SWBO 3 101 J63 #1 0",
+        "SWBO-X4-101-J49 #1 0",
+        "SWBO-1-101-J59 #3 0",
+        "SWBO-X2-101-J49 #3 0",
+        "SWBO 3 101 J65 #2 0",
+        "SWBO 4 101 J64 #1 0",
+        "SWBO 1 101 J61 #1 0",
+        "SWBO-2-101-J532 #2 0",
+        "SWBO-X3-101-J52 #1 2 0",
+        "SWBO-X4-101-J48 #2 2 0"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/6591350-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6591350",
+      "community": {
+        "want": 839,
+        "have": 902
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Jacksonville Pressing, Not Numbered, Mfd By Apple",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Mispress",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Capitol Records, Inc.",
+        "Capitol Industries, Inc.",
+        "Northern Songs Ltd.",
+        "Apple Music Publishing Co., Inc.",
+        "E.M.I. Records",
+        "Capitol Records Pressing Plant, Scranton"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock",
+        "Experimental",
+        "Vocal"
+      ],
+      "id": 12856993,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "IAM in triangle",
+        "SWBO-1-101-B29 IAM",
+        "SWBO-2-101-B28 IAM",
+        "SWBO-3-101-A28 IAM",
+        "SWBO-4-101-A28 IAM"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/12856993-The-Beatles-The-Beatles",
+      "catno": "SWBO-101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12856993",
+      "community": {
+        "want": 854,
+        "have": 280
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Capitol Text, Scranton Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Mispress",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1973",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Capitol Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Rock & Roll",
+        "Pop Rock",
+        "Psychedelic Rock",
+        "Experimental"
+      ],
+      "id": 4616607,
+      "barcode": [
+        "SWBO 101 -1- \u2461 MASTERED BY CAPITOL",
+        "SWBO 101 -2- RECORD I MASTERED BY CAPITOL",
+        "RECORD II SWBO 101 -3- MASTERED BY CAPITOL",
+        "SWBO 101 -4 A71 RECORD II MASTERED BY CAPITOL"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/4616607-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4616607",
+      "community": {
+        "want": 837,
+        "have": 1955
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Columbia Pressing",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1976",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Records, Inc.",
+        "Capitol Mastering"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock"
+      ],
+      "id": 4198729,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO-X1-101  J54  #2",
+        "SWBO 2 101  G77 #4",
+        "MASTERED BY CAPITOL",
+        "SWBO 3 101  J64 #4",
+        "SWBO-X4-101-J48 #12"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/4198729-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4198729",
+      "community": {
+        "want": 887,
+        "have": 1210
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Misprint",
+        "Repress"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Apple Records, Inc.",
+        "Apple Records, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock",
+        "Experimental",
+        "Hard Rock"
+      ],
+      "id": 18388939,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO-1-101 - J 52",
+        "SWBO-2-101 - 55 1",
+        "SWBO-3-101 - J 54",
+        "SWBO 4-101 - 55 1"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/18388939-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/18388939",
+      "community": {
+        "want": 422,
+        "have": 36
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Misprint",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1978",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Records, Inc.",
+        "Capitol Mastering",
+        "Capitol Records Pressing Plant, Winchester",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock"
+      ],
+      "id": 3212823,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "\u2500\u25c1",
+        "SWBO 1-101",
+        "SWBO 2-101",
+        "SWBO 3-101",
+        "SWBO 4-101",
+        "SWBO-X1-101 J55 #5 2",
+        "SWBO-2-101-J91 #1",
+        "SWBO-3-101 H-96 #4",
+        "SWBO-X4-101-J49 #4",
+        "SWBO -1-101 F93 #6 MASTERED BY CAPITOL .\u2500\u25c1",
+        "SWBO -2-101 G92 #4 \u2500\u25c1 MASTERED BY CAPITOL JPL",
+        "SWBO -3 -101 G24 #14 MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO-4-101 F92 #7 MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO -1-101 F93 #2 MASTERED BY CAPITOL .\u2500\u25c1",
+        "SWBO -2-101 875 MASTERED BY CAPITOL .\u2500\u25c1",
+        "SWBO -3 -101 G24 #8 MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO-4-101 F92 MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO -1-101 F93 #6 MASTERED BY CAPITOL .\u2500\u25c1",
+        "SWBO -2-101 G99 MASTERED BY CAPITOL .\u2500\u25c1",
+        "SWBO-3-101 J101 #2 MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO-4-101 F92 #4 MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBQ-1-101-G103 MASTERED BY CAPITOL \u2500\u25c1 JPL \u24e7 ",
+        "SWBO-2-101 G92  #7 MASTERED BY CAPITOL \u2500\u25c1  JPL ",
+        "SWBO-3-101 J105  JAM \u24e7 MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO-4-101 H102  MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO-1-101-G103 \u2500\u25c1 gene MASTERED BY CAPITOL",
+        "SWBO-2-101-G99 \u2500\u25c1 gene MASTERED BY CAPITOL",
+        "SWBO-3-101 J-10J MASTERED BY CAPITOL jam",
+        "SWBO-4-101 H102 \u2500\u25c1 MASTERED BY CAPITOL",
+        "SWBO-1-101 F93 #3 MASTERED BY CAPITOL \u2500\u25c1 ",
+        "SWBO-2-101 G92 #2  \u2500\u25c1  MASTERED BY CAPITOL JPL ",
+        "SWBO-3-101 #11 G24 MASTERED BY CAPITOL \u2500\u25c1 ",
+        "SWBO-4-101 F92  MASTERED BY CAPITOL \u2500\u25c1 ",
+        "SWBO-1-101 G/03 MASTERED BY CAPITOL \u2500\u25c1 ",
+        "SWBO-2-101 G92 #7 \u2500\u25c1 MASTERED BY CAPITOL JPL",
+        "SWBO-3-101 J-105 MASTERED BY CAPITOL JAM \u24e7 \u2500\u25c1",
+        "SWBO-4-101 F92 #6 MASTERED BY CAPITOL \u2500\u25c1 ",
+        "SWBO-1-101 F93 MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO-2-101 G92 #2  \u2500\u25c1  MASTERED BY CAPITOL JPL",
+        "SWBO-3-101 G24 #9 MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO-4-101 F92  MASTERED BY CAPITOL \u2500\u25c1",
+        "SWBO -1-101 F93 #4 MASTERED BY CAPITOL .\u2500\u25c1",
+        "SWBO-2-101 G92  #5  \u2500\u25c1  MASTERED BY CAPITOL JPL",
+        "SWBO-3-101 G24 #12 MASTERED BY CAPITOL \u2500\u25c1 ",
+        "SWBO -1-101 F93 #7 MASTERED BY CAPITOL .\u2500\u25c1",
+        "SWBO-1-101-G103 \u2500\u25c1 jm \u24e7 MASTERED BY CAPITOL",
+        "SWBO-2-101 G92 #7 \u2500\u25c1 JPL MASTERED BY CAPITOL",
+        "SWBO-3-101-J-105 JAY \u24e7 \u2500\u25c1 MASTERED BY CAPITOL",
+        "SWBO-4-101 F92 #6 \u2500\u25c1 MASTERED BY CAPITOL",
+        "SWBO -1-101 F93 #6 MASTERED BY CAPITOL .\u2500\u25c1 KP",
+        "SWBO-2-101-G99 .\u2500\u25c1 gene MASTERED BY CAPITOL \u24e7",
+        "SWBO-3-101 J101 #2 MASTERED BY CAPITOL JAY \u24e7 .\u2500\u25c1",
+        "SWBO-4-101 F92 #6 MASTERED BY CAPITOL .\u2500\u25c1 KP",
+        "SWBO-1101 F93 #6 MASTERED BY CAPITOL .\u2500\u25c1 KP",
+        "SWBO-2-101-G99 .\u2500\u25c1 gene MASTERED BY CAPITOL \u24e7",
+        "SWBO-3-101 J-101 #2 MASTERED BY CAPITOL JAY \u24e7 .\u2500\u25c1",
+        "SWBO-4-101 F92 #8 MASTERED BY CAPITOL .\u2500\u25c1 KP",
+        "SWBQ-1-101-G103 \u00b7\u2500\u25c1 gene MASTERED BY CAPITOL \u24e7",
+        "SWBO-2-101-G99 \u00b7\u2500\u25c1 gene MASTERED BY CAPITOL \u24e7",
+        "SWBO-3-101 J-105 #3 MASTERED BY CAPITOL Jay \u24e7 \u00b7\u2500\u25c1",
+        "SWBO-4-101 H-102 \u00b7\u2500\u25c1 MASTERED BY CAPITOL"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/3212823-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3212823",
+      "community": {
+        "want": 1088,
+        "have": 6014
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Winchester Pressing, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1978",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc.",
+        "Capitol Mastering",
+        "Capitol Records Pressing Plant, Winchester"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 3505684,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO 1-101",
+        "SWBO 2-101",
+        "SWBO 3-101",
+        "SWBO 4-101",
+        "SWBO-1-101 F93  \u2014\u25c1 MASTERED BY CAPITOL",
+        "SWBO-2-101-H75 #11 \u2014\u25c1 MASTERED BY CAPITOL",
+        "SWBO-3-101 G24 #6 \u2014\u25c1 MASTERED BY CAPITOL",
+        "SWBO-4-101 F92 \u2014\u25c1 MASTERED BY CAPITOL",
+        "SWBO-1-101 F93 #6 \u2022 \u2501\u25c1 MASTERED BY CAPITOL",
+        "SWBO-2-101-G92 #6   \u2022 \u2501\u25c1 MASTERED BY CAPITOL   JPL",
+        "SWBO-3-101 G24 #17  \u2022 \u2501\u25c1 MASTERED BY CAPITOL",
+        "SWBO-4-101 F92 #8   \u2022 \u2501\u25c1 MASTERED BY CAPITOL",
+        "SWBO-1-101-G83  \u2022 \u2501\u25c1 MASTERED BY CAPITOL",
+        "SEBX-2-101-H75#4 \u2022 \u2501\u25c1 MASTERED BY CAPITOL",
+        "SWBO-3-101-H83#6 [X] \u2022 \u2501\u25c1 MASTERED BY CAPITOL",
+        "SWBO-4-101-Q83#5 \u2022 \u2501\u25c1 MASTERED BY CAPITOL"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/3505684-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3505684",
+      "community": {
+        "want": 934,
+        "have": 1628
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Winchester Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1971",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Apple Records, Inc.",
+        "Apple Records, Inc.",
+        "Capitol Records Pressing Plant, Los Angeles"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock"
+      ],
+      "id": 13687090,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "1-101-H-72 \u2219 2",
+        "2-101-H-69 \u2219 4",
+        "3-101-H-78 \u2219 2",
+        "4-101-H-70 \u2219 2",
+        "1-101-H-70 \u2219 2",
+        "2-101-H-69 \u2219 2",
+        "3-101-H-77 \u2219 2",
+        "4-101-F-69 \u2219 1",
+        "SWBO-1-101-J40 \u2219 3 ",
+        "SWBO-2-101-J40 \u2219 3",
+        "SWBO-3-101-J41 \u2219 2",
+        "SWBO-4-101-J40 \u2219 1   2",
+        "\u2732"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/13687090-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13687090",
+      "community": {
+        "want": 582,
+        "have": 236
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Los Angeles Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1973",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Apple Records, Inc.",
+        "Apple Records, Inc.",
+        "Capitol Records Pressing Plant, Los Angeles"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock"
+      ],
+      "id": 26191397,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "1-101-F-80 2",
+        "2-101-J-74\u2219 2",
+        "3-101-F-82\u2219 2 Mastered by Capitol",
+        "4-101-F-73\u2219 2 Mastered By Capitol",
+        "\u2732"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/26191397-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26191397",
+      "community": {
+        "want": 307,
+        "have": 41
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Los Angeles Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Repress"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Apple Records, Inc.",
+        "Apple Records, Inc.",
+        "Capitol Records Pressing Plant, Winchester"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock",
+        "Experimental"
+      ],
+      "id": 4489415,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "\u2501\u25c1 and \u2022 \u2501\u25c1",
+        "SWBO-1-101-A71 #2 \u2501\u25c1",
+        "SWBO-2-101-A70 #4 \u2501\u25c1",
+        "SWBO-3-101-A75 #2 \u2501\u25c1",
+        "SWBO 4-101-A68 #3 \u2501\u25c1",
+        "SWBO-1-101-A71 #2 \u2022 \u2501\u25c1",
+        "SWBO-2-101-A70 #5 \u2022 \u2501\u25c1",
+        "SWBO-3-101-A75 #2 \u2501\u25c1",
+        "SWBO 4-101-A68 #3 \u2501\u25c1"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/4489415-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4489415",
+      "community": {
+        "want": 939,
+        "have": 2010
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Winchester Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Misprint",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Capitol Records, Inc.",
+        "Capitol Records Pressing Plant, Scranton"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock"
+      ],
+      "id": 33016836,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101 ",
+        "SWBO4-101",
+        "SWBO1-101-J53 #3 IAM [in triangle]",
+        "SWBO2-101- J46 # 5 IAM [in triangle]",
+        "SWBO-3-101 J47 #2 IAM [in triangle]",
+        "SWBO-4-101 J45 #3 \" IAM [in triangle]"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/33016836-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/33016836",
+      "community": {
+        "want": 208,
+        "have": 19
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold upside down; Capitol Text, 2nd Scranton Press",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Misprint",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "The Compo Company Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock"
+      ],
+      "id": 15137631,
+      "barcode": [
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO-1-101 J53",
+        "SWBO-2-101 J51",
+        "SWBO-3-101 J54",
+        "SWBO-4-101 J51",
+        "SWBO-X1-101-J452 #3",
+        "SWBO-X1-101-J432 #3",
+        "SWBO-x3-101-B10 2",
+        "SWBO-X4-101-A92"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/15137631-The-Beatles-The-Beatles",
+      "catno": "SWBO-101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/15137631",
+      "community": {
+        "want": 656,
+        "have": 1104
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "First Pressing, Compo",
+          "descriptions": [
+            "LP",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1976",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Abbey Road Studios",
+        "Capitol Mastering",
+        "Capitol Records Pressing Plant, Jacksonville",
+        "Capitol Records, Inc.",
+        "Apple Music Publishing Co., Inc.",
+        "Northern Songs Ltd.",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 8241835,
+      "barcode": [
+        "SWBO 1-101",
+        "SWBO 2-101",
+        "SWBO 3-101",
+        "SWBO 4-101",
+        "SWBO 1 101 J60 #2  0",
+        "SWBO 2 101 G83 MASTERED BY CAPITOL  0",
+        "SWBO-X3-101 J45  0",
+        "SWBO 4 101 G85 #1 MASTERED BY CAPITOL 0",
+        "SWBO 1 101 J60 #2 0",
+        "SWBO 2 101 G83 #2 MASTERED BY CAPITOL 0",
+        "SWBO-X3-101 J45 #7 0",
+        "SWBO-X4-101-J58 #3 0",
+        "SWBO-X10101 J55 #3 0",
+        "SWBO-2-101-J53 #3 0",
+        "SWBO 3 101 J64 #4 0",
+        "SWBO 4 101 G11 #3   MASTERED BY CAPITOL",
+        "SWBO-X1-101-J452 #2 0",
+        "SWBO 2 101 G77 #1 MASTERED BY CAPITOL 0",
+        "SWBO 3 101 G86 #1 MASTERED BY CAPITOL 0",
+        "SWBO 4 101 G77 #3 MASTERED BY CAPITOL 0",
+        "ASCAP",
+        "BMI",
+        "SWBO-X1-101-J452 #2 O",
+        "SWBO-2-101-J53 #4 O",
+        "SWBO-X3-101 J45 #4 O",
+        "SWBO-4-101 G86 #1 MASTERED BY CAPITOL gene"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/8241835-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8241835",
+      "community": {
+        "want": 873,
+        "have": 2513
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Jacksonville Press",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1978",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Abbey Road Studios",
+        "Capitol Mastering",
+        "Capitol Records Pressing Plant, Jacksonville",
+        "Capitol Records, Inc.",
+        "Apple Music Publishing Co., Inc.",
+        "Northern Songs Ltd.",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 9785087,
+      "barcode": [
+        "SWBO 1-101",
+        "SWBO 2-101",
+        "SWBO 3-101",
+        "SWBO 4-101",
+        "SWBO-1-101 J-98 MASTERED BY CAPITOL JAY \u24e7 0",
+        "SWBO-2-101 J-97 1 MASTERED BY CAPITOL JAY \u24e7 0",
+        "SWBO-X3-101-J61#4 0",
+        "SWBO-X4-101-J48 #5 2 0",
+        "ASCAP",
+        "BMI"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/9785087-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9785087",
+      "community": {
+        "want": 720,
+        "have": 433
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Jacksonville Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Numbered",
+        "Repress",
+        "Stereo"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Capitol Records, Inc.",
+        "Capitol Industries, Inc.",
+        "Northern Songs Ltd.",
+        "Apple Records",
+        "E.M.I. Records",
+        "The Gramophone Co. Ltd.",
+        "Capitol Records Pressing Plant, Los Angeles"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock"
+      ],
+      "id": 21026974,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "SWBO3-1-101-B35. 2 [star] 2",
+        "2-101-H-68 . 1 [star]",
+        "3-101-H-74 . 1 [star]",
+        "SWBO-4-101-J-66 .2 [star]"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/21026974-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/21026974",
+      "community": {
+        "want": 425,
+        "have": 137
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": " Los Angeles Pressing (2nd), Corrected Titles, Capitol Text",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Numbered",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Numbered",
+        "Repress",
+        "Stereo"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Capitol Records, Inc.",
+        "Capitol Records Pressing Plant, Los Angeles"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock",
+        "Rock & Roll"
+      ],
+      "id": 21943795,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "\u2732",
+        "SWBO1-101",
+        "SWBO2-101",
+        "SWBO3-101",
+        "SWBO4-101",
+        "\u2732",
+        "SWBO-1-101-A34\u00b7 4 \u2732",
+        "SWBO-2-101-A36: 2 \u2732",
+        "SWBO-3-101-J-67\u00b7 4 \u2732",
+        "SWBO-4-101-J-66\u00b7 1 \u2732"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/21943795-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/21943795",
+      "community": {
+        "want": 442,
+        "have": 111
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": " Los Angeles Pressing (2nd), Corrected Titles",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Numbered",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1986",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Industries-EMI, Inc.",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc.",
+        "Abbey Road Studios",
+        "Specialty Records Corporation",
+        "Apple Music Publishing Co., Inc.",
+        "Apple Music Publishing Co., Inc.",
+        "EMI Records Ltd.",
+        "Northern Songs Ltd.",
+        "Northern Songs Ltd.",
+        "Capitol Mastering",
+        "Capitol Records Pressing Plant, Jacksonville"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock",
+        "Rock & Roll"
+      ],
+      "id": 1436440,
+      "barcode": [
+        "BMI",
+        "ASCAP",
+        "SRC",
+        "E A S T",
+        "SWBO 1-101",
+        "SWBO 2-101",
+        "SWBO 3-101",
+        "SWBO 4-101",
+        "SWBO-1-101 G-103 [SRC logo] 1-1 MASTERED BY CAPITOL",
+        "SWBO-2-101 G-102 1 - 1 MASTERED BY CAPITOL [SRC logo]",
+        "SWBO-3-101 G-106 [SRC logo] 1 - 1 MASTERED BY CAPITOL JAY 0",
+        "SWBO-4-101 G - 103 1 - 1 [SRC logo] MASTERED BY CAPITOL"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/1436440-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1436440",
+      "community": {
+        "want": 959,
+        "have": 2843
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Specialty Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Misprint",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Capitol Records",
+        "Apple Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Blues",
+        "Pop",
+        "Folk, World, & Country"
+      ],
+      "style": [
+        "Rock & Roll",
+        "Blues Rock",
+        "Folk Rock",
+        "Pop Rock",
+        "Hard Rock"
+      ],
+      "id": 30954898,
+      "barcode": [
+        "SWBO-1-101-J46 IAM",
+        "SWBO-2-101-J45 #3 IAM",
+        "SWBO 3-101-J48 #4 IAM",
+        "SWBO 4-101-J44 #3 IAM"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/30954898-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/30954898",
+      "community": {
+        "want": 277,
+        "have": 81
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Partial Misprint Labels",
+          "descriptions": [
+            "LP",
+            "Misprint",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Numbered",
+        "Stereo"
+      ],
+      "label": [
+        "Apple Records",
+        "Apple Records",
+        "Capitol Records Pressing Plant, Winchester"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Rock & Roll",
+        "Pop Rock",
+        "Psychedelic Rock",
+        "Experimental"
+      ],
+      "id": 16226271,
+      "barcode": [
+        "SWBO-101 (SWBO1-101)",
+        "SWBO-101 (SWBO2-101)",
+        "SWBO-101 (SWBO3-101)",
+        "SWBO-101 (SWBO4-101)",
+        "SWBO-1-101-A71 #2  \u2014\u25c4",
+        "SWBO-2-101-A70 #5  \u2014\u25c4",
+        "SWBO-3-101-A75 #2   \u2014\u25c4",
+        "SWBO-4-101-A68 #3   \u2014\u25c4",
+        "SWBO-4-101-A70 #5   \u2014\u25c4"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/16226271-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/16226271",
+      "community": {
+        "want": 496,
+        "have": 507
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Winchester Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Numbered",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1984",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Capitol Records, Inc.",
+        "E.M.I. Records",
+        "The Gramophone Co. Ltd.",
+        "Capitol Records-EMI Of Canada Limited",
+        "Capitol Records-EMI Of Canada Limited",
+        "Capitol Records-EMI Of Canada Limited",
+        "Apple Records, Inc.",
+        "Northern Songs Ltd.",
+        "Apple Music Publishing Co., Inc.",
+        "Columbia Records Pressing Plant, Don Mills, ON",
+        "Columbia Records Pressing Plant, Don Mills, ON",
+        "Columbia Records Pressing Plant, Don Mills, ON"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Pop"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Pop Rock"
+      ],
+      "id": 4206278,
+      "barcode": [
+        "BMI",
+        "SWBO-1011-A-1A-2HZK: SIDE 1 - Rec 1 DM-5",
+        "SWBO-1011-B-1A-2HZDKO: SIDE 2 -Rec 1 DM-5",
+        "SWBO-1012-A-1A-2HZK: SIDE 3 -rec 2 DM-5",
+        "SWBO-1012-B-1A-2HZDK: SIDE 4 Rec 2 DM-5",
+        "SWBO-1011-A-1A-2HZK: SIDE 1 - Rec 1 DM-5",
+        "SWBO-1011-B-1A-2HZDKO: SIDE 2 -Rec 1 DM-5",
+        "SWBO-1012-A-1A-2HZK: SIDE 3 -rec 2 DM-3",
+        "SWBO-1012-B-1A-2HZDK: SIDE 4 Rec 2 DM-4",
+        "DM-#"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/4206278-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4206278",
+      "community": {
+        "want": 815,
+        "have": 463
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Columbia Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1978",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Numbered",
+        "Reissue"
+      ],
+      "label": [
+        "Capitol Records",
+        "Capitol Records",
+        "Abbey Road Studios",
+        "Capitol Mastering",
+        "Capitol Records Pressing Plant, Jacksonville",
+        "Capitol Records, Inc.",
+        "Apple Music Publishing Co., Inc.",
+        "Northern Songs Ltd.",
+        "Capitol Records, Inc.",
+        "Capitol Records, Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Pop Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 19744042,
+      "barcode": [
+        "ASCAP",
+        "BMI",
+        "SWBO 1-101",
+        "SWBO 2-101",
+        "SWBO 3-101",
+        "SWBO 4-101",
+        "SWBO-1-101 J-96 #3 MASTERED BY CAPITOL JAY O",
+        "SWBO-2-101 J-91 #3 MASTERED BY CAPITOL Gene 0",
+        "SWBO-3-101 J-96 #4 MASTERED BY CAPITOL JAY 0",
+        "SWBO-X4-101-J48 #5 2 O"
+      ],
+      "master_id": 46402,
+      "master_url": "https://api.discogs.com/masters/46402",
+      "uri": "/release/19744042-The-Beatles-The-Beatles",
+      "catno": "SWBO 101",
+      "title": "The Beatles - The Beatles",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/19744042",
+      "community": {
+        "want": 415,
+        "have": 76
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Jacksonville Press, purple label",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Numbered",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

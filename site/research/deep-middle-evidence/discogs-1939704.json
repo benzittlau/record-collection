@@ -1,0 +1,392 @@
+{
+  "id": 1939704,
+  "status": "Accepted",
+  "year": 1970,
+  "resource_url": "https://api.discogs.com/releases/1939704",
+  "uri": "https://www.discogs.com/release/1939704-Strawinsky-Herbert-von-Karajan-Berliner-Philharmoniker-Le-Sacre-Du-Printemps",
+  "artists": [
+    {
+      "name": "Igor Stravinsky",
+      "anv": "Strawinsky",
+      "join": "-",
+      "role": "",
+      "tracks": "",
+      "id": 115469,
+      "resource_url": "https://api.discogs.com/artists/115469",
+      "thumbnail_url": "https://i.discogs.com/YkAAb6r1MFkAI-aTJj8G6kKXCKtAC1KgTXbc5zLNX5U/rs:fit/g:sm/q:90/h:322/w:230/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExNTQ2/OS0xNDY2ODQ5NTc0/LTI4ODkuanBlZw.jpeg"
+    },
+    {
+      "name": "Herbert von Karajan",
+      "anv": "",
+      "join": ",",
+      "role": "",
+      "tracks": "",
+      "id": 283122,
+      "resource_url": "https://api.discogs.com/artists/283122",
+      "thumbnail_url": "https://i.discogs.com/VhUSPWBXUjuDoB1ca8vLgnNFIljMzAX_PEalrcRTMlE/rs:fit/g:sm/q:90/h:591/w:530/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4MzEy/Mi0xNjQ3MDMxODUx/LTU4OTQuanBlZw.jpeg"
+    },
+    {
+      "name": "Berliner Philharmoniker",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 260744,
+      "resource_url": "https://api.discogs.com/artists/260744",
+      "thumbnail_url": "https://i.discogs.com/9D7dFX7fRxumwVJ8gJk7zJ-1piksNTo3qncogZ5TQQw/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2MDc0/NC0xNzM4NjQwOTA0/LTI5NTIuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Igor Stravinsky - Herbert von Karajan, Berliner Philharmoniker",
+  "labels": [
+    {
+      "name": "Deutsche Grammophon",
+      "catno": "138 920 SLPM",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 7703,
+      "resource_url": "https://api.discogs.com/labels/7703",
+      "thumbnail_url": "https://i.discogs.com/sZSMuxB1KdFYpyG8gmFxdRiTaJTEHXYcsvWObZtmqIY/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc3MDMt/MTQ4ODkxOTEwOC05/NDk0LnBuZw.jpeg"
+    },
+    {
+      "name": "Deutsche Grammophon",
+      "catno": "SLPM 138 920",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 7703,
+      "resource_url": "https://api.discogs.com/labels/7703",
+      "thumbnail_url": "https://i.discogs.com/sZSMuxB1KdFYpyG8gmFxdRiTaJTEHXYcsvWObZtmqIY/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc3MDMt/MTQ4ODkxOTEwOC05/NDk0LnBuZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Jesus-Christus-Kirche, Berlin",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 280422,
+      "resource_url": "https://api.discogs.com/labels/280422",
+      "thumbnail_url": "https://i.discogs.com/UhgFOV39iXh-_QsFk1igIgveNvckDnibhvdPGvlh4nA/rs:fit/g:sm/q:90/h:456/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MDQy/Mi0xNzQ0MTUwMTIx/LTUzMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Deutsche Grammophon Gesellschaft Pressing Plant",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 463701,
+      "resource_url": "https://api.discogs.com/labels/463701",
+      "thumbnail_url": "https://i.discogs.com/a8CwnUDmrusu04IctoswPSaCVCdjgeMwxoPp1Be9-Hg/rs:fit/g:sm/q:90/h:442/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ2Mzcw/MS0xNzg0NzA3MTE4/LTUwMjEuanBlZw.jpeg"
+    },
+    {
+      "name": "Deutsche Grammophon Gesellschaft Pressing Plant",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 463701,
+      "resource_url": "https://api.discogs.com/labels/463701",
+      "thumbnail_url": "https://i.discogs.com/a8CwnUDmrusu04IctoswPSaCVCdjgeMwxoPp1Be9-Hg/rs:fit/g:sm/q:90/h:442/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ2Mzcw/MS0xNzg0NzA3MTE4/LTUwMjEuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Reissue",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 184,
+    "want": 35,
+    "rating": {
+      "count": 17,
+      "average": 4.47
+    },
+    "submitter": {
+      "username": "eusebius",
+      "resource_url": "https://api.discogs.com/users/eusebius"
+    },
+    "contributors": [
+      {
+        "username": "eusebius",
+        "resource_url": "https://api.discogs.com/users/eusebius"
+      },
+      {
+        "username": "Kater_Murr",
+        "resource_url": "https://api.discogs.com/users/Kater_Murr"
+      },
+      {
+        "username": "Glender73",
+        "resource_url": "https://api.discogs.com/users/Glender73"
+      },
+      {
+        "username": "bonojazz",
+        "resource_url": "https://api.discogs.com/users/bonojazz"
+      },
+      {
+        "username": "indiesoup",
+        "resource_url": "https://api.discogs.com/users/indiesoup"
+      },
+      {
+        "username": "truedream",
+        "resource_url": "https://api.discogs.com/users/truedream"
+      },
+      {
+        "username": "volospion",
+        "resource_url": "https://api.discogs.com/users/volospion"
+      },
+      {
+        "username": "jazz_counselor",
+        "resource_url": "https://api.discogs.com/users/jazz_counselor"
+      },
+      {
+        "username": "VinylByNorb",
+        "resource_url": "https://api.discogs.com/users/VinylByNorb"
+      },
+      {
+        "username": "steverogers",
+        "resource_url": "https://api.discogs.com/users/steverogers"
+      },
+      {
+        "username": "djmifume",
+        "resource_url": "https://api.discogs.com/users/djmifume"
+      },
+      {
+        "username": "wybmadwity",
+        "resource_url": "https://api.discogs.com/users/wybmadwity"
+      },
+      {
+        "username": "sebfact",
+        "resource_url": "https://api.discogs.com/users/sebfact"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2009-09-24T08:13:49-07:00",
+  "date_changed": "2026-01-22T07:34:36-08:00",
+  "num_for_sale": 15,
+  "lowest_price": 0.95,
+  "master_id": 178832,
+  "master_url": "https://api.discogs.com/masters/178832",
+  "title": "Le Sacre Du Printemps",
+  "country": "Germany",
+  "released": "1970",
+  "notes": "Cover info: \r\nLabel: Deutsche Grammophon Gesellschaft \r\nNotes in German, with English and French translations \r\nPrinted in Germany \r\n\r\nLabels info: \r\nDeutsche Grammophon Gesellschaft; stereo; large tulips; tulip borders  \r\n\r\nRecorded at Jesus-Christus-Kirche, Berlin 10/1963.\r\n",
+  "released_formatted": "1970",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "1 \u2117 1964 D 70 \u25c7V 00 138 920 = 5 A",
+      "description": "Runout A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4 \u2117 1964 D 70 \u25c7V 00 138 920 = 5 B",
+      "description": "Runout B"
+    },
+    {
+      "type": "Rights Society",
+      "value": "GEMA"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=f20vBzwMK2A",
+      "title": "Stravinsky ~ The Rite Of Spring - 1964/Bartok - Concerto for Orchestra - 1966 - (cond. von Karajan)",
+      "description": "Track Listings - Stravinsky: The Rite Of Spring - \nI. L' Adoration De La Terre \n1.Introduction \n2.Les Augures Printaniers (Danses Des Adolescentes) \n3.Jeu Du Rapt \n4.Rondes Printani\u00e8res \n5.Jeux Des Cit\u00e9s Rivales \n6.Cort\u00e8ge Du Sage \n7.Adoration De La Terre",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Classical"
+  ],
+  "styles": [
+    "Modern"
+  ],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "index",
+      "title": "Premi\u00e8re Partie: L'adoration De La Terre",
+      "duration": "",
+      "sub_tracks": [
+        {
+          "position": "A.1",
+          "type_": "track",
+          "title": "Introduction (Lento)",
+          "duration": ""
+        },
+        {
+          "position": "A.2",
+          "type_": "track",
+          "title": "Les Augures Printaniers / Danses Des Adolescentes",
+          "duration": ""
+        },
+        {
+          "position": "A.3",
+          "type_": "track",
+          "title": "Jeu Du Rapt",
+          "duration": ""
+        },
+        {
+          "position": "A.4",
+          "type_": "track",
+          "title": "Rondes Printani\u00e8res",
+          "duration": ""
+        },
+        {
+          "position": "A.5",
+          "type_": "track",
+          "title": "Jeux Des Cit\u00e9s Rivales",
+          "duration": ""
+        },
+        {
+          "position": "A.6",
+          "type_": "track",
+          "title": "Cort\u00e8ge Du Sage",
+          "duration": ""
+        },
+        {
+          "position": "A.7",
+          "type_": "track",
+          "title": "Adoration De La Terre / Danse De La Terre",
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "position": "",
+      "type_": "index",
+      "title": "Seconde Partie: Le Sacrifice",
+      "duration": "",
+      "sub_tracks": [
+        {
+          "position": "B.1",
+          "type_": "track",
+          "title": "Introduction (Largo)",
+          "duration": ""
+        },
+        {
+          "position": "B.2",
+          "type_": "track",
+          "title": "Cercles Myst\u00e9rieux Des Adolescentes",
+          "duration": ""
+        },
+        {
+          "position": "B.3",
+          "type_": "track",
+          "title": "Glorification De L'\u00c9lue",
+          "duration": ""
+        },
+        {
+          "position": "B.4",
+          "type_": "track",
+          "title": "Evocation Des Anc\u00eatres",
+          "duration": ""
+        },
+        {
+          "position": "B.5",
+          "type_": "track",
+          "title": "Action Rituelle Des Anc\u00eatres",
+          "duration": ""
+        },
+        {
+          "position": "B.6",
+          "type_": "track",
+          "title": "Danse Sacrale (L'\u00c9lue)",
+          "duration": ""
+        }
+      ]
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Igor Stravinsky",
+      "anv": "Igor Strawinsky",
+      "join": "",
+      "role": "Composed By",
+      "tracks": "",
+      "id": 115469,
+      "resource_url": "https://api.discogs.com/artists/115469"
+    },
+    {
+      "name": "Herbert von Karajan",
+      "anv": "",
+      "join": "",
+      "role": "Conductor",
+      "tracks": "",
+      "id": 283122,
+      "resource_url": "https://api.discogs.com/artists/283122"
+    },
+    {
+      "name": "G\u00fcnter Hermanns",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 835063,
+      "resource_url": "https://api.discogs.com/artists/835063"
+    },
+    {
+      "name": "Heinz Becker (3)",
+      "anv": "",
+      "join": "",
+      "role": "Liner Notes",
+      "tracks": "",
+      "id": 1628169,
+      "resource_url": "https://api.discogs.com/artists/1628169"
+    },
+    {
+      "name": "Berliner Philharmoniker",
+      "anv": "",
+      "join": "",
+      "role": "Orchestra",
+      "tracks": "",
+      "id": 260744,
+      "resource_url": "https://api.discogs.com/artists/260744"
+    },
+    {
+      "name": "Otto Gerdes",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 833074,
+      "resource_url": "https://api.discogs.com/artists/833074"
+    },
+    {
+      "name": "Hans Weber",
+      "anv": "",
+      "join": "",
+      "role": "Recording Supervisor",
+      "tracks": "",
+      "id": 834636,
+      "resource_url": "https://api.discogs.com/artists/834636"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/3BytCxDYoaWn3MmBsIFRCrFeHShkbBfY5-J3TPW7y88/rs:fit/g:sm/q:90/h:293/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzk3/MDQtMTM2NDU5ODA2/Ny04NTUwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/3BytCxDYoaWn3MmBsIFRCrFeHShkbBfY5-J3TPW7y88/rs:fit/g:sm/q:90/h:293/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzk3/MDQtMTM2NDU5ODA2/Ny04NTUwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/kpTw3dKVMw5xjhcP-U5SOm6dKKteCdkIqWGYnERzhho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzk3/MDQtMTM2NDU5ODA2/Ny04NTUwLmpwZWc.jpeg",
+      "width": 300,
+      "height": 293
+    }
+  ],
+  "thumb": "https://i.discogs.com/kpTw3dKVMw5xjhcP-U5SOm6dKKteCdkIqWGYnERzhho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzk3/MDQtMTM2NDU5ODA2/Ny04NTUwLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

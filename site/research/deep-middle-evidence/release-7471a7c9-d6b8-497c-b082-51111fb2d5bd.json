@@ -1,0 +1,92 @@
+{
+  "packaging": "Cardboard/Paper Sleeve",
+  "label-info": [
+    {
+      "label": {
+        "disambiguation": "",
+        "label-code": 3098,
+        "type": "Production",
+        "id": "227d9de7-0688-405e-8a4a-0a23ee712bae",
+        "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+        "name": "Dindisc",
+        "sort-name": "Dindisc"
+      },
+      "catalog-number": "VL 2228"
+    },
+    {
+      "catalog-number": "VL 2228",
+      "label": {
+        "sort-name": "Virgin",
+        "name": "Virgin",
+        "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+        "id": "49b58bdb-3d74-40c6-956a-4c4b46115c9c",
+        "type": "Imprint",
+        "label-code": 3098,
+        "disambiguation": "worldwide imprint of Virgin Records Ltd. and all its subsidiaries"
+      }
+    }
+  ],
+  "id": "7471a7c9-d6b8-497c-b082-51111fb2d5bd",
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+  "date": "1981",
+  "status": "Official",
+  "country": "CA",
+  "quality": "normal",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+    "artwork": true,
+    "back": true,
+    "front": true,
+    "darkened": false,
+    "count": 6
+  },
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "release-events": [
+    {
+      "date": "1981",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "sort-name": "Canada",
+        "name": "Canada",
+        "iso-3166-1-codes": [
+          "CA"
+        ],
+        "type-id": null,
+        "disambiguation": "",
+        "type": null
+      }
+    }
+  ],
+  "barcode": "",
+  "title": "This Is the Ice Age",
+  "disambiguation": "",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "id": "d0a4fd70-d8ab-442e-8fb0-f5608936dce3",
+        "sort-name": "Martha and the Muffins",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Martha and the Muffins",
+        "disambiguation": "Canadian rock band",
+        "country": "CA",
+        "type": "Group"
+      },
+      "name": "Martha and the Muffins"
+    }
+  ],
+  "media": [
+    {
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "position": 1,
+      "track-count": 9,
+      "format": "12\" Vinyl",
+      "title": "",
+      "id": "45ab2545-a7eb-3fe8-8be4-ec7c0128e915"
+    }
+  ],
+  "asin": null
+}

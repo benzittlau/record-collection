@@ -1,0 +1,518 @@
+{
+  "id": "upper-middle-30",
+  "identity": "Ringo",
+  "searches": [
+    {
+      "query": "rgid:92e9a813-265a-3ddb-a5ad-5daac76af8b1",
+      "url": "https://musicbrainz.org/ws/2/release/?query=rgid%3A92e9a813-265a-3ddb-a5ad-5daac76af8b1&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "9db8c913-bc18-427b-99a0-0d80ebee55f2",
+      "url": "https://musicbrainz.org/release/9db8c913-bc18-427b-99a0-0d80ebee55f2",
+      "title": "Ringo",
+      "artistCredit": [
+        {
+          "name": "Ringo Starr",
+          "artist": {
+            "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+            "name": "Ringo Starr",
+            "sort-name": "Starr, Ringo",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1973",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SWAL-3413",
+          "label": {
+            "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+            "name": "Apple Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 19218569,
+          "image": "http://coverartarchive.org/release/9db8c913-bc18-427b-99a0-0d80ebee55f2/2178052379.jpg",
+          "comment": "",
+          "approved": true,
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/9db8c913-bc18-427b-99a0-0d80ebee55f2/2178052379-500.jpg",
+            "small": "http://coverartarchive.org/release/9db8c913-bc18-427b-99a0-0d80ebee55f2/2178052379-250.jpg"
+          },
+          "id": "2178052379"
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "f12a2338-622f-4b1f-bc8e-cdd0815411d1",
+      "url": "https://musicbrainz.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1",
+      "title": "Ringo",
+      "artistCredit": [
+        {
+          "name": "Ringo Starr",
+          "artist": {
+            "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+            "name": "Ringo Starr",
+            "sort-name": "Starr, Ringo",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "JP",
+      "date": "1973",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "EAP-9037X",
+          "label": {
+            "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+            "name": "Apple Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": true,
+          "comment": "cd",
+          "edit": 47739712,
+          "front": false,
+          "id": 17744838943,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744838943.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744838943-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744838943-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744838943-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744838943-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744838943-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "cd",
+          "edit": 47739713,
+          "front": false,
+          "id": 17744840593,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744840593.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744840593-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744840593-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744840593-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744840593-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744840593-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739717,
+          "front": false,
+          "id": 17744841379,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744841379.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744841379-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744841379-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744841379-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744841379-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744841379-250.jpg"
+          },
+          "types": [
+            "Booklet"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739718,
+          "front": false,
+          "id": 17744842097,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842097.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842097-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842097-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842097-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842097-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842097-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739719,
+          "front": false,
+          "id": 17744842780,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842780.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842780-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842780-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842780-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842780-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744842780-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739725,
+          "front": false,
+          "id": 17744843445,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744843445.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744843445-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744843445-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744843445-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744843445-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744843445-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739728,
+          "front": true,
+          "id": 17744845697,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744845697.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744845697-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744845697-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744845697-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744845697-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744845697-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739731,
+          "front": false,
+          "id": 17744846561,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744846561.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744846561-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744846561-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744846561-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744846561-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744846561-250.jpg"
+          },
+          "types": [
+            "Front",
+            "Obi"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739732,
+          "front": false,
+          "id": 17744847250,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744847250.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744847250-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744847250-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744847250-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744847250-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744847250-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739733,
+          "front": false,
+          "id": 17744848066,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848066.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848066-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848066-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848066-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848066-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848066-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739734,
+          "front": false,
+          "id": 17744848763,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848763.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848763-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848763-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848763-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848763-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744848763-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739735,
+          "front": false,
+          "id": 17744849404,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744849404.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744849404-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744849404-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744849404-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744849404-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744849404-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 47739736,
+          "front": false,
+          "id": 17744850447,
+          "image": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744850447.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744850447-1200.jpg",
+            "250": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744850447-250.jpg",
+            "500": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744850447-500.jpg",
+            "large": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744850447-500.jpg",
+            "small": "http://coverartarchive.org/release/f12a2338-622f-4b1f-bc8e-cdd0815411d1/17744850447-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "d8cdfd5d-065b-474f-82d0-80b77083acf6",
+      "url": "https://musicbrainz.org/release/d8cdfd5d-065b-474f-82d0-80b77083acf6",
+      "title": "Ringo",
+      "artistCredit": [
+        {
+          "name": "Ringo Starr",
+          "artist": {
+            "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+            "name": "Ringo Starr",
+            "sort-name": "Starr, Ringo",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1979",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SN-16114",
+          "label": {
+            "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+            "name": "Capitol Records"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "c50995bf-b631-4326-9f07-9a68341089b1",
+      "url": "https://musicbrainz.org/release/c50995bf-b631-4326-9f07-9a68341089b1",
+      "title": "Ringo",
+      "artistCredit": [
+        {
+          "name": "Ringo Starr",
+          "artist": {
+            "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+            "name": "Ringo Starr",
+            "sort-name": "Starr, Ringo",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1973-11-23",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "PCTC 252",
+          "label": {
+            "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+            "name": "Apple Records"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "2c63264c-ba72-4216-b3dd-45cea3fbe991",
+      "url": "https://musicbrainz.org/release/2c63264c-ba72-4216-b3dd-45cea3fbe991",
+      "title": "Ringo",
+      "artistCredit": [
+        {
+          "name": "Ringo Starr",
+          "artist": {
+            "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+            "name": "Ringo Starr",
+            "sort-name": "Starr, Ringo",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "FR",
+      "date": "1973",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "2 C068-05492",
+          "label": {
+            "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+            "name": "Apple Records"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    }
+  ],
+  "existingBack": {
+    "release-events": [
+      {
+        "date": "1973",
+        "area": {
+          "disambiguation": "",
+          "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+          "name": "Japan",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "JP"
+          ],
+          "type": null,
+          "sort-name": "Japan"
+        }
+      }
+    ],
+    "date": "1973",
+    "id": "f12a2338-622f-4b1f-bc8e-cdd0815411d1",
+    "media": [
+      {
+        "position": 1,
+        "format": "12\" Vinyl",
+        "id": "11e51530-7b05-39a0-8b55-30cec6b31954",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "track-count": 10,
+        "title": ""
+      }
+    ],
+    "barcode": "",
+    "packaging": "Cardboard/Paper Sleeve",
+    "artist-credit": [
+      {
+        "artist": {
+          "country": "GB",
+          "name": "Ringo Starr",
+          "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+          "disambiguation": "The Beatles",
+          "sort-name": "Starr, Ringo",
+          "type": "Person",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+        },
+        "joinphrase": "",
+        "name": "Ringo Starr"
+      }
+    ],
+    "label-info": [
+      {
+        "label": {
+          "disambiguation": "",
+          "name": "Apple Records",
+          "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+          "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+          "label-code": 1074,
+          "sort-name": "Apple Records",
+          "type": "Original Production"
+        },
+        "catalog-number": "EAP-9037X"
+      }
+    ],
+    "quality": "normal",
+    "cover-art-archive": {
+      "front": true,
+      "back": true,
+      "count": 13,
+      "darkened": false,
+      "artwork": true
+    },
+    "title": "Ringo",
+    "asin": null,
+    "disambiguation": "",
+    "country": "JP",
+    "status": "Official",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f"
+  }
+}

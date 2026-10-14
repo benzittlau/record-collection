@@ -1,0 +1,694 @@
+{
+  "id": 2233591,
+  "status": "Accepted",
+  "year": 1972,
+  "resource_url": "https://api.discogs.com/releases/2233591",
+  "uri": "https://www.discogs.com/release/2233591-Audience-2-Lunch",
+  "artists": [
+    {
+      "name": "Audience (2)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 280051,
+      "resource_url": "https://api.discogs.com/artists/280051",
+      "thumbnail_url": "https://i.discogs.com/EeFrmeB2qcgrgtiNXSxqrPpHEpgH5Zpf4Qpk-rjdm5g/rs:fit/g:sm/q:90/h:351/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4MDA1/MS0xMjg5MjMyMjI3/LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Audience (2)",
+  "labels": [
+    {
+      "name": "Charisma",
+      "catno": "CAS 1054",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 3109,
+      "resource_url": "https://api.discogs.com/labels/3109",
+      "thumbnail_url": "https://i.discogs.com/xdXicj-QfyH-4lFVjrsR2vmkUdyh03Zm8Z33V9ui65E/rs:fit/g:sm/q:90/h:477/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMDkt/MTM1NDY1MzA1My0z/NTk3LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Trident Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 218698,
+      "resource_url": "https://api.discogs.com/labels/218698",
+      "thumbnail_url": "https://i.discogs.com/qBzTp7bUDRGYQ6Gge1VGKQyOeVgaAv2QwOqD5qqliyY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxODY5/OC0xNjgwMTg4NjEz/LTU3NDEuanBlZw.jpeg"
+    },
+    {
+      "name": "Essex Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 214727,
+      "resource_url": "https://api.discogs.com/labels/214727",
+      "thumbnail_url": "https://i.discogs.com/NZuPGrfwZ7ldUknJbBCbYt3I6WzmtAbsCImNmEU7HXQ/rs:fit/g:sm/q:90/h:99/w:324/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNDcy/Ny0xNjY1NzM4NTk3/LTQwMDEuanBlZw.jpeg"
+    },
+    {
+      "name": "B&C Records Ltd.",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 378438,
+      "resource_url": "https://api.discogs.com/labels/378438",
+      "thumbnail_url": "https://i.discogs.com/XX6XFbVnpAWE2_IXPVLrSczWlA51QrJLs6g1J2O9cfo/rs:fit/g:sm/q:90/h:155/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3ODQz/OC0xNTQ4MTc2MDc4/LTk0NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "B&C Records Ltd.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 378438,
+      "resource_url": "https://api.discogs.com/labels/378438",
+      "thumbnail_url": "https://i.discogs.com/XX6XFbVnpAWE2_IXPVLrSczWlA51QrJLs6g1J2O9cfo/rs:fit/g:sm/q:90/h:155/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3ODQz/OC0xNTQ4MTc2MDc4/LTk0NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "B&C Records Ltd.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 378438,
+      "resource_url": "https://api.discogs.com/labels/378438",
+      "thumbnail_url": "https://i.discogs.com/XX6XFbVnpAWE2_IXPVLrSczWlA51QrJLs6g1J2O9cfo/rs:fit/g:sm/q:90/h:155/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3ODQz/OC0xNTQ4MTc2MDc4/LTk0NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "The Gramophone Co. Ltd.",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 253617,
+      "resource_url": "https://api.discogs.com/labels/253617",
+      "thumbnail_url": "https://i.discogs.com/kaHN3N80A8IXVPH27nFTTeDqB7M7IA7sKwwV5NYBVyQ/rs:fit/g:sm/q:90/h:90/w:246/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MzYx/Ny0xMzM4MDU1ODI0/LTU5NDUuanBlZw.jpeg"
+    },
+    {
+      "name": "E.J. Day Group",
+      "catno": "",
+      "entity_type": "16",
+      "entity_type_name": "Made By",
+      "id": 265241,
+      "resource_url": "https://api.discogs.com/labels/265241",
+      "thumbnail_url": "https://i.discogs.com/fuNEUKqzXp3xNfh5FCzYx-hYeS2JxkdGGB5ziql8_u4/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTI0/MS0xNDI5MzEzMjQ4/LTk4MTAuanBlZw.jpeg"
+    },
+    {
+      "name": "E.J. Day Group",
+      "catno": "",
+      "entity_type": "19",
+      "entity_type_name": "Printed By",
+      "id": 265241,
+      "resource_url": "https://api.discogs.com/labels/265241",
+      "thumbnail_url": "https://i.discogs.com/fuNEUKqzXp3xNfh5FCzYx-hYeS2JxkdGGB5ziql8_u4/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTI0/MS0xNDI5MzEzMjQ4/LTk4MTAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Gatefold"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 508,
+    "want": 128,
+    "rating": {
+      "count": 65,
+      "average": 3.69
+    },
+    "submitter": {
+      "username": "Hochelema",
+      "resource_url": "https://api.discogs.com/users/Hochelema"
+    },
+    "contributors": [
+      {
+        "username": "Hochelema",
+        "resource_url": "https://api.discogs.com/users/Hochelema"
+      },
+      {
+        "username": "soundprojector",
+        "resource_url": "https://api.discogs.com/users/soundprojector"
+      },
+      {
+        "username": "eiki",
+        "resource_url": "https://api.discogs.com/users/eiki"
+      },
+      {
+        "username": "bernard2229",
+        "resource_url": "https://api.discogs.com/users/bernard2229"
+      },
+      {
+        "username": "Rossmichael",
+        "resource_url": "https://api.discogs.com/users/Rossmichael"
+      },
+      {
+        "username": "vinyl.dude",
+        "resource_url": "https://api.discogs.com/users/vinyl.dude"
+      },
+      {
+        "username": "13tausend3",
+        "resource_url": "https://api.discogs.com/users/13tausend3"
+      },
+      {
+        "username": "mkus",
+        "resource_url": "https://api.discogs.com/users/mkus"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2010-04-15T08:49:09-07:00",
+  "date_changed": "2023-10-02T03:58:31-07:00",
+  "num_for_sale": 34,
+  "lowest_price": 3.95,
+  "master_id": 154960,
+  "master_url": "https://api.discogs.com/masters/154960",
+  "title": "Lunch",
+  "country": "UK",
+  "released": "1972",
+  "notes": "Charisma \"pink scroll\" labels.\r\nSoft matt fully textured gatefold cover with lyric inner.\r\n\r\nLabels:\r\n\u2117 1972\r\n\r\n\r\nSleeve:\r\nOn back cover - Recorded at Trident Studios London November 1971 and January 1972. \u2117 1972\r\nOn inner cover - Marketed by B & C Records Ltd., 37 Soho Square, London W1. \r\nSleeve printed and made by the E. J. Day Group, London and Bedford\r\n",
+  "released_formatted": "1972",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1054 A - 2U",
+      "description": "A-side runout stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1054 B - 2U",
+      "description": "B-side runout stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1054A",
+      "description": "A-side label, in brackets"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CAS 1054B",
+      "description": "B-side label, in brackets"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=_9u185KChSI",
+      "title": "Stand By The Door",
+      "description": "Provided to YouTube by Universal Music Group\n\nStand By The Door \u00b7 Audience\n\nLunch\n\n\u2117 1972 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nComposer: Howard Werth\n\nAuto-generated by YouTube.",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mT9LupVMa0k",
+      "title": "Seven Sore Bruises",
+      "description": "Provided to YouTube by Universal Music Group\n\nSeven Sore Bruises \u00b7 Audience\n\nLunch\n\n\u2117 1972 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nComposer: Trevor Williams\nComposer: Howard Werth\n\nAuto-generated by YouTube.",
+      "duration": 159,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CJT6mU1h-y8",
+      "title": "Hula Girl",
+      "description": "Provided to YouTube by Universal Music Group\n\nHula Girl \u00b7 Audience\n\nLunch\n\n\u2117 1972 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nComposer: Howard Werth\nComposer: Keith Gemmell\n\nAuto-generated by YouTube.",
+      "duration": 162,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=n4Sl-GmJxrs",
+      "title": "Audience - Ain't The Man You Need",
+      "description": "Audience - Lunch - 1972\r\nAudio\r\n\r\nUK Eclectic Prog\r\n\r\n- Howard Werth / guitar, vocals\r\n- Tony Connor / drums, marimba, vibraphone\r\n- Gus Dudgeon / percussion\r\n- Keith Gemmell / clarinet, flute, saxophone (Tenor), wind\r\n- Nick Judd / piano, keyboards\r\n- Bo",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=f6Z5gczPCwI",
+      "title": "In Accord",
+      "description": "Provided to YouTube by Universal Music Group\n\nIn Accord \u00b7 Audience\n\nLunch\n\n\u2117 1972 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nComposer: Trevor Williams\nComposer: Anthony Connor\nComposer: Keith Gemmell\n\nAuto-generated by YouTube.",
+      "duration": 298,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y8SrXtBpeXE",
+      "title": "Thunder And Lightnin'",
+      "description": "Provided to YouTube by Universal Music Group\n\nThunder And Lightnin' \u00b7 Audience\n\nLunch\n\n\u2117 1972 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nComposer: Howard Werth\n\nAuto-generated by YouTube.",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0oZIZguaaYs",
+      "title": "Barracuda Dan",
+      "description": "Provided to YouTube by Universal Music Group\n\nBarracuda Dan \u00b7 Audience\n\nLunch\n\n\u2117 1972 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nComposer: Howard Werth\nComposer: Trevor Williams\n\nAuto-generated by YouTube.",
+      "duration": 141,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WeYGF937iUs",
+      "title": "Party Games",
+      "description": "Provided to YouTube by Universal Music Group\n\nParty Games \u00b7 Audience\n\nLunch\n\n\u2117 1972 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nComposer: Howard Werth\nComposer: Trevor Williams\n\nAuto-generated by YouTube.",
+      "duration": 200,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=js9XCahV7og",
+      "title": "Trombone Gulch",
+      "description": "Provided to YouTube by Universal Music Group\n\nTrombone Gulch \u00b7 Audience\n\nLunch\n\n\u2117 1972 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nComposer: Trevor Williams\nComposer: Howard Werth\n\nAuto-generated by YouTube.",
+      "duration": 163,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=s4d9NpAnYRA",
+      "title": "Buy Me An Island",
+      "description": "Provided to YouTube by Universal Music Group\n\nBuy Me An Island \u00b7 Audience\n\nLunch\n\n\u2117 1972 Virgin Records Limited\n\nReleased on: 2009-01-01\n\nProducer: Gus Dudgeon\nComposer: Howard Werth\n\nAuto-generated by YouTube.",
+      "duration": 311,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Art Rock",
+    "Prog Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Stand By The Door",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        }
+      ],
+      "duration": "3:56"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Seven Sore Bruises",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Trevor Williams",
+          "anv": "Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510080,
+          "resource_url": "https://api.discogs.com/artists/510080"
+        }
+      ],
+      "duration": "2:37"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Hula Girl",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Keith Gemmell",
+          "anv": "Gemmel",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 859502,
+          "resource_url": "https://api.discogs.com/artists/859502"
+        }
+      ],
+      "duration": "2:40"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Ain't The Man You Need",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        }
+      ],
+      "duration": "3:20"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "In Accord",
+      "extraartists": [
+        {
+          "name": "Keith Gemmell",
+          "anv": "Gemmel",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 859502,
+          "resource_url": "https://api.discogs.com/artists/859502"
+        },
+        {
+          "name": "Tony Connor",
+          "anv": "Connor",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510078,
+          "resource_url": "https://api.discogs.com/artists/510078"
+        },
+        {
+          "name": "Trevor Williams",
+          "anv": "Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510080,
+          "resource_url": "https://api.discogs.com/artists/510080"
+        }
+      ],
+      "duration": "4:55"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Barracuda Dan",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Trevor Williams",
+          "anv": "Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510080,
+          "resource_url": "https://api.discogs.com/artists/510080"
+        }
+      ],
+      "duration": "2:15"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Thunder And Lightnin'",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        }
+      ],
+      "duration": "3:37"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Party Games",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Trevor Williams",
+          "anv": "Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510080,
+          "resource_url": "https://api.discogs.com/artists/510080"
+        }
+      ],
+      "duration": "3:20"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Trombone Gulch",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        },
+        {
+          "name": "Trevor Williams",
+          "anv": "Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510080,
+          "resource_url": "https://api.discogs.com/artists/510080"
+        }
+      ],
+      "duration": "2:43"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Buy Me An Island",
+      "extraartists": [
+        {
+          "name": "Howard Werth",
+          "anv": "Werth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 510079,
+          "resource_url": "https://api.discogs.com/artists/510079"
+        }
+      ],
+      "duration": "5:10"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jim Price",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Brass], Trombone, Trumpet",
+      "tracks": "A2, A4, B1, B4",
+      "id": 114736,
+      "resource_url": "https://api.discogs.com/artists/114736"
+    },
+    {
+      "name": "Trevor Williams",
+      "anv": "",
+      "join": "",
+      "role": "Bass Guitar, Accordion, Vocals",
+      "tracks": "",
+      "id": 510080,
+      "resource_url": "https://api.discogs.com/artists/510080"
+    },
+    {
+      "name": "George Hardie",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1826981,
+      "resource_url": "https://api.discogs.com/artists/1826981"
+    },
+    {
+      "name": "NTA Studios",
+      "anv": "NTA",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 2040424,
+      "resource_url": "https://api.discogs.com/artists/2040424"
+    },
+    {
+      "name": "Hipgnosis (2)",
+      "anv": "",
+      "join": "",
+      "role": "Design, Cover [Concept]",
+      "tracks": "",
+      "id": 1826972,
+      "resource_url": "https://api.discogs.com/artists/1826972"
+    },
+    {
+      "name": "Tony Connor",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Marimba [Vibes]",
+      "tracks": "",
+      "id": 510078,
+      "resource_url": "https://api.discogs.com/artists/510078"
+    },
+    {
+      "name": "David Hentschel",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 264826,
+      "resource_url": "https://api.discogs.com/artists/264826"
+    },
+    {
+      "name": "Nick Judd",
+      "anv": "",
+      "join": "",
+      "role": "Piano",
+      "tracks": "",
+      "id": 288425,
+      "resource_url": "https://api.discogs.com/artists/288425"
+    },
+    {
+      "name": "Gus Dudgeon",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 179206,
+      "resource_url": "https://api.discogs.com/artists/179206"
+    },
+    {
+      "name": "Bobby Keys",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Saxophone",
+      "tracks": "A2, A4, B1, B4",
+      "id": 255176,
+      "resource_url": "https://api.discogs.com/artists/255176"
+    },
+    {
+      "name": "Keith Gemmell",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Saxophone, Clarinet, Flute",
+      "tracks": "",
+      "id": 859502,
+      "resource_url": "https://api.discogs.com/artists/859502"
+    },
+    {
+      "name": "Howard Werth",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Guitar",
+      "tracks": "",
+      "id": 510079,
+      "resource_url": "https://api.discogs.com/artists/510079"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/yrg-unwoQCckSFwyIqMjS73NSFJBjEgp5ejvHw3_viM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTQ4MjI3NDgy/MC03OTcyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/yrg-unwoQCckSFwyIqMjS73NSFJBjEgp5ejvHw3_viM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTQ4MjI3NDgy/MC03OTcyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/QXqIbO4fezCzUdlGymTS_vcUB0ya2EyW2Yn_3gx2anE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTQ4MjI3NDgy/MC03OTcyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lKD8K1jLsaKxqnSlUNrgRoXbZA2T12YNZswsKCZJsfY/rs:fit/g:sm/q:90/h:593/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTM1/Mi04NTkzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/lKD8K1jLsaKxqnSlUNrgRoXbZA2T12YNZswsKCZJsfY/rs:fit/g:sm/q:90/h:593/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTM1/Mi04NTkzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/FKa01B0lP41OTpN_xd6rGIS-1FwfjpoyL3boZozAmsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTM1/Mi04NTkzLmpwZWc.jpeg",
+      "width": 595,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/slwBzY6aZ8pp4Rb0ImPzXjPr28FuFznIyQ-d9ltPz8g/rs:fit/g:sm/q:90/h:584/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTM2/MC02NDY0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/slwBzY6aZ8pp4Rb0ImPzXjPr28FuFznIyQ-d9ltPz8g/rs:fit/g:sm/q:90/h:584/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTM2/MC02NDY0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/zwNSRIh28QXc655rFPUeFpOr0bwr8-2ropqDXiFow-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTM2/MC02NDY0LmpwZWc.jpeg",
+      "width": 595,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/SD7MM1Nam5tpPjS2HOq4i5v3BqYDYHdiTlK1niLAb8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTQ4MjI3NDgz/OC01OTEzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/SD7MM1Nam5tpPjS2HOq4i5v3BqYDYHdiTlK1niLAb8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTQ4MjI3NDgz/OC01OTEzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/UQP8rXk3eFleOvO67zrpHJ-eoGprcoLZOxVl7UpchlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTQ4MjI3NDgz/OC01OTEzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wMCUY4YGdphSwDDk0eryOauihKmrgmLT-RDpX3jWWbY/rs:fit/g:sm/q:90/h:590/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTEz/NC00NDkzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/wMCUY4YGdphSwDDk0eryOauihKmrgmLT-RDpX3jWWbY/rs:fit/g:sm/q:90/h:590/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTEz/NC00NDkzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/32TX4LE5GNCvAQIj7fepJb2s0-IF8C61XyS_TNUO2IU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTEz/NC00NDkzLmpwZWc.jpeg",
+      "width": 595,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1rtwdC2pp6zELWz1L0AiPpOhw8jRkP9PGwaQs8OVaSo/rs:fit/g:sm/q:90/h:595/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTE0/NC00NDkwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/1rtwdC2pp6zELWz1L0AiPpOhw8jRkP9PGwaQs8OVaSo/rs:fit/g:sm/q:90/h:595/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTE0/NC00NDkwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/K3wlIffKrlLm8UU8afZVft0vS4A6NecmxFtovCg75Oc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTE0/NC00NDkwLmpwZWc.jpeg",
+      "width": 593,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8YcDtNgGr88mzc4wIvQTc30TmT8rLxwqEWvWOVTIPaM/rs:fit/g:sm/q:90/h:594/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTEx/My04Mzk4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/8YcDtNgGr88mzc4wIvQTc30TmT8rLxwqEWvWOVTIPaM/rs:fit/g:sm/q:90/h:594/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTEx/My04Mzk4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/hdz1i8yCmUZHb5UwFz-9EqyTjsURQXDcnAFYxZjgetQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTEx/My04Mzk4LmpwZWc.jpeg",
+      "width": 595,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4sNAQo4qx8DQKlR3S0-Ns4tMkBvceXrfkFWK9t6lv1g/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTEy/My00ODMyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/4sNAQo4qx8DQKlR3S0-Ns4tMkBvceXrfkFWK9t6lv1g/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTEy/My00ODMyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/XyfvTnfnOcBVfH2LZ9EzeQPP5pEZL_LI6-LVz5CHNrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTM5MjMwOTEy/My00ODMyLmpwZWc.jpeg",
+      "width": 595,
+      "height": 595
+    }
+  ],
+  "thumb": "https://i.discogs.com/QXqIbO4fezCzUdlGymTS_vcUB0ya2EyW2Yn_3gx2anE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTQ4MjI3NDgy/MC03OTcyLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

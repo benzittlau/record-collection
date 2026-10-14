@@ -1,0 +1,213 @@
+{
+  "query": {
+    "catno": "S36339",
+    "type": "release",
+    "format": "Vinyl",
+    "per_page": 30
+  },
+  "url": "https://api.discogs.com/database/search?catno=S36339&type=release&format=Vinyl&per_page=30",
+  "data": {
+    "pagination": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 30,
+      "items": 4,
+      "urls": {}
+    },
+    "results": [
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Stereo"
+        ],
+        "style": [
+          "Classical"
+        ],
+        "id": 11056658,
+        "label": [
+          "Angel Records"
+        ],
+        "type": "release",
+        "barcode": [
+          "2YLA-X-1332-A1 / 2YLA-X-1332-B2"
+        ],
+        "master_id": 1002824,
+        "master_url": "https://api.discogs.com/masters/1002824",
+        "uri": "/release/11056658-Michel-Debost-Mozart-The-Two-Concertos-For-Flute-Orchestra",
+        "catno": "S 36339",
+        "title": "Michel Debost - Mozart: The Two Concertos For Flute & Orchestra",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/11056658",
+        "community": {
+          "want": 1,
+          "have": 30
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "style": [
+          "Classical"
+        ],
+        "id": 8977212,
+        "label": [
+          "Angel Records",
+          "Angel Records"
+        ],
+        "type": "release",
+        "barcode": [
+          "2YLA-X-1332-A1",
+          "2YLA-X-1333-B2 x2"
+        ],
+        "master_id": 1002824,
+        "master_url": "https://api.discogs.com/masters/1002824",
+        "uri": "/release/8977212-Mozart-Michel-Debost-Moscow-Chamber-Orchestra-Rudolf-Barshai-The-Two-Flute-Concertos-For-Flute-Orche",
+        "catno": "36339",
+        "title": "Mozart* - Michel Debost - Moscow Chamber Orchestra - Rudolf Barshai - The Two Flute Concertos For Flute & Orchestra",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/8977212",
+        "community": {
+          "want": 2,
+          "have": 15
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "US",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album"
+        ],
+        "style": [
+          "Classical"
+        ],
+        "id": 5448093,
+        "label": [
+          "Angel Records",
+          "Capitol Records, Inc."
+        ],
+        "type": "release",
+        "barcode": [
+          "2YLA-X-1332-A1",
+          "2YLA-X-1333-A1"
+        ],
+        "master_id": 1002824,
+        "master_url": "https://api.discogs.com/masters/1002824",
+        "uri": "/release/5448093-Mozart-Michel-Debost-Moscow-Chamber-Orchestra-Rudolf-Barshai-The-Two-Flute-Concertos-For-Flute-Orche",
+        "catno": "36339",
+        "title": "Mozart* - Michel Debost - Moscow Chamber Orchestra - Rudolf Barshai - The Two Flute Concertos For Flute & Orchestra",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/5448093",
+        "community": {
+          "want": 1,
+          "have": 67
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ]
+      },
+      {
+        "country": "France",
+        "genre": [
+          "Classical"
+        ],
+        "format": [
+          "Vinyl",
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "style": [
+          "Classical"
+        ],
+        "id": 10428169,
+        "label": [
+          "Angel Records",
+          "Angel Records",
+          "La Voix De Son Ma\u00eetre"
+        ],
+        "type": "release",
+        "barcode": [
+          "2YLA-X-1332 / S. 36339",
+          "2YLA-1332",
+          "2YLA-X-1333 / S. 36339",
+          "2YLA-1333"
+        ],
+        "master_id": 1002824,
+        "master_url": "https://api.discogs.com/masters/1002824",
+        "uri": "/release/10428169-Mozart-Michel-Debost-Moscow-Chamber-Orchestra-Rudolf-Barshai-The-Two-Flute-Concertos-For-Flute-Orche",
+        "catno": "36339",
+        "title": "Mozart* - Michel Debost - Moscow Chamber Orchestra - Rudolf Barshai - The Two Flute Concertos For Flute & Orchestra",
+        "thumb": "",
+        "cover_image": "",
+        "resource_url": "https://api.discogs.com/releases/10428169",
+        "community": {
+          "want": 2,
+          "have": 20
+        },
+        "format_quantity": 1,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

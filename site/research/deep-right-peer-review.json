@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "reviewer": "catalog_right",
+  "created": "2026-10-14T04:10:35.993002+00:00",
+  "scope": "Read-only independent artwork, identity, provenance and capture-guide review. Only the requested right52 audit-copy correction and this review file were written.",
+  "verdict": "pass",
+  "openBlockers": [],
+  "snapshots": {
+    "middle.json": "5d9e58f394a728acbec51b8f3c697bc08c60f89fe543398a57abe14ef24ea881",
+    "right.json": "9c717269bd6c6a2a91fb5a57e7d60d06ec59c242ebb86908ca22e8fe77f28e1a",
+    "deep-left-art-selections.json": "088457acdd4ef170a369ae07ae85aea4683e2a974fbdd6b385feb9b8a1adfcfd",
+    "deep-right-audit.json": "070a9dc69aa1eb90245c7278bcab53332be0abec2a26c0c6746c2412a2dfd57e"
+  },
+  "middle": {
+    "records": 138,
+    "fronts": 122,
+    "outerBacks": 120,
+    "labels": 13,
+    "evidence": [
+      "/tmp/deep-middle-final-qa/sheet-00.jpg through sheet-17.jpg",
+      "/tmp/deep-middle-final-qa-v2/front-00.jpg through front-10.jpg",
+      "/tmp/deep-middle-final-qa-v2/label-00.jpg and label-01.jpg",
+      "/tmp/deep-middle-final-qa-v2/corrected-pairs.jpg",
+      "Full-size accepted Ringo30, Firebird05, Gregorian07, Mahler38 and MaryPoppins49 images"
+    ],
+    "checks": [
+      "All unknown identities retain placeholders without assigned artwork.",
+      "Unresolved probable Fricsay04 remains explicitly tentative and requested for capture; trumpet53 has no unverified performer artwork.",
+      "Classical conductor/ensemble/soloist names and programme reviewed against front/back printing, including Ormandy02, Haitink05, Previn36, Debost37, Mehta38, Schwalbe39, early Karajan40, Benbow41, Scherchen43, Menuhin54 and Rampal/Laskine67.",
+      "Decorative outer rears02 and52 are legitimate; separately photographed interior panels were not substituted.",
+      "Every accepted local front/back/label file exists and has a source URL.",
+      "Front refresh removes legacy CD/SpecialNewEdition/Deluxe packaging from03,31,37,50 and framed remasters40/44."
+    ]
+  },
+  "left": {
+    "selectionRows": 126,
+    "fronts": 113,
+    "outerBacks": 113,
+    "labels": 91,
+    "evidence": [
+      "site/research/deep-left-accepted-contact-01.jpg through -19.jpg",
+      "Full-size HeartbeatCity42 exterior front/back/spine source and literal rear-panel crop",
+      "site/research/deep-left-art-selections.json"
+    ],
+    "checks": [
+      "All accepted art sheets reviewed independently after proposal repairs.",
+      "BeforeTheFlood44 genuine UK LP orange outer rear replaces rejected CD tray.",
+      "Trilogy10 literal left scenery panel and HeartbeatCity42 literal upper panel are cropped from actual exterior sleeve spreads with crop provenance.",
+      "CrosbyNash19 revised1972 identity, MagicalMysteryTour60 full US LP programme, NeverForEver52 and Alchemy53 artwork match their album identities.",
+      "ChildsAdventure66 label names the correct album/programme; unrelated U2 candidate excluded.",
+      "All selected local files and source URLs exist.",
+      "Representative mono/stereo, reissue and country differences are disclosed rather than claimed as verified family pressings."
+    ]
+  },
+  "right": {
+    "records": 54,
+    "fronts": 52,
+    "outerLPBacks": 51,
+    "labels": 20,
+    "audit": "site/research/deep-right-audit.json",
+    "checks": [
+      "54 stable IDs/order retained.",
+      "Accepted outer LP backs exclude old CD trays, gatefold interiors and bonus-album packaging.",
+      "Book52 representative1400px historical front is explicitly distinguished from the family edition; actual front/back capture remains required.",
+      "Unknown04/30 thin edges remain conditional front/back pairs, with neighboring titles as physical anchors."
+    ]
+  },
+  "resolvedFindings": [
+    {
+      "id": "upper-middle-30",
+      "issue": "CAA LP metadata concealed expanded bonus-track/CD-style packaging",
+      "resolution": "Original SWAL3413 LP front/rear acquired and full-size verified"
+    },
+    {
+      "id": "lower-middle-05",
+      "issue": "Dutch Discogs image1 was disc label rather than outer sleeve back",
+      "resolution": "Japanese20PC1011 genuine outer rear of same Haitink/LPO complete recording accepted with per-face edition notes; Dutch label retained separately"
+    },
+    {
+      "id": "lower-middle-07",
+      "issue": "Neighboring spines visible in wide LP sleeve photos; label SPA189 belonged to another Gregorian album",
+      "resolution": "Literal square-face crops verified; incompatible label and labelURL cleared"
+    },
+    {
+      "id": "right-52",
+      "issue": "Capture reason described superseded137px author thumbnail as current artwork",
+      "resolution": "Reason now says historical reference front available while actual binding, edition and outer back remain unverified; old thumbnail retained only in rejections"
+    }
+  ],
+  "captureGuide": {
+    "snapshotVersion": "9813ffab5da0",
+    "pairs": 47,
+    "plannedPhotos": 94,
+    "conditionalPairs": 13,
+    "checks": [
+      "Every pair has sequential front then back shot IDs and every shot maps to the correct record/pair/face.",
+      "Next-pair navigation focuses heading and scrolls to top; same-pair front/back navigation preserves context.",
+      "Step/map controls use aria-pressed consistently with HTML/CSS.",
+      "Conditional edges show separate-jacket instruction and skip controls.",
+      "Counts describe planned maxima, allowing skipped folds.",
+      "Book-specific main prompts and audit captureInstruction request front and outer back without disc photos.",
+      "Required unresolved/probable records and missing faces remain included."
+    ],
+    "limitation": "This child reviewed source and saved imagery; live mobile/browser evidence is held by the parent. Parent must rebuild/freeze final manifest after all research shards are sealed."
+  },
+  "limitations": [
+    "Title/performer identities were reviewed, but representative artwork does not prove exact family pressing, matrix, binding or wear.",
+    "Some genuine LP scans are only500–600px and small liner text is soft; no unverified reconstruction is claimed.",
+    "Review hashes capture the accepted state; subsequent accepted-art changes require another bounded visual check."
+  ]
+}

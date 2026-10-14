@@ -1,0 +1,295 @@
+{
+  "id": "lower-middle-20",
+  "identity": "Abbey Road",
+  "searches": [
+    {
+      "query": "release:\"Abbey Road\" AND artist:\"The Beatles\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Abbey%20Road%22%20AND%20artist%3A%22The%20Beatles%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "d5f3d527-edb8-4534-a1c6-1e433262e5c1",
+      "url": "https://musicbrainz.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1",
+      "title": "Abbey Road",
+      "artistCredit": [
+        {
+          "name": "The Beatles",
+          "artist": {
+            "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+            "name": "The Beatles",
+            "sort-name": "Beatles, The",
+            "disambiguation": "UK rock band, “The Fab Four”"
+          }
+        }
+      ],
+      "country": "CA",
+      "date": "1976",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "SO-383",
+          "label": {
+            "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+            "name": "Capitol Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 26919566,
+          "image": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824929255.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "6824929255",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824929255-500.jpg",
+            "small": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824929255-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Back"
+          ],
+          "front": false,
+          "back": true,
+          "edit": 26919569,
+          "image": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824933246.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "6824933246",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824933246-500.jpg",
+            "small": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824933246-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 26919574,
+          "image": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824937585.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "6824937585",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824937585-500.jpg",
+            "small": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824937585-250.jpg"
+          }
+        },
+        {
+          "types": [
+            "Medium"
+          ],
+          "front": false,
+          "back": false,
+          "edit": 26919572,
+          "image": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824936365.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "6824936365",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824936365-500.jpg",
+            "small": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824936365-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "7a2075a2-ab80-4225-b20d-63b6b9c6a20d",
+      "url": "https://musicbrainz.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d",
+      "title": "Abbey Road",
+      "artistCredit": [
+        {
+          "name": "The Beatles",
+          "artist": {
+            "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+            "name": "The Beatles",
+            "sort-name": "Beatles, The",
+            "disambiguation": "UK rock band, “The Fab Four”"
+          }
+        }
+      ],
+      "country": "XE",
+      "date": "2019-09-27",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "0602577915123",
+          "label": {
+            "id": "cf7fc5cf-e011-4ef4-b511-cd0188537910",
+            "name": "Apple Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "Front + Sticker",
+          "edit": 83412500,
+          "front": true,
+          "id": 30619935097,
+          "image": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619935097.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619935097-1200.jpg",
+            "250": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619935097-250.jpg",
+            "500": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619935097-500.jpg",
+            "large": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619935097-500.jpg",
+            "small": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619935097-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 64361499,
+          "front": false,
+          "id": 24276524913,
+          "image": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276524913.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276524913-1200.jpg",
+            "250": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276524913-250.jpg",
+            "500": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276524913-500.jpg",
+            "large": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276524913-500.jpg",
+            "small": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276524913-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 83412498,
+          "front": false,
+          "id": 30619934535,
+          "image": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934535.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934535-1200.jpg",
+            "250": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934535-250.jpg",
+            "500": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934535-500.jpg",
+            "large": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934535-500.jpg",
+            "small": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934535-250.jpg"
+          },
+          "types": [
+            "Sticker"
+          ]
+        },
+        {
+          "approved": true,
+          "back": true,
+          "comment": "",
+          "edit": 64361508,
+          "front": false,
+          "id": 24276528452,
+          "image": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276528452.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276528452-1200.jpg",
+            "250": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276528452-250.jpg",
+            "500": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276528452-500.jpg",
+            "large": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276528452-500.jpg",
+            "small": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/24276528452-250.jpg"
+          },
+          "types": [
+            "Back"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "LP 1",
+          "edit": 83412496,
+          "front": false,
+          "id": 30619933889,
+          "image": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619933889.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619933889-1200.jpg",
+            "250": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619933889-250.jpg",
+            "500": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619933889-500.jpg",
+            "large": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619933889-500.jpg",
+            "small": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619933889-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "LP 2",
+          "edit": 83412497,
+          "front": false,
+          "id": 30619934257,
+          "image": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934257.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934257-1200.jpg",
+            "250": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934257-250.jpg",
+            "500": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934257-500.jpg",
+            "large": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934257-500.jpg",
+            "small": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30619934257-250.jpg"
+          },
+          "types": [
+            "Medium"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "Booklet 1 - Attached to some of the single album releases but was made for the 3 album box set",
+          "edit": 83427874,
+          "front": false,
+          "id": 30625289083,
+          "image": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625289083.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625289083-1200.jpg",
+            "250": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625289083-250.jpg",
+            "500": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625289083-500.jpg",
+            "large": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625289083-500.jpg",
+            "small": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625289083-250.jpg"
+          },
+          "types": [
+            "Booklet"
+          ]
+        },
+        {
+          "approved": true,
+          "back": false,
+          "comment": "Booklet 2 - Attached to some of the single album releases but was made for the 3 album box set",
+          "edit": 83427876,
+          "front": false,
+          "id": 30625290837,
+          "image": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625290837.jpg",
+          "thumbnails": {
+            "1200": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625290837-1200.jpg",
+            "250": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625290837-250.jpg",
+            "500": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625290837-500.jpg",
+            "large": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625290837-500.jpg",
+            "small": "http://coverartarchive.org/release/7a2075a2-ab80-4225-b20d-63b6b9c6a20d/30625290837-250.jpg"
+          },
+          "types": [
+            "Booklet"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

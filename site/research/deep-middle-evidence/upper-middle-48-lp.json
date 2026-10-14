@@ -1,0 +1,251 @@
+{
+  "id": "upper-middle-48",
+  "identity": "George Harrison",
+  "searches": [
+    {
+      "query": "release:\"George Harrison\" AND artist:\"George Harrison\"",
+      "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22George%20Harrison%22%20AND%20artist%3A%22George%20Harrison%22&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "cc96a400-31f8-46b8-bb28-921125adc2db",
+      "url": "https://musicbrainz.org/release/cc96a400-31f8-46b8-bb28-921125adc2db",
+      "title": "George Harrison",
+      "artistCredit": [
+        {
+          "name": "George Harrison",
+          "artist": {
+            "id": "42a8f507-8412-4611-854f-926571049fa0",
+            "name": "George Harrison",
+            "sort-name": "Harrison, George",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1979",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "DHK 3255",
+          "label": {
+            "id": "9feb1272-e583-43b6-8101-cacd67814e58",
+            "name": "Dark Horse Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "edit": 33508922,
+          "image": "http://coverartarchive.org/release/cc96a400-31f8-46b8-bb28-921125adc2db/10639926057.jpg",
+          "id": "10639926057",
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/cc96a400-31f8-46b8-bb28-921125adc2db/10639926057-250.jpg",
+            "large": "http://coverartarchive.org/release/cc96a400-31f8-46b8-bb28-921125adc2db/10639926057-500.jpg"
+          },
+          "comment": "",
+          "back": false
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "7255c08f-2dce-4d20-a1a5-132e464bd9cf",
+      "url": "https://musicbrainz.org/release/7255c08f-2dce-4d20-a1a5-132e464bd9cf",
+      "title": "George Harrison",
+      "artistCredit": [
+        {
+          "name": "George Harrison",
+          "artist": {
+            "id": "42a8f507-8412-4611-854f-926571049fa0",
+            "name": "George Harrison",
+            "sort-name": "Harrison, George",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "JP",
+      "date": "1979",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "P10561D",
+          "label": {
+            "id": "9feb1272-e583-43b6-8101-cacd67814e58",
+            "name": "Dark Horse Records"
+          }
+        }
+      ],
+      "images": [],
+      "error": "404"
+    },
+    {
+      "id": "91b629f3-6207-4d2b-bf79-bb6bec99f00e",
+      "url": "https://musicbrainz.org/release/91b629f3-6207-4d2b-bf79-bb6bec99f00e",
+      "title": "George Harrison",
+      "artistCredit": [
+        {
+          "name": "George Harrison",
+          "artist": {
+            "id": "42a8f507-8412-4611-854f-926571049fa0",
+            "name": "George Harrison",
+            "sort-name": "Harrison, George",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1979-02-14",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "K56562",
+          "label": {
+            "id": "9feb1272-e583-43b6-8101-cacd67814e58",
+            "name": "Dark Horse Records"
+          }
+        },
+        {
+          "catalog-number": "K56562",
+          "label": {
+            "id": "b9fd701a-ea3a-4269-8508-5731b078faf4",
+            "name": "WEA Records Ltd."
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 99557756,
+          "front": true,
+          "id": 35613965242,
+          "image": "https://coverartarchive.org/release/91b629f3-6207-4d2b-bf79-bb6bec99f00e/35613965242.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/91b629f3-6207-4d2b-bf79-bb6bec99f00e/35613965242-1200.jpg",
+            "250": "https://coverartarchive.org/release/91b629f3-6207-4d2b-bf79-bb6bec99f00e/35613965242-250.jpg",
+            "500": "https://coverartarchive.org/release/91b629f3-6207-4d2b-bf79-bb6bec99f00e/35613965242-500.jpg",
+            "large": "https://coverartarchive.org/release/91b629f3-6207-4d2b-bf79-bb6bec99f00e/35613965242-500.jpg",
+            "small": "https://coverartarchive.org/release/91b629f3-6207-4d2b-bf79-bb6bec99f00e/35613965242-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "02a64346-456f-4423-a023-11721bdac801",
+      "url": "https://musicbrainz.org/release/02a64346-456f-4423-a023-11721bdac801",
+      "title": "The Best of George Harrison",
+      "artistCredit": [
+        {
+          "name": "George Harrison",
+          "artist": {
+            "id": "42a8f507-8412-4611-854f-926571049fa0",
+            "name": "George Harrison",
+            "sort-name": "Harrison, George",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1976-11-20",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "PAS 10011",
+          "label": {
+            "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+            "name": "Parlophone"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 29097313,
+          "image": "http://coverartarchive.org/release/02a64346-456f-4423-a023-11721bdac801/8205799385.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "8205799385",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/02a64346-456f-4423-a023-11721bdac801/8205799385-500.jpg",
+            "small": "http://coverartarchive.org/release/02a64346-456f-4423-a023-11721bdac801/8205799385-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "500957b1-a4ee-4709-9e27-b25f5151dad0",
+      "url": "https://musicbrainz.org/release/500957b1-a4ee-4709-9e27-b25f5151dad0",
+      "title": "The Best of George Harrison",
+      "artistCredit": [
+        {
+          "name": "George Harrison",
+          "artist": {
+            "id": "42a8f507-8412-4611-854f-926571049fa0",
+            "name": "George Harrison",
+            "sort-name": "Harrison, George",
+            "disambiguation": "The Beatles"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1976-11-08",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "ST-11578",
+          "label": {
+            "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+            "name": "Capitol Records"
+          }
+        }
+      ],
+      "images": [
+        {
+          "types": [
+            "Front"
+          ],
+          "front": true,
+          "back": false,
+          "edit": 29097284,
+          "image": "http://coverartarchive.org/release/500957b1-a4ee-4709-9e27-b25f5151dad0/8205754599.jpg",
+          "comment": "",
+          "approved": true,
+          "id": "8205754599",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/500957b1-a4ee-4709-9e27-b25f5151dad0/8205754599-500.jpg",
+            "small": "http://coverartarchive.org/release/500957b1-a4ee-4709-9e27-b25f5151dad0/8205754599-250.jpg"
+          }
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

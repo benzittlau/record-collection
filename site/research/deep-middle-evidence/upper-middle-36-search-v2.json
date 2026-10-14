@@ -1,0 +1,74 @@
+{
+  "created": "2026-10-14T03:12:24.735Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "9dc981ec-4e33-4530-9349-a23170745d7a",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "artist-credit-id": "08536b8e-7f9c-33ec-9914-987843cfec15",
+      "count": 1,
+      "title": "Landscapes",
+      "status": "Official",
+      "packaging": "Cardboard/Paper Sleeve",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "name": "Valdy",
+          "artist": {
+            "id": "b265389c-32a8-4ad4-ae8e-69e5ff247d34",
+            "name": "Valdy",
+            "sort-name": "Valdy"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "fd4e19e9-928d-43ac-bc29-de36a8a71eac",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Landscapes",
+        "primary-type": "Album"
+      },
+      "date": "1973",
+      "country": "CA",
+      "release-events": [
+        {
+          "date": "1973",
+          "area": {
+            "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+            "name": "Canada",
+            "sort-name": "Canada",
+            "iso-3166-1-codes": [
+              "CA"
+            ]
+          }
+        }
+      ],
+      "barcode": "",
+      "asin": "B001B04YLO",
+      "label-info": [
+        {
+          "catalog-number": "HL-5104",
+          "label": {
+            "id": "8081188b-2d7a-4b7c-ad84-c7bbef84de5e",
+            "name": "Haida Records"
+          }
+        }
+      ],
+      "track-count": 12,
+      "media": [
+        {
+          "id": "b4955821-d45b-36c3-943a-227df437c454",
+          "format": "12\" Vinyl",
+          "disc-count": 0,
+          "track-count": 12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1827 @@
+{
+  "records": 138,
+  "validSourcedAssets": 255,
+  "positionsPreserved": true,
+  "unknownArtWithheld": true,
+  "consistentCapturePairs": true,
+  "noPendingAuditOutcomes": true,
+  "independentArtworkReview": {
+    "scope": "All 138 catalogue rows, accepted fronts, outer LP backs and optional vinyl labels",
+    "independentReviewer": "catalog_right",
+    "outcome": "passed_after_corrections",
+    "method": "Full contact sheets followed by full-size inspection of questionable media, classical recordings and programme/catalogue evidence.",
+    "corrections": [
+      "Ringo 30 expanded CD back replaced by Canadian SWAL 3413 original LP rear",
+      "Firebird 05 mislabeled disc-label-as-back replaced by Japanese 20PC-1011 actual outer rear for the same recording",
+      "Legacy CD/deluxe fronts 03/31/37/50 replaced with LP fronts",
+      "Gregorian 07 source faces cropped to exclude adjacent sleeves; unrelated SPA 189 label withheld",
+      "Mary Poppins 49 ST 3922 front/back/label credits confirmed at full size",
+      "Mahler 38 alternate German Mehta/Forrester LP rear verified"
+    ],
+    "remainingLimitations": "Representative LP editions need not equal the photographed pressing. Individual wear and unavailable jacket scans require actual capture."
+  },
+  "summary": {
+    "total": 138,
+    "fronts": 122,
+    "backs": 120,
+    "confidence": {
+      "confirmed": 121,
+      "unknown": 15,
+      "probable": 2
+    },
+    "captureRecords": 19,
+    "capturePhotos": 38,
+    "newFronts": 30,
+    "newBacks": 96,
+    "labelPhotographs": 13,
+    "status": "complete_deep_pass",
+    "limitations": "Reference LP images preserve album/performer evidence but cannot reproduce the exact wear or establish matrix/pressing details. Unreadable identities remain placeholders. Conditional gatefold groups retain stable IDs until physical inspection."
+  },
+  "artworkPaths": [
+    {
+      "id": "upper-middle-01",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-01-deep-discogs-1386759-0.jpg",
+      "sourceUrl": "https://i.discogs.com/lu5pFLoQZxAS3g_j-kAMaMPCfQdgGZl4q_f9vHi7JnA/rs:fit/g:sm/q:90/h:463/w:463/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY3/NTktMTUyMDk5Njgw/MC0xNzk5LmpwZWc.jpeg",
+      "sha256": "d68edfe1578a4abf8a91577bb0cc3a9b9ed31b3d2eae4c674f5971c306096463"
+    },
+    {
+      "id": "upper-middle-01",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-01-deep-discogs-1386759-1.jpg",
+      "sourceUrl": "https://i.discogs.com/H1go0V0DJuJDouFDBvuGsnUYpODAOJSUw6i_yC3tjp8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY3/NTktMTQ0NTM4MDY4/OC05OTkzLmpwZWc.jpeg",
+      "sha256": "6f699fb2c6e7c7fe23ced8270efe3f7c895d0d62c214e8393ee31f452a705ed9"
+    },
+    {
+      "id": "upper-middle-02",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-02-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/0e93eb8a-b715-3dbf-869c-87474a817fc1/30409084949-1200.jpg",
+      "sha256": "55ed2f245f7943c72cf97c7f0ed7ac55309daf93b48fd2e0d75c75cecdbd324a"
+    },
+    {
+      "id": "upper-middle-02",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-02-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/0e93eb8a-b715-3dbf-869c-87474a817fc1/30409085719-1200.jpg",
+      "sha256": "76eaedb634f7e099687e0b4a3be06d2442920ea067269797bd212fb501476576"
+    },
+    {
+      "id": "upper-middle-03",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-03-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/5f4ad828-bb45-4867-9ae9-295cfe22449d/9297761160.jpg",
+      "sha256": "179432df208d1ce2bfb14d0005a6f758910ca7e1c2e52d7f66770b406c42f923"
+    },
+    {
+      "id": "upper-middle-03",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-03-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/47f32419-e381-4470-ac80-8f19c9f9c3ca/41697032089-1200.jpg",
+      "sha256": "782b82be4a05980c97cd5846c596e9168822f385811e67d905ba922594ba8a64"
+    },
+    {
+      "id": "upper-middle-04",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-04-deep-discogs-8398653-0.jpg",
+      "sourceUrl": "https://i.discogs.com/jTVI14BoGK4xF5c95bqgWOjEEnoeOumX7-bJabG0jFA/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTg2/NTMtMTQ2MDg0MTg2/MS04MjA3LmpwZWc.jpeg",
+      "sha256": "343706d5a7029725755fae3d1140cc938841b96c560bba543e281bf6f685f660"
+    },
+    {
+      "id": "upper-middle-04",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-04-deep-discogs-8398653-2.jpg",
+      "sourceUrl": "https://i.discogs.com/tDe0ZJrSD7Zio1DdK9RkO4_sa0g1aiP5ABa_WMl2T1c/rs:fit/g:sm/q:90/h:600/w:573/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTg2/NTMtMTQ2MDg0MTg3/Mi05NDIxLmpwZWc.jpeg",
+      "sha256": "1fc1127e724652aece540242bb8a79872603fc2a74e6cf7ef019125a45e1e337"
+    },
+    {
+      "id": "upper-middle-04",
+      "face": "label",
+      "path": "site/dist/assets/covers/upper-middle-04-deep-discogs-8398653-3.jpg",
+      "sourceUrl": "https://i.discogs.com/nRmTwy6cDbYaZGwIXkCtpqyivAntOdT6D4_sakALnDQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzOTg2/NTMtMTQ2MDg0MTg3/Ni02OTE4LmpwZWc.jpeg",
+      "sha256": "49e0d226b62a959e349c92fe083f96178e3059cd70b7f2b6e6dccac596a9e7b2"
+    },
+    {
+      "id": "upper-middle-05",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-05-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804754612.jpg",
+      "sha256": "3647a9c65bfcc60d0b0368e78259b38f0157ffe2bca59d905867856cc283670b"
+    },
+    {
+      "id": "upper-middle-05",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-05-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/bd442e81-f273-351a-a286-6df6e7ff1d53/5804757101.jpg",
+      "sha256": "ea11a08bc99ef96b79d4c480f447a103723bc88c446199270ac6e4ba5d132013"
+    },
+    {
+      "id": "upper-middle-06",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-06-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144634819.jpg",
+      "sha256": "723e262c4227146508ed653f88c435e58dfc54ab5b220b22d082d234dfd37873"
+    },
+    {
+      "id": "upper-middle-06",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-06-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/778787b6-d502-485a-b230-beb309329147/15144638934.jpg",
+      "sha256": "bc75834222d695824373ec74ff30951fb10259a33345177edbaef74652ee9449"
+    },
+    {
+      "id": "upper-middle-07",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-07-deep-front.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/84c12b00-b5e8-4271-a4e4-dc53e064c215/28508782386-1200.jpg",
+      "sha256": "a431d63e556680969794400da0ee767751d2e3d394cd3395179402fe26fe4052"
+    },
+    {
+      "id": "upper-middle-07",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-07-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/84c12b00-b5e8-4271-a4e4-dc53e064c215/28508784000-1200.jpg",
+      "sha256": "84e7962a3ff06f32e88ba908e4ec8f65bbb8454d1121bb908e8172efef4063f4"
+    },
+    {
+      "id": "upper-middle-09",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-09-deep-discogs-2350959-0.jpg",
+      "sourceUrl": "https://i.discogs.com/MiWmqwU11QitEjGvRPhT6CKcviryy987FMFVwc7XUjA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA5/NTktMTI3ODg1NjQz/Ni5qcGVn.jpeg",
+      "sha256": "46d551c988d4df76c90dec06a81a52771712ec2d047f0f26b2a84eacdd356c9a"
+    },
+    {
+      "id": "upper-middle-09",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-09-deep-discogs-2350959-1.jpg",
+      "sourceUrl": "https://i.discogs.com/ngo2WQ-mwuaintq0zJL5twDWDDgiTK2BtDY_EmWo1QI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTA5/NTktMTI3ODg1NjQ0/MS5qcGVn.jpeg",
+      "sha256": "d7891fdc78b663554fb2ee15fefb8cd764f206b852005b63520801da8c773044"
+    },
+    {
+      "id": "upper-middle-10",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-10-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229359-1200.jpg",
+      "sha256": "1926835996d91384352fb060ebaf682c4dc305dee3ffdae7f41f91119d1e2aeb"
+    },
+    {
+      "id": "upper-middle-10",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-10-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/49c94861-8870-4de2-b63c-f7fca24af1d0/32902229880-1200.jpg",
+      "sha256": "218ffe8c7820bd0249a7cda872f434a9fe68ea74029cc78dbf4e6ea531efce35"
+    },
+    {
+      "id": "upper-middle-11",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-11-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/91927f6e-675d-4bcb-9c29-0fe47878a8c3/13436916156.jpg",
+      "sha256": "d7a7a0cd888a919e19cd264e63c85c6a2a32794e1059bb6209be6a182ad55da7"
+    },
+    {
+      "id": "upper-middle-11",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-11-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/91927f6e-675d-4bcb-9c29-0fe47878a8c3/13470311805.jpg",
+      "sha256": "ec59d0b44933635145e43f8384b94db85f794308370b6092b21b2b24ff36a5d8"
+    },
+    {
+      "id": "upper-middle-12",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-12-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/16a5ade6-9943-4409-91f4-c142d0c8ffd0/8311091894.jpg",
+      "sha256": "cacddb0b0ba36adbd7a2cb34dc7b792a563eec8fded974882de9302ce0504362"
+    },
+    {
+      "id": "upper-middle-12",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-12-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/16a5ade6-9943-4409-91f4-c142d0c8ffd0/8311096066.jpg",
+      "sha256": "7ced56053fd9adebf31feef442f2b75d63aed127081d3fbb5b43574c846455bd"
+    },
+    {
+      "id": "upper-middle-13",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-13-deep-discogs-761878-0.jpg",
+      "sourceUrl": "https://i.discogs.com/-uT2UOItvlk5A3P2JpwTDwTRduQGPVO5fgCf6pz6FX0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTg3/OC0xMzYxMTU3Mjcz/LTMzODIuanBlZw.jpeg",
+      "sha256": "60b3ec364bcad3ff96a22d285a4983f7357f29aeec005ae4696ea63d2c44ad54"
+    },
+    {
+      "id": "upper-middle-13",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-13-deep-discogs-761878-1.jpg",
+      "sourceUrl": "https://i.discogs.com/lvoTKxIJ7JczHbbCOfvzNTKAX-6F8K1noyQj8sgsazg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MTg3/OC0xMzYxMTU3Mjc5/LTIyODEuanBlZw.jpeg",
+      "sha256": "e1df41c7321b595cf4adaa5d1931fc0e7550d35c7a36a4a2e04da4c243aad9c9"
+    },
+    {
+      "id": "upper-middle-14",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-14-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469499800.jpg",
+      "sha256": "0f62775cd4bec89d6b4b545bbc2c4356db1bf433bb14086fde9ad4f036e1ec0c"
+    },
+    {
+      "id": "upper-middle-14",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-14-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469501181.jpg",
+      "sha256": "45d7b4a6d5a8862aede2c8f28ec785243581965ceb8a4c75baf75775daad80ec"
+    },
+    {
+      "id": "upper-middle-16",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-16-deep-discogs-125810-0.jpg",
+      "sourceUrl": "https://i.discogs.com/BPocZzYScNzZAxwpNKbaVmAe5May1jXo7lof11XjyWs/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xMzQyMjA0NTkz/LTkyOTguanBlZw.jpeg",
+      "sha256": "944cc98f071d97d885557d6d31b68deed8e7a4b9c7524c7f9eca2a5e3188c699"
+    },
+    {
+      "id": "upper-middle-16",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-16-deep-discogs-125810-1.jpg",
+      "sourceUrl": "https://i.discogs.com/1RgNClxd5ATozVHVEU6jd7KxvUvS-sCvF6WBT-AnI-M/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTgx/MC0xNTE2OTMwMjIx/LTc0NDAuanBlZw.jpeg",
+      "sha256": "b19e1e87fd8a361dad7c29ac85735b75bbbe09d486c900cf928e35144ebe61da"
+    },
+    {
+      "id": "upper-middle-17",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-17-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/396d4ca4-4a7f-33f9-b817-ba26919ec076/12768752595.jpg",
+      "sha256": "28d5b7f365de85ebc263ed77c453a86f56bc22338699617fabd8def6b9aab4f4"
+    },
+    {
+      "id": "upper-middle-17",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-17-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/396d4ca4-4a7f-33f9-b817-ba26919ec076/12768756091.jpg",
+      "sha256": "5b5b18310bebf43614995f67b7059680aa83a04ff770adb82bac8736f9f6be20"
+    },
+    {
+      "id": "upper-middle-18",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-18-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/3a2651cd-e8ff-30a4-b77f-1062846695f5/1004351612.jpg",
+      "sha256": "97dee2b342502e252dfbae31d28fbab57bfb8e7404d6a90130d6a4da02f9fec7"
+    },
+    {
+      "id": "upper-middle-18",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-18-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/55dad5e6-6484-4f60-a50b-74a5d6a10c94/18407174418-1200.jpg",
+      "sha256": "4c5827d6019c692d7a0931a0766c854c4dcf92a8338eecd43c8de7970431719d"
+    },
+    {
+      "id": "upper-middle-19",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-19-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/263d5c49-2899-4708-8bd9-149862a87c9c/31984813531-1200.jpg",
+      "sha256": "56814a2155990bb553f86c6f5416365ca0cc5869c3ccf904dc10044611be81ad"
+    },
+    {
+      "id": "upper-middle-19",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-19-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/263d5c49-2899-4708-8bd9-149862a87c9c/31984814446-1200.jpg",
+      "sha256": "e7e1a9313e02dbe52f37139566978c903dd815afa966907ce60f9f1e64b9fbed"
+    },
+    {
+      "id": "upper-middle-20",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-20-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/a66a43c1-bb99-42ff-88b1-9bd444bbcd02/2117569232.jpg",
+      "sha256": "a3f9eb33d6e34c0b3b23add9a73ed492c9f6910d4042c0ac87e155f2c73c34bb"
+    },
+    {
+      "id": "upper-middle-20",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-20-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/71771ad3-6164-42e4-81df-269d6bde3967/25566481990-1200.jpg",
+      "sha256": "fc27da77a362fd92164ab20fa6c9d5c25569f4b82cfb93c9018a5a7f17b929dc"
+    },
+    {
+      "id": "upper-middle-21",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-21-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368592148.jpg",
+      "sha256": "474a1f2b2be560a9e37f655f231e5746fda05b123bf608f1a7c3c00967cef13f"
+    },
+    {
+      "id": "upper-middle-21",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-21-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/a81974d7-05f9-4769-97be-39241ca745ea/10368594147.jpg",
+      "sha256": "7f0345bb242c1104a63ca8be6274d521521d541b6b7c33c93837b13006989d90"
+    },
+    {
+      "id": "upper-middle-24",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-24-deep-discogs-843432-0.jpg",
+      "sourceUrl": "https://i.discogs.com/Dp237AborP2o74AIpSYRMmtRagc40PNh7hSV8zfEePM/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xNDk1MTc4NTM3/LTkwODEuanBlZw.jpeg",
+      "sha256": "8554bd9429d9335da0f53546740e125d13b0c6cffee131e8cf078aaf9c9869cf"
+    },
+    {
+      "id": "upper-middle-24",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-24-deep-discogs-843432-1.jpg",
+      "sourceUrl": "https://i.discogs.com/_sev06Xu9y9fcb2zMOS56FzNucoMchRPqc8NjTB_lQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzQz/Mi0xMjc1NjMyNDU4/LmpwZWc.jpeg",
+      "sha256": "a50df850d8982adca8d31f34b8d39a60bb9d8b3449568176d2750cab8a6df0d6"
+    },
+    {
+      "id": "upper-middle-25",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-25-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/7fdd20ae-8f36-4a60-8425-3111dc52338c/31864972043-1200.jpg",
+      "sha256": "cc7c915927905127394f826b237dee543a6b6bf0d839042f8bb56e89f69af006"
+    },
+    {
+      "id": "upper-middle-25",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-25-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/7fdd20ae-8f36-4a60-8425-3111dc52338c/31864972609-1200.jpg",
+      "sha256": "7f53b3e0ba9acdf07f07933854d742d19e27d68854771116536ac0192dfbdbd3"
+    },
+    {
+      "id": "upper-middle-26",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-26-deep-front.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/527992ea-944f-3f5e-a078-3841f39afcec/18837628851-1200.jpg",
+      "sha256": "51813516fee423e757b96a1a082ee5dd0836ca67ea97bb048a9c746597c256bb"
+    },
+    {
+      "id": "upper-middle-26",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-26-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/527992ea-944f-3f5e-a078-3841f39afcec/18837629318-1200.jpg",
+      "sha256": "9fd9ba284194060e2e6254945bbea1d5f097ebb354fca583aa1d3b318190aef7"
+    },
+    {
+      "id": "upper-middle-27",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-27-deep-discogs-1706811-0.jpg",
+      "sourceUrl": "https://i.discogs.com/2QQm3_Bb9GK8tiZFlgL2khb1XSJP01Gx9oEx8hFE7XE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTUzMzIxNDYz/Ny05NzQ3LmpwZWc.jpeg",
+      "sha256": "27c1ad89d2832ce840cfea6be28913e343a2bf6e07b2ed3eedc37de1439ad1ae"
+    },
+    {
+      "id": "upper-middle-27",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-27-deep-discogs-1706811-1.jpg",
+      "sourceUrl": "https://i.discogs.com/YvoaxpHRZYqEAGbhhE3LP2WEpP5C8ZaZ6DmwjLhQY1s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDY4/MTEtMTUzMzIxNDY2/MS05Mjc5LmpwZWc.jpeg",
+      "sha256": "9c81452f22c2df6815037f4596ed27379bc2200e08c78d8d7ed2feab61aa35dd"
+    },
+    {
+      "id": "upper-middle-28",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-28-deep-front.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/b7237ae8-c3ef-4bdf-8be7-9487e40257e7/32464832459-1200.jpg",
+      "sha256": "182ceed2a9c8a0b2203d26ed247faf2e426247569c18e43ce3c0aeeac13d4530"
+    },
+    {
+      "id": "upper-middle-28",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-28-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/a7c3ce01-b7d9-44ab-bd22-87001a60e6fe/25123867564-1200.jpg",
+      "sha256": "a9ddd44aa54706b6c0074fe6f0a7c0d585819a253bbf01c18438fec4cbb58a50"
+    },
+    {
+      "id": "upper-middle-29",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-29-deep-discogs-2951430-0.jpg",
+      "sourceUrl": "https://i.discogs.com/o7YINhaHPXB-oiysAc1NOwGZrjjI9ZldHneBbPibae0/rs:fit/g:sm/q:90/h:560/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE0/MzAtMTMyNjQyMDY1/OS5qcGVn.jpeg",
+      "sha256": "ec92a501f1ef0118fddda98e658e87de54b80d3dfd8001129a6453ab6e3fcc12"
+    },
+    {
+      "id": "upper-middle-29",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-29-deep-discogs-2951430-1.jpg",
+      "sourceUrl": "https://i.discogs.com/AEXzQ8G9Xz713ePeRsEEF0ACB8OMOhsq5Sn_dmGGRkQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTE0/MzAtMTc0NTI4ODEx/MS0zNTEyLmpwZWc.jpeg",
+      "sha256": "b32cb206bf2e8fe2495c93711fbeca7247d795e8971134ce77ada51182512f1c"
+    },
+    {
+      "id": "upper-middle-30",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-30-deep-discogs-36636136-0.jpg",
+      "sourceUrl": "https://i.discogs.com/OqkrENEZNc2eKYy0AEVcEuvYW753KvAIHrNkkN82sDw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM2/MTM2LTE3NzIyNTIz/NDQtMzA4NC5qcGVn.jpeg",
+      "sha256": "7f480b33ec81e0898be1245966d3cbaab053363bb71aa3c3183d91a667a1ed54"
+    },
+    {
+      "id": "upper-middle-30",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-30-deep-discogs-36636136-3.jpg",
+      "sourceUrl": "https://i.discogs.com/9vZeaVHX5EgczvJVgVtC5hHxPSs8-4TGXBAzJ4LJEa8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM2/MTM2LTE3NzIyNTIz/NDQtNzQxNy5qcGVn.jpeg",
+      "sha256": "47452aa6fbd6e60c14b4e95094c98b76868c1dd4adaf0ff5ec4797a7a71e3df0"
+    },
+    {
+      "id": "upper-middle-30",
+      "face": "label",
+      "path": "site/dist/assets/covers/upper-middle-30-deep-discogs-3337601-2.jpg",
+      "sourceUrl": "https://i.discogs.com/dITY9nwOMKr50IINpnY-L9BhOrqOg89QTXwU7u0-fV8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMzc2/MDEtMTQ1MDExMTE4/MS03MDA3LmpwZWc.jpeg",
+      "sha256": "ccda631f07f1947e92f3ee0a381184c91e912dd3c05ece592f3aa604496026bd"
+    },
+    {
+      "id": "upper-middle-31",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-31-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/3818791b-6a43-44f4-a312-9ab0a6f9f66c/33249186970-1200.jpg",
+      "sha256": "b2df777fc1428198577f0b1f6c1a51e8e1b403096b080e490a6f9bcca390437e"
+    },
+    {
+      "id": "upper-middle-31",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-31-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/3818791b-6a43-44f4-a312-9ab0a6f9f66c/33249187457-1200.jpg",
+      "sha256": "8eac2d4cd9dc25940e9d5a56286c639b6904b25e42f1dc90d39795dc9e0ad4e1"
+    },
+    {
+      "id": "upper-middle-32",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-32-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/d39c7cdd-a2cd-4917-8966-4d203fca4929/22212404109-1200.jpg",
+      "sha256": "b42a375d31b8e971877e204f1be716d541f4d67dd9205481f87331a138fe5722"
+    },
+    {
+      "id": "upper-middle-32",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-32-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/d39c7cdd-a2cd-4917-8966-4d203fca4929/22212414602-1200.jpg",
+      "sha256": "b99e428b42aabd2c7e3e4c603d304580dbdcd27b47b4cd13720269d6da915d66"
+    },
+    {
+      "id": "upper-middle-33",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-33-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/4124be40-7ce9-4832-8943-9a589973e47e/22441014651-1200.jpg",
+      "sha256": "4900b2bc378ede54bb0bad11d6219d8945358c52c6c5b30d6283e9ab9c05677f"
+    },
+    {
+      "id": "upper-middle-33",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-33-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/4124be40-7ce9-4832-8943-9a589973e47e/22441015118-1200.jpg",
+      "sha256": "396c187275aa9181ff44051cbc3438b9e14e0854048e0f1e22f3ab42ccb64701"
+    },
+    {
+      "id": "upper-middle-34",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-34-deep-discogs-4569722-0.jpg",
+      "sourceUrl": "https://i.discogs.com/QXCD_bI9TZu2HRJJDN0FP2wWYFmdqK8M2jsQDvySETk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Njk3/MjItMTQ0Mzc1OTcw/NS0zNDM5LmpwZWc.jpeg",
+      "sha256": "169d28e1f41722a5f1f4eaf74b27078424288e2abd612084f66fb8719c943f8b"
+    },
+    {
+      "id": "upper-middle-34",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-34-deep-discogs-4569722-1.jpg",
+      "sourceUrl": "https://i.discogs.com/xV_0KOxY4omCEvJ5lWG_IpAWrPyvSAc7R7aQN-EMFX0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Njk3/MjItMTQ0Mzc1OTcw/NS03MTU0LmpwZWc.jpeg",
+      "sha256": "04d455fff11f3f62a0870686e4a4656e47ecccbb1d98f9ed36ce5be469634c7a"
+    },
+    {
+      "id": "upper-middle-35",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-35-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/179cf166-b235-4b9a-8784-689ed554ee36/21427501348-1200.jpg",
+      "sha256": "2c5fb44615d48ccb69da286da3de7bdab84c29eb012330161cf307058b025ff3"
+    },
+    {
+      "id": "upper-middle-35",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-35-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/179cf166-b235-4b9a-8784-689ed554ee36/21427503031-1200.jpg",
+      "sha256": "33bd013885feafa67c7c9198c467f96ed40566d3864d5284b5dc4ad09289c90d"
+    },
+    {
+      "id": "upper-middle-36",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-36-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787282403.jpg",
+      "sha256": "d8088cd8f171fd5dd1952caa4e60a900a285626e112489a9335791c15e2a130b"
+    },
+    {
+      "id": "upper-middle-36",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-36-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/9dc981ec-4e33-4530-9349-a23170745d7a/5787293534.jpg",
+      "sha256": "86771a8d807db6d47303209cc8669bb7120b820b3c0a8bb5b4f44cb96f0b4719"
+    },
+    {
+      "id": "upper-middle-37",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-37-deep-front.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/111c508a-31db-4094-b678-8bb4b188d4bd/44910076310-1200.jpg",
+      "sha256": "5e580a94fca4b6bbfcea400b61a58e0836ac848e761158ec1767cbfb8b892366"
+    },
+    {
+      "id": "upper-middle-37",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-37-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/9e543be3-e77c-40ca-beed-24e474145f28/13882832286-1200.jpg",
+      "sha256": "355d68e9ba03842998c6ae05672a839b94878f4ad174d938906e965b5606e910"
+    },
+    {
+      "id": "upper-middle-40",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-40-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/812dc978-a043-4713-a450-263bb2cdef36/29336454011-1200.jpg",
+      "sha256": "8055cf09ab86ee3118a7d6649735cf57d5aa2a041c2d77fce78f77129438ffbd"
+    },
+    {
+      "id": "upper-middle-40",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-40-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/812dc978-a043-4713-a450-263bb2cdef36/29336457935-1200.jpg",
+      "sha256": "82ba875e4fb0a3f31ee35b99a3c7ce85c598864eb138212ae802733a134b5f30"
+    },
+    {
+      "id": "upper-middle-41",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-41-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/3f49ae16-d9f8-4663-a86d-532037091be4/24327574740-1200.jpg",
+      "sha256": "984fbb45c26db525cb2528930b7c54bea5e5ce27771b7101a8669ba3494300f3"
+    },
+    {
+      "id": "upper-middle-41",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-41-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/3f49ae16-d9f8-4663-a86d-532037091be4/24327576382-1200.jpg",
+      "sha256": "30730b63dac74e56c251d5484e04d380096036835e883afb13dc65227d37e530"
+    },
+    {
+      "id": "upper-middle-42",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-42-deep-discogs-2198750-0.jpg",
+      "sourceUrl": "https://i.discogs.com/HmZfwcCU88LydGU4Gm3M2radDmLTqjQWQ3cK9duArUY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTg3/NTAtMTM1OTk1NDU0/OC03NDE3LmpwZWc.jpeg",
+      "sha256": "4030bad03a3382508d9d1fed88e4fa007a9fdc0461864d3a5ebd6cccde1226bf"
+    },
+    {
+      "id": "upper-middle-42",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-42-deep-discogs-2198750-1.jpg",
+      "sourceUrl": "https://i.discogs.com/2vmJ7MKop7GkHUUZD4UvTy380g76wTT6GMvZrDuaDPQ/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTg3/NTAtMTM1OTk1NDU1/Ny00Njc4LmpwZWc.jpeg",
+      "sha256": "0d1f7ec944128e2aa4d360430d88726931eb03c5eb438a68c1961850863aafaf"
+    },
+    {
+      "id": "upper-middle-43",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-43-deep-discogs-7469976-0.jpg",
+      "sourceUrl": "https://i.discogs.com/GdCxUV-ZhBaIkp3R-1gg0qIZ_rVqHCHGTVxH8GWtVv4/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njk5/NzYtMTUxOTU1OTMx/MS05ODk5LmpwZWc.jpeg",
+      "sha256": "5ed9b6b9567f1499ed4ad20cf306753ff0dccb355a3e5cfbd8f372bec07778f9"
+    },
+    {
+      "id": "upper-middle-43",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-43-deep-discogs-7469976-1.jpg",
+      "sourceUrl": "https://i.discogs.com/EQeJ-y8mF9b8dX7wurNMGODppJgFgqvhGHqJDgcbui0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Njk5/NzYtMTU1MjE5NTQy/MS00Njk0LmpwZWc.jpeg",
+      "sha256": "a59d1f2e9073b9055b7d867e23b621fb029ed4ec449963f53bc1efcd35bc9420"
+    },
+    {
+      "id": "upper-middle-44",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-44-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/2be10f88-1374-428b-a67f-38a193d4b05e/16996565232.jpg",
+      "sha256": "405858b47b0fb920fe97847a606f8599658f18471c5660be3ea4d65ee20fde33"
+    },
+    {
+      "id": "upper-middle-44",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-44-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/2be10f88-1374-428b-a67f-38a193d4b05e/16996566735.jpg",
+      "sha256": "04419be8fdc142569c55e2c806500da50819797a989e1e2fdcb20c9544118fae"
+    },
+    {
+      "id": "upper-middle-45",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-45-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/57b9c736-1fae-4ad5-b877-aaa86aeabb2c/17222818105.jpg",
+      "sha256": "ff4996b80e8c1ac979ea99dcb97b699d5240159fdf0ff2e6ca48caec0b8c9241"
+    },
+    {
+      "id": "upper-middle-45",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-45-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/57b9c736-1fae-4ad5-b877-aaa86aeabb2c/17222818773.jpg",
+      "sha256": "25aed44fe7bdd1b8196ac5d8a4d577eeef8938cad64b49d1fd6dc7048a208f42"
+    },
+    {
+      "id": "upper-middle-46",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-46-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688016135-1200.jpg",
+      "sha256": "352fdb582d956de3613fead3107923f550c2954d6ffce35985322cb8ce9aff40"
+    },
+    {
+      "id": "upper-middle-46",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-46-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/6efd8d28-3c68-4afb-b21b-3fbf8691b0ec/20688018962-1200.jpg",
+      "sha256": "8bd77ebe4fcb939a356c453456c045ca142850133dd5499dd3f1f2615cdf744f"
+    },
+    {
+      "id": "upper-middle-48",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-48-deep-discogs-1123236-0.jpg",
+      "sourceUrl": "https://i.discogs.com/tUo1LPIwIyfvzvmhVcmzAYLcDl--TUq4IykPlSzp_jc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMy/MzYtMTU3OTAzMTg3/OS04ODQyLmpwZWc.jpeg",
+      "sha256": "9f19afe1bb052e534e2755b16332b2fe2f7fe2329b58d31a66d38aa244532ec3"
+    },
+    {
+      "id": "upper-middle-48",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-48-deep-discogs-1123236-1.jpg",
+      "sourceUrl": "https://i.discogs.com/AR7n0xiCsaLSDLXByD3hWUAJyIQ--k11amtyLqC53yQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjMy/MzYtMTM0NDUxMTAx/NC01NDEwLmpwZWc.jpeg",
+      "sha256": "38b22c41b571129d6f42de1a5771e7b0a1bc6e16916a9c4aabc697ee6ec9ae7f"
+    },
+    {
+      "id": "upper-middle-49",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-49-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/b9db0e9f-8207-492e-8d17-19f84317ee7a/24327458198-1200.jpg",
+      "sha256": "43bb1c8eef2a51d8812574a62f77cb0e29c05c97de9507f3533870c8bd99f35b"
+    },
+    {
+      "id": "upper-middle-49",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-49-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/b9db0e9f-8207-492e-8d17-19f84317ee7a/24327459123-1200.jpg",
+      "sha256": "1f1d4d12fc11a9ef7b2b7582da1fe61afcc8c791d95bcd1e01b31832d8697c7a"
+    },
+    {
+      "id": "upper-middle-50",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-50-deep-discogs-2142189-0.jpg",
+      "sourceUrl": "https://i.discogs.com/DVMh-uDDuR8JLhohDu3Foqd4LaoMM0ZWl2G3S-6FhGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkw/Ny5qcGVn.jpeg",
+      "sha256": "8d01f38afda9d3bbda8697d3676b09b97470dcdd064739dbf28548c0b204f27c"
+    },
+    {
+      "id": "upper-middle-50",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-50-deep-discogs-2142189-1.jpg",
+      "sourceUrl": "https://i.discogs.com/m7kgl8Zxc_-waIACyBJoV3_xQY8EPncwozxYb6hdR84/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDIx/ODktMTMwMTI2ODkx/OS5qcGVn.jpeg",
+      "sha256": "e138c22a539cfeea0cb91006a92b29f09e6e27f46a6c86e7c795a652de37f898"
+    },
+    {
+      "id": "upper-middle-51",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-51-deep-front.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/66dd9560-362d-4f1e-a4df-09bbf2502891/38567053501-1200.jpg",
+      "sha256": "5f1f6c7c826f8ba9977c1518dea33a127150fad4ffd8fec05f382b84260879be"
+    },
+    {
+      "id": "upper-middle-51",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-51-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/66dd9560-362d-4f1e-a4df-09bbf2502891/38567054048-1200.jpg",
+      "sha256": "97dcbcc6389929dbe690d8274eeab365c8f096f7c71bfce54aa3fde8bf4a85bf"
+    },
+    {
+      "id": "upper-middle-52",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-52-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/71f016ef-6c2e-4368-a324-552b4e1c483f/1255915016-1200.jpg",
+      "sha256": "04c2828f5d45c099ea96f79957699b75251f671f8dafcb34f0f485ece87cdd39"
+    },
+    {
+      "id": "upper-middle-52",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-52-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/71f016ef-6c2e-4368-a324-552b4e1c483f/23836303305-1200.jpg",
+      "sha256": "c83f778f6bb5a0c4fe870b6909cccf863c89d7a402a38ba51caada3da2055179"
+    },
+    {
+      "id": "upper-middle-53",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-53-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/349971fd-397b-4389-865a-1075f7435644/17882353990-1200.jpg",
+      "sha256": "c8d0626f2ace43f9f17f5afb78d357a45166e9769acbf8ae72c7a4a5d8bb1e1d"
+    },
+    {
+      "id": "upper-middle-53",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-53-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/349971fd-397b-4389-865a-1075f7435644/17882357918-1200.jpg",
+      "sha256": "667edb16fbab84a137ae51201e612d0d762597ca601b3be2464051080534b67c"
+    },
+    {
+      "id": "upper-middle-54",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-54-deep-discogs-1669315-0.jpg",
+      "sourceUrl": "https://i.discogs.com/H_8R20WMwjeb6s7Nr9x013IXrq_JFEX0Az2Ntsw7f38/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njkz/MTUtMTY0OTQ0Njcz/Ni01MDE2LmpwZWc.jpeg",
+      "sha256": "2581d92c38b6e63a2025c7588f10ef097c177d3c73b4b2e91beda6cf7451604d"
+    },
+    {
+      "id": "upper-middle-54",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-54-deep-discogs-1669315-1.jpg",
+      "sourceUrl": "https://i.discogs.com/ouWGTa44IlFGzfR3h2cKeNIh4X6_pWPMjIQ5M3hzcEA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Njkz/MTUtMTY0OTQ0Njcz/My03MDk1LmpwZWc.jpeg",
+      "sha256": "2d7e54f56a09036cd1d0a8ec48c4ad50fbfaa93a580baf11843a6f0a9cdaaa10"
+    },
+    {
+      "id": "upper-middle-55",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-55-deep-discogs-8957113-0.jpg",
+      "sourceUrl": "https://i.discogs.com/NKLWDaKWjlMICEZ2EtY8h6UxN1uOaUewTjkmNWippCs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTcx/MTMtMTQ3MjIyNDAx/Ny01MzcxLmpwZWc.jpeg",
+      "sha256": "797d6d240a5878e7419b64979370c1163342324f72c6ed274dd02420250bd224"
+    },
+    {
+      "id": "upper-middle-55",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-55-deep-discogs-8957113-1.jpg",
+      "sourceUrl": "https://i.discogs.com/7yby08u5hZmBEQ3qQno8AdJ2rLiTimZEtJxmqqzF5gM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTcx/MTMtMTQ3MjIyNDAy/Mi0zODE3LmpwZWc.jpeg",
+      "sha256": "bde612980d50951993a55a2f6be935ea5d58d289385b0eed0ad5ec1895fc7b01"
+    },
+    {
+      "id": "upper-middle-56",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-56-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/c7961144-38db-483f-b605-35bb60c71811/3722448585.jpg",
+      "sha256": "177fb8e2ebbfb1a6061d87615164e35633de4424c658920d43d0aeb5624cb3d0"
+    },
+    {
+      "id": "upper-middle-56",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-56-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/c7961144-38db-483f-b605-35bb60c71811/3722457231.jpg",
+      "sha256": "ecb3a0bfb789b27b7cad8f42f6cd35c97b4a1edfdf18f1da9fe7bf4cb261ce5c"
+    },
+    {
+      "id": "upper-middle-57",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-57-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/a9eed89e-d333-41e4-b502-ac1067bca2e7/36910927825-1200.jpg",
+      "sha256": "967d9aaa85d3e1b99c51a16f7a6a6b0fec75fe64e19d000fc0ee53d80eb312e0"
+    },
+    {
+      "id": "upper-middle-57",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-57-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/a9eed89e-d333-41e4-b502-ac1067bca2e7/36910928697-1200.jpg",
+      "sha256": "92eb86d580484b5260ae16dbe987ea2b59c61c515d51d674e308586f78091839"
+    },
+    {
+      "id": "upper-middle-58",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-58-deep-discogs-6773347-0.jpg",
+      "sourceUrl": "https://i.discogs.com/Br4xuOX53oWBY021pZVooRgvepVk1Sil0ryb2W5tlWY/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzMz/NDctMTQyNjcyOTY1/OS0zMzk0LmpwZWc.jpeg",
+      "sha256": "6982b46cf98926c249125cd59cdcb8c12ec0a5cb3e1b682b60b8c6de1d9caec6"
+    },
+    {
+      "id": "upper-middle-58",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-58-deep-discogs-6773347-1.jpg",
+      "sourceUrl": "https://i.discogs.com/_Waq1ww3WwouO8OwM3dfUWsU0ayNMpvTuq1XnJ7S0WM/rs:fit/g:sm/q:90/h:558/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzMz/NDctMTQyNjcyOTY1/OS0yNTk0LmpwZWc.jpeg",
+      "sha256": "c941c340c8c8c9de07bbb35e5921662cf2230e0df6173f691e50fbf5c3ca1937"
+    },
+    {
+      "id": "upper-middle-58",
+      "face": "label",
+      "path": "site/dist/assets/covers/upper-middle-58-deep-discogs-6773347-2.jpg",
+      "sourceUrl": "https://i.discogs.com/VrGsjP2LS1URCSNaWkf1NJgENp4bPcRWsqT0VkAvNMc/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzMz/NDctMTUxODM3MTI2/NC03NzY5LmpwZWc.jpeg",
+      "sha256": "a73f144bd2bebbec8376c643e02490937f6b4a83ba9c568e69ca6779cd302aa7"
+    },
+    {
+      "id": "upper-middle-59",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-59-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756868999.jpg",
+      "sha256": "9956662305afddbe3dca00a332858fdfc0646774b07702e784d89ad0e4bcfa7a"
+    },
+    {
+      "id": "upper-middle-59",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-59-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/70d857a1-173e-49bb-8e36-5e0b726ef9b0/13756869685.jpg",
+      "sha256": "af718395f68af3eb9ffe446710455ab988ab8e3194f34a75544823dc42a4549b"
+    },
+    {
+      "id": "upper-middle-60",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-60-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/5a4bcd93-fe01-4d54-8799-b404aae386aa/24327749239-1200.jpg",
+      "sha256": "b4f53844963d72464b1199771cc7aac89de07203709d9b694ea32029c6ce96f3"
+    },
+    {
+      "id": "upper-middle-60",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-60-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/5a4bcd93-fe01-4d54-8799-b404aae386aa/24327753300-1200.jpg",
+      "sha256": "c45aa1d57b6bdfeb83898d9d699da80d077c750b4e4c5c60cf7a40c97f091cd6"
+    },
+    {
+      "id": "upper-middle-61",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-61-deep-discogs-734865-0.jpg",
+      "sourceUrl": "https://i.discogs.com/Ja-M6KI1xVqasPCbBgLYVq4-tKJ7hpJAe7XgBy5QVO4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDg2/NS0xNDQwNjY2MzU4/LTc2NzIuanBlZw.jpeg",
+      "sha256": "95b3035bfa39fc70d6a7d6c6b2b1b6bb297c48df3635dc1b75c8510491b634f4"
+    },
+    {
+      "id": "upper-middle-61",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-61-deep-discogs-734865-1.jpg",
+      "sourceUrl": "https://i.discogs.com/ppUp3AGq17-e_nOvxeoFxlv5P9JX-F3aqtGiFE6zwk8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDg2/NS0xNDQwNjY2MzU1/LTU0NDUuanBlZw.jpeg",
+      "sha256": "cefc9d012bb6ffb2131b3cb125bc905122b264258b6d169f86ecd3381450e7d9"
+    },
+    {
+      "id": "upper-middle-61",
+      "face": "label",
+      "path": "site/dist/assets/covers/upper-middle-61-deep-discogs-734865-2.jpg",
+      "sourceUrl": "https://i.discogs.com/J-Kt5P6DmXskq-IWSYtuw3MekTsMYv31qRYQ-UlHqTE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDg2/NS0xMjQ0MTk5Mzc2/LmpwZWc.jpeg",
+      "sha256": "c669487a246341df99cb97e55c6ce33dc89e51eec2f648b6c9688c9ec57d3d47"
+    },
+    {
+      "id": "upper-middle-62",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-62-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/25a847b8-f2e3-349d-8dc7-88bc43fd20f2/17823725037-1200.jpg",
+      "sha256": "33e608099cce1b725770e5c6cf25922756959e2da0819e0fae8f26b5df894bb4"
+    },
+    {
+      "id": "upper-middle-62",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-62-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/25a847b8-f2e3-349d-8dc7-88bc43fd20f2/17823725745-1200.jpg",
+      "sha256": "b053e61ced1642acb2f9b2f23fe6afa2959053394bbbe7bb5e9f3eff306c35c3"
+    },
+    {
+      "id": "upper-middle-63",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-63-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/a1485487-960d-327c-bf42-2c3f42741f2c/12579806803.jpg",
+      "sha256": "8fb61831cb9d44885bfb03f1c14c3e36f38ba94b22ed07cda43f1d18dac13a51"
+    },
+    {
+      "id": "upper-middle-63",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-63-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/86f4876f-cfa7-30eb-8c06-6b50c00874fc/12511776382.jpg",
+      "sha256": "e259d6d31e5dd73372573ce1464c9095947c82b4fc4cedbeb04a17ed77eb6520"
+    },
+    {
+      "id": "upper-middle-64",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-64-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/8f273f74-40ba-4590-bbdc-53721be61a57/15724789143.jpg",
+      "sha256": "06f51d4531e8e48d975a96a038fff63f39c975f1bac07e183a42b2d72dfa501b"
+    },
+    {
+      "id": "upper-middle-64",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-64-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/8f273f74-40ba-4590-bbdc-53721be61a57/15724790654.jpg",
+      "sha256": "71435423bc795d5f923f5aefab48524b01c98de6d57f52f6754a5d302281e3e9"
+    },
+    {
+      "id": "upper-middle-65",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-65-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160467609.jpg",
+      "sha256": "f4ae0f10646c404950ee2987160ce059ae560497af0214c39e5e4c945e9bedf3"
+    },
+    {
+      "id": "upper-middle-65",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-65-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/7471a7c9-d6b8-497c-b082-51111fb2d5bd/17160469102.jpg",
+      "sha256": "c699bfc8d7856b02c7a1566d2e3e5339cfc73a937add663c370a2b26e9be2007"
+    },
+    {
+      "id": "upper-middle-66",
+      "face": "cover",
+      "path": "site/dist/assets/covers/upper-middle-66-deep-discogs-519991-0.jpg",
+      "sourceUrl": "https://i.discogs.com/Wr7Po8kqW9HMVmWCLolBk9PAfu5--KHHYzMnnLSfapY/rs:fit/g:sm/q:90/h:412/w:413/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTk5/MS0xMzUyMTUyMzYx/LTk3NzMuanBlZw.jpeg",
+      "sha256": "f8226ca94b90a1e4adb161ecacba3c7e0c3896b42cc3fda7e2e2277a4e37bbab"
+    },
+    {
+      "id": "upper-middle-66",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/upper-middle-66-deep-discogs-519991-1.jpg",
+      "sourceUrl": "https://i.discogs.com/PX8Z4FRb0AABWoPKvD1czpTni_nMYvqILDNDJGBsaH0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTk5/MS0xNDg5OTU1NTcw/LTQ3NzMuanBlZw.jpeg",
+      "sha256": "7e46060e3e0c7daf8efeafe905e8315a60cd9dd068cb5ced4bf280e7c3fc009c"
+    },
+    {
+      "id": "upper-middle-66",
+      "face": "label",
+      "path": "site/dist/assets/covers/upper-middle-66-deep-discogs-519991-2.jpg",
+      "sourceUrl": "https://i.discogs.com/IGBou8EGcmsTtQi8fxD4Rt-MJ4PQow4Hc6Mk7oF9Ddg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxOTk5/MS0xNDg5OTU1NTcw/LTU4NzMuanBlZw.jpeg",
+      "sha256": "54cf8920ef3a72b319a92d36c6b26cc5d4abe4f55764c39b62319ff1d7dd3301"
+    },
+    {
+      "id": "lower-middle-01",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-01-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/356e0c46-0409-4432-ad35-4bedb5280ee8/2688318468.jpg",
+      "sha256": "65dfcb5c5b345eaf34b7b272eff4d99b4506eaef4a365dd89653409f80c89d83"
+    },
+    {
+      "id": "lower-middle-01",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-01-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/356e0c46-0409-4432-ad35-4bedb5280ee8/2688322959.jpg",
+      "sha256": "f543ddef1762e41c120ca20f446c4b9396cf9d11a1dc5cc4e6a91fa2fe1b8f1e"
+    },
+    {
+      "id": "lower-middle-02",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-02-deep-discogs-15649806-0.jpg",
+      "sourceUrl": "https://i.discogs.com/pFf37KO_Ndsgva8yR33mb6tEonoLfLPCU1e73KHgWqE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ5/ODA2LTE2MDkwNjYx/NzctNzI4Mi5qcGVn.jpeg",
+      "sha256": "082b70ec0b39ce88299b3d70188676a7591b9140c71ba91821ba409271eabcbf"
+    },
+    {
+      "id": "lower-middle-02",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-02-deep-discogs-15649806-1.jpg",
+      "sourceUrl": "https://i.discogs.com/PSHSHh2hsTw0weWmlxEodYX5cMkhJzdaCpkUof3dwbY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjQ5/ODA2LTE2MDkwNjYz/MDUtNzU3MC5qcGVn.jpeg",
+      "sha256": "e0b40c2fe5ac4d914c321808a12cd3fbd8d7f9744ff5055be083bc11f0785a38"
+    },
+    {
+      "id": "lower-middle-03",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-03-deep-discogs-24444749-0.jpg",
+      "sourceUrl": "https://i.discogs.com/oyCPWqiFkkiZQfD2gCEyDmDiwM2gVtcZ9N9TuqT09Ho/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQ0/NzQ5LTE2NjI1Nzgz/NzgtMjY1Ni5qcGVn.jpeg",
+      "sha256": "ceedc77e5ab804a2c83f2384f6367a560409cb7262285a19f7479b8834e22c0a"
+    },
+    {
+      "id": "lower-middle-03",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-03-deep-discogs-24444749-1.jpg",
+      "sourceUrl": "https://i.discogs.com/WLMfryz9VEfUZBev3HY5cfuvyy7eINvqWsNbi21Bra4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQ0/NzQ5LTE2NjI1Nzgz/NzgtNTgzNS5qcGVn.jpeg",
+      "sha256": "521db8b38c049107d1f24e60251cfa7e96ef71abbde37cb9b81a9e1acd3c0e4c"
+    },
+    {
+      "id": "lower-middle-04",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-04-deep-discogs-1845467-0.jpg",
+      "sourceUrl": "https://i.discogs.com/tq_N6z8_0mBayPr-CYRKvzjV7wlxLSGbKjUqcUXQboo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU0/NjctMTMwMDIzNDcy/OS5qcGVn.jpeg",
+      "sha256": "887f9fdbf86efddab079706b53860f439d6bd00d12e7bb3c53508c5031c86dbb"
+    },
+    {
+      "id": "lower-middle-04",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-04-deep-discogs-1845467-1.jpg",
+      "sourceUrl": "https://i.discogs.com/HTIXktIdzDLjGqVkwBN5G-_9AGjdwP9AqW3GfgYkir4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU0/NjctMTMwMDIzNDc1/OC5qcGVn.jpeg",
+      "sha256": "72818e9e9df4909e792bf478c7c19b75c232fa1bb4b13fc26a172d7089ecd6b1"
+    },
+    {
+      "id": "lower-middle-05",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-05-deep-discogs-15298616-0.jpg",
+      "sourceUrl": "https://i.discogs.com/kPlpAYzt7a0d8axY4mIWDVm0Fn8YbRhzjo36hqAUwrk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk4/NjE2LTE1ODkzNzgw/MjYtMTU2My5qcGVn.jpeg",
+      "sha256": "abaf313009cc6c241b2476d8f8d7c60344389f4f915226b535700baf24ee4a1d"
+    },
+    {
+      "id": "lower-middle-05",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-05-deep-discogs-13382055-1.jpg",
+      "sourceUrl": "https://i.discogs.com/4YMJAzH4kNl_czj1orWPlwFmpmbdSJ9X_cIoX_2aozk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzgy/MDU1LTE1NTMxNTg0/MjItOTg2Ni5qcGVn.jpeg",
+      "sha256": "0279b2c365f040224c6a04f82dc6a47cdac6672a4307c410a58234ca11fa38b1"
+    },
+    {
+      "id": "lower-middle-05",
+      "face": "label",
+      "path": "site/dist/assets/covers/lower-middle-05-deep-discogs-15298616-1.jpg",
+      "sourceUrl": "https://i.discogs.com/e0tFEBhu-Fx1kAZRbCQ6LYdUqMUCySXulxN88Bmqe5I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mjk4/NjE2LTE1ODkzNzgw/MzEtNTAxOS5qcGVn.jpeg",
+      "sha256": "16717af6e179f5550ce46269d63ac6a2be269aa614594383559712f590f5c484"
+    },
+    {
+      "id": "lower-middle-06",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-06-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326094733-1200.jpg",
+      "sha256": "5d81e3a0d3190c48b6f832431793391aa3ebc9700da64a1e46dc6be499446109"
+    },
+    {
+      "id": "lower-middle-06",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-06-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/ac6ff0e1-72ee-4d06-bb5f-fb70b52d95c1/19326097114-1200.jpg",
+      "sha256": "994202390c2aa761112bd5ab187dd5ddcecfb3a2de70a286c834d3f52c09f93c"
+    },
+    {
+      "id": "lower-middle-07",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-07-deep-discogs-34229644-1-face.jpg",
+      "sourceUrl": "https://i.discogs.com/mejiLFaqL_ksv0C62PpWEhSuA1DGM3mvO39TwcAXhuE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjI5/NjQ0LTE3NDk1NjM5/OTctNjYwNi5qcGVn.jpeg",
+      "sha256": "591ee64df7a8ad236d8689ddb077657ab3de38b0bf5938d7af0d6b5343e94413"
+    },
+    {
+      "id": "lower-middle-07",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-07-deep-discogs-34229644-2-face.jpg",
+      "sourceUrl": "https://i.discogs.com/XHP-vDwmsiGso8dPCLQUF_QqKxkoBkBsqipRMLjSN78/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjI5/NjQ0LTE3NDk1NjQw/MDUtNDIwMy5qcGVn.jpeg",
+      "sha256": "b7087b3ddcbc094ccf8ace4941015a6e92a19e8061c3285dc4ecab633d824d30"
+    },
+    {
+      "id": "lower-middle-08",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-08-deep-discogs-5625197-0.jpg",
+      "sourceUrl": "https://i.discogs.com/ciaZTDbLWpoolSQ6b2V-fNjGLuKBACyQG7laW7hL66Q/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjUx/OTctMTM5ODMwMjc5/MS05MTgwLmpwZWc.jpeg",
+      "sha256": "c79b427bd707f24f5da316d8381b6050c188a0c2c670b269224c31a3fa183f8c"
+    },
+    {
+      "id": "lower-middle-08",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-08-deep-discogs-5625197-1.jpg",
+      "sourceUrl": "https://i.discogs.com/x0EEn92dSMlA9aDNwdYchp6Pcw975mufIq0FscOKyPA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MjUx/OTctMTU4Nzk5MDc0/Mi02NzI3LmpwZWc.jpeg",
+      "sha256": "7837ac70d6c7939dd5c98d08c0579c3e053ff524c1b2b490e6547cc0f8d24af9"
+    },
+    {
+      "id": "lower-middle-09",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-09-deep-discogs-26272115-0.jpg",
+      "sourceUrl": "https://i.discogs.com/qYTcpxMigoJA-KPWUy3m9ge0az_VMrtuAWY1mGsY97w/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjcy/MTE1LTE2Nzc3MDcz/MDgtMzQ5Ny5qcGVn.jpeg",
+      "sha256": "e4370d49ece42c4d7d93de173b43f0f1330c615881dbb2acacfc2e3d381ec96f"
+    },
+    {
+      "id": "lower-middle-09",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-09-deep-discogs-26272115-1.jpg",
+      "sourceUrl": "https://i.discogs.com/VBs9vAzMDtC1uU_btUtYO-ve-6bFcF6zY6ihk2WXlNo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjcy/MTE1LTE2Nzc3MDcz/MDgtMjk1OS5qcGVn.jpeg",
+      "sha256": "6e07640b3e27a9a2b1ae93611f34703f0cfa69f86e711cb6cef50c0e60defab9"
+    },
+    {
+      "id": "lower-middle-10",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-10-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/ffe29dd7-a6cc-42eb-a7f1-f72ceb206357/11479697222.jpg",
+      "sha256": "b86676325550761c3604393d0fda94221031a58d387487305a4fb525f78ba86f"
+    },
+    {
+      "id": "lower-middle-10",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-10-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/382ac88e-9831-4c0c-aefe-6b09ea70f3c0/32422823634-1200.jpg",
+      "sha256": "6d0b1ea2a57470423c06af50afb3f74d8600bbbd934733017ca259aeb90bdc97"
+    },
+    {
+      "id": "lower-middle-12",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-12-deep-discogs-4197228-0.jpg",
+      "sourceUrl": "https://i.discogs.com/gis0IOOfZVeRuPFwty8aYzv8_3ZwLJvs5-LtE6j4Ht4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTQ3MTI2NTEw/OS03MzM3LmpwZWc.jpeg",
+      "sha256": "09d22de06ec5805430b925b18220e22953b986195556b838d174072484ad18cb"
+    },
+    {
+      "id": "lower-middle-12",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-12-deep-discogs-4197228-1.jpg",
+      "sourceUrl": "https://i.discogs.com/2uPaYbc4q2HuIZonm3paEgnPV5TzkJKH2JPEa5UkJok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTcy/MjgtMTQ3MTI2NTEw/OC04MDI0LmpwZWc.jpeg",
+      "sha256": "3ca8f76cfe4b16fad0c885cf0a5442889dfa4709190b8aff8fa577793f85ed02"
+    },
+    {
+      "id": "lower-middle-13",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-13-deep-discogs-1428098-0.jpg",
+      "sourceUrl": "https://i.discogs.com/ck_a6T--7_cTBu8Kir_N8lHxKaTQdwj-mYE9pRjm1WQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/OTgtMTI3MDc3OTYy/MC5qcGVn.jpeg",
+      "sha256": "ab6c63075459e6592c5eb8fbddee07f0c1745ce2850f7b25942234ce665e50da"
+    },
+    {
+      "id": "lower-middle-13",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-13-deep-discogs-1428098-2.jpg",
+      "sourceUrl": "https://i.discogs.com/R9wwK5de-i2QVcnDy2jGSxSvQedwxDzr0laPTOjlGFU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjgw/OTgtMTI3MDc3OTcw/Ny5qcGVn.jpeg",
+      "sha256": "5ed4bd71d33b9435c474d5771a88ef965521c0d61578544ebe7ba8f46dd0bce1"
+    },
+    {
+      "id": "lower-middle-14",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-14-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/03c51080-9be8-4d53-bd43-1116d9fe9737/10812073738.jpg",
+      "sha256": "b2bc1e609696c6b1d85a0f1ae17488d794cf07d95dd8764e7451c09dce72c67a"
+    },
+    {
+      "id": "lower-middle-14",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-14-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/03c51080-9be8-4d53-bd43-1116d9fe9737/11558727058.jpg",
+      "sha256": "cc68093c9842dbc10417bf36beaf8fb1dc954e1d5ce1a1f2ea90f24c5116ab38"
+    },
+    {
+      "id": "lower-middle-15",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-15-deep-discogs-1868141-0.jpg",
+      "sourceUrl": "https://i.discogs.com/oH0dTMziv_4r7Y5VXOWr9ebTzkHoOIDV9gqbn4GHJco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/NDEtMTY2MzUwMjA3/My0xNTgzLmpwZWc.jpeg",
+      "sha256": "ef0dc0b08644344d21fa79722123cc9a2deaa3639547d4cf08abcd8a88259b9e"
+    },
+    {
+      "id": "lower-middle-15",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-15-deep-discogs-1868141-1.jpg",
+      "sourceUrl": "https://i.discogs.com/M-Fei5Bo807awvOQWx73MhgPsoHf4-grKkDDHj2LMjI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njgx/NDEtMTY2MzUwMjA3/OC05MzQ5LmpwZWc.jpeg",
+      "sha256": "858c4780d0847c14f3e6cb7c4b2030bbb424fc284cb8718d7d7b86d11c03e29b"
+    },
+    {
+      "id": "lower-middle-16",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-16-deep-discogs-1840188-0.jpg",
+      "sourceUrl": "https://i.discogs.com/-VrCe2qgY8SIOtqBBwf1iaQoCIjQ1YN3ObqwRskgHUw/rs:fit/g:sm/q:90/h:478/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAx/ODgtMTMwMTIxNTQx/MC5qcGVn.jpeg",
+      "sha256": "fd8a20f38c88c3c76b694c23f2dfe9ac1c937531878356f51ce147ff012fa3f8"
+    },
+    {
+      "id": "lower-middle-16",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-16-deep-discogs-1840188-1.jpg",
+      "sourceUrl": "https://i.discogs.com/bIOkWSPyysiYQgQI-4iFXCB6YEjB5kiZOr8wNMNGp1o/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDAx/ODgtMTQyOTgxMDEw/OS02MTcyLmpwZWc.jpeg",
+      "sha256": "45acb7f1e525ae8a87919985f481d8c9eabc5fa1129cdeb62cdb72f3f359c2b3"
+    },
+    {
+      "id": "lower-middle-17",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-17-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/e270c747-73be-4721-a4a8-94d94adb2cd5/34331248165-1200.jpg",
+      "sha256": "42a6fe537e070fa3de1e0f9e691eaeb5d0f908f4bb65551c57728bb1b4846920"
+    },
+    {
+      "id": "lower-middle-17",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-17-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/e270c747-73be-4721-a4a8-94d94adb2cd5/34331251190-1200.jpg",
+      "sha256": "9d115eb6c8b43d315f4a5987253a699d898b19c9cbdc143db46d560794910906"
+    },
+    {
+      "id": "lower-middle-18",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-18-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079.jpg",
+      "sha256": "2ea4977202beae991ce6fc243726c830edb8fda377b35ef32f9872db59ab06a7"
+    },
+    {
+      "id": "lower-middle-18",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-18-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267.jpg",
+      "sha256": "d8888a82a1672e96d34998fa2464c23ab4c795a9c6e2620878d51ad54139794d"
+    },
+    {
+      "id": "lower-middle-19",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-19-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/03c06de6-2c29-47b2-8c83-867fb059a6b3/36201855582-1200.jpg",
+      "sha256": "2d635beb2ce9e50c86017a9a165769739d334ecca11a8fc2ce01bed4ecb1d7b8"
+    },
+    {
+      "id": "lower-middle-19",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-19-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/03c06de6-2c29-47b2-8c83-867fb059a6b3/36201856155-1200.jpg",
+      "sha256": "8928071e4759da68c810a8b24a02ac1a4229a4f6e9778dc9f4d6c50a8009c7b7"
+    },
+    {
+      "id": "lower-middle-20",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-20-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824929255.jpg",
+      "sha256": "1f58faa2c3f4c026e2311649724bc8f59571a2e5e30541d3f848d6965f1661ca"
+    },
+    {
+      "id": "lower-middle-20",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-20-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824933246.jpg",
+      "sha256": "8a402d069da066dfee5fd262c88d5ff0de1fbf9ef5d469b0b90215aa41364c9f"
+    },
+    {
+      "id": "lower-middle-21",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-21-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350041483.jpg",
+      "sha256": "224aa47bba135f1eb368a1104bf6e6f7ad93bd518efb8e38f91eef9b101321fd"
+    },
+    {
+      "id": "lower-middle-21",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-21-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/47792942-1537-4a1c-af65-23923fdbd0d3/7350042564.jpg",
+      "sha256": "931687c8f6bcea05f7962a648f2bf2fb25f7cc546ba9f6ba1253f4aa420c284e"
+    },
+    {
+      "id": "lower-middle-22",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-22-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/fba008bb-1d47-4ec3-89b5-bd7538400008/10559672087.jpg",
+      "sha256": "c45e377120bb498d1e44d4b5f25008c6ac4b9faf88e674b4ce2e75369ff20d59"
+    },
+    {
+      "id": "lower-middle-22",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-22-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/afe8516a-dc2e-42b0-9cc0-ff9c0f21c338/44483592554-1200.jpg",
+      "sha256": "c5abdc139e4b20acc703a0bd0aa47a65eab5694b4102631c5293b85a87d2f336"
+    },
+    {
+      "id": "lower-middle-23",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-23-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/96066e60-4228-44ad-bdce-ad511f3c7cb1/15857671603.jpg",
+      "sha256": "69a1f476576a9e4b5175bd6aa4a6e2b9f09280a82846c1956f4cea55a4cfbafd"
+    },
+    {
+      "id": "lower-middle-23",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-23-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/96066e60-4228-44ad-bdce-ad511f3c7cb1/15857673970.jpg",
+      "sha256": "3079530aadaf88e734ae0cfd0f28ff5ca6ea6ace0400d6d93815d45ef58aa505"
+    },
+    {
+      "id": "lower-middle-24",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-24-deep-front.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/3dedb19c-b021-4331-8e5d-d89548b70f0b/3417670601-1200.jpg",
+      "sha256": "dd3486d8481f9538ee5cf22d475a90153b58a72283917a524f46a6116afc4655"
+    },
+    {
+      "id": "lower-middle-24",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-24-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/7bedfd5b-0281-444f-8765-8003f49c38f7/34690530517-1200.jpg",
+      "sha256": "b598057c080fa9b0798c07f79bd27e8365f4e2f72e01b0120cd3e0aeb8c2b749"
+    },
+    {
+      "id": "lower-middle-26",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-26-deep-discogs-28810294-0.jpg",
+      "sourceUrl": "https://i.discogs.com/wfvN8-OaRD0x7pTdm-6ln6CQTeTSsWczUlonoq5AO_Y/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODEw/Mjk0LTE3NDE4MTI4/NzItNDE2NC5qcGVn.jpeg",
+      "sha256": "4604e3adf5aee68186a42fc731b0e889df622a3a90ab8ecb5676a774300dd122"
+    },
+    {
+      "id": "lower-middle-26",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-26-deep-discogs-28810294-3.jpg",
+      "sourceUrl": "https://i.discogs.com/-Eol9j-Vm3yhAqXHsYJXYblPwc0xp-DfkCK-UHBJXv8/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODEw/Mjk0LTE3NDE4MTI4/NzgtMzYwOC5qcGVn.jpeg",
+      "sha256": "b47b6de8bf414a85a93dd54661e1e889af31dabed00dcc340868cefe8492c500"
+    },
+    {
+      "id": "lower-middle-26",
+      "face": "label",
+      "path": "site/dist/assets/covers/lower-middle-26-deep-discogs-12658011-2.jpg",
+      "sourceUrl": "https://i.discogs.com/LOHKRuDsdzqxwxB32-mBCwL9UOOtKyEIxG94E4TKtYU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjU4/MDExLTE1Mzk1MTgy/ODQtODg5OS5qcGVn.jpeg",
+      "sha256": "fd1c1b51f0a7601d83c2e70c8510fca03c6261a9071c77a1f4cd177fba59e097"
+    },
+    {
+      "id": "lower-middle-27",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-27-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137661211.jpg",
+      "sha256": "b1161f55e4e948006b989c0138ab35628608863e3c620861271c3cbfee75c9c1"
+    },
+    {
+      "id": "lower-middle-27",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-27-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/e76a31ba-47c7-44b6-bea1-1fb939d06967/16137663048.jpg",
+      "sha256": "91ac539c8d906973067cafabf6322c584247ab210874706bff2694c3388de7af"
+    },
+    {
+      "id": "lower-middle-28",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-28-deep-discogs-1820351-0.jpg",
+      "sourceUrl": "https://i.discogs.com/gubJ63_TeBKrUDWYO4earLYnJGMNR_2yO4c3_aR09nU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/NTEtMTMxMjQwODYx/NS5qcGVn.jpeg",
+      "sha256": "05492e9fc6701af207368990ba9581cf2401e54114796c5f500cf9b75980f38e"
+    },
+    {
+      "id": "lower-middle-28",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-28-deep-discogs-1820351-1.jpg",
+      "sourceUrl": "https://i.discogs.com/LqG1VD-ZSj29cMV8RZRqo0H8mhehMSUfIwR6FyEPZWg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjAz/NTEtMTMxMjQwODYy/Mi5qcGVn.jpeg",
+      "sha256": "571eb7f3a83a878057e8e64f7c4a307cdee5e053d5e379cc89d0de56ce9e145a"
+    },
+    {
+      "id": "lower-middle-29",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-29-deep-front.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/d4d21f56-a8b8-4a96-a860-357b825bfa87/7083834119-1200.jpg",
+      "sha256": "a853b687c0e8fe1b89e4eee82e7ead05d562ab68f456fc753f589985a0d13c95"
+    },
+    {
+      "id": "lower-middle-29",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-29-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/d4d21f56-a8b8-4a96-a860-357b825bfa87/38740176511-1200.jpg",
+      "sha256": "ea9cdeae31c5dd45b543c4aa547bf49bc8b6cd5538ad36e472d870aafa133ad7"
+    },
+    {
+      "id": "lower-middle-30",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-30-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/70c998ae-cbfa-3a83-9194-c24fb4b07561/4138502432-1200.jpg",
+      "sha256": "a1cafb26a4ae054605f760ea8c96bc6a102e1e136e8815e2bdb18ed2cb360b90"
+    },
+    {
+      "id": "lower-middle-30",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-30-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/8f52ab13-e3f8-4f6e-8103-1ffbd736acdd/17499209841-1200.jpg",
+      "sha256": "7846447080690fff0cfbe31bf2ca6c993b75f457b03e2555d4c6143cd0280b96"
+    },
+    {
+      "id": "lower-middle-31",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-31-deep-discogs-1936232-0.jpg",
+      "sourceUrl": "https://i.discogs.com/u4oECrsnngtZ-MUZJr6ox-fD723wqeoVw8u6wSNhpm0/rs:fit/g:sm/q:90/h:480/w:484/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzYy/MzItMTI1MzczOTY4/Mi5qcGVn.jpeg",
+      "sha256": "18c0ad4b0e80e8aba22fc9c4344b095ec2a21700882f935f783535146d9fd4eb"
+    },
+    {
+      "id": "lower-middle-31",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-31-deep-discogs-1936232-3.jpg",
+      "sourceUrl": "https://i.discogs.com/zIIVOp0bukVVeqnULaD8LRXBQJ2eyHDNnH0ozEl-ODA/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzYy/MzItMTQ1NTIwNTI4/Ny00MjQ5LmpwZWc.jpeg",
+      "sha256": "8769805ba0f9275df71f3a3db37c4589ba5ae920136bcdd393e2a1f5d7695798"
+    },
+    {
+      "id": "lower-middle-33",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-33-deep-discogs-5291554-0.jpg",
+      "sourceUrl": "https://i.discogs.com/YJFLCsOGUSghtqRghhRGZtJ_lz6ou24myqRq4vFTeVg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTE1/NTQtMTQ3Njg3ODAw/Ny03ODYwLmpwZWc.jpeg",
+      "sha256": "695af9ab1a60473bcf6287cb759a0871b779a172116b40aa3f4727fdd97d860a"
+    },
+    {
+      "id": "lower-middle-33",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-33-deep-discogs-5291554-1.jpg",
+      "sourceUrl": "https://i.discogs.com/JtvKQlskxwOepIVTMNBCM8FYD8xraPH1jBBW-Pi3kT8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyOTE1/NTQtMTQ3Njg3ODAw/NS05NzEzLmpwZWc.jpeg",
+      "sha256": "cb166bd8072cdab0d8da08d55886df51de40a7ceec2aff06d476a69de7a5612e"
+    },
+    {
+      "id": "lower-middle-34",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-34-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/c8d3ff0f-378b-44e7-ad35-8ee215b4f05a/10921627593.jpg",
+      "sha256": "55ed93eba25d1eba64561d18c1df7feb263edcc74391eed0da62bee5f780440e"
+    },
+    {
+      "id": "lower-middle-34",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-34-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/c8d3ff0f-378b-44e7-ad35-8ee215b4f05a/10921629241.jpg",
+      "sha256": "764a1820aaeb844288d003850c4173a385bb96382fe2604fac27b8c50d3b80dd"
+    },
+    {
+      "id": "lower-middle-35",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-35.jpg",
+      "sourceUrl": "https://westminstergold.kimba.biz/WGS-8196a.jpg",
+      "sha256": "0537c7c66f61d6b59b3942e036ba089128ada246c661673ec7204e12d1771f61"
+    },
+    {
+      "id": "lower-middle-36",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-36-deep-discogs-3529776-0.jpg",
+      "sourceUrl": "https://i.discogs.com/TN1z27-YTYWw-TM_gFnk8tBzQxJFDInRLCSkT23doo0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk3/NzYtMTU4NjE0NzE4/Ny0yNjYzLmpwZWc.jpeg",
+      "sha256": "4963e7a1489af47ca0a228af3b009f7901da714af1791e96c89eab55cb8a0320"
+    },
+    {
+      "id": "lower-middle-36",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-36-deep-discogs-3529776-1.jpg",
+      "sourceUrl": "https://i.discogs.com/acCNTz9rhMrulG8PjgJcjtJcdWWQhWhBZtwTQYIinHs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mjk3/NzYtMTU4NjE0NzE3/MS02MjMwLmpwZWc.jpeg",
+      "sha256": "67c6eedd35527956692ebe8536ad80e669a0972507a11f9a4f4f5769e086da48"
+    },
+    {
+      "id": "lower-middle-37",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-37-deep-discogs-8977212-0.jpg",
+      "sourceUrl": "https://i.discogs.com/MqyX003pdwOUSGrgeFljKeT_1-_5Q87JZKrYdPN4WgE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Nzcy/MTItMTQ3MjYxOTQ3/NS01OTUzLmpwZWc.jpeg",
+      "sha256": "59bc65c7bed2f1a3cd31d9e5724bab3397badc29cb0b058abbb6ca632408a598"
+    },
+    {
+      "id": "lower-middle-37",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-37-deep-discogs-11056658-1.jpg",
+      "sourceUrl": "https://i.discogs.com/1C6DJAPW1GhdDZ8W9eqHofDyX2-Qrgk53KopfmNlIfQ/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/NjU4LTE1MDkwNDI0/ODUtMjIxOC5qcGVn.jpeg",
+      "sha256": "d3d17812e9daf498c5025f8b00d697148d5a6c4566167866df7f381e72e8e1f3"
+    },
+    {
+      "id": "lower-middle-37",
+      "face": "label",
+      "path": "site/dist/assets/covers/lower-middle-37-deep-discogs-11056658-2.jpg",
+      "sourceUrl": "https://i.discogs.com/2SrEDv4DydkYQv91lYi04WirEdR0ZZPoxBs7g7ooers/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDU2/NjU4LTE1MDkwNDI0/ODQtMTQ1OC5qcGVn.jpeg",
+      "sha256": "e7681e2cbe7852d989e4d025bd51b8c2e3235de184c9571800829da96d3086fd"
+    },
+    {
+      "id": "lower-middle-38",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-38-deep-discogs-26053534-0.jpg",
+      "sourceUrl": "https://i.discogs.com/bEySjpFCwNYkm9hrF5xq3kIJRR9BOX6P-Yht1wy-x08/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUz/NTM0LTE2ODczNjcz/MzEtMTQyMi5qcGVn.jpeg",
+      "sha256": "30172c8a8550b9eb98d93f486311a4b3b163a6230232095a10cb9ceafbd90158"
+    },
+    {
+      "id": "lower-middle-38",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-38-deep-discogs-26053534-1.jpg",
+      "sourceUrl": "https://i.discogs.com/UNj_cCU1BCXfUFXCjt_VV0o282PeopRh2w1UmwhZPOw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDUz/NTM0LTE2NzYyODg5/NzctNTk2NC5qcGVn.jpeg",
+      "sha256": "ad69cb772eab5c1ee1894a3b93a2029f0bbf2f10e69d7586636e27c4f33611bb"
+    },
+    {
+      "id": "lower-middle-38",
+      "face": "label",
+      "path": "site/dist/assets/covers/lower-middle-38-deep-discogs-8722196-1.jpg",
+      "sourceUrl": "https://i.discogs.com/G4tAZTp-sDPxtdmWy2S0IMEIN4R-5DZwW-ZEi6kozz4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MjIx/OTYtMTQ2NzM1NDg2/MS04NzIwLmpwZWc.jpeg",
+      "sha256": "971d58126464bae3625cd2b909a981cca295cf2e7d4ba65a70eef2891c428048"
+    },
+    {
+      "id": "lower-middle-39",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-39-deep-discogs-3155778-0.jpg",
+      "sourceUrl": "https://i.discogs.com/VG8b7dN4GBE0mFa6lwdBDfGqIZc7tApJp_poZwsc0GI/rs:fit/g:sm/q:90/h:457/w:454/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/NzgtMTMxODMyMTE2/NC5qcGVn.jpeg",
+      "sha256": "adcfc9e99d4de4079949c41696b86fb2c16a60bfcd38de2f440bfa85509bd4a1"
+    },
+    {
+      "id": "lower-middle-39",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-39-deep-discogs-3155778-1.jpg",
+      "sourceUrl": "https://i.discogs.com/EJYaSMRaIQkn9i7rUFDiMUjn5BhqiwF6clWKesGveS4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU3/NzgtMTcyNDc3NDQ5/My0yOTgwLmpwZWc.jpeg",
+      "sha256": "469d0b2803c7fd7c7cac5ea45a0b1adfeee531c23d4ecb597bea64e2b823ef60"
+    },
+    {
+      "id": "lower-middle-40",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-40-deep-discogs-1208326-0.jpg",
+      "sourceUrl": "https://i.discogs.com/t2htzJFWYl5MyRmHmPU9Dw5gGtP9i7HYLhxjJTUUOTs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgz/MjYtMTI4ODM5NjIw/NS5qcGVn.jpeg",
+      "sha256": "94011923e17079719f942310dd158a0786f13097376da0b9ad0d58c9f2d129c7"
+    },
+    {
+      "id": "lower-middle-40",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-40-deep-discogs-1208326-1.jpg",
+      "sourceUrl": "https://i.discogs.com/AtypCivXzUy0Gv6xMXVWRBvjK0GEcK3WfvvPiHdOOGM/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDgz/MjYtMTI4ODM5NjIx/Ni5qcGVn.jpeg",
+      "sha256": "5f39adb8a0cd667178cf305265663ef49a10e34c81dbdcd233e4ae2334b1688f"
+    },
+    {
+      "id": "lower-middle-41",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-41-deep-discogs-3738227-0.jpg",
+      "sourceUrl": "https://i.discogs.com/VIHj--NO8MKEWgIIa8YcQcfIVNGuF038tIiU1xaNAOs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgy/MjctMTY4NDUyMDA0/NS0xMDM0LmpwZWc.jpeg",
+      "sha256": "786d06ee771a7d75aee2b327c25fc2f81e3ff257ec33ecf83b190bc32a759ea5"
+    },
+    {
+      "id": "lower-middle-41",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-41-deep-discogs-3738227-1.jpg",
+      "sourceUrl": "https://i.discogs.com/LHrDlhD78zgic8w7aYZWdDJwjqmrnqNX8eAIVRnq5Vg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzgy/MjctMTY4NDUyMDA0/Ni04MzA5LmpwZWc.jpeg",
+      "sha256": "7672aa9773cbbf9c297cefd6ea140e34b6e8f734572ba66bc42421f8c85fa5dd"
+    },
+    {
+      "id": "lower-middle-42",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-42-deep-discogs-6398551-0.jpg",
+      "sourceUrl": "https://i.discogs.com/Pt3C02dje-bSPx5KvGGZ_KOOWCepKN7tNMxiJ1M80kg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg1/NTEtMTc1NTQ1ODA0/NC04MjMxLmpwZWc.jpeg",
+      "sha256": "201e6a9d97c8d53b2f24ccf474fefd340707575e1d2c7fcb3bb8f1cc2d68d18a"
+    },
+    {
+      "id": "lower-middle-42",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-42-deep-discogs-6398551-1.jpg",
+      "sourceUrl": "https://i.discogs.com/tM8XRSZRNCB7KXyccTvlGMnV-GqIqBVmN-LtC_J39dQ/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg1/NTEtMTc1NTQ1ODA1/MC02NzM3LmpwZWc.jpeg",
+      "sha256": "b8d8b2e3e7e3ec5f8090f68a8e87626079543f240933fbb9db30daa6f3531810"
+    },
+    {
+      "id": "lower-middle-43",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-43-deep-discogs-5987501-1.jpg",
+      "sourceUrl": "https://i.discogs.com/6zYQQcC1ZwPXuNc0GzRl9Rx1QRW5VenBX-BRasuYUqs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODc1/MDEtMTUyMTc0OTY2/OS0xMTA2LmpwZWc.jpeg",
+      "sha256": "a630f1e80ec22fdcd2c064e4dc739d027cbc20ba880df8a4c3937002bf2be07d"
+    },
+    {
+      "id": "lower-middle-43",
+      "face": "label",
+      "path": "site/dist/assets/covers/lower-middle-43-deep-discogs-5987501-2.jpg",
+      "sourceUrl": "https://i.discogs.com/-P8rv-hw-EQgzBhiFTJWjMgDlNBEHlm75gG1P1znd2M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODc1/MDEtMTUyMTc0OTY2/NS00MjMwLmpwZWc.jpeg",
+      "sha256": "7c7b9de5d7d70689c7a29ab961594e80fc24b014d091618486ca8d0b75307102"
+    },
+    {
+      "id": "lower-middle-45",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-45-deep-discogs-5305193-0.jpg",
+      "sourceUrl": "https://i.discogs.com/xLL-7NBi7rzzfuj9L-toJIAgf_3nMOCQSBuj5-4IXPM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDUx/OTMtMTUyNDU5NjA4/NC0xMjkyLmpwZWc.jpeg",
+      "sha256": "4137063c90a788a67845491dfd5d318663a00c7ebca61af4246c5c900f6b423c"
+    },
+    {
+      "id": "lower-middle-45",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-45-deep-discogs-5305193-1.jpg",
+      "sourceUrl": "https://i.discogs.com/d7WybFmXfbgIh7HxiW7pjAknRTCzJDt3j0mVAy1GE2Y/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDUx/OTMtMTUyNDU5NjA5/Mi0zNjI2LmpwZWc.jpeg",
+      "sha256": "74b7df65576950a4a0bd67df9ba636e29ce7445ecd46c3248deacf606c74494b"
+    },
+    {
+      "id": "lower-middle-46",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-46-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/663baec9-fa87-4798-adf6-7c93ba7e2a7a/29284062472-1200.jpg",
+      "sha256": "c8f4175b8e6a42cd84c89fc881c794f0759cd26fc8cbf86c9c74d4ed348488ac"
+    },
+    {
+      "id": "lower-middle-46",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-46-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/663baec9-fa87-4798-adf6-7c93ba7e2a7a/29284063159-1200.jpg",
+      "sha256": "c043f1e1f4c8d93d128ddae3ed91703d549ee1ce8fe238b74312def8becc1c69"
+    },
+    {
+      "id": "lower-middle-47",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-47-deep-discogs-2547761-0.jpg",
+      "sourceUrl": "https://i.discogs.com/6BMovcIJgwkZNKxDHZsXsRfsEk6_3uiwiSp5I5UDLcY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDc3/NjEtMTYwNDIwOTQ3/OS02MjExLmpwZWc.jpeg",
+      "sha256": "e9363f5a1d6b3ed11480eaf7e85134071cacc5aa3d732f7fb75d65dac1f39c97"
+    },
+    {
+      "id": "lower-middle-47",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-47-deep-discogs-2547761-1.jpg",
+      "sourceUrl": "https://i.discogs.com/PY4UgSa-53ZyR2ZlMRKI7LcX8vURnREbBvNnMBevqG0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDc3/NjEtMTYwNDIwOTQ3/NC05NjM4LmpwZWc.jpeg",
+      "sha256": "155aef3116d52700244650c307d53d9acf7a2afa27e77f823d12465ee72a5491"
+    },
+    {
+      "id": "lower-middle-48",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-48-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/da56e706-7908-3369-8d87-d0fe206b482c/11907603600.jpg",
+      "sha256": "18766bf167941f993e602b2080824d0f6a7908796ec3d93eb49f815030f0a88a"
+    },
+    {
+      "id": "lower-middle-48",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-48-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/da56e706-7908-3369-8d87-d0fe206b482c/11907604743.jpg",
+      "sha256": "f2915a34e0a8950df3be638d34c23c2073936ccceb75ef068365b2a4a4cbebbc"
+    },
+    {
+      "id": "lower-middle-49",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-49-deep-discogs-3069104-0.jpg",
+      "sourceUrl": "https://i.discogs.com/OcoKP3pujYOMLDh89vAD_3hECbP715UPGIyXbif5Txo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjkx/MDQtMTQ0MTc3NzAw/MS0xNTE3LmpwZWc.jpeg",
+      "sha256": "10037d94f307605bd33c1d57d8a1bbd6c52b1e5ca8417d964cee9b139f0eaf9d"
+    },
+    {
+      "id": "lower-middle-49",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-49-deep-discogs-3069104-1.jpg",
+      "sourceUrl": "https://i.discogs.com/bhhvMiuFbAXxWAfzTGeJJvNT3ju14J7mncKWMFIiLBM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjkx/MDQtMTQ0MTc3Njk5/OC02NTI1LmpwZWc.jpeg",
+      "sha256": "57766cceed5130c1b8ed0d5c3a6c50b05daa5c50f7ae06c1915e7bbd218a4594"
+    },
+    {
+      "id": "lower-middle-49",
+      "face": "label",
+      "path": "site/dist/assets/covers/lower-middle-49-deep-discogs-3069104-2.jpg",
+      "sourceUrl": "https://i.discogs.com/JsXkQ6NbwwyE6j_9MKAiAfaWnmGu4kUdS4xHpHgVxDo/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjkx/MDQtMTQzNzA5NTc4/Ny0yMDcyLmpwZWc.jpeg",
+      "sha256": "4ee2089fd78b3d03e023c53cb4419ab5fff803e543cf762f4eab00b0e1dc00a6"
+    },
+    {
+      "id": "lower-middle-50",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-50-deep-front.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/787b4564-8e27-47bd-8ab8-34fb1ab8fe06/43883953907-1200.jpg",
+      "sha256": "1ce62769ac9103adc1579de6579a45679221881d35e102ed051cb20380ffcaaf"
+    },
+    {
+      "id": "lower-middle-50",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-50-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/787b4564-8e27-47bd-8ab8-34fb1ab8fe06/43883954535-1200.jpg",
+      "sha256": "93b5b27c665eee2cdd2c7d3a937cedaea8014924959eba3f651feb0336d37588"
+    },
+    {
+      "id": "lower-middle-51",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-51-deep-discogs-38511918-0.jpg",
+      "sourceUrl": "https://i.discogs.com/I6lAReto26a6iA_QnFX-zAfQnjX2qw3C2wos7JRuzBU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEx/OTE4LTE3OTAxODU1/NzEtMzgxOS5qcGVn.jpeg",
+      "sha256": "0ab5dcdcb1b304875e8dc237aadbc5c8444ab8c6163b34e1b2fdf51cc41823d5"
+    },
+    {
+      "id": "lower-middle-51",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-51-deep-discogs-38511918-1.jpg",
+      "sourceUrl": "https://i.discogs.com/_0RpEzLAIAlEqW1nXRYjfDdnktIqmaXvrbtu8Hpeukk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTEx/OTE4LTE3OTAxODU1/NzItNjQzMi5qcGVn.jpeg",
+      "sha256": "e6777421aad2f2afd1a43e57f50b723f671a84612f34b77fb948afcc6259390c"
+    },
+    {
+      "id": "lower-middle-52",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-52-deep-discogs-14170693-0.jpg",
+      "sourceUrl": "https://i.discogs.com/i9tp0oGcWJS3XPONUThdFNJuEFaEjHIvU3EMlMRRcdw/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcw/NjkzLTE1NjkxNzQx/ODgtNTU2NC5qcGVn.jpeg",
+      "sha256": "5d982e87d5199a73a9965d4fe8345c76911d1d99175563c2609ccba6814a3d7d"
+    },
+    {
+      "id": "lower-middle-52",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-52-deep-discogs-14170693-1.jpg",
+      "sourceUrl": "https://i.discogs.com/IlFAlbbIJttzOreQwrhkAape8tynquFSM4a8PNNBv8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTcw/NjkzLTE1NjkxNzQx/ODgtNTk0Ni5qcGVn.jpeg",
+      "sha256": "6e28545f8a74d68f0b6ae06d67f9da49c8cb80decc1fb9369a01734bc2c1074e"
+    },
+    {
+      "id": "lower-middle-54",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-54-deep-discogs-12893159-0.jpg",
+      "sourceUrl": "https://i.discogs.com/fT1P-ayf1WrBUzHCV47CL0jxlJW66LgwFlpWEN85Kt4/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkz/MTU5LTE1NDM5OTc1/OTEtNDEzMC5qcGVn.jpeg",
+      "sha256": "a2bccd56a1b31bf231dc2e0e0be0aafe0a61c944747b91dde975313d909672e1"
+    },
+    {
+      "id": "lower-middle-54",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-54-deep-discogs-12893159-1.jpg",
+      "sourceUrl": "https://i.discogs.com/HCBQG6vGBrty9Est4OtQixIqZkyzYAHcrPIone8lcKQ/rs:fit/g:sm/q:90/h:515/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODkz/MTU5LTE1NDM5OTc1/OTUtMzMwMS5qcGVn.jpeg",
+      "sha256": "7cc1017bac022fa8fec0716d8ac9fc7e45ba2756a74287df7545fb1c6ea23021"
+    },
+    {
+      "id": "lower-middle-55",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-55-deep-discogs-24835322-0.jpg",
+      "sourceUrl": "https://i.discogs.com/yWf_L2963iKYE0O2Ulf-A34WZQ8LVdjB-k_oEOpphDQ/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODM1/MzIyLTE2NjU4NzM0/NTMtOTUzMC5qcGVn.jpeg",
+      "sha256": "7da3fe6daf51f22967378b4dc00729a19271bf06d697343fe888334886407438"
+    },
+    {
+      "id": "lower-middle-55",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-55-deep-discogs-24835322-1.jpg",
+      "sourceUrl": "https://i.discogs.com/GHz95cFADL_JJX-tglpJhiuywV7iCTIpuJbCUITThFQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODM1/MzIyLTE2NjU4NzM0/NTMtMTMwOS5qcGVn.jpeg",
+      "sha256": "5f8b3c7e5bb78212745e4d581bf3e290f7e10ad6b388ca44dada69cfd3f4eea6"
+    },
+    {
+      "id": "lower-middle-55",
+      "face": "label",
+      "path": "site/dist/assets/covers/lower-middle-55-deep-discogs-24835322-2.jpg",
+      "sourceUrl": "https://i.discogs.com/xvtzHrYrviwMcFdlCkfWkzBo3HWdDwIx5sKpNlp6kN0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODM1/MzIyLTE2NjU4NzM0/NTMtMzc1OS5qcGVn.jpeg",
+      "sha256": "17d38707aeb16d08a4be96cd694430615852d78971c3b4c7a6109a80fff78935"
+    },
+    {
+      "id": "lower-middle-56",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-56-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624951089-1200.jpg",
+      "sha256": "2b3abc3f74dd5691d75315f6c875caaa7e9cafe210c80430de11ebc45837b469"
+    },
+    {
+      "id": "lower-middle-56",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-56-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/4cbf7459-9104-4620-b022-c06a9acc1b78/21624953163-1200.jpg",
+      "sha256": "fcb40e993debd18c782ceece9dd81ec56b7ddfd7b8a716334f6eaae1bbd73e7b"
+    },
+    {
+      "id": "lower-middle-57",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-57-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/a15444b6-96f6-447b-aaa2-41e25de456d1/25234867437-1200.jpg",
+      "sha256": "1510b14c45058e655b746bc2ad722a9ffaaad9d48f3d28c2502241fc0703cf68"
+    },
+    {
+      "id": "lower-middle-57",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-57-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/a15444b6-96f6-447b-aaa2-41e25de456d1/26099666467-1200.jpg",
+      "sha256": "e494588373840ec8b9113ab0f228111b8c7007ad4f02383ebd6eadc41e24baed"
+    },
+    {
+      "id": "lower-middle-58",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-58-deep-front.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045667315-1200.jpg",
+      "sha256": "7ea53108c86e721605b162509a541d81459c7ca14dc829350b2cac9ff0bfcb8c"
+    },
+    {
+      "id": "lower-middle-58",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-58-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/1917fd64-c1d0-45aa-a8c3-ec1cc402b3ad/41045668679-1200.jpg",
+      "sha256": "484323d20c55ab72ea188ed7d5ea728111f63bbdde47f85440c9e7c6ff4d8745"
+    },
+    {
+      "id": "lower-middle-59",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-59-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752108539.jpg",
+      "sha256": "6536e7f0eb1cb7197879d9d25a982e9d19e09f891d7a091818eb284a0a3cc3e8"
+    },
+    {
+      "id": "lower-middle-59",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-59-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/ed94008d-eab0-4be1-8994-d809afdb2ae8/11752110650.jpg",
+      "sha256": "f6a4d1c2df361e95d3db239d09690b10a2cd1ebbe5da9546e1793859110f8aa4"
+    },
+    {
+      "id": "lower-middle-60",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-60-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/964958fc-d650-4b11-8983-8a769c526eb1/25683808879-1200.jpg",
+      "sha256": "071f1e236af93377f3097c325c0f8841bff6f959ea3f9eddf52afb71e6feef91"
+    },
+    {
+      "id": "lower-middle-60",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-60-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/964958fc-d650-4b11-8983-8a769c526eb1/25683813402-1200.jpg",
+      "sha256": "30fe7d50ce63b7d9a9d0adae1a9b629d831e91a60cd32c46f6e3de155ce7b9c7"
+    },
+    {
+      "id": "lower-middle-61",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-61-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/f1996755-6898-4d7c-a2d1-28e1e276cdbb/15857757799.jpg",
+      "sha256": "b6e4ca7a22ca1d673ca1e129cff046a0f906eb828481e626c0aba9bf1584ba82"
+    },
+    {
+      "id": "lower-middle-61",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-61-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/f1996755-6898-4d7c-a2d1-28e1e276cdbb/15857760405.jpg",
+      "sha256": "d526cf23d3f21795448de78da770d08b1b0279b9894a83e3fb7790f928387970"
+    },
+    {
+      "id": "lower-middle-62",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-62-deep-discogs-2233591-0.jpg",
+      "sourceUrl": "https://i.discogs.com/yrg-unwoQCckSFwyIqMjS73NSFJBjEgp5ejvHw3_viM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTQ4MjI3NDgy/MC03OTcyLmpwZWc.jpeg",
+      "sha256": "fc5e85aa551ea31897d0267c917b2dab2ec3ac734c783c1af92240950604b655"
+    },
+    {
+      "id": "lower-middle-62",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-62-deep-discogs-2233591-3.jpg",
+      "sourceUrl": "https://i.discogs.com/SD7MM1Nam5tpPjS2HOq4i5v3BqYDYHdiTlK1niLAb8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/OTEtMTQ4MjI3NDgz/OC01OTEzLmpwZWc.jpeg",
+      "sha256": "fbd57e4bba7d7b7d2464652a817ef6a5bead099ab861e9eb47d1c92c5ab2026d"
+    },
+    {
+      "id": "lower-middle-63",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-63-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/b966b0ad-31b0-4144-92f2-f7e7aa110546/7022301495.jpg",
+      "sha256": "c3216cf3aab91a837e72727660da5815d05b95f38b1e9288f18be2e1a71278ce"
+    },
+    {
+      "id": "lower-middle-63",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-63-deep-back.jpg",
+      "sourceUrl": "https://coverartarchive.org/release/8485e4fb-b7b3-4409-a1cf-99c130d6637a/39110648685-1200.jpg",
+      "sha256": "55131f4d97a0555fd64a6760e0733211336da176382b9afacaf86ba9facce307"
+    },
+    {
+      "id": "lower-middle-64",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-64-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/f4febaae-f283-47b9-a479-7f135162ca2e/18778455366.jpg",
+      "sha256": "77efb8e749bae4c693f94b3d363eff08e4aeedf0c9917e6818ee929b72100201"
+    },
+    {
+      "id": "lower-middle-64",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-64-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/f4febaae-f283-47b9-a479-7f135162ca2e/18778457527.jpg",
+      "sha256": "68bab5eb279106811406175637ca86153515bcd3177360412d89e64afe7c1d6d"
+    },
+    {
+      "id": "lower-middle-65",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-65-deep-discogs-1660005-0.jpg",
+      "sourceUrl": "https://i.discogs.com/Rhv2ornKMGuQrxvNIA_W1YupYo6qdKH2UKuF77qF9f0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjAw/MDUtMTU1Njk3Nzky/OC03MzQwLmpwZWc.jpeg",
+      "sha256": "2607c1e06894f6f1e220de168c9b8e14e8d27882c4aba69df5d0b89edb3b29ca"
+    },
+    {
+      "id": "lower-middle-65",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-65-deep-discogs-1660005-1.jpg",
+      "sourceUrl": "https://i.discogs.com/xJ3ocxXrjWQ-wfZh1IXFVonzzzLkO8oRTKXza5AvHQM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NjAw/MDUtMTU1Njk3Nzky/Ny0yNjc2LmpwZWc.jpeg",
+      "sha256": "23f941c9c2c4f13f8df82dc76cc8cacc38c5d4d9bee1180a500ea08db8e206fd"
+    },
+    {
+      "id": "lower-middle-67",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-67-deep-discogs-1675471-0.jpg",
+      "sourceUrl": "https://i.discogs.com/i5_EuMkHMQy9AjgnbhgEQahirpkF3Dq_Q1Aud4_r1Ww/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU0/NzEtMTMwMDA4MTcx/Mi5qcGVn.jpeg",
+      "sha256": "84a5ef24e1d4ffc6a0893f97d2d826b6e1d6740734d5b574faa44e93813e2f0e"
+    },
+    {
+      "id": "lower-middle-67",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-67-deep-discogs-1675471-1.jpg",
+      "sourceUrl": "https://i.discogs.com/REcuopzi-XNXl-bQX9p8hna1Hcaq17A5LifPaK99fcw/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU0/NzEtMTMwMDA4MTc2/NS5qcGVn.jpeg",
+      "sha256": "787370d5145decbae7255d8dccec83bebe921fd0d71b849e13e64924241b317d"
+    },
+    {
+      "id": "lower-middle-67",
+      "face": "label",
+      "path": "site/dist/assets/covers/lower-middle-67-deep-discogs-1675471-2.jpg",
+      "sourceUrl": "https://i.discogs.com/gs6OEKCFAtWmX-AwhtGDA-TUxi7eZdFrEn2fX7N8z2k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU0/NzEtMTQ1NzU4MzIx/NC0zMDU4LmpwZWc.jpeg",
+      "sha256": "8495a8754b96aeb50924aa9f760d27f7a46893c9c5a8134aa82d42af9aa54723"
+    },
+    {
+      "id": "lower-middle-68",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-68-deep-discogs-1393317-0.jpg",
+      "sourceUrl": "https://i.discogs.com/zZ7or0PcivtZ5vO1BP6NhvoXtFeshm43bRs88S9xAKY/rs:fit/g:sm/q:90/h:484/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMz/MTctMTI2ODU5ODA5/NC5qcGVn.jpeg",
+      "sha256": "94a0cda963bb68f73cc0ffd9b3f2bad3afd7ec026bf5ac9433a72057dfe3e431"
+    },
+    {
+      "id": "lower-middle-68",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-68-deep-discogs-1393317-1.jpg",
+      "sourceUrl": "https://i.discogs.com/gCPvlQNzoGgHp4aax8wRud50rRR1OflWilBuCl-BaV8/rs:fit/g:sm/q:90/h:508/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMz/MTctMTI2ODU5ODEy/MS5qcGVn.jpeg",
+      "sha256": "4cb651c1b37807d01dfd9ff91d44a1c7e7e3225077dac7932ac806fe19390df4"
+    },
+    {
+      "id": "lower-middle-70",
+      "face": "cover",
+      "path": "site/dist/assets/covers/lower-middle-70-deep-front.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/b621d629-d58b-48d1-9376-738c31afcab4/6884369823.jpg",
+      "sha256": "09bd67aa6eab6fd8910449b93fad32e98e63ff4b6ddd9abcac0ca816f3abf634"
+    },
+    {
+      "id": "lower-middle-70",
+      "face": "backUrl",
+      "path": "site/dist/assets/covers/lower-middle-70-deep-back.jpg",
+      "sourceUrl": "http://coverartarchive.org/release/84560c8b-eb3b-40a6-901b-603bbc78c94c/16724163438.jpg",
+      "sha256": "07d75b89d67896c79b3770c6393f331c534ac0e1b8121f7145e111da19ed4a3e"
+    }
+  ]
+}

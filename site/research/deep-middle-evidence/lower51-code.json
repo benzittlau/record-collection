@@ -1,0 +1,149 @@
+{
+  "created": "2026-10-14T03:11:59.136Z",
+  "count": 1,
+  "offset": 0,
+  "releases": [
+    {
+      "id": "8a920f05-77f1-42fb-8e46-9a23785fd834",
+      "score": 100,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging-id": "57429523-ffe6-3336-9381-32565c142c18",
+      "artist-credit-id": "3b0b3136-616b-3e40-a57d-58e7299d5479",
+      "count": 2,
+      "title": "Don Pasquale",
+      "status": "Official",
+      "packaging": "Fatbox",
+      "text-representation": {
+        "language": "ita",
+        "script": "Latn"
+      },
+      "artist-credit": [
+        {
+          "joinphrase": "; ",
+          "name": "Gaetano Donizetti",
+          "artist": {
+            "id": "b8ecf204-6be8-4041-ab11-6d9971ea2711",
+            "name": "Gaetano Donizetti",
+            "sort-name": "Donizetti, Gaetano",
+            "disambiguation": "Italian opera composer"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Tito Schipa",
+          "artist": {
+            "id": "1ded2722-6e36-4278-a654-911f8d031bed",
+            "name": "Tito Schipa",
+            "sort-name": "Schipa, Tito",
+            "disambiguation": "tenor"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Ernesto Badini",
+          "artist": {
+            "id": "8d12e4f2-f4db-462b-97c5-dc652932bf87",
+            "name": "Ernesto Badini",
+            "sort-name": "Badini, Ernesto",
+            "disambiguation": "Baritone"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Afro Poli",
+          "artist": {
+            "id": "f753c2f4-78e6-4547-b1a7-7851829ed975",
+            "name": "Afro Poli",
+            "sort-name": "Poli, Afro",
+            "disambiguation": "Baritone"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Adelaide Saraceni",
+          "artist": {
+            "id": "9e88afaf-4e8f-4bbe-a8b5-38826bfb6b17",
+            "name": "Adelaide Saraceni",
+            "sort-name": "Saraceni, Adelaide",
+            "disambiguation": "italian operatic soprano"
+          }
+        },
+        {
+          "joinphrase": " e ",
+          "name": "Orchestra",
+          "artist": {
+            "id": "a8a96598-a77f-4e34-9860-f5f663d33b25",
+            "name": "Orchestra del Teatro alla Scala di Milano",
+            "sort-name": "Orchestra del Teatro alla Scala di Milano"
+          }
+        },
+        {
+          "joinphrase": ", ",
+          "name": "Coro del Teatro alla Scala di Milano",
+          "artist": {
+            "id": "c2431abf-0fef-48eb-b1fe-3bf3b506c432",
+            "name": "Coro del Teatro alla Scala di Milano",
+            "sort-name": "Coro del Teatro alla Scala di Milano"
+          }
+        },
+        {
+          "name": "Carlo Sabajno",
+          "artist": {
+            "id": "01e33c88-0b95-4af3-9cd4-80c4e7fab4fc",
+            "name": "Carlo Sabajno",
+            "sort-name": "Sabajno, Carlo",
+            "disambiguation": "conductor"
+          }
+        }
+      ],
+      "release-group": {
+        "id": "620aa4c5-845a-46a1-a34f-be137caee84f",
+        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+        "title": "Don Pasquale",
+        "disambiguation": "1932, Direttore Carlo Sabajno",
+        "primary-type": "Album"
+      },
+      "date": "1989",
+      "country": "FR",
+      "release-events": [
+        {
+          "date": "1989",
+          "area": {
+            "id": "08310658-51eb-3801-80de-5a0739207115",
+            "name": "France",
+            "sort-name": "France",
+            "iso-3166-1-codes": [
+              "FR"
+            ]
+          }
+        }
+      ],
+      "barcode": "3268440302314",
+      "label-info": [
+        {
+          "catalog-number": "30231",
+          "label": {
+            "id": "faa53a83-556a-4449-a63a-9d70677fb33d",
+            "name": "Music Memoria"
+          }
+        }
+      ],
+      "track-count": 28,
+      "media": [
+        {
+          "id": "93a4c8aa-603e-311c-8547-dc8a497a65c4",
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 10
+        },
+        {
+          "id": "827e9b5a-2ab2-311f-bf2a-0c95e003fc66",
+          "format": "CD",
+          "disc-count": 1,
+          "track-count": 18
+        }
+      ]
+    }
+  ]
+}

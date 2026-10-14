@@ -1,0 +1,131 @@
+{
+  "id": "lower-middle-13",
+  "identity": "The House on the Hill",
+  "searches": [
+    {
+      "query": "rgid:8fe813b8-514e-354c-ad56-853d1f7b3bae",
+      "url": "https://musicbrainz.org/ws/2/release/?query=rgid%3A8fe813b8-514e-354c-ad56-853d1f7b3bae&limit=100&fmt=json"
+    }
+  ],
+  "releases": [
+    {
+      "id": "05f66ddd-0aba-4045-9915-36c0e1c93b25",
+      "url": "https://musicbrainz.org/release/05f66ddd-0aba-4045-9915-36c0e1c93b25",
+      "title": "The House on the Hill",
+      "artistCredit": [
+        {
+          "name": "Audience",
+          "artist": {
+            "id": "9e7b854c-c8af-4883-a7e4-d36a779c4421",
+            "name": "Audience",
+            "sort-name": "Audience",
+            "disambiguation": "UK art rock/prog rock band"
+          }
+        }
+      ],
+      "country": "US",
+      "date": "1971",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "EKS-74100",
+          "label": {
+            "id": "873f9f75-af68-4872-98e2-431058e4c9a9",
+            "name": "Elektra"
+          }
+        }
+      ],
+      "images": [
+        {
+          "comment": "",
+          "types": [
+            "Front"
+          ],
+          "thumbnails": {
+            "small": "http://coverartarchive.org/release/05f66ddd-0aba-4045-9915-36c0e1c93b25/14747649579-250.jpg",
+            "large": "http://coverartarchive.org/release/05f66ddd-0aba-4045-9915-36c0e1c93b25/14747649579-500.jpg"
+          },
+          "front": true,
+          "id": "14747649579",
+          "image": "http://coverartarchive.org/release/05f66ddd-0aba-4045-9915-36c0e1c93b25/14747649579.png",
+          "edit": 40927156,
+          "back": false,
+          "approved": true
+        },
+        {
+          "front": false,
+          "id": "14747653442",
+          "image": "http://coverartarchive.org/release/05f66ddd-0aba-4045-9915-36c0e1c93b25/14747653442.png",
+          "types": [
+            "Front",
+            "Back"
+          ],
+          "comment": "",
+          "thumbnails": {
+            "large": "http://coverartarchive.org/release/05f66ddd-0aba-4045-9915-36c0e1c93b25/14747653442-500.jpg",
+            "small": "http://coverartarchive.org/release/05f66ddd-0aba-4045-9915-36c0e1c93b25/14747653442-250.jpg"
+          },
+          "back": true,
+          "approved": true,
+          "edit": 40927169
+        }
+      ],
+      "error": null
+    },
+    {
+      "id": "93bc85cd-79e8-4ee8-b1e6-9bf6569cc59b",
+      "url": "https://musicbrainz.org/release/93bc85cd-79e8-4ee8-b1e6-9bf6569cc59b",
+      "title": "The House on the Hill",
+      "artistCredit": [
+        {
+          "name": "Audience",
+          "artist": {
+            "id": "9e7b854c-c8af-4883-a7e4-d36a779c4421",
+            "name": "Audience",
+            "sort-name": "Audience",
+            "disambiguation": "UK art rock/prog rock band"
+          }
+        }
+      ],
+      "country": "GB",
+      "date": "1971",
+      "formats": [
+        "12\" Vinyl"
+      ],
+      "labels": [
+        {
+          "catalog-number": "CAS 1032",
+          "label": {
+            "id": "924da91f-86a6-4f15-842f-b9afb645fe5c",
+            "name": "Charisma"
+          }
+        }
+      ],
+      "images": [
+        {
+          "approved": true,
+          "back": false,
+          "comment": "",
+          "edit": 122426360,
+          "front": true,
+          "id": 41278345755,
+          "image": "https://coverartarchive.org/release/93bc85cd-79e8-4ee8-b1e6-9bf6569cc59b/41278345755.jpg",
+          "thumbnails": {
+            "1200": "https://coverartarchive.org/release/93bc85cd-79e8-4ee8-b1e6-9bf6569cc59b/41278345755-1200.jpg",
+            "250": "https://coverartarchive.org/release/93bc85cd-79e8-4ee8-b1e6-9bf6569cc59b/41278345755-250.jpg",
+            "500": "https://coverartarchive.org/release/93bc85cd-79e8-4ee8-b1e6-9bf6569cc59b/41278345755-500.jpg",
+            "large": "https://coverartarchive.org/release/93bc85cd-79e8-4ee8-b1e6-9bf6569cc59b/41278345755-500.jpg",
+            "small": "https://coverartarchive.org/release/93bc85cd-79e8-4ee8-b1e6-9bf6569cc59b/41278345755-250.jpg"
+          },
+          "types": [
+            "Front"
+          ]
+        }
+      ],
+      "error": null
+    }
+  ],
+  "existingBack": null
+}

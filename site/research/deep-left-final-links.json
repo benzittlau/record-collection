@@ -1,0 +1,111 @@
+{
+  "upper-left-27": {
+    "url": "https://musicbrainz.org/ws/2/release/0e5add63-61b5-4136-aae1-79d2120fbee4?inc=url-rels&fmt=json",
+    "data": {
+      "status-id": null,
+      "status": null,
+      "barcode": "",
+      "release-events": [
+        {
+          "area": {
+            "disambiguation": "",
+            "type-id": null,
+            "name": "Netherlands",
+            "type": null,
+            "sort-name": "Netherlands",
+            "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+            "iso-3166-1-codes": [
+              "NL"
+            ]
+          },
+          "date": "1988"
+        }
+      ],
+      "id": "0e5add63-61b5-4136-aae1-79d2120fbee4",
+      "disambiguation": "",
+      "text-representation": {
+        "script": null,
+        "language": null
+      },
+      "country": "NL",
+      "cover-art-archive": {
+        "back": false,
+        "front": false,
+        "artwork": false,
+        "count": 0,
+        "darkened": false
+      },
+      "title": "Todd Rundgren\u2019s Utopia",
+      "quality": "normal",
+      "date": "1988",
+      "asin": null,
+      "packaging": "Cardboard/Paper Sleeve",
+      "relations": [],
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f"
+    }
+  },
+  "upper-left-43": {
+    "url": "https://musicbrainz.org/ws/2/release/5d0c8af3-bdeb-44e4-bf00-d9fe4b6e9cd4?inc=url-rels&fmt=json",
+    "data": {
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "count": 1,
+        "artwork": true,
+        "front": true
+      },
+      "relations": [
+        {
+          "target-credit": "",
+          "target-type": "url",
+          "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+          "end": null,
+          "attribute-values": {},
+          "begin": null,
+          "attributes": [],
+          "source-credit": "",
+          "type": "discogs",
+          "url": {
+            "resource": "https://www.discogs.com/release/2411930",
+            "id": "6c69c3c5-fa04-4068-bbbf-657e75037e1b"
+          },
+          "attribute-ids": {},
+          "ended": false,
+          "direction": "forward"
+        }
+      ],
+      "quality": "normal",
+      "status": "Official",
+      "id": "5d0c8af3-bdeb-44e4-bf00-d9fe4b6e9cd4",
+      "release-events": [
+        {
+          "date": "1978",
+          "area": {
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "name": "United States",
+            "type-id": null,
+            "sort-name": "United States"
+          }
+        }
+      ],
+      "date": "1978",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "title": "Pastiche",
+      "asin": null,
+      "disambiguation": "",
+      "packaging": "Cardboard/Paper Sleeve",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "US",
+      "barcode": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      }
+    }
+  }
+}

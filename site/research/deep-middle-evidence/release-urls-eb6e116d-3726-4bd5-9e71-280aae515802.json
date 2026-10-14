@@ -1,0 +1,100 @@
+{
+  "date": "1976",
+  "cover-art-archive": {
+    "artwork": false,
+    "front": false,
+    "count": 0,
+    "back": false,
+    "darkened": false
+  },
+  "release-events": [
+    {
+      "area": {
+        "type": null,
+        "name": "United States",
+        "disambiguation": "",
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "iso-3166-1-codes": [
+          "US"
+        ],
+        "type-id": null,
+        "sort-name": "United States"
+      },
+      "date": "1976"
+    }
+  ],
+  "barcode": null,
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "relations": [
+    {
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.discogs.com/release/2350959",
+        "id": "11e0b05d-ee4b-461b-b6de-173ba2c2a9ba"
+      },
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "end": null,
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type": "discogs",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attributes": []
+    }
+  ],
+  "id": "eb6e116d-3726-4bd5-9e71-280aae515802",
+  "status": "Official",
+  "label-info": [
+    {
+      "label": {
+        "name": "Columbia",
+        "type": "Imprint",
+        "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+        "sort-name": "Columbia",
+        "label-code": 162,
+        "disambiguation": "owned by Sony Music Entertainment, worldwide except JP; formerly owned by CBS between 1938\u20131990 within US/CA/MX",
+        "id": "011d1192-6f65-45bd-85c4-0400dd45693e"
+      },
+      "catalog-number": "PC 34387"
+    }
+  ],
+  "quality": "normal",
+  "media": [
+    {
+      "track-count": 10,
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "title": "",
+      "format": "12\" Vinyl",
+      "position": 1,
+      "id": "b69c0eea-becf-3fea-bee5-6fc0dec05535"
+    }
+  ],
+  "packaging": null,
+  "title": "It Looks Like Snow",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "asin": null,
+  "country": "US",
+  "disambiguation": "",
+  "artist-credit": [
+    {
+      "artist": {
+        "id": "d3986756-f1dd-4635-9510-2d116c0deddd",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Snow, Phoebe",
+        "type": "Person",
+        "name": "Phoebe Snow"
+      },
+      "joinphrase": "",
+      "name": "Phoebe Snow"
+    }
+  ],
+  "packaging-id": null
+}

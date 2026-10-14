@@ -1,0 +1,100 @@
+{
+  "cover-art-archive": {
+    "darkened": false,
+    "back": false,
+    "artwork": true,
+    "front": true,
+    "count": 1
+  },
+  "date": "1976",
+  "release-events": [
+    {
+      "area": {
+        "type": null,
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "type-id": null,
+        "disambiguation": "",
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "iso-3166-1-codes": [
+          "GB"
+        ]
+      },
+      "date": "1976"
+    }
+  ],
+  "barcode": "",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "relations": [
+    {
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.amazon.co.uk/gp/product/B000001FV8",
+        "id": "007f8d82-9c8c-48ff-ba41-2b6dc452f51e"
+      },
+      "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+      "end": null,
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "type": "amazon asin",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": ""
+    }
+  ],
+  "status": "Official",
+  "id": "1d4a9f09-8e5a-4d8f-b1af-3cbaadd25354",
+  "label-info": [
+    {
+      "catalog-number": "ILPS 9420",
+      "label": {
+        "disambiguation": "imprint of Island Records, a division of Universal Music Group",
+        "id": "dfd92cd3-4888-46d2-b968-328b1feb2642",
+        "label-code": 407,
+        "sort-name": "Island",
+        "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+        "name": "Island",
+        "type": "Imprint"
+      }
+    }
+  ],
+  "quality": "normal",
+  "media": [
+    {
+      "track-count": 10,
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "title": "",
+      "format": "12\" Vinyl",
+      "id": "33ca6a94-ceed-3371-8598-b1187417df5c",
+      "position": 1
+    }
+  ],
+  "packaging": "Cardboard/Paper Sleeve",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "title": "Some People Can Do What They Like",
+  "asin": "B000001FV8",
+  "country": "GB",
+  "disambiguation": "",
+  "artist-credit": [
+    {
+      "artist": {
+        "sort-name": "Palmer, Robert",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "96b1d906-0fda-406d-beb6-19c6758998df",
+        "disambiguation": "English singer\u2010songwriter",
+        "type": "Person",
+        "name": "Robert Palmer"
+      },
+      "name": "Robert Palmer",
+      "joinphrase": ""
+    }
+  ],
+  "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f"
+}

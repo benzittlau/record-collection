@@ -1,0 +1,100 @@
+{
+  "status": "Official",
+  "barcode": "",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "id": "cb4b08f8-796e-30cb-ad6f-2246fc4146b3",
+  "release-events": [
+    {
+      "date": "1967-10-31",
+      "area": {
+        "type": null,
+        "name": "United States",
+        "type-id": null,
+        "iso-3166-1-codes": [
+          "US"
+        ],
+        "sort-name": "United States",
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "disambiguation": ""
+      }
+    }
+  ],
+  "disambiguation": "stereo",
+  "title": "Pleasures of the Harbor",
+  "quality": "normal",
+  "cover-art-archive": {
+    "count": 1,
+    "darkened": false,
+    "back": false,
+    "front": true,
+    "artwork": true
+  },
+  "country": "US",
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "asin": null,
+  "date": "1967-10-31",
+  "relations": [
+    {
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "type": "discogs",
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/release/761878",
+        "id": "4d042508-506d-47ae-8724-6566dd5c6a7e"
+      },
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "ended": false
+    }
+  ],
+  "packaging-id": null,
+  "packaging": null,
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "US",
+        "type": "Person",
+        "name": "Phil Ochs",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "80cd255d-995c-47f1-a5bc-cc34669a37a0",
+        "sort-name": "Ochs, Phil"
+      },
+      "name": "Phil Ochs"
+    }
+  ],
+  "media": [
+    {
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "track-count": 8,
+      "format": "12\" Vinyl",
+      "id": "ae8f7ae9-316c-3f77-b881-c6f4fa91f9b0",
+      "position": 1,
+      "title": ""
+    }
+  ],
+  "label-info": [
+    {
+      "label": {
+        "id": "35515729-1f2c-4cc9-9390-9af2764bc56c",
+        "sort-name": "A&M Records",
+        "type": "Production",
+        "name": "A&M Records",
+        "type-id": "a2426aab-2dd4-339c-b47d-b4923a241678",
+        "disambiguation": "",
+        "label-code": 485
+      },
+      "catalog-number": "SP 4133"
+    }
+  ]
+}
