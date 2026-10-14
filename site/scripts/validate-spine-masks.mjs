@@ -63,4 +63,7 @@ for(const [id,position] of [['lower-middle-19',18],['lower-middle-20',19],['lowe
 const chance=masks.boxes['upper-middle'].records.find(r=>r.id==='upper-middle-14');
 const chanceYs=chance.polygon.map(p=>p[1]);
 assert(Math.min(...chanceYs)<550&&Math.max(...chanceYs)>2680,'Box 3 Chance outline must reach the photographed sleeve cap and foot');
+const prisoner=masks.boxes['upper-left'].records.find(r=>r.id==='upper-left-33');
+const prisonerYs=prisoner.polygon.map(p=>p[1]);
+assert(Math.min(...prisonerYs)<420&&Math.max(...prisonerYs)>2675,'Box 1 Prisoner in Disguise outline must reach the photographed sleeve cap and foot');
 console.log(`Validated ${total} photograph-derived spine outlines, tilted-edge projection, and cropped-photo clipping.`);
