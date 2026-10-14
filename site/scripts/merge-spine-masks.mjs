@@ -22,5 +22,18 @@ for(const source of sources){
   }
 }
 assert.equal(Object.keys(result.boxes).length,5);
-await writeFile(new URL('../dist/spine-masks.json',import.meta.url),JSON.stringify(result,null,2)+'\n');
-console.log('Merged the five photographic spine maps in their original catalog order.');
+const maskSource=JSON.stringify(result,null,2)+'\n';
+await writeFile(new URL('../dist/spine-masks.json',import.meta.url),maskSource);
+// Each trace revision must get fresh resource URLs, including in preview
+// browsers that retain an earlier response despite fetch's no-store option.
+const fingerprint=source=>createHash('sha256').update(source).digest('hex').slice(0,12);
+const appUrl=new URL('../dist/app.js',import.meta.url),indexUrl=new URL('../dist/index.html',import.meta.url);
+const appSource=await readFile(appUrl,'utf8');
+assert(/spine-masks\.json\?v=[^'"]+/.test(appSource),'Missing versioned mask request');
+const nextApp=appSource.replace(/spine-masks\.json\?v=[^'"]+/,`spine-masks.json?v=${fingerprint(maskSource)}`);
+if(nextApp!==appSource)await writeFile(appUrl,nextApp);
+const indexSource=await readFile(indexUrl,'utf8');
+assert(/src="app\.js\?v=[^"]+"/.test(indexSource),'Missing versioned application script');
+const nextIndex=indexSource.replace(/src="app\.js\?v=[^"]+"/,`src="app.js?v=${fingerprint(nextApp)}"`);
+if(nextIndex!==indexSource)await writeFile(indexUrl,nextIndex);
+console.log('Merged the five photographic spine maps and refreshed their content-based cache keys.');

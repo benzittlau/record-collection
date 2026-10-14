@@ -19,6 +19,14 @@ assert.throws(()=>projectSpineMasks(h,{records:[{id:'bad',polygon:[[0,0],[NaN,1]
 
 const load=async name=>JSON.parse(await readFile(new URL(`../dist/${name}`,import.meta.url),'utf8'));
 const [masks,photos,catalog]=await Promise.all(['spine-masks.json','box-photos.json','catalog.json'].map(load));
+const [maskBytes,appSource,indexSource]=await Promise.all([
+  readFile(new URL('../dist/spine-masks.json',import.meta.url)),
+  readFile(new URL('../dist/app.js',import.meta.url),'utf8'),
+  readFile(new URL('../dist/index.html',import.meta.url),'utf8')
+]);
+const fingerprint=bytes=>createHash('sha256').update(bytes).digest('hex').slice(0,12);
+assert(appSource.includes(`spine-masks.json?v=${fingerprint(maskBytes)}`),'Mask requests must identify the current traced data to avoid stale previews');
+assert(indexSource.includes(`app.js?v=${fingerprint(appSource)}`),'The page must request the current application that loads the traced data');
 assert.equal(masks.coordinateSpace,'source-photo');
 const turn=(a,b,c)=>(b[0]-a[0])*(c[1]-a[1])-(b[1]-a[1])*(c[0]-a[0]);
 function hasCrossedEdges(points){
@@ -66,4 +74,9 @@ assert(Math.min(...chanceYs)<550&&Math.max(...chanceYs)>2680,'Box 3 Chance outli
 const prisoner=masks.boxes['upper-left'].records.find(r=>r.id==='upper-left-33');
 const prisonerYs=prisoner.polygon.map(p=>p[1]);
 assert(Math.min(...prisonerYs)<420&&Math.max(...prisonerYs)>2675,'Box 1 Prisoner in Disguise outline must reach the photographed sleeve cap and foot');
+const whiteAlbum=masks.boxes['lower-middle'].records.find(r=>r.id==='lower-middle-26');
+const whiteAlbumYs=whiteAlbum.polygon.map(p=>p[1]);
+assert(Math.min(...whiteAlbumYs)<570&&Math.max(...whiteAlbumYs)>2845,'Box 4 White Album outline must reach the photographed sleeve cap and foot');
+assert(Math.min(...japanese.polygon.map(p=>p[1]))<600,'Box 4 Japanese Melodies must reach its photographed sleeve cap');
+assert((japanese.polygon[0][0]+japanese.polygon[1][0]-japanese.polygon[3][0]-japanese.polygon[4][0])/2>100,'Japanese Melodies must retain the photographed left lean');
 console.log(`Validated ${total} photograph-derived spine outlines, tilted-edge projection, and cropped-photo clipping.`);

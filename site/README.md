@@ -4,7 +4,7 @@ A buildless photographic collection browser. The room is reconstructed from the 
 
 ## Run locally
 
-From this directory, run `npm run dev` and open `http://localhost:4173`. Python 3 and Node.js are the only runtime requirements; there are no npm dependencies. Run `npm run check` for JavaScript syntax and catalog integrity checks.
+From this directory, run `npm run dev` and open `http://localhost:4173`. Python 3 and Node.js are the only runtime requirements; there are no npm dependencies. After application or tracing edits, run `node scripts/merge-spine-masks.mjs` to refresh the masks and their content-based cache keys, then `npm run check` for syntax, catalog, projection, mask and cache integrity checks.
 
 ## Catalog and evidence
 
@@ -18,7 +18,7 @@ The source photographs are in `dist/assets/IMG_3569.jpg` through `IMG_3573.jpg`.
 
 Spine outlines in `dist/spine-masks.json` use the displayed source-photo coordinates and the same homography as the photographic texture. Multiple vertices follow leaning or bent sleeves; measured widths preserve broad box sets, narrow records, divider gaps, and empty space at the edges. The numbered marker follows the photographed sleeve's lower edge. Masks are clipped to the actual image bounds, including the missing lower-middle corner.
 
-Edit the tracing data in `research/spine-masks-left.json`, `spine-masks-middle.json`, and `spine-masks-right.json`, then run `node scripts/merge-spine-masks.mjs`. The merge retains catalog order and records a checksum of each source photo. Validation checks coverage, projection, clipping, and the Rampal/Laskine sleeve that previously highlighted the empty right frame. Several worn or uncertain boundaries remain interpolated between readable anchors; more precise outlines do not change the catalog's identification confidence.
+Edit the tracing data in `research/spine-masks-left.json`, `spine-masks-middle.json`, and `spine-masks-right.json`, then run `node scripts/merge-spine-masks.mjs`. The merge retains catalog order and records a checksum of each source photo. It fingerprints the merged mask data and application script so preview and published browsers request the current files. Validation checks those cache keys, coverage, projection, clipping, and the Rampal/Laskine sleeve that previously highlighted the empty right frame. Several worn or uncertain boundaries remain interpolated between readable anchors; more precise outlines do not change the catalog's identification confidence.
 
 ## Adding missing records later
 
