@@ -10,6 +10,9 @@ from PIL import Image,ImageOps,ImageDraw
 ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/'site/research/spine-masks-middle.json'
 CAT=json.load(open(ROOT/'site/dist/catalog.json'))['records']
+# This scoped endpoint generator preserves the already-reviewed lower-middle geometry.
+BASELINE=json.load(open(OUT))
+PRESERVED_LOWER=BASELINE['boxes']['lower-middle']
 DATA={
  'lower-middle':{
  'top':[600,642,714,760,849,879,914,949,992,1034,1058,1080,1118,1156,1197,1268,1281,1309,1337,1406,1454,1495,1500,1530,1568,1597,1666,1698,1721,1758,1796,1851,1906,1927,1961,1992,2028,2056,2212,2236,2256,2276,2334,2366,2397,2424,2458,2495,2542,2572,2607,2635,2686,2708,2748,2780,2804,2872,2895,2921,2944,2988,3019,3049,3087,3111,3145,3191,3211,3269,3337],
@@ -27,8 +30,9 @@ DATA={
    'top':[1900,1954,1979,2019,2076,2117,2155,2213,2245,2273,2308,2349,2374,2408,2458,2490,2510,2546,2570,2601,2639,2660,2700,2740,2768,2808,2840,2872,2911,2926,2969,3007,3026,3064,3090,3140],
    'bottom':[1885,1933,1961,1993,2048,2089,2111,2157,2191,2228,2258,2298,2315,2386,2398,2432,2450,2499,2511,2546,2558,2568,2603,2628,2664,2699,2735,2774,2789,2800,2846,2880,2894,2924,2939,2963]}
  ],
+ 'endYs':[[410, 417, 2708, 2711], [436, 444, 2708, 2713], [442, 441, 2718, 2721], [450, 447, 2698, 2719], [447, 430, 2693, 2691], [427, 425, 2706, 2691], [436, 435, 2706, 2703], [450, 452, 2716, 2714], [433, 437, 2693, 2696], [452, 456, 2699, 2703], [454, 450, 2686, 2688], [449, 451, 2694, 2694], [449, 441, 2694, 2693], [432, 434, 2746, 2741], [460, 466, 2688, 2687], [458, 461, 2689, 2694], [441, 444, 2681, 2686], [446, 445, 2670, 2674], [450, 460, 2667, 2664], [464, 464, 2667, 2671], [460, 463, 2664, 2664], [445, 444, 2709, 2709], [469, 467, 2661, 2662], [463, 459, 2665, 2666], [450, 461, 2654, 2657], [458, 458, 2648, 2656], [463, 464, 2652, 2656], [480, 476, 2650, 2651], [466, 470, 2656, 2655], [453, 462, 2653, 2652], [497, 489, 2653, 2652], [487, 490, 2653, 2657], [470, 477, 2655, 2653], [484, 488, 2643, 2645], [494, 486, 2645, 2636], [477, 478, 2640, 2645], [498, 496, 2636, 2637], [476, 477, 2624, 2627], [509, 507, 2631, 2631], [492, 495, 2634, 2630], [510, 508, 2623, 2621], [496, 499, 2623, 2623], [524, 524, 2609, 2609], [443, 433, 2591, 2589], [497, 497, 2608, 2606], [500, 512, 2613, 2616], [537, 543, 2607, 2608], [508, 506, 2605, 2604], [535, 533, 2605, 2607], [505, 507, 2595, 2597], [508, 516, 2592, 2590], [523, 528, 2586, 2589], [525, 525, 2585, 2585], [532, 533, 2604, 2602], [518, 520, 2586, 2585], [520, 521, 2626, 2625], [534, 535, 2593, 2598], [538, 544, 2595, 2597], [512, 519, 2634, 2633], [532, 531, 2594, 2593], [535, 532, 2593, 2594], [529, 524, 2590, 2592], [521, 524, 2594, 2592], [538, 540, 2593, 2595], [546, 539, 2595, 2595], [536, 536, 2593, 2595], [535, 534, 2596, 2590], [524, 527, 2607, 2601]],
  'y':[650,1500,2550],
- 'notes':'Two physical compartments. Individually measured source x seam anchors at y700 and y2400, with side-edge interpolation at y1500. Endpoints are conservatively inset to y650..2550, excluding the front divider, exposed interior and folded ragged tips. Nitty Gritty Dirt Band three-record box, Pink Floyd double sleeve and Elton John sleeve retain their measured larger widths. Unreadable, heavily worn or partly overlapping seams use bounded estimates; all68 original catalog IDs are retained. The rightmost cream sleeve is inset from the angled exposed white interior wall.'
+ 'notes':'Two physical compartments. Individually measured source x seam anchors at y700 and y2400, with side-edge interpolation at y1500. Per-sleeve cap and foot heights measured from full-resolution endpoint crops now extend each outline to its photographed sleeve corners, approximately2-4px inside the sleeve. Existing side seam slopes are retained; left/right endpoint heights vary independently. The front divider and exposed white frame remain excluded. Rounded wear and tiny folded corner peaks are approximated by straight cap/foot edges. Nitty Gritty Dirt Band three-record box, Pink Floyd double sleeve and Elton John sleeve retain their measured larger widths. Unreadable, heavily worn or partly overlapping seams use bounded estimates; all68 original catalog IDs are retained. The rightmost cream sleeve is inset from the angled exposed white interior wall.'
  }
 }
 def edge(a,b,c,y):
@@ -36,6 +40,9 @@ def edge(a,b,c,y):
  return b+(c-b)*(y-1500)/900
 boxes={}
 for box,dat in DATA.items():
+ if box=='lower-middle':
+  boxes[box]=PRESERVED_LOWER
+  continue
  records=sorted([r for r in CAT if r['box']==box],key=lambda r:r['position'])
  groups=dat.get('groups',[dict(positions=list(range(1,len(records)+1)),top=dat.get('top'),middle=dat.get('middle'),bottom=dat.get('bottom'))])
  traced=[]
@@ -44,21 +51,20 @@ for box,dat in DATA.items():
   mid=group.get('middle',[(a+(c-a)*800/1700) for a,c in zip(top,bottom)])
   assert len(top)==len(bottom)==len(mid)==len(group['positions'])+1,(box,len(top),len(bottom),len(group['positions']))
   for k,position in enumerate(group['positions']):
-   mapped_position={18:19,19:20,20:18}.get(position,position) if box=='lower-middle' else position
-   rec=records[mapped_position-1]
-   ys=dat['y']; sides=[]
-   for n,sgn in [(k,1),(k+1,-1)]:
-    sides.append([[round(edge(top[n],mid[n],bottom[n],y)+sgn*min(2,(edge(top[k+1],mid[k+1],bottom[k+1],y)-edge(top[k],mid[k],bottom[k],y))/6),1),y] for y in ys])
-   L,R=sides
-   poly=[L[0],R[0],R[1],R[2],L[2],L[1]]
-   measured=box=='lower-middle' and position in [1,3,14,26,28,34,36,38,46,47,48,49,50,52,55,56,57,59,60,61,64,65,67,70]
-   anchorY=ys[-1]
-   anchor=[round((poly[3][0]+poly[4][0])/2,1),anchorY]
-   traced.append({'id':rec['id'],'polygon':poly,'anchor':anchor,'traceConfidence':'measured' if measured else 'estimated','notes':'Photographed side seams measured at three source heights.' if measured else 'Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.'})
+   rec=records[position-1]
+   cap_l,cap_r,foot_r,foot_l=dat['endYs'][position-1]
+   def point(n,y,sgn):
+    inset=min(2,(edge(top[k+1],mid[k+1],bottom[k+1],y)-edge(top[k],mid[k],bottom[k],y))/6)
+    return [round(edge(top[n],mid[n],bottom[n],y)+sgn*inset,1),y]
+   poly=[point(k,cap_l,1),point(k+1,cap_r,-1),point(k+1,1500,-1),point(k+1,foot_r,-1),point(k,foot_l,1),point(k,1500,1)]
+   anchor=[round((poly[3][0]+poly[4][0])/2,1),round((poly[3][1]+poly[4][1])/2,1)]
+   traced.append({'id':rec['id'],'polygon':poly,'anchor':anchor,'traceConfidence':'measured','notes':'Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation.'})
  boxes[box]={'records':sorted(traced,key=lambda r:r['id']),'notes':dat['notes'],'sourceSize':[4032,3024],'sourceOrientation':'EXIF orientation3 applied; browser displayed pixels','sampleYs':[700,1500,2400]}
 result={'version':1,'coordinateSpace':'source-photo','boxes':boxes,'positionCorrections':{'lower-middle-19':18,'lower-middle-20':19,'lower-middle-18':20},'method':'Manual sleeve-edge anchor measurements on analysis crops from the original EXIF-oriented photos. Piecewise-linear sides, conservative2px inset. These are interactive central-face masks, not pixel-perfect sleeve segmentation. No original photo pixels are changed.'}
 OUT.write_text(json.dumps(result,indent=2)+'\n')
+assert boxes['lower-middle']==PRESERVED_LOWER, 'Scoped upper-middle edit changed lower-middle data'
 for box,data in boxes.items():
+ if box!='upper-middle':continue
  im=ImageOps.exif_transpose(Image.open(ROOT/f'site/dist/assets/boxes/{box}.jpg')).convert('RGBA')
  overlay=Image.new('RGBA',im.size)
  d=ImageDraw.Draw(overlay)
@@ -67,6 +73,7 @@ for box,data in boxes.items():
   d.polygon([tuple(p) for p in r['polygon']],fill=color,outline=(*color[:3],220),width=3)
   x,y=r['anchor'];d.text((x,y),r['id'].split('-')[-1],fill='white',stroke_width=2,stroke_fill='black')
  im=Image.alpha_composite(im,overlay).convert('RGB')
- im.resize((1344,1008)).save(ROOT/f'site/research/crops/masks-{box}-overlay.jpg')
- if box=='lower-middle':im.crop((2880,580,3400,2690)).save(ROOT/'site/research/crops/masks-lower-middle-right-detail.jpg')
+ im.save('/tmp/upper-middle-endpoints-overlay-full.jpg')
+ im.resize((1344,1008)).save('/tmp/upper-middle-endpoints-overlay.jpg')
+ im.crop((1070,390,1260,2780)).save('/tmp/upper-middle-chance-endpoints-overlay.jpg')
 print('Wrote',OUT,[(b,len(v['records'])) for b,v in boxes.items()])

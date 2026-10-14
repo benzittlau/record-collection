@@ -60,4 +60,7 @@ const crossings=japanese.polygon.flatMap((p,i)=>{
 });
 assert(crossings.length===2&&Math.min(...crossings)>3100&&Math.max(...crossings)<3250,'Japanese Melodies must follow the photographed cream spine, away from the right frame');
 for(const [id,position] of [['lower-middle-19',18],['lower-middle-20',19],['lower-middle-18',20]])assert.equal(catalog.records.find(r=>r.id===id).position,position,'The carousel must retain the photographed Bowie/Beatles order');
+const chance=masks.boxes['upper-middle'].records.find(r=>r.id==='upper-middle-14');
+const chanceYs=chance.polygon.map(p=>p[1]);
+assert(Math.min(...chanceYs)<550&&Math.max(...chanceYs)>2680,'Box 3 Chance outline must reach the photographed sleeve cap and foot');
 console.log(`Validated ${total} photograph-derived spine outlines, tilted-edge projection, and cropped-photo clipping.`);

@@ -11,3 +11,9 @@ Hover cards measure their actual height and move clear of the selected number. T
 Validation covers all318 catalog IDs, source photo checksums, clipping at photographed image edges, noncrossing polygons, finite projective coordinates, marker anchors, and the Japanese Melodies/Bowie-order regressions. `npm run check` passes. Independent trace and final native screenshot review found no remaining blockers in this change. Very thin worn edges retain documented interpolation; the improved outlines do not change identification confidence.
 
 Native screenshots are preserved under `visuals/mask-*-in-app.jpg` in the workspace root.
+
+## Box 3 sleeve ends
+
+All 68 upper-middle outlines now use individually measured left/right cap and foot heights. The previous shared y650–2550 cutoff missed visible tips; Chance (sleeve 14) now reaches y432–2746, with its number anchored to the foot midpoint. Existing side-seam body measurements and the other four box maps remain unchanged. Worn or folded corner tips retain a straight-edge approximation inset a few pixels inside the photographed sleeve.
+
+Independent source-photo review checked every endpoint and magnified Chance's cap and foot. Native in-app checks confirmed that clicking both previously uncovered ends opens Chance directly, and reviewed Let It Flow and the taller Apocalypse sleeve. The 390×844 phone view retains all 68 photographic masks, no horizontal overflow, and a visible number marker. The new Chance extent regression fails against the previous data and passes with the corrected data; the complete check suite passes. The desktop result is preserved in `visuals/box3-full-height-masks-in-app.jpg`.
