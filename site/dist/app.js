@@ -1,5 +1,6 @@
 import {fitHomography,cssProjection,sourceClip,projectPoint} from './photo-projection.js';
 import {projectSpineMasks} from './spine-masks.js';
+import {openTurntable} from './turntable.js?v=f574139747a8';
 const $ = (id) => document.getElementById(id);
 const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -157,12 +158,8 @@ function renderLibrary(){
 }
 $('search-input').addEventListener('input',renderLibrary);$('box-filter').onchange=renderLibrary;
 function openListen(r){
-  $('playing-title').textContent=r.title;$('playing-artist').textContent=r.artist;$('playing-cover').src=r.cover||'';$('playing-cover').hidden=!r.cover;
-  $('spotify-open').href=`https://open.spotify.com/album/${r.spotifyId}`;
-  const iframe=document.createElement('iframe');iframe.src=`https://open.spotify.com/embed/album/${r.spotifyId}?utm_source=generator&theme=0`;iframe.title=`Spotify player for ${r.title} by ${r.artist}`;iframe.allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture';iframe.loading='lazy';
-  $('spotify-player').replaceChildren(iframe);$('listen-dialog').showModal();
+  openTurntable(r);
 }
-$('close-listen').onclick=()=> $('listen-dialog').close();$('listen-dialog').addEventListener('close',()=> $('spotify-player').replaceChildren());
 $('about-button').onclick=()=> $('about-dialog').showModal();$('close-about').onclick=()=> $('about-dialog').close();
 function showOriginalPhoto(){
   const meta=boxes[currentBox];const d=document.createElement('dialog');d.className='photo-dialog';d.setAttribute('aria-label','Original photograph of the selected box');d.innerHTML=`<button class="icon-button" aria-label="Close photograph">✕</button><img src="assets/boxes/${currentBox}.jpg" alt="Original photograph of ${escapeHtml(meta.name.toLowerCase())}"><p>${escapeHtml(meta.name)} · original family photograph. Positions reconstructed from the visible spines.</p>`;
@@ -172,7 +169,7 @@ $('source-photo-button').onclick=showOriginalPhoto;$('record-photo').onclick=sho
 // Native dialogs trap focus and provide Escape on both desktop and mobile keyboards.
 document.addEventListener('keydown',e=>{
   const dialogs=[...document.querySelectorAll('dialog[open]')];const top=dialogs.at(-1);
-  if(top!==$('box-dialog')||/INPUT|SELECT|TEXTAREA/.test(e.target.tagName))return;
+  if(top!==$('box-dialog')||e.target.closest('.turntable-widget')||/INPUT|SELECT|TEXTAREA/.test(e.target.tagName))return;
   if(e.key==='ArrowLeft'){e.preventDefault();changeRecord(-1);}if(e.key==='ArrowRight'){e.preventDefault();changeRecord(1);}
 });
 for(const d of document.querySelectorAll('dialog'))d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)d.close();}});
@@ -319,7 +316,7 @@ strip.addEventListener('scroll',()=>{
 });
 $('box-dialog').addEventListener('click',e=>{
   if(!$('box-dialog').classList.contains('album-open'))return;
-  if(e.target.closest('.sleeve-object,.view-controls,.album-navigation,.album-nav,.record-info,.crate-browser,.box-header,.put-back'))return;
+  if(e.target.closest('.sleeve-object,.view-controls,.album-navigation,.album-nav,.record-info,.crate-browser,.box-header,.put-back,.turntable-widget'))return;
   putRecordBack();
 });
 $('box-dialog').addEventListener('cancel',e=>{if($('box-dialog').classList.contains('album-open')){e.preventDefault();putRecordBack();}});

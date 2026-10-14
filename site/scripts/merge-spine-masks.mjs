@@ -30,7 +30,10 @@ const fingerprint=source=>createHash('sha256').update(source).digest('hex').slic
 const appUrl=new URL('../dist/app.js',import.meta.url),indexUrl=new URL('../dist/index.html',import.meta.url);
 const appSource=await readFile(appUrl,'utf8');
 assert(/spine-masks\.json\?v=[^'"]+/.test(appSource),'Missing versioned mask request');
-const nextApp=appSource.replace(/spine-masks\.json\?v=[^'"]+/,`spine-masks.json?v=${fingerprint(maskSource)}`);
+const playerSource=await readFile(new URL('../dist/turntable.js',import.meta.url),'utf8');
+assert(/turntable\.js\?v=[^'"]+/.test(appSource),'Missing versioned player module');
+const nextApp=appSource.replace(/spine-masks\.json\?v=[^'"]+/,`spine-masks.json?v=${fingerprint(maskSource)}`)
+  .replace(/turntable\.js\?v=[^'"]+/,`turntable.js?v=${fingerprint(playerSource)}`);
 if(nextApp!==appSource)await writeFile(appUrl,nextApp);
 const indexSource=await readFile(indexUrl,'utf8');
 assert(/src="app\.js\?v=[^"]+"/.test(indexSource),'Missing versioned application script');
