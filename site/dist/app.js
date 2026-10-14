@@ -22,7 +22,7 @@ let cameraBase = null, carouselIndex = 0, manualCarouselScroll = false, scrollSe
 let records = [], currentBox = null, currentIndex = 0, previewIndex = null, previewAnchor = {}, currentView = 'front', lastRoomFocus = null, ignoreJacketClick = false;
 const spotifyIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="currentColor"/><path d="M5 8c5-1.6 10-1.3 14 1M6 12c4-1.2 8-1 12 .8M7 16c3-.7 6-.5 9 .6" fill="none" stroke="#d8e0cb" stroke-width="1.6" stroke-linecap="round"/></svg>';
 const photoCalibrationReady=fetch('box-photos.json?v=2',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
-const spineMasksReady=fetch('spine-masks.json?v=e012f739ef25',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+const spineMasksReady=fetch('spine-masks.json?v=3cee3be1a42d',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 let photoProjectionRequest=0;
 const catalogReady = fetch('catalog.json?v=spine-traces-318-263-92',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
   records = data.records ?? data;

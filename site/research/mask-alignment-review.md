@@ -31,3 +31,11 @@ All 70 lower-middle outlines now use individually measured cap/foot corners. The
 Independent review covered the full overlay and all cap/foot strips. Native in-app checks covered the White Album ends, the first sleeves, broad Mahler box, Japanese Melodies and final Sting sleeve. The 390×844 phone view renders all 70 photographic masks, with a visible numbered marker and no horizontal overflow. White Album extent and Japanese Melodies cap/lean regressions pass; the complete check suite passes. The scoped endpoint generator is idempotent. Desktop evidence is saved as `visuals/box4-full-height-masks-in-app.jpg`.
 
 The native preview retained an earlier mask response despite reload and `no-store`. The merge now fingerprints the mask contents in the fetch URL and the resulting application contents in the script URL. A regression checks both references, and native DOM coordinates now match the exact final source-photo projection. Run the merge after application or tracing edits so both references stay current.
+
+## Box 2 sleeve ends
+
+All 66 lower-left masks now follow individually measured cap and heel corners. Longer Fuse (sleeve 6) extends from the old y420–2500 band to y341–2577. Numbers follow each foot midpoint. Straight cap/heel edges retain small conservative insets around worn folds and rounded tips; dark sleeve 28's indistinct cap remains a documented bounded estimate.
+
+Close review also found that Neiges (sleeve 46) touched the painted compartment divider. Its cap and foot now sit on the cream sleeve, and its left body point moves from [2556,1475] to [2572,1475]. This is the only body-vertex correction; the other 131 body vertices and the other four complete box maps remain unchanged. The scoped generator stores the measured endpoints and this explicit exception, and reruns idempotently.
+
+Independent review covered all cap/foot strips and the full overlay. Native in-app review confirmed direct clicks on both newly covered Longer Fuse ends, both compartment boundaries, the first/last sleeves and the corrected Neiges face. The 390×844 mobile view renders all 66 photo masks, has no horizontal overflow, and keeps the number visible. Extent and divider regressions fail against the previous data and pass against the correction; the full check suite passes. Desktop evidence is saved as `visuals/box2-full-height-masks-in-app.jpg`.
