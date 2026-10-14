@@ -1,0 +1,159 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release-group/7155e424-2bf4-30de-b997-fe2a352a494b?inc=url-rels&fmt=json",
+  "data": {
+    "secondary-type-ids": [],
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "primary-type": "Album",
+    "relations": [
+      {
+        "target-type": "url",
+        "ended": false,
+        "attribute-ids": {},
+        "attribute-values": {},
+        "url": {
+          "resource": "https://www.allmusic.com/album/mw0000195960",
+          "id": "06e5553b-34d9-46da-8883-21ca2fb5b03d"
+        },
+        "type-id": "a50a1d20-2b20-4d2c-9a29-eb771dd78386",
+        "begin": null,
+        "target-credit": "",
+        "end": null,
+        "source-credit": "",
+        "attributes": [],
+        "type": "allmusic",
+        "direction": "forward"
+      },
+      {
+        "url": {
+          "id": "f818ab52-0760-45ee-a41a-f1ac0a219fec",
+          "resource": "https://www.discogs.com/master/25400"
+        },
+        "end": null,
+        "target-credit": "",
+        "begin": null,
+        "type-id": "99e550f3-5ab4-3110-b5b9-fe01d970b126",
+        "ended": false,
+        "attribute-ids": {},
+        "target-type": "url",
+        "attribute-values": {},
+        "type": "discogs",
+        "direction": "forward",
+        "source-credit": "",
+        "attributes": []
+      },
+      {
+        "attribute-values": {},
+        "attribute-ids": {},
+        "ended": false,
+        "target-type": "url",
+        "target-credit": "",
+        "end": null,
+        "type-id": "156344d3-da8b-40c6-8b10-7b1c22727124",
+        "begin": null,
+        "url": {
+          "resource": "https://genius.com/albums/Supertramp/Crisis-what-crisis",
+          "id": "bda191c8-3893-4111-a0fd-9b9d80fd9a46"
+        },
+        "attributes": [],
+        "source-credit": "",
+        "direction": "forward",
+        "type": "lyrics"
+      },
+      {
+        "source-credit": "",
+        "attributes": [],
+        "type": "other databases",
+        "direction": "forward",
+        "ended": false,
+        "attribute-ids": {},
+        "target-type": "url",
+        "attribute-values": {},
+        "url": {
+          "id": "d3d03ee4-b0a0-4941-8804-49d4e6b44c0d",
+          "resource": "https://rateyourmusic.com/release/album/supertramp/crisis-what-crisis/"
+        },
+        "target-credit": "",
+        "end": null,
+        "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+        "begin": null
+      },
+      {
+        "attributes": [],
+        "source-credit": "",
+        "direction": "forward",
+        "type": "other databases",
+        "attribute-values": {},
+        "target-type": "url",
+        "attribute-ids": {},
+        "ended": false,
+        "begin": null,
+        "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+        "end": null,
+        "target-credit": "",
+        "url": {
+          "resource": "https://www.musik-sammler.de/album/13508/",
+          "id": "c6b85959-96b5-4343-b21a-0b4263283e58"
+        }
+      },
+      {
+        "end": null,
+        "target-credit": "",
+        "begin": null,
+        "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+        "url": {
+          "resource": "https://www.progarchives.com/album.asp?id=1252",
+          "id": "403b5346-2534-4fde-bf8b-107b7148098a"
+        },
+        "attribute-values": {},
+        "ended": false,
+        "attribute-ids": {},
+        "target-type": "url",
+        "direction": "forward",
+        "type": "other databases",
+        "attributes": [],
+        "source-credit": ""
+      },
+      {
+        "url": {
+          "resource": "https://www.spirit-of-rock.com/en/album/Crisis_What_Crisis/2806",
+          "id": "778709cb-8edd-4755-820c-fa8001be1fb4"
+        },
+        "target-credit": "",
+        "end": null,
+        "type-id": "38320e40-9f4a-3ae7-8cb2-3f3c9c5d856d",
+        "begin": null,
+        "ended": false,
+        "attribute-ids": {},
+        "target-type": "url",
+        "attribute-values": {},
+        "type": "other databases",
+        "direction": "forward",
+        "source-credit": "",
+        "attributes": []
+      },
+      {
+        "source-credit": "",
+        "attributes": [],
+        "type": "wikidata",
+        "direction": "forward",
+        "ended": false,
+        "attribute-ids": {},
+        "target-type": "url",
+        "attribute-values": {},
+        "url": {
+          "id": "5148b305-3d15-47b4-9f34-65a890dadb9a",
+          "resource": "https://www.wikidata.org/wiki/Q1140163"
+        },
+        "target-credit": "",
+        "end": null,
+        "type-id": "b988d08c-5d86-4a57-9557-c83b399e3580",
+        "begin": null
+      }
+    ],
+    "id": "7155e424-2bf4-30de-b997-fe2a352a494b",
+    "secondary-types": [],
+    "disambiguation": "",
+    "first-release-date": "1975-11-10",
+    "title": "Crisis? What Crisis?"
+  }
+}

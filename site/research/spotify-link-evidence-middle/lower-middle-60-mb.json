@@ -1,0 +1,37 @@
+{
+  "id": "lower-middle-60",
+  "groups": [
+    "4b443e66-52a7-3cc9-a522-0dc64a6a51dc",
+    "4b443e66-52a7-3cc9-a522-0dc64a6a51dc"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=4b443e66-52a7-3cc9-a522-0dc64a6a51dc&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 86
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "1rmhti8uHw21LnaWMQy608",
+      "spotifyUrl": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608",
+      "musicbrainzReleaseId": "3e968f71-d4c6-41a8-b619-1df80241f050",
+      "musicbrainzTitle": "The Wild, the Innocent & The E Street Shuffle",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "id": "70248960-cb53-4ea4-943a-edb18f7d336f",
+            "disambiguation": "",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Springsteen, Bruce",
+            "name": "Bruce Springsteen",
+            "type": "Person"
+          },
+          "name": "Bruce Springsteen",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": ""
+    }
+  ]
+}

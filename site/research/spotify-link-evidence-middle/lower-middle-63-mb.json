@@ -1,0 +1,36 @@
+{
+  "id": "lower-middle-63",
+  "groups": [
+    "cb5a7ce8-8ddd-3b0f-ae06-7f87629398d1"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=cb5a7ce8-8ddd-3b0f-ae06-7f87629398d1&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 9
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "47nhRTYeYBKV5mEfXLV4fb",
+      "spotifyUrl": "https://open.spotify.com/album/47nhRTYeYBKV5mEfXLV4fb",
+      "musicbrainzReleaseId": "6cb8af86-e212-457d-bba7-5f168c69d3de",
+      "musicbrainzTitle": "Wavelength",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "Van Morrison",
+            "type": "Person",
+            "id": "a41ac10f-0a56-4672-9161-b83f9b223559",
+            "sort-name": "Morrison, Van",
+            "disambiguation": "",
+            "country": "GB"
+          },
+          "joinphrase": "",
+          "name": "Van Morrison"
+        }
+      ],
+      "musicbrainzDate": "2008-01-28"
+    }
+  ]
+}

@@ -1,0 +1,1312 @@
+{
+  "id": "5t4CAhibBYA2ZLrkYlkwkb",
+  "albumUrl": "https://open.spotify.com/album/5t4CAhibBYA2ZLrkYlkwkb",
+  "embedUrl": "https://open.spotify.com/embed/album/5t4CAhibBYA2ZLrkYlkwkb",
+  "fetchedAt": "2026-10-14T05:14:23Z",
+  "embedEntity": {
+    "type": "album",
+    "name": "Don't Cry Out Loud",
+    "uri": "spotify:album:5t4CAhibBYA2ZLrkYlkwkb",
+    "id": "5t4CAhibBYA2ZLrkYlkwkb",
+    "title": "Don't Cry Out Loud",
+    "subtitle": "Melissa Manchester",
+    "isPreRelease": false,
+    "releaseDate": null,
+    "duration": 0,
+    "isPlayable": true,
+    "playabilityReason": "PLAYABLE",
+    "isExplicit": false,
+    "hasVideo": false,
+    "relatedEntityUri": "spotify:album:5t4CAhibBYA2ZLrkYlkwkb",
+    "trackList": [
+      {
+        "uri": "spotify:track:6ZlaFqYvstaRQht1I0z51B",
+        "uid": "666b4a9d73eed36bc769",
+        "title": "Don't Cry Out Loud",
+        "subtitle": "Melissa Manchester",
+        "isExplicit": false,
+        "isNineteenPlus": false,
+        "contentRatings": {
+          "labels": []
+        },
+        "duration": 222891,
+        "isPlayable": true,
+        "playabilityReason": "PLAYABLE",
+        "audioPreview": {
+          "format": "MP3_96",
+          "url": "https://p.scdn.co/mp3-preview/3a4ad47b5f056cc84ba584c85b3241f66ccc8cfd"
+        },
+        "entityType": "track"
+      }
+    ],
+    "visualIdentity": {
+      "backgroundBase": {
+        "alpha": 255,
+        "blue": 83,
+        "green": 83,
+        "red": 83
+      },
+      "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 51,
+        "green": 51,
+        "red": 51
+      },
+      "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+      },
+      "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+      },
+      "textSubdued": {
+        "alpha": 255,
+        "blue": 205,
+        "green": 205,
+        "red": 205
+      },
+      "image": [
+        {
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02a7c39b143e79bc01fc0c7bfa",
+          "maxHeight": 300,
+          "maxWidth": 300
+        },
+        {
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00004851a7c39b143e79bc01fc0c7bfa",
+          "maxHeight": 64,
+          "maxWidth": 64
+        },
+        {
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000b273a7c39b143e79bc01fc0c7bfa",
+          "maxHeight": 640,
+          "maxWidth": 640
+        }
+      ]
+    }
+  },
+  "title": "Don't Cry Out Loud",
+  "artists": [
+    "Melissa Manchester"
+  ],
+  "trackCount": 1,
+  "releaseDate": null,
+  "pageTitle": "Don't Cry Out Loud - Single by Melissa Manchester | Spotify",
+  "jsonLd": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicAlbum",
+      "@id": "https://open.spotify.com/album/5t4CAhibBYA2ZLrkYlkwkb",
+      "url": "https://open.spotify.com/album/5t4CAhibBYA2ZLrkYlkwkb",
+      "name": "Don't Cry Out Loud",
+      "description": "Listen to Don't Cry Out Loud on Spotify · single · Melissa Manchester · 2020 · 1 songs",
+      "datePublished": "2020-12-21",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/album/5t4CAhibBYA2ZLrkYlkwkb?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/album/5t4CAhibBYA2ZLrkYlkwkb/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "publicInitialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": false
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:album:5t4CAhibBYA2ZLrkYlkwkb": {
+          "__typename": "Album",
+          "moreAlbumsByArtist": {
+            "items": [
+              {
+                "discography": {
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e022aa2646c4c1725f0b996c170",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048512aa2646c4c1725f0b996c170",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2732aa2646c4c1725f0b996c170",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1997
+                        },
+                        "id": "3ZQNGNWrZdPl3xyXlvBVa1",
+                        "name": "The Essence Of Melissa Manchester",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3ZQNGNWrZdPl3xyXlvBVa1"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e028e4a35c29576fb8b2c38a1a1",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048518e4a35c29576fb8b2c38a1a1",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2738e4a35c29576fb8b2c38a1a1",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1978
+                        },
+                        "id": "0fw2TUCTz9nP7Ef2plUUHR",
+                        "name": "Don't Cry Out Loud",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0fw2TUCTz9nP7Ef2plUUHR"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02018a2b32c2dc472106f1d4f2",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851018a2b32c2dc472106f1d4f2",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273018a2b32c2dc472106f1d4f2",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1975
+                        },
+                        "id": "5SIfsBgfRFNxJd797Dqq2k",
+                        "name": "Melissa",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5SIfsBgfRFNxJd797Dqq2k"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02b43583d9331f3ab852123011",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851b43583d9331f3ab852123011",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b43583d9331f3ab852123011",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1980
+                        },
+                        "id": "4hAyayKcETmF2rpyaglklT",
+                        "name": "For The Working Girl",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4hAyayKcETmF2rpyaglklT"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0274028b2d9ef1d505bd8a4427",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485174028b2d9ef1d505bd8a4427",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27374028b2d9ef1d505bd8a4427",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1982
+                        },
+                        "id": "6V5kvtOghmiq68PtJXbg6W",
+                        "name": "Hey Ricky",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6V5kvtOghmiq68PtJXbg6W"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e029ec0866ebc8fb76eed986cbc",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048519ec0866ebc8fb76eed986cbc",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2739ec0866ebc8fb76eed986cbc",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1976
+                        },
+                        "id": "6Xp0BidMQkcL5OwLWhcsJn",
+                        "name": "Better Days & Happy Endings",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6Xp0BidMQkcL5OwLWhcsJn"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e022cd2106e5c48d61b03697b82",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048512cd2106e5c48d61b03697b82",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2732cd2106e5c48d61b03697b82",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2024
+                        },
+                        "id": "74Se4Dg9qVpxfSIO1baS9S",
+                        "name": "RE:VIEW",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:74Se4Dg9qVpxfSIO1baS9S"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0250d5e8e4e6e558e90b54dfb7",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485150d5e8e4e6e558e90b54dfb7",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27350d5e8e4e6e558e90b54dfb7",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1979
+                        },
+                        "id": "5jE4CDEUmhsv04Euv0FlUM",
+                        "name": "Melissa Manchester (Expanded Edition)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5jE4CDEUmhsv04Euv0FlUM"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0271a9e93ccb7a000db13dae96",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485171a9e93ccb7a000db13dae96",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27371a9e93ccb7a000db13dae96",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1985
+                        },
+                        "id": "4iYMRzCFQ9T2mn8o3UXEVk",
+                        "name": "Mathematics",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4iYMRzCFQ9T2mn8o3UXEVk"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0285338616920f9cf4fad85e79",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485185338616920f9cf4fad85e79",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27385338616920f9cf4fad85e79",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1973
+                        },
+                        "id": "4ubIyeMX6QRJpAoOtL3gf2",
+                        "name": "Home To Myself",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4ubIyeMX6QRJpAoOtL3gf2"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "countryCode": "AR"
+              },
+              {
+                "countryCode": "AU"
+              },
+              {
+                "countryCode": "AT"
+              },
+              {
+                "countryCode": "BE"
+              },
+              {
+                "countryCode": "BO"
+              },
+              {
+                "countryCode": "BR"
+              },
+              {
+                "countryCode": "BG"
+              },
+              {
+                "countryCode": "CA"
+              },
+              {
+                "countryCode": "CL"
+              },
+              {
+                "countryCode": "CO"
+              },
+              {
+                "countryCode": "CR"
+              },
+              {
+                "countryCode": "CY"
+              },
+              {
+                "countryCode": "CZ"
+              },
+              {
+                "countryCode": "DK"
+              },
+              {
+                "countryCode": "DO"
+              },
+              {
+                "countryCode": "DE"
+              },
+              {
+                "countryCode": "EC"
+              },
+              {
+                "countryCode": "EE"
+              },
+              {
+                "countryCode": "SV"
+              },
+              {
+                "countryCode": "FI"
+              },
+              {
+                "countryCode": "FR"
+              },
+              {
+                "countryCode": "GR"
+              },
+              {
+                "countryCode": "GT"
+              },
+              {
+                "countryCode": "HN"
+              },
+              {
+                "countryCode": "HK"
+              },
+              {
+                "countryCode": "HU"
+              },
+              {
+                "countryCode": "IS"
+              },
+              {
+                "countryCode": "IE"
+              },
+              {
+                "countryCode": "IT"
+              },
+              {
+                "countryCode": "LV"
+              },
+              {
+                "countryCode": "LT"
+              },
+              {
+                "countryCode": "LU"
+              },
+              {
+                "countryCode": "MY"
+              },
+              {
+                "countryCode": "MT"
+              },
+              {
+                "countryCode": "MX"
+              },
+              {
+                "countryCode": "NL"
+              },
+              {
+                "countryCode": "NZ"
+              },
+              {
+                "countryCode": "NI"
+              },
+              {
+                "countryCode": "NO"
+              },
+              {
+                "countryCode": "PA"
+              },
+              {
+                "countryCode": "PY"
+              },
+              {
+                "countryCode": "PE"
+              },
+              {
+                "countryCode": "PH"
+              },
+              {
+                "countryCode": "PL"
+              },
+              {
+                "countryCode": "PT"
+              },
+              {
+                "countryCode": "SG"
+              },
+              {
+                "countryCode": "SK"
+              },
+              {
+                "countryCode": "ES"
+              },
+              {
+                "countryCode": "SE"
+              },
+              {
+                "countryCode": "CH"
+              },
+              {
+                "countryCode": "TW"
+              },
+              {
+                "countryCode": "TR"
+              },
+              {
+                "countryCode": "UY"
+              },
+              {
+                "countryCode": "US"
+              },
+              {
+                "countryCode": "GB"
+              },
+              {
+                "countryCode": "AD"
+              },
+              {
+                "countryCode": "LI"
+              },
+              {
+                "countryCode": "MC"
+              },
+              {
+                "countryCode": "ID"
+              },
+              {
+                "countryCode": "JP"
+              },
+              {
+                "countryCode": "TH"
+              },
+              {
+                "countryCode": "VN"
+              },
+              {
+                "countryCode": "RO"
+              },
+              {
+                "countryCode": "IL"
+              },
+              {
+                "countryCode": "ZA"
+              },
+              {
+                "countryCode": "SA"
+              },
+              {
+                "countryCode": "AE"
+              },
+              {
+                "countryCode": "BH"
+              },
+              {
+                "countryCode": "QA"
+              },
+              {
+                "countryCode": "OM"
+              },
+              {
+                "countryCode": "KW"
+              },
+              {
+                "countryCode": "EG"
+              },
+              {
+                "countryCode": "MA"
+              },
+              {
+                "countryCode": "DZ"
+              },
+              {
+                "countryCode": "TN"
+              },
+              {
+                "countryCode": "LB"
+              },
+              {
+                "countryCode": "JO"
+              },
+              {
+                "countryCode": "PS"
+              },
+              {
+                "countryCode": "IN"
+              },
+              {
+                "countryCode": "BY"
+              },
+              {
+                "countryCode": "KZ"
+              },
+              {
+                "countryCode": "MD"
+              },
+              {
+                "countryCode": "UA"
+              },
+              {
+                "countryCode": "AL"
+              },
+              {
+                "countryCode": "BA"
+              },
+              {
+                "countryCode": "HR"
+              },
+              {
+                "countryCode": "ME"
+              },
+              {
+                "countryCode": "MK"
+              },
+              {
+                "countryCode": "RS"
+              },
+              {
+                "countryCode": "SI"
+              },
+              {
+                "countryCode": "KR"
+              },
+              {
+                "countryCode": "BD"
+              },
+              {
+                "countryCode": "PK"
+              },
+              {
+                "countryCode": "LK"
+              },
+              {
+                "countryCode": "GH"
+              },
+              {
+                "countryCode": "KE"
+              },
+              {
+                "countryCode": "NG"
+              },
+              {
+                "countryCode": "TZ"
+              },
+              {
+                "countryCode": "UG"
+              },
+              {
+                "countryCode": "AG"
+              },
+              {
+                "countryCode": "AM"
+              },
+              {
+                "countryCode": "BS"
+              },
+              {
+                "countryCode": "BB"
+              },
+              {
+                "countryCode": "BZ"
+              },
+              {
+                "countryCode": "BT"
+              },
+              {
+                "countryCode": "BW"
+              },
+              {
+                "countryCode": "BF"
+              },
+              {
+                "countryCode": "CV"
+              },
+              {
+                "countryCode": "CW"
+              },
+              {
+                "countryCode": "DM"
+              },
+              {
+                "countryCode": "FJ"
+              },
+              {
+                "countryCode": "GM"
+              },
+              {
+                "countryCode": "GE"
+              },
+              {
+                "countryCode": "GD"
+              },
+              {
+                "countryCode": "GW"
+              },
+              {
+                "countryCode": "GY"
+              },
+              {
+                "countryCode": "HT"
+              },
+              {
+                "countryCode": "JM"
+              },
+              {
+                "countryCode": "KI"
+              },
+              {
+                "countryCode": "LS"
+              },
+              {
+                "countryCode": "LR"
+              },
+              {
+                "countryCode": "MW"
+              },
+              {
+                "countryCode": "MV"
+              },
+              {
+                "countryCode": "ML"
+              },
+              {
+                "countryCode": "MH"
+              },
+              {
+                "countryCode": "FM"
+              },
+              {
+                "countryCode": "NA"
+              },
+              {
+                "countryCode": "NR"
+              },
+              {
+                "countryCode": "NE"
+              },
+              {
+                "countryCode": "PW"
+              },
+              {
+                "countryCode": "PG"
+              },
+              {
+                "countryCode": "PR"
+              },
+              {
+                "countryCode": "WS"
+              },
+              {
+                "countryCode": "SM"
+              },
+              {
+                "countryCode": "ST"
+              },
+              {
+                "countryCode": "SN"
+              },
+              {
+                "countryCode": "SC"
+              },
+              {
+                "countryCode": "SL"
+              },
+              {
+                "countryCode": "SB"
+              },
+              {
+                "countryCode": "KN"
+              },
+              {
+                "countryCode": "LC"
+              },
+              {
+                "countryCode": "VC"
+              },
+              {
+                "countryCode": "SR"
+              },
+              {
+                "countryCode": "TL"
+              },
+              {
+                "countryCode": "TO"
+              },
+              {
+                "countryCode": "TT"
+              },
+              {
+                "countryCode": "TV"
+              },
+              {
+                "countryCode": "VU"
+              },
+              {
+                "countryCode": "AZ"
+              },
+              {
+                "countryCode": "BN"
+              },
+              {
+                "countryCode": "BI"
+              },
+              {
+                "countryCode": "KH"
+              },
+              {
+                "countryCode": "CM"
+              },
+              {
+                "countryCode": "TD"
+              },
+              {
+                "countryCode": "KM"
+              },
+              {
+                "countryCode": "GQ"
+              },
+              {
+                "countryCode": "SZ"
+              },
+              {
+                "countryCode": "GA"
+              },
+              {
+                "countryCode": "GN"
+              },
+              {
+                "countryCode": "KG"
+              },
+              {
+                "countryCode": "LA"
+              },
+              {
+                "countryCode": "MO"
+              },
+              {
+                "countryCode": "MR"
+              },
+              {
+                "countryCode": "MN"
+              },
+              {
+                "countryCode": "NP"
+              },
+              {
+                "countryCode": "RW"
+              },
+              {
+                "countryCode": "TG"
+              },
+              {
+                "countryCode": "UZ"
+              },
+              {
+                "countryCode": "ZW"
+              },
+              {
+                "countryCode": "BJ"
+              },
+              {
+                "countryCode": "MG"
+              },
+              {
+                "countryCode": "MU"
+              },
+              {
+                "countryCode": "MZ"
+              },
+              {
+                "countryCode": "AO"
+              },
+              {
+                "countryCode": "CI"
+              },
+              {
+                "countryCode": "DJ"
+              },
+              {
+                "countryCode": "ZM"
+              },
+              {
+                "countryCode": "CD"
+              },
+              {
+                "countryCode": "CG"
+              },
+              {
+                "countryCode": "IQ"
+              },
+              {
+                "countryCode": "LY"
+              },
+              {
+                "countryCode": "TJ"
+              },
+              {
+                "countryCode": "VE"
+              },
+              {
+                "countryCode": "ET"
+              },
+              {
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "2020 Long Run Entertainment, LLC",
+                "type": "C"
+              },
+              {
+                "text": "2020 Long Run Entertainment, LLC",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#777777"
+              },
+              "colorRaw": {
+                "hex": "#B0B0B0"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a7c39b143e79bc01fc0c7bfa",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a7c39b143e79bc01fc0c7bfa",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a7c39b143e79bc01fc0c7bfa",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 21,
+            "month": 12,
+            "year": 2020
+          },
+          "id": "5t4CAhibBYA2ZLrkYlkwkb",
+          "isPreRelease": false,
+          "name": "Don't Cry Out Loud",
+          "preReleaseEndDateTime": null,
+          "type": "SINGLE",
+          "uri": "spotify:album:5t4CAhibBYA2ZLrkYlkwkb",
+          "tracksV2": {
+            "items": [
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Melissa Manchester"
+                        },
+                        "uri": "spotify:artist:78udmCDNaDu5jqfVnBqwia"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 222891
+                  },
+                  "id": "6ZlaFqYvstaRQht1I0z51B",
+                  "name": "Don't Cry Out Loud",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/3a4ad47b5f056cc84ba584c85b3241f66ccc8cfd"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 1,
+                  "uri": "spotify:track:6ZlaFqYvstaRQht1I0z51B"
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null,
+              "offset": 0
+            },
+            "totalCount": 1
+          },
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Melissa Manchester"
+                },
+                "stats": {
+                  "monthlyListeners": 325592
+                },
+                "uri": "spotify:artist:78udmCDNaDu5jqfVnBqwia",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5ebb3264495f758dc8bc140be96",
+                        "width": 640
+                      },
+                      {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f178b3264495f758dc8bc140be96",
+                        "width": 160
+                      },
+                      {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab67616100005174b3264495f758dc8bc140be96",
+                        "width": 320
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "album": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  }
+}

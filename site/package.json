@@ -4,6 +4,6 @@
   "type": "module",
   "scripts": {
     "dev": "python3 -m http.server 4173 --directory dist",
-    "check": "node --check dist/app.js && node --check dist/turntable.js && node --check dist/capture.js && node scripts/validate-catalog.mjs && node scripts/validate-projection.mjs && node scripts/validate-spine-masks.mjs && node scripts/validate-capture-plan.mjs && node scripts/validate-deep-audit.mjs"
+    "check": "node --check dist/app.js && node --check dist/turntable.js && node --check dist/capture.js && node scripts/validate-catalog.mjs && node scripts/validate-projection.mjs && node scripts/validate-spine-masks.mjs && node scripts/validate-capture-plan.mjs && node scripts/validate-deep-audit.mjs && node scripts/validate-spotify-links.mjs"
   }
 }

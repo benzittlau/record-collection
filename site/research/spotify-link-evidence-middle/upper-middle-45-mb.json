@@ -1,0 +1,37 @@
+{
+  "id": "upper-middle-45",
+  "groups": [
+    "c71e6754-dbc9-3882-82ce-7d41457d1fb5",
+    "c71e6754-dbc9-3882-82ce-7d41457d1fb5"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=c71e6754-dbc9-3882-82ce-7d41457d1fb5&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 21
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "6oU298pdPTCQnMx1PYwyUA",
+      "spotifyUrl": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA",
+      "musicbrainzReleaseId": "b8b8751a-353a-4e08-9757-d8631909b0e8",
+      "musicbrainzTitle": "Point of Know Return",
+      "musicbrainzArtists": [
+        {
+          "joinphrase": "",
+          "artist": {
+            "country": "US",
+            "disambiguation": "US prog rock band",
+            "sort-name": "Kansas",
+            "id": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+            "name": "Kansas",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "name": "Kansas"
+        }
+      ],
+      "musicbrainzDate": "2007-09-25"
+    }
+  ]
+}

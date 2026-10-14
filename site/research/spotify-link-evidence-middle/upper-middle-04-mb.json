@@ -1,0 +1,37 @@
+{
+  "id": "upper-middle-04",
+  "groups": [
+    "0ec57ce0-987b-3ea4-b3de-ba1db6488b4b",
+    "0ec57ce0-987b-3ea4-b3de-ba1db6488b4b"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=0ec57ce0-987b-3ea4-b3de-ba1db6488b4b&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 8
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "1dfvcFHSox0YKcPMxDrLIs",
+      "spotifyUrl": "https://open.spotify.com/album/1dfvcFHSox0YKcPMxDrLIs",
+      "musicbrainzReleaseId": "e05c0641-b921-47a1-843c-62b180e419fc",
+      "musicbrainzTitle": "Will the Circle Be Unbroken",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "disambiguation": "United States country rock",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "name": "Nitty Gritty Dirt Band",
+            "type": "Group",
+            "id": "ac8a45f8-5520-4463-9fda-f63f8844cb50",
+            "sort-name": "Nitty Gritty Dirt Band"
+          },
+          "joinphrase": "",
+          "name": "The Nitty Gritty Dirt Band"
+        }
+      ],
+      "musicbrainzDate": ""
+    }
+  ]
+}

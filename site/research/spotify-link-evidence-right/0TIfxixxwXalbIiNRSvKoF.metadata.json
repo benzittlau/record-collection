@@ -1,0 +1,1341 @@
+{
+  "url": "https://open.spotify.com/album/0TIfxixxwXalbIiNRSvKoF",
+  "resolvedUrl": "https://open.spotify.com/album/0TIfxixxwXalbIiNRSvKoF",
+  "fetchedAt": "2026-10-14T05:11:47Z",
+  "pageTitle": "Flag - Album by James Taylor | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:album:0TIfxixxwXalbIiNRSvKoF": {
+          "__typename": "Album",
+          "moreAlbumsByArtist": {
+            "items": [
+              {
+                "discography": {
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e026d6b57d4fb4ebea58c7ea97e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048516d6b57d4fb4ebea58c7ea97e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2736d6b57d4fb4ebea58c7ea97e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1970
+                        },
+                        "id": "1HiG0ukRmFPN13EVcf98Jx",
+                        "name": "Sweet Baby James (2019 Remaster)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1HiG0ukRmFPN13EVcf98Jx"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e028381695b7527ae82177041d8",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048518381695b7527ae82177041d8",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2738381695b7527ae82177041d8",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1975
+                        },
+                        "id": "0x491s63vRDvG25x2Fzrny",
+                        "name": "Gorilla (2019 Remaster)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0x491s63vRDvG25x2Fzrny"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0269d28156f24f78c5c5d9a1af",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485169d28156f24f78c5c5d9a1af",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27369d28156f24f78c5c5d9a1af",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1971
+                        },
+                        "id": "3ahHxtwRwMIdHcAo0MEXxX",
+                        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3ahHxtwRwMIdHcAo0MEXxX"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0203a0132ba7171ae0ffeee3ce",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485103a0132ba7171ae0ffeee3ce",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27303a0132ba7171ae0ffeee3ce",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1977
+                        },
+                        "id": "0Pbc9Jq12a47mQ1z9yIuhn",
+                        "name": "JT",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0Pbc9Jq12a47mQ1z9yIuhn"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e027d1f06afcef24448d1aeb156",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048517d1f06afcef24448d1aeb156",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2737d1f06afcef24448d1aeb156",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1976
+                        },
+                        "id": "45fMwpxS1ZOMqNt8Rq5pxP",
+                        "name": "In the Pocket (2019 Remaster)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:45fMwpxS1ZOMqNt8Rq5pxP"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02608bb595b823504a63db5682",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851608bb595b823504a63db5682",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273608bb595b823504a63db5682",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1993
+                        },
+                        "id": "38OACLXl1hgUnsuCUv13HC",
+                        "name": "James Taylor Live",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:38OACLXl1hgUnsuCUv13HC"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02873e0e6e58041c9232602db0",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851873e0e6e58041c9232602db0",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273873e0e6e58041c9232602db0",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2000
+                        },
+                        "id": "3RHJNmuwD0fnwccBv2HTif",
+                        "name": "October Road (Special Edition)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3RHJNmuwD0fnwccBv2HTif"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e86d32dd3164eda31ce08032",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851e86d32dd3164eda31ce08032",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e86d32dd3164eda31ce08032",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1991
+                        },
+                        "id": "36DBvvp7XO5oSulZANyCIM",
+                        "name": "New Moon Shine",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:36DBvvp7XO5oSulZANyCIM"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ffc7ded2331ca170f9245d6f",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ffc7ded2331ca170f9245d6f",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ffc7ded2331ca170f9245d6f",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1972
+                        },
+                        "id": "5fgXXyM1kcpCz3z0XHRniE",
+                        "name": "One Man Dog (2019 Remaster)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5fgXXyM1kcpCz3z0XHRniE"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02bf3adc02d83a50cbc46dec97",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851bf3adc02d83a50cbc46dec97",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273bf3adc02d83a50cbc46dec97",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2010
+                        },
+                        "id": "0sCulNLnuzZW4TGugGi6Gv",
+                        "name": "Live At The Troubadour",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0sCulNLnuzZW4TGugGi6Gv"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "availableMarkets": {
+            "items": []
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "(P) 1979 Sony Music Entertainment Inc.",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#0080AA"
+              },
+              "colorRaw": {
+                "hex": "#0090C0"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851bfa8af53ce3ae0d41a3392a3",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02bfa8af53ce3ae0d41a3392a3",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273bfa8af53ce3ae0d41a3392a3",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 1,
+            "month": 1,
+            "year": 1979
+          },
+          "id": "0TIfxixxwXalbIiNRSvKoF",
+          "isPreRelease": false,
+          "name": "Flag",
+          "preReleaseEndDateTime": null,
+          "type": "ALBUM",
+          "uri": "spotify:album:0TIfxixxwXalbIiNRSvKoF",
+          "tracksV2": {
+            "items": [
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 224973
+                  },
+                  "id": "3iiMSpxSoy4N9RxsljGXCx",
+                  "name": "Company Man",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/7036c9e0633a884b6be4e15faaf027cb9e890f1a"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 224973
+                      },
+                      "name": "Company Man",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/7036c9e0633a884b6be4e15faaf027cb9e890f1a"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:7EaGgLksAtCzApLfPxJjtS"
+                    }
+                  },
+                  "trackNumber": 1,
+                  "uri": "spotify:track:3iiMSpxSoy4N9RxsljGXCx"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 234000
+                  },
+                  "id": "5IT8PJx689QMtQb0yUbBSx",
+                  "name": "Johnnie Comes Back",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/0e28c3e346d4e166716663b82bfee6b16f6e3ad1"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 234000
+                      },
+                      "name": "Johnnie Comes Back",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/0e28c3e346d4e166716663b82bfee6b16f6e3ad1"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:0gRgLB1nTW0Yb9mgWQuvDn"
+                    }
+                  },
+                  "trackNumber": 2,
+                  "uri": "spotify:track:5IT8PJx689QMtQb0yUbBSx"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 264400
+                  },
+                  "id": "5FkQykmzwUZAjfLfiYiZip",
+                  "name": "Day Tripper",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/ff1de1a18180287f2bd221e6335bd4b26c4198a7"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 264400
+                      },
+                      "name": "Day Tripper",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/ff1de1a18180287f2bd221e6335bd4b26c4198a7"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:45goHlfgQSRpaJyMccZ8AT"
+                    }
+                  },
+                  "trackNumber": 3,
+                  "uri": "spotify:track:5FkQykmzwUZAjfLfiYiZip"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 194800
+                  },
+                  "id": "7D29ZB2fiPRn4CYRpT6L60",
+                  "name": "I Will Not Lie for You",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/38e609e6d9f83d96c299477130cb0730ee12a8aa"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 194800
+                      },
+                      "name": "I Will Not Lie for You",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/38e609e6d9f83d96c299477130cb0730ee12a8aa"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:6SWenTaB4PNj8DCY8TY8Nu"
+                    }
+                  },
+                  "trackNumber": 4,
+                  "uri": "spotify:track:7D29ZB2fiPRn4CYRpT6L60"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 240866
+                  },
+                  "id": "2NeKI2VLs1l1bjBGLFRXsl",
+                  "name": "Brother Trucker",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/45463c0fc11c5c43ad87d638ba230395ae43e41a"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 240866
+                      },
+                      "name": "Brother Trucker",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/45463c0fc11c5c43ad87d638ba230395ae43e41a"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:3usf2U2VlBuUtBDPzTS2Ok"
+                    }
+                  },
+                  "trackNumber": 5,
+                  "uri": "spotify:track:2NeKI2VLs1l1bjBGLFRXsl"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 117666
+                  },
+                  "id": "0IFgUPK9cTpl2Z4JQXqAIN",
+                  "name": "Is That the Way You Look?",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/82bfe977d3ed276d39d85bf0512609a9f31b755a"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 117666
+                      },
+                      "name": "Is That the Way You Look?",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/82bfe977d3ed276d39d85bf0512609a9f31b755a"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:0ZO2cyWuY147d7gjtzIZIU"
+                    }
+                  },
+                  "trackNumber": 6,
+                  "uri": "spotify:track:0IFgUPK9cTpl2Z4JQXqAIN"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 201240
+                  },
+                  "id": "1XbeYHRv9ld8DJLJ3UARJA",
+                  "name": "B.S.U.R.",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/907f124ef9dc8c78723a7ffb0309a84f5f92ea76"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 201240
+                      },
+                      "name": "B.S.U.R.",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/907f124ef9dc8c78723a7ffb0309a84f5f92ea76"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:3u4V4Qj0564NIr48nYcpdj"
+                    }
+                  },
+                  "trackNumber": 7,
+                  "uri": "spotify:track:1XbeYHRv9ld8DJLJ3UARJA"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 179293
+                  },
+                  "id": "0t8VXesc4CZwDMaBWrmJbL",
+                  "name": "Rainy Day Man",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/1d070638e52d3e07b8f4c90a6988d32ff22152ec"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 179293
+                      },
+                      "name": "Rainy Day Man",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/1d070638e52d3e07b8f4c90a6988d32ff22152ec"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:6N65FzCD0K0SbCWx73D5o0"
+                    }
+                  },
+                  "trackNumber": 8,
+                  "uri": "spotify:track:0t8VXesc4CZwDMaBWrmJbL"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 231733
+                  },
+                  "id": "5obPpdTnWt6WQX4Vip1k1V",
+                  "name": "Millworker",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/9efdd582cc02b6cf982e63e5f25cdc7686abd61d"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 231733
+                      },
+                      "name": "Millworker",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/9efdd582cc02b6cf982e63e5f25cdc7686abd61d"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:58Pz2cGXmjnmaN0FZEt0qB"
+                    }
+                  },
+                  "trackNumber": 9,
+                  "uri": "spotify:track:5obPpdTnWt6WQX4Vip1k1V"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 260066
+                  },
+                  "id": "2fImYMU26WoxpReo19cA69",
+                  "name": "Up On The Roof",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/3cca5086fdb27cbd64298a4919e12d02a6408ea2"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 260066
+                      },
+                      "name": "Up On The Roof",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/3cca5086fdb27cbd64298a4919e12d02a6408ea2"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:2mFTBNC08f6Jfre31ynXlw"
+                    }
+                  },
+                  "trackNumber": 10,
+                  "uri": "spotify:track:2fImYMU26WoxpReo19cA69"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 121906
+                  },
+                  "id": "4cVR2Rsfusd4BJx3Dwa4WL",
+                  "name": "Chanson Francaise",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/716ba7277a6e7f337f49c031478b2d0af59ea4e4"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 121906
+                      },
+                      "name": "Chanson Francaise",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/716ba7277a6e7f337f49c031478b2d0af59ea4e4"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:1tzcT5sLgvckDDbHnHdouQ"
+                    }
+                  },
+                  "trackNumber": 11,
+                  "uri": "spotify:track:4cVR2Rsfusd4BJx3Dwa4WL"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "James Taylor"
+                        },
+                        "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 282133
+                  },
+                  "id": "4gVehPWsUuKMkTMU7xiMak",
+                  "name": "Sleep Come Free Me",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/513e78959aa964d0409ffbd22e7c78691aba677b"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 282133
+                      },
+                      "name": "Sleep Come Free Me",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/513e78959aa964d0409ffbd22e7c78691aba677b"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:0mSw24Am5LDB04h7DdThjU"
+                    }
+                  },
+                  "trackNumber": 12,
+                  "uri": "spotify:track:4gVehPWsUuKMkTMU7xiMak"
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null,
+              "offset": 0
+            },
+            "totalCount": 12
+          },
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "James Taylor"
+                },
+                "stats": {
+                  "monthlyListeners": 4987609
+                },
+                "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5921cb8f2ec7bf6b5e725bcc",
+                        "width": 640
+                      },
+                      {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785921cb8f2ec7bf6b5e725bcc",
+                        "width": 160
+                      },
+                      {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745921cb8f2ec7bf6b5e725bcc",
+                        "width": 320
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "album": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicAlbum",
+      "@id": "https://open.spotify.com/album/0TIfxixxwXalbIiNRSvKoF",
+      "url": "https://open.spotify.com/album/0TIfxixxwXalbIiNRSvKoF",
+      "name": "Flag",
+      "description": "Listen to Flag on Spotify · album · James Taylor · 1979 · 12 songs",
+      "datePublished": "1979-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/album/0TIfxixxwXalbIiNRSvKoF?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/album/0TIfxixxwXalbIiNRSvKoF/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 250293
+}

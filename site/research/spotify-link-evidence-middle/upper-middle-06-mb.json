@@ -1,0 +1,36 @@
+{
+  "id": "upper-middle-06",
+  "groups": [
+    "c559eae4-2436-3459-8657-10100a2d15d2"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=c559eae4-2436-3459-8657-10100a2d15d2&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 5
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "0z42tTh8uw3qb6s1lMVw7U",
+      "spotifyUrl": "https://open.spotify.com/album/0z42tTh8uw3qb6s1lMVw7U",
+      "musicbrainzReleaseId": "a2ecda11-a989-49c3-93e4-3edbe2634231",
+      "musicbrainzTitle": "Lightfoot!",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "sort-name": "Lightfoot, Gordon",
+            "id": "9d97b077-b28d-4ba8-a3d9-c71926e3b2b6",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "Gordon Lightfoot",
+            "type": "Person",
+            "country": "CA",
+            "disambiguation": ""
+          },
+          "joinphrase": "",
+          "name": "Gordon Lightfoot"
+        }
+      ],
+      "musicbrainzDate": "2016-11-18"
+    }
+  ]
+}

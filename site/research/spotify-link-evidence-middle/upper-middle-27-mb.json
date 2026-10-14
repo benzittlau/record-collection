@@ -1,0 +1,36 @@
+{
+  "id": "upper-middle-27",
+  "groups": [
+    "05142a4f-6f1a-3b79-89a6-65e192bdbd2b"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=05142a4f-6f1a-3b79-89a6-65e192bdbd2b&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 4
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "6akyDE8MsL4u99uNzyD9OH",
+      "spotifyUrl": "https://open.spotify.com/album/6akyDE8MsL4u99uNzyD9OH",
+      "musicbrainzReleaseId": "95b92e16-2b74-42aa-90b6-a2698c03695c",
+      "musicbrainzTitle": "Gypsy Cowboy",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "type": "Group",
+            "name": "New Riders of the Purple Sage",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "id": "64c8fe79-1f93-483f-aace-b6a6e379e7d2",
+            "country": "US",
+            "disambiguation": "",
+            "sort-name": "New Riders of the Purple Sage"
+          },
+          "name": "New Riders of the Purple Sage",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": "2010-07-16"
+    }
+  ]
+}

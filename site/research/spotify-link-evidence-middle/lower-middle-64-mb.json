@@ -1,0 +1,37 @@
+{
+  "id": "lower-middle-64",
+  "groups": [
+    "389cec5a-2b88-3090-8e62-84a4580d6f44",
+    "389cec5a-2b88-3090-8e62-84a4580d6f44"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=389cec5a-2b88-3090-8e62-84a4580d6f44&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 25
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "6IzMnrSzyRykaltIvnlNuk",
+      "spotifyUrl": "https://open.spotify.com/album/6IzMnrSzyRykaltIvnlNuk",
+      "musicbrainzReleaseId": "d219e65d-0400-4ce4-8ae3-c07bd439cd9e",
+      "musicbrainzTitle": "Rickie Lee Jones",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "sort-name": "Jones, Rickie Lee",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "disambiguation": "",
+            "id": "9cd9232e-7a3e-4eb9-8043-ee05c1e396ec",
+            "name": "Rickie Lee Jones",
+            "type": "Person"
+          },
+          "name": "Rickie Lee Jones",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": null
+    }
+  ]
+}

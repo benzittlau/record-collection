@@ -1,0 +1,59 @@
+{
+  "id": "upper-middle-53",
+  "groups": [
+    "38ebbc75-c6e0-3576-bd42-802b2e4850c6",
+    "38ebbc75-c6e0-3576-bd42-802b2e4850c6"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=38ebbc75-c6e0-3576-bd42-802b2e4850c6&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 23
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "12QmkIQGZNUvznHOO0EF57",
+      "spotifyUrl": "https://open.spotify.com/album/12QmkIQGZNUvznHOO0EF57",
+      "musicbrainzReleaseId": "6c7a6ef3-bf75-4aac-8487-de95a4b41186",
+      "musicbrainzTitle": "Ommadawn",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Oldfield, Mike",
+            "type": "Person",
+            "name": "Mike Oldfield",
+            "id": "a1684a49-feaa-4150-b758-d9412fc59f12",
+            "disambiguation": "English musician, songwriter and producer",
+            "country": "GB"
+          },
+          "name": "Mike Oldfield",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": "2010-01-01"
+    },
+    {
+      "spotifyId": "200p7O3raeXT2jNhmzK4TE",
+      "spotifyUrl": "https://open.spotify.com/album/200p7O3raeXT2jNhmzK4TE",
+      "musicbrainzReleaseId": "e1ec958c-e08a-4ae4-b84e-37e90a2ffce7",
+      "musicbrainzTitle": "Ommadawn",
+      "musicbrainzArtists": [
+        {
+          "joinphrase": "",
+          "name": "Mike Oldfield",
+          "artist": {
+            "name": "Mike Oldfield",
+            "id": "a1684a49-feaa-4150-b758-d9412fc59f12",
+            "disambiguation": "English musician, songwriter and producer",
+            "country": "GB",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Oldfield, Mike",
+            "type": "Person"
+          }
+        }
+      ],
+      "musicbrainzDate": "2010-06-07"
+    }
+  ]
+}

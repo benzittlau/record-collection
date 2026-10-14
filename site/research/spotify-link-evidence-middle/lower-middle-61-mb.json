@@ -1,0 +1,59 @@
+{
+  "id": "lower-middle-61",
+  "groups": [
+    "1506ab53-8ec5-32ea-9769-7646b27ebc3f",
+    "1506ab53-8ec5-32ea-9769-7646b27ebc3f"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=1506ab53-8ec5-32ea-9769-7646b27ebc3f&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 14
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "221DoW7jUqMlBtiGVyCBId",
+      "spotifyUrl": "https://open.spotify.com/album/221DoW7jUqMlBtiGVyCBId",
+      "musicbrainzReleaseId": "a2b61e84-cdd6-4fc8-aa05-65cb5325a371",
+      "musicbrainzTitle": "Time Passages",
+      "musicbrainzArtists": [
+        {
+          "joinphrase": "",
+          "name": "Al Stewart",
+          "artist": {
+            "type": "Person",
+            "sort-name": "Stewart, Al",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "GB",
+            "disambiguation": "UK folk singer/songwriter",
+            "id": "ab7d49fa-c383-4c41-b890-3fe68e559dc4",
+            "name": "Al Stewart"
+          }
+        }
+      ],
+      "musicbrainzDate": "2021-11-05"
+    },
+    {
+      "spotifyId": "5moFY0K48zOBW37SsThYL0",
+      "spotifyUrl": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0",
+      "musicbrainzReleaseId": "bc121f2a-db64-4129-9dfa-f7d9cb8b3dff",
+      "musicbrainzTitle": "Time Passages",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "type": "Person",
+            "sort-name": "Stewart, Al",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "GB",
+            "id": "ab7d49fa-c383-4c41-b890-3fe68e559dc4",
+            "name": "Al Stewart",
+            "disambiguation": "UK folk singer/songwriter"
+          },
+          "joinphrase": "",
+          "name": "Al Stewart"
+        }
+      ],
+      "musicbrainzDate": "1991-09-23"
+    }
+  ]
+}

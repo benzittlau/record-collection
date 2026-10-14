@@ -1,0 +1,10 @@
+{
+  "query": "artist:\"Charles Benbow\" AND release:\"Bach\"",
+  "url": "https://musicbrainz.org/ws/2/release?query=artist%3A%22Charles%20Benbow%22%20AND%20release%3A%22Bach%22&limit=100&fmt=json",
+  "result": {
+    "created": "2026-10-14T05:40:02.284Z",
+    "count": 0,
+    "offset": 0,
+    "releases": []
+  }
+}

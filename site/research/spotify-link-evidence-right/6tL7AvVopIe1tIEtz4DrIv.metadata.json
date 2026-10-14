@@ -1,0 +1,817 @@
+{
+  "url": "https://open.spotify.com/album/6tL7AvVopIe1tIEtz4DrIv",
+  "resolvedUrl": "https://open.spotify.com/album/6tL7AvVopIe1tIEtz4DrIv",
+  "fetchedAt": "2026-10-14T05:15:39Z",
+  "pageTitle": "Giant Box (CTI Records 40th Anniversary Edition) - Album by Don Sebesky | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": false
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:album:6tL7AvVopIe1tIEtz4DrIv": {
+          "__typename": "Album",
+          "moreAlbumsByArtist": {
+            "items": [
+              {
+                "discography": {
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e029777b958fc4ca37363e9a7f6",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048519777b958fc4ca37363e9a7f6",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2739777b958fc4ca37363e9a7f6",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1999
+                        },
+                        "id": "6xxUdDL1kecVFlTJPL1750",
+                        "name": "Three Works For Jazz Soloists & Symphony Orchestra",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6xxUdDL1kecVFlTJPL1750"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e026fcf82bf2505f6971757380e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048516fcf82bf2505f6971757380e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2736fcf82bf2505f6971757380e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1975
+                        },
+                        "id": "3si0VYy8ookEWuWvGorz1z",
+                        "name": "The Rape of El Morro",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3si0VYy8ookEWuWvGorz1z"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0236aac145c4edba84fa132b9e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485136aac145c4edba84fa132b9e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27336aac145c4edba84fa132b9e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1999
+                        },
+                        "id": "40zy8HNXMBgbOijBFmlkyK",
+                        "name": "Joyful Noise",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:40zy8HNXMBgbOijBFmlkyK"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e021c04f8cb72e6d355411d7173",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048511c04f8cb72e6d355411d7173",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2731c04f8cb72e6d355411d7173",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2009
+                        },
+                        "id": "0a7NHwE1wDinVzMlf01aJu",
+                        "name": "A Jazz Portrait of Charlie Mariano",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0a7NHwE1wDinVzMlf01aJu"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e024d9c131bd14b4d98688b3d70",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048514d9c131bd14b4d98688b3d70",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2734d9c131bd14b4d98688b3d70",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2012
+                        },
+                        "id": "0B4tZoWLuEw4L5vSMCmPwG",
+                        "name": "Movements in 3",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0B4tZoWLuEw4L5vSMCmPwG"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02793710376b068b6e5dda599c",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851793710376b068b6e5dda599c",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273793710376b068b6e5dda599c",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1979
+                        },
+                        "id": "2bx2N9VqowM4zyROSLJeZI",
+                        "name": "Three Works For Jazz Soloists & Symphony Orchestra",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2bx2N9VqowM4zyROSLJeZI"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "countryCode": "PR"
+              },
+              {
+                "countryCode": "US"
+              }
+            ]
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "(P) 1973 Sony Music Entertainment",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#105870"
+              },
+              "colorRaw": {
+                "hex": "#105870"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851da80499d7f513e70917f4a5f",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02da80499d7f513e70917f4a5f",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273da80499d7f513e70917f4a5f",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 1,
+            "month": 1,
+            "year": 1973
+          },
+          "id": "6tL7AvVopIe1tIEtz4DrIv",
+          "isPreRelease": false,
+          "name": "Giant Box (CTI Records 40th Anniversary Edition)",
+          "preReleaseEndDateTime": null,
+          "type": "ALBUM",
+          "uri": "spotify:album:6tL7AvVopIe1tIEtz4DrIv",
+          "tracksV2": {
+            "items": [
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Don Sebesky"
+                        },
+                        "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 835266
+                  },
+                  "id": "3WRB3luNCNirwC2EiRwWiA",
+                  "name": "Firebird/Birds Of Fire",
+                  "playability": {
+                    "playable": false
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": []
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 1,
+                  "uri": "spotify:track:3WRB3luNCNirwC2EiRwWiA"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Don Sebesky"
+                        },
+                        "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 348720
+                  },
+                  "id": "5x2xovooB5o6o30uDozEDL",
+                  "name": "Song to a Seagull",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/7b83d016928fe0cc2e98f4457159c0df3542a705"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 344733
+                      },
+                      "name": "Song to a Seagull",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/7b83d016928fe0cc2e98f4457159c0df3542a705"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:2u1iCzhM32hEpbI8xnqB42"
+                    }
+                  },
+                  "trackNumber": 2,
+                  "uri": "spotify:track:5x2xovooB5o6o30uDozEDL"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Don Sebesky"
+                        },
+                        "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 493080
+                  },
+                  "id": "2tEXkz9xVn7tXI5cG3n1EY",
+                  "name": "Free As a Bird",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/91a455c08f236e67760933ad9129861af213ed8f"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 494400
+                      },
+                      "name": "Free As a Bird",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/91a455c08f236e67760933ad9129861af213ed8f"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:1SBfg4M0lKM9cppoBErL7Z"
+                    }
+                  },
+                  "trackNumber": 3,
+                  "uri": "spotify:track:2tEXkz9xVn7tXI5cG3n1EY"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Don Sebesky"
+                        },
+                        "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 488480
+                  },
+                  "id": "5w30N1tXA99KTUXhybKR5A",
+                  "name": "Psalm 150",
+                  "playability": {
+                    "playable": false
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": []
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 4,
+                  "uri": "spotify:track:5w30N1tXA99KTUXhybKR5A"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Don Sebesky"
+                        },
+                        "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 337360
+                  },
+                  "id": "2Hnry3NmCpPTEkEd3R1g4E",
+                  "name": "Vocalise",
+                  "playability": {
+                    "playable": false
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": []
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 5,
+                  "uri": "spotify:track:2Hnry3NmCpPTEkEd3R1g4E"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Don Sebesky"
+                        },
+                        "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 586400
+                  },
+                  "id": "3ZCGKW7RrH47FXyvNhuQsV",
+                  "name": "Fly/Circles",
+                  "playability": {
+                    "playable": false
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": []
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 6,
+                  "uri": "spotify:track:3ZCGKW7RrH47FXyvNhuQsV"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Don Sebesky"
+                        },
+                        "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 470813
+                  },
+                  "id": "6k1a1RbnGNtj3Ze1JHqTf9",
+                  "name": "Semi-Tough",
+                  "playability": {
+                    "playable": false
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": []
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 7,
+                  "uri": "spotify:track:6k1a1RbnGNtj3Ze1JHqTf9"
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null,
+              "offset": 0
+            },
+            "totalCount": 7
+          },
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Don Sebesky"
+                },
+                "stats": {
+                  "monthlyListeners": 6905
+                },
+                "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739777b958fc4ca37363e9a7f6",
+                        "width": 640
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519777b958fc4ca37363e9a7f6",
+                        "width": 64
+                      },
+                      {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029777b958fc4ca37363e9a7f6",
+                        "width": 300
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "album": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicAlbum",
+      "@id": "https://open.spotify.com/album/6tL7AvVopIe1tIEtz4DrIv",
+      "url": "https://open.spotify.com/album/6tL7AvVopIe1tIEtz4DrIv",
+      "name": "Giant Box (CTI Records 40th Anniversary Edition)",
+      "description": "Listen to Giant Box (CTI Records 40th Anniversary Edition) on Spotify · album · Don Sebesky · 1973 · 7 songs",
+      "datePublished": "1973-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/album/6tL7AvVopIe1tIEtz4DrIv?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/album/6tL7AvVopIe1tIEtz4DrIv/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 221248,
+  "albumLinks": [
+    {
+      "id": "6xxUdDL1kecVFlTJPL1750",
+      "label": "Three Works For Jazz Soloists & Symphony Orchestra  Album • 1999"
+    },
+    {
+      "id": "3si0VYy8ookEWuWvGorz1z",
+      "label": "The Rape of El Morro  Album • 1975"
+    },
+    {
+      "id": "40zy8HNXMBgbOijBFmlkyK",
+      "label": "Joyful Noise  Album • 1999"
+    },
+    {
+      "id": "0a7NHwE1wDinVzMlf01aJu",
+      "label": "A Jazz Portrait of Charlie Mariano  Album • 2009"
+    },
+    {
+      "id": "0B4tZoWLuEw4L5vSMCmPwG",
+      "label": "Movements in 3  Album • 2012"
+    },
+    {
+      "id": "2bx2N9VqowM4zyROSLJeZI",
+      "label": "Three Works For Jazz Soloists & Symphony Orchestra  Album • 1979"
+    }
+  ]
+}

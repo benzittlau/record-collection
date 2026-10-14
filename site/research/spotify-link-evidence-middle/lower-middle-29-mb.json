@@ -1,0 +1,37 @@
+{
+  "id": "lower-middle-29",
+  "groups": [
+    "57b5b8e5-f402-3406-af89-01c92cda5217",
+    "57b5b8e5-f402-3406-af89-01c92cda5217"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=57b5b8e5-f402-3406-af89-01c92cda5217&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 21
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "1VuNXmZV6eIfUwglRlM9Ya",
+      "spotifyUrl": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya",
+      "musicbrainzReleaseId": "e2dac93d-b61b-45b9-9ddc-e8e3bf583348",
+      "musicbrainzTitle": "Autoamerican",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "type": "Group",
+            "name": "Blondie",
+            "disambiguation": "US rock band",
+            "id": "4d2956d1-a3f7-44bb-9a41-67563e1a0c94",
+            "sort-name": "Blondie",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "name": "Blondie",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": ""
+    }
+  ]
+}

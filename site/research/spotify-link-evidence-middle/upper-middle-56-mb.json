@@ -1,0 +1,36 @@
+{
+  "id": "upper-middle-56",
+  "groups": [
+    "a111fad3-8dfc-4b1d-891d-eb7d132a6938"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=a111fad3-8dfc-4b1d-891d-eb7d132a6938&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 1
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "5t4CAhibBYA2ZLrkYlkwkb",
+      "spotifyUrl": "https://open.spotify.com/album/5t4CAhibBYA2ZLrkYlkwkb",
+      "musicbrainzReleaseId": "14853734-7a17-42e5-8639-5ee188ced430",
+      "musicbrainzTitle": "Don’t Cry Out Loud",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "disambiguation": "",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "Melissa Manchester",
+            "type": "Person",
+            "sort-name": "Manchester, Melissa",
+            "id": "b1fdf831-b341-459e-9226-c7dc6ef0a93d"
+          },
+          "joinphrase": "",
+          "name": "Melissa Manchester"
+        }
+      ],
+      "musicbrainzDate": "2020-12-21"
+    }
+  ]
+}

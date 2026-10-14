@@ -1,0 +1,1975 @@
+{
+  "url": "https://open.spotify.com/track/1xqrJN8FNPjJ9dgQpJvtY5",
+  "resolvedUrl": "https://open.spotify.com/track/1xqrJN8FNPjJ9dgQpJvtY5",
+  "fetchedAt": "2026-10-14T05:11:01Z",
+  "pageTitle": "Potter&#x27;s Field - song and lyrics by Tom Waits | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:1xqrJN8FNPjJ9dgQpJvtY5": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "2017 Lost Henry. Manufactured and Distributed by Anti, a division of Epitaph, A California Corp.",
+                  "type": "C"
+                },
+                {
+                  "text": "2017 Lost Henry. Manufactured and Distributed by Anti, a division of Epitaph, A California Corp.",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#247EAD"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048518169f08904c069a8cdfad71c",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e028169f08904c069a8cdfad71c",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2738169f08904c069a8cdfad71c",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 1,
+              "month": 9,
+              "year": 1977
+            },
+            "isPreRelease": false,
+            "name": "Foreign Affairs",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7x83XhcMbOTl1UdYsPTuZM",
+                          "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                          "profile": {
+                            "name": "Tom Waits"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4cd2yAR05VB5y2WEeYfxHj",
+                    "name": "Cinny's Waltz",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:4cd2yAR05VB5y2WEeYfxHj",
+                    "duration": {
+                      "totalMilliseconds": 137266
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7x83XhcMbOTl1UdYsPTuZM",
+                          "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                          "profile": {
+                            "name": "Tom Waits"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2b7uamFXkW0H4jXyljYH27",
+                    "name": "Muriel",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:2b7uamFXkW0H4jXyljYH27",
+                    "duration": {
+                      "totalMilliseconds": 213933
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7x83XhcMbOTl1UdYsPTuZM",
+                          "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                          "profile": {
+                            "name": "Tom Waits"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6CBbyrVgF1mRaDXdcqTF6C",
+                    "name": "I Never Talk To Strangers",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:6CBbyrVgF1mRaDXdcqTF6C",
+                    "duration": {
+                      "totalMilliseconds": 218466
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7x83XhcMbOTl1UdYsPTuZM",
+                          "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                          "profile": {
+                            "name": "Tom Waits"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "69q5cbsHAuU7hCnM3vyY3t",
+                    "name": "Medley: Jack & Neal / California Here I Come",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:69q5cbsHAuU7hCnM3vyY3t",
+                    "duration": {
+                      "totalMilliseconds": 301306
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7x83XhcMbOTl1UdYsPTuZM",
+                          "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                          "profile": {
+                            "name": "Tom Waits"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "44KImCTv2PC64xX2F3LP3t",
+                    "name": "A Sight For Sore Eyes",
+                    "trackNumber": 5,
+                    "uri": "spotify:track:44KImCTv2PC64xX2F3LP3t",
+                    "duration": {
+                      "totalMilliseconds": 280360
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7x83XhcMbOTl1UdYsPTuZM",
+                          "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                          "profile": {
+                            "name": "Tom Waits"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1xqrJN8FNPjJ9dgQpJvtY5",
+                    "name": "Potter's Field",
+                    "trackNumber": 6,
+                    "uri": "spotify:track:1xqrJN8FNPjJ9dgQpJvtY5",
+                    "duration": {
+                      "totalMilliseconds": 520440
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7x83XhcMbOTl1UdYsPTuZM",
+                          "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                          "profile": {
+                            "name": "Tom Waits"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7thGuqrHdHAxGTjGnKsFpc",
+                    "name": "Burma-Shave",
+                    "trackNumber": 7,
+                    "uri": "spotify:track:7thGuqrHdHAxGTjGnKsFpc",
+                    "duration": {
+                      "totalMilliseconds": 394800
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7x83XhcMbOTl1UdYsPTuZM",
+                          "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                          "profile": {
+                            "name": "Tom Waits"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7vnA3sH9R49SLFMjappqdE",
+                    "name": "Barber Shop",
+                    "trackNumber": 8,
+                    "uri": "spotify:track:7vnA3sH9R49SLFMjappqdE",
+                    "duration": {
+                      "totalMilliseconds": 234666
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7x83XhcMbOTl1UdYsPTuZM",
+                          "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                          "profile": {
+                            "name": "Tom Waits"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3Bwxyuty3ul7eiPx8EYROJ",
+                    "name": "Foreign Affair",
+                    "trackNumber": 9,
+                    "uri": "spotify:track:3Bwxyuty3ul7eiPx8EYROJ",
+                    "duration": {
+                      "totalMilliseconds": 226160
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "ALBUM",
+            "uri": "spotify:album:3NPfQpsF12YXk6FJp7mW2Y"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e026c869e182bb6ddddd13dc250",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048516c869e182bb6ddddd13dc250",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2736c869e182bb6ddddd13dc250",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "34jdCKLIC2rmMyACRTKZNG",
+                              "name": "Blood Money (Anniversary Edition)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:34jdCKLIC2rmMyACRTKZNG"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e028d49c6409b48034b41bd0328",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048518d49c6409b48034b41bd0328",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2738d49c6409b48034b41bd0328",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "0IVXajJt5yb8xr3qpBlbFB",
+                              "name": "Alice (Anniversary Edition)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0IVXajJt5yb8xr3qpBlbFB"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02343cdcc47cfcbc43a4c66ae5",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851343cdcc47cfcbc43a4c66ae5",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273343cdcc47cfcbc43a4c66ae5",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2011
+                              },
+                              "id": "5kngzyNwERbKiQDvVwsgMt",
+                              "name": "Bad As Me (Deluxe Edition Remastered)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:5kngzyNwERbKiQDvVwsgMt"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02b95948b52d8a73c8e51bc3d9",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851b95948b52d8a73c8e51bc3d9",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273b95948b52d8a73c8e51bc3d9",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2009
+                              },
+                              "id": "3IpexZ309jiPcLdFkz3S6F",
+                              "name": "Glitter And Doom Live (Remastered)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:3IpexZ309jiPcLdFkz3S6F"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0259237cc9e74983afdbdde78e",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485159237cc9e74983afdbdde78e",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27359237cc9e74983afdbdde78e",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2006
+                              },
+                              "id": "0hSKsAfvBPfJupYNmzRfHt",
+                              "name": "Orphans: Brawlers, Bawlers & Bastards (Remastered)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0hSKsAfvBPfJupYNmzRfHt"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02c11e9584279b388fa9db4633",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851c11e9584279b388fa9db4633",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273c11e9584279b388fa9db4633",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2004
+                              },
+                              "id": "6F17MbloTeRoXs7JI3lTHy",
+                              "name": "Real Gone (Remastered)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:6F17MbloTeRoXs7JI3lTHy"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e029c853aae7a8aa1db84a52dd8",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048519c853aae7a8aa1db84a52dd8",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2739c853aae7a8aa1db84a52dd8",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1973
+                        },
+                        "id": "67F2ya9fonXH0jVVgLa7sb",
+                        "name": "Closing Time (Remastered)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:67F2ya9fonXH0jVVgLa7sb"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02d4d4cd6954bd161fd3a8b4a5",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851d4d4cd6954bd161fd3a8b4a5",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273d4d4cd6954bd161fd3a8b4a5",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1985
+                        },
+                        "id": "51CvLH7MxsLuFgTwVvzApx",
+                        "name": "Rain Dogs (2023 Remaster)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:51CvLH7MxsLuFgTwVvzApx"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ddbc5baae5ad5f0b4de990b6",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ddbc5baae5ad5f0b4de990b6",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ddbc5baae5ad5f0b4de990b6",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1999
+                        },
+                        "id": "7cAcex6xw4fP67ltgn1gm3",
+                        "name": "Mule Variations (Remastered)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:7cAcex6xw4fP67ltgn1gm3"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0259237cc9e74983afdbdde78e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485159237cc9e74983afdbdde78e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27359237cc9e74983afdbdde78e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2006
+                        },
+                        "id": "0hSKsAfvBPfJupYNmzRfHt",
+                        "name": "Orphans: Brawlers, Bawlers & Bastards (Remastered)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0hSKsAfvBPfJupYNmzRfHt"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e026c1c88bd7c960fdc5cf9efbd",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048516c1c88bd7c960fdc5cf9efbd",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2736c1c88bd7c960fdc5cf9efbd",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1992
+                        },
+                        "id": "4VNqy9FUAFCvwE6XqrtlOn",
+                        "name": "Bone Machine (2023 Remaster)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4VNqy9FUAFCvwE6XqrtlOn"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02272cf734ced7b36102ad8068",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851272cf734ced7b36102ad8068",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273272cf734ced7b36102ad8068",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1983
+                        },
+                        "id": "6kvSCK1lNgZokyIK4Sk73B",
+                        "name": "Swordfishtrombones (2023 Remaster)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6kvSCK1lNgZokyIK4Sk73B"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02cdc34d14817a4771010d4afd",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851cdc34d14817a4771010d4afd",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273cdc34d14817a4771010d4afd",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "6msKh2uAIFTl0YAE4umlgO",
+                              "name": "The Fly",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:6msKh2uAIFTl0YAE4umlgO"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02d70e3d8699d0835409f12be8",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851d70e3d8699d0835409f12be8",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273d70e3d8699d0835409f12be8",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2024
+                              },
+                              "id": "5A0o9GyE1NAr389rcXyigG",
+                              "name": "Get Behind The Mule (Spiritual)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:5A0o9GyE1NAr389rcXyigG"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e023ced18f3f9e8b5ec5e32c5b7",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048513ced18f3f9e8b5ec5e32c5b7",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2733ced18f3f9e8b5ec5e32c5b7",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "1r1nFQMEBVjOqXHL1B8bAn",
+                              "name": "Grave Diggers: Tom Waits",
+                              "type": "EP",
+                              "uri": "spotify:album:1r1nFQMEBVjOqXHL1B8bAn"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02d099070505cfd0ddbd5253da",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851d099070505cfd0ddbd5253da",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273d099070505cfd0ddbd5253da",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "7bayA9jbq8BMefjnCVNkdC",
+                              "name": "Lost In The Harbour (Live)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:7bayA9jbq8BMefjnCVNkdC"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0273316395122aa737ac9d201b",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485173316395122aa737ac9d201b",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27373316395122aa737ac9d201b",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "6SliAMTcxmxn6Qiyktge7z",
+                              "name": "Table Top Joe (Live)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:6SliAMTcxmxn6Qiyktge7z"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e027a4112a01b0c3ab26567e2d8",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048517a4112a01b0c3ab26567e2d8",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2737a4112a01b0c3ab26567e2d8",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "1eDH2OjESBVjChXNzMkT5c",
+                              "name": "God's Away On Business (Live)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:1eDH2OjESBVjChXNzMkT5c"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e029c853aae7a8aa1db84a52dd8",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048519c853aae7a8aa1db84a52dd8",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2739c853aae7a8aa1db84a52dd8",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Closing Time (Remastered)",
+                            "uri": "spotify:album:67F2ya9fonXH0jVVgLa7sb"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                                "profile": {
+                                  "name": "Tom Waits"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "23Uv9xqLumDqEBNIdHhCcO",
+                          "name": "I Hope That I Don't Fall In Love With You",
+                          "playcount": "88826428",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/380d21aa9ea6e8013114a6f4c3bbe2e6f04748f8"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:23Uv9xqLumDqEBNIdHhCcO",
+                          "duration": {
+                            "totalMilliseconds": 233533
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02272cf734ced7b36102ad8068",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851272cf734ced7b36102ad8068",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273272cf734ced7b36102ad8068",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Swordfishtrombones (2023 Remaster)",
+                            "uri": "spotify:album:6kvSCK1lNgZokyIK4Sk73B"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                                "profile": {
+                                  "name": "Tom Waits"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "1WB1zhaxW3fIZKq032iCjw",
+                          "name": "Underground - 2023 Remaster",
+                          "playcount": "20993675",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/e8d55aea283b10cd4dc77ad72fbdaf8d0b783e25"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:1WB1zhaxW3fIZKq032iCjw",
+                          "duration": {
+                            "totalMilliseconds": 120666
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e029c853aae7a8aa1db84a52dd8",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048519c853aae7a8aa1db84a52dd8",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2739c853aae7a8aa1db84a52dd8",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Closing Time (Remastered)",
+                            "uri": "spotify:album:67F2ya9fonXH0jVVgLa7sb"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                                "profile": {
+                                  "name": "Tom Waits"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "75QoXqTlvBwuITzow9egCB",
+                          "name": "Martha",
+                          "playcount": "35528273",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/3ac8aa89e18d69a49469340877b22127fc4c98a1"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:75QoXqTlvBwuITzow9egCB",
+                          "duration": {
+                            "totalMilliseconds": 268866
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e029c853aae7a8aa1db84a52dd8",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048519c853aae7a8aa1db84a52dd8",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2739c853aae7a8aa1db84a52dd8",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Closing Time (Remastered)",
+                            "uri": "spotify:album:67F2ya9fonXH0jVVgLa7sb"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                                "profile": {
+                                  "name": "Tom Waits"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "7qbLE7ssJcnWD6EO7My847",
+                          "name": "Ol' 55",
+                          "playcount": "30656324",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/dd64a6ed293d766f7b2993176ba2ff8a1edac75a"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:7qbLE7ssJcnWD6EO7My847",
+                          "duration": {
+                            "totalMilliseconds": 236480
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "5l8VQNuIg0turYE1VtM9zV",
+                        "profile": {
+                          "name": "Leonard Cohen"
+                        },
+                        "uri": "spotify:artist:5l8VQNuIg0turYE1VtM9zV",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5ebd09c1295779cfb71683cee99",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178d09c1295779cfb71683cee99",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174d09c1295779cfb71683cee99",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "4UXJsSlnKd7ltsrHebV79Q",
+                        "profile": {
+                          "name": "Nick Cave & The Bad Seeds"
+                        },
+                        "uri": "spotify:artist:4UXJsSlnKd7ltsrHebV79Q",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5ebf25f67b576294b05a9e4faa7",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178f25f67b576294b05a9e4faa7",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174f25f67b576294b05a9e4faa7",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "42TFhl7WlMRXiNqzSrnzPL",
+                        "profile": {
+                          "name": "Lou Reed"
+                        },
+                        "uri": "spotify:artist:42TFhl7WlMRXiNqzSrnzPL",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 644,
+                                "url": "https://i.scdn.co/image/49b8173759e47ed5e74d1c7c11a932e4dc6a91f9",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/cf74e6ba4644f8f5a552060f40d3864aeb6a4311",
+                                "width": 64
+                              },
+                              {
+                                "height": 201,
+                                "url": "https://i.scdn.co/image/bb3e155f456d2f3533b753417cf586408c00fff0",
+                                "width": 200
+                              },
+                              {
+                                "height": 1006,
+                                "url": "https://i.scdn.co/image/2e1e9a6fe696b536a1f9e6a27fc1ed23d2c97099",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "3mY9Ii0cL5SQxpOTAm8SHx",
+                        "profile": {
+                          "name": "Warren Zevon"
+                        },
+                        "uri": "spotify:artist:3mY9Ii0cL5SQxpOTAm8SHx",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5ebcb844c45233a84f9f81c9ec4",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178cb844c45233a84f9f81c9ec4",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174cb844c45233a84f9f81c9ec4",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "5yXAFDZNUNyO92l5WTImkO",
+                        "profile": {
+                          "name": "Billy Bragg"
+                        },
+                        "uri": "spotify:artist:5yXAFDZNUNyO92l5WTImkO",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5ebc23d0e19d887a9d67a77ea9b",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178c23d0e19d887a9d67a77ea9b",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174c23d0e19d887a9d67a77ea9b",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "5MWBg16f5UYiaSlyVhzlIW",
+                        "profile": {
+                          "name": "John Cale"
+                        },
+                        "uri": "spotify:artist:5MWBg16f5UYiaSlyVhzlIW",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb7f1f22856455f6f357468482",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f1787f1f22856455f6f357468482",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab676161000051747f1f22856455f6f357468482",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "7x83XhcMbOTl1UdYsPTuZM",
+                "profile": {
+                  "name": "Tom Waits"
+                },
+                "stats": {
+                  "monthlyListeners": 1459347
+                },
+                "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb4679f0c1c8f862730c0b5109",
+                        "width": 640
+                      },
+                      {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1784679f0c1c8f862730c0b5109",
+                        "width": 160
+                      },
+                      {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051744679f0c1c8f862730c0b5109",
+                        "width": 320
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": []
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 520440
+          },
+          "id": "1xqrJN8FNPjJ9dgQpJvtY5",
+          "mediaType": "AUDIO",
+          "name": "Potter's Field",
+          "playability": {
+            "playable": true
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/6b8b02498d17de6ee4ae4c91ea263fa33ac48f43"
+                }
+              ]
+            }
+          },
+          "trackNumber": 6,
+          "uri": "spotify:track:1xqrJN8FNPjJ9dgQpJvtY5"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "1xqrJN8FNPjJ9dgQpJvtY5": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:1xqrJN8FNPjJ9dgQpJvtY5"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c3e4cae5cb0eb44e62478ab7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c3e4cae5cb0eb44e62478ab7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c3e4cae5cb0eb44e62478ab7",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "5ejL5NoRtasMA1e3znuIlQ",
+              "name": "Nighthawks At The Diner (Remastered)",
+              "uri": "spotify:album:5ejL5NoRtasMA1e3znuIlQ"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7x83XhcMbOTl1UdYsPTuZM",
+                  "profile": {
+                    "name": "Tom Waits"
+                  },
+                  "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM"
+                }
+              ]
+            },
+            "id": "0kAfaOG2e7NqQreauupeSm",
+            "name": "Intro To On A Foggy Night",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/b381dae5baf196e96c795001270f417b93a42b6a"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:0kAfaOG2e7NqQreauupeSm"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a943ff962bc2b7f355e104be",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a943ff962bc2b7f355e104be",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a943ff962bc2b7f355e104be",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "6GjMcck9c4i6cQo194xKl6",
+              "name": "Small Change (Remastered)",
+              "uri": "spotify:album:6GjMcck9c4i6cQo194xKl6"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7x83XhcMbOTl1UdYsPTuZM",
+                  "profile": {
+                    "name": "Tom Waits"
+                  },
+                  "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM"
+                }
+              ]
+            },
+            "id": "1yXoIyMg0figR9VfMGFlrG",
+            "name": "Jitterbug Boy (Sharing A Curbstone With Chuck E. Weiss, Robert Marchese, Paul Body and The Mug and Artie)",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/9e8ab0564b861818e435a33ef71d43d0544f1da3"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:1yXoIyMg0figR9VfMGFlrG"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02aee05708c765c76218547ab6",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851aee05708c765c76218547ab6",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273aee05708c765c76218547ab6",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "7qLJ8bzny3tynTPW2U2Anv",
+              "name": "Foreign Affairs (Remastered)",
+              "uri": "spotify:album:7qLJ8bzny3tynTPW2U2Anv"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7x83XhcMbOTl1UdYsPTuZM",
+                  "profile": {
+                    "name": "Tom Waits"
+                  },
+                  "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM"
+                }
+              ]
+            },
+            "id": "50bCG4t06twEMWOb4oyNMO",
+            "name": "Foreign Affair",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/2d29373a1a3df1843334965d31e6e8da84a04944"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:50bCG4t06twEMWOb4oyNMO"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a943ff962bc2b7f355e104be",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a943ff962bc2b7f355e104be",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a943ff962bc2b7f355e104be",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "6GjMcck9c4i6cQo194xKl6",
+              "name": "Small Change (Remastered)",
+              "uri": "spotify:album:6GjMcck9c4i6cQo194xKl6"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7x83XhcMbOTl1UdYsPTuZM",
+                  "profile": {
+                    "name": "Tom Waits"
+                  },
+                  "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM"
+                }
+              ]
+            },
+            "id": "4isuUQhckX6ophYvVEEbYr",
+            "name": "The One That Got Away",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/45310f83a528edb1af5591f9853cdbe7de9f2d4e"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:4isuUQhckX6ophYvVEEbYr"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c3e4cae5cb0eb44e62478ab7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c3e4cae5cb0eb44e62478ab7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c3e4cae5cb0eb44e62478ab7",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "5ejL5NoRtasMA1e3znuIlQ",
+              "name": "Nighthawks At The Diner (Remastered)",
+              "uri": "spotify:album:5ejL5NoRtasMA1e3znuIlQ"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7x83XhcMbOTl1UdYsPTuZM",
+                  "profile": {
+                    "name": "Tom Waits"
+                  },
+                  "uri": "spotify:artist:7x83XhcMbOTl1UdYsPTuZM"
+                }
+              ]
+            },
+            "id": "54X57PIhlFgOqfyNnGbq40",
+            "name": "Nighthawk Postcards (From Easy Street)",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/670992cc7c7574c1bbe6ae587ae7f404f07a722b"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:54X57PIhlFgOqfyNnGbq40"
+          }
+        ],
+        "uri": "spotify:track:1xqrJN8FNPjJ9dgQpJvtY5",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02c3e4cae5cb0eb44e62478ab7",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851c3e4cae5cb0eb44e62478ab7",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273c3e4cae5cb0eb44e62478ab7",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1975
+            },
+            "id": "5ejL5NoRtasMA1e3znuIlQ",
+            "name": "Nighthawks At The Diner (Remastered)",
+            "type": "ALBUM",
+            "uri": "spotify:album:5ejL5NoRtasMA1e3znuIlQ"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02e06e346c1c99e600eded13f1",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851e06e346c1c99e600eded13f1",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273e06e346c1c99e600eded13f1",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1998
+            },
+            "id": "50b7Fq7D9YtCaAI2a6oNyQ",
+            "name": "Beautiful Maladies: The Island Years",
+            "type": "COMPILATION",
+            "uri": "spotify:album:50b7Fq7D9YtCaAI2a6oNyQ"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02e7e11340ffa77e7c6a796265",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851e7e11340ffa77e7c6a796265",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273e7e11340ffa77e7c6a796265",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1993
+            },
+            "id": "2NujBsDDIb7333WnADrTxF",
+            "name": "The Black Rider (2023 Remaster)",
+            "type": "ALBUM",
+            "uri": "spotify:album:2NujBsDDIb7333WnADrTxF"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02b320ef2985361a68b784484c",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851b320ef2985361a68b784484c",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273b320ef2985361a68b784484c",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1988
+            },
+            "id": "5YvqSLavzEYaklzkDMjobK",
+            "name": "Big Time",
+            "type": "ALBUM",
+            "uri": "spotify:album:5YvqSLavzEYaklzkDMjobK"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02a943ff962bc2b7f355e104be",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851a943ff962bc2b7f355e104be",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a943ff962bc2b7f355e104be",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1976
+            },
+            "id": "6GjMcck9c4i6cQo194xKl6",
+            "name": "Small Change (Remastered)",
+            "type": "ALBUM",
+            "uri": "spotify:album:6GjMcck9c4i6cQo194xKl6"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e029456e6961c9a705617b709ca",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048519456e6961c9a705617b709ca",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2739456e6961c9a705617b709ca",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1978
+            },
+            "id": "2fgQN85UzwZMRIBTs06FjX",
+            "name": "Blue Valentine (Remastered)",
+            "type": "ALBUM",
+            "uri": "spotify:album:2fgQN85UzwZMRIBTs06FjX"
+          }
+        ],
+        "uri": "spotify:track:1xqrJN8FNPjJ9dgQpJvtY5",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/1xqrJN8FNPjJ9dgQpJvtY5",
+      "url": "https://open.spotify.com/track/1xqrJN8FNPjJ9dgQpJvtY5",
+      "name": "Potter's Field",
+      "description": "Listen to Potter's Field on Spotify. Song · Tom Waits · 1977",
+      "datePublished": "1977-09-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/1xqrJN8FNPjJ9dgQpJvtY5?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/1xqrJN8FNPjJ9dgQpJvtY5/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 273433
+}

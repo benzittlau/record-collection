@@ -1,0 +1,75 @@
+{
+  "id": "upper-middle-44",
+  "groups": [
+    "9bc02bbb-5ed0-38ff-a64a-145bea9ea5e1"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=9bc02bbb-5ed0-38ff-a64a-145bea9ea5e1&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 6
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "2LYPJHnU2WC7RbHXvJxXZX",
+      "spotifyUrl": "https://open.spotify.com/album/2LYPJHnU2WC7RbHXvJxXZX",
+      "musicbrainzReleaseId": "4191e27f-4163-4d8c-bf69-58e83bd021a9",
+      "musicbrainzTitle": "Apocalypse",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "country": "US",
+            "disambiguation": "guitarist",
+            "id": "fcbc2086-5863-4659-b03d-44be704697d2",
+            "name": "John McLaughlin",
+            "type": "Person",
+            "sort-name": "McLaughlin, John",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+          },
+          "joinphrase": "; ",
+          "name": "John McLaughlin"
+        },
+        {
+          "name": "Mahavishnu Orchestra",
+          "joinphrase": ", ",
+          "artist": {
+            "country": "US",
+            "disambiguation": "",
+            "id": "a2be74f5-0735-46f7-a295-7e41aab30029",
+            "name": "Mahavishnu Orchestra",
+            "type": "Group",
+            "sort-name": "Mahavishnu Orchestra",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          }
+        },
+        {
+          "artist": {
+            "type": "Orchestra",
+            "sort-name": "London Symphony Orchestra",
+            "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+            "country": "GB",
+            "disambiguation": "",
+            "id": "38712b4c-0fd4-4c65-8c7a-45676fecc973",
+            "name": "London Symphony Orchestra"
+          },
+          "joinphrase": " & ",
+          "name": "London Symphony Orchestra"
+        },
+        {
+          "artist": {
+            "sort-name": "Tilson Thomas, Michael",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "US",
+            "disambiguation": "conductor and pianist",
+            "name": "Michael Tilson Thomas",
+            "id": "f6df125a-a83c-4161-8cbe-48f4a3a7cad5"
+          },
+          "name": "Michael Tilson Thomas",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": "1974"
+    }
+  ]
+}

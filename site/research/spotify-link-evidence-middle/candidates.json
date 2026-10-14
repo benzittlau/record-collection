@@ -1,0 +1,2002 @@
+{
+  "upper-middle-02": {
+    "candidates": [
+      "3zdgAyvThlcRGmcFcZ7zQb",
+      "6OGR93YGnFdWW3cC5Spmy2"
+    ],
+    "queries": [
+      "site:open.spotify.com/album John Miles Rebel",
+      "https://musicbrainz.org/ws/2/release?release-group=8f6ad92b-e711-3e07-a734-a1ecf942987a&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "note": "Digital edition of the original nine-track album.",
+    "accepted": "3zdgAyvThlcRGmcFcZ7zQb",
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-02-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/3zdgAyvThlcRGmcFcZ7zQb.json",
+        "albumName": "Rebel (Remastered 1985)",
+        "id": "6OGR93YGnFdWW3cC5Spmy2"
+      }
+    ],
+    "searched": true
+  },
+  "upper-middle-04": {
+    "candidates": [
+      "1dfvcFHSox0YKcPMxDrLIs",
+      "0RX6I7fDn46N8P6lhm2I3h",
+      "7e1BJQovPkAFsewqgPBHQC"
+    ],
+    "queries": [
+      "site:open.spotify.com/album Nitty Gritty Dirt Band Will the Circle Be Unbroken",
+      "https://musicbrainz.org/ws/2/release?release-group=0ec57ce0-987b-3ea4-b3de-ba1db6488b4b&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "note": "2002 remaster of the original three-record album, with four bonus tracks.",
+    "accepted": "1dfvcFHSox0YKcPMxDrLIs",
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-04-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/1dfvcFHSox0YKcPMxDrLIs.json",
+        "albumName": "Will The Circle Be Unbroken Volume Two",
+        "id": "0RX6I7fDn46N8P6lhm2I3h"
+      },
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/1dfvcFHSox0YKcPMxDrLIs.json",
+        "albumName": "Will The Circle Be Unbroken (Vol. III)",
+        "id": "7e1BJQovPkAFsewqgPBHQC"
+      }
+    ],
+    "searched": true
+  },
+  "upper-middle-14": {
+    "candidates": [
+      "7FePxKmwHIfBgl8PTANoww",
+      "0UHN59vOz4A7D90zihTeOR",
+      "3hagJx7vNgAyI1cTyn13gx"
+    ],
+    "queries": [
+      "Manfred Mann Chance Spotify album",
+      "https://musicbrainz.org/ws/2/release?release-group=b20405cf-b154-3e30-bd4e-e351fdc54bb4&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "note": "Original 1980 album with four bonus tracks.",
+    "accepted": "7FePxKmwHIfBgl8PTANoww",
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-14-mb.json",
+    "searched": true
+  },
+  "_seed-GordonLightfoot": {
+    "candidates": [
+      "2IPD9EcNjUmsHvqULDMU9Y"
+    ]
+  },
+  "_seed-TheNylons": {
+    "candidates": [
+      "7E3wccLGVLjFMrmFh9PmsG"
+    ]
+  },
+  "_seed-PhoebeSnow": {
+    "candidates": [
+      "5YrDK8VpIhO5qILsSjgUpi"
+    ]
+  },
+  "_seed-PhilOchs": {
+    "candidates": [
+      "5NuD3oMFTngWDni6HlIeDC"
+    ]
+  },
+  "_seed-LittleRiverBand": {
+    "candidates": [
+      "6CIFONNOVR9frrraKZpiPi"
+    ]
+  },
+  "upper-middle-34": {
+    "candidates": [
+      "1zBQPjZRxDdgsjdTP0iA0K"
+    ],
+    "queries": [
+      "Malicorne Adelard Rousseau Spotify album",
+      "https://musicbrainz.org/ws/2/release?release-group=acc9029a-2a3a-4a6e-b0a0-898d0a9366a7&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-34-mb.json",
+    "accepted": "1zBQPjZRxDdgsjdTP0iA0K",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-43": {
+    "candidates": [
+      "6R8jyZYuYnezKF4onzJqum"
+    ],
+    "queries": [
+      "site:open.spotify.com/album lang Absolute Torch Twang",
+      "https://musicbrainz.org/ws/2/release?release-group=498af2d4-9db5-3fa2-b554-f34a3a3203ab&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-43-mb.json",
+    "accepted": "6R8jyZYuYnezKF4onzJqum",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-06.json"
+    ],
+    "searched": true
+  },
+  "_seed-HotTuna": {
+    "candidates": [
+      "40daZmBwMKnpUmXiWNO5r0"
+    ]
+  },
+  "_seed-Ringo": {
+    "candidates": [
+      "5FqQeQfApfPz8zmSyOVNVw"
+    ]
+  },
+  "upper-middle-06": {
+    "candidates": [
+      "0z42tTh8uw3qb6s1lMVw7U"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=c559eae4-2436-3459-8657-10100a2d15d2&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-06-mb.json",
+    "accepted": "0z42tTh8uw3qb6s1lMVw7U",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-07": {
+    "candidates": [
+      "69N9x2aQqmKOexsb0drslp"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=906082de-4651-4b76-8079-adee51c17cea&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "JSD Band Travelling Days Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-07-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-9.json"
+    ],
+    "searched": true,
+    "accepted": "69N9x2aQqmKOexsb0drslp",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/69N9x2aQqmKOexsb0drslp",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-09": {
+    "candidates": [
+      "5xCDy6b60ctMxtwjmV4oMh"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=0e9fd452-32ce-3f74-9296-29dcc883620b&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-09-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/5YrDK8VpIhO5qILsSjgUpi.json",
+        "albumName": "It Looks Like Snow",
+        "id": "5xCDy6b60ctMxtwjmV4oMh"
+      }
+    ],
+    "accepted": "5xCDy6b60ctMxtwjmV4oMh",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-12": {
+    "candidates": [
+      "4QjQ471Rwz0EBfdqmkCe0W"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=01bdc7c4-1fca-3c5b-880f-f70d22923021&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-12-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/7E3wccLGVLjFMrmFh9PmsG.json",
+        "albumName": "The Nylons",
+        "id": "4QjQ471Rwz0EBfdqmkCe0W"
+      }
+    ],
+    "accepted": "4QjQ471Rwz0EBfdqmkCe0W",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-13": {
+    "candidates": [
+      "6WhvKh34hBNgNPsIFtcNUV"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=db7d0504-07c7-383f-92f0-6fab0af205ba&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-13-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/5NuD3oMFTngWDni6HlIeDC.json",
+        "albumName": "Pleasures Of The Harbor",
+        "id": "6WhvKh34hBNgNPsIFtcNUV"
+      }
+    ],
+    "accepted": "6WhvKh34hBNgNPsIFtcNUV",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-16": {
+    "candidates": [
+      "4HNQuLdLVxVsx4dgX3KqIG"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=43852df2-b63b-4659-9a49-a665f57f282a&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Danseparc Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-16-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-9.json"
+    ],
+    "searched": true,
+    "accepted": "4HNQuLdLVxVsx4dgX3KqIG",
+    "note": "Expanded edition: the original nine songs plus an extended mix, These Dangerous Machines and a live Sins of Children.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/4HNQuLdLVxVsx4dgX3KqIG",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-19": {
+    "candidates": [
+      "7ecm7pavVsK2o0t7VjOx7e"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=0b6e5c9c-ed2b-3a20-879e-df905034a449&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Jerry Goodman Jan Hammer Like Children Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-19-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-9.json"
+    ],
+    "searched": true,
+    "accepted": "7ecm7pavVsK2o0t7VjOx7e",
+    "note": "2006 Wounded Bird reissue with the original nine tracks.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/7ecm7pavVsK2o0t7VjOx7e",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-21": {
+    "candidates": [
+      "5XXymqS9NunPlUbovZK8WJ"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=227c6452-7eae-39b3-aadc-2026a514da94&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-21-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/6CIFONNOVR9frrraKZpiPi.json",
+        "albumName": "Sleeper Catcher (Remastered 2022)",
+        "id": "5XXymqS9NunPlUbovZK8WJ"
+      }
+    ],
+    "accepted": "5XXymqS9NunPlUbovZK8WJ",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-25": {
+    "candidates": [
+      "5WG98sokaJf5aKRPZFu6vv"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=aa0ae3c6-e60c-420b-9bd4-b79b6398fea1&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Ann Mortifee Baptism Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-25-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/68N4cz8k5YZmrd56V5PtFW.json",
+        "albumName": "Baptism",
+        "id": "5WG98sokaJf5aKRPZFu6vv"
+      }
+    ],
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-9.json"
+    ],
+    "searched": true,
+    "accepted": "5WG98sokaJf5aKRPZFu6vv",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences."
+  },
+  "upper-middle-27": {
+    "candidates": [
+      "6akyDE8MsL4u99uNzyD9OH"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=05142a4f-6f1a-3b79-89a6-65e192bdbd2b&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-27-mb.json",
+    "accepted": "6akyDE8MsL4u99uNzyD9OH",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-29": {
+    "candidates": [
+      "6pU4Phbac7CrQiJHwOYpCs"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=a5a80fd5-33fc-3109-9b6d-cacfe5513d95&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-29-mb.json",
+    "publisherUrl": "https://www.shawnphillips.com/discography/tracks_contribution.pdf",
+    "accepted": "6pU4Phbac7CrQiJHwOYpCs",
+    "note": "Digital edition with all eight original Contribution tracks.",
+    "checks": "All eight original tracks match Shawn Phillips’s artist-published Contribution track sheet and the original LP programme.",
+    "searched": true,
+    "additionalEvidence": [
+      {
+        "type": "artist_programme",
+        "url": "https://www.shawnphillips.com/discography/tracks_contribution.pdf"
+      },
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/6pU4Phbac7CrQiJHwOYpCs",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-30": {
+    "candidates": [
+      "6zjenDV68SpvM3oEhorTDm",
+      "3CFvXqcpExyflhLk09i7vs"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=92e9a813-265a-3ddb-a5ad-5daac76af8b1&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-30-mb.json",
+    "accepted": "6zjenDV68SpvM3oEhorTDm",
+    "note": "Original ten-track Ringo album, with three bonus tracks.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/6zjenDV68SpvM3oEhorTDm.json",
+        "albumName": "Ringorama",
+        "id": "3CFvXqcpExyflhLk09i7vs"
+      }
+    ],
+    "searched": true
+  },
+  "upper-middle-32": {
+    "candidates": [
+      "2tjA3znrZDOMZJG9o3O8QF"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=ee398fcf-a851-37ff-91c1-c0c10f703342&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-32-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-manhattan.json",
+        "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc",
+        "name": "Mecca For Moderns"
+      }
+    ],
+    "accepted": "2tjA3znrZDOMZJG9o3O8QF",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-33": {
+    "candidates": [
+      "05c2I5XW6wg8zFO45Moipf"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=256d25a8-b16a-3781-978f-91a9a2f5e31b&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Leo Kottke Greenhouse",
+      "Leo Kottke Greenhouse Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-33-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-17.json",
+      "site/research/spotify-link-evidence-middle/web-batch-22.json"
+    ],
+    "searched": true,
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/4tx6bGem7y70bmvxGj8N4F.json",
+        "albumName": "Greenhouse",
+        "id": "05c2I5XW6wg8zFO45Moipf"
+      }
+    ],
+    "accepted": "05c2I5XW6wg8zFO45Moipf",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences."
+  },
+  "upper-middle-35": {
+    "candidates": [
+      "4llUmcbYvKbAK61Wni0dFc",
+      "3Y7u8EBiz1mIUA5ODEGcn7",
+      "1qVP93dewrI7bukJAFPIvV",
+      "7M85WHjugitVQsHJZLBd1w"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=1c48487e-ae95-3197-9158-dbc23a26cc5d&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-35-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/7FePxKmwHIfBgl8PTANoww.json",
+        "albumName": "The Roaring Silence",
+        "id": "1qVP93dewrI7bukJAFPIvV"
+      },
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/7FePxKmwHIfBgl8PTANoww.json",
+        "albumName": "The Roaring Silence (50th Anniversary)",
+        "id": "7M85WHjugitVQsHJZLBd1w"
+      }
+    ],
+    "accepted": "4llUmcbYvKbAK61Wni0dFc",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-36": {
+    "candidates": [],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=fd4e19e9-928d-43ac-bc29-de36a8a71eac&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-36-mb.json",
+    "searched": true,
+    "reason": "No full Landscapes album was verified after Valdy album/track searches, MusicBrainz release-link checks and the public artist discography. Live albums and the Best of Valdy compilation are different programmes.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_full_discography_negative_check",
+        "url": "https://open.spotify.com/artist/6OHv7r7q1Csc7Ygz86gk8O",
+        "checks": "Full native discography listed Read Between the Lines, Viva Valdy: Live at Last, Contenders, and The Best of Valdy. No matching full Landscapes ID was verified.",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-40": {
+    "candidates": [
+      "7J0OL2Ai73lJZu06coM0Oo",
+      "0AS7glCRD7wQY8jSxR6uUN"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=fe9bfd8f-0294-3fda-8bc3-fae55726a4a7&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-40-mb.json",
+    "accepted": "7J0OL2Ai73lJZu06coM0Oo",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/2LYPJHnU2WC7RbHXvJxXZX.json",
+        "albumName": "Visions of the Emerald Beyond",
+        "id": "0AS7glCRD7wQY8jSxR6uUN"
+      }
+    ],
+    "searched": true
+  },
+  "upper-middle-41": {
+    "candidates": [
+      "4zaWUNHIM0EQ5jrdCCeckl",
+      "6yvDDUpJMikftO91NDLK8H"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=a4029b0f-8a4a-371a-bfa1-484435a742e5&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-41-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-jeff-beck.json",
+        "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl",
+        "name": "Live +"
+      }
+    ],
+    "rejections": [
+      {
+        "spotifyId": "4zaWUNHIM0EQ5jrdCCeckl",
+        "reason": "Spotify Live+ is JeffBeck2015, not TheSensationalAlexHarveyBand1975Live. Generic-title discovery candidate rejected after primaryartist metadata check."
+      },
+      {
+        "spotifyId": "4zaWUNHIM0EQ5jrdCCeckl",
+        "reason": "Live+ is Jeff Beck’s 2015 album, not Alex Harvey’s 1975 album.",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ],
+    "accepted": "6yvDDUpJMikftO91NDLK8H",
+    "note": "2002 remaster of the seven-track 1975 Hammersmith live album.",
+    "checks": "Seven original Hammersmith live tracks match the LP rear programme, from Fanfare to Framed. The Alex Harvey credits and 2002 remaster agree; Jeff Beck’s unrelated Live+ is excluded.",
+    "searched": true,
+    "additionalEvidence": [
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/6yvDDUpJMikftO91NDLK8H",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-42": {
+    "candidates": [
+      "0pw7israVwwlYs9GfV56sA"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=8405a4ad-d5d9-407b-b34a-b09b9cc52964&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "site:open.spotify.com/album Alex Harvey Tomorrow Belongs to Me"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-42-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/6anl2vYU9wr5h1kEh5XAQ4.json",
+        "albumName": "Tomorrow Belongs To Me (Remastered 2002)",
+        "id": "0pw7israVwwlYs9GfV56sA"
+      }
+    ],
+    "accepted": "0pw7israVwwlYs9GfV56sA",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-06.json"
+    ],
+    "searched": true
+  },
+  "upper-middle-44": {
+    "candidates": [
+      "2LYPJHnU2WC7RbHXvJxXZX",
+      "6ItN9BuuqueRCnDbyevOSV"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=9bc02bbb-5ed0-38ff-a64a-145bea9ea5e1&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-44-mb.json",
+    "accepted": "2LYPJHnU2WC7RbHXvJxXZX",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/2LYPJHnU2WC7RbHXvJxXZX.json",
+        "albumName": "Apocalypse",
+        "id": "6ItN9BuuqueRCnDbyevOSV"
+      }
+    ],
+    "searched": true
+  },
+  "upper-middle-45": {
+    "candidates": [
+      "6oU298pdPTCQnMx1PYwyUA"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=c71e6754-dbc9-3882-82ce-7d41457d1fb5&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-45-mb.json",
+    "accepted": "6oU298pdPTCQnMx1PYwyUA",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-46": {
+    "candidates": [
+      "0NWwuGPSfuj9H0OMUDikws"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=cb02a4a7-3ba3-330a-a61b-c3f73ca6e017&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "site:open.spotify.com/album Hot Tuna Burgers"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-46-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-hot-tuna.json",
+        "url": "https://open.spotify.com/artist/5tOrTQaBRD5yPHqbEwsRn7",
+        "name": "Burgers"
+      }
+    ],
+    "accepted": "0NWwuGPSfuj9H0OMUDikws",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-06.json"
+    ],
+    "searched": true
+  },
+  "upper-middle-48": {
+    "candidates": [
+      "5LEZHIvSR7NRc9J4ojDUwU",
+      "49ZkNYNNscP7wzn5iFsfKV"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=fc4dc30c-de62-3497-8fd3-b8cb253e2949&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-48-mb.json",
+    "accepted": "5LEZHIvSR7NRc9J4ojDUwU",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/5LEZHIvSR7NRc9J4ojDUwU.json",
+        "albumName": "George Harrison",
+        "id": "49ZkNYNNscP7wzn5iFsfKV"
+      }
+    ],
+    "searched": true
+  },
+  "upper-middle-49": {
+    "candidates": [
+      "6anl2vYU9wr5h1kEh5XAQ4",
+      "1dHbp5Ir4kN9q6PdHbjtBb"
+    ],
+    "queries": [
+      "site:open.spotify.com/album Sensational Alex Harvey Framed",
+      "https://musicbrainz.org/ws/2/release?release-group=c7976902-5a0a-3fd9-9690-1a410700e19a&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-49-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/6anl2vYU9wr5h1kEh5XAQ4.json",
+        "albumName": "Framed (Remastered 2002)",
+        "id": "1dHbp5Ir4kN9q6PdHbjtBb"
+      }
+    ],
+    "accepted": "1dHbp5Ir4kN9q6PdHbjtBb",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-06.json"
+    ],
+    "searched": true
+  },
+  "upper-middle-50": {
+    "candidates": [
+      "1O9T5fjUzGfSa609GiDEJY"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=2cc6b64f-2268-34d8-aee5-77573b70d16f&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-50-mb.json",
+    "accepted": "1O9T5fjUzGfSa609GiDEJY",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-51": {
+    "candidates": [],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=cd07bf88-0652-4f85-8a6e-0cb755409fb6&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Randy Pie Kitsch Spotify album",
+      "Randy Pie Kitsch"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-51-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-7.json",
+      "site/research/spotify-link-evidence-middle/web-batch-17.json"
+    ],
+    "searched": true,
+    "reason": "No complete Kitsch album was verified after album, track, artist and MusicBrainz searches. The native full Randy Pie discography showed the 1973 self-titled album; Highway Driver is a different programme.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_full_discography_negative_check",
+        "url": "https://open.spotify.com/artist/1jjLd3e6WhxQPNBsudMFmV",
+        "checks": "Full native discography listed the 1973 self-titled album; Highway Driver was separately verified but is a different programme. No matching full Kitsch album ID was verified.",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-53": {
+    "candidates": [
+      "12QmkIQGZNUvznHOO0EF57",
+      "200p7O3raeXT2jNhmzK4TE"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=38ebbc75-c6e0-3576-bd42-802b2e4850c6&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-53-mb.json",
+    "accepted": "12QmkIQGZNUvznHOO0EF57",
+    "note": "2010 deluxe edition includes the original 1975 stereo mixes, the 2010 remix and bonus material.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-54": {
+    "candidates": [
+      "3TgphlKOMcXFPxqCfCDUyW"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=1485b30f-44bf-43f0-8586-e6ee9b1d9543&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Hall Oates No Goodbyes Spotify album",
+      "Hall Oates No Goodbyes"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-54-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-7.json",
+      "site/research/spotify-link-evidence-middle/web-batch-17.json"
+    ],
+    "searched": true,
+    "accepted": "3TgphlKOMcXFPxqCfCDUyW",
+    "note": "Original ten-track compilation; She’s Gone uses a 2013 remaster of the full-length album version.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/3TgphlKOMcXFPxqCfCDUyW",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-55": {
+    "candidates": [
+      "4OBH90dcMvQQ2MsSCvsGRU"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=418e6962-b642-3e27-bb43-39520609774e&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Robert Palmer Some People Can Do What They Like Spotify album",
+      "Robert Palmer Some People Can Do What They Like"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-55-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-7.json",
+      "site/research/spotify-link-evidence-middle/web-batch-17.json"
+    ],
+    "searched": true,
+    "accepted": "4OBH90dcMvQQ2MsSCvsGRU",
+    "note": "Digital edition of the original ten-track Island album.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/4OBH90dcMvQQ2MsSCvsGRU",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-56": {
+    "candidates": [
+      "5t4CAhibBYA2ZLrkYlkwkb",
+      "0fw2TUCTz9nP7Ef2plUUHR"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=a111fad3-8dfc-4b1d-891d-eb7d132a6938&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-56-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/5t4CAhibBYA2ZLrkYlkwkb.json",
+        "albumName": "Don't Cry Out Loud",
+        "id": "0fw2TUCTz9nP7Ef2plUUHR"
+      }
+    ],
+    "accepted": "0fw2TUCTz9nP7Ef2plUUHR",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-57": {
+    "candidates": [
+      "17XQ8XXptDzjiios4VgF4G",
+      "7pwpD5MBrM0q2kCJ6WlR3e"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=e2e1f4a1-2725-4f47-9ba5-3b01969cd589&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Artie Kaplan Confessions Male Chauvinist Pig Spotify"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-57-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-artie.json",
+        "url": "https://open.spotify.com/artist/1FHsJPrgmngvUwRjI09SQM",
+        "name": "Confessions Of A Male Chauvinist Pig"
+      },
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-artie.json",
+        "url": "https://open.spotify.com/artist/1FHsJPrgmngvUwRjI09SQM",
+        "name": "Confessions Of A Male Chauvinist Pig"
+      }
+    ],
+    "accepted": "17XQ8XXptDzjiios4VgF4G",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-7.json"
+    ],
+    "searched": true
+  },
+  "upper-middle-58": {
+    "candidates": [
+      "0Mst0IQdIHqJ03mpun5aX6",
+      "5Omy4PpDzKdGwwXUoAZMiA"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=bc43d2cc-d7f5-371b-8738-0e05450fc734&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Landscape Tea Rooms Mars Hell Holes Uranus Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-58-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/0Mst0IQdIHqJ03mpun5aX6.json",
+        "albumName": "From the Tea Rooms of Mars...To the Hell Holes of Uranus (Expanded Edition)",
+        "id": "5Omy4PpDzKdGwwXUoAZMiA"
+      }
+    ],
+    "accepted": "0Mst0IQdIHqJ03mpun5aX6",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-8.json"
+    ],
+    "searched": true
+  },
+  "upper-middle-59": {
+    "candidates": [
+      "7GWTeFyEAmLUNYHwba9YvX"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=b1dc278a-ddeb-36ce-856d-ea633649e9eb&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-59-mb.json",
+    "accepted": "7GWTeFyEAmLUNYHwba9YvX",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-60": {
+    "candidates": [
+      "04nw8UHJN4CmQX06dtuwHc"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=89f2c8d0-bacc-31b3-801d-0ee4e2f0f646&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Sensational Alex Harvey Impossible Dream Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-60-mb.json",
+    "accepted": "04nw8UHJN4CmQX06dtuwHc",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-8.json"
+    ],
+    "searched": true
+  },
+  "upper-middle-61": {
+    "candidates": [
+      "6p4QN4Wmr0INaIDjwt6g1y"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=e19501db-9d54-34db-b713-961080c42a49&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Klaatu Hope Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-61-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-8.json"
+    ],
+    "searched": true,
+    "accepted": "6p4QN4Wmr0INaIDjwt6g1y",
+    "note": "Digital edition of the original eight-track 1977 album.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/6p4QN4Wmr0INaIDjwt6g1y",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "upper-middle-63": {
+    "candidates": [
+      "6Gdf5vvFmoEwcsEV61tXiT"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=9e64450d-608d-3d85-b881-9b1de24f9195&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-63-mb.json",
+    "accepted": "6Gdf5vvFmoEwcsEV61tXiT",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "upper-middle-64": {
+    "candidates": [
+      "6oJ6sddUDnE9mGXcCAyas5"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=d9f122d1-2d0b-3ce8-bc58-f5e462d73bec&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Martha Muffins Trance Dance Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-64-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-martha.json",
+        "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK",
+        "name": "Trance And Dance"
+      }
+    ],
+    "accepted": "6oJ6sddUDnE9mGXcCAyas5",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-8.json"
+    ],
+    "searched": true
+  },
+  "upper-middle-65": {
+    "candidates": [
+      "73tCFHKcBNnxsVQ5fvpcxJ"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=fc247905-c4ad-4cc8-8283-7c3893b84642&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/upper-middle-65-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-martha.json",
+        "url": "https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK",
+        "name": "This Is The Ice Age"
+      }
+    ],
+    "accepted": "73tCFHKcBNnxsVQ5fvpcxJ",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-01": {
+    "candidates": [
+      "0VQwi7VjTKpCgkIC5vGei3"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=74b83d36-ba48-3951-bd4a-380461bae9a8&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Doug Slugs Cognac Bologna Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-01-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-doug-slugs.json",
+        "url": "https://open.spotify.com/artist/27IiBnsezRebPDud7D8l6Z",
+        "name": "Cognac and Bologna (2021 Remaster)"
+      }
+    ],
+    "accepted": "0VQwi7VjTKpCgkIC5vGei3",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-10.json"
+    ],
+    "searched": true
+  },
+  "lower-middle-02": {
+    "candidates": [
+      "4ts0dJVtCTnvIHpp6nYSBa",
+      "3aCLAawBp6otf4nWAEQts0"
+    ],
+    "queries": [
+      "Tchaikovsky Ballet Album Eugene Ormandy"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-02-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-13.json"
+    ],
+    "searched": true,
+    "reason": "No complete original Ormandy/Philadelphia three-ballet programme was verified. Spotify’s Ormandy anthology contains only selected Nutcracker and Sleeping Beauty material and omits Swan Lake; the Sleeping Beauty/Respighi album is a different coupling. Other ballet albums have different conductors or recordings."
+  },
+  "lower-middle-03": {
+    "candidates": [
+      "28qbOp4dEh18N5u6FInyOO"
+    ],
+    "queries": [
+      "Cabaret Original Soundtrack 1972 Liza Minnelli"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-03-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-13.json"
+    ],
+    "searched": true,
+    "accepted": "28qbOp4dEh18N5u6FInyOO",
+    "note": "Original 1972 film soundtrack with Joel Grey, Liza Minnelli and Ralph Burns; all twelve original tracks."
+  },
+  "lower-middle-05": {
+    "candidates": [
+      "1Nz6fPnkVpB2nfPOHr4Vbe"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=6ba825a9-def2-4bb8-9506-6ef8da09ec0f&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Stravinsky Great Ballets Haitink Firebird 1974 Philips Spotify",
+      "Stravinsky Firebird complete Bernard Haitink London Philharmonic"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-05-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-21.json",
+      "site/research/spotify-link-evidence-middle/web-batch-13.json"
+    ],
+    "searched": true,
+    "accepted": "1Nz6fPnkVpB2nfPOHr4Vbe",
+    "note": "1993 Great Ballets reissue: the first fifteen tracks contain Haitink and the London Philharmonic’s complete Firebird recording. Other ballet recordings follow.",
+    "checks": "Philips LP 6500483 and the publisher’s reissue identify Haitink/London Philharmonic, the complete 1910 score and the original 1973 recording. The first fifteen Spotify tracks match that work and performance.",
+    "publisherUrl": "https://www.deutschegrammophon.com/en/catalogue/products/stravinsky-the-great-ballets-london-philharmonic-orchestra-4014"
+  },
+  "lower-middle-06": {
+    "candidates": [
+      "5qSe8soVjEvU4D2yeaHx0E",
+      "6oz81LXIv0VLPkb0nXUHZe"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=c1a0bfab-43fc-463d-ab52-e62b114a0294&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Ozawa Ravel Rapsodie espagnole 1974 Spotify Deutsche Grammophon",
+      "Ravel Bolero Rapsodie Espagnole La Valse Seiji Ozawa Boston"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-06-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-21.json",
+      "site/research/spotify-link-evidence-middle/web-batch-13.json"
+    ],
+    "searched": true,
+    "accepted": "6oz81LXIv0VLPkb0nXUHZe",
+    "note": "2011 reissue of Ozawa and the Boston Symphony’s original DG recordings. The full LP programme is present, with Pavane, Une barque sur l’océan and Menuet antique added.",
+    "checks": "Publisher session metadata identifies Boléro as 22 April 1974, Symphony Hall, Boston, with ISRC DEF057401790 and duration 901 seconds. Original LP personnel and the full Rapsodie espagnole/La Valse programme match. The LP’s shorter printed Boléro timing is a timing discrepancy, not a different session.",
+    "publisherUrl": "https://www.deutschegrammophon.com/en/catalogue/products/ravel-bolero-rapsodie-espagnole-ozawa-2950",
+    "additionalEvidence": [
+      {
+        "type": "publisher_session_extract",
+        "url": "https://www.deutschegrammophon.com/en/catalogue/products/ravel-bolero-ozawa-2950",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-classical-publisher-extracts.json"
+      }
+    ]
+  },
+  "lower-middle-07": {
+    "candidates": [],
+    "queries": [
+      "Kyriale Prières Litaniques Anciennes Gajard Solesmes",
+      "site:open.spotify.com Kyriale Gajard",
+      "site:open.spotify.com Chant Prières Litaniques",
+      "site:open.spotify.com Divinae Pacis Solesmes",
+      "site:open.spotify.com Litanies Gajard",
+      "site:open.spotify.com World Of Gregorian Chant"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-07-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-14.json"
+    ],
+    "searched": true,
+    "reason": "No complete Spotify edition of the SPA4034 programme was verified. Same-choir Kyriale releases omit the original LP rear-side ancient litanies, so they are partial programmes rather than this album. The similarly titled World of Gregorian Chant has John McCarthy and the Carmelite Priory choir, a different performance.",
+    "assistanceEvidence": "site/research/spotify-link-evidence-middle/right-classical-assistance.json",
+    "rejections": [
+      {
+        "spotifyId": "0bvXm1QqUeZeVOUV4iJ5vC",
+        "reason": "Includes Masses VIII/XV/XVI but substitutes Vespers and Compline; lacks the LP selections Gloria in Excelsis Deo (Grande Doxologie), Divinae Pacis, Litanies du Sacré-Coeur and Christus Vincit.",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-0bvXm1QqUeZeVOUV4iJ5vC.metadata.json"
+      },
+      {
+        "spotifyId": "1AORM3mluVZAcU1HzCnDv1",
+        "reason": "Masses XV/XVI only; different eight-track programme.",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-1AORM3mluVZAcU1HzCnDv1.metadata.json"
+      }
+    ]
+  },
+  "lower-middle-08": {
+    "candidates": [
+      "77mkqTnFizKRkbid4FNK54"
+    ],
+    "queries": [
+      "Previn Images Prélude après midi faune Warner Classics Spotify",
+      "Debussy Images Previn",
+      "Debussy Images Prelude faune Andre Previn London Symphony"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-08-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-21.json",
+      "site/research/spotify-link-evidence-middle/web-batch-20.json",
+      "site/research/spotify-link-evidence-middle/web-batch-14.json"
+    ],
+    "searched": true,
+    "accepted": "77mkqTnFizKRkbid4FNK54",
+    "note": "Digital reissue of Previn and the London Symphony’s 1979 Images and Prélude recordings; Nocturnes is an added coupling.",
+    "checks": "Publisher-supplied description identifies the EMI 1979 first digital recording by Previn and the London Symphony. All Images sections and Prélude from Angel DS37674 are present; the different Jansons/Haitink Concertgebouw album is excluded.",
+    "publisherUrl": "https://www.qobuz.com/it-it/album/prelude-a-lapres-midi-dun-faune-images-nocturnes-claude-debussy/0094639196654"
+  },
+  "lower-middle-09": {
+    "candidates": [],
+    "queries": [
+      "Care Bears Birthday Party"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-09-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-18.json"
+    ],
+    "searched": true,
+    "reason": "No original Kid Stuff KSS5050 Birthday Party album was verified after title, label and Care Bears artist searches. Modern Care Bears music and a Surprise Birthday Party track belong to a different programme."
+  },
+  "lower-middle-10": {
+    "candidates": [
+      "3eXETk1esvZPRluDCWH3GN"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=c3702e7c-ba43-4032-859c-7378d7414fb1&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "B52s The B52s 1979 Spotify album",
+      "The B-52's album 1979",
+      "B-52s debut Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-10-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-10.json",
+      "site/research/spotify-link-evidence-middle/web-batch-19.json",
+      "site/research/spotify-link-evidence-middle/web-batch-22.json"
+    ],
+    "searched": true,
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/5BAzAODqIwttjj7wxmlNMS.json",
+        "albumName": "The B-52's",
+        "id": "3eXETk1esvZPRluDCWH3GN"
+      }
+    ],
+    "accepted": "3eXETk1esvZPRluDCWH3GN",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences."
+  },
+  "lower-middle-12": {
+    "candidates": [
+      "0BraHaTTDIpOUW0bZmv5Gx"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=688544a3-3391-3995-ac58-6354730d83ec&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Hoyt Axton Snowblind Friend Spotify album",
+      "Snowblind Friend Hoyt Axton",
+      "Hoyt Axton Snowblind Friend Spotify"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-12-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-10.json",
+      "site/research/spotify-link-evidence-middle/web-batch-19.json",
+      "site/research/spotify-link-evidence-middle/web-batch-22.json"
+    ],
+    "searched": true,
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-hoyt-track.json",
+        "url": "https://open.spotify.com/track/4NAT9G8Rdv8yfyIA2RUOuB",
+        "name": "Snowblind Friend"
+      }
+    ],
+    "accepted": "0BraHaTTDIpOUW0bZmv5Gx",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences."
+  },
+  "lower-middle-13": {
+    "candidates": [
+      "59YgN6lkfyjR1T2SpHkJSw"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=8fe813b8-514e-354c-ad56-853d1f7b3bae&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-13-mb.json",
+    "accepted": "59YgN6lkfyjR1T2SpHkJSw",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-14": {
+    "candidates": [
+      "3tOAEWaHp09NFvTt97Uch9"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=4aec9521-8ff9-3cc0-8177-f84bed64d779&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Argent In Deep Spotify album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-14-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-10.json"
+    ],
+    "searched": true,
+    "note": "Digital edition of the original eight-track 1973 album.",
+    "checks": "Original eight-track LP order matches the Sony Spotify album: God Gave Rock and Roll to You through Rosie.",
+    "accepted": "3tOAEWaHp09NFvTt97Uch9",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/3tOAEWaHp09NFvTt97Uch9",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "lower-middle-15": {
+    "candidates": [],
+    "queries": [
+      "All That Jazz Original Motion Picture Soundtrack 1979"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-15-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-14.json"
+    ],
+    "searched": true,
+    "reason": "No full original fourteen-track Ralph Burns/Ben Vereen All That Jazz film soundtrack was verified after album, performer and song searches and Ralph Burns’s native full discography. An unofficial Spotify playlist substitutes other performances and is rejected.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_full_discography_negative_check",
+        "url": "https://open.spotify.com/artist/3kt1xo56PyGb13t2OCf08h",
+        "checks": "Ralph Burns full native discography contains jazz albums; no original 14-track All That Jazz film soundtrack was verified. An unofficial playlist uses substitute performances and is rejected.",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "lower-middle-16": {
+    "candidates": [
+      "4KjnEDSp1XsTYMbsYLFC1e"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=e9807abd-4144-3b17-b7e9-f8dc5f97460e&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-16-mb.json",
+    "accepted": "4KjnEDSp1XsTYMbsYLFC1e",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-19": {
+    "candidates": [
+      "5fxvWHvIDPIALfTfRiwyB0",
+      "53YfKqwV8lphizo06QSxEe"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=bb13cb45-254c-3a61-89a5-15d22a97e6d6&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-19-mb.json",
+    "accepted": "53YfKqwV8lphizo06QSxEe",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-23": {
+    "candidates": [],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=982b85ae-b4b9-407d-a2eb-1dc4f8d3ffa0&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Bim Kid Full Of Dreams"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-23-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-11.json"
+    ],
+    "searched": true,
+    "reason": "No full original Bim Kid Full of Dreams album was verified after album and track searches, MusicBrainz release checks and the Roy Forbes artist catalogue. Later Roy Forbes albums are different programmes; the modern BIM artist page is unrelated.",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_full_discography_negative_check",
+        "url": "https://open.spotify.com/artist/0M2XWqbJ87IJXG2irhA1nk",
+        "checks": "Correct Roy Forbes artist profile was checked in native full discography; no matching Kid Full of Dreams album ID was verified. Search results for a modern BIM artist were rejected as a different performer.",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "lower-middle-24": {
+    "candidates": [
+      "0vo9nZNFMaFASINLCzmzcU"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=1caefbb6-c4ac-3954-85ba-b512fc2da959&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Jeff Beck Wired",
+      "Wired Jeff Beck",
+      "Jeff Beck Wired Spotify album 1976"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-24-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-jeff-beck.json",
+        "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl",
+        "name": "Wired"
+      }
+    ],
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-11.json",
+      "site/research/spotify-link-evidence-middle/web-batch-19.json",
+      "site/research/spotify-link-evidence-middle/web-batch-22.json"
+    ],
+    "searched": true,
+    "accepted": "0vo9nZNFMaFASINLCzmzcU",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences."
+  },
+  "lower-middle-27": {
+    "candidates": [],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=e1feb03d-86f9-4a11-bb58-a6153b63288b&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Long John Baldry Baldry Out"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-27-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-11.json"
+    ],
+    "searched": true,
+    "reason": "No original 1979 Baldry’s Out! studio album was verified after album, track, artist and release-link searches. On Stage Tonight: Baldry’s Out is a later live performance, not this LP."
+  },
+  "lower-middle-29": {
+    "candidates": [
+      "1VuNXmZV6eIfUwglRlM9Ya"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=57b5b8e5-f402-3406-af89-01c92cda5217&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-29-mb.json",
+    "accepted": "1VuNXmZV6eIfUwglRlM9Ya",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-30": {
+    "candidates": [
+      "4SxhwzlhAfa0FgYHrGfGz8",
+      "4gbZS6jj6ufbiSG4C8jLv5"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=d3d9f1bb-8b4b-3bc0-b544-dd3c8b776fec&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Blondie Eat to the Beat"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-30-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/1VuNXmZV6eIfUwglRlM9Ya.json",
+        "albumName": "Eat To The Beat",
+        "id": "4SxhwzlhAfa0FgYHrGfGz8"
+      }
+    ],
+    "accepted": "4gbZS6jj6ufbiSG4C8jLv5",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-11.json"
+    ],
+    "searched": true
+  },
+  "lower-middle-31": {
+    "candidates": [
+      "2yqVIoYAgSnupSUuQVaYX0"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=9dc36597-f457-3389-a25e-2ee134a1ef98&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Strawbs From the Witchwood"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-31-mb.json",
+    "accepted": "2yqVIoYAgSnupSUuQVaYX0",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-12.json"
+    ],
+    "searched": true
+  },
+  "lower-middle-33": {
+    "candidates": [
+      "5kjFBoJJmEaeoroLKnemAN"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=4cd038b0-21f6-3d82-bf98-1af964ef383c&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-33-mb.json",
+    "accepted": "5kjFBoJJmEaeoroLKnemAN",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-34": {
+    "candidates": [
+      "4jn7W0TicjybZdqpd3Sdda",
+      "3ODt64EiOqXvwR5fEIWlWy"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=54459dcf-4964-3c22-ad08-bb2f4dfa4131&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-34-mb.json",
+    "accepted": "4jn7W0TicjybZdqpd3Sdda",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/4jn7W0TicjybZdqpd3Sdda.json",
+        "albumName": "The Crossing",
+        "id": "3ODt64EiOqXvwR5fEIWlWy"
+      }
+    ],
+    "searched": true
+  },
+  "lower-middle-35": {
+    "candidates": [],
+    "queries": [
+      "Grujon Mony Alister WGS8196 Spotify",
+      "Walter Mony Kathleen Alister Spotify",
+      "Lucien Grujon flute trios Spotify"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-35-mb.json",
+    "searched": true,
+    "reason": "No Spotify album matching the WGS8196 Grujon/Mony/Alister trio and Bax/Lavry/Voss/Ma’Ayani programme was verified after performer and catalogue searches. Other flute/viola/harp trios have different performers."
+  },
+  "lower-middle-36": {
+    "candidates": [
+      "3M5idfqFUxge3skgZQu4R3"
+    ],
+    "queries": [
+      "Prokofiev Romeo Juliet Andre Previn London Symphony"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-36-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-14.json"
+    ],
+    "searched": true,
+    "accepted": "3M5idfqFUxge3skgZQu4R3",
+    "note": "Complete 1973 Previn/London Symphony ballet recording, including the movements selected for the photographed abridged LP.",
+    "checks": "The original Angel S37020 release is an abridged selection of Previn’s 1973 London Symphony ballet recording. The Warner digital album contains the complete recording and all selected LP movements.",
+    "publisherUrl": "https://www.warnerclassics.com/release/prokofiev-romeo-and-juliet-0"
+  },
+  "lower-middle-37": {
+    "candidates": [],
+    "queries": [
+      "Mozart Debost Barshai flute",
+      "Debost Barshai Mozart Flute Concertos",
+      "site:open.spotify.com/album Mozart Debost Barshai Flute Concertos",
+      "site:open.spotify.com Michel Debost Barshai",
+      "site:open.spotify.com Debost Mozart concerto",
+      "Mozart Debost Barshai Spotify",
+      "MusicBrainz release:Flute Concertos AND artist:Michel Debost"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-37-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-20.json",
+      "site/research/spotify-link-evidence-middle/web-batch-15.json"
+    ],
+    "searched": true,
+    "reason": "No Spotify album of the Debost/Moscow Chamber Orchestra/Barshai recording was verified. Debost Mozart material found on Spotify credits Orchestre de Paris/Daniel Barenboim, which is a different recording. Rampal/Ristenpart and Debost/Fournet flute-and-harp concerto results also have different performers or repertoire.",
+    "assistanceEvidence": "site/research/spotify-link-evidence-middle/right-classical-assistance.json",
+    "rejections": [
+      {
+        "spotifyId": null,
+        "reason": "The same soloist performs with Orchestre de Paris under Daniel Barenboim; the family LP is the Moscow Chamber Orchestra under Rudolf Barshai.",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-0fwWnw0nqNoZEoVIRAjTwj.metadata.json"
+      },
+      {
+        "spotifyId": null,
+        "reason": "Official Spotify page credits Jean-Pierre Rampal, Saar Chamber Orchestra and Karl Ristenpart; none is the family LP soloist/ensemble/conductor.",
+        "evidenceFile": null
+      }
+    ]
+  },
+  "lower-middle-38": {
+    "candidates": [
+      "0CqtuU0nqtDWP7tqN14hBA"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=495d3b40-04be-3d44-8e90-58810e36f3c7&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "https://d24ku69pnn7av2.cloudfront.net/decca-classics-booklets/2020/485_0374_ZM_LAPO_DigitalBkt.pdf"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-38-mb.json",
+    "accepted": "0CqtuU0nqtDWP7tqN14hBA",
+    "searched": true,
+    "note": "1994 Decca coupling: the first six tracks contain the original 1978 Los Angeles/Mehta Symphony No. 3 recording. Symphony No. 1 follows.",
+    "publisherUrl": "https://d24ku69pnn7av2.cloudfront.net/decca-classics-booklets/2020/485_0374_ZM_LAPO_DigitalBkt.pdf",
+    "checks": "The Decca booklet identifies Symphony No. 3 as recorded at Royce Hall, Los Angeles, 27–31 March 1978, with Mehta, Forrester, California Boys Choir and Los Angeles Master Chorale. Those performers and all six movements occupy the first six Spotify tracks.",
+    "additionalEvidence": [
+      {
+        "type": "publisher_recording_booklet",
+        "url": "https://d24ku69pnn7av2.cloudfront.net/decca-classics-booklets/2020/485_0374_ZM_LAPO_DigitalBkt.pdf",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-mehta-decca-booklet-extract.json"
+      }
+    ]
+  },
+  "lower-middle-39": {
+    "candidates": [
+      "2Eyofq6zx9osCobx1WiOCR"
+    ],
+    "queries": [
+      "https://www.deutschegrammophon.com/en/catalogue/products/vivaldi-vier-jahreszeiten-schwalbe-karajan-10290"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-39-mb.json",
+    "publisherUrl": "https://www.deutschegrammophon.com/en/catalogue/products/vivaldi-vier-jahreszeiten-schwalbe-karajan-10290",
+    "checks": "The official DG Four Seasons page directly links this Spotify album. Its first twelve tracks credit Michel Schwalbé, Karajan and the Berliner Philharmoniker, matching the original LP; the later CD adds Albinoni and Corelli.",
+    "accepted": "2Eyofq6zx9osCobx1WiOCR",
+    "searched": true,
+    "note": "1985 CD/digital reissue of Schwalbé and Karajan’s original Four Seasons recording, with Albinoni and Corelli works added."
+  },
+  "lower-middle-40": {
+    "candidates": [
+      "317b74rpNBO2uhaJFyMaxJ",
+      "0yTzARM39lrrWIEIPznar8"
+    ],
+    "queries": [
+      "https://www.deutschegrammophon.com/en/catalogue/products/stravinsky-sacre-bartok-karajan-7497"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-40-mb.json",
+    "publisherUrl": "https://www.deutschegrammophon.com/en/catalogue/products/stravinsky-sacre-bartok-karajan-7497",
+    "note": "2007 DG Originals reissue of Karajan and Berlin’s early 1963/64 Rite of Spring recording, with the 1966 Bartók concerto added.",
+    "accepted": "0yTzARM39lrrWIEIPznar8",
+    "searched": true,
+    "checks": "The official DG page directly links this Spotify album. Publisher track metadata dates the Rite of Spring session to 19 October 1963, with first release in 1964, matching SLPM138920 and excluding Karajan’s 1977 remake.",
+    "additionalEvidence": [
+      {
+        "type": "publisher_session_extract",
+        "url": "https://www.deutschegrammophon.com/en/catalogue/products/stravinsky-sacre-bartok-karajan-7497",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-classical-publisher-extracts.json"
+      }
+    ]
+  },
+  "lower-middle-41": {
+    "candidates": [],
+    "queries": [
+      "Charles Benbow Bach Chartres",
+      "site:open.spotify.com/album Charles Benbow Bach Chartres",
+      "site:open.spotify.com Charles Benbow",
+      "site:open.spotify.com Benbow Bach",
+      "site:open.spotify.com Benbow Chartres",
+      "MusicBrainz artist:Charles Benbow AND release:Bach"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-41-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-15.json"
+    ],
+    "searched": true,
+    "reason": "No Charles Benbow/Chartres Cathedral Spotify album or corresponding organ artist page was verified. The four LP works are BWV565, BWV564, BWV542 and BWV548; substitute Bach organ recordings by another organist or on another instrument are not accepted.",
+    "assistanceEvidence": "site/research/spotify-link-evidence-middle/right-classical-assistance.json",
+    "rejections": []
+  },
+  "lower-middle-42": {
+    "candidates": [
+      "4t3PUwxLa6eg6K8nYinvXc"
+    ],
+    "queries": [
+      "Up With People 76 77 Show Album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-42-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-12.json"
+    ],
+    "searched": true,
+    "accepted": "4t3PUwxLa6eg6K8nYinvXc",
+    "note": "Digital package uses the original 1975–76 title. The photographed 1976–77 jacket is a renamed reissue of the same catalogue 1120 album; all twelve songs retain their original order. The digital theme song runs longer than the original label timing (3:51 versus 3:23).",
+    "checks": "The LP rear has catalogue 1120 and Copyright 1975. The original 75/76 and renamed 76/77 releases share the same catalogue, master and twelve-song programme. Spotify’s own-label digital album contains that complete programme in the same order. The original side-two label prints 3:23 for the theme, versus 3:51 digitally, so this verifies the album/reissue relation rather than an identical edit of that track.",
+    "additionalEvidence": [
+      {
+        "type": "original_LP_programme_and_reissue",
+        "url": "https://www.discogs.com/release/789557",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-42-discogs-release-789557.json"
+      },
+      {
+        "type": "original_label_timing",
+        "url": "https://www.discogs.com/release/789557",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-42-789557-5.jpg"
+      },
+      {
+        "type": "renamed_LP_edition",
+        "url": "https://www.discogs.com/release/6398551",
+        "evidenceFile": "site/research/deep-middle-evidence/discogs-6398551.json"
+      },
+      {
+        "type": "licensed_digital_edition",
+        "url": "https://music.apple.com/us/album/the-show-album-1975-1976/295023218"
+      }
+    ]
+  },
+  "lower-middle-43": {
+    "candidates": [
+      "1RwFfWrULLpVWn0oz3w2wI"
+    ],
+    "queries": [
+      "Scherchen Messiah Vienna State Opera Westminster 1959"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-43-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-15.json"
+    ],
+    "searched": true,
+    "accepted": "1RwFfWrULLpVWn0oz3w2wI",
+    "note": "2001 Westminster/DG reissue of Scherchen’s 1959 Vienna Messiah recording, with the original soloists and chorus.",
+    "checks": "DG publisher data identifies the 1959 Vienna recording and matches all Spotify track durations. Alarie, Merriman, Simoneau, Standen, Scherchen, Vienna State Opera Orchestra and Wiener Akademie Kammerchor match WGS8163-3; the 1953 London recording is excluded.",
+    "additionalEvidence": [
+      {
+        "type": "publisher_session_extract",
+        "url": "https://www.deutschegrammophon.com/en/catalogue/products/handel-messiah-scherchen-8711",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-handel-messiah-scherchen-8711-publisher-extract.json"
+      }
+    ]
+  },
+  "lower-middle-45": {
+    "candidates": [],
+    "queries": [
+      "Julian Bream Bach Villa Lobos",
+      "site:open.spotify.com Julian Bream Bach And Villa-Lobos",
+      "site:open.spotify.com Bream Bach Villa-Lobos 1956",
+      "Julian Bream SQN7765 Bach",
+      "MusicBrainz release:Bach And Villa-Lobos AND artist:Julian Bream"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-45-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-15.json"
+    ],
+    "searched": true,
+    "reason": "The exact Sine Qua Non SQN7765 Bach/Villa-Lobos compilation was not verified on Spotify. The LP rear identifies Bream’s 1956 Vienna sessions. Spotify carries the early Bach recital separately, but it lacks the five Villa-Lobos preludes; modern RCA and broad Bream anthologies are different packages and may contain later performances.",
+    "assistanceEvidence": "site/research/spotify-link-evidence-middle/right-classical-assistance.json",
+    "rejections": [
+      {
+        "spotifyId": "2DxA1kE23NCa5wakaEkUr0",
+        "reason": "Same early Vienna1956 Bach material, but no Villa-Lobos side. Cannot represent the complete photographed LP with this one album ID.",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-2DxA1kE23NCa5wakaEkUr0.metadata.json"
+      },
+      {
+        "spotifyId": "4CCfK5r53B1aMl5glTXNmh",
+        "reason": "Spanish Guitar (1964) has an entirely different eleven-piece programme, despite Bream/Villa-Lobos overlap.",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-4CCfK5r53B1aMl5glTXNmh.metadata.json"
+      }
+    ]
+  },
+  "lower-middle-47": {
+    "candidates": [
+      "3sgRIolGiFrAxLP7fkcu7x"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=cad7b90f-c9fb-4ce4-8906-b08f1b57e2c1&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Fred Penner Polka Dot Pony",
+      "Fred Penner Poco Polka Dot Pony reissue",
+      "site:open.spotify.com Fred Penner Poco",
+      "Official Fred Penner artist discography and current Poco editions"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-47-mb.json",
+    "checks": "Compared completeSpotify12-track programme against actualLPrelease2547761: If I Knew You Were Coming/Lil Liza Jane/The Cat Came Back/Piggyback Ride/The Bump/Poco/Ka-Lim-Ba/Never Smile at a Crocodile/Roller Skating/Joshua/Rattlin Bog/Julie Gerond andthePolkaDotPony.",
+    "publisherUrl": "https://www.discogs.com/release/2547761",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-12.json"
+    ],
+    "searched": true,
+    "reason": "Poco is a documented retitle of The Polka Dot Pony, but current Spotify editions have substantially longer versions of three songs: Cat Came Back (3:34 versus 2:52), Piggyback Ride (1:13 versus 0:59) and Julie Gerond (8:18 versus 7:40). Their relationship to the original performances remains unconfirmed. No closer complete edition was verified.",
+    "assistanceEvidence": "site/research/spotify-link-evidence-middle/right-classical-assistance.json",
+    "rejections": [
+      {
+        "spotifyId": "3sgRIolGiFrAxLP7fkcu7x",
+        "reason": "Twelve song titles/order match, but the three changed durations leave the recording version unverified.",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/3sgRIolGiFrAxLP7fkcu7x.json"
+      },
+      {
+        "spotifyId": "7kwhdBIF0QFgDe5LG0hocY",
+        "reason": "MNRK1992 Poco package has the same three longer versions; it does not close the recording gap.",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-7kwhdBIF0QFgDe5LG0hocY.metadata.json"
+      }
+    ]
+  },
+  "lower-middle-49": {
+    "candidates": [],
+    "queries": [
+      "Mary Poppins Dal McKennon Marni Nixon story",
+      "site:open.spotify.com Mary Poppins Storyteller",
+      "site:open.spotify.com Mary Poppins Dal",
+      "site:open.spotify.com Mary Poppins Camarata",
+      "site:open.spotify.com Mary Poppins Marni Nixon",
+      "MusicBrainz release:Mary Poppins AND catno:ST3922"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-49-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-16.json"
+    ],
+    "searched": true,
+    "reason": "No full ST3922 Dal McKennon/Marni Nixon Disneyland Storyteller album was verified. The official 2004 Storyteller single uses Karen Dotrice narration and a different programme. The Julie Andrews/Dick Van Dyke soundtrack and Legacy releases also do not match the LP cast.",
+    "assistanceEvidence": "site/research/spotify-link-evidence-middle/right-classical-assistance.json",
+    "rejections": [
+      {
+        "spotifyId": "2xjTIjw6eUd2lXPxC9uxAb",
+        "reason": "One2004 Karen Dotrice narration, not the1964 Dal McKennon/Marni Nixon/Bill Lee/Richard Sherman programme.",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-2xjTIjw6eUd2lXPxC9uxAb.metadata.json"
+      }
+    ]
+  },
+  "lower-middle-50": {
+    "candidates": [
+      "42KK3F8HTm1dyv5iFsCXdw",
+      "14TY9gKgbCeJeezD8uGnD4"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=a82c4b78-9e9a-390c-af1f-3c8a8a44c555&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-50-mb.json",
+    "note": "The original twelve-song Merry Christmas programme is digitally titled White Christmas. Spotify’s displayed date differs from the photographed pressing.",
+    "checks": "All twelve original MCA15024/Decca programme tracks are present in the LP side order, including original Bing Crosby backing performers. The public Canada observation shows all twelve tracks playable.",
+    "searched": true,
+    "accepted": "42KK3F8HTm1dyv5iFsCXdw",
+    "additionalEvidence": [
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "lower-middle-51": {
+    "candidates": [
+      "6h96rt3TzfayrnRhtM1V1V"
+    ],
+    "queries": [
+      "Igor Kipnis Bach Harpsichord Clavichord",
+      "Bach Works Harpsichord Clavichord Kipnis"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-51-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-16.json",
+      "site/research/spotify-link-evidence-middle/web-batch-20.json"
+    ],
+    "searched": true,
+    "accepted": "6h96rt3TzfayrnRhtM1V1V",
+    "note": "Sony reissue of Kipnis’s original Bach harpsichord and clavichord album, reordered across twenty-five digital tracks.",
+    "checks": "All original harpsichord/clavichord programme groups are present. Sony copyright identifies the original 1966 recording; Igor Kipnis is credited throughout. Digital order differs from the LP.",
+    "publisherUrl": "https://music.apple.com/us/album/bach-works-for-harpsichord-and-clavichord/476829252"
+  },
+  "lower-middle-52": {
+    "candidates": [
+      "42EkLNPS9SD2BvJrfv9bgY"
+    ],
+    "queries": [
+      "Anton Erna Heiller Janigro Bach harpsichord concertos Spotify",
+      "Bach Concertos 2 3 4 harpsichords Janigro Solisti Zagreb"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-52-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-21.json",
+      "site/research/spotify-link-evidence-middle/web-batch-16.json"
+    ],
+    "searched": true,
+    "reason": "The candidate Bach harpsichord-concerto album omits BWV1065’s third movement and substitutes Fauré’s Violin Sonata No. 1, first movement, with Akira Eguchi. It is not the complete HM52/53SD programme. No complete alternative with the original Janigro/Heiller/Pischner/Rapf performances was verified.",
+    "rejections": [
+      {
+        "spotifyId": "42EkLNPS9SD2BvJrfv9bgY",
+        "reason": "The candidate Bach harpsichord-concerto album omits BWV1065’s third movement and substitutes Fauré’s Violin Sonata No. 1, first movement, with Akira Eguchi. It is not the complete HM52/53SD programme. No complete alternative with the original Janigro/Heiller/Pischner/Rapf performances was verified.",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/42EkLNPS9SD2BvJrfv9bgY.json"
+      }
+    ]
+  },
+  "lower-middle-54": {
+    "candidates": [
+      "6bxIPfZ1TzyAfHdAbYrCZ8"
+    ],
+    "queries": [
+      "Schubert Trout Hephzibah Menuhin Amadeus Merrett",
+      "Hephzibah Menuhin Trout"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-54-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-16.json",
+      "site/research/spotify-link-evidence-middle/web-batch-20.json"
+    ],
+    "searched": true,
+    "accepted": "6bxIPfZ1TzyAfHdAbYrCZ8",
+    "note": "Warner/Parlophone edition of the original 1958 Menuhin/Amadeus/Merrett performance, remastered in 1989.",
+    "checks": "All five Trout movements credit Hephzibah Menuhin, the Amadeus Quartet and James Edward Merrett. Copyright specifies the 1958 recording and 1989 remaster; the Curzon/Amadeus alternative is excluded.",
+    "additionalEvidence": [
+      {
+        "type": "primary_spotify_performer_and_copyright_extract",
+        "url": "https://open.spotify.com/album/6bxIPfZ1TzyAfHdAbYrCZ8",
+        "evidenceFile": "site/research/spotify-link-evidence-middle/right-6bxIPfZ1TzyAfHdAbYrCZ8.metadata.json"
+      }
+    ]
+  },
+  "lower-middle-55": {
+    "candidates": [
+      "35rTEx0W5PKRvARTmeydq5"
+    ],
+    "queries": [
+      "Sharon Lois Bram One Two Three Four Live"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-55-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-12.json"
+    ],
+    "searched": true,
+    "accepted": "35rTEx0W5PKRvARTmeydq5",
+    "note": "Digitally titled 1234 LIVE!, with the original fifteen-song 1982 live programme.",
+    "publisherUrl": "https://www.sharonloisandbram.com/product-page/1-2-3-4-live-cd",
+    "checks": "Official artist store confirms that 1234 LIVE! is the live album title alias. Spotify has the original fifteen-song programme and Sharon, Lois & Bram/Mammoth Band performance."
+  },
+  "lower-middle-58": {
+    "candidates": [
+      "69a0N3kvOVpl6cLb5RD5Dg",
+      "6YvpWNisHeDQPsoqeyckYg"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=33c617fe-37bd-311f-94d0-f4bf29907832&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Boney M Christmas Album 1981"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-58-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-18.json"
+    ],
+    "searched": true,
+    "note": "Expanded, reordered reissue with extra Christmas tracks and a radio edit of Feliz Navidad.",
+    "checks": "The original twelve-song programme is represented, including the medley, Winter Fairy-Tale and I’ll Be Home for Christmas. Original Mary’s Boy Child remains; an additional 2007 version is separately listed. Feliz Navidad is explicitly a radio edit. The full native artist discography and Canada page identify this nineteen-track variant.",
+    "accepted": "6YvpWNisHeDQPsoqeyckYg",
+    "additionalEvidence": [
+      {
+        "type": "licensed_digital_edition",
+        "url": "https://music.apple.com/us/album/christmas-with-boney-m/267121982"
+      },
+      {
+        "type": "independent_native_and_programme_review",
+        "url": "https://open.spotify.com/album/6YvpWNisHeDQPsoqeyckYg",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ],
+    "rejections": [
+      {
+        "spotifyId": "69a0N3kvOVpl6cLb5RD5Dg",
+        "reason": "Christmas Party omits Winter Fairy-Tale and I’ll Be Home for Christmas, so it does not contain the complete original album.",
+        "evidenceFile": "site/research/spotify-link-native-review.json"
+      }
+    ]
+  },
+  "lower-middle-60": {
+    "candidates": [
+      "1rmhti8uHw21LnaWMQy608"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=4b443e66-52a7-3cc9-a522-0dc64a6a51dc&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-60-mb.json",
+    "accepted": "1rmhti8uHw21LnaWMQy608",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-61": {
+    "candidates": [
+      "221DoW7jUqMlBtiGVyCBId",
+      "5moFY0K48zOBW37SsThYL0"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=1506ab53-8ec5-32ea-9769-7646b27ebc3f&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-61-mb.json",
+    "accepted": "5moFY0K48zOBW37SsThYL0",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-62": {
+    "candidates": [
+      "38ktaqUgs3VCll5RfnD6uo"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=9af31ad6-505c-30d8-aeb4-8475d700dca2&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-62-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/59YgN6lkfyjR1T2SpHkJSw.json",
+        "albumName": "Lunch",
+        "id": "38ktaqUgs3VCll5RfnD6uo"
+      }
+    ],
+    "accepted": "38ktaqUgs3VCll5RfnD6uo",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-63": {
+    "candidates": [
+      "47nhRTYeYBKV5mEfXLV4fb"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=cb5a7ce8-8ddd-3b0f-ae06-7f87629398d1&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-63-mb.json",
+    "accepted": "47nhRTYeYBKV5mEfXLV4fb",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-64": {
+    "candidates": [
+      "6IzMnrSzyRykaltIvnlNuk"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=389cec5a-2b88-3090-8e62-84a4580d6f44&inc=url-rels%2Bartist-credits&limit=100&fmt=json"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-64-mb.json",
+    "accepted": "6IzMnrSzyRykaltIvnlNuk",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "searched": true
+  },
+  "lower-middle-65": {
+    "candidates": [
+      "1e4b4DzEJUryjKkGaTlZr9"
+    ],
+    "queries": [
+      "Kevin Roth Mountain Dulcimer Instrumental Album"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-65-mb.json",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/discovery-kevin-roth.json",
+        "url": "https://open.spotify.com/artist/2F4M8GVuAxxf4QvbrpvLVV",
+        "name": "The Mountain Dulcimer Instrumental Album"
+      }
+    ],
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-18.json"
+    ],
+    "searched": true,
+    "accepted": "1e4b4DzEJUryjKkGaTlZr9",
+    "note": "Smithsonian Folkways digital edition of the original 1977 album, with nineteen tracks.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences."
+  },
+  "lower-middle-67": {
+    "candidates": [
+      "0CTkUxAZvkXSRj2PEGRNV6"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=6d23f1e1-4cb0-420c-9d14-338be6dc7f60&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Rampal Laskine Sakura Japanese Melodies"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-67-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-19.json"
+    ],
+    "searched": true,
+    "accepted": "0CTkUxAZvkXSRj2PEGRNV6",
+    "note": "2010 digital edition of Rampal and Laskine’s original eleven-song Sakura/Japanese Melodies programme.",
+    "publisherUrl": "https://columbia.jp/prod-info/COCQ-84491/",
+    "checks": "All eleven original Japanese Melodies titles are present and credit Jean-Pierre Rampal and Lily Laskine. The later Ensemble Lunaire version is a different performance and is excluded."
+  },
+  "lower-middle-68": {
+    "candidates": [
+      "4I8omVNWbar9OC5SjTkseK",
+      "4ZImzDF35hQWiN5FdAqQbN"
+    ],
+    "queries": [
+      "https://musicbrainz.org/ws/2/release?release-group=d81184ea-8619-37d3-b9a8-61caadcee800&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "Graham Parker Rumour Squeezing Out Sparks"
+    ],
+    "mbEvidenceFile": "site/research/spotify-link-evidence-middle/lower-middle-68-mb.json",
+    "webEvidenceFiles": [
+      "site/research/spotify-link-evidence-middle/web-batch-18.json"
+    ],
+    "searched": true,
+    "accepted": "4I8omVNWbar9OC5SjTkseK",
+    "note": "Digital reissue of the original album; mastering, release date or regional packaging may differ from the photographed LP.",
+    "checks": "Primary Spotify album/embed title and credited artist match; reviewed track list represents the original core album, with documented digital edition differences.",
+    "discoveryEvidence": [
+      {
+        "sourceFile": "site/research/spotify-link-evidence-middle/4I8omVNWbar9OC5SjTkseK.json",
+        "albumName": "Squeezing Out Sparks + Live Sparks",
+        "id": "4ZImzDF35hQWiN5FdAqQbN"
+      }
+    ]
+  },
+  "_seed-Klaatu": {
+    "candidates": [
+      "67voFne6CSj4rpdeFbgmbu"
+    ]
+  },
+  "_seed-RobertPalmer": {
+    "candidates": [
+      "6Mv2Tt47IYUpqJc2wv9jLq"
+    ]
+  },
+  "_seed-HallOates": {
+    "candidates": [
+      "44GTcrWcyKrY3gMMsXqCvl"
+    ]
+  },
+  "_seed-AnnMortifee": {
+    "candidates": [
+      "68N4cz8k5YZmrd56V5PtFW"
+    ]
+  },
+  "_seed-B52": {
+    "candidates": [
+      "5BAzAODqIwttjj7wxmlNMS"
+    ]
+  },
+  "_seed-LeoKottke": {
+    "candidates": [
+      "4tx6bGem7y70bmvxGj8N4F"
+    ]
+  },
+  "_seed-UpWithPeople": {
+    "candidates": [
+      "1zDM7jVb2I0QDPWnMj3pkG"
+    ]
+  }
+}

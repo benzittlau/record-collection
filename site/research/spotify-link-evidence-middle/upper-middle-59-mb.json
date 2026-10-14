@@ -1,0 +1,36 @@
+{
+  "id": "upper-middle-59",
+  "groups": [
+    "b1dc278a-ddeb-36ce-856d-ea633649e9eb"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=b1dc278a-ddeb-36ce-856d-ea633649e9eb&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 4
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "7GWTeFyEAmLUNYHwba9YvX",
+      "spotifyUrl": "https://open.spotify.com/album/7GWTeFyEAmLUNYHwba9YvX",
+      "musicbrainzReleaseId": "51a46a1f-2b2a-4480-8b26-4a2dcf8dbf61",
+      "musicbrainzTitle": "Tim Hardin 1",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "id": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+            "disambiguation": "",
+            "sort-name": "Hardin, Tim",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "Tim Hardin",
+            "type": "Person"
+          },
+          "name": "Tim Hardin",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": null
+    }
+  ]
+}

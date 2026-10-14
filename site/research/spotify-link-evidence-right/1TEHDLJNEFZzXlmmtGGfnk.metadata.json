@@ -1,0 +1,1493 @@
+{
+  "url": "https://open.spotify.com/album/1TEHDLJNEFZzXlmmtGGfnk",
+  "resolvedUrl": "https://open.spotify.com/album/1TEHDLJNEFZzXlmmtGGfnk",
+  "fetchedAt": "2026-10-14T05:11:43Z",
+  "pageTitle": "Yesterdays - Compilation by Yes | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:album:1TEHDLJNEFZzXlmmtGGfnk": {
+          "__typename": "Album",
+          "moreAlbumsByArtist": {
+            "items": [
+              {
+                "discography": {
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e022527c93491d39fe7e95b95ac",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048512527c93491d39fe7e95b95ac",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2732527c93491d39fe7e95b95ac",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1983
+                        },
+                        "id": "6nNlTIiFd3J06W0rJiiwlz",
+                        "name": "90125 (Deluxe Version)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6nNlTIiFd3J06W0rJiiwlz"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e025b6ff520a41ff9b0f29f701e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048515b6ff520a41ff9b0f29f701e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2735b6ff520a41ff9b0f29f701e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1971
+                        },
+                        "id": "78tN6vBPHHyNk4sZYnS5X4",
+                        "name": "Fragile (Super Deluxe)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:78tN6vBPHHyNk4sZYnS5X4"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0262d739bbd67dc11b81785dc5",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485162d739bbd67dc11b81785dc5",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27362d739bbd67dc11b81785dc5",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1987
+                        },
+                        "id": "1tlsJPpfTZA7Z9o091Ylkk",
+                        "name": "Big Generator",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1tlsJPpfTZA7Z9o091Ylkk"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02593f4d2b1bcf28ac44459ddf",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851593f4d2b1bcf28ac44459ddf",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273593f4d2b1bcf28ac44459ddf",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1972
+                        },
+                        "id": "1uXol4dKqzMsUiqvHpwhZh",
+                        "name": "Close to the Edge (Super Deluxe Edition)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1uXol4dKqzMsUiqvHpwhZh"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a87828118f6c39a6e9257d3e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a87828118f6c39a6e9257d3e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a87828118f6c39a6e9257d3e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1971
+                        },
+                        "id": "5fzq6dBmRtfrqpVNpuEbJB",
+                        "name": "The Yes Album (Super Deluxe Edition)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5fzq6dBmRtfrqpVNpuEbJB"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02fff6321a79c0ba5e4e7f5125",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851fff6321a79c0ba5e4e7f5125",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273fff6321a79c0ba5e4e7f5125",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1977
+                        },
+                        "id": "2U4JHXMiBxsKH4dnYEQg2g",
+                        "name": "Going for the One (Deluxe Edition)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2U4JHXMiBxsKH4dnYEQg2g"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0219a65f64281110182d90eec2",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485119a65f64281110182d90eec2",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27319a65f64281110182d90eec2",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "6naxNXC4T3Kb7kAENiQ3eB",
+                        "name": "Aurora (Deluxe Edition)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6naxNXC4T3Kb7kAENiQ3eB"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e029822f8f10f413de9b268605a",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048519822f8f10f413de9b268605a",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2739822f8f10f413de9b268605a",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1969
+                        },
+                        "id": "7wCflCoMEA9L7hIP65mfN3",
+                        "name": "Yes (Deluxe Edition)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:7wCflCoMEA9L7hIP65mfN3"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0247611d604ee4e051182900d3",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485147611d604ee4e051182900d3",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27347611d604ee4e051182900d3",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "5TDltjAh03cwDinX4SXwnR",
+                        "name": "Aurora (Bonus Tracks Edition)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5TDltjAh03cwDinX4SXwnR"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e023f24e7835055139eb7b3a4c8",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048513f24e7835055139eb7b3a4c8",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2733f24e7835055139eb7b3a4c8",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1980
+                        },
+                        "id": "0HoF3Ir1IYbIkvrxXrLGOB",
+                        "name": "Drama (Deluxe Edition)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0HoF3Ir1IYbIkvrxXrLGOB"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "countryCode": "AR"
+              },
+              {
+                "countryCode": "AU"
+              },
+              {
+                "countryCode": "AT"
+              },
+              {
+                "countryCode": "BE"
+              },
+              {
+                "countryCode": "BO"
+              },
+              {
+                "countryCode": "BR"
+              },
+              {
+                "countryCode": "BG"
+              },
+              {
+                "countryCode": "CA"
+              },
+              {
+                "countryCode": "CL"
+              },
+              {
+                "countryCode": "CO"
+              },
+              {
+                "countryCode": "CR"
+              },
+              {
+                "countryCode": "CY"
+              },
+              {
+                "countryCode": "CZ"
+              },
+              {
+                "countryCode": "DK"
+              },
+              {
+                "countryCode": "DO"
+              },
+              {
+                "countryCode": "DE"
+              },
+              {
+                "countryCode": "EC"
+              },
+              {
+                "countryCode": "EE"
+              },
+              {
+                "countryCode": "SV"
+              },
+              {
+                "countryCode": "FI"
+              },
+              {
+                "countryCode": "FR"
+              },
+              {
+                "countryCode": "GR"
+              },
+              {
+                "countryCode": "GT"
+              },
+              {
+                "countryCode": "HN"
+              },
+              {
+                "countryCode": "HK"
+              },
+              {
+                "countryCode": "HU"
+              },
+              {
+                "countryCode": "IS"
+              },
+              {
+                "countryCode": "IE"
+              },
+              {
+                "countryCode": "IT"
+              },
+              {
+                "countryCode": "LV"
+              },
+              {
+                "countryCode": "LT"
+              },
+              {
+                "countryCode": "LU"
+              },
+              {
+                "countryCode": "MY"
+              },
+              {
+                "countryCode": "MT"
+              },
+              {
+                "countryCode": "MX"
+              },
+              {
+                "countryCode": "NL"
+              },
+              {
+                "countryCode": "NZ"
+              },
+              {
+                "countryCode": "NI"
+              },
+              {
+                "countryCode": "NO"
+              },
+              {
+                "countryCode": "PA"
+              },
+              {
+                "countryCode": "PY"
+              },
+              {
+                "countryCode": "PE"
+              },
+              {
+                "countryCode": "PH"
+              },
+              {
+                "countryCode": "PL"
+              },
+              {
+                "countryCode": "PT"
+              },
+              {
+                "countryCode": "SG"
+              },
+              {
+                "countryCode": "SK"
+              },
+              {
+                "countryCode": "ES"
+              },
+              {
+                "countryCode": "SE"
+              },
+              {
+                "countryCode": "CH"
+              },
+              {
+                "countryCode": "TW"
+              },
+              {
+                "countryCode": "TR"
+              },
+              {
+                "countryCode": "UY"
+              },
+              {
+                "countryCode": "US"
+              },
+              {
+                "countryCode": "GB"
+              },
+              {
+                "countryCode": "AD"
+              },
+              {
+                "countryCode": "LI"
+              },
+              {
+                "countryCode": "MC"
+              },
+              {
+                "countryCode": "ID"
+              },
+              {
+                "countryCode": "JP"
+              },
+              {
+                "countryCode": "TH"
+              },
+              {
+                "countryCode": "VN"
+              },
+              {
+                "countryCode": "RO"
+              },
+              {
+                "countryCode": "IL"
+              },
+              {
+                "countryCode": "ZA"
+              },
+              {
+                "countryCode": "SA"
+              },
+              {
+                "countryCode": "AE"
+              },
+              {
+                "countryCode": "BH"
+              },
+              {
+                "countryCode": "QA"
+              },
+              {
+                "countryCode": "OM"
+              },
+              {
+                "countryCode": "KW"
+              },
+              {
+                "countryCode": "EG"
+              },
+              {
+                "countryCode": "MA"
+              },
+              {
+                "countryCode": "DZ"
+              },
+              {
+                "countryCode": "TN"
+              },
+              {
+                "countryCode": "LB"
+              },
+              {
+                "countryCode": "JO"
+              },
+              {
+                "countryCode": "PS"
+              },
+              {
+                "countryCode": "IN"
+              },
+              {
+                "countryCode": "BY"
+              },
+              {
+                "countryCode": "KZ"
+              },
+              {
+                "countryCode": "MD"
+              },
+              {
+                "countryCode": "UA"
+              },
+              {
+                "countryCode": "AL"
+              },
+              {
+                "countryCode": "BA"
+              },
+              {
+                "countryCode": "HR"
+              },
+              {
+                "countryCode": "ME"
+              },
+              {
+                "countryCode": "MK"
+              },
+              {
+                "countryCode": "RS"
+              },
+              {
+                "countryCode": "SI"
+              },
+              {
+                "countryCode": "KR"
+              },
+              {
+                "countryCode": "BD"
+              },
+              {
+                "countryCode": "PK"
+              },
+              {
+                "countryCode": "LK"
+              },
+              {
+                "countryCode": "GH"
+              },
+              {
+                "countryCode": "KE"
+              },
+              {
+                "countryCode": "NG"
+              },
+              {
+                "countryCode": "TZ"
+              },
+              {
+                "countryCode": "UG"
+              },
+              {
+                "countryCode": "AG"
+              },
+              {
+                "countryCode": "AM"
+              },
+              {
+                "countryCode": "BS"
+              },
+              {
+                "countryCode": "BB"
+              },
+              {
+                "countryCode": "BZ"
+              },
+              {
+                "countryCode": "BT"
+              },
+              {
+                "countryCode": "BW"
+              },
+              {
+                "countryCode": "BF"
+              },
+              {
+                "countryCode": "CV"
+              },
+              {
+                "countryCode": "CW"
+              },
+              {
+                "countryCode": "DM"
+              },
+              {
+                "countryCode": "FJ"
+              },
+              {
+                "countryCode": "GM"
+              },
+              {
+                "countryCode": "GE"
+              },
+              {
+                "countryCode": "GD"
+              },
+              {
+                "countryCode": "GW"
+              },
+              {
+                "countryCode": "GY"
+              },
+              {
+                "countryCode": "HT"
+              },
+              {
+                "countryCode": "JM"
+              },
+              {
+                "countryCode": "KI"
+              },
+              {
+                "countryCode": "LS"
+              },
+              {
+                "countryCode": "LR"
+              },
+              {
+                "countryCode": "MW"
+              },
+              {
+                "countryCode": "MV"
+              },
+              {
+                "countryCode": "ML"
+              },
+              {
+                "countryCode": "MH"
+              },
+              {
+                "countryCode": "FM"
+              },
+              {
+                "countryCode": "NA"
+              },
+              {
+                "countryCode": "NR"
+              },
+              {
+                "countryCode": "NE"
+              },
+              {
+                "countryCode": "PW"
+              },
+              {
+                "countryCode": "PG"
+              },
+              {
+                "countryCode": "PR"
+              },
+              {
+                "countryCode": "WS"
+              },
+              {
+                "countryCode": "SM"
+              },
+              {
+                "countryCode": "ST"
+              },
+              {
+                "countryCode": "SN"
+              },
+              {
+                "countryCode": "SC"
+              },
+              {
+                "countryCode": "SL"
+              },
+              {
+                "countryCode": "SB"
+              },
+              {
+                "countryCode": "KN"
+              },
+              {
+                "countryCode": "LC"
+              },
+              {
+                "countryCode": "VC"
+              },
+              {
+                "countryCode": "SR"
+              },
+              {
+                "countryCode": "TL"
+              },
+              {
+                "countryCode": "TO"
+              },
+              {
+                "countryCode": "TT"
+              },
+              {
+                "countryCode": "TV"
+              },
+              {
+                "countryCode": "VU"
+              },
+              {
+                "countryCode": "AZ"
+              },
+              {
+                "countryCode": "BN"
+              },
+              {
+                "countryCode": "BI"
+              },
+              {
+                "countryCode": "KH"
+              },
+              {
+                "countryCode": "CM"
+              },
+              {
+                "countryCode": "TD"
+              },
+              {
+                "countryCode": "KM"
+              },
+              {
+                "countryCode": "GQ"
+              },
+              {
+                "countryCode": "SZ"
+              },
+              {
+                "countryCode": "GA"
+              },
+              {
+                "countryCode": "GN"
+              },
+              {
+                "countryCode": "KG"
+              },
+              {
+                "countryCode": "LA"
+              },
+              {
+                "countryCode": "MO"
+              },
+              {
+                "countryCode": "MR"
+              },
+              {
+                "countryCode": "MN"
+              },
+              {
+                "countryCode": "NP"
+              },
+              {
+                "countryCode": "RW"
+              },
+              {
+                "countryCode": "TG"
+              },
+              {
+                "countryCode": "UZ"
+              },
+              {
+                "countryCode": "ZW"
+              },
+              {
+                "countryCode": "BJ"
+              },
+              {
+                "countryCode": "MG"
+              },
+              {
+                "countryCode": "MU"
+              },
+              {
+                "countryCode": "MZ"
+              },
+              {
+                "countryCode": "AO"
+              },
+              {
+                "countryCode": "CI"
+              },
+              {
+                "countryCode": "DJ"
+              },
+              {
+                "countryCode": "ZM"
+              },
+              {
+                "countryCode": "CD"
+              },
+              {
+                "countryCode": "CG"
+              },
+              {
+                "countryCode": "IQ"
+              },
+              {
+                "countryCode": "LY"
+              },
+              {
+                "countryCode": "TJ"
+              },
+              {
+                "countryCode": "VE"
+              },
+              {
+                "countryCode": "ET"
+              },
+              {
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "© 1974 Atlantic Recording Corp. for the US and WEA International for the world outside the US.",
+                "type": "C"
+              },
+              {
+                "text": "℗ 1974 Atlantic Recording Corp., manufactured and marketed by Rhino Entertainment Company, a Warner Music Group company",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#385078"
+              },
+              "colorRaw": {
+                "hex": "#385078"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513f60c754a8c6912fe698ba5e",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023f60c754a8c6912fe698ba5e",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733f60c754a8c6912fe698ba5e",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 1,
+            "month": 1,
+            "year": 1975
+          },
+          "id": "1TEHDLJNEFZzXlmmtGGfnk",
+          "isPreRelease": false,
+          "name": "Yesterdays",
+          "preReleaseEndDateTime": null,
+          "type": "COMPILATION",
+          "uri": "spotify:album:1TEHDLJNEFZzXlmmtGGfnk",
+          "tracksV2": {
+            "items": [
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Yes"
+                        },
+                        "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 632333
+                  },
+                  "id": "0xwX5mzcJGzjDo0WRYd088",
+                  "name": "America",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/26ab5711dc77e60a8c261c0af9f762c9794b287a"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 1,
+                  "uri": "spotify:track:0xwX5mzcJGzjDo0WRYd088"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Yes"
+                        },
+                        "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 244600
+                  },
+                  "id": "6gKrTdNTBhIS9BHSX0OO6N",
+                  "name": "Looking Around",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/4e0a4bc92aec78db1856d54a88af6906f94bc5ce"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 2,
+                  "uri": "spotify:track:6gKrTdNTBhIS9BHSX0OO6N"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Yes"
+                        },
+                        "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 273866
+                  },
+                  "id": "7ja6kw9mMLUgHNHsnamQS9",
+                  "name": "Time and a Word",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/fa693f8c3252008d50ac132f77c6bf42de398be9"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 3,
+                  "uri": "spotify:track:7ja6kw9mMLUgHNHsnamQS9"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Yes"
+                        },
+                        "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 230373
+                  },
+                  "id": "3TUhdTZWJAM2XRkFpo8Zm8",
+                  "name": "Sweet Dreams",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/76d53aaa14fe21d6cc5b822a9cfc274f4615404b"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 4,
+                  "uri": "spotify:track:3TUhdTZWJAM2XRkFpo8Zm8"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Yes"
+                        },
+                        "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 349266
+                  },
+                  "id": "036ueijnNTIojKbHkx2q5O",
+                  "name": "Then",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/85fdca6d90d97d47c2c150d2b18eff889393fe7d"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 5,
+                  "uri": "spotify:track:036ueijnNTIojKbHkx2q5O"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Yes"
+                        },
+                        "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 382333
+                  },
+                  "id": "52NG2U1k1qArgcxjokyVpT",
+                  "name": "Survival",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/9676148336c1988e5b32611b88c91bc8d128cf55"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 6,
+                  "uri": "spotify:track:52NG2U1k1qArgcxjokyVpT"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Yes"
+                        },
+                        "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 354080
+                  },
+                  "id": "2rSmBfdq7wMtkVwdOS4nXO",
+                  "name": "Astral Traveller",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/ae87c9732882911905d2d57777037bc57e1684eb"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 7,
+                  "uri": "spotify:track:2rSmBfdq7wMtkVwdOS4nXO"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Yes"
+                        },
+                        "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 252933
+                  },
+                  "id": "4huSMuUtGzFvcIQCczElQh",
+                  "name": "Dear Father",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/b0f8657443262256d08e51961d7cf58da8c172dd"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 8,
+                  "uri": "spotify:track:4huSMuUtGzFvcIQCczElQh"
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null,
+              "offset": 0
+            },
+            "totalCount": 8
+          },
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Yes"
+                },
+                "stats": {
+                  "monthlyListeners": 4915770
+                },
+                "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6c988e753a5ad072bc7731fc",
+                        "width": 640
+                      },
+                      {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1786c988e753a5ad072bc7731fc",
+                        "width": 160
+                      },
+                      {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051746c988e753a5ad072bc7731fc",
+                        "width": 320
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "album": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicAlbum",
+      "@id": "https://open.spotify.com/album/1TEHDLJNEFZzXlmmtGGfnk",
+      "url": "https://open.spotify.com/album/1TEHDLJNEFZzXlmmtGGfnk",
+      "name": "Yesterdays",
+      "description": "Listen to Yesterdays on Spotify · compilation · Yes · 1975 · 8 songs",
+      "datePublished": "1975-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/album/1TEHDLJNEFZzXlmmtGGfnk?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/album/1TEHDLJNEFZzXlmmtGGfnk/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 247226
+}

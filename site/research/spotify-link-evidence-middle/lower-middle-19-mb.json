@@ -1,0 +1,59 @@
+{
+  "id": "lower-middle-19",
+  "groups": [
+    "bb13cb45-254c-3a61-89a5-15d22a97e6d6",
+    "bb13cb45-254c-3a61-89a5-15d22a97e6d6"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=bb13cb45-254c-3a61-89a5-15d22a97e6d6&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 25
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "5fxvWHvIDPIALfTfRiwyB0",
+      "spotifyUrl": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0",
+      "musicbrainzReleaseId": "00613d44-54a7-4ae0-8a45-447bcea37786",
+      "musicbrainzTitle": "Scary Monsters (and Super Creeps)",
+      "musicbrainzArtists": [
+        {
+          "name": "David Bowie",
+          "joinphrase": "",
+          "artist": {
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "sort-name": "Bowie, David",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "David Bowie",
+            "type": "Person",
+            "country": "GB",
+            "disambiguation": "English singer‐songwriter"
+          }
+        }
+      ],
+      "musicbrainzDate": "2017"
+    },
+    {
+      "spotifyId": "53YfKqwV8lphizo06QSxEe",
+      "spotifyUrl": "https://open.spotify.com/album/53YfKqwV8lphizo06QSxEe",
+      "musicbrainzReleaseId": "e611aadf-428c-49e8-8c43-e50500437188",
+      "musicbrainzTitle": "Scary Monsters… and Super Creeps",
+      "musicbrainzArtists": [
+        {
+          "name": "David Bowie",
+          "joinphrase": "",
+          "artist": {
+            "type": "Person",
+            "name": "David Bowie",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+            "sort-name": "Bowie, David",
+            "disambiguation": "English singer‐songwriter",
+            "country": "GB"
+          }
+        }
+      ],
+      "musicbrainzDate": ""
+    }
+  ]
+}

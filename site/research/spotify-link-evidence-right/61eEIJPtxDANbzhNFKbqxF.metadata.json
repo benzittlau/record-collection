@@ -1,0 +1,1576 @@
+{
+  "url": "https://open.spotify.com/album/61eEIJPtxDANbzhNFKbqxF",
+  "resolvedUrl": "https://open.spotify.com/album/61eEIJPtxDANbzhNFKbqxF",
+  "fetchedAt": "2026-10-14T05:13:02Z",
+  "pageTitle": "Apostrophe(&#x27;) - Album by Frank Zappa | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:album:61eEIJPtxDANbzhNFKbqxF": {
+          "__typename": "Album",
+          "moreAlbumsByArtist": {
+            "items": [
+              {
+                "discography": {
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0233cbb9723360ae61e33ec302",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485133cbb9723360ae61e33ec302",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27333cbb9723360ae61e33ec302",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1973
+                        },
+                        "id": "3QrEk9Va9qO4uobczNUtqe",
+                        "name": "Over-Nite Sensation",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3QrEk9Va9qO4uobczNUtqe"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02901e88d89c5024c25784e982",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851901e88d89c5024c25784e982",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273901e88d89c5024c25784e982",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1974
+                        },
+                        "id": "61eEIJPtxDANbzhNFKbqxF",
+                        "name": "Apostrophe(')",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:61eEIJPtxDANbzhNFKbqxF"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02dd549e8327a1c4e17ecf5e66",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851dd549e8327a1c4e17ecf5e66",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273dd549e8327a1c4e17ecf5e66",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1979
+                        },
+                        "id": "58vlZjXF95AYHwpTZKOP7a",
+                        "name": "Joe's Garage Acts I, II & III",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:58vlZjXF95AYHwpTZKOP7a"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0271984d531980f54727d10aea",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485171984d531980f54727d10aea",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27371984d531980f54727d10aea",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1979
+                        },
+                        "id": "3ShH5ngTENPbZjE9PVctJj",
+                        "name": "Sheik Yerbouti",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3ShH5ngTENPbZjE9PVctJj"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ee314008c5ae6e98904ebfe0",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ee314008c5ae6e98904ebfe0",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ee314008c5ae6e98904ebfe0",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1969
+                        },
+                        "id": "0WYYrC9My9rYWigac003hw",
+                        "name": "Hot Rats",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0WYYrC9My9rYWigac003hw"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ad679d95e030e2c075a61873",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ad679d95e030e2c075a61873",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ad679d95e030e2c075a61873",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2012
+                        },
+                        "id": "51RsVIPwstHcEIBfJ8qs7e",
+                        "name": "Understanding America",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:51RsVIPwstHcEIBfJ8qs7e"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e05ac7a59a48ae3b13dfe204",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851e05ac7a59a48ae3b13dfe204",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e05ac7a59a48ae3b13dfe204",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1976
+                        },
+                        "id": "4jO5jCLIpGvU08V8VCa5CX",
+                        "name": "Zoot Allures",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4jO5jCLIpGvU08V8VCa5CX"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0224f44b70049a9025cac777e5",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485124f44b70049a9025cac777e5",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27324f44b70049a9025cac777e5",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1975
+                        },
+                        "id": "3UuS2eUXelR9MsI3gvEW9w",
+                        "name": "One Size Fits All",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3UuS2eUXelR9MsI3gvEW9w"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02517830dcad9bb1791809b1c2",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851517830dcad9bb1791809b1c2",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273517830dcad9bb1791809b1c2",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1966
+                        },
+                        "id": "6qfS5de8GAy1G5tk7tyiof",
+                        "name": "Freak Out!",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6qfS5de8GAy1G5tk7tyiof"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02491be683dcd3cba0b7f3fd76",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851491be683dcd3cba0b7f3fd76",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273491be683dcd3cba0b7f3fd76",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "6IMRXGiuck95q5i1p3cZuf",
+                        "name": "Freak Out! (60th Anniversary)",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6IMRXGiuck95q5i1p3cZuf"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "countryCode": "AR"
+              },
+              {
+                "countryCode": "AU"
+              },
+              {
+                "countryCode": "AT"
+              },
+              {
+                "countryCode": "BE"
+              },
+              {
+                "countryCode": "BO"
+              },
+              {
+                "countryCode": "BR"
+              },
+              {
+                "countryCode": "BG"
+              },
+              {
+                "countryCode": "CA"
+              },
+              {
+                "countryCode": "CL"
+              },
+              {
+                "countryCode": "CO"
+              },
+              {
+                "countryCode": "CR"
+              },
+              {
+                "countryCode": "CY"
+              },
+              {
+                "countryCode": "CZ"
+              },
+              {
+                "countryCode": "DK"
+              },
+              {
+                "countryCode": "DO"
+              },
+              {
+                "countryCode": "DE"
+              },
+              {
+                "countryCode": "EC"
+              },
+              {
+                "countryCode": "EE"
+              },
+              {
+                "countryCode": "SV"
+              },
+              {
+                "countryCode": "FI"
+              },
+              {
+                "countryCode": "FR"
+              },
+              {
+                "countryCode": "GR"
+              },
+              {
+                "countryCode": "GT"
+              },
+              {
+                "countryCode": "HN"
+              },
+              {
+                "countryCode": "HK"
+              },
+              {
+                "countryCode": "HU"
+              },
+              {
+                "countryCode": "IS"
+              },
+              {
+                "countryCode": "IE"
+              },
+              {
+                "countryCode": "IT"
+              },
+              {
+                "countryCode": "LV"
+              },
+              {
+                "countryCode": "LT"
+              },
+              {
+                "countryCode": "LU"
+              },
+              {
+                "countryCode": "MY"
+              },
+              {
+                "countryCode": "MT"
+              },
+              {
+                "countryCode": "MX"
+              },
+              {
+                "countryCode": "NL"
+              },
+              {
+                "countryCode": "NZ"
+              },
+              {
+                "countryCode": "NI"
+              },
+              {
+                "countryCode": "NO"
+              },
+              {
+                "countryCode": "PA"
+              },
+              {
+                "countryCode": "PY"
+              },
+              {
+                "countryCode": "PE"
+              },
+              {
+                "countryCode": "PH"
+              },
+              {
+                "countryCode": "PL"
+              },
+              {
+                "countryCode": "PT"
+              },
+              {
+                "countryCode": "SG"
+              },
+              {
+                "countryCode": "SK"
+              },
+              {
+                "countryCode": "ES"
+              },
+              {
+                "countryCode": "SE"
+              },
+              {
+                "countryCode": "CH"
+              },
+              {
+                "countryCode": "TW"
+              },
+              {
+                "countryCode": "TR"
+              },
+              {
+                "countryCode": "UY"
+              },
+              {
+                "countryCode": "US"
+              },
+              {
+                "countryCode": "GB"
+              },
+              {
+                "countryCode": "AD"
+              },
+              {
+                "countryCode": "LI"
+              },
+              {
+                "countryCode": "MC"
+              },
+              {
+                "countryCode": "ID"
+              },
+              {
+                "countryCode": "JP"
+              },
+              {
+                "countryCode": "TH"
+              },
+              {
+                "countryCode": "VN"
+              },
+              {
+                "countryCode": "RO"
+              },
+              {
+                "countryCode": "IL"
+              },
+              {
+                "countryCode": "ZA"
+              },
+              {
+                "countryCode": "SA"
+              },
+              {
+                "countryCode": "AE"
+              },
+              {
+                "countryCode": "BH"
+              },
+              {
+                "countryCode": "QA"
+              },
+              {
+                "countryCode": "OM"
+              },
+              {
+                "countryCode": "KW"
+              },
+              {
+                "countryCode": "EG"
+              },
+              {
+                "countryCode": "MA"
+              },
+              {
+                "countryCode": "DZ"
+              },
+              {
+                "countryCode": "TN"
+              },
+              {
+                "countryCode": "LB"
+              },
+              {
+                "countryCode": "JO"
+              },
+              {
+                "countryCode": "PS"
+              },
+              {
+                "countryCode": "IN"
+              },
+              {
+                "countryCode": "BY"
+              },
+              {
+                "countryCode": "KZ"
+              },
+              {
+                "countryCode": "MD"
+              },
+              {
+                "countryCode": "UA"
+              },
+              {
+                "countryCode": "AL"
+              },
+              {
+                "countryCode": "BA"
+              },
+              {
+                "countryCode": "HR"
+              },
+              {
+                "countryCode": "ME"
+              },
+              {
+                "countryCode": "MK"
+              },
+              {
+                "countryCode": "RS"
+              },
+              {
+                "countryCode": "SI"
+              },
+              {
+                "countryCode": "KR"
+              },
+              {
+                "countryCode": "BD"
+              },
+              {
+                "countryCode": "PK"
+              },
+              {
+                "countryCode": "LK"
+              },
+              {
+                "countryCode": "GH"
+              },
+              {
+                "countryCode": "KE"
+              },
+              {
+                "countryCode": "NG"
+              },
+              {
+                "countryCode": "TZ"
+              },
+              {
+                "countryCode": "UG"
+              },
+              {
+                "countryCode": "AG"
+              },
+              {
+                "countryCode": "AM"
+              },
+              {
+                "countryCode": "BS"
+              },
+              {
+                "countryCode": "BB"
+              },
+              {
+                "countryCode": "BZ"
+              },
+              {
+                "countryCode": "BT"
+              },
+              {
+                "countryCode": "BW"
+              },
+              {
+                "countryCode": "BF"
+              },
+              {
+                "countryCode": "CV"
+              },
+              {
+                "countryCode": "CW"
+              },
+              {
+                "countryCode": "DM"
+              },
+              {
+                "countryCode": "FJ"
+              },
+              {
+                "countryCode": "GM"
+              },
+              {
+                "countryCode": "GE"
+              },
+              {
+                "countryCode": "GD"
+              },
+              {
+                "countryCode": "GW"
+              },
+              {
+                "countryCode": "GY"
+              },
+              {
+                "countryCode": "HT"
+              },
+              {
+                "countryCode": "JM"
+              },
+              {
+                "countryCode": "KI"
+              },
+              {
+                "countryCode": "LS"
+              },
+              {
+                "countryCode": "LR"
+              },
+              {
+                "countryCode": "MW"
+              },
+              {
+                "countryCode": "MV"
+              },
+              {
+                "countryCode": "ML"
+              },
+              {
+                "countryCode": "MH"
+              },
+              {
+                "countryCode": "FM"
+              },
+              {
+                "countryCode": "NA"
+              },
+              {
+                "countryCode": "NR"
+              },
+              {
+                "countryCode": "NE"
+              },
+              {
+                "countryCode": "PW"
+              },
+              {
+                "countryCode": "PG"
+              },
+              {
+                "countryCode": "WS"
+              },
+              {
+                "countryCode": "SM"
+              },
+              {
+                "countryCode": "ST"
+              },
+              {
+                "countryCode": "SN"
+              },
+              {
+                "countryCode": "SC"
+              },
+              {
+                "countryCode": "SL"
+              },
+              {
+                "countryCode": "SB"
+              },
+              {
+                "countryCode": "KN"
+              },
+              {
+                "countryCode": "LC"
+              },
+              {
+                "countryCode": "VC"
+              },
+              {
+                "countryCode": "SR"
+              },
+              {
+                "countryCode": "TL"
+              },
+              {
+                "countryCode": "TO"
+              },
+              {
+                "countryCode": "TT"
+              },
+              {
+                "countryCode": "TV"
+              },
+              {
+                "countryCode": "VU"
+              },
+              {
+                "countryCode": "AZ"
+              },
+              {
+                "countryCode": "BN"
+              },
+              {
+                "countryCode": "BI"
+              },
+              {
+                "countryCode": "KH"
+              },
+              {
+                "countryCode": "CM"
+              },
+              {
+                "countryCode": "TD"
+              },
+              {
+                "countryCode": "KM"
+              },
+              {
+                "countryCode": "GQ"
+              },
+              {
+                "countryCode": "SZ"
+              },
+              {
+                "countryCode": "GA"
+              },
+              {
+                "countryCode": "GN"
+              },
+              {
+                "countryCode": "KG"
+              },
+              {
+                "countryCode": "LA"
+              },
+              {
+                "countryCode": "MO"
+              },
+              {
+                "countryCode": "MR"
+              },
+              {
+                "countryCode": "MN"
+              },
+              {
+                "countryCode": "NP"
+              },
+              {
+                "countryCode": "RW"
+              },
+              {
+                "countryCode": "TG"
+              },
+              {
+                "countryCode": "UZ"
+              },
+              {
+                "countryCode": "ZW"
+              },
+              {
+                "countryCode": "BJ"
+              },
+              {
+                "countryCode": "MG"
+              },
+              {
+                "countryCode": "MU"
+              },
+              {
+                "countryCode": "MZ"
+              },
+              {
+                "countryCode": "AO"
+              },
+              {
+                "countryCode": "CI"
+              },
+              {
+                "countryCode": "DJ"
+              },
+              {
+                "countryCode": "ZM"
+              },
+              {
+                "countryCode": "CD"
+              },
+              {
+                "countryCode": "CG"
+              },
+              {
+                "countryCode": "IQ"
+              },
+              {
+                "countryCode": "LY"
+              },
+              {
+                "countryCode": "TJ"
+              },
+              {
+                "countryCode": "VE"
+              },
+              {
+                "countryCode": "ET"
+              },
+              {
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "© 2012 UMG Recordings, Inc.",
+                "type": "C"
+              },
+              {
+                "text": "℗ 2012 UMG Recordings, Inc.",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#956E5B"
+              },
+              "colorRaw": {
+                "hex": "#F8B898"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851901e88d89c5024c25784e982",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02901e88d89c5024c25784e982",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273901e88d89c5024c25784e982",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 22,
+            "month": 3,
+            "year": 1974
+          },
+          "id": "61eEIJPtxDANbzhNFKbqxF",
+          "isPreRelease": false,
+          "name": "Apostrophe(')",
+          "preReleaseEndDateTime": null,
+          "type": "ALBUM",
+          "uri": "spotify:album:61eEIJPtxDANbzhNFKbqxF",
+          "tracksV2": {
+            "items": [
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Frank Zappa"
+                        },
+                        "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 125320
+                  },
+                  "id": "3BSffJRNgnfrxYLSTQnWfp",
+                  "name": "Don't Eat The Yellow Snow",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/5503237924cdda01d40217062c5aa9d11996df19"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 1,
+                  "uri": "spotify:track:3BSffJRNgnfrxYLSTQnWfp"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Frank Zappa"
+                        },
+                        "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 277160
+                  },
+                  "id": "6XwrbgKnKtUWKwUoI4QUNl",
+                  "name": "Nanook Rubs It",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/1e18a93fc479aae34e4769159c34ff3c62ba03d6"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 2,
+                  "uri": "spotify:track:6XwrbgKnKtUWKwUoI4QUNl"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Frank Zappa"
+                        },
+                        "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 110400
+                  },
+                  "id": "1qxUU8w0o0n5ZpI1yW15AX",
+                  "name": "St. Alfonzo's Pancake Breakfast",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/52e36df31378653c71b0a78f2d8df58b3d6b7fe6"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 3,
+                  "uri": "spotify:track:1qxUU8w0o0n5ZpI1yW15AX"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Frank Zappa"
+                        },
+                        "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 137653
+                  },
+                  "id": "6BUR9whH7TTVimxLRClzGT",
+                  "name": "Father O'Blivion",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/d7efde9ad0ddfe736ffa5c16e9d0a5edecb616cb"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 4,
+                  "uri": "spotify:track:6BUR9whH7TTVimxLRClzGT"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Frank Zappa"
+                        },
+                        "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 255880
+                  },
+                  "id": "2MfSEvDwpxwlreZvpTsxiA",
+                  "name": "Cosmik Debris",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/b3efd2498364613a782281f9b8c508f063055924"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 5,
+                  "uri": "spotify:track:2MfSEvDwpxwlreZvpTsxiA"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Frank Zappa"
+                        },
+                        "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 93293
+                  },
+                  "id": "4whjT4CPpCneMsBk5Z0ssw",
+                  "name": "Excentrifugal Forz",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/e2b935873ff7bca1c78beaf697054a40fd6ff7b8"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 6,
+                  "uri": "spotify:track:4whjT4CPpCneMsBk5Z0ssw"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Frank Zappa"
+                        },
+                        "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 349786
+                  },
+                  "id": "3UiRZgwVslj8NkkSYJuHHD",
+                  "name": "Apostrophe'",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/8c4df36ada6882b10a27a786be6b336fec863749"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 7,
+                  "uri": "spotify:track:3UiRZgwVslj8NkkSYJuHHD"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Frank Zappa"
+                        },
+                        "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 169600
+                  },
+                  "id": "7Az7seT3WvpEOVWzjPnjXs",
+                  "name": "Uncle Remus",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/39be17304be18e048c46120c53642b24a3c6efc9"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 8,
+                  "uri": "spotify:track:7Az7seT3WvpEOVWzjPnjXs"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Frank Zappa"
+                        },
+                        "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 400693
+                  },
+                  "id": "0OFE4P0DGa6wZq3CrBKJK9",
+                  "name": "Stink-Foot",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/67ea0b27c40195cfef30cfac277e342d6a7e18c7"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 9,
+                  "uri": "spotify:track:0OFE4P0DGa6wZq3CrBKJK9"
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null,
+              "offset": 0
+            },
+            "totalCount": 9
+          },
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Frank Zappa"
+                },
+                "stats": {
+                  "monthlyListeners": 1261586
+                },
+                "uri": "spotify:artist:6ra4GIOgCZQZMOaUECftGN",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 658,
+                        "url": "https://i.scdn.co/image/f2c74b01414e5d40b07baea7e5a2e7dd00b85c5b",
+                        "width": 640
+                      },
+                      {
+                        "height": 66,
+                        "url": "https://i.scdn.co/image/5476aad521baecb4a2c03ebcf67699d15a949af7",
+                        "width": 64
+                      },
+                      {
+                        "height": 206,
+                        "url": "https://i.scdn.co/image/4b7ce8ea46a12071667f7ca393da0b509bb62af8",
+                        "width": 200
+                      },
+                      {
+                        "height": 1028,
+                        "url": "https://i.scdn.co/image/e1c04d8144371d6a6ac39c7f15a1c2a9f67a0c50",
+                        "width": 1000
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "album": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicAlbum",
+      "@id": "https://open.spotify.com/album/61eEIJPtxDANbzhNFKbqxF",
+      "url": "https://open.spotify.com/album/61eEIJPtxDANbzhNFKbqxF",
+      "name": "Apostrophe(')",
+      "description": "Listen to Apostrophe(') on Spotify · album · Frank Zappa · 1974 · 9 songs",
+      "datePublished": "1974-03-22",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/album/61eEIJPtxDANbzhNFKbqxF?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/album/61eEIJPtxDANbzhNFKbqxF/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 250973,
+  "albumLinks": [
+    {
+      "id": "3QrEk9Va9qO4uobczNUtqe",
+      "label": "Over-Nite Sensation  Album • 1973"
+    },
+    {
+      "id": "61eEIJPtxDANbzhNFKbqxF",
+      "label": "Apostrophe(')  Album • 1974"
+    },
+    {
+      "id": "58vlZjXF95AYHwpTZKOP7a",
+      "label": "Joe's Garage Acts I, II & III  Album • 1979"
+    },
+    {
+      "id": "3ShH5ngTENPbZjE9PVctJj",
+      "label": "Sheik Yerbouti  Album • 1979"
+    },
+    {
+      "id": "0WYYrC9My9rYWigac003hw",
+      "label": "Hot Rats  Album • 1969"
+    },
+    {
+      "id": "51RsVIPwstHcEIBfJ8qs7e",
+      "label": "Understanding America  Album • 2012"
+    },
+    {
+      "id": "4jO5jCLIpGvU08V8VCa5CX",
+      "label": "Zoot Allures  Album • 1976"
+    },
+    {
+      "id": "3UuS2eUXelR9MsI3gvEW9w",
+      "label": "One Size Fits All  Album • 1975"
+    },
+    {
+      "id": "6qfS5de8GAy1G5tk7tyiof",
+      "label": "Freak Out!  Album • 1966"
+    },
+    {
+      "id": "6IMRXGiuck95q5i1p3cZuf",
+      "label": "Freak Out! (60th Anniversary)  Album • 2026"
+    }
+  ]
+}

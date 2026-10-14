@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "coverage": {
+    "eligible": 92,
+    "searched": 92,
+    "matched": 77,
+    "unresolved": 15
+  },
+  "canonicalSourceUnchangedAtValidation": true,
+  "checks": [
+    "All 92 baseline IDs, positions and physical identities preserved",
+    "Every record has a completed decision and search evidence",
+    "Accepted IDs match direct primary Spotify album metadata",
+    "Every referenced evidence file exists",
+    "No unredacted runtime token or secret fields retained"
+  ]
+}

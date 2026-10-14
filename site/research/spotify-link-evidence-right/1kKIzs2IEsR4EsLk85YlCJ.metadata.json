@@ -1,0 +1,3548 @@
+{
+  "url": "https://open.spotify.com/track/1kKIzs2IEsR4EsLk85YlCJ",
+  "resolvedUrl": "https://open.spotify.com/track/1kKIzs2IEsR4EsLk85YlCJ",
+  "fetchedAt": "2026-10-14T05:14:49Z",
+  "pageTitle": "Easy Does It - song and lyrics by Supertramp | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:1kKIzs2IEsR4EsLk85YlCJ": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "© 2024 UMG Recordings, Inc.",
+                  "type": "C"
+                },
+                {
+                  "text": "This Compilation ℗ 2024 UMG Recordings, Inc.",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#E52818"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485166f51231b8d5f9ccbfbe891d",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0266f51231b8d5f9ccbfbe891d",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27366f51231b8d5f9ccbfbe891d",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 20,
+              "month": 9,
+              "year": 2024
+            },
+            "isPreRelease": false,
+            "name": "Maquina Del Tiempo | 70's",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0LcJLqbBmaGUft1e9Mm8HV",
+                          "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV",
+                          "profile": {
+                            "name": "ABBA"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0EIJeer8xlZKeWr5Qzl67l",
+                    "name": "Money, Money, Money",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:0EIJeer8xlZKeWr5Qzl67l",
+                    "duration": {
+                      "totalMilliseconds": 186786
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+                          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+                          "profile": {
+                            "name": "Queen"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "27cMbTrjFFKSXvhpOzirbd",
+                    "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:27cMbTrjFFKSXvhpOzirbd",
+                    "duration": {
+                      "totalMilliseconds": 173053
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5NGO30tJxFlKixkPSgXcFE",
+                          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE",
+                          "profile": {
+                            "name": "The Police"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "58oFdeEiGqqKlmjCzXCSYp",
+                    "name": "Message In A Bottle - Remastered 2003",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:58oFdeEiGqqKlmjCzXCSYp",
+                    "duration": {
+                      "totalMilliseconds": 290280
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4tpUmLEVLCGFr93o8hFFIB",
+                          "uri": "spotify:artist:4tpUmLEVLCGFr93o8hFFIB",
+                          "profile": {
+                            "name": "Blondie"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3bv7tV9L4jgsSrNck5iMKI",
+                    "name": "One Way Or Another - Remastered 2001",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:3bv7tV9L4jgsSrNck5iMKI",
+                    "duration": {
+                      "totalMilliseconds": 215106
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7guDJrEfX3qb6FEbdPA5qi",
+                          "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi",
+                          "profile": {
+                            "name": "Stevie Wonder"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4oSB5KtYImjdg7nL0ytZTY",
+                    "name": "Living For The City - Edit Version",
+                    "trackNumber": 5,
+                    "uri": "spotify:track:4oSB5KtYImjdg7nL0ytZTY",
+                    "duration": {
+                      "totalMilliseconds": 221466
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "3MdG05syQeRYPPcClLaUGl",
+                          "uri": "spotify:artist:3MdG05syQeRYPPcClLaUGl",
+                          "profile": {
+                            "name": "Diana Ross"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3EIMH6efobQXC4M1RQ6YcO",
+                    "name": "No One Gets The Prize - 12\" Mix",
+                    "trackNumber": 6,
+                    "uri": "spotify:track:3EIMH6efobQXC4M1RQ6YcO",
+                    "duration": {
+                      "totalMilliseconds": 382693
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "2eogQKWWoohI3BSnoG7E2U",
+                          "uri": "spotify:artist:2eogQKWWoohI3BSnoG7E2U",
+                          "profile": {
+                            "name": "Donna Summer"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1PdqYnTJuKQ3HUvMBjjxaE",
+                    "name": "Full Of Emptiness",
+                    "trackNumber": 7,
+                    "uri": "spotify:track:1PdqYnTJuKQ3HUvMBjjxaE",
+                    "duration": {
+                      "totalMilliseconds": 147826
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "2QsynagSdAqZj3U9HgDzjD",
+                          "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD",
+                          "profile": {
+                            "name": "Bob Marley & The Wailers"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5az2tPOHNjPvM0J88R22C2",
+                    "name": "One Foundation",
+                    "trackNumber": 8,
+                    "uri": "spotify:track:5az2tPOHNjPvM0J88R22C2",
+                    "duration": {
+                      "totalMilliseconds": 221866
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0LcJLqbBmaGUft1e9Mm8HV",
+                          "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV",
+                          "profile": {
+                            "name": "ABBA"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6MpDruVgvXoPbJik6eWgP4",
+                    "name": "He Is Your Brother",
+                    "trackNumber": 9,
+                    "uri": "spotify:track:6MpDruVgvXoPbJik6eWgP4",
+                    "duration": {
+                      "totalMilliseconds": 199026
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "28AyklUmMECPwdfo8NEsV0",
+                          "uri": "spotify:artist:28AyklUmMECPwdfo8NEsV0",
+                          "profile": {
+                            "name": "Jimmy Buffett"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "55Ho6iyDTP6QMOZ1vszNuW",
+                    "name": "Nautical Wheelers",
+                    "trackNumber": 10,
+                    "uri": "spotify:track:55Ho6iyDTP6QMOZ1vszNuW",
+                    "duration": {
+                      "totalMilliseconds": 217760
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx",
+                          "profile": {
+                            "name": "Supertramp"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1u6tfJsFfgXri0AYOLFUhh",
+                    "name": "Another Man's Woman",
+                    "trackNumber": 11,
+                    "uri": "spotify:track:1u6tfJsFfgXri0AYOLFUhh",
+                    "duration": {
+                      "totalMilliseconds": 387920
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+                          "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+                          "profile": {
+                            "name": "Queen"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3rF2ED7hj9NzFp5azmGYrQ",
+                    "name": "Love Of My Life - Remastered 2011",
+                    "trackNumber": 12,
+                    "uri": "spotify:track:3rF2ED7hj9NzFp5azmGYrQ",
+                    "duration": {
+                      "totalMilliseconds": 214226
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5NGO30tJxFlKixkPSgXcFE",
+                          "uri": "spotify:artist:5NGO30tJxFlKixkPSgXcFE",
+                          "profile": {
+                            "name": "The Police"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1Ygh2ltAfrYQBymewXNNzO",
+                    "name": "Deathwish - Remastered 2003",
+                    "trackNumber": 13,
+                    "uri": "spotify:track:1Ygh2ltAfrYQBymewXNNzO",
+                    "duration": {
+                      "totalMilliseconds": 251960
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "1eEfMU2AhEo7XnKgL7c304",
+                          "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304",
+                          "profile": {
+                            "name": "Carpenters"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4pVVi3ZjSAY42RozXf0O0K",
+                    "name": "Goodbye To Love",
+                    "trackNumber": 14,
+                    "uri": "spotify:track:4pVVi3ZjSAY42RozXf0O0K",
+                    "duration": {
+                      "totalMilliseconds": 236773
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "1b3F5FI7TX4IWTNA4P1kWp",
+                          "uri": "spotify:artist:1b3F5FI7TX4IWTNA4P1kWp",
+                          "profile": {
+                            "name": "Hugh Masekela"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6NLQ9IWK67SyvozaGrRDYC",
+                    "name": "Part Of A Whole",
+                    "trackNumber": 15,
+                    "uri": "spotify:track:6NLQ9IWK67SyvozaGrRDYC",
+                    "duration": {
+                      "totalMilliseconds": 577093
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0LcJLqbBmaGUft1e9Mm8HV",
+                          "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV",
+                          "profile": {
+                            "name": "ABBA"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6v0B1AhIBwYlDEJrb0cuAh",
+                    "name": "So Long",
+                    "trackNumber": 16,
+                    "uri": "spotify:track:6v0B1AhIBwYlDEJrb0cuAh",
+                    "duration": {
+                      "totalMilliseconds": 185586
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "2QsynagSdAqZj3U9HgDzjD",
+                          "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD",
+                          "profile": {
+                            "name": "Bob Marley & The Wailers"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3jQFI6kXzMCe9fDdJ9WiaR",
+                    "name": "Reincarnated Soul",
+                    "trackNumber": 17,
+                    "uri": "spotify:track:3jQFI6kXzMCe9fDdJ9WiaR",
+                    "duration": {
+                      "totalMilliseconds": 223240
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "08F3Y3SctIlsOEmKd6dnH8",
+                          "uri": "spotify:artist:08F3Y3SctIlsOEmKd6dnH8",
+                          "profile": {
+                            "name": "Yusuf / Cat Stevens"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7ANxgkxMgCKJhfT8wMpGRO",
+                    "name": "Another Saturday Night",
+                    "trackNumber": 18,
+                    "uri": "spotify:track:7ANxgkxMgCKJhfT8wMpGRO",
+                    "duration": {
+                      "totalMilliseconds": 150360
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "28AyklUmMECPwdfo8NEsV0",
+                          "uri": "spotify:artist:28AyklUmMECPwdfo8NEsV0",
+                          "profile": {
+                            "name": "Jimmy Buffett"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3SmWFhAXlczFQwv9kiQA1P",
+                    "name": "A Pirate Looks At Forty",
+                    "trackNumber": 19,
+                    "uri": "spotify:track:3SmWFhAXlczFQwv9kiQA1P",
+                    "duration": {
+                      "totalMilliseconds": 231800
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4hKkEHkaqCsyxNxXEsszVH",
+                          "uri": "spotify:artist:4hKkEHkaqCsyxNxXEsszVH",
+                          "profile": {
+                            "name": "John Travolta"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1VcWSuryp3tTGvAju110l9",
+                    "name": "Sandy - From “Grease”",
+                    "trackNumber": 20,
+                    "uri": "spotify:track:1VcWSuryp3tTGvAju110l9",
+                    "duration": {
+                      "totalMilliseconds": 155693
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "3MdG05syQeRYPPcClLaUGl",
+                          "uri": "spotify:artist:3MdG05syQeRYPPcClLaUGl",
+                          "profile": {
+                            "name": "Diana Ross"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6jU1hi5YEc4mMTyLppQ4Dw",
+                    "name": "Home - Motown Version",
+                    "trackNumber": 21,
+                    "uri": "spotify:track:6jU1hi5YEc4mMTyLppQ4Dw",
+                    "duration": {
+                      "totalMilliseconds": 226395
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4gIdjgLlvgEOz7MexDZzpM",
+                          "uri": "spotify:artist:4gIdjgLlvgEOz7MexDZzpM",
+                          "profile": {
+                            "name": "Status Quo"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2bN0kzwG3m4ejUSSSK7UwK",
+                    "name": "Down Down",
+                    "trackNumber": 22,
+                    "uri": "spotify:track:2bN0kzwG3m4ejUSSSK7UwK",
+                    "duration": {
+                      "totalMilliseconds": 324960
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "1eEfMU2AhEo7XnKgL7c304",
+                          "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304",
+                          "profile": {
+                            "name": "Carpenters"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3r0b4MMxI574ZJVrWww0BH",
+                    "name": "I Have You",
+                    "trackNumber": 23,
+                    "uri": "spotify:track:3r0b4MMxI574ZJVrWww0BH",
+                    "duration": {
+                      "totalMilliseconds": 207600
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5JFi0qiRtsMLnSUJDwhBKo",
+                          "uri": "spotify:artist:5JFi0qiRtsMLnSUJDwhBKo",
+                          "profile": {
+                            "name": "Stockard Channing"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1KZn7ndoORQDQqi4Yft2OR",
+                    "name": "There Are Worse Things I Could Do - From “Grease”",
+                    "trackNumber": 24,
+                    "uri": "spotify:track:1KZn7ndoORQDQqi4Yft2OR",
+                    "duration": {
+                      "totalMilliseconds": 143160
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7guDJrEfX3qb6FEbdPA5qi",
+                          "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi",
+                          "profile": {
+                            "name": "Stevie Wonder"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3cHTxrdzuUZ0bzvNCFRwss",
+                    "name": "Summer Soft",
+                    "trackNumber": 25,
+                    "uri": "spotify:track:3cHTxrdzuUZ0bzvNCFRwss",
+                    "duration": {
+                      "totalMilliseconds": 254106
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5BcZ22XONcRoLhTbZRuME1",
+                          "uri": "spotify:artist:5BcZ22XONcRoLhTbZRuME1",
+                          "profile": {
+                            "name": "The Moody Blues"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6rIjw0CDcKZnIEXO2QV3H1",
+                    "name": "Melancholy Man",
+                    "trackNumber": 26,
+                    "uri": "spotify:track:6rIjw0CDcKZnIEXO2QV3H1",
+                    "duration": {
+                      "totalMilliseconds": 345346
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "1T0wRBO0CK0vK8ouUMqEl5",
+                          "uri": "spotify:artist:1T0wRBO0CK0vK8ouUMqEl5",
+                          "profile": {
+                            "name": "Tom Jones"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "59KocGajzpZxqzspcicFY6",
+                    "name": "I (Who Have Nothing)",
+                    "trackNumber": 27,
+                    "uri": "spotify:track:59KocGajzpZxqzspcicFY6",
+                    "duration": {
+                      "totalMilliseconds": 177040
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "2P560DaOMNDUACoH8ZhOCR",
+                          "uri": "spotify:artist:2P560DaOMNDUACoH8ZhOCR",
+                          "profile": {
+                            "name": "The Jam"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6RWZAB7B5dzxzCUqD1IC3I",
+                    "name": "Art School",
+                    "trackNumber": 28,
+                    "uri": "spotify:track:6RWZAB7B5dzxzCUqD1IC3I",
+                    "duration": {
+                      "totalMilliseconds": 121066
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx",
+                          "profile": {
+                            "name": "Supertramp"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1kKIzs2IEsR4EsLk85YlCJ",
+                    "name": "Easy Does It",
+                    "trackNumber": 29,
+                    "uri": "spotify:track:1kKIzs2IEsR4EsLk85YlCJ",
+                    "duration": {
+                      "totalMilliseconds": 138933
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4salDzkGmfycRqNUbyBphh",
+                          "uri": "spotify:artist:4salDzkGmfycRqNUbyBphh",
+                          "profile": {
+                            "name": "Styx"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4fPIOCHQpgo8T2YG3Y0aNq",
+                    "name": "Lorelei",
+                    "trackNumber": 30,
+                    "uri": "spotify:track:4fPIOCHQpgo8T2YG3Y0aNq",
+                    "duration": {
+                      "totalMilliseconds": 202066
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "3MdG05syQeRYPPcClLaUGl",
+                          "uri": "spotify:artist:3MdG05syQeRYPPcClLaUGl",
+                          "profile": {
+                            "name": "Diana Ross"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7KINCglZDlCzX9cqKi1AH2",
+                    "name": "Sorry Doesn't Always Make It Right - Single Version",
+                    "trackNumber": 31,
+                    "uri": "spotify:track:7KINCglZDlCzX9cqKi1AH2",
+                    "duration": {
+                      "totalMilliseconds": 208866
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "2QsynagSdAqZj3U9HgDzjD",
+                          "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD",
+                          "profile": {
+                            "name": "Bob Marley & The Wailers"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "63xlkQ42XFJ76LWVymf4Be",
+                    "name": "Stir It Up - Live At Leeds Polytechnic, 1973",
+                    "trackNumber": 32,
+                    "uri": "spotify:track:63xlkQ42XFJ76LWVymf4Be",
+                    "duration": {
+                      "totalMilliseconds": 445146
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "1eEfMU2AhEo7XnKgL7c304",
+                          "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304",
+                          "profile": {
+                            "name": "Carpenters"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5ustSjvpQRfcSiVhO3qEsa",
+                    "name": "A Song For You",
+                    "trackNumber": 33,
+                    "uri": "spotify:track:5ustSjvpQRfcSiVhO3qEsa",
+                    "duration": {
+                      "totalMilliseconds": 282026
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "COMPILATION",
+            "uri": "spotify:album:2lKJ3RjnsbHLA2ZevbkReE"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e021d52d99c62c988941510e249",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048511d52d99c62c988941510e249",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2731d52d99c62c988941510e249",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2011
+                              },
+                              "id": "2M8h9sC6Ffu9kz7ZHWgHcy",
+                              "name": "Live In Paris '79",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:2M8h9sC6Ffu9kz7ZHWgHcy"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02a8809f781c8d7161add014f0",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851a8809f781c8d7161add014f0",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273a8809f781c8d7161add014f0",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1987
+                              },
+                              "id": "5YHsZ6uDUjKr2yczXxppHw",
+                              "name": "Free As A Bird (Remastered 2026)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:5YHsZ6uDUjKr2yczXxppHw"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02f29b79953ca6bc354bd18fd4",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851f29b79953ca6bc354bd18fd4",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273f29b79953ca6bc354bd18fd4",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1985
+                              },
+                              "id": "1uwDWiG9WWg8cV61rYFuhB",
+                              "name": "Brother Where You Bound (Remastered 2026)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:1uwDWiG9WWg8cV61rYFuhB"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02cd48967270f5941297632083",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851cd48967270f5941297632083",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273cd48967270f5941297632083",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1982
+                              },
+                              "id": "6yZ5AVURQtb7Gt0G4u5H7p",
+                              "name": "\"...Famous Last Words...\" (Remastered 2026)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:6yZ5AVURQtb7Gt0G4u5H7p"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02bf54521d83215d69b57f614b",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851bf54521d83215d69b57f614b",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273bf54521d83215d69b57f614b",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1980
+                              },
+                              "id": "0LnGhdkTo5SEoIosiydUaR",
+                              "name": "Paris",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0LnGhdkTo5SEoIosiydUaR"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048515405ef9e393f5f1e53b4b42e",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2735405ef9e393f5f1e53b4b42e",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1979
+                              },
+                              "id": "1zcm3UvHNHpseYOUfd0pna",
+                              "name": "Breakfast In America (Deluxe Edition)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:1zcm3UvHNHpseYOUfd0pna"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a924b911ffbb6aab25c48a8a",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a924b911ffbb6aab25c48a8a",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a924b911ffbb6aab25c48a8a",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1979
+                        },
+                        "id": "2Se3yqacWPSmAMSfxuWtdM",
+                        "name": "Breakfast In America (Remastered 2026)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2Se3yqacWPSmAMSfxuWtdM"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048515405ef9e393f5f1e53b4b42e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2735405ef9e393f5f1e53b4b42e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1979
+                        },
+                        "id": "1zcm3UvHNHpseYOUfd0pna",
+                        "name": "Breakfast In America (Deluxe Edition)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1zcm3UvHNHpseYOUfd0pna"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02be91795435584ccd90c2a76a",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851be91795435584ccd90c2a76a",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273be91795435584ccd90c2a76a",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1977
+                        },
+                        "id": "0kW7WYI6RWpplTyzUg048H",
+                        "name": "Even In The Quietest Moments... (Remastered 2026)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0kW7WYI6RWpplTyzUg048H"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0289d7032603b62e9aedb03fa2",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485189d7032603b62e9aedb03fa2",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27389d7032603b62e9aedb03fa2",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1974
+                        },
+                        "id": "2wrHaulTgqqkVKx0k7Kq4r",
+                        "name": "Crime Of The Century (Remastered)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2wrHaulTgqqkVKx0k7Kq4r"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02f82d2bd1097e3e60a6a049a3",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851f82d2bd1097e3e60a6a049a3",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273f82d2bd1097e3e60a6a049a3",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1990
+                        },
+                        "id": "3kv1eLaL0W9Uci9mZGryzS",
+                        "name": "The Very Best Of Supertramp",
+                        "type": "COMPILATION",
+                        "uri": "spotify:album:3kv1eLaL0W9Uci9mZGryzS"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02cd48967270f5941297632083",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851cd48967270f5941297632083",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273cd48967270f5941297632083",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1982
+                        },
+                        "id": "6yZ5AVURQtb7Gt0G4u5H7p",
+                        "name": "\"...Famous Last Words...\" (Remastered 2026)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6yZ5AVURQtb7Gt0G4u5H7p"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": []
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02a924b911ffbb6aab25c48a8a",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851a924b911ffbb6aab25c48a8a",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273a924b911ffbb6aab25c48a8a",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Breakfast In America (Remastered 2026)",
+                            "uri": "spotify:album:2Se3yqacWPSmAMSfxuWtdM"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx",
+                                "profile": {
+                                  "name": "Supertramp"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "4ovN8JcQzTJfCD9ptUXovU",
+                          "name": "The Logical Song - Remastered 2026",
+                          "playcount": "606123735",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/eb0f3f944ba0ad062babf9bd102719ed992136de"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:4ovN8JcQzTJfCD9ptUXovU",
+                          "duration": {
+                            "totalMilliseconds": 251546
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02be91795435584ccd90c2a76a",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851be91795435584ccd90c2a76a",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273be91795435584ccd90c2a76a",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Even In The Quietest Moments... (Remastered 2026)",
+                            "uri": "spotify:album:0kW7WYI6RWpplTyzUg048H"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx",
+                                "profile": {
+                                  "name": "Supertramp"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "1JI4nBu8CZjKYjyADy8kAv",
+                          "name": "Give A Little Bit",
+                          "playcount": "615907294",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/e0a885cc7ff57a27ef2573f396ee54c068b9d6ee"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:1JI4nBu8CZjKYjyADy8kAv",
+                          "duration": {
+                            "totalMilliseconds": 249000
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02a924b911ffbb6aab25c48a8a",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851a924b911ffbb6aab25c48a8a",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273a924b911ffbb6aab25c48a8a",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Breakfast In America (Remastered 2026)",
+                            "uri": "spotify:album:2Se3yqacWPSmAMSfxuWtdM"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx",
+                                "profile": {
+                                  "name": "Supertramp"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "3omTpa42nUfQS3OHiRUSeF",
+                          "name": "Breakfast In America - Remastered 2026",
+                          "playcount": "507738913",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/96ffdddb64913ef3a0f1f93126f5f0632d34630d"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:3omTpa42nUfQS3OHiRUSeF",
+                          "duration": {
+                            "totalMilliseconds": 159466
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02a924b911ffbb6aab25c48a8a",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851a924b911ffbb6aab25c48a8a",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273a924b911ffbb6aab25c48a8a",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Breakfast In America (Remastered 2026)",
+                            "uri": "spotify:album:2Se3yqacWPSmAMSfxuWtdM"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx",
+                                "profile": {
+                                  "name": "Supertramp"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "4NRGLwK3R5SQE9iGg9mKTA",
+                          "name": "Goodbye Stranger - Remastered 2026",
+                          "playcount": "244570439",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/9b9b2f4c1fd58a4fa0564aad7c8ee65fc5ba276e"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:4NRGLwK3R5SQE9iGg9mKTA",
+                          "duration": {
+                            "totalMilliseconds": 350946
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "3CkvROUTQ6nRi9yQOcsB50",
+                        "profile": {
+                          "name": "Genesis"
+                        },
+                        "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eba6a5c327ebbc1131effef2e0",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178a6a5c327ebbc1131effef2e0",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174a6a5c327ebbc1131effef2e0",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2m62cc253Xvd9qYQ8d2X3d",
+                        "profile": {
+                          "name": "The Alan Parsons Project"
+                        },
+                        "uri": "spotify:artist:2m62cc253Xvd9qYQ8d2X3d",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 658,
+                                "url": "https://i.scdn.co/image/112b078d34b51f977720805963334611383ee1c1",
+                                "width": 640
+                              },
+                              {
+                                "height": 66,
+                                "url": "https://i.scdn.co/image/50beb6c019cacb758e07f102168add254b0acd18",
+                                "width": 64
+                              },
+                              {
+                                "height": 206,
+                                "url": "https://i.scdn.co/image/63e9f6ec84b77cd5d8631c7d6e9c2f3273693254",
+                                "width": 200
+                              },
+                              {
+                                "height": 1028,
+                                "url": "https://i.scdn.co/image/3e90d18b7375a0e78340d23f72822646c4cc3b70",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "7jefIIksOi1EazgRTfW2Pk",
+                        "profile": {
+                          "name": "Electric Light Orchestra"
+                        },
+                        "uri": "spotify:artist:7jefIIksOi1EazgRTfW2Pk",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb6ee22df4403027ae525ced87",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f1786ee22df4403027ae525ced87",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab676161000051746ee22df4403027ae525ced87",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+                        "profile": {
+                          "name": "Dire Straits"
+                        },
+                        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb4bdaa8c5e65b64f50549c393",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f1784bdaa8c5e65b64f50549c393",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab676161000051744bdaa8c5e65b64f50549c393",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "0DW7boyjvbaSP3OJ72sXgC",
+                        "profile": {
+                          "name": "Al Stewart"
+                        },
+                        "uri": "spotify:artist:0DW7boyjvbaSP3OJ72sXgC",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/8c5e32b1ef51d9dd2f5d5fa075624417b3ede012",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/f5823f7b50ecb56b0dfd05974ccd45835c36c6be",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/124ec7d296932dd8f8edba85db3983cbf8112a55",
+                                "width": 200
+                              },
+                              {
+                                "height": 1000,
+                                "url": "https://i.scdn.co/image/ccaee5b70c1958b1496e16dcb50d2d6e98356862",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "7tjbDPvrdvDshcpEMXKRVb",
+                        "profile": {
+                          "name": "Gerry Rafferty"
+                        },
+                        "uri": "spotify:artist:7tjbDPvrdvDshcpEMXKRVb",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb458dd0cbffc2b84311f5aa7d",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178458dd0cbffc2b84311f5aa7d",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174458dd0cbffc2b84311f5aa7d",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+                "profile": {
+                  "name": "Supertramp"
+                },
+                "stats": {
+                  "monthlyListeners": 8997910
+                },
+                "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 625,
+                        "url": "https://i.scdn.co/image/b0183fa5aa1cc1f8972bf49e2fc0ecce6bdb184d",
+                        "width": 640
+                      },
+                      {
+                        "height": 63,
+                        "url": "https://i.scdn.co/image/c835c0c90dde46223c23ed9a01b9671e174de708",
+                        "width": 64
+                      },
+                      {
+                        "height": 195,
+                        "url": "https://i.scdn.co/image/52dfb5d8e545c42dfe97cbb2f9ebe825799c60b1",
+                        "width": 200
+                      },
+                      {
+                        "height": 977,
+                        "url": "https://i.scdn.co/image/eebed895cad509b17c7c6faf47f21f1fc35e8829",
+                        "width": 1000
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "__typename": "Market",
+                "countryCode": "AR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MX"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ES"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "US"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ID"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "QA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "OM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ME"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BF"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ML"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ST"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ET"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 138933
+          },
+          "id": "1kKIzs2IEsR4EsLk85YlCJ",
+          "mediaType": "AUDIO",
+          "name": "Easy Does It",
+          "playability": {
+            "playable": true
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/494d0d600fc6a4a40ca54c80cb30afe114d60d80"
+                }
+              ]
+            }
+          },
+          "trackNumber": 29,
+          "uri": "spotify:track:1kKIzs2IEsR4EsLk85YlCJ"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "1kKIzs2IEsR4EsLk85YlCJ": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:1kKIzs2IEsR4EsLk85YlCJ"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0290af8b70a57eab275a3ae47f",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485190af8b70a57eab275a3ae47f",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27390af8b70a57eab275a3ae47f",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "2Nip1nntVPSdHJs0ZcRRHg",
+              "name": "Crisis? What Crisis? (Remastered 2025)",
+              "uri": "spotify:album:2Nip1nntVPSdHJs0ZcRRHg"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+                  "profile": {
+                    "name": "Supertramp"
+                  },
+                  "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                }
+              ]
+            },
+            "id": "4fAybZqd1Lkxfgl6CsTecU",
+            "name": "Poor Boy - Remastered 2025",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/a9919b1b4c8c3c35d71b042d7eaf304e9c2adbfc"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:4fAybZqd1Lkxfgl6CsTecU"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024eeebca2181c60fe4c0a5aaa",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514eeebca2181c60fe4c0a5aaa",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734eeebca2181c60fe4c0a5aaa",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "4ABoepBMa9pG5ZRqWicwgW",
+              "name": "Aqualung",
+              "uri": "spotify:album:4ABoepBMa9pG5ZRqWicwgW"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "6w6z8m4WXX7Tub4Rb6Lu7R",
+                  "profile": {
+                    "name": "Jethro Tull"
+                  },
+                  "uri": "spotify:artist:6w6z8m4WXX7Tub4Rb6Lu7R"
+                }
+              ]
+            },
+            "id": "2k2xaAc1QMpzf37an0FSuU",
+            "name": "Cheap Day Return - Steven Wilson Stereo Remix",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/c0e6c8525aa01a07f9e9f1aa629a64149a725703"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:2k2xaAc1QMpzf37an0FSuU"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02be91795435584ccd90c2a76a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851be91795435584ccd90c2a76a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273be91795435584ccd90c2a76a",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0kW7WYI6RWpplTyzUg048H",
+              "name": "Even In The Quietest Moments... (Remastered 2026)",
+              "uri": "spotify:album:0kW7WYI6RWpplTyzUg048H"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+                  "profile": {
+                    "name": "Supertramp"
+                  },
+                  "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                }
+              ]
+            },
+            "id": "2akGnjSopbnkBTbXwFWmgD",
+            "name": "Lover Boy",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/8e514f8b85b966434baee976728ada68e5de5c24"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:2akGnjSopbnkBTbXwFWmgD"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0289d7032603b62e9aedb03fa2",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485189d7032603b62e9aedb03fa2",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27389d7032603b62e9aedb03fa2",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "2wrHaulTgqqkVKx0k7Kq4r",
+              "name": "Crime Of The Century (Remastered)",
+              "uri": "spotify:album:2wrHaulTgqqkVKx0k7Kq4r"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+                  "profile": {
+                    "name": "Supertramp"
+                  },
+                  "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                }
+              ]
+            },
+            "id": "4GlAs0yVBjKbdpCTFlM90p",
+            "name": "If Everyone Was Listening",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/615c0c925a128ba2a7ef6c58fc1897b676d9015a"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:4GlAs0yVBjKbdpCTFlM90p"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02be91795435584ccd90c2a76a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851be91795435584ccd90c2a76a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273be91795435584ccd90c2a76a",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0kW7WYI6RWpplTyzUg048H",
+              "name": "Even In The Quietest Moments... (Remastered 2026)",
+              "uri": "spotify:album:0kW7WYI6RWpplTyzUg048H"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+                  "profile": {
+                    "name": "Supertramp"
+                  },
+                  "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                }
+              ]
+            },
+            "id": "7rWYZMDQBGLJklVWEqNvdh",
+            "name": "Even In The Quietest Moments",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/15015826e92f6e2cba9e6c4ea477221870ac387f"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:7rWYZMDQBGLJklVWEqNvdh"
+          }
+        ],
+        "uri": "spotify:track:1kKIzs2IEsR4EsLk85YlCJ",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0290af8b70a57eab275a3ae47f",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485190af8b70a57eab275a3ae47f",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27390af8b70a57eab275a3ae47f",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1975
+            },
+            "id": "2Nip1nntVPSdHJs0ZcRRHg",
+            "name": "Crisis? What Crisis? (Remastered 2025)",
+            "type": "ALBUM",
+            "uri": "spotify:album:2Nip1nntVPSdHJs0ZcRRHg"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02c511c6b8a8568aee99ddf18b",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851c511c6b8a8568aee99ddf18b",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273c511c6b8a8568aee99ddf18b",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1970
+            },
+            "id": "24lX0YfUlQfqb2T2GioLji",
+            "name": "McCartney",
+            "type": "ALBUM",
+            "uri": "spotify:album:24lX0YfUlQfqb2T2GioLji"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02b2fb4238eaa37aad5e01ada1",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851b2fb4238eaa37aad5e01ada1",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273b2fb4238eaa37aad5e01ada1",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2005
+            },
+            "id": "7reiQf1lsaL4PRcrvhOUKG",
+            "name": "Retrospectacle - The Supertramp Anthology",
+            "type": "COMPILATION",
+            "uri": "spotify:album:7reiQf1lsaL4PRcrvhOUKG"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0294e8bcd042aa9c3a6c5d7064",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485194e8bcd042aa9c3a6c5d7064",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27394e8bcd042aa9c3a6c5d7064",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1977
+            },
+            "id": "2vtMi0d0613jhp85klO9eb",
+            "name": "I Robot",
+            "type": "ALBUM",
+            "uri": "spotify:album:2vtMi0d0613jhp85klO9eb"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0289d7032603b62e9aedb03fa2",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485189d7032603b62e9aedb03fa2",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27389d7032603b62e9aedb03fa2",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1974
+            },
+            "id": "2wrHaulTgqqkVKx0k7Kq4r",
+            "name": "Crime Of The Century (Remastered)",
+            "type": "ALBUM",
+            "uri": "spotify:album:2wrHaulTgqqkVKx0k7Kq4r"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e029822f8f10f413de9b268605a",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048519822f8f10f413de9b268605a",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2739822f8f10f413de9b268605a",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1969
+            },
+            "id": "7wCflCoMEA9L7hIP65mfN3",
+            "name": "Yes (Deluxe Edition)",
+            "type": "ALBUM",
+            "uri": "spotify:album:7wCflCoMEA9L7hIP65mfN3"
+          }
+        ],
+        "uri": "spotify:track:1kKIzs2IEsR4EsLk85YlCJ",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/1kKIzs2IEsR4EsLk85YlCJ",
+      "url": "https://open.spotify.com/track/1kKIzs2IEsR4EsLk85YlCJ",
+      "name": "Easy Does It",
+      "description": "Listen to Easy Does It on Spotify. Song · Supertramp · 2024",
+      "datePublished": "2024-09-20",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/1kKIzs2IEsR4EsLk85YlCJ?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/1kKIzs2IEsR4EsLk85YlCJ/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": [
+            {
+              "@type": "Country",
+              "name": "AR"
+            },
+            {
+              "@type": "Country",
+              "name": "AU"
+            },
+            {
+              "@type": "Country",
+              "name": "AT"
+            },
+            {
+              "@type": "Country",
+              "name": "BE"
+            },
+            {
+              "@type": "Country",
+              "name": "BO"
+            },
+            {
+              "@type": "Country",
+              "name": "BR"
+            },
+            {
+              "@type": "Country",
+              "name": "BG"
+            },
+            {
+              "@type": "Country",
+              "name": "CA"
+            },
+            {
+              "@type": "Country",
+              "name": "CL"
+            },
+            {
+              "@type": "Country",
+              "name": "CO"
+            },
+            {
+              "@type": "Country",
+              "name": "CR"
+            },
+            {
+              "@type": "Country",
+              "name": "CY"
+            },
+            {
+              "@type": "Country",
+              "name": "CZ"
+            },
+            {
+              "@type": "Country",
+              "name": "DK"
+            },
+            {
+              "@type": "Country",
+              "name": "DO"
+            },
+            {
+              "@type": "Country",
+              "name": "DE"
+            },
+            {
+              "@type": "Country",
+              "name": "EC"
+            },
+            {
+              "@type": "Country",
+              "name": "EE"
+            },
+            {
+              "@type": "Country",
+              "name": "SV"
+            },
+            {
+              "@type": "Country",
+              "name": "FI"
+            },
+            {
+              "@type": "Country",
+              "name": "FR"
+            },
+            {
+              "@type": "Country",
+              "name": "GR"
+            },
+            {
+              "@type": "Country",
+              "name": "GT"
+            },
+            {
+              "@type": "Country",
+              "name": "HN"
+            },
+            {
+              "@type": "Country",
+              "name": "HK"
+            },
+            {
+              "@type": "Country",
+              "name": "HU"
+            },
+            {
+              "@type": "Country",
+              "name": "IS"
+            },
+            {
+              "@type": "Country",
+              "name": "IE"
+            },
+            {
+              "@type": "Country",
+              "name": "IT"
+            },
+            {
+              "@type": "Country",
+              "name": "LV"
+            },
+            {
+              "@type": "Country",
+              "name": "LT"
+            },
+            {
+              "@type": "Country",
+              "name": "LU"
+            },
+            {
+              "@type": "Country",
+              "name": "MY"
+            },
+            {
+              "@type": "Country",
+              "name": "MT"
+            },
+            {
+              "@type": "Country",
+              "name": "MX"
+            },
+            {
+              "@type": "Country",
+              "name": "NL"
+            },
+            {
+              "@type": "Country",
+              "name": "NZ"
+            },
+            {
+              "@type": "Country",
+              "name": "NI"
+            },
+            {
+              "@type": "Country",
+              "name": "NO"
+            },
+            {
+              "@type": "Country",
+              "name": "PA"
+            },
+            {
+              "@type": "Country",
+              "name": "PY"
+            },
+            {
+              "@type": "Country",
+              "name": "PE"
+            },
+            {
+              "@type": "Country",
+              "name": "PH"
+            },
+            {
+              "@type": "Country",
+              "name": "PL"
+            },
+            {
+              "@type": "Country",
+              "name": "PT"
+            },
+            {
+              "@type": "Country",
+              "name": "SG"
+            },
+            {
+              "@type": "Country",
+              "name": "SK"
+            },
+            {
+              "@type": "Country",
+              "name": "ES"
+            },
+            {
+              "@type": "Country",
+              "name": "SE"
+            },
+            {
+              "@type": "Country",
+              "name": "CH"
+            },
+            {
+              "@type": "Country",
+              "name": "TW"
+            },
+            {
+              "@type": "Country",
+              "name": "TR"
+            },
+            {
+              "@type": "Country",
+              "name": "UY"
+            },
+            {
+              "@type": "Country",
+              "name": "US"
+            },
+            {
+              "@type": "Country",
+              "name": "GB"
+            },
+            {
+              "@type": "Country",
+              "name": "ID"
+            },
+            {
+              "@type": "Country",
+              "name": "JP"
+            },
+            {
+              "@type": "Country",
+              "name": "TH"
+            },
+            {
+              "@type": "Country",
+              "name": "VN"
+            },
+            {
+              "@type": "Country",
+              "name": "RO"
+            },
+            {
+              "@type": "Country",
+              "name": "IL"
+            },
+            {
+              "@type": "Country",
+              "name": "ZA"
+            },
+            {
+              "@type": "Country",
+              "name": "SA"
+            },
+            {
+              "@type": "Country",
+              "name": "AE"
+            },
+            {
+              "@type": "Country",
+              "name": "BH"
+            },
+            {
+              "@type": "Country",
+              "name": "QA"
+            },
+            {
+              "@type": "Country",
+              "name": "OM"
+            },
+            {
+              "@type": "Country",
+              "name": "KW"
+            },
+            {
+              "@type": "Country",
+              "name": "EG"
+            },
+            {
+              "@type": "Country",
+              "name": "MA"
+            },
+            {
+              "@type": "Country",
+              "name": "DZ"
+            },
+            {
+              "@type": "Country",
+              "name": "TN"
+            },
+            {
+              "@type": "Country",
+              "name": "LB"
+            },
+            {
+              "@type": "Country",
+              "name": "JO"
+            },
+            {
+              "@type": "Country",
+              "name": "PS"
+            },
+            {
+              "@type": "Country",
+              "name": "IN"
+            },
+            {
+              "@type": "Country",
+              "name": "UA"
+            },
+            {
+              "@type": "Country",
+              "name": "AL"
+            },
+            {
+              "@type": "Country",
+              "name": "BA"
+            },
+            {
+              "@type": "Country",
+              "name": "HR"
+            },
+            {
+              "@type": "Country",
+              "name": "ME"
+            },
+            {
+              "@type": "Country",
+              "name": "MK"
+            },
+            {
+              "@type": "Country",
+              "name": "RS"
+            },
+            {
+              "@type": "Country",
+              "name": "SI"
+            },
+            {
+              "@type": "Country",
+              "name": "KR"
+            },
+            {
+              "@type": "Country",
+              "name": "LK"
+            },
+            {
+              "@type": "Country",
+              "name": "GH"
+            },
+            {
+              "@type": "Country",
+              "name": "KE"
+            },
+            {
+              "@type": "Country",
+              "name": "NG"
+            },
+            {
+              "@type": "Country",
+              "name": "TZ"
+            },
+            {
+              "@type": "Country",
+              "name": "UG"
+            },
+            {
+              "@type": "Country",
+              "name": "BW"
+            },
+            {
+              "@type": "Country",
+              "name": "BF"
+            },
+            {
+              "@type": "Country",
+              "name": "CV"
+            },
+            {
+              "@type": "Country",
+              "name": "CW"
+            },
+            {
+              "@type": "Country",
+              "name": "GM"
+            },
+            {
+              "@type": "Country",
+              "name": "GW"
+            },
+            {
+              "@type": "Country",
+              "name": "LS"
+            },
+            {
+              "@type": "Country",
+              "name": "LR"
+            },
+            {
+              "@type": "Country",
+              "name": "MW"
+            },
+            {
+              "@type": "Country",
+              "name": "ML"
+            },
+            {
+              "@type": "Country",
+              "name": "NA"
+            },
+            {
+              "@type": "Country",
+              "name": "NE"
+            },
+            {
+              "@type": "Country",
+              "name": "ST"
+            },
+            {
+              "@type": "Country",
+              "name": "SN"
+            },
+            {
+              "@type": "Country",
+              "name": "SC"
+            },
+            {
+              "@type": "Country",
+              "name": "SL"
+            },
+            {
+              "@type": "Country",
+              "name": "TT"
+            },
+            {
+              "@type": "Country",
+              "name": "BI"
+            },
+            {
+              "@type": "Country",
+              "name": "KH"
+            },
+            {
+              "@type": "Country",
+              "name": "CM"
+            },
+            {
+              "@type": "Country",
+              "name": "TD"
+            },
+            {
+              "@type": "Country",
+              "name": "KM"
+            },
+            {
+              "@type": "Country",
+              "name": "GQ"
+            },
+            {
+              "@type": "Country",
+              "name": "SZ"
+            },
+            {
+              "@type": "Country",
+              "name": "GA"
+            },
+            {
+              "@type": "Country",
+              "name": "GN"
+            },
+            {
+              "@type": "Country",
+              "name": "MR"
+            },
+            {
+              "@type": "Country",
+              "name": "RW"
+            },
+            {
+              "@type": "Country",
+              "name": "TG"
+            },
+            {
+              "@type": "Country",
+              "name": "ZW"
+            },
+            {
+              "@type": "Country",
+              "name": "BJ"
+            },
+            {
+              "@type": "Country",
+              "name": "MG"
+            },
+            {
+              "@type": "Country",
+              "name": "MU"
+            },
+            {
+              "@type": "Country",
+              "name": "MZ"
+            },
+            {
+              "@type": "Country",
+              "name": "AO"
+            },
+            {
+              "@type": "Country",
+              "name": "CI"
+            },
+            {
+              "@type": "Country",
+              "name": "DJ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZM"
+            },
+            {
+              "@type": "Country",
+              "name": "CD"
+            },
+            {
+              "@type": "Country",
+              "name": "CG"
+            },
+            {
+              "@type": "Country",
+              "name": "IQ"
+            },
+            {
+              "@type": "Country",
+              "name": "LY"
+            },
+            {
+              "@type": "Country",
+              "name": "VE"
+            },
+            {
+              "@type": "Country",
+              "name": "ET"
+            },
+            {
+              "@type": "Country",
+              "name": "XK"
+            }
+          ]
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 310680,
+  "albumLinks": [
+    {
+      "id": "2Se3yqacWPSmAMSfxuWtdM",
+      "label": "Breakfast In America (Remastered 2026)  Album • 1979"
+    },
+    {
+      "id": "1zcm3UvHNHpseYOUfd0pna",
+      "label": "Breakfast In America (Deluxe Edition)  Album • 1979"
+    },
+    {
+      "id": "0kW7WYI6RWpplTyzUg048H",
+      "label": "Even In The Quietest Moments... (Remastered 2026)  Album • 1977"
+    },
+    {
+      "id": "2wrHaulTgqqkVKx0k7Kq4r",
+      "label": "Crime Of The Century (Remastered)  Album • 1974"
+    },
+    {
+      "id": "3kv1eLaL0W9Uci9mZGryzS",
+      "label": "The Very Best Of Supertramp  Compilation • 1990"
+    },
+    {
+      "id": "6yZ5AVURQtb7Gt0G4u5H7p",
+      "label": "\"...Famous Last Words...\" (Remastered 2026)  Album • 1982"
+    },
+    {
+      "id": "2M8h9sC6Ffu9kz7ZHWgHcy",
+      "label": "Live In Paris '79  Album • 2011"
+    },
+    {
+      "id": "5YHsZ6uDUjKr2yczXxppHw",
+      "label": "Free As A Bird (Remastered 2026)  Album • 1987"
+    },
+    {
+      "id": "1uwDWiG9WWg8cV61rYFuhB",
+      "label": "Brother Where You Bound (Remastered 2026)  Album • 1985"
+    },
+    {
+      "id": "6yZ5AVURQtb7Gt0G4u5H7p",
+      "label": "\"...Famous Last Words...\" (Remastered 2026)  Album • 1982"
+    },
+    {
+      "id": "0LnGhdkTo5SEoIosiydUaR",
+      "label": "Paris  Album • 1980"
+    },
+    {
+      "id": "1zcm3UvHNHpseYOUfd0pna",
+      "label": "Breakfast In America (Deluxe Edition)  Album • 1979"
+    },
+    {
+      "id": "2Nip1nntVPSdHJs0ZcRRHg",
+      "label": "Crisis? What Crisis? (Remastered 2025)  Album • 1975"
+    },
+    {
+      "id": "24lX0YfUlQfqb2T2GioLji",
+      "label": "McCartney  Album • 1970"
+    },
+    {
+      "id": "7reiQf1lsaL4PRcrvhOUKG",
+      "label": "Retrospectacle - The Supertramp Anthology  Compilation • 2005"
+    },
+    {
+      "id": "2vtMi0d0613jhp85klO9eb",
+      "label": "I Robot  Album • 1977"
+    },
+    {
+      "id": "2wrHaulTgqqkVKx0k7Kq4r",
+      "label": "Crime Of The Century (Remastered)  Album • 1974"
+    },
+    {
+      "id": "7wCflCoMEA9L7hIP65mfN3",
+      "label": "Yes (Deluxe Edition)  Album • 1969"
+    },
+    {
+      "id": "2lKJ3RjnsbHLA2ZevbkReE",
+      "label": "Maquina Del Tiempo | 70's"
+    }
+  ]
+}

@@ -1,0 +1,2041 @@
+{
+  "url": "https://open.spotify.com/track/3gWjetybzyLyIUPneKiRDJ",
+  "resolvedUrl": "https://open.spotify.com/track/3gWjetybzyLyIUPneKiRDJ",
+  "fetchedAt": "2026-10-14T05:12:15Z",
+  "pageTitle": "County Fair - song and lyrics by Joe Walsh | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:3gWjetybzyLyIUPneKiRDJ": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "© 1985 Geffen Records",
+                  "type": "C"
+                },
+                {
+                  "text": "℗ 1985 Geffen Records",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#C82828"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048512c16e6574ea85bff123aa517",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e022c16e6574ea85bff123aa517",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2732c16e6574ea85bff123aa517",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 1,
+              "month": 1,
+              "year": 1985
+            },
+            "isPreRelease": false,
+            "name": "Rocky Mountain Way",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3UXsuXc03nQYrGnQ4VP6L6",
+                    "name": "Rocky Mountain Way",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:3UXsuXc03nQYrGnQ4VP6L6",
+                    "duration": {
+                      "totalMilliseconds": 315333
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1pxbCnSe3vU1cWR1rpJAeM",
+                    "name": "Turn To Stone",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:1pxbCnSe3vU1cWR1rpJAeM",
+                    "duration": {
+                      "totalMilliseconds": 314733
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3gWjetybzyLyIUPneKiRDJ",
+                    "name": "County Fair",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:3gWjetybzyLyIUPneKiRDJ",
+                    "duration": {
+                      "totalMilliseconds": 403760
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0l9rCmuQWxLr6fwWMh9fng",
+                    "name": "Meadows",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:0l9rCmuQWxLr6fwWMh9fng",
+                    "duration": {
+                      "totalMilliseconds": 276426
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7cZZ7Yz73niRiECav5WrwB",
+                    "name": "I'll Tell The World About You",
+                    "trackNumber": 5,
+                    "uri": "spotify:track:7cZZ7Yz73niRiECav5WrwB",
+                    "duration": {
+                      "totalMilliseconds": 236760
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0Ao9DkoTXIoZ6d8GKXzzll",
+                    "name": "Days Gone By",
+                    "trackNumber": 6,
+                    "uri": "spotify:track:0Ao9DkoTXIoZ6d8GKXzzll",
+                    "duration": {
+                      "totalMilliseconds": 352666
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2LAgUdnODEsCbZnAkk8ctE",
+                    "name": "Wolf",
+                    "trackNumber": 7,
+                    "uri": "spotify:track:2LAgUdnODEsCbZnAkk8ctE",
+                    "duration": {
+                      "totalMilliseconds": 190933
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0WlLR6UengTnHncUPAVGdP",
+                    "name": "Welcome To The Club",
+                    "trackNumber": 8,
+                    "uri": "spotify:track:0WlLR6UengTnHncUPAVGdP",
+                    "duration": {
+                      "totalMilliseconds": 308600
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5pynPVoV2xkLQJSjuJgYOL",
+                    "name": "Time Out - 1976/Live",
+                    "trackNumber": 9,
+                    "uri": "spotify:track:5pynPVoV2xkLQJSjuJgYOL",
+                    "duration": {
+                      "totalMilliseconds": 258573
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2VD9kTS5ZnFLkLBb63DP4m",
+                    "name": "Comin' Down",
+                    "trackNumber": 10,
+                    "uri": "spotify:track:2VD9kTS5ZnFLkLBb63DP4m",
+                    "duration": {
+                      "totalMilliseconds": 111533
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "ALBUM",
+            "uri": "spotify:album:1foykGRSSGMBwBEvxbTbrZ"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0262c3338da7c05042a651e81f",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485162c3338da7c05042a651e81f",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27362c3338da7c05042a651e81f",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2012
+                              },
+                              "id": "076bM8NjtRgmIGGrF3Mb6k",
+                              "name": "Analog Man",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:076bM8NjtRgmIGGrF3Mb6k"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e024b7b914dbcd0966d70e2d33a",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048514b7b914dbcd0966d70e2d33a",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2734b7b914dbcd0966d70e2d33a",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1992
+                              },
+                              "id": "2kE2LKtYcngq0UPxZya2Du",
+                              "name": "Songs for a Dying Planet",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:2kE2LKtYcngq0UPxZya2Du"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e028c49d25f94e58de707018bf1",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048518c49d25f94e58de707018bf1",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2738c49d25f94e58de707018bf1",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1991
+                              },
+                              "id": "1ktJ6umFTeO2gDeEODzjZG",
+                              "name": "Ordinary Average Guy",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:1ktJ6umFTeO2gDeEODzjZG"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e022a1e7e51ad0c399dc9b86e10",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048512a1e7e51ad0c399dc9b86e10",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2732a1e7e51ad0c399dc9b86e10",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1987
+                              },
+                              "id": "6Is4r41K1zGhe0dOYhoAZV",
+                              "name": "Got Any Gum?",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:6Is4r41K1zGhe0dOYhoAZV"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02e5e8947c2cfcf9f94b6ab38a",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851e5e8947c2cfcf9f94b6ab38a",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273e5e8947c2cfcf9f94b6ab38a",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1985
+                              },
+                              "id": "2VjJO68TbOPy1Id8a1PCoO",
+                              "name": "The Confessor",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:2VjJO68TbOPy1Id8a1PCoO"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0240824d3e55357e59ad1b619c",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485140824d3e55357e59ad1b619c",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27340824d3e55357e59ad1b619c",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1983
+                              },
+                              "id": "2e9fTNNnhdHMNnzgTfXqnz",
+                              "name": "You Bought It - You Name It",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:2e9fTNNnhdHMNnzgTfXqnz"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e023cc721dd5e7c331ba8528b09",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048513cc721dd5e7c331ba8528b09",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2733cc721dd5e7c331ba8528b09",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1978
+                        },
+                        "id": "5yqBTSoJqE9EfApl2Pptva",
+                        "name": "But Seriously, Folks...",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5yqBTSoJqE9EfApl2Pptva"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e022df4d3c8c429700194bc0dfe",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048512df4d3c8c429700194bc0dfe",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2732df4d3c8c429700194bc0dfe",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1973
+                        },
+                        "id": "6Sdkho6t0ure9XTzZXM2CK",
+                        "name": "The Smoker You Drink, The Player You Get",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6Sdkho6t0ure9XTzZXM2CK"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02997fc258e36fb14ef0e0836c",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851997fc258e36fb14ef0e0836c",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273997fc258e36fb14ef0e0836c",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1981
+                        },
+                        "id": "2hsMdQyMatj8wUABiwGgkN",
+                        "name": "There Goes the Neighborhood",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2hsMdQyMatj8wUABiwGgkN"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02029e00521464a1d3bd67fe4f",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851029e00521464a1d3bd67fe4f",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273029e00521464a1d3bd67fe4f",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1972
+                        },
+                        "id": "2mSYM0x3K8DxJar56FRlx4",
+                        "name": "Barnstorm",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2mSYM0x3K8DxJar56FRlx4"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02f49747a3993ec8298adfd481",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851f49747a3993ec8298adfd481",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273f49747a3993ec8298adfd481",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1974
+                        },
+                        "id": "2ZRni2AFuPtW6z5jBUD3Vf",
+                        "name": "So What (Reissue)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2ZRni2AFuPtW6z5jBUD3Vf"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0262c3338da7c05042a651e81f",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485162c3338da7c05042a651e81f",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27362c3338da7c05042a651e81f",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2012
+                        },
+                        "id": "076bM8NjtRgmIGGrF3Mb6k",
+                        "name": "Analog Man",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:076bM8NjtRgmIGGrF3Mb6k"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02f041a1c004b3caf0692913b3",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851f041a1c004b3caf0692913b3",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273f041a1c004b3caf0692913b3",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2025
+                              },
+                              "id": "5cdbGAB813CdwjVGPpcVzU",
+                              "name": "How Blues Is That (feat. Joe Walsh)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:5cdbGAB813CdwjVGPpcVzU"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e025592c84e9225d312b26de2e1",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048515592c84e9225d312b26de2e1",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2735592c84e9225d312b26de2e1",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2023
+                              },
+                              "id": "73hDokQXIjjMe6AqzG5PuI",
+                              "name": "Daughter Of Zion [Feat. Joe Walsh]",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:73hDokQXIjjMe6AqzG5PuI"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02e247b481f3d4d90345caeb20",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851e247b481f3d4d90345caeb20",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273e247b481f3d4d90345caeb20",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2021
+                              },
+                              "id": "2PDchDtorf4Bgh1HnR9Uf2",
+                              "name": "Prayers",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:2PDchDtorf4Bgh1HnR9Uf2"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02485cea464622ce25580ec322",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851485cea464622ce25580ec322",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273485cea464622ce25580ec322",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2019
+                              },
+                              "id": "2xUVNiUndby56rYOrcyYXP",
+                              "name": "Still The Good Old Days",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:2xUVNiUndby56rYOrcyYXP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e023cc721dd5e7c331ba8528b09",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048513cc721dd5e7c331ba8528b09",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2733cc721dd5e7c331ba8528b09",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "But Seriously, Folks...",
+                            "uri": "spotify:album:5yqBTSoJqE9EfApl2Pptva"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                                "profile": {
+                                  "name": "Joe Walsh"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "2wvMC5EyaaYQwBfiwwY2xE",
+                          "name": "Life's Been Good",
+                          "playcount": "235425217",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/4220b4db522c301195461f9aaaa099ca0a4536b5"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:2wvMC5EyaaYQwBfiwwY2xE",
+                          "duration": {
+                            "totalMilliseconds": 536226
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e022df4d3c8c429700194bc0dfe",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048512df4d3c8c429700194bc0dfe",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2732df4d3c8c429700194bc0dfe",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "The Smoker You Drink, The Player You Get",
+                            "uri": "spotify:album:6Sdkho6t0ure9XTzZXM2CK"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                                "profile": {
+                                  "name": "Joe Walsh"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "2XHjFJVXYlEzoDvN82h8s5",
+                          "name": "Rocky Mountain Way",
+                          "playcount": "119349874",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/0cad997484fdb994d28081317d3bfdb81ab6a1bf"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:2XHjFJVXYlEzoDvN82h8s5",
+                          "duration": {
+                            "totalMilliseconds": 315400
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02997fc258e36fb14ef0e0836c",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851997fc258e36fb14ef0e0836c",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273997fc258e36fb14ef0e0836c",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "There Goes the Neighborhood",
+                            "uri": "spotify:album:2hsMdQyMatj8wUABiwGgkN"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                                "profile": {
+                                  "name": "Joe Walsh"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "19P4fwkPhE6yVAXApFWDoF",
+                          "name": "A Life of Illusion",
+                          "playcount": "74747867",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/a515ecba89d009bbb6972ccd1c9c144b5c9adecc"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:19P4fwkPhE6yVAXApFWDoF",
+                          "duration": {
+                            "totalMilliseconds": 210533
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02340e89cfaf8abb296fdd2a42",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851340e89cfaf8abb296fdd2a42",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273340e89cfaf8abb296fdd2a42",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "The Warriors Original Motion Picture Soundtrack",
+                            "uri": "spotify:album:3PDBsXfz86WysGX0RAIJ8A"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                                "profile": {
+                                  "name": "Joe Walsh"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "3G863Tbi9fj5IshOoql1aO",
+                          "name": "In The City - From \"The Warriors\" Soundtrack",
+                          "playcount": "26651503",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/52e4886945c72404dd1c1a0c443fad53ea6c158e"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:3G863Tbi9fj5IshOoql1aO",
+                          "duration": {
+                            "totalMilliseconds": 235426
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "6QtGlUje9TIkLrgPZrESuk",
+                        "profile": {
+                          "name": "Steve Miller Band"
+                        },
+                        "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178624ddceb90bdf808ed4e2e35",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174624ddceb90bdf808ed4e2e35",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "59QxeZBL6k9L4oJBGSyukd",
+                        "profile": {
+                          "name": "The Marshall Tucker Band"
+                        },
+                        "uri": "spotify:artist:59QxeZBL6k9L4oJBGSyukd",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb814a74985d206ff8f90f603b",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178814a74985d206ff8f90f603b",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174814a74985d206ff8f90f603b",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "5AEG63ajney2BoDXi0Vb84",
+                        "profile": {
+                          "name": "Bad Company"
+                        },
+                        "uri": "spotify:artist:5AEG63ajney2BoDXi0Vb84",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/5533763367069f897bd7ff7d1af605fdebdc3cda",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/1f2c7fcf6eb198a511c8ec4ab6c73cfd403c039c",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/9c55022aa8174545408f0a464dd1662876ed1b8a",
+                                "width": 200
+                              },
+                              {
+                                "height": 1000,
+                                "url": "https://i.scdn.co/image/65d37e5c4ee9ef8bfb76de6a17e7c05316199724",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "4wQ3PyMz3WwJGI5uEqHUVR",
+                        "profile": {
+                          "name": "Allman Brothers Band"
+                        },
+                        "uri": "spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6772690000dd2208f5d15585b77b0cb059717b",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67726900008f7408f5d15585b77b0cb059717b",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/ab6772690000bac308f5d15585b77b0cb059717b",
+                                "width": 200
+                              },
+                              {
+                                "height": 1000,
+                                "url": "https://i.scdn.co/image/ab6772690000c46c08f5d15585b77b0cb059717b",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "3Fz2GbraVXhcpXnoi2Oe1r",
+                        "profile": {
+                          "name": "Billy Squier"
+                        },
+                        "uri": "spotify:artist:3Fz2GbraVXhcpXnoi2Oe1r",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 439,
+                                "url": "https://i.scdn.co/image/6c4cb6de46aa8bc810975a7206f749e361e4fcfe",
+                                "width": 640
+                              },
+                              {
+                                "height": 44,
+                                "url": "https://i.scdn.co/image/514adea598576bb4350d954ca60f9ce467b747fa",
+                                "width": 64
+                              },
+                              {
+                                "height": 137,
+                                "url": "https://i.scdn.co/image/a1364cd92580944034366880b6b5ec4b0de5f04d",
+                                "width": 200
+                              },
+                              {
+                                "height": 686,
+                                "url": "https://i.scdn.co/image/6935410b9596e72ad3249d58339f49f220020432",
+                                "width": 999
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "4tX2TplrkIP4v05BNC903e",
+                        "profile": {
+                          "name": "Tom Petty and the Heartbreakers"
+                        },
+                        "uri": "spotify:artist:4tX2TplrkIP4v05BNC903e",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5ebc73be691a18c338234454a0b",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178c73be691a18c338234454a0b",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174c73be691a18c338234454a0b",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "5bDxAyJiTYBat1YnFJhvEK",
+                "profile": {
+                  "name": "Joe Walsh"
+                },
+                "stats": {
+                  "monthlyListeners": 2876121
+                },
+                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6772690000dd22cebc6873bca310c2d26a9819",
+                        "width": 640
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67726900008f74cebc6873bca310c2d26a9819",
+                        "width": 64
+                      },
+                      {
+                        "height": 200,
+                        "url": "https://i.scdn.co/image/ab6772690000bac3cebc6873bca310c2d26a9819",
+                        "width": 200
+                      },
+                      {
+                        "height": 1000,
+                        "url": "https://i.scdn.co/image/ab6772690000c46ccebc6873bca310c2d26a9819",
+                        "width": 1000
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": []
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 403760
+          },
+          "id": "3gWjetybzyLyIUPneKiRDJ",
+          "mediaType": "AUDIO",
+          "name": "County Fair",
+          "playability": {
+            "playable": true
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/d066d3c4cd01273e541d3d20100bf23e8852a035"
+                }
+              ]
+            }
+          },
+          "trackNumber": 3,
+          "uri": "spotify:track:3gWjetybzyLyIUPneKiRDJ"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "3gWjetybzyLyIUPneKiRDJ": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:3gWjetybzyLyIUPneKiRDJ"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f49747a3993ec8298adfd481",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f49747a3993ec8298adfd481",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f49747a3993ec8298adfd481",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "2ZRni2AFuPtW6z5jBUD3Vf",
+              "name": "So What (Reissue)",
+              "uri": "spotify:album:2ZRni2AFuPtW6z5jBUD3Vf"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "5bDxAyJiTYBat1YnFJhvEK",
+                  "profile": {
+                    "name": "Joe Walsh"
+                  },
+                  "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK"
+                }
+              ]
+            },
+            "id": "0VezDmUV7Vkpo0aLUu4jqJ",
+            "name": "Time Out",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/18f2f1b6beaf5b12f5a1e44ffff223624dfdd2a9"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:0VezDmUV7Vkpo0aLUu4jqJ"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020d9826176c32372e81a8a6cf",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510d9826176c32372e81a8a6cf",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730d9826176c32372e81a8a6cf",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "36G9sqbDXXbE7Mv9GTDMXd",
+              "name": "Book Of Dreams",
+              "uri": "spotify:album:36G9sqbDXXbE7Mv9GTDMXd"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "6QtGlUje9TIkLrgPZrESuk",
+                  "profile": {
+                    "name": "Steve Miller Band"
+                  },
+                  "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+                }
+              ]
+            },
+            "id": "2tCXMtgSXmY9XLecBjmAu2",
+            "name": "Sacrifice",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/7725d31f41777063a252160e91600354945f1534"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:2tCXMtgSXmY9XLecBjmAu2"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0244eaeac7ad274dbfe9f1bf96",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485144eaeac7ad274dbfe9f1bf96",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27344eaeac7ad274dbfe9f1bf96",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "5rsl1kj0N1N7yKQcBsjmMK",
+              "name": "Yer' Album",
+              "uri": "spotify:album:5rsl1kj0N1N7yKQcBsjmMK"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "5hfOHpGMsi8O3DA0ROLGqF",
+                  "profile": {
+                    "name": "James Gang"
+                  },
+                  "uri": "spotify:artist:5hfOHpGMsi8O3DA0ROLGqF"
+                }
+              ]
+            },
+            "id": "0082gyyMqoIFvN0f2wTGkT",
+            "name": "Collage",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/b6b2e60bada8abe0301852b32bd62ee34b661ed3"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:0082gyyMqoIFvN0f2wTGkT"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027801f3bef9da2d82c8784d01",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517801f3bef9da2d82c8784d01",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737801f3bef9da2d82c8784d01",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "1QLGHp2YYgwGLQeSeJEpJs",
+              "name": "Bang",
+              "uri": "spotify:album:1QLGHp2YYgwGLQeSeJEpJs"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "5hfOHpGMsi8O3DA0ROLGqF",
+                  "profile": {
+                    "name": "James Gang"
+                  },
+                  "uri": "spotify:artist:5hfOHpGMsi8O3DA0ROLGqF"
+                }
+              ]
+            },
+            "id": "5zGlkL40WFf02V3M4QE98h",
+            "name": "Alexis",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/549a6f9af2c7724dfc1b5d5e0879eab3171d1b64"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:5zGlkL40WFf02V3M4QE98h"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022b7f2a4c7169660ec49177f4",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512b7f2a4c7169660ec49177f4",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732b7f2a4c7169660ec49177f4",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0l90GP7y9WPGjaCfC1Ib3g",
+              "name": "In City Dreams",
+              "uri": "spotify:album:0l90GP7y9WPGjaCfC1Ib3g"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0MAvx5yzdhylg2ztJC3MD3",
+                  "profile": {
+                    "name": "Robin Trower"
+                  },
+                  "uri": "spotify:artist:0MAvx5yzdhylg2ztJC3MD3"
+                }
+              ]
+            },
+            "id": "3OX9ss5rOUZg9xnIfRQtcz",
+            "name": "Somebody Calling",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/4cea485f9e2ad00e907fffd33ea13110d8d4a414"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:3OX9ss5rOUZg9xnIfRQtcz"
+          }
+        ],
+        "uri": "spotify:track:3gWjetybzyLyIUPneKiRDJ",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f49747a3993ec8298adfd481",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851f49747a3993ec8298adfd481",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f49747a3993ec8298adfd481",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1974
+            },
+            "id": "2ZRni2AFuPtW6z5jBUD3Vf",
+            "name": "So What (Reissue)",
+            "type": "ALBUM",
+            "uri": "spotify:album:2ZRni2AFuPtW6z5jBUD3Vf"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0244eaeac7ad274dbfe9f1bf96",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485144eaeac7ad274dbfe9f1bf96",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27344eaeac7ad274dbfe9f1bf96",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1969
+            },
+            "id": "5rsl1kj0N1N7yKQcBsjmMK",
+            "name": "Yer' Album",
+            "type": "ALBUM",
+            "uri": "spotify:album:5rsl1kj0N1N7yKQcBsjmMK"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e027801f3bef9da2d82c8784d01",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048517801f3bef9da2d82c8784d01",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2737801f3bef9da2d82c8784d01",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1973
+            },
+            "id": "1QLGHp2YYgwGLQeSeJEpJs",
+            "name": "Bang",
+            "type": "ALBUM",
+            "uri": "spotify:album:1QLGHp2YYgwGLQeSeJEpJs"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02d6a2e0fcdba9b0afb966a8df",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851d6a2e0fcdba9b0afb966a8df",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273d6a2e0fcdba9b0afb966a8df",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1974
+            },
+            "id": "0JKdD46205BvaubChUaU2o",
+            "name": "When The Eagle Flies",
+            "type": "ALBUM",
+            "uri": "spotify:album:0JKdD46205BvaubChUaU2o"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0275502adf3c022d3683ef0cb7",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485175502adf3c022d3683ef0cb7",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27375502adf3c022d3683ef0cb7",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1973
+            },
+            "id": "15XZ5bvCoiEXEBprtGkpZu",
+            "name": "Twice Removed from Yesterday",
+            "type": "ALBUM",
+            "uri": "spotify:album:15XZ5bvCoiEXEBprtGkpZu"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02e5e8947c2cfcf9f94b6ab38a",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851e5e8947c2cfcf9f94b6ab38a",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273e5e8947c2cfcf9f94b6ab38a",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1985
+            },
+            "id": "2VjJO68TbOPy1Id8a1PCoO",
+            "name": "The Confessor",
+            "type": "ALBUM",
+            "uri": "spotify:album:2VjJO68TbOPy1Id8a1PCoO"
+          }
+        ],
+        "uri": "spotify:track:3gWjetybzyLyIUPneKiRDJ",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/3gWjetybzyLyIUPneKiRDJ",
+      "url": "https://open.spotify.com/track/3gWjetybzyLyIUPneKiRDJ",
+      "name": "County Fair",
+      "description": "Listen to County Fair on Spotify. Song · Joe Walsh · 1985",
+      "datePublished": "1985-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/3gWjetybzyLyIUPneKiRDJ?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/3gWjetybzyLyIUPneKiRDJ/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 270808,
+  "albumLinks": [
+    {
+      "id": "5yqBTSoJqE9EfApl2Pptva",
+      "label": "But Seriously, Folks...  Album • 1978"
+    },
+    {
+      "id": "6Sdkho6t0ure9XTzZXM2CK",
+      "label": "The Smoker You Drink, The Player You Get  Album • 1973"
+    },
+    {
+      "id": "2hsMdQyMatj8wUABiwGgkN",
+      "label": "There Goes the Neighborhood  Album • 1981"
+    },
+    {
+      "id": "2mSYM0x3K8DxJar56FRlx4",
+      "label": "Barnstorm  Album • 1972"
+    },
+    {
+      "id": "2ZRni2AFuPtW6z5jBUD3Vf",
+      "label": "So What (Reissue)  Album • 1974"
+    },
+    {
+      "id": "076bM8NjtRgmIGGrF3Mb6k",
+      "label": "Analog Man  Album • 2012"
+    },
+    {
+      "id": "076bM8NjtRgmIGGrF3Mb6k",
+      "label": "Analog Man  Album • 2012"
+    },
+    {
+      "id": "2kE2LKtYcngq0UPxZya2Du",
+      "label": "Songs for a Dying Planet  Album • 1992"
+    },
+    {
+      "id": "1ktJ6umFTeO2gDeEODzjZG",
+      "label": "Ordinary Average Guy  Album • 1991"
+    },
+    {
+      "id": "6Is4r41K1zGhe0dOYhoAZV",
+      "label": "Got Any Gum?  Album • 1987"
+    },
+    {
+      "id": "2VjJO68TbOPy1Id8a1PCoO",
+      "label": "The Confessor  Album • 1985"
+    },
+    {
+      "id": "2e9fTNNnhdHMNnzgTfXqnz",
+      "label": "You Bought It - You Name It  Album • 1983"
+    },
+    {
+      "id": "5cdbGAB813CdwjVGPpcVzU",
+      "label": "How Blues Is That (feat. Joe Walsh)  Single • 2025"
+    },
+    {
+      "id": "73hDokQXIjjMe6AqzG5PuI",
+      "label": "Daughter Of Zion [Feat. Joe Walsh]  Single • 2023"
+    },
+    {
+      "id": "2PDchDtorf4Bgh1HnR9Uf2",
+      "label": "Prayers  Single • 2021"
+    },
+    {
+      "id": "2xUVNiUndby56rYOrcyYXP",
+      "label": "Still The Good Old Days  Single • 2019"
+    },
+    {
+      "id": "2ZRni2AFuPtW6z5jBUD3Vf",
+      "label": "So What (Reissue)  Album • 1974"
+    },
+    {
+      "id": "5rsl1kj0N1N7yKQcBsjmMK",
+      "label": "Yer' Album  Album • 1969"
+    },
+    {
+      "id": "1QLGHp2YYgwGLQeSeJEpJs",
+      "label": "Bang  Album • 1973"
+    },
+    {
+      "id": "0JKdD46205BvaubChUaU2o",
+      "label": "When The Eagle Flies  Album • 1974"
+    },
+    {
+      "id": "15XZ5bvCoiEXEBprtGkpZu",
+      "label": "Twice Removed from Yesterday  Album • 1973"
+    },
+    {
+      "id": "2VjJO68TbOPy1Id8a1PCoO",
+      "label": "The Confessor  Album • 1985"
+    },
+    {
+      "id": "1foykGRSSGMBwBEvxbTbrZ",
+      "label": "Rocky Mountain Way"
+    }
+  ]
+}

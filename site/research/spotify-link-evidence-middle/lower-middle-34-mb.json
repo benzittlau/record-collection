@@ -1,0 +1,37 @@
+{
+  "id": "lower-middle-34",
+  "groups": [
+    "54459dcf-4964-3c22-ad08-bb2f4dfa4131",
+    "54459dcf-4964-3c22-ad08-bb2f4dfa4131"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=54459dcf-4964-3c22-ad08-bb2f4dfa4131&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 14
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "4jn7W0TicjybZdqpd3Sdda",
+      "spotifyUrl": "https://open.spotify.com/album/4jn7W0TicjybZdqpd3Sdda",
+      "musicbrainzReleaseId": "67f8de69-3d6a-418a-adae-ba1900a9f048",
+      "musicbrainzTitle": "The Crossing",
+      "musicbrainzArtists": [
+        {
+          "name": "Big Country",
+          "joinphrase": "",
+          "artist": {
+            "country": "GB",
+            "disambiguation": "",
+            "sort-name": "Big Country",
+            "id": "b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378",
+            "type": "Group",
+            "name": "Big Country",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          }
+        }
+      ],
+      "musicbrainzDate": "2012-02-06"
+    }
+  ]
+}

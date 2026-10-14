@@ -1,0 +1,1912 @@
+{
+  "session": {
+    "me": null,
+    "product": {
+      "has-audiobooks-available": null,
+      "has-podcasts-available": null,
+      "country": "CA",
+      "catalogue": "premium",
+      "product": "PREMIUM",
+      "on-demand": "1"
+    },
+    "locale": "en",
+    "textDirectionality": "ltr",
+    "isAnonymous": true,
+    "features": {
+      "enableShows": true,
+      "isMWPAndPlaybackCapable": false,
+      "isPodcastEnabled": true,
+      "isI18nAdditionalPagesEnabled": false,
+      "isReinventFreeEnabled": false,
+      "isUnauthMusicVideoThumbnailsEnabled": true
+    },
+    "country": "CA",
+    "browserOS": "android",
+    "canGoBack": false,
+    "canGoForward": false
+  },
+  "connect": {
+    "device": null,
+    "devices": [],
+    "manualTransferDeviceId": null
+  },
+  "entities": {
+    "items": {
+      "spotify:track:1KSHQXiifZ6wRYBlR7aPXH": {
+        "__typename": "Track",
+        "albumOfTrack": {
+          "__typename": "Album",
+          "copyright": {
+            "items": [
+              {
+                "text": "\u00a9 2005 The Verve Music Group, a Division of UMG Recordings, Inc.",
+                "type": "C"
+              },
+              {
+                "text": "\u2117 2005 The Verve Music Group, a Division of UMG Recordings, Inc.",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#8068A8"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510a748ea1030cf3f91ba06538",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020a748ea1030cf3f91ba06538",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730a748ea1030cf3f91ba06538",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 1,
+            "month": 1,
+            "year": 2005
+          },
+          "isPreRelease": false,
+          "name": "Music For Zen Meditation",
+          "playability": {
+            "playable": true
+          },
+          "preReleaseEndDateTime": null,
+          "tracks": {
+            "items": [
+              {
+                "track": {
+                  "artists": {
+                    "items": [
+                      {
+                        "id": "3wtfcI8iPGKBmnalt0013v",
+                        "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                        "profile": {
+                          "name": "Tony Scott"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "id": "1KSHQXiifZ6wRYBlR7aPXH",
+                  "name": "Is Not All One",
+                  "trackNumber": 1,
+                  "uri": "spotify:track:1KSHQXiifZ6wRYBlR7aPXH",
+                  "duration": {
+                    "totalMilliseconds": 192000
+                  }
+                }
+              },
+              {
+                "track": {
+                  "artists": {
+                    "items": [
+                      {
+                        "id": "3wtfcI8iPGKBmnalt0013v",
+                        "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                        "profile": {
+                          "name": "Tony Scott"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "id": "2KGdzcAh3hsMj3vsOpJCTJ",
+                  "name": "The Murmuring Sound Of The Mountain Stream",
+                  "trackNumber": 2,
+                  "uri": "spotify:track:2KGdzcAh3hsMj3vsOpJCTJ",
+                  "duration": {
+                    "totalMilliseconds": 480426
+                  }
+                }
+              },
+              {
+                "track": {
+                  "artists": {
+                    "items": [
+                      {
+                        "id": "3wtfcI8iPGKBmnalt0013v",
+                        "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                        "profile": {
+                          "name": "Tony Scott"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "id": "1U2mY1IV2F1bYfmz0tqR9y",
+                  "name": "A Quivering Leaf Ask The Winds",
+                  "trackNumber": 3,
+                  "uri": "spotify:track:1U2mY1IV2F1bYfmz0tqR9y",
+                  "duration": {
+                    "totalMilliseconds": 149626
+                  }
+                }
+              },
+              {
+                "track": {
+                  "artists": {
+                    "items": [
+                      {
+                        "id": "3wtfcI8iPGKBmnalt0013v",
+                        "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                        "profile": {
+                          "name": "Tony Scott"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "id": "4DeAt4AInljXS0fiFNKKgB",
+                  "name": "After The Snow The Fragrance",
+                  "trackNumber": 4,
+                  "uri": "spotify:track:4DeAt4AInljXS0fiFNKKgB",
+                  "duration": {
+                    "totalMilliseconds": 422160
+                  }
+                }
+              },
+              {
+                "track": {
+                  "artists": {
+                    "items": [
+                      {
+                        "id": "3wtfcI8iPGKBmnalt0013v",
+                        "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                        "profile": {
+                          "name": "Tony Scott"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "id": "37SL1NFGKscqsK1cyJRpE3",
+                  "name": "To Drift Like Clouds",
+                  "trackNumber": 5,
+                  "uri": "spotify:track:37SL1NFGKscqsK1cyJRpE3",
+                  "duration": {
+                    "totalMilliseconds": 96760
+                  }
+                }
+              },
+              {
+                "track": {
+                  "artists": {
+                    "items": [
+                      {
+                        "id": "3wtfcI8iPGKBmnalt0013v",
+                        "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                        "profile": {
+                          "name": "Tony Scott"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "id": "0QGY34yvqITjG1EdAku8CR",
+                  "name": "Za Zen (Meditation)",
+                  "trackNumber": 6,
+                  "uri": "spotify:track:0QGY34yvqITjG1EdAku8CR",
+                  "duration": {
+                    "totalMilliseconds": 122466
+                  }
+                }
+              },
+              {
+                "track": {
+                  "artists": {
+                    "items": [
+                      {
+                        "id": "3wtfcI8iPGKBmnalt0013v",
+                        "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                        "profile": {
+                          "name": "Tony Scott"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "id": "0anj27IlCmnha5qLXPIBeL",
+                  "name": "Prajna-Paramita-Hridaya Sutra (Sutra Chant)",
+                  "trackNumber": 7,
+                  "uri": "spotify:track:0anj27IlCmnha5qLXPIBeL",
+                  "duration": {
+                    "totalMilliseconds": 429493
+                  }
+                }
+              },
+              {
+                "track": {
+                  "artists": {
+                    "items": [
+                      {
+                        "id": "3wtfcI8iPGKBmnalt0013v",
+                        "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                        "profile": {
+                          "name": "Tony Scott"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "id": "22gjpEWjp6g6HK8SJZFHBS",
+                  "name": "Sanzen (Moment Of Truth)",
+                  "trackNumber": 8,
+                  "uri": "spotify:track:22gjpEWjp6g6HK8SJZFHBS",
+                  "duration": {
+                    "totalMilliseconds": 403666
+                  }
+                }
+              },
+              {
+                "track": {
+                  "artists": {
+                    "items": [
+                      {
+                        "id": "3wtfcI8iPGKBmnalt0013v",
+                        "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                        "profile": {
+                          "name": "Tony Scott"
+                        }
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "id": "6lr8R9J2pBHHUcKkAdVZJl",
+                  "name": "Satori (Enlightenment)",
+                  "trackNumber": 9,
+                  "uri": "spotify:track:6lr8R9J2pBHHUcKkAdVZJl",
+                  "duration": {
+                    "totalMilliseconds": 322666
+                  }
+                }
+              }
+            ]
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:2kNs01J4ApSKYhiMInx5kf"
+        },
+        "otherArtists": {
+          "items": []
+        },
+        "firstArtist": {
+          "items": [
+            {
+              "discography": {
+                "albums": {
+                  "items": [
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02768bd1734679d48384030cce",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851768bd1734679d48384030cce",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273768bd1734679d48384030cce",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2023
+                            },
+                            "id": "28UrHP9Kb6QoE3Ozroi6fS",
+                            "name": "In Afrika/ Mayibue Afrika! Uhuuru! - Dedicated to Nelson Mandela and to The Afrikan People",
+                            "type": "ALBUM",
+                            "uri": "spotify:album:28UrHP9Kb6QoE3Ozroi6fS"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02668df4c9f9228c1469d0a221",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851668df4c9f9228c1469d0a221",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273668df4c9f9228c1469d0a221",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2020
+                            },
+                            "id": "1DWdlIdl1FbkHUNy3LlOiY",
+                            "name": "The Deluxe Collection (Remastered)",
+                            "type": "ALBUM",
+                            "uri": "spotify:album:1DWdlIdl1FbkHUNy3LlOiY"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02ec71d2588552955c233bc1fe",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851ec71d2588552955c233bc1fe",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273ec71d2588552955c233bc1fe",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2015
+                            },
+                            "id": "7bMEHAHVHc6hxfLEWnWTqb",
+                            "name": "Djanger Bali (2023 Remaster)",
+                            "type": "ALBUM",
+                            "uri": "spotify:album:7bMEHAHVHc6hxfLEWnWTqb"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e022917ccb03bbf9025f4f5f9a3",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048512917ccb03bbf9025f4f5f9a3",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2732917ccb03bbf9025f4f5f9a3",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2015
+                            },
+                            "id": "5gmJkwbv36GbxxWDv2HfzB",
+                            "name": "Lost Tapes 1957 / 1962",
+                            "type": "ALBUM",
+                            "uri": "spotify:album:5gmJkwbv36GbxxWDv2HfzB"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e021e2bca381a9a3e46d9fa6ee1",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048511e2bca381a9a3e46d9fa6ee1",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2731e2bca381a9a3e46d9fa6ee1",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2015
+                            },
+                            "id": "02DXSlS90KbyQdWgl5LXWZ",
+                            "name": "Tony Scott Quartet. Complete Brunswick Sessions 1953",
+                            "type": "ALBUM",
+                            "uri": "spotify:album:02DXSlS90KbyQdWgl5LXWZ"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e026d8c2fe5ca1aec0b4875bc43",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048516d8c2fe5ca1aec0b4875bc43",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2736d8c2fe5ca1aec0b4875bc43",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2015
+                            },
+                            "id": "5BkOH8r8DCz0oCrXNSgiWi",
+                            "name": "Portrait Of Ravi",
+                            "type": "ALBUM",
+                            "uri": "spotify:album:5BkOH8r8DCz0oCrXNSgiWi"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "popularReleasesAlbums": {
+                  "items": [
+                    {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02388dd429f49283b59c28a452",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851388dd429f49283b59c28a452",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273388dd429f49283b59c28a452",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "date": {
+                        "year": 1969
+                      },
+                      "id": "4siKKOfk5QPmPcz16paR8f",
+                      "name": "Tony Scott",
+                      "type": "ALBUM",
+                      "uri": "spotify:album:4siKKOfk5QPmPcz16paR8f"
+                    },
+                    {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02476af94fa95077665da0cba1",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851476af94fa95077665da0cba1",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273476af94fa95077665da0cba1",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "date": {
+                        "year": 1965
+                      },
+                      "id": "2TU5pJrurQif5n0ADKdOyp",
+                      "name": "Music For Zen Meditation And Other Joys",
+                      "type": "ALBUM",
+                      "uri": "spotify:album:2TU5pJrurQif5n0ADKdOyp"
+                    },
+                    {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ec71d2588552955c233bc1fe",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851ec71d2588552955c233bc1fe",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ec71d2588552955c233bc1fe",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "date": {
+                        "year": 2015
+                      },
+                      "id": "7bMEHAHVHc6hxfLEWnWTqb",
+                      "name": "Djanger Bali (2023 Remaster)",
+                      "type": "ALBUM",
+                      "uri": "spotify:album:7bMEHAHVHc6hxfLEWnWTqb"
+                    },
+                    {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021736d19a006b66f5202a1e0d",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511736d19a006b66f5202a1e0d",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731736d19a006b66f5202a1e0d",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "date": {
+                        "year": 1965
+                      },
+                      "id": "6IopcLtT8aZuiYciKAq5du",
+                      "name": "Music For Yoga Meditation And Other Joys",
+                      "type": "ALBUM",
+                      "uri": "spotify:album:6IopcLtT8aZuiYciKAq5du"
+                    },
+                    {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028dd40d8e19d4be95e8232d81",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518dd40d8e19d4be95e8232d81",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738dd40d8e19d4be95e8232d81",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "date": {
+                        "year": 1977
+                      },
+                      "id": "0JSDPdBfLDLbKSbdSwS9ND",
+                      "name": "Meditation",
+                      "type": "ALBUM",
+                      "uri": "spotify:album:0JSDPdBfLDLbKSbdSwS9ND"
+                    },
+                    {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e021c4e93badf34967c1badd883",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048511c4e93badf34967c1badd883",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731c4e93badf34967c1badd883",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "date": {
+                        "year": 1995
+                      },
+                      "id": "10vQHHhD6MppYmnRG4N2Jb",
+                      "name": "Poets of Jazz",
+                      "type": "ALBUM",
+                      "uri": "spotify:album:10vQHHhD6MppYmnRG4N2Jb"
+                    }
+                  ]
+                },
+                "singles": {
+                  "items": [
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02113d109cd3f6696d56ed89ab",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851113d109cd3f6696d56ed89ab",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273113d109cd3f6696d56ed89ab",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2015
+                            },
+                            "id": "0MiGkMfUg30J01hKzLr5XO",
+                            "name": "The Runaway",
+                            "type": "SINGLE",
+                            "uri": "spotify:album:0MiGkMfUg30J01hKzLr5XO"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e025f5d673aed442b683be8668a",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048515f5d673aed442b683be8668a",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2735f5d673aed442b683be8668a",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2015
+                            },
+                            "id": "3XF7vpKl5mAhXm3XAf7n2l",
+                            "name": "The Inner Side",
+                            "type": "SINGLE",
+                            "uri": "spotify:album:3XF7vpKl5mAhXm3XAf7n2l"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e020a3d521e2a818e44da48de17",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048510a3d521e2a818e44da48de17",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2730a3d521e2a818e44da48de17",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2013
+                            },
+                            "id": "2jJIQ8TNyxU6a2m05g3TtF",
+                            "name": "What Am I to Do Now",
+                            "type": "SINGLE",
+                            "uri": "spotify:album:2jJIQ8TNyxU6a2m05g3TtF"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e0291a183eb75366ec6a4c96a61",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d0000485191a183eb75366ec6a4c96a61",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b27391a183eb75366ec6a4c96a61",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 2009
+                            },
+                            "id": "6H30CJxgNJpj9I0c5r2mji",
+                            "name": "The Unknown Cell",
+                            "type": "EP",
+                            "uri": "spotify:album:6H30CJxgNJpj9I0c5r2mji"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02eda583972dc2712cde236fe8",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851eda583972dc2712cde236fe8",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273eda583972dc2712cde236fe8",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "date": {
+                              "year": 1957
+                            },
+                            "id": "37PKNMgkHYtakEwAxajBfJ",
+                            "name": "Night in Tunisia / Walkin",
+                            "type": "SINGLE",
+                            "uri": "spotify:album:37PKNMgkHYtakEwAxajBfJ"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "topTracks": {
+                  "items": [
+                    {
+                      "track": {
+                        "__typename": "Track",
+                        "albumOfTrack": {
+                          "coverArt": {
+                            "sources": [
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02388dd429f49283b59c28a452",
+                                "width": 300
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851388dd429f49283b59c28a452",
+                                "width": 64
+                              },
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273388dd429f49283b59c28a452",
+                                "width": 640
+                              }
+                            ]
+                          },
+                          "name": "Tony Scott",
+                          "uri": "spotify:album:4siKKOfk5QPmPcz16paR8f"
+                        },
+                        "artists": {
+                          "items": [
+                            {
+                              "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                              "profile": {
+                                "name": "Tony Scott"
+                              }
+                            }
+                          ]
+                        },
+                        "id": "5uXzu32kar7nxl7AdTr8E2",
+                        "name": "Blues For Charlie Parker",
+                        "playcount": "1753970",
+                        "previews": {
+                          "audioPreviews": {
+                            "items": [
+                              {
+                                "url": "https://p.scdn.co/mp3-preview/69bb2d9a5a04e3168c56abfbaf99726126002956"
+                              }
+                            ]
+                          }
+                        },
+                        "uri": "spotify:track:5uXzu32kar7nxl7AdTr8E2",
+                        "duration": {
+                          "totalMilliseconds": 202493
+                        }
+                      }
+                    },
+                    {
+                      "track": {
+                        "__typename": "Track",
+                        "albumOfTrack": {
+                          "coverArt": {
+                            "sources": [
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02476af94fa95077665da0cba1",
+                                "width": 300
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851476af94fa95077665da0cba1",
+                                "width": 64
+                              },
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273476af94fa95077665da0cba1",
+                                "width": 640
+                              }
+                            ]
+                          },
+                          "name": "Music For Zen Meditation And Other Joys",
+                          "uri": "spotify:album:2TU5pJrurQif5n0ADKdOyp"
+                        },
+                        "artists": {
+                          "items": [
+                            {
+                              "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                              "profile": {
+                                "name": "Tony Scott"
+                              }
+                            }
+                          ]
+                        },
+                        "id": "5aImv5cJGMH7FfKzVBwlHm",
+                        "name": "To Drift Like Clouds",
+                        "playcount": "1063958",
+                        "previews": {
+                          "audioPreviews": {
+                            "items": [
+                              {
+                                "url": "https://p.scdn.co/mp3-preview/a146b9c1e15b57bbee51f0692dcba5284822da34"
+                              }
+                            ]
+                          }
+                        },
+                        "uri": "spotify:track:5aImv5cJGMH7FfKzVBwlHm",
+                        "duration": {
+                          "totalMilliseconds": 96760
+                        }
+                      }
+                    },
+                    {
+                      "track": {
+                        "__typename": "Track",
+                        "albumOfTrack": {
+                          "coverArt": {
+                            "sources": [
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02476af94fa95077665da0cba1",
+                                "width": 300
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851476af94fa95077665da0cba1",
+                                "width": 64
+                              },
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273476af94fa95077665da0cba1",
+                                "width": 640
+                              }
+                            ]
+                          },
+                          "name": "Music For Zen Meditation And Other Joys",
+                          "uri": "spotify:album:2TU5pJrurQif5n0ADKdOyp"
+                        },
+                        "artists": {
+                          "items": [
+                            {
+                              "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                              "profile": {
+                                "name": "Tony Scott"
+                              }
+                            }
+                          ]
+                        },
+                        "id": "69jStKqThPflbY9RPOkoTE",
+                        "name": "After The Snow The Fragrance",
+                        "playcount": "621275",
+                        "previews": {
+                          "audioPreviews": {
+                            "items": [
+                              {
+                                "url": "https://p.scdn.co/mp3-preview/7abc0a4c595ccf9e8b336f4b72b94b9457060228"
+                              }
+                            ]
+                          }
+                        },
+                        "uri": "spotify:track:69jStKqThPflbY9RPOkoTE",
+                        "duration": {
+                          "totalMilliseconds": 422160
+                        }
+                      }
+                    },
+                    {
+                      "track": {
+                        "__typename": "Track",
+                        "albumOfTrack": {
+                          "coverArt": {
+                            "sources": [
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02476af94fa95077665da0cba1",
+                                "width": 300
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851476af94fa95077665da0cba1",
+                                "width": 64
+                              },
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273476af94fa95077665da0cba1",
+                                "width": 640
+                              }
+                            ]
+                          },
+                          "name": "Music For Zen Meditation And Other Joys",
+                          "uri": "spotify:album:2TU5pJrurQif5n0ADKdOyp"
+                        },
+                        "artists": {
+                          "items": [
+                            {
+                              "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+                              "profile": {
+                                "name": "Tony Scott"
+                              }
+                            }
+                          ]
+                        },
+                        "id": "1bqkk2hP7oUQiaSSAxKIPs",
+                        "name": "Is Not All One",
+                        "playcount": "1375809",
+                        "previews": {
+                          "audioPreviews": {
+                            "items": [
+                              {
+                                "url": "https://p.scdn.co/mp3-preview/04135ee6573f4cd515f373720f03fb621f3a53ad"
+                              }
+                            ]
+                          }
+                        },
+                        "uri": "spotify:track:1bqkk2hP7oUQiaSSAxKIPs",
+                        "duration": {
+                          "totalMilliseconds": 192000
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "relatedContent": {
+                "relatedArtists": {
+                  "items": [
+                    {
+                      "id": "0oKYiTD5CdNbrofRvM1dIr",
+                      "profile": {
+                        "name": "Alice Coltrane"
+                      },
+                      "uri": "spotify:artist:0oKYiTD5CdNbrofRvM1dIr",
+                      "visuals": {
+                        "avatarImage": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6772690000dd2290d0d182686f9edf27d1b2a5",
+                              "width": 640
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67726900008f7490d0d182686f9edf27d1b2a5",
+                              "width": 64
+                            },
+                            {
+                              "height": 200,
+                              "url": "https://i.scdn.co/image/ab6772690000bac390d0d182686f9edf27d1b2a5",
+                              "width": 200
+                            },
+                            {
+                              "height": 1000,
+                              "url": "https://i.scdn.co/image/ab6772690000c46c90d0d182686f9edf27d1b2a5",
+                              "width": 1000
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "id": "3uPWecBPNXAChysw1uOJwI",
+                      "profile": {
+                        "name": "Don Cherry"
+                      },
+                      "uri": "spotify:artist:3uPWecBPNXAChysw1uOJwI",
+                      "visuals": {
+                        "avatarImage": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6772690000dd22240d4a6a990510986b43b7d2",
+                              "width": 640
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67726900008f74240d4a6a990510986b43b7d2",
+                              "width": 64
+                            },
+                            {
+                              "height": 200,
+                              "url": "https://i.scdn.co/image/ab6772690000bac3240d4a6a990510986b43b7d2",
+                              "width": 200
+                            },
+                            {
+                              "height": 1000,
+                              "url": "https://i.scdn.co/image/ab6772690000c46c240d4a6a990510986b43b7d2",
+                              "width": 1000
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "id": "3zz4BITBs6xvnzw2vtQi2D",
+                      "profile": {
+                        "name": "Michel Portal"
+                      },
+                      "uri": "spotify:artist:3zz4BITBs6xvnzw2vtQi2D",
+                      "visuals": {
+                        "avatarImage": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6761610000e5ebef87f5e713ab8f8062e4f328",
+                              "width": 640
+                            },
+                            {
+                              "height": 160,
+                              "url": "https://i.scdn.co/image/ab6761610000f178ef87f5e713ab8f8062e4f328",
+                              "width": 160
+                            },
+                            {
+                              "height": 320,
+                              "url": "https://i.scdn.co/image/ab67616100005174ef87f5e713ab8f8062e4f328",
+                              "width": 320
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "id": "5THaOlI8Qr3Za3FD6FnWvK",
+                      "profile": {
+                        "name": "John Surman"
+                      },
+                      "uri": "spotify:artist:5THaOlI8Qr3Za3FD6FnWvK",
+                      "visuals": {
+                        "avatarImage": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6772690000dd221ab136bda31b7bf015e4168e",
+                              "width": 640
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67726900008f741ab136bda31b7bf015e4168e",
+                              "width": 64
+                            },
+                            {
+                              "height": 200,
+                              "url": "https://i.scdn.co/image/ab6772690000bac31ab136bda31b7bf015e4168e",
+                              "width": 200
+                            },
+                            {
+                              "height": 1000,
+                              "url": "https://i.scdn.co/image/ab6772690000c46c1ab136bda31b7bf015e4168e",
+                              "width": 1000
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "id": "2SZ1e7QHN5jon9tpSpQl44",
+                      "profile": {
+                        "name": "Duke Pearson"
+                      },
+                      "uri": "spotify:artist:2SZ1e7QHN5jon9tpSpQl44",
+                      "visuals": {
+                        "avatarImage": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6772690000dd227d47e142e653727ef861b747",
+                              "width": 640
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67726900008f747d47e142e653727ef861b747",
+                              "width": 64
+                            },
+                            {
+                              "height": 200,
+                              "url": "https://i.scdn.co/image/ab6772690000bac37d47e142e653727ef861b747",
+                              "width": 200
+                            },
+                            {
+                              "height": 1000,
+                              "url": "https://i.scdn.co/image/ab6772690000c46c7d47e142e653727ef861b747",
+                              "width": 1000
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "id": "3uO6HG2JwyP744sg4PMmg5",
+                      "profile": {
+                        "name": "Bobby Hutcherson"
+                      },
+                      "uri": "spotify:artist:3uO6HG2JwyP744sg4PMmg5",
+                      "visuals": {
+                        "avatarImage": {
+                          "sources": [
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab6772690000dd22939240b770f4e22001fc9427",
+                              "width": 640
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67726900008f74939240b770f4e22001fc9427",
+                              "width": 64
+                            },
+                            {
+                              "height": 200,
+                              "url": "https://i.scdn.co/image/ab6772690000bac3939240b770f4e22001fc9427",
+                              "width": 200
+                            },
+                            {
+                              "height": 1000,
+                              "url": "https://i.scdn.co/image/ab6772690000c46c939240b770f4e22001fc9427",
+                              "width": 1000
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ],
+                  "totalCount": 40
+                }
+              },
+              "id": "3wtfcI8iPGKBmnalt0013v",
+              "profile": {
+                "name": "Tony Scott"
+              },
+              "stats": {
+                "monthlyListeners": 50796
+              },
+              "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b273388dd429f49283b59c28a452",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d00004851388dd429f49283b59c28a452",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e02388dd429f49283b59c28a452",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "associationsV3": {
+          "videoAssociations": {
+            "items": []
+          }
+        },
+        "availableMarkets": {
+          "items": []
+        },
+        "contentRating": {
+          "label": "NONE"
+        },
+        "contentRatingV2": null,
+        "duration": {
+          "totalMilliseconds": 192000
+        },
+        "id": "1KSHQXiifZ6wRYBlR7aPXH",
+        "mediaType": "AUDIO",
+        "name": "Is Not All One",
+        "playability": {
+          "playable": true
+        },
+        "previews": {
+          "audioPreviews": {
+            "items": [
+              {
+                "url": "https://p.scdn.co/mp3-preview/04135ee6573f4cd515f373720f03fb621f3a53ad"
+              }
+            ]
+          }
+        },
+        "trackNumber": 1,
+        "uri": "spotify:track:1KSHQXiifZ6wRYBlR7aPXH"
+      }
+    },
+    "recommendations": {},
+    "saved": {},
+    "restricted": {}
+  },
+  "playback": {
+    "current": null,
+    "hasSkippedThisSession": false,
+    "isBuffering": false,
+    "heardAudio": false,
+    "initiatedPlayback": false
+  },
+  "request": {
+    "hasPreviousLikes": false,
+    "isBanned": false,
+    "entityView": null,
+    "albumUri": ""
+  },
+  "search": {
+    "isFetching": false,
+    "results": null,
+    "query": null,
+    "error": null,
+    "recentSearches": []
+  },
+  "toast": {
+    "message": null,
+    "type": "default",
+    "action": null
+  },
+  "ui": {
+    "modal": "now_playing_bar",
+    "nowPlayingView": false,
+    "dialog": null,
+    "errorView": false
+  },
+  "home": {
+    "isLoading": false,
+    "hasError": false,
+    "data": null
+  },
+  "onDemandPlaylists": {
+    "fetched": false,
+    "items": []
+  },
+  "contextMenu": {
+    "isVisible": false
+  },
+  "colorExtraction": {
+    "colors": {}
+  },
+  "lyrics": {
+    "status": "UNAVAILABLE"
+  },
+  "seoLyrics": {
+    "status": "UNAVAILABLE",
+    "unauthEnabled": false
+  },
+  "seoExperiment": {
+    "status": "LOADED",
+    "track": {
+      "1KSHQXiifZ6wRYBlR7aPXH": [
+        {
+          "experimentId": "track-mv-thumbnails-1"
+        }
+      ]
+    },
+    "uri": "spotify:track:1KSHQXiifZ6wRYBlR7aPXH"
+  },
+  "browse": {
+    "grid": {
+      "isLoading": false,
+      "sections": null,
+      "hasFailedAttempts": false
+    },
+    "pages": {}
+  },
+  "internalLinkRecommender": {
+    "tracks": {
+      "data": [
+        {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02476af94fa95077665da0cba1",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851476af94fa95077665da0cba1",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273476af94fa95077665da0cba1",
+                  "width": 640
+                }
+              ]
+            },
+            "id": "2TU5pJrurQif5n0ADKdOyp",
+            "name": "Music For Zen Meditation And Other Joys",
+            "uri": "spotify:album:2TU5pJrurQif5n0ADKdOyp"
+          },
+          "artists": {
+            "items": [
+              {
+                "id": "3wtfcI8iPGKBmnalt0013v",
+                "profile": {
+                  "name": "Tony Scott"
+                },
+                "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v"
+              }
+            ]
+          },
+          "id": "7wHjTYJMMgreBfTGZzDOYn",
+          "name": "Sanzen (Moment Of Truth)",
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/246f58ae3055cd89ccc5f87b9a981fdfdd31f021"
+                }
+              ]
+            }
+          },
+          "uri": "spotify:track:7wHjTYJMMgreBfTGZzDOYn"
+        },
+        {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e021736d19a006b66f5202a1e0d",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048511736d19a006b66f5202a1e0d",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2731736d19a006b66f5202a1e0d",
+                  "width": 640
+                }
+              ]
+            },
+            "id": "6IopcLtT8aZuiYciKAq5du",
+            "name": "Music For Yoga Meditation And Other Joys",
+            "uri": "spotify:album:6IopcLtT8aZuiYciKAq5du"
+          },
+          "artists": {
+            "items": [
+              {
+                "id": "3wtfcI8iPGKBmnalt0013v",
+                "profile": {
+                  "name": "Tony Scott"
+                },
+                "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v"
+              }
+            ]
+          },
+          "id": "4Ez7VJa35ExeC990tpo8gO",
+          "name": "Kundalina - Serpent Power",
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/457a99f502507816aa766912c3529cb6e538c903"
+                }
+              ]
+            }
+          },
+          "uri": "spotify:track:4Ez7VJa35ExeC990tpo8gO"
+        },
+        {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e021736d19a006b66f5202a1e0d",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048511736d19a006b66f5202a1e0d",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2731736d19a006b66f5202a1e0d",
+                  "width": 640
+                }
+              ]
+            },
+            "id": "6IopcLtT8aZuiYciKAq5du",
+            "name": "Music For Yoga Meditation And Other Joys",
+            "uri": "spotify:album:6IopcLtT8aZuiYciKAq5du"
+          },
+          "artists": {
+            "items": [
+              {
+                "id": "3wtfcI8iPGKBmnalt0013v",
+                "profile": {
+                  "name": "Tony Scott"
+                },
+                "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v"
+              }
+            ]
+          },
+          "id": "03FWIoIO5q3feGGJbs3QJQ",
+          "name": "Prahna - Life Force",
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/02ad300a64de45501df4ab2d173cfd54a8ece033"
+                }
+              ]
+            }
+          },
+          "uri": "spotify:track:03FWIoIO5q3feGGJbs3QJQ"
+        },
+        {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e021736d19a006b66f5202a1e0d",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048511736d19a006b66f5202a1e0d",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2731736d19a006b66f5202a1e0d",
+                  "width": 640
+                }
+              ]
+            },
+            "id": "6IopcLtT8aZuiYciKAq5du",
+            "name": "Music For Yoga Meditation And Other Joys",
+            "uri": "spotify:album:6IopcLtT8aZuiYciKAq5du"
+          },
+          "artists": {
+            "items": [
+              {
+                "id": "3wtfcI8iPGKBmnalt0013v",
+                "profile": {
+                  "name": "Tony Scott"
+                },
+                "uri": "spotify:artist:3wtfcI8iPGKBmnalt0013v"
+              }
+            ]
+          },
+          "id": "6eauTKbLwwMCLgmNQDvTWB",
+          "name": "Shanti - Peace",
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/ea6f2fd9db9f679ceccf5d1a4c04d4482d03658f"
+                }
+              ]
+            }
+          },
+          "uri": "spotify:track:6eauTKbLwwMCLgmNQDvTWB"
+        },
+        {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02b2ee76c9ad709cf00460a7e1",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851b2ee76c9ad709cf00460a7e1",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273b2ee76c9ad709cf00460a7e1",
+                  "width": 640
+                }
+              ]
+            },
+            "id": "5CI3eqdKUPVR2nB32qGgUP",
+            "name": "Inside The Taj Mahal",
+            "uri": "spotify:album:5CI3eqdKUPVR2nB32qGgUP"
+          },
+          "artists": {
+            "items": [
+              {
+                "id": "1LI9iEq0loU9cdIa1dxVDj",
+                "profile": {
+                  "name": "Paul Horn"
+                },
+                "uri": "spotify:artist:1LI9iEq0loU9cdIa1dxVDj"
+              }
+            ]
+          },
+          "id": "0EIrqIpiBxPmLbGU91Kban",
+          "name": "Unity",
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/fa6f7585029123ebcf0feac355388e5092625f8f"
+                }
+              ]
+            }
+          },
+          "uri": "spotify:track:0EIrqIpiBxPmLbGU91Kban"
+        }
+      ],
+      "uri": "spotify:track:1KSHQXiifZ6wRYBlR7aPXH",
+      "status": "LOADED"
+    },
+    "shows": {
+      "status": "UNAVAILABLE"
+    },
+    "episodes": {
+      "status": "UNAVAILABLE"
+    },
+    "similarAlbums": {
+      "data": [
+        {
+          "__typename": "Album",
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02476af94fa95077665da0cba1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851476af94fa95077665da0cba1",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273476af94fa95077665da0cba1",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 1965
+          },
+          "id": "2TU5pJrurQif5n0ADKdOyp",
+          "name": "Music For Zen Meditation And Other Joys",
+          "type": "ALBUM",
+          "uri": "spotify:album:2TU5pJrurQif5n0ADKdOyp"
+        },
+        {
+          "__typename": "Album",
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021736d19a006b66f5202a1e0d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511736d19a006b66f5202a1e0d",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731736d19a006b66f5202a1e0d",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 1965
+          },
+          "id": "6IopcLtT8aZuiYciKAq5du",
+          "name": "Music For Yoga Meditation And Other Joys",
+          "type": "ALBUM",
+          "uri": "spotify:album:6IopcLtT8aZuiYciKAq5du"
+        },
+        {
+          "__typename": "Album",
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b2ee76c9ad709cf00460a7e1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b2ee76c9ad709cf00460a7e1",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b2ee76c9ad709cf00460a7e1",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 1968
+          },
+          "id": "5CI3eqdKUPVR2nB32qGgUP",
+          "name": "Inside The Taj Mahal",
+          "type": "ALBUM",
+          "uri": "spotify:album:5CI3eqdKUPVR2nB32qGgUP"
+        },
+        {
+          "__typename": "Album",
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028dfdb3d1f8f0ea6d9512ee41",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518dfdb3d1f8f0ea6d9512ee41",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738dfdb3d1f8f0ea6d9512ee41",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 1981
+          },
+          "id": "7oMGmyH7cHi6IJFz9z6DP2",
+          "name": "Koan",
+          "type": "ALBUM",
+          "uri": "spotify:album:7oMGmyH7cHi6IJFz9z6DP2"
+        },
+        {
+          "__typename": "Album",
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02429e5e66c73991338e1cd59a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851429e5e66c73991338e1cd59a",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273429e5e66c73991338e1cd59a",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 1977
+          },
+          "id": "16Hhf5Jucs2fEJEo8lku7A",
+          "name": "EXPLORER SERIES: EAST ASIA - Japan: Shakuhachi: The Japanese Flute",
+          "type": "COMPILATION",
+          "uri": "spotify:album:16Hhf5Jucs2fEJEo8lku7A"
+        },
+        {
+          "__typename": "Album",
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0209e02a5bfbced659b51739d4",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485109e02a5bfbced659b51739d4",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27309e02a5bfbced659b51739d4",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "year": 2018
+          },
+          "id": "3fKlOFbvoGjr1QkHtBhHM3",
+          "name": "Selwa (2018 Remastered Version)",
+          "type": "ALBUM",
+          "uri": "spotify:album:3fKlOFbvoGjr1QkHtBhHM3"
+        }
+      ],
+      "uri": "spotify:track:1KSHQXiifZ6wRYBlR7aPXH",
+      "status": "LOADED"
+    },
+    "similarAudiobooks": {
+      "status": "UNAVAILABLE"
+    },
+    "trackPlaylists": {
+      "status": "UNAVAILABLE"
+    }
+  },
+  "playlistRecommendedTracks": {
+    "playlist": {
+      "status": "UNAVAILABLE"
+    }
+  },
+  "playlistSection": {
+    "status": "UNAVAILABLE"
+  },
+  "concertHub": {
+    "concertFeed": null,
+    "location": null
+  },
+  "masthead": {
+    "isCrawlerBot": false
+  },
+  "section": {},
+  "countryHubs": {},
+  "entityPreview": {
+    "data": null
+  }
+}

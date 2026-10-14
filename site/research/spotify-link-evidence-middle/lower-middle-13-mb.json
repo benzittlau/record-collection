@@ -1,0 +1,36 @@
+{
+  "id": "lower-middle-13",
+  "groups": [
+    "8fe813b8-514e-354c-ad56-853d1f7b3bae"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=8fe813b8-514e-354c-ad56-853d1f7b3bae&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 6
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "59YgN6lkfyjR1T2SpHkJSw",
+      "spotifyUrl": "https://open.spotify.com/album/59YgN6lkfyjR1T2SpHkJSw",
+      "musicbrainzReleaseId": "afa36e38-39ed-41f4-bcac-4b06e32529b9",
+      "musicbrainzTitle": "The House on the Hill",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "country": "GB",
+            "disambiguation": "UK art rock/prog rock band",
+            "id": "9e7b854c-c8af-4883-a7e4-d36a779c4421",
+            "name": "Audience",
+            "type": "Group",
+            "sort-name": "Audience",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "name": "Audience",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": "2009-04-14"
+    }
+  ]
+}

@@ -1,0 +1,1952 @@
+{
+  "url": "https://open.spotify.com/track/5w30N1tXA99KTUXhybKR5A",
+  "resolvedUrl": "https://open.spotify.com/track/5w30N1tXA99KTUXhybKR5A",
+  "fetchedAt": "2026-10-14T05:14:48Z",
+  "pageTitle": "Psalm 150 - song and lyrics by Don Sebesky | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:5w30N1tXA99KTUXhybKR5A": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "(P) 1973 Sony Music Entertainment",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#105870"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851da80499d7f513e70917f4a5f",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02da80499d7f513e70917f4a5f",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273da80499d7f513e70917f4a5f",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 1,
+              "month": 1,
+              "year": 1973
+            },
+            "isPreRelease": false,
+            "name": "Giant Box (CTI Records 40th Anniversary Edition)",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4yr0fHJhSr7ZWlsoZIbg44",
+                          "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                          "profile": {
+                            "name": "Don Sebesky"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3WRB3luNCNirwC2EiRwWiA",
+                    "name": "Firebird/Birds Of Fire",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:3WRB3luNCNirwC2EiRwWiA",
+                    "duration": {
+                      "totalMilliseconds": 835266
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4yr0fHJhSr7ZWlsoZIbg44",
+                          "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                          "profile": {
+                            "name": "Don Sebesky"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5x2xovooB5o6o30uDozEDL",
+                    "name": "Song to a Seagull",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:5x2xovooB5o6o30uDozEDL",
+                    "duration": {
+                      "totalMilliseconds": 348720
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4yr0fHJhSr7ZWlsoZIbg44",
+                          "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                          "profile": {
+                            "name": "Don Sebesky"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2tEXkz9xVn7tXI5cG3n1EY",
+                    "name": "Free As a Bird",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:2tEXkz9xVn7tXI5cG3n1EY",
+                    "duration": {
+                      "totalMilliseconds": 493080
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4yr0fHJhSr7ZWlsoZIbg44",
+                          "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                          "profile": {
+                            "name": "Don Sebesky"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5w30N1tXA99KTUXhybKR5A",
+                    "name": "Psalm 150",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:5w30N1tXA99KTUXhybKR5A",
+                    "duration": {
+                      "totalMilliseconds": 488480
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4yr0fHJhSr7ZWlsoZIbg44",
+                          "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                          "profile": {
+                            "name": "Don Sebesky"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2Hnry3NmCpPTEkEd3R1g4E",
+                    "name": "Vocalise",
+                    "trackNumber": 5,
+                    "uri": "spotify:track:2Hnry3NmCpPTEkEd3R1g4E",
+                    "duration": {
+                      "totalMilliseconds": 337360
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4yr0fHJhSr7ZWlsoZIbg44",
+                          "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                          "profile": {
+                            "name": "Don Sebesky"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3ZCGKW7RrH47FXyvNhuQsV",
+                    "name": "Fly/Circles",
+                    "trackNumber": 6,
+                    "uri": "spotify:track:3ZCGKW7RrH47FXyvNhuQsV",
+                    "duration": {
+                      "totalMilliseconds": 586400
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "4yr0fHJhSr7ZWlsoZIbg44",
+                          "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                          "profile": {
+                            "name": "Don Sebesky"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6k1a1RbnGNtj3Ze1JHqTf9",
+                    "name": "Semi-Tough",
+                    "trackNumber": 7,
+                    "uri": "spotify:track:6k1a1RbnGNtj3Ze1JHqTf9",
+                    "duration": {
+                      "totalMilliseconds": 470813
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "ALBUM",
+            "uri": "spotify:album:6tL7AvVopIe1tIEtz4DrIv"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e024d9c131bd14b4d98688b3d70",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048514d9c131bd14b4d98688b3d70",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2734d9c131bd14b4d98688b3d70",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2012
+                              },
+                              "id": "0B4tZoWLuEw4L5vSMCmPwG",
+                              "name": "Movements in 3",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0B4tZoWLuEw4L5vSMCmPwG"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e021c04f8cb72e6d355411d7173",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048511c04f8cb72e6d355411d7173",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2731c04f8cb72e6d355411d7173",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2009
+                              },
+                              "id": "0a7NHwE1wDinVzMlf01aJu",
+                              "name": "A Jazz Portrait of Charlie Mariano",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0a7NHwE1wDinVzMlf01aJu"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0236aac145c4edba84fa132b9e",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485136aac145c4edba84fa132b9e",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27336aac145c4edba84fa132b9e",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1999
+                              },
+                              "id": "40zy8HNXMBgbOijBFmlkyK",
+                              "name": "Joyful Noise",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:40zy8HNXMBgbOijBFmlkyK"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e029777b958fc4ca37363e9a7f6",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048519777b958fc4ca37363e9a7f6",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2739777b958fc4ca37363e9a7f6",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1999
+                              },
+                              "id": "6xxUdDL1kecVFlTJPL1750",
+                              "name": "Three Works For Jazz Soloists & Symphony Orchestra",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:6xxUdDL1kecVFlTJPL1750"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02793710376b068b6e5dda599c",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851793710376b068b6e5dda599c",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273793710376b068b6e5dda599c",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1979
+                              },
+                              "id": "2bx2N9VqowM4zyROSLJeZI",
+                              "name": "Three Works For Jazz Soloists & Symphony Orchestra",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:2bx2N9VqowM4zyROSLJeZI"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e026fcf82bf2505f6971757380e",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048516fcf82bf2505f6971757380e",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2736fcf82bf2505f6971757380e",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1975
+                              },
+                              "id": "3si0VYy8ookEWuWvGorz1z",
+                              "name": "The Rape of El Morro",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:3si0VYy8ookEWuWvGorz1z"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e029777b958fc4ca37363e9a7f6",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048519777b958fc4ca37363e9a7f6",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2739777b958fc4ca37363e9a7f6",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1999
+                        },
+                        "id": "6xxUdDL1kecVFlTJPL1750",
+                        "name": "Three Works For Jazz Soloists & Symphony Orchestra",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6xxUdDL1kecVFlTJPL1750"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e026fcf82bf2505f6971757380e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048516fcf82bf2505f6971757380e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2736fcf82bf2505f6971757380e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1975
+                        },
+                        "id": "3si0VYy8ookEWuWvGorz1z",
+                        "name": "The Rape of El Morro",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3si0VYy8ookEWuWvGorz1z"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0236aac145c4edba84fa132b9e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485136aac145c4edba84fa132b9e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27336aac145c4edba84fa132b9e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1999
+                        },
+                        "id": "40zy8HNXMBgbOijBFmlkyK",
+                        "name": "Joyful Noise",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:40zy8HNXMBgbOijBFmlkyK"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e021c04f8cb72e6d355411d7173",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048511c04f8cb72e6d355411d7173",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2731c04f8cb72e6d355411d7173",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2009
+                        },
+                        "id": "0a7NHwE1wDinVzMlf01aJu",
+                        "name": "A Jazz Portrait of Charlie Mariano",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0a7NHwE1wDinVzMlf01aJu"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e024d9c131bd14b4d98688b3d70",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048514d9c131bd14b4d98688b3d70",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2734d9c131bd14b4d98688b3d70",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2012
+                        },
+                        "id": "0B4tZoWLuEw4L5vSMCmPwG",
+                        "name": "Movements in 3",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0B4tZoWLuEw4L5vSMCmPwG"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02793710376b068b6e5dda599c",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851793710376b068b6e5dda599c",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273793710376b068b6e5dda599c",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1979
+                        },
+                        "id": "2bx2N9VqowM4zyROSLJeZI",
+                        "name": "Three Works For Jazz Soloists & Symphony Orchestra",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2bx2N9VqowM4zyROSLJeZI"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": []
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02b05cd82a283d7dc018e2a6df",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851b05cd82a283d7dc018e2a6df",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273b05cd82a283d7dc018e2a6df",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "John Pizzarelli Meets The Beatles",
+                            "uri": "spotify:album:0WGgc3DUBg8nkYU8hjdrw8"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5Yc3oYPNlABAj17eZiNJqf",
+                                "profile": {
+                                  "name": "John Pizzarelli"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:1LkuDegoR0UPQGQZmiTg7O",
+                                "profile": {
+                                  "name": "Martin Pizzarelli"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:1P9qUHmCdMnoOk1T9Q5Rmr",
+                                "profile": {
+                                  "name": "Tony Tedesco"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:1qWG4TrKtpfjG2N2MiTCmp",
+                                "profile": {
+                                  "name": "Sammy Figueroa"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                                "profile": {
+                                  "name": "Don Sebesky"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:6RMpBHKpst3s0GQju2rNyz",
+                                "profile": {
+                                  "name": "Ken Peplowski"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "1v3H9kdWOqHviVqHYmDcKN",
+                          "name": "When I'm 64",
+                          "playcount": "1139956",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/196d70110ffa54e8106f203ea2d950f131306eb3"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:1v3H9kdWOqHviVqHYmDcKN",
+                          "duration": {
+                            "totalMilliseconds": 165000
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e029777b958fc4ca37363e9a7f6",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048519777b958fc4ca37363e9a7f6",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2739777b958fc4ca37363e9a7f6",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Three Works For Jazz Soloists & Symphony Orchestra",
+                            "uri": "spotify:album:6xxUdDL1kecVFlTJPL1750"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                                "profile": {
+                                  "name": "Don Sebesky"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:4x3e2hhx7WYWGWihRmzJPl",
+                                "profile": {
+                                  "name": "Jimmy Madison"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:3aM9H4QBnPUo6mnNVufAtN",
+                                "profile": {
+                                  "name": "Bob Brookmeyer"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:7ffXgsphD60oasltiYDe0M",
+                                "profile": {
+                                  "name": "Joe Beck"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:0MvSBMGRQJY3mRwIbJsqF1",
+                                "profile": {
+                                  "name": "Royal Philharmonic Orchestra"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:2vDj2N0oq3W44cfteWdMUX",
+                                "profile": {
+                                  "name": "Jon Faddis"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:6Xktfsmu8Tlg3071prbJej",
+                                "profile": {
+                                  "name": "Richard Davis"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:1lD1gnsIc9JLYOjKGWDBSI",
+                                "profile": {
+                                  "name": "Gordon Beck"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:72nnWanYvc8yycJV1dnkzS",
+                                "profile": {
+                                  "name": "Harry Rabinowitz, M.B.E."
+                                }
+                              }
+                            ]
+                          },
+                          "id": "0QAB177dOh8F1bafYgwBZy",
+                          "name": "The Rite Of Spring",
+                          "playcount": "321264",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/46f722f4fb475b3561d54f1ea4a406b898f14749"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:0QAB177dOh8F1bafYgwBZy",
+                          "duration": {
+                            "totalMilliseconds": 367800
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02b05cd82a283d7dc018e2a6df",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851b05cd82a283d7dc018e2a6df",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273b05cd82a283d7dc018e2a6df",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "John Pizzarelli Meets The Beatles",
+                            "uri": "spotify:album:0WGgc3DUBg8nkYU8hjdrw8"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5Yc3oYPNlABAj17eZiNJqf",
+                                "profile": {
+                                  "name": "John Pizzarelli"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:1LkuDegoR0UPQGQZmiTg7O",
+                                "profile": {
+                                  "name": "Martin Pizzarelli"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:1P9qUHmCdMnoOk1T9Q5Rmr",
+                                "profile": {
+                                  "name": "Tony Tedesco"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:1qWG4TrKtpfjG2N2MiTCmp",
+                                "profile": {
+                                  "name": "Sammy Figueroa"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:6p38W9mKslIjGbfiCXRAJ9",
+                                "profile": {
+                                  "name": "Ray H. Kennedy"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:1OYQYykzPAxti3BXTYmH2i",
+                                "profile": {
+                                  "name": "Tony Kadleck"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:5g9B6VLXDTjKnfV1rgVKvb",
+                                "profile": {
+                                  "name": "Jim O'Connor"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:7wgJPlLqht74d1ps4wl3cM",
+                                "profile": {
+                                  "name": "Barry Ries"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:0uLypRfNo6R2VIOWrl157U",
+                                "profile": {
+                                  "name": "Ron Tooley"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:7trXXzSpVwr8jIRmO6g4s5",
+                                "profile": {
+                                  "name": "Wayne Andre"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "1aqAHPrGpOHVO4vyGPDjD5",
+                          "name": "Things We Said Today",
+                          "playcount": "242247",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/7404050568f7302f8c0d72be53342a6172f179b1"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:1aqAHPrGpOHVO4vyGPDjD5",
+                          "duration": {
+                            "totalMilliseconds": 255533
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e0285580b6deb45b799d05f078a",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d0000485185580b6deb45b799d05f078a",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b27385580b6deb45b799d05f078a",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Let's Share Christmas",
+                            "uri": "spotify:album:6AyVdFO38DaQajz87hXefG"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                                "profile": {
+                                  "name": "Don Sebesky"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "3g5PELPtMZFv6ALCPresaj",
+                          "name": "Snowfall",
+                          "playcount": "4634498",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/d3531ceaa814fadbf9a691f5e578fdacce346086"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:3g5PELPtMZFv6ALCPresaj",
+                          "duration": {
+                            "totalMilliseconds": 192800
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "3lZyF2ZG6fZLQvxgJU0y5r",
+                        "profile": {
+                          "name": "Claus Ogerman"
+                        },
+                        "uri": "spotify:artist:3lZyF2ZG6fZLQvxgJU0y5r",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 434,
+                                "url": "https://i.scdn.co/image/bcf8b2e8c4c82a03ffa270fb81ba85eec7655cfb",
+                                "width": 640
+                              },
+                              {
+                                "height": 43,
+                                "url": "https://i.scdn.co/image/2244e9b64120b6ec0d8798fc8ce1dcfd4623a8a3",
+                                "width": 63
+                              },
+                              {
+                                "height": 136,
+                                "url": "https://i.scdn.co/image/666c5a73fe498734e9f0c7bb2b9df60104a9bc19",
+                                "width": 200
+                              },
+                              {
+                                "height": 678,
+                                "url": "https://i.scdn.co/image/920bccd6d826f28b1afd8123521e12f53a02af21",
+                                "width": 999
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "3fvBGGCTOjiCsIqL3MFU6l",
+                        "profile": {
+                          "name": "Kenny Kirkland"
+                        },
+                        "uri": "spotify:artist:3fvBGGCTOjiCsIqL3MFU6l",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b2739ffe8f09fa74bddd0535cd36",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d000048519ffe8f09fa74bddd0535cd36",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e029ffe8f09fa74bddd0535cd36",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "1lD1gnsIc9JLYOjKGWDBSI",
+                        "profile": {
+                          "name": "Gordon Beck"
+                        },
+                        "uri": "spotify:artist:1lD1gnsIc9JLYOjKGWDBSI",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273c4cd414021f0d7cf4db30cb9",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851db68d47b46e0904fbf7b926f",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02db68d47b46e0904fbf7b926f",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "1Og8MPGPzR6etNBuQR499K",
+                        "profile": {
+                          "name": "Stan Sulzmann"
+                        },
+                        "uri": "spotify:artist:1Og8MPGPzR6etNBuQR499K",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273b9dd4ee1f49ab4a7a17be0a5",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851b9dd4ee1f49ab4a7a17be0a5",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02b9dd4ee1f49ab4a7a17be0a5",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2vDj2N0oq3W44cfteWdMUX",
+                        "profile": {
+                          "name": "Jon Faddis"
+                        },
+                        "uri": "spotify:artist:2vDj2N0oq3W44cfteWdMUX",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/cedccf85ded288eb1f8c746f352a72a492b9bc35",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/822ee22ef513993512be7cbeafec7dee14f56ef2",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/965975d2f3581fac8ab9bc3fd94108e17ec4a2c1",
+                                "width": 200
+                              },
+                              {
+                                "height": 1000,
+                                "url": "https://i.scdn.co/image/ea7ac6d2f18123fba8261b40aa6ce9cdba9749f6",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "6HBVTGmPHytchERPb8YGPr",
+                        "profile": {
+                          "name": "Eddie Gómez"
+                        },
+                        "uri": "spotify:artist:6HBVTGmPHytchERPb8YGPr",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 258,
+                                "url": "https://i.scdn.co/image/46751b3612941057e2de2665694495f3f82487af",
+                                "width": 500
+                              },
+                              {
+                                "height": 33,
+                                "url": "https://i.scdn.co/image/82c9c3bf0bef2ab3e928b42722ac8f7a512fa84a",
+                                "width": 64
+                              },
+                              {
+                                "height": 103,
+                                "url": "https://i.scdn.co/image/46a996fa3cfaf01d805acd0fa3910c273348b71a",
+                                "width": 200
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "4yr0fHJhSr7ZWlsoZIbg44",
+                "profile": {
+                  "name": "Don Sebesky"
+                },
+                "stats": {
+                  "monthlyListeners": 6905
+                },
+                "uri": "spotify:artist:4yr0fHJhSr7ZWlsoZIbg44",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739777b958fc4ca37363e9a7f6",
+                        "width": 640
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519777b958fc4ca37363e9a7f6",
+                        "width": 64
+                      },
+                      {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029777b958fc4ca37363e9a7f6",
+                        "width": 300
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "__typename": "Market",
+                "countryCode": "PR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "US"
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 488480
+          },
+          "id": "5w30N1tXA99KTUXhybKR5A",
+          "mediaType": "AUDIO",
+          "name": "Psalm 150",
+          "playability": {
+            "playable": false
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": []
+            }
+          },
+          "trackNumber": 4,
+          "uri": "spotify:track:5w30N1tXA99KTUXhybKR5A"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "5w30N1tXA99KTUXhybKR5A": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:5w30N1tXA99KTUXhybKR5A"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023c8934686c1573aaae035c93",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513c8934686c1573aaae035c93",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733c8934686c1573aaae035c93",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "66UjK0UZdGbuTmBfJqceLV",
+              "name": "Land Of Make Believe (Live)",
+              "uri": "spotify:album:66UjK0UZdGbuTmBfJqceLV"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "2MMaIlHd8UvDW0mVRAncD6",
+                  "profile": {
+                    "name": "Chuck Mangione"
+                  },
+                  "uri": "spotify:artist:2MMaIlHd8UvDW0mVRAncD6"
+                },
+                {
+                  "id": "2f1U7X1nQTiOLTjsGOCoET",
+                  "profile": {
+                    "name": "Hamilton Philharmonic Orchestra"
+                  },
+                  "uri": "spotify:artist:2f1U7X1nQTiOLTjsGOCoET"
+                }
+              ]
+            },
+            "id": "4xbIt7piFTTxWN17JMSMDk",
+            "name": "The Gloria From The Mass Of St. Bernard - Live At Massey Hall, Toronto/1973",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/b7a9da974e32d42f928f428734a61bdf530f9820"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:4xbIt7piFTTxWN17JMSMDk"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0241666e1348303fefb0e606f2",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485141666e1348303fefb0e606f2",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27341666e1348303fefb0e606f2",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "6iOD93hQF4MXMgsLuLeYdd",
+              "name": "This Mother's Daughter",
+              "uri": "spotify:album:6iOD93hQF4MXMgsLuLeYdd"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "2JfVCMa3FlvQRlLT5uH9zb",
+                  "profile": {
+                    "name": "Nancy Wilson"
+                  },
+                  "uri": "spotify:artist:2JfVCMa3FlvQRlLT5uH9zb"
+                }
+              ]
+            },
+            "id": "4V6m9FRIn9ZOISrW1kZTm5",
+            "name": "China",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/fccf1a9896cbf221cee7b05c12c0233ccd657fde"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:4V6m9FRIn9ZOISrW1kZTm5"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02584e71b5c18604e7aa16b6dd",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851584e71b5c18604e7aa16b6dd",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273584e71b5c18604e7aa16b6dd",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "1bbBEnGNHe9zko2ZqDgeau",
+              "name": "Black Snow (Let Freedom Ring)",
+              "uri": "spotify:album:1bbBEnGNHe9zko2ZqDgeau"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "5lMt0SIP11ij0sTHq8h8cD",
+                  "profile": {
+                    "name": "Roy Meriwether"
+                  },
+                  "uri": "spotify:artist:5lMt0SIP11ij0sTHq8h8cD"
+                }
+              ]
+            },
+            "id": "4NOXc2bAZWl6ZVoSCHrwYb",
+            "name": "After The War (Let There Be Love)",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/57f8f0948f0a78b751ba5eb4dd595f656a226da4"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:4NOXc2bAZWl6ZVoSCHrwYb"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b05d786fab0d1a1536345bb5",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b05d786fab0d1a1536345bb5",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b05d786fab0d1a1536345bb5",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "6QERE7pVMPmHSKcxRhnBGM",
+              "name": "Say It with Silence",
+              "uri": "spotify:album:6QERE7pVMPmHSKcxRhnBGM"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "2Mb147hrrMIoAy425UZkhv",
+                  "profile": {
+                    "name": "Hubert Laws"
+                  },
+                  "uri": "spotify:artist:2Mb147hrrMIoAy425UZkhv"
+                }
+              ]
+            },
+            "id": "0OUX8JgHVH4EXlzZLCirRU",
+            "name": "Say It with Silence",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/bcb475bec2515fb2616ffe82eefeba378b21c8f2"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:0OUX8JgHVH4EXlzZLCirRU"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bbe7c165abd73140071f698b",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bbe7c165abd73140071f698b",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bbe7c165abd73140071f698b",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "73rKLqNd0wzjAt3DfTao4v",
+              "name": "Morning Star (CTI Records 40th Anniversary Edition)",
+              "uri": "spotify:album:73rKLqNd0wzjAt3DfTao4v"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "2Mb147hrrMIoAy425UZkhv",
+                  "profile": {
+                    "name": "Hubert Laws"
+                  },
+                  "uri": "spotify:artist:2Mb147hrrMIoAy425UZkhv"
+                }
+              ]
+            },
+            "id": "3t8dLphTlw7hrE19Zwj6Rv",
+            "name": "Morning Star",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/9e796c8c34c66046c8253fa9276d319a5160afe8"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:3t8dLphTlw7hrE19Zwj6Rv"
+          }
+        ],
+        "uri": "spotify:track:5w30N1tXA99KTUXhybKR5A",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02a0c74f65188ef432e2d101fe",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851a0c74f65188ef432e2d101fe",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a0c74f65188ef432e2d101fe",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1969
+            },
+            "id": "3PXiRoeLb5mrJ2KV2M1m5B",
+            "name": "Crying Song",
+            "type": "ALBUM",
+            "uri": "spotify:album:3PXiRoeLb5mrJ2KV2M1m5B"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02ea4348f087f1c9b53fc297d7",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851ea4348f087f1c9b53fc297d7",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273ea4348f087f1c9b53fc297d7",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1973
+            },
+            "id": "3ogrIu6fBfBQnoWVtVihCy",
+            "name": "Revelation",
+            "type": "ALBUM",
+            "uri": "spotify:album:3ogrIu6fBfBQnoWVtVihCy"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02582fbb401547b185341c87e6",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851582fbb401547b185341c87e6",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273582fbb401547b185341c87e6",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1979
+            },
+            "id": "5tgxq0gNUVIMK6PRRoKgeI",
+            "name": "Brazilia",
+            "type": "ALBUM",
+            "uri": "spotify:album:5tgxq0gNUVIMK6PRRoKgeI"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0201d878bfd753a2e86e547bd8",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485101d878bfd753a2e86e547bd8",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27301d878bfd753a2e86e547bd8",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2014
+            },
+            "id": "7je60dHzcv85Bpl95LJy2u",
+            "name": "Friends",
+            "type": "ALBUM",
+            "uri": "spotify:album:7je60dHzcv85Bpl95LJy2u"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02c2eb3de865ea7af9ade60df8",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851c2eb3de865ea7af9ade60df8",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273c2eb3de865ea7af9ade60df8",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1979
+            },
+            "id": "30Rlz0ey6wNRZ8VQaiBMX2",
+            "name": "In a Temple Garden",
+            "type": "ALBUM",
+            "uri": "spotify:album:30Rlz0ey6wNRZ8VQaiBMX2"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0289c07ab044c063fc4ba7afdb",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485189c07ab044c063fc4ba7afdb",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27389c07ab044c063fc4ba7afdb",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1974
+            },
+            "id": "0C4gpv2pYw34uj51893K2C",
+            "name": "Bedtime Story",
+            "type": "ALBUM",
+            "uri": "spotify:album:0C4gpv2pYw34uj51893K2C"
+          }
+        ],
+        "uri": "spotify:track:5w30N1tXA99KTUXhybKR5A",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/5w30N1tXA99KTUXhybKR5A",
+      "url": "https://open.spotify.com/track/5w30N1tXA99KTUXhybKR5A",
+      "name": "Psalm 150",
+      "description": "Listen to Psalm 150 on Spotify. Song · Don Sebesky · 1973",
+      "datePublished": "1973-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/5w30N1tXA99KTUXhybKR5A?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/5w30N1tXA99KTUXhybKR5A/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": [
+            {
+              "@type": "Country",
+              "name": "PR"
+            },
+            {
+              "@type": "Country",
+              "name": "US"
+            }
+          ]
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 264817,
+  "albumLinks": [
+    {
+      "id": "6xxUdDL1kecVFlTJPL1750",
+      "label": "Three Works For Jazz Soloists & Symphony Orchestra  Album • 1999"
+    },
+    {
+      "id": "3si0VYy8ookEWuWvGorz1z",
+      "label": "The Rape of El Morro  Album • 1975"
+    },
+    {
+      "id": "40zy8HNXMBgbOijBFmlkyK",
+      "label": "Joyful Noise  Album • 1999"
+    },
+    {
+      "id": "0a7NHwE1wDinVzMlf01aJu",
+      "label": "A Jazz Portrait of Charlie Mariano  Album • 2009"
+    },
+    {
+      "id": "0B4tZoWLuEw4L5vSMCmPwG",
+      "label": "Movements in 3  Album • 2012"
+    },
+    {
+      "id": "2bx2N9VqowM4zyROSLJeZI",
+      "label": "Three Works For Jazz Soloists & Symphony Orchestra  Album • 1979"
+    },
+    {
+      "id": "0B4tZoWLuEw4L5vSMCmPwG",
+      "label": "Movements in 3  Album • 2012"
+    },
+    {
+      "id": "0a7NHwE1wDinVzMlf01aJu",
+      "label": "A Jazz Portrait of Charlie Mariano  Album • 2009"
+    },
+    {
+      "id": "40zy8HNXMBgbOijBFmlkyK",
+      "label": "Joyful Noise  Album • 1999"
+    },
+    {
+      "id": "6xxUdDL1kecVFlTJPL1750",
+      "label": "Three Works For Jazz Soloists & Symphony Orchestra  Album • 1999"
+    },
+    {
+      "id": "2bx2N9VqowM4zyROSLJeZI",
+      "label": "Three Works For Jazz Soloists & Symphony Orchestra  Album • 1979"
+    },
+    {
+      "id": "3si0VYy8ookEWuWvGorz1z",
+      "label": "The Rape of El Morro  Album • 1975"
+    },
+    {
+      "id": "3PXiRoeLb5mrJ2KV2M1m5B",
+      "label": "Crying Song  Album • 1969"
+    },
+    {
+      "id": "3ogrIu6fBfBQnoWVtVihCy",
+      "label": "Revelation  Album • 1973"
+    },
+    {
+      "id": "5tgxq0gNUVIMK6PRRoKgeI",
+      "label": "Brazilia  Album • 1979"
+    },
+    {
+      "id": "7je60dHzcv85Bpl95LJy2u",
+      "label": "Friends  Album • 2014"
+    },
+    {
+      "id": "30Rlz0ey6wNRZ8VQaiBMX2",
+      "label": "In a Temple Garden  Album • 1979"
+    },
+    {
+      "id": "0C4gpv2pYw34uj51893K2C",
+      "label": "Bedtime Story  Album • 1974"
+    },
+    {
+      "id": "6tL7AvVopIe1tIEtz4DrIv",
+      "label": "Giant Box (CTI Records 40th Anniversary Edition)"
+    }
+  ]
+}

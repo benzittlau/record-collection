@@ -25,7 +25,7 @@ const spotifyIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12"
 const photoCalibrationReady=fetch('box-photos.json?v=2',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 const spineMasksReady=fetch('spine-masks.json?v=3cee3be1a42d',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 let photoProjectionRequest=0;
-const catalogReady = fetch('catalog.json?v=a2fda78b26aa',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
+const catalogReady = fetch('catalog.json?v=0dc5e9ca3f37',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
   records = data.records ?? data;
   records = records.map(r => ({...r,cover:r.cover ?? r.coverPath ?? null,back:r.back ?? r.backPath ?? r.backCover ?? null,kind:r.kind ?? 'record'}));
   const identified = records.filter(r => r.confidence === 'confirmed').length;
@@ -90,13 +90,13 @@ function renderRecord(){
   $('record-title').textContent=r.title;$('record-artist').textContent=r.artist;
   $('record-tags').innerHTML=[r.year,r.kind==='book'?'Art book':'Vinyl',r.confidence==='unknown'?'Unidentified':r.confidence==='probable'?'Likely identification':null].filter(Boolean).map(t=>`<span>${escapeHtml(t)}</span>`).join('');
   $('record-evidence').textContent=r.confidence==='confirmed'?'Identified from the photographed spine.':r.confidence==='probable'?'A likely match from the visible spine. A closer photograph will help confirm it.':'The spine is too worn to identify yet. Its place in the collection is preserved.';
-  $('record-notes').textContent=[r.spineText?`Spine: “${r.spineText}”.`:null,r.notes,r.artworkEdition||r.coverNotes||(r.cover?'Cover art represents the album; the exact pressing is unverified.':null),r.backArtworkEdition||r.backEdition||r.backNotes||(r.back?'The sourced back cover may be from a different pressing.':null),r.label?(r.labelEdition||'The pictured label is sourced from a documented LP edition; the family disc and its condition have not been photographed.'):null].filter(Boolean).join(' ');
+  $('record-notes').textContent=[r.spineText?`Spine: “${r.spineText}”.`:null,r.notes,r.artworkEdition||r.coverNotes||(r.cover?'Cover art represents the album; the exact pressing is unverified.':null),r.backArtworkEdition||r.backEdition||r.backNotes||(r.back?'The sourced back cover may be from a different pressing.':null),r.label?(r.labelEdition||'The pictured label is sourced from a documented LP edition; the family disc and its condition have not been photographed.'):null,r.spotifyId&&r.spotifyEdition?`Spotify edition: ${r.spotifyEdition}`:null].filter(Boolean).join(' ');
   const sourceLinks=(r.sources??[]).map(s=>typeof s==='string'?s:s.url).filter(s=>/^https?:\/\//.test(s??''));
   $('record-sources').innerHTML=sourceLinks.slice(0,6).map((url,i)=>`<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(sourceName(url,i))} ↗</a>`).join('');
   const search=`https://open.spotify.com/search/${encodeURIComponent(`${r.artist} ${r.title}`)}`;
   if(r.kind==='book'){$('listen-actions').innerHTML='<p class="record-evidence">An art book, tucked in with the records.</p>';}
   else if(r.spotifyId&&/^[A-Za-z0-9]{22}$/.test(r.spotifyId)&&r.confidence==='confirmed'){
-    $('listen-actions').innerHTML=`<button class="spotify-button" id="listen-album">${spotifyIcon} Listen on Spotify</button><a class="spotify-link" href="https://open.spotify.com/album/${r.spotifyId}" target="_blank" rel="noopener noreferrer">Open the verified album ↗</a>`;
+    $('listen-actions').innerHTML=`<button class="spotify-button" id="listen-album">${spotifyIcon} Listen on Spotify</button><a class="spotify-link" href="https://open.spotify.com/album/${r.spotifyId}" target="_blank" rel="noopener noreferrer">Open the verified album ↗</a>${r.spotifyAvailabilityNote?`<p class="spotify-link">${escapeHtml(r.spotifyAvailabilityNote)}</p>`:''}`;
     $('listen-album').onclick=()=>openListen(r);
   }else if(r.confidence!=='unknown'){$('listen-actions').innerHTML=`<a class="spotify-button" href="${search}" target="_blank" rel="noopener noreferrer">${spotifyIcon} Find on Spotify ↗</a><p class="spotify-link">Search only · an exact album link hasn’t been verified.</p>`;}
   else{$('listen-actions').innerHTML='<p class="record-evidence">Listening will be available once this record is identified.</p>';}

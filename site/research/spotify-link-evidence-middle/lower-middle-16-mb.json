@@ -1,0 +1,37 @@
+{
+  "id": "lower-middle-16",
+  "groups": [
+    "e9807abd-4144-3b17-b7e9-f8dc5f97460e",
+    "e9807abd-4144-3b17-b7e9-f8dc5f97460e"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=e9807abd-4144-3b17-b7e9-f8dc5f97460e&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 5
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "4KjnEDSp1XsTYMbsYLFC1e",
+      "spotifyUrl": "https://open.spotify.com/album/4KjnEDSp1XsTYMbsYLFC1e",
+      "musicbrainzReleaseId": "7c24a74d-c5fc-48eb-aeef-5aa43e2cdaac",
+      "musicbrainzTitle": "Amigo",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "id": "b8efe8ac-45db-4a71-bb51-c1503986172f",
+            "name": "Arlo Guthrie",
+            "disambiguation": "American folk singer-songwriter",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "type": "Person",
+            "sort-name": "Guthrie, Arlo"
+          },
+          "name": "Arlo Guthrie",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": "2008-08-01"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "method": "Primary Spotify album pages independently fetched and original LP programme compared with saved rear scans. Native in-app Spotify full discography, Show all and Grid view, recovered items omitted from initial page metadata. No account sign-in or audio was required.",
+  "accepted": [
+    {
+      "id": "upper-middle-07",
+      "spotifyId": "69N9x2aQqmKOexsb0drslp",
+      "evidenceFile": "spotify-link-verification/69N9x2aQqmKOexsb0drslp.json"
+    },
+    {
+      "id": "upper-middle-16",
+      "spotifyId": "4HNQuLdLVxVsx4dgX3KqIG",
+      "evidenceFile": "spotify-link-verification/4HNQuLdLVxVsx4dgX3KqIG.json"
+    },
+    {
+      "id": "upper-middle-19",
+      "spotifyId": "7ecm7pavVsK2o0t7VjOx7e",
+      "evidenceFile": "spotify-link-verification/7ecm7pavVsK2o0t7VjOx7e.json"
+    },
+    {
+      "id": "upper-middle-29",
+      "spotifyId": "6pU4Phbac7CrQiJHwOYpCs",
+      "evidenceFile": "spotify-link-verification/6pU4Phbac7CrQiJHwOYpCs.json"
+    },
+    {
+      "id": "upper-middle-41",
+      "spotifyId": "6yvDDUpJMikftO91NDLK8H",
+      "evidenceFile": "spotify-link-verification/6yvDDUpJMikftO91NDLK8H.json"
+    },
+    {
+      "id": "upper-middle-54",
+      "spotifyId": "3TgphlKOMcXFPxqCfCDUyW",
+      "evidenceFile": "spotify-link-verification/3TgphlKOMcXFPxqCfCDUyW.json"
+    },
+    {
+      "id": "upper-middle-55",
+      "spotifyId": "4OBH90dcMvQQ2MsSCvsGRU",
+      "evidenceFile": "spotify-link-verification/4OBH90dcMvQQ2MsSCvsGRU.json"
+    },
+    {
+      "id": "upper-middle-61",
+      "spotifyId": "6p4QN4Wmr0INaIDjwt6g1y",
+      "evidenceFile": "spotify-link-verification/6p4QN4Wmr0INaIDjwt6g1y.json"
+    },
+    {
+      "id": "lower-middle-14",
+      "spotifyId": "3tOAEWaHp09NFvTt97Uch9",
+      "evidenceFile": "spotify-link-verification/3tOAEWaHp09NFvTt97Uch9.json"
+    },
+    {
+      "id": "lower-middle-50",
+      "spotifyId": "42KK3F8HTm1dyv5iFsCXdw",
+      "evidenceFile": "spotify-link-verification/42KK3F8HTm1dyv5iFsCXdw.json"
+    },
+    {
+      "id": "lower-middle-58",
+      "spotifyId": "6YvpWNisHeDQPsoqeyckYg",
+      "evidenceFile": "spotify-link-verification/6YvpWNisHeDQPsoqeyckYg.json"
+    }
+  ],
+  "negativeNativeChecks": [
+    {
+      "id": "upper-middle-51",
+      "artistUrl": "https://open.spotify.com/artist/1jjLd3e6WhxQPNBsudMFmV",
+      "reason": "Full native discography listed the 1973 self-titled album; Highway Driver was separately verified but is a different programme. No matching full Kitsch album ID was verified."
+    },
+    {
+      "id": "upper-left-52",
+      "artistUrl": "https://open.spotify.com/artist/4BYJjT7sfnTdGzNrjL31D7",
+      "reason": "Full native discography listed The Millennium Collection and Between a Rock and a Hyde Place. Both are different programmes from No Stranger to Danger."
+    },
+    {
+      "id": "lower-left-17",
+      "artistUrl": "https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB",
+      "reason": "Full native discography showed three Clockwork Orange-derived singles; no exact Switched-On Bach II album ID was verified. Metadata also exposes other soundtrack appearances, which do not match."
+    },
+    {
+      "id": "lower-left-24",
+      "artistUrl": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt",
+      "reason": "Native full grid discography was scrolled through the original 1960s albums and 1970s releases. No 13/Thirteen compilation ID was verified; other hits/studio collections have different programmes."
+    },
+    {
+      "id": "lower-middle-15",
+      "artistUrl": "https://open.spotify.com/artist/3kt1xo56PyGb13t2OCf08h",
+      "reason": "Ralph Burns full native discography contains jazz albums; no original 14-track All That Jazz film soundtrack was verified. An unofficial playlist uses substitute performances and is rejected."
+    },
+    {
+      "id": "upper-middle-36",
+      "artistUrl": "https://open.spotify.com/artist/6OHv7r7q1Csc7Ygz86gk8O",
+      "reason": "Full native discography listed Read Between the Lines, Viva Valdy: Live at Last, Contenders, and The Best of Valdy. No matching full Landscapes ID was verified."
+    },
+    {
+      "id": "lower-middle-23",
+      "artistUrl": "https://open.spotify.com/artist/0M2XWqbJ87IJXG2irhA1nk",
+      "reason": "Correct Roy Forbes artist profile was checked in native full discography; no matching Kid Full of Dreams album ID was verified. Search results for a modern BIM artist were rejected as a different performer."
+    }
+  ],
+  "rejected": [
+    {
+      "id": "upper-middle-41",
+      "spotifyId": "4zaWUNHIM0EQ5jrdCCeckl",
+      "reason": "Live+ is Jeff Beck’s 2015 album, not Alex Harvey’s 1975 album."
+    },
+    {
+      "id": "lower-middle-58",
+      "spotifyId": "69a0N3kvOVpl6cLb5RD5Dg",
+      "reason": "Christmas Party omits Winter Fairy-Tale and I’ll Be Home for Christmas, so it does not contain the complete original album."
+    }
+  ]
+}

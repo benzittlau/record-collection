@@ -1,0 +1,89 @@
+[
+  {
+    "rowIds": [
+      "upper-left-51",
+      "lower-left-29",
+      "upper-left-53",
+      "lower-left-36"
+    ],
+    "queries": [
+      {
+        "q": "site:open.spotify.com/album \"Queen\" \"Jazz\" \"2011\""
+      },
+      {
+        "q": "site:open.spotify.com/album \"Caravan\" \"Cunning Stunts\""
+      },
+      {
+        "q": "site:open.spotify.com/album \"Graham Parker\" \"Up Escalator\""
+      },
+      {
+        "q": "site:open.spotify.com/album \"Rodney Dangerfield\" \"No Respect\""
+      }
+    ],
+    "resultUrls": [
+      "https://open.spotify.com/embed/album/7nYftNpa1Bnq12jdIwfI5x",
+      "https://open.spotify.com/album/4mbkkOGZS6inHP2di2jaqS",
+      "https://open.spotify.com/track/1KtyO0S2K91XeQauf0rxWZ",
+      "https://open.spotify.com/track/1OQvfPCelhK9esGPexCdeD",
+      "https://open.spotify.com/track/6s3lVNHlJWyZ2EeY4Gs4wl"
+    ]
+  },
+  {
+    "rowIds": [
+      "lower-left-29",
+      "lower-left-36",
+      "lower-left-44",
+      "upper-left-51"
+    ],
+    "queries": [
+      {
+        "q": "site:open.spotify.com/album \"Cunning Stunts\" \"2014\" \"Caravan\""
+      },
+      {
+        "q": "site:open.spotify.com/album \"Rodney Dangerfield\" \"No Respect\" album"
+      },
+      {
+        "q": "site:open.spotify.com/album \"Bob Dylan\" \"Before The Flood\" \"1974\""
+      },
+      {
+        "q": "site:open.spotify.com/album \"Queen\" \"Jazz\" \"13\""
+      }
+    ],
+    "resultUrls": [
+      "https://open.spotify.com/album/2Oo8yc2V4nJNP2Dhh9jMTl",
+      "https://open.spotify.com/album/4x2uIowAS86Dtkx3zqz17V",
+      "https://open.spotify.com/album/2h2Z8tLHC46ymGNXgfo6Fa",
+      "https://open.spotify.com/artist/4y9clGQlMhZyKADUMq7PA2"
+    ]
+  },
+  {
+    "rowIds": [
+      "upper-left-52",
+      "lower-left-17",
+      "lower-left-17",
+      "lower-left-24"
+    ],
+    "queries": [
+      {
+        "q": "site:open.spotify.com/album (\"Payolas\" OR \"Payola$\") \"No Stranger\""
+      },
+      {
+        "q": "site:open.spotify.com/album \"Switched On Bach II\" Carlos"
+      },
+      {
+        "q": "site:open.spotify.com/album \"Walter Carlos\" \"Bach\""
+      },
+      {
+        "q": "site:open.spotify.com/album \"The Doors\" (\"Thirteen\" OR \"13 (\")"
+      }
+    ],
+    "resultUrls": [
+      "https://open.spotify.com/album/2b18Z6WF5nT8oFjhZ6lkUC",
+      "https://open.spotify.com/embed/album/1jWmEhn3ggaL6isoyLfwBn",
+      "https://open.spotify.com/embed/album/437coS14MKFBIjXNj3bRAC",
+      "https://open.spotify.com/album/4YBBkcBOQi0kPcC89c3gof",
+      "https://open.spotify.com/album/6L7S7OhaXdnqksET67m0gJ"
+    ],
+    "outcome": "No candidate for the original Payola$ or Wendy Carlos albums; Doors hits refer to the 1967 debut, other compilations, or concert programmes."
+  }
+]

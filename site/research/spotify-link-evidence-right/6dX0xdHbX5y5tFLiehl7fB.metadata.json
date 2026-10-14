@@ -1,0 +1,3352 @@
+{
+  "url": "https://open.spotify.com/track/6dX0xdHbX5y5tFLiehl7fB",
+  "resolvedUrl": "https://open.spotify.com/track/6dX0xdHbX5y5tFLiehl7fB",
+  "fetchedAt": "2026-10-14T05:18:37Z",
+  "pageTitle": "Somebody Else Is Taking My Place - song and lyrics by Mose Allison | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": false
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:6dX0xdHbX5y5tFLiehl7fB": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "© 1994 Fantasy, Inc.",
+                  "type": "C"
+                },
+                {
+                  "text": "This Compilation ℗ 1975 Prestige Records, Inc.",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#486878"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851ab5aa6c4846139825757c2b4",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02ab5aa6c4846139825757c2b4",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273ab5aa6c4846139825757c2b4",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 1,
+              "month": 1,
+              "year": 1975
+            },
+            "isPreRelease": false,
+            "name": "Creek Bank",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6dX0xdHbX5y5tFLiehl7fB",
+                    "name": "Somebody Else Is Taking My Place",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:6dX0xdHbX5y5tFLiehl7fB",
+                    "duration": {
+                      "totalMilliseconds": 245293
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0C1tBDco8MIItIcCyYL0TQ",
+                    "name": "Don't Get Around Much Anymore",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:0C1tBDco8MIItIcCyYL0TQ",
+                    "duration": {
+                      "totalMilliseconds": 168200
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7iRRELagRxexFK07ifIvpt",
+                    "name": "Bye Bye Blues",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:7iRRELagRxexFK07ifIvpt",
+                    "duration": {
+                      "totalMilliseconds": 200786
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3sySN6Bj10KpyYUKXlISoz",
+                    "name": "How Long Has This Been Going On?",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:3sySN6Bj10KpyYUKXlISoz",
+                    "duration": {
+                      "totalMilliseconds": 248933
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4VzuPaDWnNU2B1pSIO02se",
+                    "name": "I Told Ya I Love Ya, Now Get Out!",
+                    "trackNumber": 5,
+                    "uri": "spotify:track:4VzuPaDWnNU2B1pSIO02se",
+                    "duration": {
+                      "totalMilliseconds": 283560
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5UuOxgm70acrWiFXbjHI7t",
+                    "name": "Baby, Let Me Hold Your Hand",
+                    "trackNumber": 6,
+                    "uri": "spotify:track:5UuOxgm70acrWiFXbjHI7t",
+                    "duration": {
+                      "totalMilliseconds": 195933
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0LhO0fc8dSvF1XakvADqDm",
+                    "name": "Stroll",
+                    "trackNumber": 7,
+                    "uri": "spotify:track:0LhO0fc8dSvF1XakvADqDm",
+                    "duration": {
+                      "totalMilliseconds": 235800
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6RTEkv1llAKj11wRurukq4",
+                    "name": "I Hadn't Anyone Till You",
+                    "trackNumber": 8,
+                    "uri": "spotify:track:6RTEkv1llAKj11wRurukq4",
+                    "duration": {
+                      "totalMilliseconds": 152560
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7q1mSzAbUEt5J757S4tuFj",
+                    "name": "My Kind Of Love",
+                    "trackNumber": 9,
+                    "uri": "spotify:track:7q1mSzAbUEt5J757S4tuFj",
+                    "duration": {
+                      "totalMilliseconds": 231240
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5WDHDBkZ4EReg0pEudSYno",
+                    "name": "Sleepy Time Gal",
+                    "trackNumber": 10,
+                    "uri": "spotify:track:5WDHDBkZ4EReg0pEudSYno",
+                    "duration": {
+                      "totalMilliseconds": 323293
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2FOxoM81kmkiRjHnlLy50l",
+                    "name": "The Seventh Son",
+                    "trackNumber": 11,
+                    "uri": "spotify:track:2FOxoM81kmkiRjHnlLy50l",
+                    "duration": {
+                      "totalMilliseconds": 157693
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1gkGLqhSK0YGx52RcdnHht",
+                    "name": "If I Didn't Care",
+                    "trackNumber": 12,
+                    "uri": "spotify:track:1gkGLqhSK0YGx52RcdnHht",
+                    "duration": {
+                      "totalMilliseconds": 266160
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3ZMTxnsr3uBB4L2AdVYbAA",
+                    "name": "Cabin In The Sky",
+                    "trackNumber": 13,
+                    "uri": "spotify:track:3ZMTxnsr3uBB4L2AdVYbAA",
+                    "duration": {
+                      "totalMilliseconds": 245266
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6hh3ARrhQwBS2OrPkoTVQo",
+                    "name": "If You Live",
+                    "trackNumber": 14,
+                    "uri": "spotify:track:6hh3ARrhQwBS2OrPkoTVQo",
+                    "duration": {
+                      "totalMilliseconds": 152400
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1bARKLQgJdr4po3Nk9Tr7K",
+                    "name": "Yardbird Suite",
+                    "trackNumber": 15,
+                    "uri": "spotify:track:1bARKLQgJdr4po3Nk9Tr7K",
+                    "duration": {
+                      "totalMilliseconds": 202240
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3NwiC9SS246DEmXKkEDbRd",
+                    "name": "Creek Bank",
+                    "trackNumber": 16,
+                    "uri": "spotify:track:3NwiC9SS246DEmXKkEDbRd",
+                    "duration": {
+                      "totalMilliseconds": 275266
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0GL72Y6VujylB4N5umkmRI",
+                    "name": "Moon And Cypress",
+                    "trackNumber": 17,
+                    "uri": "spotify:track:0GL72Y6VujylB4N5umkmRI",
+                    "duration": {
+                      "totalMilliseconds": 241200
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2OfsNDV5Gc5X80HRhi11ix",
+                    "name": "Mule",
+                    "trackNumber": 18,
+                    "uri": "spotify:track:2OfsNDV5Gc5X80HRhi11ix",
+                    "duration": {
+                      "totalMilliseconds": 232360
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7BGLopJA55Uet9yFPzq2uz",
+                    "name": "Dinner On The Ground",
+                    "trackNumber": 19,
+                    "uri": "spotify:track:7BGLopJA55Uet9yFPzq2uz",
+                    "duration": {
+                      "totalMilliseconds": 195240
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0sN4enVJwylJKEXZlSbgsm",
+                          "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                          "profile": {
+                            "name": "Mose Allison"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1dlNz6UIIR7WwUyE4fRGEX",
+                    "name": "Prelude To A Kiss",
+                    "trackNumber": 20,
+                    "uri": "spotify:track:1dlNz6UIIR7WwUyE4fRGEX",
+                    "duration": {
+                      "totalMilliseconds": 253133
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "COMPILATION",
+            "uri": "spotify:album:5uTi91Xp50FvzRNdXq207o"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02cf41ff4f8d16ffd0e1a703d8",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851cf41ff4f8d16ffd0e1a703d8",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273cf41ff4f8d16ffd0e1a703d8",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "7BEP42ts66TfXpgOMeIBan",
+                              "name": "Live 1978",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:7BEP42ts66TfXpgOMeIBan"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02af65643c8a7561911f5c1137",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851af65643c8a7561911f5c1137",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273af65643c8a7561911f5c1137",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2021
+                              },
+                              "id": "34lSUvbW555XJSa3DSm3qZ",
+                              "name": "New Parchman",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:34lSUvbW555XJSa3DSm3qZ"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02c505ba9a0a247b6546e80781",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851c505ba9a0a247b6546e80781",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273c505ba9a0a247b6546e80781",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2021
+                              },
+                              "id": "5zX1qv2uJAYZZXAz0Ne8G9",
+                              "name": "Piano and Vocals",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:5zX1qv2uJAYZZXAz0Ne8G9"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e021766caa429192cb1c2932fe6",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048511766caa429192cb1c2932fe6",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2731766caa429192cb1c2932fe6",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2020
+                              },
+                              "id": "5ZK0yYVZMSEQTZ7YqdSJGF",
+                              "name": "Modern Jazz: Milt Jackson - Mose Allison",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:5ZK0yYVZMSEQTZ7YqdSJGF"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0277ef14ed1b45960909992ac2",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485177ef14ed1b45960909992ac2",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27377ef14ed1b45960909992ac2",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2018
+                              },
+                              "id": "7s8KZyjUjGbliL9YM5ihQ1",
+                              "name": "Autumn Song",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:7s8KZyjUjGbliL9YM5ihQ1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0276545498f8831a4ebcf14c86",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485176545498f8831a4ebcf14c86",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27376545498f8831a4ebcf14c86",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2018
+                              },
+                              "id": "13qCBfIdg4mA9486K8b3Gq",
+                              "name": "Milestones of Jazz Legends - Male Jazz Singers, Vol. 8",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:13qCBfIdg4mA9486K8b3Gq"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a5a81d52cb0b08dac8c0e457",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a5a81d52cb0b08dac8c0e457",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a5a81d52cb0b08dac8c0e457",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1962
+                        },
+                        "id": "58vFtbiyFPwDKwdhRI5D4V",
+                        "name": "I Don't Worry About A Thing",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:58vFtbiyFPwDKwdhRI5D4V"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02c389569c239e52db0d065376",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851c389569c239e52db0d065376",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273c389569c239e52db0d065376",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1957
+                        },
+                        "id": "0CeyHNnXvSDfk3y4V8z1sK",
+                        "name": "Local Color",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0CeyHNnXvSDfk3y4V8z1sK"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02674ea20072d1d6f7ad4cf06d",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851674ea20072d1d6f7ad4cf06d",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273674ea20072d1d6f7ad4cf06d",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2007
+                        },
+                        "id": "2gGyT3XsV20lQg1zy0w467",
+                        "name": "Mose Allison [2-fer]",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2gGyT3XsV20lQg1zy0w467"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02dd97f124f294fe39844f5ac9",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851dd97f124f294fe39844f5ac9",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273dd97f124f294fe39844f5ac9",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2013
+                        },
+                        "id": "1EQuNC0BbqyTe9zHNgfzfu",
+                        "name": "Creek Bank",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1EQuNC0BbqyTe9zHNgfzfu"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02b89c00e3e7685a97f485d4f1",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851b89c00e3e7685a97f485d4f1",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b89c00e3e7685a97f485d4f1",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1994
+                        },
+                        "id": "7FoSfRmES4D6tqnZrh4u6T",
+                        "name": "V-8 Ford Blues",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:7FoSfRmES4D6tqnZrh4u6T"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02d5d6cf749381c4eada180a6c",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851d5d6cf749381c4eada180a6c",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273d5d6cf749381c4eada180a6c",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1991
+                        },
+                        "id": "6Fe7ELZVZw5Qn3vdVtOvvF",
+                        "name": "Back Country Suite",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6Fe7ELZVZw5Qn3vdVtOvvF"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e023fd9b0318f04de480cc0d4d6",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048513fd9b0318f04de480cc0d4d6",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2733fd9b0318f04de480cc0d4d6",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "2AS9UCZdbxkgHRRlfeUUF5",
+                              "name": "Seventh Son",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:2AS9UCZdbxkgHRRlfeUUF5"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02574fcdaf073d0d82f5ea8b35",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851574fcdaf073d0d82f5ea8b35",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273574fcdaf073d0d82f5ea8b35",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2015
+                              },
+                              "id": "0415kPKLO8B8ytbfGlDRJT",
+                              "name": "Ayesight to the Blind",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:0415kPKLO8B8ytbfGlDRJT"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02f97cb00501ea1434a85cba9b",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851f97cb00501ea1434a85cba9b",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273f97cb00501ea1434a85cba9b",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2015
+                              },
+                              "id": "3yiFEPxpmJ4RVbw1E7rGV6",
+                              "name": "Do Nothin´ Till You Hear from Me",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:3yiFEPxpmJ4RVbw1E7rGV6"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02c4deb48911a660a6b6bf29c7",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851c4deb48911a660a6b6bf29c7",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273c4deb48911a660a6b6bf29c7",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2015
+                              },
+                              "id": "4LsF2ztghLTLYFku7k52aV",
+                              "name": "Parchman Farm",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:4LsF2ztghLTLYFku7k52aV"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02a5a81d52cb0b08dac8c0e457",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851a5a81d52cb0b08dac8c0e457",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273a5a81d52cb0b08dac8c0e457",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "I Don't Worry About A Thing",
+                            "uri": "spotify:album:58vFtbiyFPwDKwdhRI5D4V"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                                "profile": {
+                                  "name": "Mose Allison"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "1GEf45ad9tT9njeDYw9WPx",
+                          "name": "Your Mind Is on Vacation",
+                          "playcount": "7763584",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/5dc013e1b7e3abb0bcc03eb72a60398046b4ccc3"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:1GEf45ad9tT9njeDYw9WPx",
+                          "duration": {
+                            "totalMilliseconds": 157000
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02a5a81d52cb0b08dac8c0e457",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851a5a81d52cb0b08dac8c0e457",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273a5a81d52cb0b08dac8c0e457",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "I Don't Worry About A Thing",
+                            "uri": "spotify:album:58vFtbiyFPwDKwdhRI5D4V"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                                "profile": {
+                                  "name": "Mose Allison"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "0POJr2bfkh1KYg1L9F7cX8",
+                          "name": "I Don't Worry About a Thing",
+                          "playcount": "6428855",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/a68babca53c14b2eec6c7f193c953b5a3f9240ef"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:0POJr2bfkh1KYg1L9F7cX8",
+                          "duration": {
+                            "totalMilliseconds": 137706
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02d0af31ab20479ce2c7eea2eb",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851d0af31ab20479ce2c7eea2eb",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273d0af31ab20479ce2c7eea2eb",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Creek Bank",
+                            "uri": "spotify:album:4Jb9rbY5ZlBo7IIjfIGktc"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                                "profile": {
+                                  "name": "Mose Allison"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "6aLt5OAOyYvgKK6xHg8vOC",
+                          "name": "The Seventh Son",
+                          "playcount": "9219207",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/9abf31da203c836b04390a4654192f628a072788"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:6aLt5OAOyYvgKK6xHg8vOC",
+                          "duration": {
+                            "totalMilliseconds": 158160
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02674ea20072d1d6f7ad4cf06d",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851674ea20072d1d6f7ad4cf06d",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273674ea20072d1d6f7ad4cf06d",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Mose Allison [2-fer]",
+                            "uri": "spotify:album:2gGyT3XsV20lQg1zy0w467"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                                "profile": {
+                                  "name": "Mose Allison"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "4XTnkbaZ8yJ2xwnWXuGlbx",
+                          "name": "Young Man's Blues",
+                          "playcount": "9331395",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/2231baaa70ae7cb3219e11e9deaf1af5a8d25c62"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:4XTnkbaZ8yJ2xwnWXuGlbx",
+                          "duration": {
+                            "totalMilliseconds": 88560
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "4jZOiPysIzYxbDcDEOZmhu",
+                        "profile": {
+                          "name": "Ramsey Lewis Trio"
+                        },
+                        "uri": "spotify:artist:4jZOiPysIzYxbDcDEOZmhu",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d75eb9e0773d555e3f2cfe42",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851d75eb9e0773d555e3f2cfe42",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d75eb9e0773d555e3f2cfe42",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "5GXruybcLmXPjR9rKKFyS6",
+                        "profile": {
+                          "name": "Jimmy Smith"
+                        },
+                        "uri": "spotify:artist:5GXruybcLmXPjR9rKKFyS6",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb6c3dfd0a4ae3804d6b07fafb",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f1786c3dfd0a4ae3804d6b07fafb",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab676161000051746c3dfd0a4ae3804d6b07fafb",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "62xdwGEOLoGQxKUqoJusyU",
+                        "profile": {
+                          "name": "Clark Terry"
+                        },
+                        "uri": "spotify:artist:62xdwGEOLoGQxKUqoJusyU",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6772690000dd22d22e7c5f8206e2d6ba4c1112",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67726900008f74d22e7c5f8206e2d6ba4c1112",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/ab6772690000bac3d22e7c5f8206e2d6ba4c1112",
+                                "width": 200
+                              },
+                              {
+                                "height": 1000,
+                                "url": "https://i.scdn.co/image/ab6772690000c46cd22e7c5f8206e2d6ba4c1112",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "0bcDOCWIbvWApEIB7l1uZ4",
+                        "profile": {
+                          "name": "Eddie Harris"
+                        },
+                        "uri": "spotify:artist:0bcDOCWIbvWApEIB7l1uZ4",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 649,
+                                "url": "https://i.scdn.co/image/5b35264bab5bfa389e5b4c76bb45a1a3a248383f",
+                                "width": 638
+                              },
+                              {
+                                "height": 65,
+                                "url": "https://i.scdn.co/image/cac93be762c6f1eb60b87195bc829600db24ca8b",
+                                "width": 64
+                              },
+                              {
+                                "height": 203,
+                                "url": "https://i.scdn.co/image/f9c7d17b8b134c9a91d806467588230a094ad313",
+                                "width": 200
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "5XILwCCPqHHh1JRnMfzblg",
+                        "profile": {
+                          "name": "Lambert, Hendricks & Ross"
+                        },
+                        "uri": "spotify:artist:5XILwCCPqHHh1JRnMfzblg",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b2731d018ff3d118a5561acdcb41",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d000048511d018ff3d118a5561acdcb41",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e021d018ff3d118a5561acdcb41",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "07tYu4BGrfeogBobCefkHI",
+                        "profile": {
+                          "name": "Les McCann"
+                        },
+                        "uri": "spotify:artist:07tYu4BGrfeogBobCefkHI",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 719,
+                                "url": "https://i.scdn.co/image/320aaaabe45228978262c77356b8f1a8b95844fd",
+                                "width": 640
+                              },
+                              {
+                                "height": 72,
+                                "url": "https://i.scdn.co/image/26b0fb0712c3b82bbb9bfe39e6527151b9eed517",
+                                "width": 64
+                              },
+                              {
+                                "height": 225,
+                                "url": "https://i.scdn.co/image/668dd06d0b79518b5fed64910d03b329250cf787",
+                                "width": 200
+                              },
+                              {
+                                "height": 1124,
+                                "url": "https://i.scdn.co/image/41a74abff9b3ebfa76216e7b4113e1adbd1ae8a1",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "0sN4enVJwylJKEXZlSbgsm",
+                "profile": {
+                  "name": "Mose Allison"
+                },
+                "stats": {
+                  "monthlyListeners": 126512
+                },
+                "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6772690000dd227c44852bb5f6cb05561efcca",
+                        "width": 640
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67726900008f747c44852bb5f6cb05561efcca",
+                        "width": 64
+                      },
+                      {
+                        "height": 200,
+                        "url": "https://i.scdn.co/image/ab6772690000bac37c44852bb5f6cb05561efcca",
+                        "width": 200
+                      },
+                      {
+                        "height": 1000,
+                        "url": "https://i.scdn.co/image/ab6772690000c46c7c44852bb5f6cb05561efcca",
+                        "width": 1000
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "__typename": "Market",
+                "countryCode": "AR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MX"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ES"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "US"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ID"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "QA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "OM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ME"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BF"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 245293
+          },
+          "id": "6dX0xdHbX5y5tFLiehl7fB",
+          "mediaType": "AUDIO",
+          "name": "Somebody Else Is Taking My Place",
+          "playability": {
+            "playable": true
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/5a52442136fccbf8a18d4bed82967e666a96b2f9"
+                }
+              ]
+            }
+          },
+          "trackNumber": 1,
+          "uri": "spotify:track:6dX0xdHbX5y5tFLiehl7fB"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "6dX0xdHbX5y5tFLiehl7fB": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:6dX0xdHbX5y5tFLiehl7fB"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d0af31ab20479ce2c7eea2eb",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d0af31ab20479ce2c7eea2eb",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d0af31ab20479ce2c7eea2eb",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "4Jb9rbY5ZlBo7IIjfIGktc",
+              "name": "Creek Bank",
+              "uri": "spotify:album:4Jb9rbY5ZlBo7IIjfIGktc"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0sN4enVJwylJKEXZlSbgsm",
+                  "profile": {
+                    "name": "Mose Allison"
+                  },
+                  "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                }
+              ]
+            },
+            "id": "1SANmWEPWyCripjfe0MqYp",
+            "name": "Mule",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/505816c70de921602108f8505e3ed10b1de7158f"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:1SANmWEPWyCripjfe0MqYp"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029130e2b82c90398a33bbc190",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519130e2b82c90398a33bbc190",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739130e2b82c90398a33bbc190",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "3JYiyuFEpeXUTVxJhlIkZj",
+              "name": "I've Been Doin' Some Thinkin",
+              "uri": "spotify:album:3JYiyuFEpeXUTVxJhlIkZj"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0sN4enVJwylJKEXZlSbgsm",
+                  "profile": {
+                    "name": "Mose Allison"
+                  },
+                  "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                }
+              ]
+            },
+            "id": "3A2jUqzrZfKJ6z1gK0HMbD",
+            "name": "If You Really Loved Me",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/8b6ddc223860aa02b97291b4fe93463d0c555425"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:3A2jUqzrZfKJ6z1gK0HMbD"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c389569c239e52db0d065376",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c389569c239e52db0d065376",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c389569c239e52db0d065376",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0CeyHNnXvSDfk3y4V8z1sK",
+              "name": "Local Color",
+              "uri": "spotify:album:0CeyHNnXvSDfk3y4V8z1sK"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0sN4enVJwylJKEXZlSbgsm",
+                  "profile": {
+                    "name": "Mose Allison"
+                  },
+                  "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                }
+              ]
+            },
+            "id": "2VULLcEcs0bex3qIzFgHBQ",
+            "name": "Ain't You A Mess",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/043ffdba3ee0c7d65dcb8ae97323c860b8498b0f"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:2VULLcEcs0bex3qIzFgHBQ"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02aa10f13abafb925cd603f4aa",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851aa10f13abafb925cd603f4aa",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273aa10f13abafb925cd603f4aa",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "76wG7tE0g0bweDtPk16BdJ",
+              "name": "Swingin' Machine",
+              "uri": "spotify:album:76wG7tE0g0bweDtPk16BdJ"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0sN4enVJwylJKEXZlSbgsm",
+                  "profile": {
+                    "name": "Mose Allison"
+                  },
+                  "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                }
+              ]
+            },
+            "id": "6RPD4BtM86DCPwLkZVCjjK",
+            "name": "Saritha",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/48dcd38f193642986320fe601c476b39d8f06fae"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:6RPD4BtM86DCPwLkZVCjjK"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02aa10f13abafb925cd603f4aa",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851aa10f13abafb925cd603f4aa",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273aa10f13abafb925cd603f4aa",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "76wG7tE0g0bweDtPk16BdJ",
+              "name": "Swingin' Machine",
+              "uri": "spotify:album:76wG7tE0g0bweDtPk16BdJ"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0sN4enVJwylJKEXZlSbgsm",
+                  "profile": {
+                    "name": "Mose Allison"
+                  },
+                  "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                }
+              ]
+            },
+            "id": "6MGnuyVDue3eqMRJop77Lu",
+            "name": "Promenade",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/df8878a8a32ae7157e5a486407271dab2834be27"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:6MGnuyVDue3eqMRJop77Lu"
+          }
+        ],
+        "uri": "spotify:track:6dX0xdHbX5y5tFLiehl7fB",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02cf41ff4f8d16ffd0e1a703d8",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851cf41ff4f8d16ffd0e1a703d8",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273cf41ff4f8d16ffd0e1a703d8",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2022
+            },
+            "id": "7BEP42ts66TfXpgOMeIBan",
+            "name": "Live 1978",
+            "type": "ALBUM",
+            "uri": "spotify:album:7BEP42ts66TfXpgOMeIBan"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02abae78fab750e9b35e522dd5",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851abae78fab750e9b35e522dd5",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273abae78fab750e9b35e522dd5",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1956
+            },
+            "id": "0srATLpGPgBtiRnPweHkpX",
+            "name": "At The Hickory House Vol. 2 (Live)",
+            "type": "ALBUM",
+            "uri": "spotify:album:0srATLpGPgBtiRnPweHkpX"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02a42bfee8007b41cefc342321",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851a42bfee8007b41cefc342321",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a42bfee8007b41cefc342321",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1960
+            },
+            "id": "70iMt6TRTfE2t51SF8qxmA",
+            "name": "I Love the Life I Live",
+            "type": "ALBUM",
+            "uri": "spotify:album:70iMt6TRTfE2t51SF8qxmA"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02ac507554869d0da338848a0f",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851ac507554869d0da338848a0f",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273ac507554869d0da338848a0f",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2000
+            },
+            "id": "5dyr7yYqGEZnCk3sDg4MTO",
+            "name": "I Love The Life I Live",
+            "type": "ALBUM",
+            "uri": "spotify:album:5dyr7yYqGEZnCk3sDg4MTO"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02420a2b74157927b6f732638d",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851420a2b74157927b6f732638d",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273420a2b74157927b6f732638d",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1955
+            },
+            "id": "7br99JqUIcUYN8uKNOmTag",
+            "name": "Bud Powell '57",
+            "type": "ALBUM",
+            "uri": "spotify:album:7br99JqUIcUYN8uKNOmTag"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f6190ea73ccdc0681c4447eb",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851f6190ea73ccdc0681c4447eb",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f6190ea73ccdc0681c4447eb",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1959
+            },
+            "id": "3ssxvUwF8IGQNDIdMOl40s",
+            "name": "Elmo Hope (2023 Remastered)",
+            "type": "ALBUM",
+            "uri": "spotify:album:3ssxvUwF8IGQNDIdMOl40s"
+          }
+        ],
+        "uri": "spotify:track:6dX0xdHbX5y5tFLiehl7fB",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/6dX0xdHbX5y5tFLiehl7fB",
+      "url": "https://open.spotify.com/track/6dX0xdHbX5y5tFLiehl7fB",
+      "name": "Somebody Else Is Taking My Place",
+      "description": "Listen to Somebody Else Is Taking My Place on Spotify. Song · Mose Allison · 1975",
+      "datePublished": "1975-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/6dX0xdHbX5y5tFLiehl7fB?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/6dX0xdHbX5y5tFLiehl7fB/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": [
+            {
+              "@type": "Country",
+              "name": "AR"
+            },
+            {
+              "@type": "Country",
+              "name": "AU"
+            },
+            {
+              "@type": "Country",
+              "name": "AT"
+            },
+            {
+              "@type": "Country",
+              "name": "BE"
+            },
+            {
+              "@type": "Country",
+              "name": "BO"
+            },
+            {
+              "@type": "Country",
+              "name": "BR"
+            },
+            {
+              "@type": "Country",
+              "name": "BG"
+            },
+            {
+              "@type": "Country",
+              "name": "CA"
+            },
+            {
+              "@type": "Country",
+              "name": "CL"
+            },
+            {
+              "@type": "Country",
+              "name": "CO"
+            },
+            {
+              "@type": "Country",
+              "name": "CR"
+            },
+            {
+              "@type": "Country",
+              "name": "CY"
+            },
+            {
+              "@type": "Country",
+              "name": "CZ"
+            },
+            {
+              "@type": "Country",
+              "name": "DK"
+            },
+            {
+              "@type": "Country",
+              "name": "DO"
+            },
+            {
+              "@type": "Country",
+              "name": "DE"
+            },
+            {
+              "@type": "Country",
+              "name": "EC"
+            },
+            {
+              "@type": "Country",
+              "name": "EE"
+            },
+            {
+              "@type": "Country",
+              "name": "SV"
+            },
+            {
+              "@type": "Country",
+              "name": "FI"
+            },
+            {
+              "@type": "Country",
+              "name": "FR"
+            },
+            {
+              "@type": "Country",
+              "name": "GR"
+            },
+            {
+              "@type": "Country",
+              "name": "GT"
+            },
+            {
+              "@type": "Country",
+              "name": "HN"
+            },
+            {
+              "@type": "Country",
+              "name": "HK"
+            },
+            {
+              "@type": "Country",
+              "name": "HU"
+            },
+            {
+              "@type": "Country",
+              "name": "IS"
+            },
+            {
+              "@type": "Country",
+              "name": "IE"
+            },
+            {
+              "@type": "Country",
+              "name": "IT"
+            },
+            {
+              "@type": "Country",
+              "name": "LV"
+            },
+            {
+              "@type": "Country",
+              "name": "LT"
+            },
+            {
+              "@type": "Country",
+              "name": "LU"
+            },
+            {
+              "@type": "Country",
+              "name": "MY"
+            },
+            {
+              "@type": "Country",
+              "name": "MT"
+            },
+            {
+              "@type": "Country",
+              "name": "MX"
+            },
+            {
+              "@type": "Country",
+              "name": "NL"
+            },
+            {
+              "@type": "Country",
+              "name": "NZ"
+            },
+            {
+              "@type": "Country",
+              "name": "NI"
+            },
+            {
+              "@type": "Country",
+              "name": "NO"
+            },
+            {
+              "@type": "Country",
+              "name": "PA"
+            },
+            {
+              "@type": "Country",
+              "name": "PY"
+            },
+            {
+              "@type": "Country",
+              "name": "PE"
+            },
+            {
+              "@type": "Country",
+              "name": "PH"
+            },
+            {
+              "@type": "Country",
+              "name": "PL"
+            },
+            {
+              "@type": "Country",
+              "name": "PT"
+            },
+            {
+              "@type": "Country",
+              "name": "SG"
+            },
+            {
+              "@type": "Country",
+              "name": "SK"
+            },
+            {
+              "@type": "Country",
+              "name": "ES"
+            },
+            {
+              "@type": "Country",
+              "name": "SE"
+            },
+            {
+              "@type": "Country",
+              "name": "CH"
+            },
+            {
+              "@type": "Country",
+              "name": "TW"
+            },
+            {
+              "@type": "Country",
+              "name": "TR"
+            },
+            {
+              "@type": "Country",
+              "name": "US"
+            },
+            {
+              "@type": "Country",
+              "name": "GB"
+            },
+            {
+              "@type": "Country",
+              "name": "AD"
+            },
+            {
+              "@type": "Country",
+              "name": "LI"
+            },
+            {
+              "@type": "Country",
+              "name": "MC"
+            },
+            {
+              "@type": "Country",
+              "name": "ID"
+            },
+            {
+              "@type": "Country",
+              "name": "JP"
+            },
+            {
+              "@type": "Country",
+              "name": "TH"
+            },
+            {
+              "@type": "Country",
+              "name": "VN"
+            },
+            {
+              "@type": "Country",
+              "name": "RO"
+            },
+            {
+              "@type": "Country",
+              "name": "IL"
+            },
+            {
+              "@type": "Country",
+              "name": "ZA"
+            },
+            {
+              "@type": "Country",
+              "name": "SA"
+            },
+            {
+              "@type": "Country",
+              "name": "AE"
+            },
+            {
+              "@type": "Country",
+              "name": "BH"
+            },
+            {
+              "@type": "Country",
+              "name": "QA"
+            },
+            {
+              "@type": "Country",
+              "name": "OM"
+            },
+            {
+              "@type": "Country",
+              "name": "KW"
+            },
+            {
+              "@type": "Country",
+              "name": "EG"
+            },
+            {
+              "@type": "Country",
+              "name": "TN"
+            },
+            {
+              "@type": "Country",
+              "name": "LB"
+            },
+            {
+              "@type": "Country",
+              "name": "JO"
+            },
+            {
+              "@type": "Country",
+              "name": "IN"
+            },
+            {
+              "@type": "Country",
+              "name": "BY"
+            },
+            {
+              "@type": "Country",
+              "name": "KZ"
+            },
+            {
+              "@type": "Country",
+              "name": "MD"
+            },
+            {
+              "@type": "Country",
+              "name": "UA"
+            },
+            {
+              "@type": "Country",
+              "name": "BA"
+            },
+            {
+              "@type": "Country",
+              "name": "HR"
+            },
+            {
+              "@type": "Country",
+              "name": "ME"
+            },
+            {
+              "@type": "Country",
+              "name": "MK"
+            },
+            {
+              "@type": "Country",
+              "name": "RS"
+            },
+            {
+              "@type": "Country",
+              "name": "SI"
+            },
+            {
+              "@type": "Country",
+              "name": "KR"
+            },
+            {
+              "@type": "Country",
+              "name": "BD"
+            },
+            {
+              "@type": "Country",
+              "name": "LK"
+            },
+            {
+              "@type": "Country",
+              "name": "GH"
+            },
+            {
+              "@type": "Country",
+              "name": "KE"
+            },
+            {
+              "@type": "Country",
+              "name": "NG"
+            },
+            {
+              "@type": "Country",
+              "name": "UG"
+            },
+            {
+              "@type": "Country",
+              "name": "AG"
+            },
+            {
+              "@type": "Country",
+              "name": "AM"
+            },
+            {
+              "@type": "Country",
+              "name": "BS"
+            },
+            {
+              "@type": "Country",
+              "name": "BB"
+            },
+            {
+              "@type": "Country",
+              "name": "BZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BW"
+            },
+            {
+              "@type": "Country",
+              "name": "BF"
+            },
+            {
+              "@type": "Country",
+              "name": "CV"
+            },
+            {
+              "@type": "Country",
+              "name": "CW"
+            },
+            {
+              "@type": "Country",
+              "name": "DM"
+            },
+            {
+              "@type": "Country",
+              "name": "FJ"
+            },
+            {
+              "@type": "Country",
+              "name": "GM"
+            },
+            {
+              "@type": "Country",
+              "name": "GD"
+            },
+            {
+              "@type": "Country",
+              "name": "GW"
+            },
+            {
+              "@type": "Country",
+              "name": "GY"
+            },
+            {
+              "@type": "Country",
+              "name": "FM"
+            },
+            {
+              "@type": "Country",
+              "name": "NA"
+            },
+            {
+              "@type": "Country",
+              "name": "NE"
+            },
+            {
+              "@type": "Country",
+              "name": "PG"
+            },
+            {
+              "@type": "Country",
+              "name": "SC"
+            },
+            {
+              "@type": "Country",
+              "name": "KN"
+            },
+            {
+              "@type": "Country",
+              "name": "TT"
+            },
+            {
+              "@type": "Country",
+              "name": "AZ"
+            },
+            {
+              "@type": "Country",
+              "name": "KH"
+            },
+            {
+              "@type": "Country",
+              "name": "CM"
+            },
+            {
+              "@type": "Country",
+              "name": "TD"
+            },
+            {
+              "@type": "Country",
+              "name": "SZ"
+            },
+            {
+              "@type": "Country",
+              "name": "GN"
+            },
+            {
+              "@type": "Country",
+              "name": "KG"
+            },
+            {
+              "@type": "Country",
+              "name": "LA"
+            },
+            {
+              "@type": "Country",
+              "name": "MN"
+            },
+            {
+              "@type": "Country",
+              "name": "NP"
+            },
+            {
+              "@type": "Country",
+              "name": "RW"
+            },
+            {
+              "@type": "Country",
+              "name": "UZ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZW"
+            },
+            {
+              "@type": "Country",
+              "name": "MU"
+            },
+            {
+              "@type": "Country",
+              "name": "MZ"
+            },
+            {
+              "@type": "Country",
+              "name": "CI"
+            },
+            {
+              "@type": "Country",
+              "name": "TJ"
+            },
+            {
+              "@type": "Country",
+              "name": "VE"
+            },
+            {
+              "@type": "Country",
+              "name": "XK"
+            }
+          ]
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 301393,
+  "albumLinks": [
+    {
+      "id": "58vFtbiyFPwDKwdhRI5D4V",
+      "label": "I Don't Worry About A Thing  Album • 1962"
+    },
+    {
+      "id": "0CeyHNnXvSDfk3y4V8z1sK",
+      "label": "Local Color  Album • 1957"
+    },
+    {
+      "id": "2gGyT3XsV20lQg1zy0w467",
+      "label": "Mose Allison [2-fer]  Album • 2007"
+    },
+    {
+      "id": "1EQuNC0BbqyTe9zHNgfzfu",
+      "label": "Creek Bank  Album • 2013"
+    },
+    {
+      "id": "7FoSfRmES4D6tqnZrh4u6T",
+      "label": "V-8 Ford Blues  Album • 1994"
+    },
+    {
+      "id": "6Fe7ELZVZw5Qn3vdVtOvvF",
+      "label": "Back Country Suite  Album • 1991"
+    },
+    {
+      "id": "7BEP42ts66TfXpgOMeIBan",
+      "label": "Live 1978  Album • 2022"
+    },
+    {
+      "id": "34lSUvbW555XJSa3DSm3qZ",
+      "label": "New Parchman  Album • 2021"
+    },
+    {
+      "id": "5zX1qv2uJAYZZXAz0Ne8G9",
+      "label": "Piano and Vocals  Album • 2021"
+    },
+    {
+      "id": "5ZK0yYVZMSEQTZ7YqdSJGF",
+      "label": "Modern Jazz: Milt Jackson - Mose Allison  Album • 2020"
+    },
+    {
+      "id": "7s8KZyjUjGbliL9YM5ihQ1",
+      "label": "Autumn Song  Album • 2018"
+    },
+    {
+      "id": "13qCBfIdg4mA9486K8b3Gq",
+      "label": "Milestones of Jazz Legends - Male Jazz Singers, Vol. 8  Album • 2018"
+    },
+    {
+      "id": "2AS9UCZdbxkgHRRlfeUUF5",
+      "label": "Seventh Son  Single • 2022"
+    },
+    {
+      "id": "0415kPKLO8B8ytbfGlDRJT",
+      "label": "Ayesight to the Blind  Single • 2015"
+    },
+    {
+      "id": "3yiFEPxpmJ4RVbw1E7rGV6",
+      "label": "Do Nothin´ Till You Hear from Me  Single • 2015"
+    },
+    {
+      "id": "4LsF2ztghLTLYFku7k52aV",
+      "label": "Parchman Farm  Single • 2015"
+    },
+    {
+      "id": "7BEP42ts66TfXpgOMeIBan",
+      "label": "Live 1978  Album • 2022"
+    },
+    {
+      "id": "0srATLpGPgBtiRnPweHkpX",
+      "label": "At The Hickory House Vol. 2 (Live)  Album • 1956"
+    },
+    {
+      "id": "70iMt6TRTfE2t51SF8qxmA",
+      "label": "I Love the Life I Live  Album • 1960"
+    },
+    {
+      "id": "5dyr7yYqGEZnCk3sDg4MTO",
+      "label": "I Love The Life I Live  Album • 2000"
+    },
+    {
+      "id": "7br99JqUIcUYN8uKNOmTag",
+      "label": "Bud Powell '57  Album • 1955"
+    },
+    {
+      "id": "3ssxvUwF8IGQNDIdMOl40s",
+      "label": "Elmo Hope (2023 Remastered)  Album • 1959"
+    },
+    {
+      "id": "5uTi91Xp50FvzRNdXq207o",
+      "label": "Creek Bank"
+    }
+  ]
+}

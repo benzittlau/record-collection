@@ -1,0 +1,3497 @@
+{
+  "url": "https://open.spotify.com/track/5cPw4AUyxzCl2KQ5CGOI3C",
+  "resolvedUrl": "https://open.spotify.com/track/5cPw4AUyxzCl2KQ5CGOI3C",
+  "fetchedAt": "2026-10-14T05:10:56Z",
+  "pageTitle": "Calypso Frelimo - song and lyrics by Miles Davis | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:5cPw4AUyxzCl2KQ5CGOI3C": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "(P) 1974 Sony Music Entertainment",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#482830"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851b5539b587b12d1af5f4ade41",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02b5539b587b12d1af5f4ade41",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273b5539b587b12d1af5f4ade41",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 22,
+              "month": 11,
+              "year": 1974
+            },
+            "isPreRelease": false,
+            "name": "Get Up With It",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                          "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                          "profile": {
+                            "name": "Miles Davis"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4lZpLYUCRXmIiwdtNIbxVq",
+                    "name": "He Loved Him Madly",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:4lZpLYUCRXmIiwdtNIbxVq",
+                    "duration": {
+                      "totalMilliseconds": 1933000
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                          "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                          "profile": {
+                            "name": "Miles Davis"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2VC8cqDnHKqfVVGJKQU9Vq",
+                    "name": "Maiysha",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:2VC8cqDnHKqfVVGJKQU9Vq",
+                    "duration": {
+                      "totalMilliseconds": 891373
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                          "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                          "profile": {
+                            "name": "Miles Davis"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0ixYrXoKP6hUE8RDVWz093",
+                    "name": "Honky Tonk",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:0ixYrXoKP6hUE8RDVWz093",
+                    "duration": {
+                      "totalMilliseconds": 353333
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                          "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                          "profile": {
+                            "name": "Miles Davis"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6LXh8NJUgPAnbHCfEj6bwB",
+                    "name": "Rated X",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:6LXh8NJUgPAnbHCfEj6bwB",
+                    "duration": {
+                      "totalMilliseconds": 411160
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                          "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                          "profile": {
+                            "name": "Miles Davis"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5cPw4AUyxzCl2KQ5CGOI3C",
+                    "name": "Calypso Frelimo",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:5cPw4AUyxzCl2KQ5CGOI3C",
+                    "duration": {
+                      "totalMilliseconds": 1925533
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                          "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                          "profile": {
+                            "name": "Miles Davis"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0AEXHSEdAohlHhYIt6tcUf",
+                    "name": "Red China Blues",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:0AEXHSEdAohlHhYIt6tcUf",
+                    "duration": {
+                      "totalMilliseconds": 247173
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                          "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                          "profile": {
+                            "name": "Miles Davis"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7Dtpk5bbk5slJQQNOZ2jTo",
+                    "name": "Mtume",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:7Dtpk5bbk5slJQQNOZ2jTo",
+                    "duration": {
+                      "totalMilliseconds": 909466
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                          "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                          "profile": {
+                            "name": "Miles Davis"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "174XzYH074YRYMsD78Ij1j",
+                    "name": "Billy Preston",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:174XzYH074YRYMsD78Ij1j",
+                    "duration": {
+                      "totalMilliseconds": 756306
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "ALBUM",
+            "uri": "spotify:album:0CFS3jvFwutIt5ewGIa7Sq"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0206bb26a7751a5669b821302a",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485106bb26a7751a5669b821302a",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27306bb26a7751a5669b821302a",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "6KvVLCTGdHboeAN4PGBiAU",
+                              "name": "Miles '56 (Remastered 2026)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:6KvVLCTGdHboeAN4PGBiAU"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e026c921a7aa9ec4ecc1c8ffee8",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048516c921a7aa9ec4ecc1c8ffee8",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2736c921a7aa9ec4ecc1c8ffee8",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "6LmOtfMVXd58xVix4tRR1J",
+                              "name": "Miles Davis X Sonny Rollins",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:6LmOtfMVXd58xVix4tRR1J"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02ea0bfa289668613a52dbcb1b",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851ea0bfa289668613a52dbcb1b",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273ea0bfa289668613a52dbcb1b",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "4a7koXxTqak4eW4K5WYE5n",
+                              "name": "A Catalogue of Jazz: Miles Davis",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:4a7koXxTqak4eW4K5WYE5n"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02b310883740c5de113a457c9a",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851b310883740c5de113a457c9a",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273b310883740c5de113a457c9a",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2025
+                              },
+                              "id": "0YO1jsKIjc53uqC2AShPAI",
+                              "name": "Miles '55 (Remastered 2025)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0YO1jsKIjc53uqC2AShPAI"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e021cbc43a8ff6e47f3c586fd72",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048511cbc43a8ff6e47f3c586fd72",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2731cbc43a8ff6e47f3c586fd72",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2025
+                              },
+                              "id": "52BnQI4wOSP6ld9FxYs1uX",
+                              "name": "The Musings Of Miles (Remastered 2025)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:52BnQI4wOSP6ld9FxYs1uX"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e027c3d8189c037864b73551626",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048517c3d8189c037864b73551626",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2737c3d8189c037864b73551626",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2025
+                              },
+                              "id": "16cOIJcGCSl6UAqh0K8Ygi",
+                              "name": "A Night of Miles Davis",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:16cOIJcGCSl6UAqh0K8Ygi"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e020ebc17239b6b18ba88cfb8ca",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048510ebc17239b6b18ba88cfb8ca",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2730ebc17239b6b18ba88cfb8ca",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1959
+                        },
+                        "id": "4sb0eMpDn3upAFfyi4q2rw",
+                        "name": "Kind Of Blue (Legacy Edition)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4sb0eMpDn3upAFfyi4q2rw"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02387a29c90de3b2398c29c34f",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851387a29c90de3b2398c29c34f",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273387a29c90de3b2398c29c34f",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1959
+                        },
+                        "id": "1weenld61qoidwYuZ1GESA",
+                        "name": "Kind Of Blue",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1weenld61qoidwYuZ1GESA"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02cb6f92683ff9ad65f27a3f9f",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851cb6f92683ff9ad65f27a3f9f",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273cb6f92683ff9ad65f27a3f9f",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1957
+                        },
+                        "id": "4VUawqEDCHHfrUe77ScQ2K",
+                        "name": "'Round About Midnight",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4VUawqEDCHHfrUe77ScQ2K"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02f44518f7aea6cc64ecca8448",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851f44518f7aea6cc64ecca8448",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273f44518f7aea6cc64ecca8448",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1957
+                        },
+                        "id": "0QWea2w5Y6pSoSWHuc7JMf",
+                        "name": "Birth Of The Cool",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0QWea2w5Y6pSoSWHuc7JMf"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e025e10a5aca3763224e2050016",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048515e10a5aca3763224e2050016",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2735e10a5aca3763224e2050016",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1958
+                        },
+                        "id": "56I4vUYWQ4aXLiyfo8XuZv",
+                        "name": "Milestones",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:56I4vUYWQ4aXLiyfo8XuZv"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0206bb26a7751a5669b821302a",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485106bb26a7751a5669b821302a",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27306bb26a7751a5669b821302a",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "6KvVLCTGdHboeAN4PGBiAU",
+                        "name": "Miles '56 (Remastered 2026)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6KvVLCTGdHboeAN4PGBiAU"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02568e1b2380ce4785f3c42d7a",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851568e1b2380ce4785f3c42d7a",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273568e1b2380ce4785f3c42d7a",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "5xviCBfVx3Cc87jKbXg0DI",
+                              "name": "When I Fall In Love (Remastered 2026)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:5xviCBfVx3Cc87jKbXg0DI"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e025c673df5fd0325cbce7ad448",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048515c673df5fd0325cbce7ad448",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2735c673df5fd0325cbce7ad448",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "5ztdPwN9EKU7yqXlYRebDy",
+                              "name": "Four (Remastered 2026)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:5ztdPwN9EKU7yqXlYRebDy"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e026e5735427401a8e1304fccf9",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048516e5735427401a8e1304fccf9",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2736e5735427401a8e1304fccf9",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "6YnipsiUPOOWNV76rkB18o",
+                              "name": "My Funny Valentine (Remastered 2026)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:6YnipsiUPOOWNV76rkB18o"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02a89b96aa37d4d61a55913aa0",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851a89b96aa37d4d61a55913aa0",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273a89b96aa37d4d61a55913aa0",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "0xMT7pqmGugt9T6sgTRgkY",
+                              "name": "The New Sounds (Remastered 2026)",
+                              "type": "EP",
+                              "uri": "spotify:album:0xMT7pqmGugt9T6sgTRgkY"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02aee51bdb04756dc635d59e58",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851aee51bdb04756dc635d59e58",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273aee51bdb04756dc635d59e58",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2024
+                              },
+                              "id": "5DDiKk0BqvLTHEWckejdE3",
+                              "name": "My Funny Valentine (Live at Paris, Salle Pleyel, France - October 1, 1964 [2nd Concert])",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:5DDiKk0BqvLTHEWckejdE3"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0252b872d906a7627050f8ed06",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485152b872d906a7627050f8ed06",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27352b872d906a7627050f8ed06",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2023
+                              },
+                              "id": "6WgNJUxiFSVZTBO6UR4wqH",
+                              "name": "That You Not Dare To Forget",
+                              "type": "EP",
+                              "uri": "spotify:album:6WgNJUxiFSVZTBO6UR4wqH"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e020ebc17239b6b18ba88cfb8ca",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048510ebc17239b6b18ba88cfb8ca",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2730ebc17239b6b18ba88cfb8ca",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Kind Of Blue (Legacy Edition)",
+                            "uri": "spotify:album:4sb0eMpDn3upAFfyi4q2rw"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                                "profile": {
+                                  "name": "Miles Davis"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:2hGh5VOeeqimQFxqXvfCUf",
+                                "profile": {
+                                  "name": "John Coltrane"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:4jXfFzeP66Zy67HM2mvIIF",
+                                "profile": {
+                                  "name": "Bill Evans"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "0aWMVrwxPNYkKmFthzmpRi",
+                          "name": "Blue in Green (feat. John Coltrane & Bill Evans)",
+                          "playcount": "207131037",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/9cedbd49d385ca7b8e22d7ba1d000a294dd8754e"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:0aWMVrwxPNYkKmFthzmpRi",
+                          "duration": {
+                            "totalMilliseconds": 337733
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e0206bb26a7751a5669b821302a",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d0000485106bb26a7751a5669b821302a",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b27306bb26a7751a5669b821302a",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Miles '56 (Remastered 2026)",
+                            "uri": "spotify:album:6KvVLCTGdHboeAN4PGBiAU"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                                "profile": {
+                                  "name": "Miles Davis"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "3hh9LKcW1eQkBP3XjtvZpI",
+                          "name": "My Funny Valentine - Remastered 2026",
+                          "playcount": "49577766",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/eed5b8eca332e14db560091a655a8d5945ef09e1"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:3hh9LKcW1eQkBP3XjtvZpI",
+                          "duration": {
+                            "totalMilliseconds": 363410
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e020ebc17239b6b18ba88cfb8ca",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048510ebc17239b6b18ba88cfb8ca",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2730ebc17239b6b18ba88cfb8ca",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Kind Of Blue (Legacy Edition)",
+                            "uri": "spotify:album:4sb0eMpDn3upAFfyi4q2rw"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                                "profile": {
+                                  "name": "Miles Davis"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:2hGh5VOeeqimQFxqXvfCUf",
+                                "profile": {
+                                  "name": "John Coltrane"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:5v74mT11KGJqadf9sLw4dA",
+                                "profile": {
+                                  "name": "Cannonball Adderley"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:4jXfFzeP66Zy67HM2mvIIF",
+                                "profile": {
+                                  "name": "Bill Evans"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "4vLYewWIvqHfKtJDk8c8tq",
+                          "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+                          "playcount": "121373179",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/d1a1a7b585e7bcf9becc2ab44938f6399fe90659"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:4vLYewWIvqHfKtJDk8c8tq",
+                          "duration": {
+                            "totalMilliseconds": 562640
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02cb6f92683ff9ad65f27a3f9f",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851cb6f92683ff9ad65f27a3f9f",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273cb6f92683ff9ad65f27a3f9f",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "'Round About Midnight",
+                            "uri": "spotify:album:4VUawqEDCHHfrUe77ScQ2K"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                                "profile": {
+                                  "name": "Miles Davis"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:2hGh5VOeeqimQFxqXvfCUf",
+                                "profile": {
+                                  "name": "John Coltrane"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:35iymrFS4VnsKn35ebHKX9",
+                                "profile": {
+                                  "name": "Red Garland"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:0M1UOBJZ9tcKJbrbnVlHZG",
+                                "profile": {
+                                  "name": "Paul Chambers"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:4WhH68K75YKSAwHAqWFpi1",
+                                "profile": {
+                                  "name": "Philly Joe Jones"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "59ocXoyxNMb1FtL3SOUZhE",
+                          "name": "It Never Entered My Mind (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) - Live at Pasadena Civic Auditorium, Pasadena, CA - February 1956",
+                          "playcount": "53254670",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/64f8f4312fca03447e0cf5c9b205ed4d1ade7c08"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:59ocXoyxNMb1FtL3SOUZhE",
+                          "duration": {
+                            "totalMilliseconds": 317920
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "2hGh5VOeeqimQFxqXvfCUf",
+                        "profile": {
+                          "name": "John Coltrane"
+                        },
+                        "uri": "spotify:artist:2hGh5VOeeqimQFxqXvfCUf",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb4e85f2df0ebc051fcb317def",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f1784e85f2df0ebc051fcb317def",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab676161000051744e85f2df0ebc051fcb317def",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "71Ur25Abq58vksqJINpGdx",
+                        "profile": {
+                          "name": "Miles Davis Quintet"
+                        },
+                        "uri": "spotify:artist:71Ur25Abq58vksqJINpGdx",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 463,
+                                "url": "https://i.scdn.co/image/399ee45e619648be6ce992228b79354f31b69999",
+                                "width": 640
+                              },
+                              {
+                                "height": 46,
+                                "url": "https://i.scdn.co/image/5b89bd24901e2d12347296e753027b70e0bfeacd",
+                                "width": 64
+                              },
+                              {
+                                "height": 145,
+                                "url": "https://i.scdn.co/image/9c69550b77ce6f3d040f32122bff0325e0dddd3c",
+                                "width": 200
+                              },
+                              {
+                                "height": 723,
+                                "url": "https://i.scdn.co/image/7e2b6815b5973d47cccbad1d834089231d9b737e",
+                                "width": 999
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "5v74mT11KGJqadf9sLw4dA",
+                        "profile": {
+                          "name": "Cannonball Adderley"
+                        },
+                        "uri": "spotify:artist:5v74mT11KGJqadf9sLw4dA",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 759,
+                                "url": "https://i.scdn.co/image/41bcf2271cb977ec8c5306c097fcfb6b843a580b",
+                                "width": 640
+                              },
+                              {
+                                "height": 76,
+                                "url": "https://i.scdn.co/image/18372840bc434abf72991aef75de17cbf8e011e0",
+                                "width": 64
+                              },
+                              {
+                                "height": 237,
+                                "url": "https://i.scdn.co/image/07ccd083268212e427787bbc96a103465110c7ef",
+                                "width": 200
+                              },
+                              {
+                                "height": 1185,
+                                "url": "https://i.scdn.co/image/c9ac5f2db563d4c6635882e09ab6373b871a7c7a",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "4F7Q5NV6h5TSwCainz8S5A",
+                        "profile": {
+                          "name": "Duke Ellington"
+                        },
+                        "uri": "spotify:artist:4F7Q5NV6h5TSwCainz8S5A",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 739,
+                                "url": "https://i.scdn.co/image/c169af91bf56ac7d3962000f6ab237e1586d9732",
+                                "width": 640
+                              },
+                              {
+                                "height": 74,
+                                "url": "https://i.scdn.co/image/2ac71fb8c2ff235d2484d40d274473767eaf07b5",
+                                "width": 64
+                              },
+                              {
+                                "height": 231,
+                                "url": "https://i.scdn.co/image/b6a297e56436a75ffcab7f594dafc46c9872f793",
+                                "width": 200
+                              },
+                              {
+                                "height": 1154,
+                                "url": "https://i.scdn.co/image/1e24691a352233bbe989a311d921f17e7892a87e",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "67PZTxaHKMZBFRUh8wIzCy",
+                        "profile": {
+                          "name": "John Coltrane Quartet"
+                        },
+                        "uri": "spotify:artist:67PZTxaHKMZBFRUh8wIzCy",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273a3d4884d3433efed2c4a0563",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851a3d4884d3433efed2c4a0563",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02a3d4884d3433efed2c4a0563",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "4PDpGtF16XpqvXxsrFwQnN",
+                        "profile": {
+                          "name": "Thelonious Monk"
+                        },
+                        "uri": "spotify:artist:4PDpGtF16XpqvXxsrFwQnN",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb66a78e11df5c02af9346db02",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f17866a78e11df5c02af9346db02",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab6761610000517466a78e11df5c02af9346db02",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                "profile": {
+                  "name": "Miles Davis"
+                },
+                "stats": {
+                  "monthlyListeners": 2693627
+                },
+                "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6772690000dd2212f90798134ecfe8dcb99db6",
+                        "width": 640
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67726900008f7412f90798134ecfe8dcb99db6",
+                        "width": 64
+                      },
+                      {
+                        "height": 200,
+                        "url": "https://i.scdn.co/image/ab6772690000bac312f90798134ecfe8dcb99db6",
+                        "width": 200
+                      },
+                      {
+                        "height": 1000,
+                        "url": "https://i.scdn.co/image/ab6772690000c46c12f90798134ecfe8dcb99db6",
+                        "width": 1000
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "__typename": "Market",
+                "countryCode": "AR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MX"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ES"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "US"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ID"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "QA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "OM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ME"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BF"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ML"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "WS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ST"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ET"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 1925533
+          },
+          "id": "5cPw4AUyxzCl2KQ5CGOI3C",
+          "mediaType": "AUDIO",
+          "name": "Calypso Frelimo",
+          "playability": {
+            "playable": true
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/bc1857c7c6a733a13e27ddbee873e478822d6efe"
+                }
+              ]
+            }
+          },
+          "trackNumber": 1,
+          "uri": "spotify:track:5cPw4AUyxzCl2KQ5CGOI3C"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "5cPw4AUyxzCl2KQ5CGOI3C": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:5cPw4AUyxzCl2KQ5CGOI3C"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b5539b587b12d1af5f4ade41",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b5539b587b12d1af5f4ade41",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b5539b587b12d1af5f4ade41",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0CFS3jvFwutIt5ewGIa7Sq",
+              "name": "Get Up With It",
+              "uri": "spotify:album:0CFS3jvFwutIt5ewGIa7Sq"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                  "profile": {
+                    "name": "Miles Davis"
+                  },
+                  "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+                }
+              ]
+            },
+            "id": "7Dtpk5bbk5slJQQNOZ2jTo",
+            "name": "Mtume",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/398a5bcb1f26eeb3fa23c22e10ab591587222116"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:7Dtpk5bbk5slJQQNOZ2jTo"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b5539b587b12d1af5f4ade41",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b5539b587b12d1af5f4ade41",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b5539b587b12d1af5f4ade41",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0CFS3jvFwutIt5ewGIa7Sq",
+              "name": "Get Up With It",
+              "uri": "spotify:album:0CFS3jvFwutIt5ewGIa7Sq"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                  "profile": {
+                    "name": "Miles Davis"
+                  },
+                  "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+                }
+              ]
+            },
+            "id": "174XzYH074YRYMsD78Ij1j",
+            "name": "Billy Preston",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/d7d161139c753eee5a70de588af0aa13722fbb87"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:174XzYH074YRYMsD78Ij1j"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0217fe3d55d1f122817c8b2f35",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485117fe3d55d1f122817c8b2f35",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27317fe3d55d1f122817c8b2f35",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "4K7w2LiKZz0CyHXl6OtkOu",
+              "name": "On The Corner",
+              "uri": "spotify:album:4K7w2LiKZz0CyHXl6OtkOu"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                  "profile": {
+                    "name": "Miles Davis"
+                  },
+                  "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+                }
+              ]
+            },
+            "id": "76Bn4HqrNp7Tr19mD227r6",
+            "name": "Helen Butte / Mr. Freedom X - Unedited Master",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/10db76345ff085935682db4547f2cca89f896a64"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:76Bn4HqrNp7Tr19mD227r6"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0217fe3d55d1f122817c8b2f35",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485117fe3d55d1f122817c8b2f35",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27317fe3d55d1f122817c8b2f35",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "4K7w2LiKZz0CyHXl6OtkOu",
+              "name": "On The Corner",
+              "uri": "spotify:album:4K7w2LiKZz0CyHXl6OtkOu"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                  "profile": {
+                    "name": "Miles Davis"
+                  },
+                  "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+                }
+              ]
+            },
+            "id": "4j27OgRq8Xs1i45nGZTXHf",
+            "name": "On the Corner / New York Girl / Thinkin' of One Thing and Doin' Another / Vote for Miles",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/e2053206a63c4685ecb96d7e55e618956502b466"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:4j27OgRq8Xs1i45nGZTXHf"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029a6b95ea308f9d6d1af790f6",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519a6b95ea308f9d6d1af790f6",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739a6b95ea308f9d6d1af790f6",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0oNoEAy0RMBOqwRYtkhKRb",
+              "name": "Dark Magus: Live At Carnegie Hall",
+              "uri": "spotify:album:0oNoEAy0RMBOqwRYtkhKRb"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0kbYTNQb4Pb1rPbbaF0pT4",
+                  "profile": {
+                    "name": "Miles Davis"
+                  },
+                  "uri": "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+                }
+              ]
+            },
+            "id": "0yZRQ2CC5ghhDQSqSZ5RFX",
+            "name": "Wili (Part 2) - Live at Carnegie Hall, New York, NY - March 1974",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/cc918df94b1e49b23fa8d3e0e536a012e65db22c"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:0yZRQ2CC5ghhDQSqSZ5RFX"
+          }
+        ],
+        "uri": "spotify:track:5cPw4AUyxzCl2KQ5CGOI3C",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e029a6b95ea308f9d6d1af790f6",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048519a6b95ea308f9d6d1af790f6",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2739a6b95ea308f9d6d1af790f6",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1977
+            },
+            "id": "0oNoEAy0RMBOqwRYtkhKRb",
+            "name": "Dark Magus: Live At Carnegie Hall",
+            "type": "ALBUM",
+            "uri": "spotify:album:0oNoEAy0RMBOqwRYtkhKRb"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02bd8fca264455e8925b6bc8ca",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851bd8fca264455e8925b6bc8ca",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273bd8fca264455e8925b6bc8ca",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1971
+            },
+            "id": "4eK5DQxLCshZCUk6D5a8Q1",
+            "name": "Live - Evil",
+            "type": "ALBUM",
+            "uri": "spotify:album:4eK5DQxLCshZCUk6D5a8Q1"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e029fd822653f1d7a7893350357",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048519fd822653f1d7a7893350357",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2739fd822653f1d7a7893350357",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1976
+            },
+            "id": "0lYz13Pd1IYa7kZVoTUlN4",
+            "name": "Pangaea",
+            "type": "ALBUM",
+            "uri": "spotify:album:0lYz13Pd1IYa7kZVoTUlN4"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0217fe3d55d1f122817c8b2f35",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485117fe3d55d1f122817c8b2f35",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27317fe3d55d1f122817c8b2f35",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1972
+            },
+            "id": "4K7w2LiKZz0CyHXl6OtkOu",
+            "name": "On The Corner",
+            "type": "ALBUM",
+            "uri": "spotify:album:4K7w2LiKZz0CyHXl6OtkOu"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02f603b530016b45724ac6faa9",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851f603b530016b45724ac6faa9",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273f603b530016b45724ac6faa9",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1974
+            },
+            "id": "66ubx5B6Q0Vgl7vbvGWP9h",
+            "name": "Big Fun (2022 Remaster)",
+            "type": "ALBUM",
+            "uri": "spotify:album:66ubx5B6Q0Vgl7vbvGWP9h"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0214253f911a761dbae0d91949",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485114253f911a761dbae0d91949",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27314253f911a761dbae0d91949",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1973
+            },
+            "id": "0J6PpQHDOcr54tXvh1MMCr",
+            "name": "Sextant",
+            "type": "ALBUM",
+            "uri": "spotify:album:0J6PpQHDOcr54tXvh1MMCr"
+          }
+        ],
+        "uri": "spotify:track:5cPw4AUyxzCl2KQ5CGOI3C",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/5cPw4AUyxzCl2KQ5CGOI3C",
+      "url": "https://open.spotify.com/track/5cPw4AUyxzCl2KQ5CGOI3C",
+      "name": "Calypso Frelimo",
+      "description": "Listen to Calypso Frelimo on Spotify. Song · Miles Davis · 1974",
+      "datePublished": "1974-11-22",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/5cPw4AUyxzCl2KQ5CGOI3C?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/5cPw4AUyxzCl2KQ5CGOI3C/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": [
+            {
+              "@type": "Country",
+              "name": "AR"
+            },
+            {
+              "@type": "Country",
+              "name": "AU"
+            },
+            {
+              "@type": "Country",
+              "name": "AT"
+            },
+            {
+              "@type": "Country",
+              "name": "BE"
+            },
+            {
+              "@type": "Country",
+              "name": "BO"
+            },
+            {
+              "@type": "Country",
+              "name": "BR"
+            },
+            {
+              "@type": "Country",
+              "name": "BG"
+            },
+            {
+              "@type": "Country",
+              "name": "CA"
+            },
+            {
+              "@type": "Country",
+              "name": "CL"
+            },
+            {
+              "@type": "Country",
+              "name": "CO"
+            },
+            {
+              "@type": "Country",
+              "name": "CR"
+            },
+            {
+              "@type": "Country",
+              "name": "CY"
+            },
+            {
+              "@type": "Country",
+              "name": "CZ"
+            },
+            {
+              "@type": "Country",
+              "name": "DK"
+            },
+            {
+              "@type": "Country",
+              "name": "DO"
+            },
+            {
+              "@type": "Country",
+              "name": "DE"
+            },
+            {
+              "@type": "Country",
+              "name": "EC"
+            },
+            {
+              "@type": "Country",
+              "name": "EE"
+            },
+            {
+              "@type": "Country",
+              "name": "SV"
+            },
+            {
+              "@type": "Country",
+              "name": "FI"
+            },
+            {
+              "@type": "Country",
+              "name": "FR"
+            },
+            {
+              "@type": "Country",
+              "name": "GR"
+            },
+            {
+              "@type": "Country",
+              "name": "GT"
+            },
+            {
+              "@type": "Country",
+              "name": "HN"
+            },
+            {
+              "@type": "Country",
+              "name": "HK"
+            },
+            {
+              "@type": "Country",
+              "name": "HU"
+            },
+            {
+              "@type": "Country",
+              "name": "IS"
+            },
+            {
+              "@type": "Country",
+              "name": "IE"
+            },
+            {
+              "@type": "Country",
+              "name": "IT"
+            },
+            {
+              "@type": "Country",
+              "name": "LV"
+            },
+            {
+              "@type": "Country",
+              "name": "LT"
+            },
+            {
+              "@type": "Country",
+              "name": "LU"
+            },
+            {
+              "@type": "Country",
+              "name": "MY"
+            },
+            {
+              "@type": "Country",
+              "name": "MT"
+            },
+            {
+              "@type": "Country",
+              "name": "MX"
+            },
+            {
+              "@type": "Country",
+              "name": "NL"
+            },
+            {
+              "@type": "Country",
+              "name": "NZ"
+            },
+            {
+              "@type": "Country",
+              "name": "NI"
+            },
+            {
+              "@type": "Country",
+              "name": "NO"
+            },
+            {
+              "@type": "Country",
+              "name": "PA"
+            },
+            {
+              "@type": "Country",
+              "name": "PY"
+            },
+            {
+              "@type": "Country",
+              "name": "PE"
+            },
+            {
+              "@type": "Country",
+              "name": "PH"
+            },
+            {
+              "@type": "Country",
+              "name": "PL"
+            },
+            {
+              "@type": "Country",
+              "name": "PT"
+            },
+            {
+              "@type": "Country",
+              "name": "SG"
+            },
+            {
+              "@type": "Country",
+              "name": "SK"
+            },
+            {
+              "@type": "Country",
+              "name": "ES"
+            },
+            {
+              "@type": "Country",
+              "name": "SE"
+            },
+            {
+              "@type": "Country",
+              "name": "CH"
+            },
+            {
+              "@type": "Country",
+              "name": "TW"
+            },
+            {
+              "@type": "Country",
+              "name": "TR"
+            },
+            {
+              "@type": "Country",
+              "name": "UY"
+            },
+            {
+              "@type": "Country",
+              "name": "US"
+            },
+            {
+              "@type": "Country",
+              "name": "GB"
+            },
+            {
+              "@type": "Country",
+              "name": "AD"
+            },
+            {
+              "@type": "Country",
+              "name": "LI"
+            },
+            {
+              "@type": "Country",
+              "name": "MC"
+            },
+            {
+              "@type": "Country",
+              "name": "ID"
+            },
+            {
+              "@type": "Country",
+              "name": "JP"
+            },
+            {
+              "@type": "Country",
+              "name": "TH"
+            },
+            {
+              "@type": "Country",
+              "name": "VN"
+            },
+            {
+              "@type": "Country",
+              "name": "RO"
+            },
+            {
+              "@type": "Country",
+              "name": "IL"
+            },
+            {
+              "@type": "Country",
+              "name": "ZA"
+            },
+            {
+              "@type": "Country",
+              "name": "SA"
+            },
+            {
+              "@type": "Country",
+              "name": "AE"
+            },
+            {
+              "@type": "Country",
+              "name": "BH"
+            },
+            {
+              "@type": "Country",
+              "name": "QA"
+            },
+            {
+              "@type": "Country",
+              "name": "OM"
+            },
+            {
+              "@type": "Country",
+              "name": "KW"
+            },
+            {
+              "@type": "Country",
+              "name": "EG"
+            },
+            {
+              "@type": "Country",
+              "name": "MA"
+            },
+            {
+              "@type": "Country",
+              "name": "DZ"
+            },
+            {
+              "@type": "Country",
+              "name": "TN"
+            },
+            {
+              "@type": "Country",
+              "name": "LB"
+            },
+            {
+              "@type": "Country",
+              "name": "JO"
+            },
+            {
+              "@type": "Country",
+              "name": "PS"
+            },
+            {
+              "@type": "Country",
+              "name": "IN"
+            },
+            {
+              "@type": "Country",
+              "name": "BY"
+            },
+            {
+              "@type": "Country",
+              "name": "KZ"
+            },
+            {
+              "@type": "Country",
+              "name": "MD"
+            },
+            {
+              "@type": "Country",
+              "name": "UA"
+            },
+            {
+              "@type": "Country",
+              "name": "AL"
+            },
+            {
+              "@type": "Country",
+              "name": "BA"
+            },
+            {
+              "@type": "Country",
+              "name": "HR"
+            },
+            {
+              "@type": "Country",
+              "name": "ME"
+            },
+            {
+              "@type": "Country",
+              "name": "MK"
+            },
+            {
+              "@type": "Country",
+              "name": "RS"
+            },
+            {
+              "@type": "Country",
+              "name": "SI"
+            },
+            {
+              "@type": "Country",
+              "name": "KR"
+            },
+            {
+              "@type": "Country",
+              "name": "BD"
+            },
+            {
+              "@type": "Country",
+              "name": "PK"
+            },
+            {
+              "@type": "Country",
+              "name": "LK"
+            },
+            {
+              "@type": "Country",
+              "name": "GH"
+            },
+            {
+              "@type": "Country",
+              "name": "KE"
+            },
+            {
+              "@type": "Country",
+              "name": "NG"
+            },
+            {
+              "@type": "Country",
+              "name": "TZ"
+            },
+            {
+              "@type": "Country",
+              "name": "UG"
+            },
+            {
+              "@type": "Country",
+              "name": "AG"
+            },
+            {
+              "@type": "Country",
+              "name": "AM"
+            },
+            {
+              "@type": "Country",
+              "name": "BS"
+            },
+            {
+              "@type": "Country",
+              "name": "BB"
+            },
+            {
+              "@type": "Country",
+              "name": "BZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BT"
+            },
+            {
+              "@type": "Country",
+              "name": "BW"
+            },
+            {
+              "@type": "Country",
+              "name": "BF"
+            },
+            {
+              "@type": "Country",
+              "name": "CV"
+            },
+            {
+              "@type": "Country",
+              "name": "CW"
+            },
+            {
+              "@type": "Country",
+              "name": "DM"
+            },
+            {
+              "@type": "Country",
+              "name": "FJ"
+            },
+            {
+              "@type": "Country",
+              "name": "GM"
+            },
+            {
+              "@type": "Country",
+              "name": "GE"
+            },
+            {
+              "@type": "Country",
+              "name": "GD"
+            },
+            {
+              "@type": "Country",
+              "name": "GW"
+            },
+            {
+              "@type": "Country",
+              "name": "GY"
+            },
+            {
+              "@type": "Country",
+              "name": "HT"
+            },
+            {
+              "@type": "Country",
+              "name": "JM"
+            },
+            {
+              "@type": "Country",
+              "name": "KI"
+            },
+            {
+              "@type": "Country",
+              "name": "LS"
+            },
+            {
+              "@type": "Country",
+              "name": "LR"
+            },
+            {
+              "@type": "Country",
+              "name": "MW"
+            },
+            {
+              "@type": "Country",
+              "name": "MV"
+            },
+            {
+              "@type": "Country",
+              "name": "ML"
+            },
+            {
+              "@type": "Country",
+              "name": "MH"
+            },
+            {
+              "@type": "Country",
+              "name": "FM"
+            },
+            {
+              "@type": "Country",
+              "name": "NA"
+            },
+            {
+              "@type": "Country",
+              "name": "NR"
+            },
+            {
+              "@type": "Country",
+              "name": "NE"
+            },
+            {
+              "@type": "Country",
+              "name": "PW"
+            },
+            {
+              "@type": "Country",
+              "name": "PG"
+            },
+            {
+              "@type": "Country",
+              "name": "PR"
+            },
+            {
+              "@type": "Country",
+              "name": "WS"
+            },
+            {
+              "@type": "Country",
+              "name": "SM"
+            },
+            {
+              "@type": "Country",
+              "name": "ST"
+            },
+            {
+              "@type": "Country",
+              "name": "SN"
+            },
+            {
+              "@type": "Country",
+              "name": "SC"
+            },
+            {
+              "@type": "Country",
+              "name": "SL"
+            },
+            {
+              "@type": "Country",
+              "name": "SB"
+            },
+            {
+              "@type": "Country",
+              "name": "KN"
+            },
+            {
+              "@type": "Country",
+              "name": "LC"
+            },
+            {
+              "@type": "Country",
+              "name": "VC"
+            },
+            {
+              "@type": "Country",
+              "name": "SR"
+            },
+            {
+              "@type": "Country",
+              "name": "TL"
+            },
+            {
+              "@type": "Country",
+              "name": "TO"
+            },
+            {
+              "@type": "Country",
+              "name": "TT"
+            },
+            {
+              "@type": "Country",
+              "name": "TV"
+            },
+            {
+              "@type": "Country",
+              "name": "VU"
+            },
+            {
+              "@type": "Country",
+              "name": "AZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BN"
+            },
+            {
+              "@type": "Country",
+              "name": "BI"
+            },
+            {
+              "@type": "Country",
+              "name": "KH"
+            },
+            {
+              "@type": "Country",
+              "name": "CM"
+            },
+            {
+              "@type": "Country",
+              "name": "TD"
+            },
+            {
+              "@type": "Country",
+              "name": "KM"
+            },
+            {
+              "@type": "Country",
+              "name": "GQ"
+            },
+            {
+              "@type": "Country",
+              "name": "SZ"
+            },
+            {
+              "@type": "Country",
+              "name": "GA"
+            },
+            {
+              "@type": "Country",
+              "name": "GN"
+            },
+            {
+              "@type": "Country",
+              "name": "KG"
+            },
+            {
+              "@type": "Country",
+              "name": "LA"
+            },
+            {
+              "@type": "Country",
+              "name": "MO"
+            },
+            {
+              "@type": "Country",
+              "name": "MR"
+            },
+            {
+              "@type": "Country",
+              "name": "MN"
+            },
+            {
+              "@type": "Country",
+              "name": "NP"
+            },
+            {
+              "@type": "Country",
+              "name": "RW"
+            },
+            {
+              "@type": "Country",
+              "name": "TG"
+            },
+            {
+              "@type": "Country",
+              "name": "UZ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZW"
+            },
+            {
+              "@type": "Country",
+              "name": "BJ"
+            },
+            {
+              "@type": "Country",
+              "name": "MG"
+            },
+            {
+              "@type": "Country",
+              "name": "MU"
+            },
+            {
+              "@type": "Country",
+              "name": "MZ"
+            },
+            {
+              "@type": "Country",
+              "name": "AO"
+            },
+            {
+              "@type": "Country",
+              "name": "CI"
+            },
+            {
+              "@type": "Country",
+              "name": "DJ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZM"
+            },
+            {
+              "@type": "Country",
+              "name": "CD"
+            },
+            {
+              "@type": "Country",
+              "name": "CG"
+            },
+            {
+              "@type": "Country",
+              "name": "IQ"
+            },
+            {
+              "@type": "Country",
+              "name": "LY"
+            },
+            {
+              "@type": "Country",
+              "name": "TJ"
+            },
+            {
+              "@type": "Country",
+              "name": "VE"
+            },
+            {
+              "@type": "Country",
+              "name": "ET"
+            },
+            {
+              "@type": "Country",
+              "name": "XK"
+            }
+          ]
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 302213
+}

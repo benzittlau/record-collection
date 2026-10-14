@@ -1,0 +1,1684 @@
+{
+  "url": "https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa",
+  "resolvedUrl": "https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa",
+  "fetchedAt": "2026-10-14T05:12:19Z",
+  "pageTitle": "David Clayton-Thomas | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": false
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:artist:0iC9XXKywTVieFeRoYSZoa": {
+          "__typename": "Artist",
+          "discography": {
+            "albums": {
+              "items": [
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e029a12d0c7156986195d90c658",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048519a12d0c7156986195d90c658",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2739a12d0c7156986195d90c658",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2020
+                        },
+                        "name": "Say Somethin'",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4UZRwOSXFQoEw2mNmlJ4DT"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02da68f256f0c56d3d4aa0f3b3",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851da68f256f0c56d3d4aa0f3b3",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273da68f256f0c56d3d4aa0f3b3",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2018
+                        },
+                        "name": "Mobius",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5lNwFVB0HGGtJxpTeGEHJ4"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a754f554b12626d3e28f0126",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a754f554b12626d3e28f0126",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a754f554b12626d3e28f0126",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2016
+                        },
+                        "name": "Canadiana",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6p7Cply1IzKS9mR99rN0ag"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02eaab753e883e056733153f91",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851eaab753e883e056733153f91",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273eaab753e883e056733153f91",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2015
+                        },
+                        "name": "Combo",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1SltEulrGGIXx7RG557fyC"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e021b65a6a24a67735d69c3e815",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048511b65a6a24a67735d69c3e815",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2731b65a6a24a67735d69c3e815",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2013
+                        },
+                        "name": "A Blues For The New World",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1MOlXSmNM78tTNVQfepyFP"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02fcc5b0367c5bde76f2d64948",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851fcc5b0367c5bde76f2d64948",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273fcc5b0367c5bde76f2d64948",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2010
+                        },
+                        "name": "Soul Ballads",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5maE4Gh1DdPC58CsCymBP7"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e026d09008c7c0fcc92b3e22ad4",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048516d09008c7c0fcc92b3e22ad4",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2736d09008c7c0fcc92b3e22ad4",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2008
+                        },
+                        "name": "The Evergreens",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0ErzfQOVlx2TQkRiOyEcTh"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02d4568c3b819062baf8aff5af",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851d4568c3b819062baf8aff5af",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273d4568c3b819062baf8aff5af",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2006
+                        },
+                        "name": "In Concert: A Musical Biography",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3XDFRYKVi1OyHnU6erlpIp"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "compilations": {
+              "items": []
+            },
+            "latest": null,
+            "popularReleasesAlbums": {
+              "items": [
+                {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fcc5b0367c5bde76f2d64948",
+                        "width": 300
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fcc5b0367c5bde76f2d64948",
+                        "width": 64
+                      },
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fcc5b0367c5bde76f2d64948",
+                        "width": 640
+                      }
+                    ]
+                  },
+                  "date": {
+                    "year": 2010
+                  },
+                  "name": "Soul Ballads",
+                  "type": "ALBUM",
+                  "uri": "spotify:album:5maE4Gh1DdPC58CsCymBP7"
+                },
+                {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d4568c3b819062baf8aff5af",
+                        "width": 300
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d4568c3b819062baf8aff5af",
+                        "width": 64
+                      },
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d4568c3b819062baf8aff5af",
+                        "width": 640
+                      }
+                    ]
+                  },
+                  "date": {
+                    "year": 2006
+                  },
+                  "name": "In Concert: A Musical Biography",
+                  "type": "ALBUM",
+                  "uri": "spotify:album:3XDFRYKVi1OyHnU6erlpIp"
+                },
+                {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02119da3089b8d83707d37082f",
+                        "width": 300
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851119da3089b8d83707d37082f",
+                        "width": 64
+                      },
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273119da3089b8d83707d37082f",
+                        "width": 640
+                      }
+                    ]
+                  },
+                  "date": {
+                    "year": 1972
+                  },
+                  "name": "David Clayton-Thomas",
+                  "type": "ALBUM",
+                  "uri": "spotify:album:2lY12htZvAlREG2jbfFG8a"
+                },
+                {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029bdaa14f5a8db90358e4c562",
+                        "width": 300
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519bdaa14f5a8db90358e4c562",
+                        "width": 64
+                      },
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739bdaa14f5a8db90358e4c562",
+                        "width": 640
+                      }
+                    ]
+                  },
+                  "date": {
+                    "year": 1997
+                  },
+                  "name": "Blue Plate Special",
+                  "type": "ALBUM",
+                  "uri": "spotify:album:370zTmFF24HPU1yuyXH1BQ"
+                },
+                {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a754f554b12626d3e28f0126",
+                        "width": 300
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a754f554b12626d3e28f0126",
+                        "width": 64
+                      },
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a754f554b12626d3e28f0126",
+                        "width": 640
+                      }
+                    ]
+                  },
+                  "date": {
+                    "year": 2016
+                  },
+                  "name": "Canadiana",
+                  "type": "ALBUM",
+                  "uri": "spotify:album:6p7Cply1IzKS9mR99rN0ag"
+                }
+              ]
+            },
+            "singles": {
+              "items": [
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0200f1467095efcdad7a8ef505",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485100f1467095efcdad7a8ef505",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27300f1467095efcdad7a8ef505",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2022
+                        },
+                        "name": "House of the Rising Sun",
+                        "type": "SINGLE",
+                        "uri": "spotify:album:5vGJJtmcIHUjkgWMJWU7O1"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e028770f663d5a63e0698afe693",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048518770f663d5a63e0698afe693",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2738770f663d5a63e0698afe693",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2020
+                        },
+                        "name": "The Circus",
+                        "type": "SINGLE",
+                        "uri": "spotify:album:58gT9x4DtqsBFWJ85dot9V"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e027e243a846b845441fc5b238d",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048517e243a846b845441fc5b238d",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2737e243a846b845441fc5b238d",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2019
+                        },
+                        "name": "The System",
+                        "type": "SINGLE",
+                        "uri": "spotify:album:3AvaWiVHBANGRPqoG2B4VP"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "topTracks": {
+              "items": [
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fcc5b0367c5bde76f2d64948",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fcc5b0367c5bde76f2d64948",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fcc5b0367c5bde76f2d64948",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Soul Ballads",
+                      "uri": "spotify:album:5maE4Gh1DdPC58CsCymBP7"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "David Clayton-Thomas"
+                          },
+                          "uri": "spotify:artist:0iC9XXKywTVieFeRoYSZoa"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "If You Don't Know Me By Now",
+                    "playcount": "47618",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/e35d1076e652b824b8c19e276cc151402563ddb2"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:1RUyOz2EZhPpEugRJadSzl"
+                  }
+                },
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e029bdaa14f5a8db90358e4c562",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048519bdaa14f5a8db90358e4c562",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739bdaa14f5a8db90358e4c562",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Blue Plate Special",
+                      "uri": "spotify:album:370zTmFF24HPU1yuyXH1BQ"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "David Clayton-Thomas"
+                          },
+                          "uri": "spotify:artist:0iC9XXKywTVieFeRoYSZoa"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "Hard Times",
+                    "playcount": "72052",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/165ed765ab0b783153e0da88025ef278e332c8a5"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:2S367cFpELjQb3Lu9eUy0v"
+                  }
+                },
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a754f554b12626d3e28f0126",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851a754f554b12626d3e28f0126",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a754f554b12626d3e28f0126",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Canadiana",
+                      "uri": "spotify:album:6p7Cply1IzKS9mR99rN0ag"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "David Clayton-Thomas"
+                          },
+                          "uri": "spotify:artist:0iC9XXKywTVieFeRoYSZoa"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "Spinning Wheel",
+                    "playcount": "21293",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/131dc6ea0dba7821feb26ebc90b470fc82a98bc6"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:5mMDgHgyNYuVVCEjWalhsX"
+                  }
+                },
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d4568c3b819062baf8aff5af",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d4568c3b819062baf8aff5af",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d4568c3b819062baf8aff5af",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "In Concert: A Musical Biography",
+                      "uri": "spotify:album:3XDFRYKVi1OyHnU6erlpIp"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "David Clayton-Thomas"
+                          },
+                          "uri": "spotify:artist:0iC9XXKywTVieFeRoYSZoa"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "And When I die",
+                    "playcount": "25555",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/ad97864fad7341cfe4cdefc9507587a8453d5cac"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:1rLC7tu8DjSyr7D4KIgf65"
+                  }
+                },
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d1d9e0c74f0bb25933fbdbb2",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d1d9e0c74f0bb25933fbdbb2",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d1d9e0c74f0bb25933fbdbb2",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Songs We Were Taught",
+                      "uri": "spotify:album:6HhIjiuEpFVWQemjL07C5L"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "The Prog Collective"
+                          },
+                          "uri": "spotify:artist:3v585Z1aC2FYImkwfdg2a8"
+                        },
+                        {
+                          "profile": {
+                            "name": "David Clayton-Thomas"
+                          },
+                          "uri": "spotify:artist:0iC9XXKywTVieFeRoYSZoa"
+                        },
+                        {
+                          "profile": {
+                            "name": "Steve Hillage"
+                          },
+                          "uri": "spotify:artist:4ruO9Y424Hf796fUGMLKcC"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "House of the Rising Sun",
+                    "playcount": "20082",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/1f9fc0684f2083fcdd071d86353e9bc4cb2c4f92"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:5W0aVCOHGu0rfvlNIRAThl"
+                  }
+                }
+              ]
+            }
+          },
+          "goods": {
+            "concerts": {
+              "items": [],
+              "pagingInfo": {
+                "limit": 0
+              },
+              "totalCount": 0
+            }
+          },
+          "preReleaseV2": null,
+          "profile": {
+            "biography": {
+              "text": "David Clayton-Thomas fronted <a href=\"spotify:artist:24GaH9tRBgZjlvOhpFuKi2\">Blood, Sweat & Tears</a> during their popular peak, singing the hits \"You've Made Me So Very Happy,\" \"And When I Die,\" \"Hi-De-Ho,\" and his composition \"Spinning Wheel.\" The latter suggested the musical ambitions he harbored and after the group's hot streak cooled in 1972, he set out on a solo career that he quickly put on ice so he could return to the group in 1975. From that point forward, Clayton-Thomas alternated between <a href=\"spotify:artist:24GaH9tRBgZjlvOhpFuKi2\">Blood, Sweat & Tears</a> and a solo career, eventually leaving the band for good in 2004. Once he departed, he stayed on the road as a solo attraction, occasionally entering the studio for a new recording.\r\n\nClayton-Thomas -- who was born David Henry Thomsett in Kingston Upon Thames, Surrey, England on September 13, 1941-- was the son of a Canadian soldier and a musician mother. Raised in Willowdale, Toronto, he feuded with his father and had a troubled adolescence, finding solace in music. He began playing and, like other fledgling Canadian rockers of the early '60s, he was mentored by rockabilly cat <a href=\"spotify:artist:2viYME3n7SlMsIOEqWmEHv\">Ronnie Hawkins</a>, then headed out to start his own band. Adopting the stage name David Clayton-Thomas, he formed the Fabulous Shays, who released a cover of <a href=\"spotify:artist:1yNOfXGQNGjAynk77wv85x\">John Lee Hooker</a>'s \"Boom Boom\" in 1964. It got enough attention for the group to appear on NBC's Hullabaloo, but Clayton-Thomas soon left the group and gravitated toward folk and blues. After playing Toronto coffee houses for a spell, he decided to form the jazz-inspired Bossmen, who had a hit with \"Brainwashed\" in 1966. Clayton-Thomas released an album called Sings Like It Is! on Canada's <a href=\"spotify:search:label%3A%22Roman+Records%22\">Roman Records</a> in 1968 then headed down to New York City, playing folk venues until he met <a href=\"spotify:artist:24GaH9tRBgZjlvOhpFuKi2\">Blood, Sweat & Tears</a> drummer Bobby Colomby. At the time, <a href=\"spotify:artist:24GaH9tRBgZjlvOhpFuKi2\">Blood, Sweat & Tears</a> were looking for a vocalist to replace the recently departed <a href=\"spotify:artist:49JvZ17o0VaAmXaJv5kZlv\">Al Kooper</a>, and once <a href=\"spotify:search:label%3A%22Columbia%22\">Columbia</a>'s head <a href=\"spotify:artist:5alKeK7PQGqEJ2oBz5n7sU\">Clive Davis</a> signed off on Clayton-Thomas, he joined the group -- but not before <a href=\"spotify:search:label%3A%22Decca%22\">Decca</a> put out an LP called David Clayton-Thomas!\r\n\nBlood, Sweat & Tears -- the singer's first album with the band and their second album -- arrived in December 1968 and was a smash hit, reaching number one on the Billboard charts, winning the 1970 Grammy for Album of the Year and spinning off the hits \"You've Made Me So Very Happy,\" \"Spinning Wheel,\" and \"And When I Die,\" which all peaked at number two in 1969. Blood, Sweat & Tears 3 came in 1970, producing the modest hits \"Hi-De-Ho\" (which peaked at 14) and \"Lucretia Mac Evil\" (29). The band's momentum slowed with 1971's B, S, & T 4, and Clayton-Thomas left after its 1971 release. The singer released an eponymous album in early 1972, followed by Tequila Sunrise at the dawn of the new year, before departing for <a href=\"spotify:search:label%3A%22RCA%22\">RCA</a> in 1973, where he released Harmony Junction. Also in 1973, he hosted the CBC music television series The David Clayton-Thomas Show. Clayton-Thomas rejoined <a href=\"spotify:artist:24GaH9tRBgZjlvOhpFuKi2\">Blood, Sweat & Tears</a> in 1975, making his second debut on that year's New City LP. Two more albums followed quickly -- More Than Ever in 1976 and Brand New Day 1977 -- before Bobby Colomby left the group, retaining the rights to the band's name.\r\n\nClayton-Thomas released another solo album called Clayton on <a href=\"spotify:search:label%3A%22ABC%22\">ABC</a> in 1977, then received permission from Colomby to form a new <a href=\"spotify:artist:24GaH9tRBgZjlvOhpFuKi2\">Blood, Sweat & Tears</a> for 1980's Nuclear Blues. The band officially split following that record, but the singer decided to return to performing in 1983, entering a period where he'd tour solo but see promoters bill him as <a href=\"spotify:artist:24GaH9tRBgZjlvOhpFuKi2\">Blood, Sweat & Tears</a>. The singer and Bobby Colomby wound up agreeing to a 1984 deal where Clayton-Thomas could tour with a revolving lineup under the <a href=\"spotify:artist:24GaH9tRBgZjlvOhpFuKi2\">Blood, Sweat & Tears</a> name, a deal that held for 30 years. In 2004, Clayton-Thomas stopped using the name, returned to his hometown of Toronto, and began working under his own name, touring and releasing records on a steady basis for the next few decades. He had returned to solo recordings a little bit earlier, releasing Blue Plate on <a href=\"spotify:search:label%3A%22Stony+Plain%22\">Stony Plain</a> in 1997, but his first album since leaving <a href=\"spotify:artist:24GaH9tRBgZjlvOhpFuKi2\">Blood, Sweat & Tears</a> behind was 2005's Aurora. Spectrum followed in 2009, with Soul Ballads hot on its heels in 2010. He released a blues album called A Blues for the New World in 2013, assembled a combo called Combo for 2015's Combo, releasing the solo Soul Ballads by the end of the year.  In October 2016, he released the full-length Canadiana, a record filled with covers of songs written by Canadian songwriters. He followed the album in December with \"Ode to the Donald,\" a song of protest against the American election of Donald J. Trump. ~ Stephen Thomas Erlewine, Rovi"
+            },
+            "externalLinks": {
+              "items": []
+            },
+            "name": "David Clayton-Thomas",
+            "playlistsV2": {
+              "items": [
+                {
+                  "data": {
+                    "__typename": "Playlist",
+                    "id": "71QoRW9FBYTddKxK0KAMbf",
+                    "images": {
+                      "items": [
+                        {
+                          "sources": [
+                            {
+                              "height": null,
+                              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c0c1116d8e7b3482a6409bb9f",
+                              "width": null
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "name": "Back To The 60s David Clayton-Thomas Official Playlist",
+                    "uri": "spotify:playlist:71QoRW9FBYTddKxK0KAMbf"
+                  }
+                }
+              ]
+            }
+          },
+          "relatedContent": {
+            "appearsOn": {
+              "items": [
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02275be9c7308bbefad7651c5e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851275be9c7308bbefad7651c5e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273275be9c7308bbefad7651c5e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1998
+                        },
+                        "name": "The Auburn University Marching Band - Highlights of the 1998 Season",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2vWthcV6G1954Hi9j2vjV7"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e022263433e14358f6cb135418e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048512263433e14358f6cb135418e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2732263433e14358f6cb135418e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2016
+                        },
+                        "name": "The 70s One Hit Wonder Collection",
+                        "type": "COMPILATION",
+                        "uri": "spotify:album:2voEmsGzJfzBE53XMWFXo1"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e023e9ec0d29ee8a1072ba61439",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048513e9ec0d29ee8a1072ba61439",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2733e9ec0d29ee8a1072ba61439",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2012
+                        },
+                        "name": "Sun Devil Marching Band Pass In Review 1997",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4mKiyGXFIXLJRDC2Pxs7Zs"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ca8ca3158fd9b5c2893bb245",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ca8ca3158fd9b5c2893bb245",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ca8ca3158fd9b5c2893bb245",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1994
+                        },
+                        "name": "Live (feat. David Clayton-Thomas)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3rWalLuAdgl14GuQ2AVYGM"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02d7b8e98755198ff21ec9eec4",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851d7b8e98755198ff21ec9eec4",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273d7b8e98755198ff21ec9eec4",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2015
+                        },
+                        "name": "Keep Calm & Salute the Beatles",
+                        "type": "COMPILATION",
+                        "uri": "spotify:album:16lTgkH3bylVatnTw9F6Aw"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02da7ba4fa5328933f298908a1",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851da7ba4fa5328933f298908a1",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273da7ba4fa5328933f298908a1",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2022
+                        },
+                        "name": "Lou Pomanti & Friends",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5zuGBjDmYbEVO19yyjfKLr"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02b2f42be538f2fd1f0f41337e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851b2f42be538f2fd1f0f41337e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b2f42be538f2fd1f0f41337e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2022
+                        },
+                        "name": "Találkozások (25 év)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5B8YY7A7W0ybWP67hk19wf"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02987b7f370285c0e68f4c7edd",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851987b7f370285c0e68f4c7edd",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273987b7f370285c0e68f4c7edd",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2009
+                        },
+                        "name": "Club T: Tracks Of My Years, 70s-80s",
+                        "type": "COMPILATION",
+                        "uri": "spotify:album:7snbA9r7WIleaKPqwZ0gT2"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "featuringV2": {
+              "items": [
+                {
+                  "data": {
+                    "__typename": "Playlist",
+                    "id": "37i9dQZF1DZ06evO06IYGO",
+                    "images": {
+                      "items": [
+                        {
+                          "sources": [
+                            {
+                              "height": null,
+                              "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/thisisv3/0iC9XXKywTVieFeRoYSZoa/en",
+                              "width": null
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "name": "This Is David Clayton-Thomas",
+                    "uri": "spotify:playlist:37i9dQZF1DZ06evO06IYGO"
+                  }
+                }
+              ]
+            },
+            "relatedArtists": {
+              "items": [
+                {
+                  "profile": {
+                    "name": "Francine Reed"
+                  },
+                  "uri": "spotify:artist:6cAEm8z3ztu07jocgGooY0",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 743,
+                          "url": "https://i.scdn.co/image/6d3fbc2f546a7e9f14f1de11a967385f57169f66",
+                          "width": 640
+                        },
+                        {
+                          "height": 74,
+                          "url": "https://i.scdn.co/image/75fb912faf1d2fd648080992a7bbcdaf5d3262d2",
+                          "width": 64
+                        },
+                        {
+                          "height": 232,
+                          "url": "https://i.scdn.co/image/575eb9ed33c79e6f58532540cb207d270fca2ee9",
+                          "width": 200
+                        },
+                        {
+                          "height": 1162,
+                          "url": "https://i.scdn.co/image/bd45cc35476f3fcf71caa10e75e1db34f86b2f95",
+                          "width": 1000
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Andy Fairweather Low & The Lowriders"
+                  },
+                  "uri": "spotify:artist:4kjk5NnlOrTwOJj47J3DOy",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273abc3aa4978bf4eb558d44d1f",
+                          "width": 640
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851abc3aa4978bf4eb558d44d1f",
+                          "width": 64
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02abc3aa4978bf4eb558d44d1f",
+                          "width": 300
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Bonnie Bramlett"
+                  },
+                  "uri": "spotify:artist:7pnTcXIBhzFpebbRjCZmwb",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 792,
+                          "url": "https://i.scdn.co/image/eb85c19ca06bb7dec9ec243295f4fc1c6667506e",
+                          "width": 640
+                        },
+                        {
+                          "height": 79,
+                          "url": "https://i.scdn.co/image/b46790d726356ebc4c174db2846fd1deec23a69d",
+                          "width": 64
+                        },
+                        {
+                          "height": 247,
+                          "url": "https://i.scdn.co/image/3b691f30363e893ddbaf8f59943a866264106cf7",
+                          "width": 200
+                        },
+                        {
+                          "height": 1237,
+                          "url": "https://i.scdn.co/image/8894a1183012bcf0703f5dc251fbfe06f779840a",
+                          "width": 1000
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "LENNY ZAKATEK"
+                  },
+                  "uri": "spotify:artist:6ZW4qaFplK1HRJ8VbgqV5n",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736efcd41b446b13bf36d44bc3",
+                          "width": 640
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516efcd41b446b13bf36d44bc3",
+                          "width": 64
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026efcd41b446b13bf36d44bc3",
+                          "width": 300
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Andy Cowan"
+                  },
+                  "uri": "spotify:artist:32QR0pMlfnmCmuMr0c5d8c",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b3475f6d14bb28aa158c6198",
+                          "width": 640
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b3475f6d14bb28aa158c6198",
+                          "width": 64
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b3475f6d14bb28aa158c6198",
+                          "width": 300
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Bobby Whitlock"
+                  },
+                  "uri": "spotify:artist:6OqxyqEQbfqk2UKqfznUek",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 425,
+                          "url": "https://i.scdn.co/image/d39e2dfddfd6bd4cca28ef2093a611dfcd975ca3",
+                          "width": 640
+                        },
+                        {
+                          "height": 42,
+                          "url": "https://i.scdn.co/image/9be0a5ba02ce5e95025cbe73dcfd8d730c5b7a0c",
+                          "width": 63
+                        },
+                        {
+                          "height": 133,
+                          "url": "https://i.scdn.co/image/b47910051e6c7e157947ae0beba2073d9965f52a",
+                          "width": 200
+                        },
+                        {
+                          "height": 663,
+                          "url": "https://i.scdn.co/image/c0ab19d179ee4f0c1e527f446a6c3df627985eb3",
+                          "width": 999
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Deanna Bogart"
+                  },
+                  "uri": "spotify:artist:6t5gYU75DSRMg97vSwJimG",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 789,
+                          "url": "https://i.scdn.co/image/a54a100618334ab371082f2142aeb04861a897f8",
+                          "width": 640
+                        },
+                        {
+                          "height": 79,
+                          "url": "https://i.scdn.co/image/83825ced9be21c16819cfd23cefc490e28eec1b3",
+                          "width": 64
+                        },
+                        {
+                          "height": 246,
+                          "url": "https://i.scdn.co/image/dcc3bb518c49e6373a4315d2c76676b82c01af20",
+                          "width": 200
+                        },
+                        {
+                          "height": 1232,
+                          "url": "https://i.scdn.co/image/b1c47147e3273f60dec229fc6d7ed3defdcfe922",
+                          "width": 1000
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "New York Rock And Soul Revue"
+                  },
+                  "uri": "spotify:artist:3rAv7aL3cvz1VzryJv49A4",
+                  "visuals": {
+                    "avatarImage": null
+                  }
+                }
+              ]
+            }
+          },
+          "stats": {
+            "followers": 2852,
+            "monthlyListeners": 2116
+          },
+          "uri": "spotify:artist:0iC9XXKywTVieFeRoYSZoa",
+          "visuals": {
+            "avatarImage": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#203038"
+                },
+                "colorRaw": {
+                  "hex": "#203038"
+                }
+              },
+              "sources": [
+                {
+                  "height": 160,
+                  "url": "https://i.scdn.co/image/ab6761610000f178fd42ec696965ac31dbab4985",
+                  "width": 160
+                },
+                {
+                  "height": 320,
+                  "url": "https://i.scdn.co/image/ab67616100005174fd42ec696965ac31dbab4985",
+                  "width": 320
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761610000e5ebfd42ec696965ac31dbab4985",
+                  "width": 640
+                }
+              ]
+            }
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "artist": {
+        "0iC9XXKywTVieFeRoYSZoa": [
+          {
+            "experimentId": "artist-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:artist:0iC9XXKywTVieFeRoYSZoa"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicGroup",
+      "@id": "https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa",
+      "url": "https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa",
+      "name": "David Clayton-Thomas",
+      "description": "Listen to David Clayton-Thomas on Spotify. Artist · 2.1K monthly listeners.",
+      "datePublished": null,
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/artist/0iC9XXKywTVieFeRoYSZoa/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 265477,
+  "albumLinks": [
+    {
+      "id": "5maE4Gh1DdPC58CsCymBP7",
+      "label": "Soul Ballads  2010 • Album"
+    },
+    {
+      "id": "3XDFRYKVi1OyHnU6erlpIp",
+      "label": "In Concert: A Musical Biography  2006 • Album"
+    },
+    {
+      "id": "2lY12htZvAlREG2jbfFG8a",
+      "label": "David Clayton-Thomas  1972 • Album"
+    },
+    {
+      "id": "370zTmFF24HPU1yuyXH1BQ",
+      "label": "Blue Plate Special  1997 • Album"
+    },
+    {
+      "id": "6p7Cply1IzKS9mR99rN0ag",
+      "label": "Canadiana  2016 • Album"
+    },
+    {
+      "id": "4UZRwOSXFQoEw2mNmlJ4DT",
+      "label": "Say Somethin'  Album • 2020"
+    },
+    {
+      "id": "5lNwFVB0HGGtJxpTeGEHJ4",
+      "label": "Mobius  Album • 2018"
+    },
+    {
+      "id": "6p7Cply1IzKS9mR99rN0ag",
+      "label": "Canadiana  Album • 2016"
+    },
+    {
+      "id": "1SltEulrGGIXx7RG557fyC",
+      "label": "Combo  Album • 2015"
+    },
+    {
+      "id": "1MOlXSmNM78tTNVQfepyFP",
+      "label": "A Blues For The New World  Album • 2013"
+    },
+    {
+      "id": "5maE4Gh1DdPC58CsCymBP7",
+      "label": "Soul Ballads  Album • 2010"
+    },
+    {
+      "id": "0ErzfQOVlx2TQkRiOyEcTh",
+      "label": "The Evergreens  Album • 2008"
+    },
+    {
+      "id": "3XDFRYKVi1OyHnU6erlpIp",
+      "label": "In Concert: A Musical Biography  Album • 2006"
+    },
+    {
+      "id": "5vGJJtmcIHUjkgWMJWU7O1",
+      "label": "House of the Rising Sun  Single • 2022"
+    },
+    {
+      "id": "58gT9x4DtqsBFWJ85dot9V",
+      "label": "The Circus  Single • 2020"
+    },
+    {
+      "id": "3AvaWiVHBANGRPqoG2B4VP",
+      "label": "The System  Single • 2019"
+    },
+    {
+      "id": "2vWthcV6G1954Hi9j2vjV7",
+      "label": "The Auburn University Marching Band - Highlights of the 1998 Season"
+    },
+    {
+      "id": "2voEmsGzJfzBE53XMWFXo1",
+      "label": "The 70s One Hit Wonder Collection"
+    },
+    {
+      "id": "4mKiyGXFIXLJRDC2Pxs7Zs",
+      "label": "Sun Devil Marching Band Pass In Review 1997"
+    },
+    {
+      "id": "3rWalLuAdgl14GuQ2AVYGM",
+      "label": "Live (feat. David Clayton-Thomas)"
+    },
+    {
+      "id": "16lTgkH3bylVatnTw9F6Aw",
+      "label": "Keep Calm & Salute the Beatles"
+    },
+    {
+      "id": "5zuGBjDmYbEVO19yyjfKLr",
+      "label": "Lou Pomanti & Friends"
+    },
+    {
+      "id": "5B8YY7A7W0ybWP67hk19wf",
+      "label": "Találkozások (25 év)"
+    },
+    {
+      "id": "7snbA9r7WIleaKPqwZ0gT2",
+      "label": "Club T: Tracks Of My Years, 70s-80s"
+    }
+  ]
+}

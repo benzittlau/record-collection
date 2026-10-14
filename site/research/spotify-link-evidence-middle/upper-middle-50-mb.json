@@ -1,0 +1,36 @@
+{
+  "id": "upper-middle-50",
+  "groups": [
+    "2cc6b64f-2268-34d8-aee5-77573b70d16f"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=2cc6b64f-2268-34d8-aee5-77573b70d16f&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 4
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "1O9T5fjUzGfSa609GiDEJY",
+      "spotifyUrl": "https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY",
+      "musicbrainzReleaseId": "beee1d51-c586-4d0f-8739-c6d7a2515d55",
+      "musicbrainzTitle": "The Adventures of Panama Red",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "name": "New Riders of the Purple Sage",
+            "type": "Group",
+            "id": "64c8fe79-1f93-483f-aace-b6a6e379e7d2",
+            "disambiguation": "",
+            "sort-name": "New Riders of the Purple Sage",
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "joinphrase": "",
+          "name": "New Riders of the Purple Sage"
+        }
+      ],
+      "musicbrainzDate": ""
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "upper-middle-35",
+  "groups": [
+    "1c48487e-ae95-3197-9158-dbc23a26cc5d",
+    "1c48487e-ae95-3197-9158-dbc23a26cc5d"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=1c48487e-ae95-3197-9158-dbc23a26cc5d&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 17
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "4llUmcbYvKbAK61Wni0dFc",
+      "spotifyUrl": "https://open.spotify.com/album/4llUmcbYvKbAK61Wni0dFc",
+      "musicbrainzReleaseId": "1b884c85-3108-4454-b61b-71d04584908d",
+      "musicbrainzTitle": "The Roaring Silence",
+      "musicbrainzArtists": [
+        {
+          "joinphrase": "",
+          "name": "Manfred Mann’s Earth Band",
+          "artist": {
+            "disambiguation": "",
+            "country": "GB",
+            "type": "Group",
+            "id": "83e9c775-84ea-4cf6-abdf-b9ffa8c3d060",
+            "sort-name": "Mann, Manfred, Earth Band",
+            "name": "Manfred Mann’s Earth Band",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          }
+        }
+      ],
+      "musicbrainzDate": ""
+    },
+    {
+      "spotifyId": "3Y7u8EBiz1mIUA5ODEGcn7",
+      "spotifyUrl": "https://open.spotify.com/album/3Y7u8EBiz1mIUA5ODEGcn7",
+      "musicbrainzReleaseId": "ab3b69bb-8c72-4139-ad85-363d1097d7d1",
+      "musicbrainzTitle": "The Roaring Silence 50th Anniversary Edition",
+      "musicbrainzArtists": [
+        {
+          "joinphrase": "",
+          "artist": {
+            "type": "Group",
+            "disambiguation": "",
+            "country": "GB",
+            "sort-name": "Mann, Manfred, Earth Band",
+            "name": "Manfred Mann’s Earth Band",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "id": "83e9c775-84ea-4cf6-abdf-b9ffa8c3d060"
+          },
+          "name": "Manfred Mann’s Earth Band"
+        }
+      ],
+      "musicbrainzDate": "2026-09-11"
+    }
+  ]
+}

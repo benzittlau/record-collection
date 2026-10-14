@@ -1,0 +1,843 @@
+{
+  "url": "https://open.spotify.com/artist/7D618nuNDhtacCuDSpa7fe",
+  "resolvedUrl": "https://open.spotify.com/artist/7D618nuNDhtacCuDSpa7fe",
+  "fetchedAt": "2026-10-14T05:35:57Z",
+  "pageTitle": "Dom Joseph Gajard de l&#x27;ordre de Saint-Benoît | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:artist:7D618nuNDhtacCuDSpa7fe": {
+          "__typename": "Artist",
+          "discography": {
+            "albums": {
+              "items": [
+                {
+                  "releases": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02d1c73239feb51458fef6a9b4",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851d1c73239feb51458fef6a9b4",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273d1c73239feb51458fef6a9b4",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1962
+                        },
+                        "name": "Kyriale : Messes Nos. 15 & 16 (Mono Version)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1AORM3mluVZAcU1HzCnDv1"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            "compilations": {
+              "items": []
+            },
+            "latest": null,
+            "popularReleasesAlbums": {
+              "items": [
+                {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d1c73239feb51458fef6a9b4",
+                        "width": 300
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d1c73239feb51458fef6a9b4",
+                        "width": 64
+                      },
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d1c73239feb51458fef6a9b4",
+                        "width": 640
+                      }
+                    ]
+                  },
+                  "date": {
+                    "year": 1962
+                  },
+                  "name": "Kyriale : Messes Nos. 15 & 16 (Mono Version)",
+                  "type": "ALBUM",
+                  "uri": "spotify:album:1AORM3mluVZAcU1HzCnDv1"
+                }
+              ]
+            },
+            "singles": {
+              "items": []
+            },
+            "topTracks": {
+              "items": [
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d1c73239feb51458fef6a9b4",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d1c73239feb51458fef6a9b4",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d1c73239feb51458fef6a9b4",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Kyriale : Messes Nos. 15 & 16 (Mono Version)",
+                      "uri": "spotify:album:1AORM3mluVZAcU1HzCnDv1"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Anonymous"
+                          },
+                          "uri": "spotify:artist:4kCZ5nyurc9eIqLJfUcW0Y"
+                        },
+                        {
+                          "profile": {
+                            "name": "Chœur des Moines de l'Abbaye Saint-Pierre de Solesmes"
+                          },
+                          "uri": "spotify:artist:4SxLTtQN1cddSVmfDgLSa1"
+                        },
+                        {
+                          "profile": {
+                            "name": "Dom Joseph Gajard de l'ordre de Saint-Benoît"
+                          },
+                          "uri": "spotify:artist:7D618nuNDhtacCuDSpa7fe"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "Kyriale, Mass No. 15 for Weekdays in Christmas Season \"Dominator Deus\": Agnus Dei in Mode I",
+                    "playcount": "0",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/c68156c5357b8cb11b1c92a3fd788e529854a4f2"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:3Je6YBHRK8vr7um7tsLpxE"
+                  }
+                },
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d1c73239feb51458fef6a9b4",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d1c73239feb51458fef6a9b4",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d1c73239feb51458fef6a9b4",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Kyriale : Messes Nos. 15 & 16 (Mono Version)",
+                      "uri": "spotify:album:1AORM3mluVZAcU1HzCnDv1"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Anonymous"
+                          },
+                          "uri": "spotify:artist:4kCZ5nyurc9eIqLJfUcW0Y"
+                        },
+                        {
+                          "profile": {
+                            "name": "Chœur des Moines de l'Abbaye Saint-Pierre de Solesmes"
+                          },
+                          "uri": "spotify:artist:4SxLTtQN1cddSVmfDgLSa1"
+                        },
+                        {
+                          "profile": {
+                            "name": "Dom Joseph Gajard de l'ordre de Saint-Benoît"
+                          },
+                          "uri": "spotify:artist:7D618nuNDhtacCuDSpa7fe"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "Kyriale, Mass No. 15 for Weekdays in Christmas Season \"Dominator Deus\": Gloria in Mode IV",
+                    "playcount": "0",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/af58fd5241756d8474a6859fb2a52283bcdb3e41"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:6CvQQ3d9MvwRWpRaUqrOgc"
+                  }
+                },
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d1c73239feb51458fef6a9b4",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d1c73239feb51458fef6a9b4",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d1c73239feb51458fef6a9b4",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Kyriale : Messes Nos. 15 & 16 (Mono Version)",
+                      "uri": "spotify:album:1AORM3mluVZAcU1HzCnDv1"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Anonymous"
+                          },
+                          "uri": "spotify:artist:4kCZ5nyurc9eIqLJfUcW0Y"
+                        },
+                        {
+                          "profile": {
+                            "name": "Chœur des Moines de l'Abbaye Saint-Pierre de Solesmes"
+                          },
+                          "uri": "spotify:artist:4SxLTtQN1cddSVmfDgLSa1"
+                        },
+                        {
+                          "profile": {
+                            "name": "Dom Joseph Gajard de l'ordre de Saint-Benoît"
+                          },
+                          "uri": "spotify:artist:7D618nuNDhtacCuDSpa7fe"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "Kyriale, Mass No. 15 for Weekdays in Christmas Season \"Dominator Deus\": Kyrie in Mode IV",
+                    "playcount": "0",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/2e37ce103fa70efd930a48e9aca65946fe925212"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:4YLrpBWrElLf7rg4013QHX"
+                  }
+                },
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d1c73239feb51458fef6a9b4",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d1c73239feb51458fef6a9b4",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d1c73239feb51458fef6a9b4",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Kyriale : Messes Nos. 15 & 16 (Mono Version)",
+                      "uri": "spotify:album:1AORM3mluVZAcU1HzCnDv1"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Anonymous"
+                          },
+                          "uri": "spotify:artist:4kCZ5nyurc9eIqLJfUcW0Y"
+                        },
+                        {
+                          "profile": {
+                            "name": "Chœur des Moines de l'Abbaye Saint-Pierre de Solesmes"
+                          },
+                          "uri": "spotify:artist:4SxLTtQN1cddSVmfDgLSa1"
+                        },
+                        {
+                          "profile": {
+                            "name": "Dom Joseph Gajard de l'ordre de Saint-Benoît"
+                          },
+                          "uri": "spotify:artist:7D618nuNDhtacCuDSpa7fe"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "Kyriale, Cantus ad libitum: Kyrie No. 9 in Mode VIII",
+                    "playcount": "0",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/8582ff21246c74a4be32239e3033cde65fb29bd6"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:5vMFyuucYKLmVqQWviOXLs"
+                  }
+                },
+                {
+                  "track": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d1c73239feb51458fef6a9b4",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d1c73239feb51458fef6a9b4",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d1c73239feb51458fef6a9b4",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Kyriale : Messes Nos. 15 & 16 (Mono Version)",
+                      "uri": "spotify:album:1AORM3mluVZAcU1HzCnDv1"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Anonymous"
+                          },
+                          "uri": "spotify:artist:4kCZ5nyurc9eIqLJfUcW0Y"
+                        },
+                        {
+                          "profile": {
+                            "name": "Chœur des Moines de l'Abbaye Saint-Pierre de Solesmes"
+                          },
+                          "uri": "spotify:artist:4SxLTtQN1cddSVmfDgLSa1"
+                        },
+                        {
+                          "profile": {
+                            "name": "Dom Joseph Gajard de l'ordre de Saint-Benoît"
+                          },
+                          "uri": "spotify:artist:7D618nuNDhtacCuDSpa7fe"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "name": "Kyriale, Mass No. 16 for Weekdays during Ordinary Time: Kyrie in Mode III",
+                    "playcount": "0",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/828a2cf39cbbd9c4ca23cae7bc69cd478cd79116"
+                          }
+                        ]
+                      }
+                    },
+                    "uri": "spotify:track:5WwyUbxTpgxmL29KdwauOu"
+                  }
+                }
+              ]
+            }
+          },
+          "goods": {
+            "concerts": {
+              "items": [],
+              "pagingInfo": {
+                "limit": 0
+              },
+              "totalCount": 0
+            }
+          },
+          "preReleaseV2": null,
+          "profile": {
+            "biography": {
+              "text": null
+            },
+            "externalLinks": {
+              "items": []
+            },
+            "name": "Dom Joseph Gajard de l'ordre de Saint-Benoît",
+            "playlistsV2": {
+              "items": []
+            }
+          },
+          "relatedContent": {
+            "appearsOn": {
+              "items": []
+            },
+            "featuringV2": {
+              "items": []
+            },
+            "relatedArtists": {
+              "items": [
+                {
+                  "profile": {
+                    "name": "The Monks of the Abbey of Rouen"
+                  },
+                  "uri": "spotify:artist:4u7I64JhJEGnhfE7APaUpM",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273dcbc1786b65e990584231ff0",
+                          "width": 640
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485120e67ad36e6250bf4e02f0e6",
+                          "width": 64
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02dcbc1786b65e990584231ff0",
+                          "width": 300
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Chœur de l'abbaye Saint-Pierre de Solesmes"
+                  },
+                  "uri": "spotify:artist:2AfelPqd7L4MEPPKMRN1pq",
+                  "visuals": {
+                    "avatarImage": null
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Coro Francescano di Assisi"
+                  },
+                  "uri": "spotify:artist:1vDrOYes1XTU6GK58Oaj8B",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27382e7d18657af734fe056408a",
+                          "width": 640
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485182e7d18657af734fe056408a",
+                          "width": 64
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0282e7d18657af734fe056408a",
+                          "width": 300
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "The Schola Cantorum Of The Church O.L.I.C."
+                  },
+                  "uri": "spotify:artist:3etYLBhM8BQuXJVtDLk0dI",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730dbd52ef09d5c3184affc847",
+                          "width": 640
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510dbd52ef09d5c3184affc847",
+                          "width": 64
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020dbd52ef09d5c3184affc847",
+                          "width": 300
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Chœur de l'abbaye d'Hauterive"
+                  },
+                  "uri": "spotify:artist:2JPLG1FJ9SzGcy0rEaxs6d",
+                  "visuals": {
+                    "avatarImage": null
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "David Nicholson"
+                  },
+                  "uri": "spotify:artist:1OsSWxTsOlNnUCng6TSqVU",
+                  "visuals": {
+                    "avatarImage": null
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Schola Cantorum del Pontificio Collegio Internazionale dei Benedettini di S. Anselmo in Roma"
+                  },
+                  "uri": "spotify:artist:19o8rYNmHULaRTG6xjyjBf",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27395f85f812847031760fb0087",
+                          "width": 640
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485195f85f812847031760fb0087",
+                          "width": 64
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0295f85f812847031760fb0087",
+                          "width": 300
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "profile": {
+                    "name": "Bénédictins de l'Abbaye de Solesme"
+                  },
+                  "uri": "spotify:artist:3GGw6B7IOV0cAnbHL50U6y",
+                  "visuals": {
+                    "avatarImage": {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f6481aacb1528bc72a5c53b0",
+                          "width": 640
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a29280aa1b85777533b9cf80",
+                          "width": 64
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f6481aacb1528bc72a5c53b0",
+                          "width": 300
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "relatedMusicVideos": {
+            "items": []
+          },
+          "stats": {
+            "followers": 6,
+            "monthlyListeners": 14
+          },
+          "uri": "spotify:artist:7D618nuNDhtacCuDSpa7fe",
+          "visuals": {
+            "avatarImage": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#D82010"
+                },
+                "colorRaw": {
+                  "hex": "#D82010"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048513416024d3fa3e1244605b06f",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e023416024d3fa3e1244605b06f",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2733416024d3fa3e1244605b06f",
+                  "width": 640
+                }
+              ]
+            }
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "artist": {
+        "7D618nuNDhtacCuDSpa7fe": [
+          {
+            "experimentId": "artist-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:artist:7D618nuNDhtacCuDSpa7fe"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicGroup",
+      "@id": "https://open.spotify.com/artist/7D618nuNDhtacCuDSpa7fe",
+      "url": "https://open.spotify.com/artist/7D618nuNDhtacCuDSpa7fe",
+      "name": "Dom Joseph Gajard de l'ordre de Saint-Benoît",
+      "description": "Listen to Dom Joseph Gajard de l'ordre de Saint-Benoît on Spotify. Artist · 14 monthly listeners.",
+      "datePublished": null,
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/artist/7D618nuNDhtacCuDSpa7fe?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/artist/7D618nuNDhtacCuDSpa7fe/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 228960,
+  "albumLinks": [
+    {
+      "id": "1AORM3mluVZAcU1HzCnDv1",
+      "label": "Kyriale : Messes Nos. 15 & 16 (Mono Version)  1962 • Album"
+    },
+    {
+      "id": "1AORM3mluVZAcU1HzCnDv1",
+      "label": "Kyriale : Messes Nos. 15 & 16 (Mono Version)  Album • 1962"
+    }
+  ]
+}

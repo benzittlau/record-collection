@@ -1,0 +1,1336 @@
+{
+  "url": "https://open.spotify.com/album/1ZlmYPqCKv7gOr0sTQLK1i",
+  "resolvedUrl": "https://open.spotify.com/album/1ZlmYPqCKv7gOr0sTQLK1i",
+  "fetchedAt": "2026-10-14T05:12:18Z",
+  "pageTitle": "Mose Alive! (Live) - Album by Mose Allison | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": false
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:album:1ZlmYPqCKv7gOr0sTQLK1i": {
+          "__typename": "Album",
+          "moreAlbumsByArtist": {
+            "items": [
+              {
+                "discography": {
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a5a81d52cb0b08dac8c0e457",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a5a81d52cb0b08dac8c0e457",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a5a81d52cb0b08dac8c0e457",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1962
+                        },
+                        "id": "58vFtbiyFPwDKwdhRI5D4V",
+                        "name": "I Don't Worry About A Thing",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:58vFtbiyFPwDKwdhRI5D4V"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02c389569c239e52db0d065376",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851c389569c239e52db0d065376",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273c389569c239e52db0d065376",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1957
+                        },
+                        "id": "0CeyHNnXvSDfk3y4V8z1sK",
+                        "name": "Local Color",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0CeyHNnXvSDfk3y4V8z1sK"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02674ea20072d1d6f7ad4cf06d",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851674ea20072d1d6f7ad4cf06d",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273674ea20072d1d6f7ad4cf06d",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2007
+                        },
+                        "id": "2gGyT3XsV20lQg1zy0w467",
+                        "name": "Mose Allison [2-fer]",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2gGyT3XsV20lQg1zy0w467"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02dd97f124f294fe39844f5ac9",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851dd97f124f294fe39844f5ac9",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273dd97f124f294fe39844f5ac9",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2013
+                        },
+                        "id": "1EQuNC0BbqyTe9zHNgfzfu",
+                        "name": "Creek Bank",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1EQuNC0BbqyTe9zHNgfzfu"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02b89c00e3e7685a97f485d4f1",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851b89c00e3e7685a97f485d4f1",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b89c00e3e7685a97f485d4f1",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1994
+                        },
+                        "id": "7FoSfRmES4D6tqnZrh4u6T",
+                        "name": "V-8 Ford Blues",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:7FoSfRmES4D6tqnZrh4u6T"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02d5d6cf749381c4eada180a6c",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851d5d6cf749381c4eada180a6c",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273d5d6cf749381c4eada180a6c",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1991
+                        },
+                        "id": "6Fe7ELZVZw5Qn3vdVtOvvF",
+                        "name": "Back Country Suite",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6Fe7ELZVZw5Qn3vdVtOvvF"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02aa10f13abafb925cd603f4aa",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851aa10f13abafb925cd603f4aa",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273aa10f13abafb925cd603f4aa",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1962
+                        },
+                        "id": "76wG7tE0g0bweDtPk16BdJ",
+                        "name": "Swingin' Machine",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:76wG7tE0g0bweDtPk16BdJ"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e025a944e4ceb17c4bb776ef621",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048515a944e4ceb17c4bb776ef621",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2735a944e4ceb17c4bb776ef621",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1961
+                        },
+                        "id": "4yJNMXba5kg0KRKWcTGs2C",
+                        "name": "Autumn Song",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4yJNMXba5kg0KRKWcTGs2C"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e024bb2e099b1d928f0e7a5c299",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048514bb2e099b1d928f0e7a5c299",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2734bb2e099b1d928f0e7a5c299",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2000
+                        },
+                        "id": "3r4vb8OGlN4sOzIp4uL5xg",
+                        "name": "Young Man Mose",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3r4vb8OGlN4sOzIp4uL5xg"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e021ef4dec51965d640052d23a9",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048511ef4dec51965d640052d23a9",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2731ef4dec51965d640052d23a9",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2005
+                        },
+                        "id": "4WllQFf49NqTnrQdWitFvc",
+                        "name": "Ramblin' With Mose",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:4WllQFf49NqTnrQdWitFvc"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "countryCode": "JP"
+              }
+            ]
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "© 1966 Atlantic Records",
+                "type": "C"
+              },
+              {
+                "text": "℗ 1966 Atlantic Records. Marketed by Rhino Entertainment Company, a Warner Music Group Company.",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#A06058"
+              },
+              "colorRaw": {
+                "hex": "#A06058"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485197891f97aca6ae269e3616ae",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0297891f97aca6ae269e3616ae",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27397891f97aca6ae269e3616ae",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 1,
+            "month": 1,
+            "year": 1966
+          },
+          "id": "1ZlmYPqCKv7gOr0sTQLK1i",
+          "isPreRelease": false,
+          "name": "Mose Alive! (Live)",
+          "preReleaseEndDateTime": null,
+          "type": "ALBUM",
+          "uri": "spotify:album:1ZlmYPqCKv7gOr0sTQLK1i",
+          "tracksV2": {
+            "items": [
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 146853
+                  },
+                  "id": "25ZHszkq4yCShsVmQpaezk",
+                  "name": "Smashed - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/4ad0bea824a7a96232cbbb7eae7a8e2eff060805"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 147533
+                      },
+                      "name": "Smashed - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/4ad0bea824a7a96232cbbb7eae7a8e2eff060805"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:590Ul4gguRnH08oyMtMIP0"
+                    }
+                  },
+                  "trackNumber": 1,
+                  "uri": "spotify:track:25ZHszkq4yCShsVmQpaezk"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 154441
+                  },
+                  "id": "5PPIBUSBvxpRPbWFmvAxAM",
+                  "name": "Seventh Son - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/ff58486723c4388c5397fb16dbf1430f9c7849b3"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 156026
+                      },
+                      "name": "Seventh Son - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/ff58486723c4388c5397fb16dbf1430f9c7849b3"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:1BQgKzx9mzJE5MpdCIOBpP"
+                    }
+                  },
+                  "trackNumber": 2,
+                  "uri": "spotify:track:5PPIBUSBvxpRPbWFmvAxAM"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 222358
+                  },
+                  "id": "6sI5nQkmOPyM9l82EmHFxu",
+                  "name": "Fool's Paradise - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/db069fdf2bdbfb7028b830b3fc843acd5f260a2d"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 223919
+                      },
+                      "name": "Fool's Paradise - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/db069fdf2bdbfb7028b830b3fc843acd5f260a2d"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:4DrLGr9ARfUE7wEVgU4z7h"
+                    }
+                  },
+                  "trackNumber": 3,
+                  "uri": "spotify:track:6sI5nQkmOPyM9l82EmHFxu"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 151712
+                  },
+                  "id": "5v0gIO1GljYfXdjrW87jgf",
+                  "name": "I Love the Life I Live - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/2fe71cb30f4b62a06aaea8c35256d98bbbec04c0"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 153600
+                      },
+                      "name": "I Love the Life I Live - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/2fe71cb30f4b62a06aaea8c35256d98bbbec04c0"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:6SewtTvtaKmKPv3pI3LVMe"
+                    }
+                  },
+                  "trackNumber": 4,
+                  "uri": "spotify:track:5v0gIO1GljYfXdjrW87jgf"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 174439
+                  },
+                  "id": "1n8VYgPijyViZAgE4QzY8c",
+                  "name": "Since I Fell for You - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/987eda58c0c155662582c843146bf91cd8837acb"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 174666
+                      },
+                      "name": "Since I Fell for You - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/987eda58c0c155662582c843146bf91cd8837acb"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:0If9tm4sIyAvavoMtbUR8c"
+                    }
+                  },
+                  "trackNumber": 5,
+                  "uri": "spotify:track:1n8VYgPijyViZAgE4QzY8c"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 333452
+                  },
+                  "id": "3tr11k0ooJdzixOpjwm6jL",
+                  "name": "Love for Sale - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/888517d3aeb67202ef632766c03995590edda539"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 324200
+                      },
+                      "name": "Love for Sale - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/888517d3aeb67202ef632766c03995590edda539"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:5QtXFWmLnVrdrhgmguDQXa"
+                    }
+                  },
+                  "trackNumber": 6,
+                  "uri": "spotify:track:3tr11k0ooJdzixOpjwm6jL"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 165374
+                  },
+                  "id": "2nPMMiRkWJJlUkUofiZSBz",
+                  "name": "Baby, Please Don't Go - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/0b8af2d56cb5ade82dfbeccfcd384e03b7f0a35e"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 166026
+                      },
+                      "name": "Baby, Please Don't Go - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/0b8af2d56cb5ade82dfbeccfcd384e03b7f0a35e"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:4yTyY6A0VMmJS38od2LZOY"
+                    }
+                  },
+                  "trackNumber": 7,
+                  "uri": "spotify:track:2nPMMiRkWJJlUkUofiZSBz"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 151606
+                  },
+                  "id": "7wu0ovE6lKyBC3HDbkSUd7",
+                  "name": "That's Alright - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/c5e12b120728cb441a93ff1361177300afbbb191"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 153066
+                      },
+                      "name": "That's Alright - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/c5e12b120728cb441a93ff1361177300afbbb191"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:6bl5wTA41X67StNCg03XAP"
+                    }
+                  },
+                  "trackNumber": 8,
+                  "uri": "spotify:track:7wu0ovE6lKyBC3HDbkSUd7"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 197815
+                  },
+                  "id": "0TPBCraFGrZAOFRYCMnLAW",
+                  "name": "Parchman Farm - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/4843fef7266b27238b451480910ce80a8d461abf"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 198866
+                      },
+                      "name": "Parchman Farm - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/4843fef7266b27238b451480910ce80a8d461abf"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:4xSEXmE1eNcSvXodZUZX0y"
+                    }
+                  },
+                  "trackNumber": 9,
+                  "uri": "spotify:track:0TPBCraFGrZAOFRYCMnLAW"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 153141
+                  },
+                  "id": "2n184QiPKger5U4W6Ram1G",
+                  "name": "Tell Me Something - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/bd541f636f37bfd3376a2e1e35717dfccc047665"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 155066
+                      },
+                      "name": "Tell Me Something - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/bd541f636f37bfd3376a2e1e35717dfccc047665"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:0RPLfqfHUeRqsqZf25X7jh"
+                    }
+                  },
+                  "trackNumber": 10,
+                  "uri": "spotify:track:2n184QiPKger5U4W6Ram1G"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Mose Allison"
+                        },
+                        "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 418919
+                  },
+                  "id": "20UaIiAey4pSLokEVHHujd",
+                  "name": "The Chaser - Live Version",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/d5e500d47771eec25c2fa6f5562e96e98686ac44"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 412040
+                      },
+                      "name": "The Chaser - Live Version",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": [
+                            {
+                              "url": "https://p.scdn.co/mp3-preview/d5e500d47771eec25c2fa6f5562e96e98686ac44"
+                            }
+                          ]
+                        }
+                      },
+                      "uri": "spotify:track:0RBGuSuUyrI6pLntbZTLbq"
+                    }
+                  },
+                  "trackNumber": 11,
+                  "uri": "spotify:track:20UaIiAey4pSLokEVHHujd"
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null,
+              "offset": 0
+            },
+            "totalCount": 11
+          },
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Mose Allison"
+                },
+                "stats": {
+                  "monthlyListeners": 126512
+                },
+                "uri": "spotify:artist:0sN4enVJwylJKEXZlSbgsm",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6772690000dd227c44852bb5f6cb05561efcca",
+                        "width": 640
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67726900008f747c44852bb5f6cb05561efcca",
+                        "width": 64
+                      },
+                      {
+                        "height": 200,
+                        "url": "https://i.scdn.co/image/ab6772690000bac37c44852bb5f6cb05561efcca",
+                        "width": 200
+                      },
+                      {
+                        "height": 1000,
+                        "url": "https://i.scdn.co/image/ab6772690000c46c7c44852bb5f6cb05561efcca",
+                        "width": 1000
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "album": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicAlbum",
+      "@id": "https://open.spotify.com/album/1ZlmYPqCKv7gOr0sTQLK1i",
+      "url": "https://open.spotify.com/album/1ZlmYPqCKv7gOr0sTQLK1i",
+      "name": "Mose Alive! (Live)",
+      "description": "Listen to Mose Alive! (Live) on Spotify · album · Mose Allison · 1966 · 11 songs",
+      "datePublished": "1966-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/album/1ZlmYPqCKv7gOr0sTQLK1i?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/album/1ZlmYPqCKv7gOr0sTQLK1i/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 247213,
+  "albumLinks": [
+    {
+      "id": "58vFtbiyFPwDKwdhRI5D4V",
+      "label": "I Don't Worry About A Thing  Album • 1962"
+    },
+    {
+      "id": "0CeyHNnXvSDfk3y4V8z1sK",
+      "label": "Local Color  Album • 1957"
+    },
+    {
+      "id": "2gGyT3XsV20lQg1zy0w467",
+      "label": "Mose Allison [2-fer]  Album • 2007"
+    },
+    {
+      "id": "1EQuNC0BbqyTe9zHNgfzfu",
+      "label": "Creek Bank  Album • 2013"
+    },
+    {
+      "id": "7FoSfRmES4D6tqnZrh4u6T",
+      "label": "V-8 Ford Blues  Album • 1994"
+    },
+    {
+      "id": "6Fe7ELZVZw5Qn3vdVtOvvF",
+      "label": "Back Country Suite  Album • 1991"
+    },
+    {
+      "id": "76wG7tE0g0bweDtPk16BdJ",
+      "label": "Swingin' Machine  Album • 1962"
+    },
+    {
+      "id": "4yJNMXba5kg0KRKWcTGs2C",
+      "label": "Autumn Song  Album • 1961"
+    },
+    {
+      "id": "3r4vb8OGlN4sOzIp4uL5xg",
+      "label": "Young Man Mose  Album • 2000"
+    },
+    {
+      "id": "4WllQFf49NqTnrQdWitFvc",
+      "label": "Ramblin' With Mose  Album • 2005"
+    }
+  ]
+}

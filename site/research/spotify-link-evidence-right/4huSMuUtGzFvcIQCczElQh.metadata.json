@@ -1,0 +1,3442 @@
+{
+  "url": "https://open.spotify.com/track/4huSMuUtGzFvcIQCczElQh",
+  "resolvedUrl": "https://open.spotify.com/track/4huSMuUtGzFvcIQCczElQh",
+  "fetchedAt": "2026-10-14T05:10:57Z",
+  "pageTitle": "Dear Father - song and lyrics by Yes | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:4huSMuUtGzFvcIQCczElQh": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "© 1974 Atlantic Recording Corp. for the US and WEA International for the world outside the US.",
+                  "type": "C"
+                },
+                {
+                  "text": "℗ 1974 Atlantic Recording Corp., manufactured and marketed by Rhino Entertainment Company, a Warner Music Group company",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#385078"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048513f60c754a8c6912fe698ba5e",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e023f60c754a8c6912fe698ba5e",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2733f60c754a8c6912fe698ba5e",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 1,
+              "month": 1,
+              "year": 1975
+            },
+            "isPreRelease": false,
+            "name": "Yesterdays",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7AC976RDJzL2asmZuz7qil",
+                          "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                          "profile": {
+                            "name": "Yes"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0xwX5mzcJGzjDo0WRYd088",
+                    "name": "America",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:0xwX5mzcJGzjDo0WRYd088",
+                    "duration": {
+                      "totalMilliseconds": 632333
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7AC976RDJzL2asmZuz7qil",
+                          "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                          "profile": {
+                            "name": "Yes"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6gKrTdNTBhIS9BHSX0OO6N",
+                    "name": "Looking Around",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:6gKrTdNTBhIS9BHSX0OO6N",
+                    "duration": {
+                      "totalMilliseconds": 244600
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7AC976RDJzL2asmZuz7qil",
+                          "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                          "profile": {
+                            "name": "Yes"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7ja6kw9mMLUgHNHsnamQS9",
+                    "name": "Time and a Word",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:7ja6kw9mMLUgHNHsnamQS9",
+                    "duration": {
+                      "totalMilliseconds": 273866
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7AC976RDJzL2asmZuz7qil",
+                          "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                          "profile": {
+                            "name": "Yes"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3TUhdTZWJAM2XRkFpo8Zm8",
+                    "name": "Sweet Dreams",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:3TUhdTZWJAM2XRkFpo8Zm8",
+                    "duration": {
+                      "totalMilliseconds": 230373
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7AC976RDJzL2asmZuz7qil",
+                          "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                          "profile": {
+                            "name": "Yes"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "036ueijnNTIojKbHkx2q5O",
+                    "name": "Then",
+                    "trackNumber": 5,
+                    "uri": "spotify:track:036ueijnNTIojKbHkx2q5O",
+                    "duration": {
+                      "totalMilliseconds": 349266
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7AC976RDJzL2asmZuz7qil",
+                          "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                          "profile": {
+                            "name": "Yes"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "52NG2U1k1qArgcxjokyVpT",
+                    "name": "Survival",
+                    "trackNumber": 6,
+                    "uri": "spotify:track:52NG2U1k1qArgcxjokyVpT",
+                    "duration": {
+                      "totalMilliseconds": 382333
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7AC976RDJzL2asmZuz7qil",
+                          "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                          "profile": {
+                            "name": "Yes"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2rSmBfdq7wMtkVwdOS4nXO",
+                    "name": "Astral Traveller",
+                    "trackNumber": 7,
+                    "uri": "spotify:track:2rSmBfdq7wMtkVwdOS4nXO",
+                    "duration": {
+                      "totalMilliseconds": 354080
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "7AC976RDJzL2asmZuz7qil",
+                          "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                          "profile": {
+                            "name": "Yes"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4huSMuUtGzFvcIQCczElQh",
+                    "name": "Dear Father",
+                    "trackNumber": 8,
+                    "uri": "spotify:track:4huSMuUtGzFvcIQCczElQh",
+                    "duration": {
+                      "totalMilliseconds": 252933
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "COMPILATION",
+            "uri": "spotify:album:1TEHDLJNEFZzXlmmtGGfnk"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0219a65f64281110182d90eec2",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485119a65f64281110182d90eec2",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27319a65f64281110182d90eec2",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "6naxNXC4T3Kb7kAENiQ3eB",
+                              "name": "Aurora (Deluxe Edition)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:6naxNXC4T3Kb7kAENiQ3eB"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02cc2d7f7981b4373fb039aa0f",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851cc2d7f7981b4373fb039aa0f",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273cc2d7f7981b4373fb039aa0f",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "3xGbStrCsniIAMHDk88aoH",
+                              "name": "Roosevelt Stadium, Jersey City, NJ, 17 June 1976 (Live)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:3xGbStrCsniIAMHDk88aoH"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0247611d604ee4e051182900d3",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485147611d604ee4e051182900d3",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27347611d604ee4e051182900d3",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "5TDltjAh03cwDinX4SXwnR",
+                              "name": "Aurora (Bonus Tracks Edition)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:5TDltjAh03cwDinX4SXwnR"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02926ff342ca2d7035011e052d",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851926ff342ca2d7035011e052d",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273926ff342ca2d7035011e052d",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "43GYHKcDsX1iO3KTwPwyfo",
+                              "name": "From A Page",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:43GYHKcDsX1iO3KTwPwyfo"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02f63fa1c458f4119d0ed1ec7b",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851f63fa1c458f4119d0ed1ec7b",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273f63fa1c458f4119d0ed1ec7b",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "4m6VPHNL1niVyCbdDU3f80",
+                              "name": "Fly From Here - Complete Return Trip",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:4m6VPHNL1niVyCbdDU3f80"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02faa7613b68464503967577bc",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851faa7613b68464503967577bc",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273faa7613b68464503967577bc",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2025
+                              },
+                              "id": "6L8htyDVdUhN5lyDNFIeU9",
+                              "name": "Fly From Here - Return Trip (Instrumental Edition)",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:6L8htyDVdUhN5lyDNFIeU9"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e022527c93491d39fe7e95b95ac",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048512527c93491d39fe7e95b95ac",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2732527c93491d39fe7e95b95ac",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1983
+                        },
+                        "id": "6nNlTIiFd3J06W0rJiiwlz",
+                        "name": "90125 (Deluxe Version)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6nNlTIiFd3J06W0rJiiwlz"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e025b6ff520a41ff9b0f29f701e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048515b6ff520a41ff9b0f29f701e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2735b6ff520a41ff9b0f29f701e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1971
+                        },
+                        "id": "78tN6vBPHHyNk4sZYnS5X4",
+                        "name": "Fragile (Super Deluxe)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:78tN6vBPHHyNk4sZYnS5X4"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0262d739bbd67dc11b81785dc5",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485162d739bbd67dc11b81785dc5",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27362d739bbd67dc11b81785dc5",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1987
+                        },
+                        "id": "1tlsJPpfTZA7Z9o091Ylkk",
+                        "name": "Big Generator",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1tlsJPpfTZA7Z9o091Ylkk"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02593f4d2b1bcf28ac44459ddf",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851593f4d2b1bcf28ac44459ddf",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273593f4d2b1bcf28ac44459ddf",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1972
+                        },
+                        "id": "1uXol4dKqzMsUiqvHpwhZh",
+                        "name": "Close to the Edge (Super Deluxe Edition)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1uXol4dKqzMsUiqvHpwhZh"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a87828118f6c39a6e9257d3e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a87828118f6c39a6e9257d3e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a87828118f6c39a6e9257d3e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1971
+                        },
+                        "id": "5fzq6dBmRtfrqpVNpuEbJB",
+                        "name": "The Yes Album (Super Deluxe Edition)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5fzq6dBmRtfrqpVNpuEbJB"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02fff6321a79c0ba5e4e7f5125",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851fff6321a79c0ba5e4e7f5125",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273fff6321a79c0ba5e4e7f5125",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1977
+                        },
+                        "id": "2U4JHXMiBxsKH4dnYEQg2g",
+                        "name": "Going for the One (Deluxe Edition)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2U4JHXMiBxsKH4dnYEQg2g"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02962228cbd0f3ee35765617a7",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851962228cbd0f3ee35765617a7",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273962228cbd0f3ee35765617a7",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "626Aa4hxlYpnzSBSWh0v9t",
+                              "name": "Roundabout (Live at Roosevelt Stadium, Jersey City, NJ, 6/17/1976)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:626Aa4hxlYpnzSBSWh0v9t"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02876fc35f3723b0a4e5d11b27",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851876fc35f3723b0a4e5d11b27",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273876fc35f3723b0a4e5d11b27",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "4TWNosT1xKToVL3bYooutL",
+                              "name": "Turnaround Situation",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:4TWNosT1xKToVL3bYooutL"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02789d79ca575bd821ed345a36",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851789d79ca575bd821ed345a36",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273789d79ca575bd821ed345a36",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "0cFAAQrwE6bzh9AHQF3CA8",
+                              "name": "Aurora",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:0cFAAQrwE6bzh9AHQF3CA8"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02b89b049727eb1cf009f3dbff",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851b89b049727eb1cf009f3dbff",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273b89b049727eb1cf009f3dbff",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "2C1Jetr8bBINOg18Jt704k",
+                              "name": "Ritual (Nous Sommes Du Soliel) [Single Edit 2] [2026 Remaster]",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:2C1Jetr8bBINOg18Jt704k"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0214342b10653639b14e747c6d",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485114342b10653639b14e747c6d",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27314342b10653639b14e747c6d",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "1iBXGxKkeqdUYmGoRzaAvq",
+                              "name": "The Ancient (Giants Under the Sun) [Single Edit] [2026 Remaster]",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:1iBXGxKkeqdUYmGoRzaAvq"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02bb05ca95bb04535701005fa6",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851bb05ca95bb04535701005fa6",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273bb05ca95bb04535701005fa6",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2025
+                              },
+                              "id": "2CEUzzZqVZwO1DLIkr7g2Q",
+                              "name": "The Remembering (High the Memory) [Single Edit] [2026 Remaster]",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:2CEUzzZqVZwO1DLIkr7g2Q"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e022527c93491d39fe7e95b95ac",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048512527c93491d39fe7e95b95ac",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2732527c93491d39fe7e95b95ac",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "90125 (Deluxe Version)",
+                            "uri": "spotify:album:6nNlTIiFd3J06W0rJiiwlz"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                                "profile": {
+                                  "name": "Yes"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "0GTK6TesV108Jj5D3MHsYb",
+                          "name": "Owner of a Lonely Heart",
+                          "playcount": "412029048",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/bad9a44db930e3f283d9ca08bfe182aab326324b"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:0GTK6TesV108Jj5D3MHsYb",
+                          "duration": {
+                            "totalMilliseconds": 268506
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e025b6ff520a41ff9b0f29f701e",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048515b6ff520a41ff9b0f29f701e",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2735b6ff520a41ff9b0f29f701e",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Fragile (Super Deluxe)",
+                            "uri": "spotify:album:78tN6vBPHHyNk4sZYnS5X4"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                                "profile": {
+                                  "name": "Yes"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "466C6kwoJHLUJ8VHG98hCY",
+                          "name": "Roundabout - 2024 Remaster",
+                          "playcount": "179126680",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/be6aada77a213e7b9604922ad989de795567b620"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:466C6kwoJHLUJ8VHG98hCY",
+                          "duration": {
+                            "totalMilliseconds": 516245
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02a87828118f6c39a6e9257d3e",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851a87828118f6c39a6e9257d3e",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273a87828118f6c39a6e9257d3e",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "The Yes Album (Super Deluxe Edition)",
+                            "uri": "spotify:album:5fzq6dBmRtfrqpVNpuEbJB"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                                "profile": {
+                                  "name": "Yes"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "4bXpFlexW1WT8ThgO2JOxY",
+                          "name": "I've Seen All Good People: Your Move / All Good People - 2023 Remaster",
+                          "playcount": "44751791",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/dec943023bba30c31b42e28809334abd54b176ae"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:4bXpFlexW1WT8ThgO2JOxY",
+                          "duration": {
+                            "totalMilliseconds": 416880
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e022527c93491d39fe7e95b95ac",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048512527c93491d39fe7e95b95ac",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2732527c93491d39fe7e95b95ac",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "90125 (Deluxe Version)",
+                            "uri": "spotify:album:6nNlTIiFd3J06W0rJiiwlz"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                                "profile": {
+                                  "name": "Yes"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "6eKPSagnVU7gygR8Dm132W",
+                          "name": "Changes",
+                          "playcount": "21051021",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/a7e50a5fdfd5b0b7b714fa87bbd0e16587fb9108"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:6eKPSagnVU7gygR8Dm132W",
+                          "duration": {
+                            "totalMilliseconds": 380120
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "3CkvROUTQ6nRi9yQOcsB50",
+                        "profile": {
+                          "name": "Genesis"
+                        },
+                        "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eba6a5c327ebbc1131effef2e0",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178a6a5c327ebbc1131effef2e0",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174a6a5c327ebbc1131effef2e0",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "67ea9eGLXYMsO2eYQRui3w",
+                        "profile": {
+                          "name": "The Who"
+                        },
+                        "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6772690000dd22456d5397bdf11547ef38ca93",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67726900008f74456d5397bdf11547ef38ca93",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/ab6772690000bac3456d5397bdf11547ef38ca93",
+                                "width": 200
+                              },
+                              {
+                                "height": 1000,
+                                "url": "https://i.scdn.co/image/ab6772690000c46c456d5397bdf11547ef38ca93",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2m62cc253Xvd9qYQ8d2X3d",
+                        "profile": {
+                          "name": "The Alan Parsons Project"
+                        },
+                        "uri": "spotify:artist:2m62cc253Xvd9qYQ8d2X3d",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 658,
+                                "url": "https://i.scdn.co/image/112b078d34b51f977720805963334611383ee1c1",
+                                "width": 640
+                              },
+                              {
+                                "height": 66,
+                                "url": "https://i.scdn.co/image/50beb6c019cacb758e07f102168add254b0acd18",
+                                "width": 64
+                              },
+                              {
+                                "height": 206,
+                                "url": "https://i.scdn.co/image/63e9f6ec84b77cd5d8631c7d6e9c2f3273693254",
+                                "width": 200
+                              },
+                              {
+                                "height": 1028,
+                                "url": "https://i.scdn.co/image/3e90d18b7375a0e78340d23f72822646c4cc3b70",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2Hkut4rAAyrQxRdof7FVJq",
+                        "profile": {
+                          "name": "Rush"
+                        },
+                        "uri": "spotify:artist:2Hkut4rAAyrQxRdof7FVJq",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb896c4b043fb3063178afd716",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178896c4b043fb3063178afd716",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174896c4b043fb3063178afd716",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "3JsMj0DEzyWc0VDlHuy9Bx",
+                        "profile": {
+                          "name": "Supertramp"
+                        },
+                        "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 625,
+                                "url": "https://i.scdn.co/image/b0183fa5aa1cc1f8972bf49e2fc0ecce6bdb184d",
+                                "width": 640
+                              },
+                              {
+                                "height": 63,
+                                "url": "https://i.scdn.co/image/c835c0c90dde46223c23ed9a01b9671e174de708",
+                                "width": 64
+                              },
+                              {
+                                "height": 195,
+                                "url": "https://i.scdn.co/image/52dfb5d8e545c42dfe97cbb2f9ebe825799c60b1",
+                                "width": 200
+                              },
+                              {
+                                "height": 977,
+                                "url": "https://i.scdn.co/image/eebed895cad509b17c7c6faf47f21f1fc35e8829",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "36QJpDe2go2KgaRleHCDTp",
+                        "profile": {
+                          "name": "Led Zeppelin"
+                        },
+                        "uri": "spotify:artist:36QJpDe2go2KgaRleHCDTp",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 600,
+                                "url": "https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e",
+                                "width": 600
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/16eb3cdae0d824b520ac17710e943a99d3ef6602",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/b0248a44865493e6a03832aa89854ada16ff07a8",
+                                "width": 200
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "7AC976RDJzL2asmZuz7qil",
+                "profile": {
+                  "name": "Yes"
+                },
+                "stats": {
+                  "monthlyListeners": 4915770
+                },
+                "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb6c988e753a5ad072bc7731fc",
+                        "width": 640
+                      },
+                      {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1786c988e753a5ad072bc7731fc",
+                        "width": 160
+                      },
+                      {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051746c988e753a5ad072bc7731fc",
+                        "width": 320
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "__typename": "Market",
+                "countryCode": "AR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MX"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ES"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "US"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ID"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "QA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "OM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ME"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BF"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ML"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "WS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ST"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ET"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 252933
+          },
+          "id": "4huSMuUtGzFvcIQCczElQh",
+          "mediaType": "AUDIO",
+          "name": "Dear Father",
+          "playability": {
+            "playable": true
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/b0f8657443262256d08e51961d7cf58da8c172dd"
+                }
+              ]
+            }
+          },
+          "trackNumber": 8,
+          "uri": "spotify:track:4huSMuUtGzFvcIQCczElQh"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "4huSMuUtGzFvcIQCczElQh": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:4huSMuUtGzFvcIQCczElQh"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021373b065300f97397fda16d7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511373b065300f97397fda16d7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731373b065300f97397fda16d7",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "6k3pRlamC3srUePKSlUaxJ",
+              "name": "Time and a Word (Expanded)",
+              "uri": "spotify:album:6k3pRlamC3srUePKSlUaxJ"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7AC976RDJzL2asmZuz7qil",
+                  "profile": {
+                    "name": "Yes"
+                  },
+                  "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                }
+              ]
+            },
+            "id": "7a6f0VJvrakaFFnID5VtlF",
+            "name": "No Opportunity Necessary, No Experience Needed - 2003 Remaster",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/ed1cfe445cc80215246bcdd9d7d91958b121accd"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:7a6f0VJvrakaFFnID5VtlF"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029822f8f10f413de9b268605a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519822f8f10f413de9b268605a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739822f8f10f413de9b268605a",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "7wCflCoMEA9L7hIP65mfN3",
+              "name": "Yes (Deluxe Edition)",
+              "uri": "spotify:album:7wCflCoMEA9L7hIP65mfN3"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7AC976RDJzL2asmZuz7qil",
+                  "profile": {
+                    "name": "Yes"
+                  },
+                  "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                }
+              ]
+            },
+            "id": "00T8JtwE2gJ0dhirtOiT5u",
+            "name": "Survival - 2003 Remaster",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/9554c44cb84e487bbf0b085d028db956b92208ac"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:00T8JtwE2gJ0dhirtOiT5u"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021373b065300f97397fda16d7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511373b065300f97397fda16d7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731373b065300f97397fda16d7",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "6k3pRlamC3srUePKSlUaxJ",
+              "name": "Time and a Word (Expanded)",
+              "uri": "spotify:album:6k3pRlamC3srUePKSlUaxJ"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7AC976RDJzL2asmZuz7qil",
+                  "profile": {
+                    "name": "Yes"
+                  },
+                  "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                }
+              ]
+            },
+            "id": "1mLj63eGvkpglzbxU5leAe",
+            "name": "The Prophet - 2003 Remaster",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/8dda6caf3e30e319cbd800974412389decc5c306"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:1mLj63eGvkpglzbxU5leAe"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029822f8f10f413de9b268605a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519822f8f10f413de9b268605a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739822f8f10f413de9b268605a",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "7wCflCoMEA9L7hIP65mfN3",
+              "name": "Yes (Deluxe Edition)",
+              "uri": "spotify:album:7wCflCoMEA9L7hIP65mfN3"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7AC976RDJzL2asmZuz7qil",
+                  "profile": {
+                    "name": "Yes"
+                  },
+                  "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                }
+              ]
+            },
+            "id": "3hYHrVsxGaMFktxbOue1px",
+            "name": "Looking Around - 2003 Remaster",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/5522b455795efe40dc8634e3561fb6ccfcae739e"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:3hYHrVsxGaMFktxbOue1px"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029822f8f10f413de9b268605a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519822f8f10f413de9b268605a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739822f8f10f413de9b268605a",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "7wCflCoMEA9L7hIP65mfN3",
+              "name": "Yes (Deluxe Edition)",
+              "uri": "spotify:album:7wCflCoMEA9L7hIP65mfN3"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7AC976RDJzL2asmZuz7qil",
+                  "profile": {
+                    "name": "Yes"
+                  },
+                  "uri": "spotify:artist:7AC976RDJzL2asmZuz7qil"
+                }
+              ]
+            },
+            "id": "0oqhBEpOVgV1rnyWwaOKlm",
+            "name": "Harold Land - 2003 Remaster",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/a65f65cf6451c8b50b4ae9eebc4564b226940d25"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:0oqhBEpOVgV1rnyWwaOKlm"
+          }
+        ],
+        "uri": "spotify:track:4huSMuUtGzFvcIQCczElQh",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e021373b065300f97397fda16d7",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048511373b065300f97397fda16d7",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2731373b065300f97397fda16d7",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1970
+            },
+            "id": "6k3pRlamC3srUePKSlUaxJ",
+            "name": "Time and a Word (Expanded)",
+            "type": "ALBUM",
+            "uri": "spotify:album:6k3pRlamC3srUePKSlUaxJ"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e022d7837659398f964608225c0",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048512d7837659398f964608225c0",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2732d7837659398f964608225c0",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1978
+            },
+            "id": "6DMU0YvLjgcpHddObNP8A6",
+            "name": "Tormato (Deluxe Edition)",
+            "type": "ALBUM",
+            "uri": "spotify:album:6DMU0YvLjgcpHddObNP8A6"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e022ac13cc406daca534d18c26d",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048512ac13cc406daca534d18c26d",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2732ac13cc406daca534d18c26d",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1973
+            },
+            "id": "4kn7nw5uHF6T9biAX5qcrW",
+            "name": "Tales from Topographic Oceans (Deluxe Edition)",
+            "type": "ALBUM",
+            "uri": "spotify:album:4kn7nw5uHF6T9biAX5qcrW"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02243e50a2b19ee327b90c00cc",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851243e50a2b19ee327b90c00cc",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273243e50a2b19ee327b90c00cc",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1971
+            },
+            "id": "5yByhxbOs8FOU2UutO7AGO",
+            "name": "Tarkus",
+            "type": "ALBUM",
+            "uri": "spotify:album:5yByhxbOs8FOU2UutO7AGO"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02472c5d019c4b28f369ef9f36",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851472c5d019c4b28f369ef9f36",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273472c5d019c4b28f369ef9f36",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1975
+            },
+            "id": "15UcGyiZaQujbZ2n8ACJ5y",
+            "name": "Free Hand",
+            "type": "ALBUM",
+            "uri": "spotify:album:15UcGyiZaQujbZ2n8ACJ5y"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02697c5404755ec0a2db78c0ed",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851697c5404755ec0a2db78c0ed",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273697c5404755ec0a2db78c0ed",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2001
+            },
+            "id": "3vBzAbVxwIWdrOpVTYxecO",
+            "name": "Magnification",
+            "type": "ALBUM",
+            "uri": "spotify:album:3vBzAbVxwIWdrOpVTYxecO"
+          }
+        ],
+        "uri": "spotify:track:4huSMuUtGzFvcIQCczElQh",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/4huSMuUtGzFvcIQCczElQh",
+      "url": "https://open.spotify.com/track/4huSMuUtGzFvcIQCczElQh",
+      "name": "Dear Father",
+      "description": "Listen to Dear Father on Spotify. Song · Yes · 1975",
+      "datePublished": "1975-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/4huSMuUtGzFvcIQCczElQh?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/4huSMuUtGzFvcIQCczElQh/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": [
+            {
+              "@type": "Country",
+              "name": "AR"
+            },
+            {
+              "@type": "Country",
+              "name": "AU"
+            },
+            {
+              "@type": "Country",
+              "name": "AT"
+            },
+            {
+              "@type": "Country",
+              "name": "BE"
+            },
+            {
+              "@type": "Country",
+              "name": "BO"
+            },
+            {
+              "@type": "Country",
+              "name": "BR"
+            },
+            {
+              "@type": "Country",
+              "name": "BG"
+            },
+            {
+              "@type": "Country",
+              "name": "CA"
+            },
+            {
+              "@type": "Country",
+              "name": "CL"
+            },
+            {
+              "@type": "Country",
+              "name": "CO"
+            },
+            {
+              "@type": "Country",
+              "name": "CR"
+            },
+            {
+              "@type": "Country",
+              "name": "CY"
+            },
+            {
+              "@type": "Country",
+              "name": "CZ"
+            },
+            {
+              "@type": "Country",
+              "name": "DK"
+            },
+            {
+              "@type": "Country",
+              "name": "DO"
+            },
+            {
+              "@type": "Country",
+              "name": "DE"
+            },
+            {
+              "@type": "Country",
+              "name": "EC"
+            },
+            {
+              "@type": "Country",
+              "name": "EE"
+            },
+            {
+              "@type": "Country",
+              "name": "SV"
+            },
+            {
+              "@type": "Country",
+              "name": "FI"
+            },
+            {
+              "@type": "Country",
+              "name": "FR"
+            },
+            {
+              "@type": "Country",
+              "name": "GR"
+            },
+            {
+              "@type": "Country",
+              "name": "GT"
+            },
+            {
+              "@type": "Country",
+              "name": "HN"
+            },
+            {
+              "@type": "Country",
+              "name": "HK"
+            },
+            {
+              "@type": "Country",
+              "name": "HU"
+            },
+            {
+              "@type": "Country",
+              "name": "IS"
+            },
+            {
+              "@type": "Country",
+              "name": "IE"
+            },
+            {
+              "@type": "Country",
+              "name": "IT"
+            },
+            {
+              "@type": "Country",
+              "name": "LV"
+            },
+            {
+              "@type": "Country",
+              "name": "LT"
+            },
+            {
+              "@type": "Country",
+              "name": "LU"
+            },
+            {
+              "@type": "Country",
+              "name": "MY"
+            },
+            {
+              "@type": "Country",
+              "name": "MT"
+            },
+            {
+              "@type": "Country",
+              "name": "MX"
+            },
+            {
+              "@type": "Country",
+              "name": "NL"
+            },
+            {
+              "@type": "Country",
+              "name": "NZ"
+            },
+            {
+              "@type": "Country",
+              "name": "NI"
+            },
+            {
+              "@type": "Country",
+              "name": "NO"
+            },
+            {
+              "@type": "Country",
+              "name": "PA"
+            },
+            {
+              "@type": "Country",
+              "name": "PY"
+            },
+            {
+              "@type": "Country",
+              "name": "PE"
+            },
+            {
+              "@type": "Country",
+              "name": "PH"
+            },
+            {
+              "@type": "Country",
+              "name": "PL"
+            },
+            {
+              "@type": "Country",
+              "name": "PT"
+            },
+            {
+              "@type": "Country",
+              "name": "SG"
+            },
+            {
+              "@type": "Country",
+              "name": "SK"
+            },
+            {
+              "@type": "Country",
+              "name": "ES"
+            },
+            {
+              "@type": "Country",
+              "name": "SE"
+            },
+            {
+              "@type": "Country",
+              "name": "CH"
+            },
+            {
+              "@type": "Country",
+              "name": "TW"
+            },
+            {
+              "@type": "Country",
+              "name": "TR"
+            },
+            {
+              "@type": "Country",
+              "name": "UY"
+            },
+            {
+              "@type": "Country",
+              "name": "US"
+            },
+            {
+              "@type": "Country",
+              "name": "GB"
+            },
+            {
+              "@type": "Country",
+              "name": "AD"
+            },
+            {
+              "@type": "Country",
+              "name": "LI"
+            },
+            {
+              "@type": "Country",
+              "name": "MC"
+            },
+            {
+              "@type": "Country",
+              "name": "ID"
+            },
+            {
+              "@type": "Country",
+              "name": "JP"
+            },
+            {
+              "@type": "Country",
+              "name": "TH"
+            },
+            {
+              "@type": "Country",
+              "name": "VN"
+            },
+            {
+              "@type": "Country",
+              "name": "RO"
+            },
+            {
+              "@type": "Country",
+              "name": "IL"
+            },
+            {
+              "@type": "Country",
+              "name": "ZA"
+            },
+            {
+              "@type": "Country",
+              "name": "SA"
+            },
+            {
+              "@type": "Country",
+              "name": "AE"
+            },
+            {
+              "@type": "Country",
+              "name": "BH"
+            },
+            {
+              "@type": "Country",
+              "name": "QA"
+            },
+            {
+              "@type": "Country",
+              "name": "OM"
+            },
+            {
+              "@type": "Country",
+              "name": "KW"
+            },
+            {
+              "@type": "Country",
+              "name": "EG"
+            },
+            {
+              "@type": "Country",
+              "name": "MA"
+            },
+            {
+              "@type": "Country",
+              "name": "DZ"
+            },
+            {
+              "@type": "Country",
+              "name": "TN"
+            },
+            {
+              "@type": "Country",
+              "name": "LB"
+            },
+            {
+              "@type": "Country",
+              "name": "JO"
+            },
+            {
+              "@type": "Country",
+              "name": "PS"
+            },
+            {
+              "@type": "Country",
+              "name": "IN"
+            },
+            {
+              "@type": "Country",
+              "name": "BY"
+            },
+            {
+              "@type": "Country",
+              "name": "KZ"
+            },
+            {
+              "@type": "Country",
+              "name": "MD"
+            },
+            {
+              "@type": "Country",
+              "name": "UA"
+            },
+            {
+              "@type": "Country",
+              "name": "AL"
+            },
+            {
+              "@type": "Country",
+              "name": "BA"
+            },
+            {
+              "@type": "Country",
+              "name": "HR"
+            },
+            {
+              "@type": "Country",
+              "name": "ME"
+            },
+            {
+              "@type": "Country",
+              "name": "MK"
+            },
+            {
+              "@type": "Country",
+              "name": "RS"
+            },
+            {
+              "@type": "Country",
+              "name": "SI"
+            },
+            {
+              "@type": "Country",
+              "name": "KR"
+            },
+            {
+              "@type": "Country",
+              "name": "BD"
+            },
+            {
+              "@type": "Country",
+              "name": "PK"
+            },
+            {
+              "@type": "Country",
+              "name": "LK"
+            },
+            {
+              "@type": "Country",
+              "name": "GH"
+            },
+            {
+              "@type": "Country",
+              "name": "KE"
+            },
+            {
+              "@type": "Country",
+              "name": "NG"
+            },
+            {
+              "@type": "Country",
+              "name": "TZ"
+            },
+            {
+              "@type": "Country",
+              "name": "UG"
+            },
+            {
+              "@type": "Country",
+              "name": "AG"
+            },
+            {
+              "@type": "Country",
+              "name": "AM"
+            },
+            {
+              "@type": "Country",
+              "name": "BS"
+            },
+            {
+              "@type": "Country",
+              "name": "BB"
+            },
+            {
+              "@type": "Country",
+              "name": "BZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BT"
+            },
+            {
+              "@type": "Country",
+              "name": "BW"
+            },
+            {
+              "@type": "Country",
+              "name": "BF"
+            },
+            {
+              "@type": "Country",
+              "name": "CV"
+            },
+            {
+              "@type": "Country",
+              "name": "CW"
+            },
+            {
+              "@type": "Country",
+              "name": "DM"
+            },
+            {
+              "@type": "Country",
+              "name": "FJ"
+            },
+            {
+              "@type": "Country",
+              "name": "GM"
+            },
+            {
+              "@type": "Country",
+              "name": "GE"
+            },
+            {
+              "@type": "Country",
+              "name": "GD"
+            },
+            {
+              "@type": "Country",
+              "name": "GW"
+            },
+            {
+              "@type": "Country",
+              "name": "GY"
+            },
+            {
+              "@type": "Country",
+              "name": "HT"
+            },
+            {
+              "@type": "Country",
+              "name": "JM"
+            },
+            {
+              "@type": "Country",
+              "name": "KI"
+            },
+            {
+              "@type": "Country",
+              "name": "LS"
+            },
+            {
+              "@type": "Country",
+              "name": "LR"
+            },
+            {
+              "@type": "Country",
+              "name": "MW"
+            },
+            {
+              "@type": "Country",
+              "name": "MV"
+            },
+            {
+              "@type": "Country",
+              "name": "ML"
+            },
+            {
+              "@type": "Country",
+              "name": "MH"
+            },
+            {
+              "@type": "Country",
+              "name": "FM"
+            },
+            {
+              "@type": "Country",
+              "name": "NA"
+            },
+            {
+              "@type": "Country",
+              "name": "NR"
+            },
+            {
+              "@type": "Country",
+              "name": "NE"
+            },
+            {
+              "@type": "Country",
+              "name": "PW"
+            },
+            {
+              "@type": "Country",
+              "name": "PG"
+            },
+            {
+              "@type": "Country",
+              "name": "PR"
+            },
+            {
+              "@type": "Country",
+              "name": "WS"
+            },
+            {
+              "@type": "Country",
+              "name": "SM"
+            },
+            {
+              "@type": "Country",
+              "name": "ST"
+            },
+            {
+              "@type": "Country",
+              "name": "SN"
+            },
+            {
+              "@type": "Country",
+              "name": "SC"
+            },
+            {
+              "@type": "Country",
+              "name": "SL"
+            },
+            {
+              "@type": "Country",
+              "name": "SB"
+            },
+            {
+              "@type": "Country",
+              "name": "KN"
+            },
+            {
+              "@type": "Country",
+              "name": "LC"
+            },
+            {
+              "@type": "Country",
+              "name": "VC"
+            },
+            {
+              "@type": "Country",
+              "name": "SR"
+            },
+            {
+              "@type": "Country",
+              "name": "TL"
+            },
+            {
+              "@type": "Country",
+              "name": "TO"
+            },
+            {
+              "@type": "Country",
+              "name": "TT"
+            },
+            {
+              "@type": "Country",
+              "name": "TV"
+            },
+            {
+              "@type": "Country",
+              "name": "VU"
+            },
+            {
+              "@type": "Country",
+              "name": "AZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BN"
+            },
+            {
+              "@type": "Country",
+              "name": "BI"
+            },
+            {
+              "@type": "Country",
+              "name": "KH"
+            },
+            {
+              "@type": "Country",
+              "name": "CM"
+            },
+            {
+              "@type": "Country",
+              "name": "TD"
+            },
+            {
+              "@type": "Country",
+              "name": "KM"
+            },
+            {
+              "@type": "Country",
+              "name": "GQ"
+            },
+            {
+              "@type": "Country",
+              "name": "SZ"
+            },
+            {
+              "@type": "Country",
+              "name": "GA"
+            },
+            {
+              "@type": "Country",
+              "name": "GN"
+            },
+            {
+              "@type": "Country",
+              "name": "KG"
+            },
+            {
+              "@type": "Country",
+              "name": "LA"
+            },
+            {
+              "@type": "Country",
+              "name": "MO"
+            },
+            {
+              "@type": "Country",
+              "name": "MR"
+            },
+            {
+              "@type": "Country",
+              "name": "MN"
+            },
+            {
+              "@type": "Country",
+              "name": "NP"
+            },
+            {
+              "@type": "Country",
+              "name": "RW"
+            },
+            {
+              "@type": "Country",
+              "name": "TG"
+            },
+            {
+              "@type": "Country",
+              "name": "UZ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZW"
+            },
+            {
+              "@type": "Country",
+              "name": "BJ"
+            },
+            {
+              "@type": "Country",
+              "name": "MG"
+            },
+            {
+              "@type": "Country",
+              "name": "MU"
+            },
+            {
+              "@type": "Country",
+              "name": "MZ"
+            },
+            {
+              "@type": "Country",
+              "name": "AO"
+            },
+            {
+              "@type": "Country",
+              "name": "CI"
+            },
+            {
+              "@type": "Country",
+              "name": "DJ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZM"
+            },
+            {
+              "@type": "Country",
+              "name": "CD"
+            },
+            {
+              "@type": "Country",
+              "name": "CG"
+            },
+            {
+              "@type": "Country",
+              "name": "IQ"
+            },
+            {
+              "@type": "Country",
+              "name": "LY"
+            },
+            {
+              "@type": "Country",
+              "name": "TJ"
+            },
+            {
+              "@type": "Country",
+              "name": "VE"
+            },
+            {
+              "@type": "Country",
+              "name": "ET"
+            },
+            {
+              "@type": "Country",
+              "name": "XK"
+            }
+          ]
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 300527
+}

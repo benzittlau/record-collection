@@ -1,0 +1,36 @@
+{
+  "id": "upper-middle-48",
+  "groups": [
+    "fc4dc30c-de62-3497-8fd3-b8cb253e2949"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=fc4dc30c-de62-3497-8fd3-b8cb253e2949&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 8
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "5LEZHIvSR7NRc9J4ojDUwU",
+      "spotifyUrl": "https://open.spotify.com/album/5LEZHIvSR7NRc9J4ojDUwU",
+      "musicbrainzReleaseId": "1fa38e9a-71a1-4791-a3ac-cff81946e438",
+      "musicbrainzTitle": "George Harrison",
+      "musicbrainzArtists": [
+        {
+          "joinphrase": "",
+          "name": "George Harrison",
+          "artist": {
+            "id": "42a8f507-8412-4611-854f-926571049fa0",
+            "disambiguation": "The Beatles",
+            "type": "Person",
+            "name": "George Harrison",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "country": "GB",
+            "sort-name": "Harrison, George"
+          }
+        }
+      ],
+      "musicbrainzDate": "2007-10-09"
+    }
+  ]
+}

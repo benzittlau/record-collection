@@ -1,0 +1,793 @@
+{
+  "url": "https://open.spotify.com/album/2CMCLp7kOI8Be6rPaYyHeZ",
+  "resolvedUrl": "https://open.spotify.com/album/2CMCLp7kOI8Be6rPaYyHeZ",
+  "fetchedAt": "2026-10-14T05:11:49Z",
+  "pageTitle": "Solo-Concerts Bremen / Lausanne (Live) - Album by Keith Jarrett | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:album:2CMCLp7kOI8Be6rPaYyHeZ": {
+          "__typename": "Album",
+          "moreAlbumsByArtist": {
+            "items": [
+              {
+                "discography": {
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0264d8292b7825888183e4da28",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485164d8292b7825888183e4da28",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27364d8292b7825888183e4da28",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1975
+                        },
+                        "id": "0I8vpSE1bSmysN2PhmHoQg",
+                        "name": "The Köln Concert",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0I8vpSE1bSmysN2PhmHoQg"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e020b6534616d95facf42acee29",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048510b6534616d95facf42acee29",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2730b6534616d95facf42acee29",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1999
+                        },
+                        "id": "2onXlqUvme77BeIcMIOz3M",
+                        "name": "The Melody At Night, With You",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2onXlqUvme77BeIcMIOz3M"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02c23c205d1d0bc1d5360ef2ab",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851c23c205d1d0bc1d5360ef2ab",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273c23c205d1d0bc1d5360ef2ab",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1978
+                        },
+                        "id": "6ID17PzjagQlFsc1KFha5v",
+                        "name": "My Song",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6ID17PzjagQlFsc1KFha5v"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0279e3060043f4716b9b3547e4",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485179e3060043f4716b9b3547e4",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27379e3060043f4716b9b3547e4",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2010
+                        },
+                        "id": "0dlzYOzj8FqN3OXV3jXZye",
+                        "name": "Jasmine",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0dlzYOzj8FqN3OXV3jXZye"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02edd1e43f3a4345b53f285a25",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851edd1e43f3a4345b53f285a25",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273edd1e43f3a4345b53f285a25",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1983
+                        },
+                        "id": "6fvZds34e7H5ICQ5HOWNbd",
+                        "name": "Standards, Vol. 2",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6fvZds34e7H5ICQ5HOWNbd"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e023ed642b17d11472baac492ed",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048513ed642b17d11472baac492ed",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2733ed642b17d11472baac492ed",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "7vZ8l8MoFYwx3Xo843MacV",
+                        "name": "Late at Night",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:7vZ8l8MoFYwx3Xo843MacV"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ec814aec7bbfe018465622bf",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ec814aec7bbfe018465622bf",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ec814aec7bbfe018465622bf",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2014
+                        },
+                        "id": "6SeF9urdp6Cw8aL11XwVEa",
+                        "name": "Last Dance",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6SeF9urdp6Cw8aL11XwVEa"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e024267b0f3be2658f65a1ee3ea",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048514267b0f3be2658f65a1ee3ea",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2734267b0f3be2658f65a1ee3ea",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1995
+                        },
+                        "id": "6sJLTN1J3PhPQ0OybVsqVz",
+                        "name": "At The Blue Note",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6sJLTN1J3PhPQ0OybVsqVz"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02b17756e07aab35fbe922f1c6",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851b17756e07aab35fbe922f1c6",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b17756e07aab35fbe922f1c6",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1974
+                        },
+                        "id": "6dmq2NJgWAvrzRVrpPwkzv",
+                        "name": "Belonging",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6dmq2NJgWAvrzRVrpPwkzv"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a0baac2a8d1820bf8c9c1f55",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a0baac2a8d1820bf8c9c1f55",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a0baac2a8d1820bf8c9c1f55",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "22oOtbOWOZvXIkxKoBdGM7",
+                        "name": "Keith Jarrett The European Tour 2016",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:22oOtbOWOZvXIkxKoBdGM7"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "availableMarkets": {
+            "items": []
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "© 1973 ECM Records GmbH, under exclusive license to Universal Music Classics & Jazz - a division of Universal Music GmbH",
+                "type": "C"
+              },
+              {
+                "text": "℗ 1973 ECM Records GmbH, under exclusive license to Universal Music Classics & Jazz - a division of Universal Music GmbH",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#282840"
+              },
+              "colorRaw": {
+                "hex": "#282840"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a8a6dfb24cf334330d14f722",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a8a6dfb24cf334330d14f722",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a8a6dfb24cf334330d14f722",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 1,
+            "month": 11,
+            "year": 1973
+          },
+          "id": "2CMCLp7kOI8Be6rPaYyHeZ",
+          "isPreRelease": false,
+          "name": "Solo-Concerts Bremen / Lausanne (Live)",
+          "preReleaseEndDateTime": null,
+          "type": "ALBUM",
+          "uri": "spotify:album:2CMCLp7kOI8Be6rPaYyHeZ",
+          "tracksV2": {
+            "items": [
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Keith Jarrett"
+                        },
+                        "uri": "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 1083333
+                  },
+                  "id": "603SWsCfFnIpbqK8EN8sDc",
+                  "name": "Bremen, July 12, 1973, Part I - Live",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/8d887569dcfc24ef85debd4f544e7907a62e8fc3"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 1095360
+                      },
+                      "name": "Bremen, July 12, 1973, Part I - Live",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": []
+                        }
+                      },
+                      "uri": "spotify:track:5zReed7ibS1vcoCmGzBQXV"
+                    }
+                  },
+                  "trackNumber": 1,
+                  "uri": "spotify:track:603SWsCfFnIpbqK8EN8sDc"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Keith Jarrett"
+                        },
+                        "uri": "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 2709173
+                  },
+                  "id": "1RmnW7B8nDLmcwsTYRuEfL",
+                  "name": "Bremen, July 12, 1973, Part II - Live",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/a71550ab58eb0be7c76b071896536df40c4fdd24"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 2705984
+                      },
+                      "name": "Bremen, July 12, 1973, Part II - Live",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": []
+                        }
+                      },
+                      "uri": "spotify:track:56POfZLiiPhLtNzHwSkneR"
+                    }
+                  },
+                  "trackNumber": 2,
+                  "uri": "spotify:track:1RmnW7B8nDLmcwsTYRuEfL"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Keith Jarrett"
+                        },
+                        "uri": "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 2,
+                  "duration": {
+                    "totalMilliseconds": 3893573
+                  },
+                  "id": "3ogHFfJ367AAuAzI1VuKWi",
+                  "name": "Lausanne, March 20, 1973 - Live",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/34387f60865645088559b9aa184f40fcc62b5dcb"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": {
+                    "linkedTrack": {
+                      "duration": {
+                        "totalMilliseconds": 3899743
+                      },
+                      "name": "Lausanne, March 20, 1973 - Live",
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "previews": {
+                        "audioPreviewsV2": {
+                          "items": []
+                        }
+                      },
+                      "uri": "spotify:track:1Z30s4spsLwCPhbG0kaMIt"
+                    }
+                  },
+                  "trackNumber": 1,
+                  "uri": "spotify:track:3ogHFfJ367AAuAzI1VuKWi"
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null,
+              "offset": 0
+            },
+            "totalCount": 3
+          },
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Keith Jarrett"
+                },
+                "stats": {
+                  "monthlyListeners": 611175
+                },
+                "uri": "spotify:artist:0F3Aew9DSd6fb6192K1K0Y",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8757d081b1451ea9415230cb",
+                        "width": 640
+                      },
+                      {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788757d081b1451ea9415230cb",
+                        "width": 160
+                      },
+                      {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748757d081b1451ea9415230cb",
+                        "width": 320
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "album": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicAlbum",
+      "@id": "https://open.spotify.com/album/2CMCLp7kOI8Be6rPaYyHeZ",
+      "url": "https://open.spotify.com/album/2CMCLp7kOI8Be6rPaYyHeZ",
+      "name": "Solo-Concerts Bremen / Lausanne (Live)",
+      "description": "Listen to Solo-Concerts Bremen / Lausanne (Live) on Spotify · album · Keith Jarrett · 1973 · 3 songs",
+      "datePublished": "1973-11-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/album/2CMCLp7kOI8Be6rPaYyHeZ?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/album/2CMCLp7kOI8Be6rPaYyHeZ/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 212735
+}

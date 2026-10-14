@@ -1,0 +1,1337 @@
+{
+  "url": "https://open.spotify.com/album/4p6aaQdcaVQmTci5ouCaPm",
+  "resolvedUrl": "https://open.spotify.com/album/4p6aaQdcaVQmTci5ouCaPm",
+  "fetchedAt": "2026-10-14T05:15:55Z",
+  "pageTitle": "Death And The Flower - Album by Keith Jarrett | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:album:4p6aaQdcaVQmTci5ouCaPm": {
+          "__typename": "Album",
+          "moreAlbumsByArtist": {
+            "items": [
+              {
+                "discography": {
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0264d8292b7825888183e4da28",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485164d8292b7825888183e4da28",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27364d8292b7825888183e4da28",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1975
+                        },
+                        "id": "0I8vpSE1bSmysN2PhmHoQg",
+                        "name": "The Köln Concert",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0I8vpSE1bSmysN2PhmHoQg"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e020b6534616d95facf42acee29",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048510b6534616d95facf42acee29",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2730b6534616d95facf42acee29",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1999
+                        },
+                        "id": "2onXlqUvme77BeIcMIOz3M",
+                        "name": "The Melody At Night, With You",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2onXlqUvme77BeIcMIOz3M"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02c23c205d1d0bc1d5360ef2ab",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851c23c205d1d0bc1d5360ef2ab",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273c23c205d1d0bc1d5360ef2ab",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1978
+                        },
+                        "id": "6ID17PzjagQlFsc1KFha5v",
+                        "name": "My Song",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6ID17PzjagQlFsc1KFha5v"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0279e3060043f4716b9b3547e4",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485179e3060043f4716b9b3547e4",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27379e3060043f4716b9b3547e4",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2010
+                        },
+                        "id": "0dlzYOzj8FqN3OXV3jXZye",
+                        "name": "Jasmine",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0dlzYOzj8FqN3OXV3jXZye"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02edd1e43f3a4345b53f285a25",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851edd1e43f3a4345b53f285a25",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273edd1e43f3a4345b53f285a25",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1983
+                        },
+                        "id": "6fvZds34e7H5ICQ5HOWNbd",
+                        "name": "Standards, Vol. 2",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6fvZds34e7H5ICQ5HOWNbd"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e023ed642b17d11472baac492ed",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048513ed642b17d11472baac492ed",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2733ed642b17d11472baac492ed",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "7vZ8l8MoFYwx3Xo843MacV",
+                        "name": "Late at Night",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:7vZ8l8MoFYwx3Xo843MacV"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ec814aec7bbfe018465622bf",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851ec814aec7bbfe018465622bf",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ec814aec7bbfe018465622bf",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2014
+                        },
+                        "id": "6SeF9urdp6Cw8aL11XwVEa",
+                        "name": "Last Dance",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6SeF9urdp6Cw8aL11XwVEa"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e024267b0f3be2658f65a1ee3ea",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048514267b0f3be2658f65a1ee3ea",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2734267b0f3be2658f65a1ee3ea",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1995
+                        },
+                        "id": "6sJLTN1J3PhPQ0OybVsqVz",
+                        "name": "At The Blue Note",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6sJLTN1J3PhPQ0OybVsqVz"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02b17756e07aab35fbe922f1c6",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851b17756e07aab35fbe922f1c6",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b17756e07aab35fbe922f1c6",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1974
+                        },
+                        "id": "6dmq2NJgWAvrzRVrpPwkzv",
+                        "name": "Belonging",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6dmq2NJgWAvrzRVrpPwkzv"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a0baac2a8d1820bf8c9c1f55",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851a0baac2a8d1820bf8c9c1f55",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a0baac2a8d1820bf8c9c1f55",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "22oOtbOWOZvXIkxKoBdGM7",
+                        "name": "Keith Jarrett The European Tour 2016",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:22oOtbOWOZvXIkxKoBdGM7"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "countryCode": "AR"
+              },
+              {
+                "countryCode": "AU"
+              },
+              {
+                "countryCode": "AT"
+              },
+              {
+                "countryCode": "BE"
+              },
+              {
+                "countryCode": "BO"
+              },
+              {
+                "countryCode": "BR"
+              },
+              {
+                "countryCode": "BG"
+              },
+              {
+                "countryCode": "CA"
+              },
+              {
+                "countryCode": "CL"
+              },
+              {
+                "countryCode": "CO"
+              },
+              {
+                "countryCode": "CR"
+              },
+              {
+                "countryCode": "CY"
+              },
+              {
+                "countryCode": "CZ"
+              },
+              {
+                "countryCode": "DK"
+              },
+              {
+                "countryCode": "DO"
+              },
+              {
+                "countryCode": "DE"
+              },
+              {
+                "countryCode": "EC"
+              },
+              {
+                "countryCode": "EE"
+              },
+              {
+                "countryCode": "SV"
+              },
+              {
+                "countryCode": "FI"
+              },
+              {
+                "countryCode": "FR"
+              },
+              {
+                "countryCode": "GR"
+              },
+              {
+                "countryCode": "GT"
+              },
+              {
+                "countryCode": "HN"
+              },
+              {
+                "countryCode": "HK"
+              },
+              {
+                "countryCode": "HU"
+              },
+              {
+                "countryCode": "IS"
+              },
+              {
+                "countryCode": "IE"
+              },
+              {
+                "countryCode": "IT"
+              },
+              {
+                "countryCode": "LV"
+              },
+              {
+                "countryCode": "LT"
+              },
+              {
+                "countryCode": "LU"
+              },
+              {
+                "countryCode": "MY"
+              },
+              {
+                "countryCode": "MT"
+              },
+              {
+                "countryCode": "MX"
+              },
+              {
+                "countryCode": "NL"
+              },
+              {
+                "countryCode": "NZ"
+              },
+              {
+                "countryCode": "NI"
+              },
+              {
+                "countryCode": "NO"
+              },
+              {
+                "countryCode": "PA"
+              },
+              {
+                "countryCode": "PY"
+              },
+              {
+                "countryCode": "PE"
+              },
+              {
+                "countryCode": "PH"
+              },
+              {
+                "countryCode": "PL"
+              },
+              {
+                "countryCode": "PT"
+              },
+              {
+                "countryCode": "SG"
+              },
+              {
+                "countryCode": "SK"
+              },
+              {
+                "countryCode": "ES"
+              },
+              {
+                "countryCode": "SE"
+              },
+              {
+                "countryCode": "CH"
+              },
+              {
+                "countryCode": "TW"
+              },
+              {
+                "countryCode": "TR"
+              },
+              {
+                "countryCode": "UY"
+              },
+              {
+                "countryCode": "US"
+              },
+              {
+                "countryCode": "GB"
+              },
+              {
+                "countryCode": "AD"
+              },
+              {
+                "countryCode": "LI"
+              },
+              {
+                "countryCode": "MC"
+              },
+              {
+                "countryCode": "ID"
+              },
+              {
+                "countryCode": "JP"
+              },
+              {
+                "countryCode": "TH"
+              },
+              {
+                "countryCode": "VN"
+              },
+              {
+                "countryCode": "RO"
+              },
+              {
+                "countryCode": "IL"
+              },
+              {
+                "countryCode": "ZA"
+              },
+              {
+                "countryCode": "SA"
+              },
+              {
+                "countryCode": "AE"
+              },
+              {
+                "countryCode": "BH"
+              },
+              {
+                "countryCode": "QA"
+              },
+              {
+                "countryCode": "OM"
+              },
+              {
+                "countryCode": "KW"
+              },
+              {
+                "countryCode": "EG"
+              },
+              {
+                "countryCode": "MA"
+              },
+              {
+                "countryCode": "DZ"
+              },
+              {
+                "countryCode": "TN"
+              },
+              {
+                "countryCode": "LB"
+              },
+              {
+                "countryCode": "JO"
+              },
+              {
+                "countryCode": "PS"
+              },
+              {
+                "countryCode": "IN"
+              },
+              {
+                "countryCode": "BY"
+              },
+              {
+                "countryCode": "KZ"
+              },
+              {
+                "countryCode": "MD"
+              },
+              {
+                "countryCode": "UA"
+              },
+              {
+                "countryCode": "AL"
+              },
+              {
+                "countryCode": "BA"
+              },
+              {
+                "countryCode": "HR"
+              },
+              {
+                "countryCode": "ME"
+              },
+              {
+                "countryCode": "MK"
+              },
+              {
+                "countryCode": "RS"
+              },
+              {
+                "countryCode": "SI"
+              },
+              {
+                "countryCode": "KR"
+              },
+              {
+                "countryCode": "BD"
+              },
+              {
+                "countryCode": "PK"
+              },
+              {
+                "countryCode": "LK"
+              },
+              {
+                "countryCode": "GH"
+              },
+              {
+                "countryCode": "KE"
+              },
+              {
+                "countryCode": "NG"
+              },
+              {
+                "countryCode": "TZ"
+              },
+              {
+                "countryCode": "UG"
+              },
+              {
+                "countryCode": "AG"
+              },
+              {
+                "countryCode": "AM"
+              },
+              {
+                "countryCode": "BS"
+              },
+              {
+                "countryCode": "BB"
+              },
+              {
+                "countryCode": "BZ"
+              },
+              {
+                "countryCode": "BT"
+              },
+              {
+                "countryCode": "BW"
+              },
+              {
+                "countryCode": "BF"
+              },
+              {
+                "countryCode": "CV"
+              },
+              {
+                "countryCode": "CW"
+              },
+              {
+                "countryCode": "DM"
+              },
+              {
+                "countryCode": "FJ"
+              },
+              {
+                "countryCode": "GM"
+              },
+              {
+                "countryCode": "GE"
+              },
+              {
+                "countryCode": "GD"
+              },
+              {
+                "countryCode": "GW"
+              },
+              {
+                "countryCode": "GY"
+              },
+              {
+                "countryCode": "HT"
+              },
+              {
+                "countryCode": "JM"
+              },
+              {
+                "countryCode": "KI"
+              },
+              {
+                "countryCode": "LS"
+              },
+              {
+                "countryCode": "LR"
+              },
+              {
+                "countryCode": "MW"
+              },
+              {
+                "countryCode": "MV"
+              },
+              {
+                "countryCode": "ML"
+              },
+              {
+                "countryCode": "MH"
+              },
+              {
+                "countryCode": "FM"
+              },
+              {
+                "countryCode": "NA"
+              },
+              {
+                "countryCode": "NR"
+              },
+              {
+                "countryCode": "NE"
+              },
+              {
+                "countryCode": "PW"
+              },
+              {
+                "countryCode": "PG"
+              },
+              {
+                "countryCode": "WS"
+              },
+              {
+                "countryCode": "SM"
+              },
+              {
+                "countryCode": "ST"
+              },
+              {
+                "countryCode": "SN"
+              },
+              {
+                "countryCode": "SC"
+              },
+              {
+                "countryCode": "SL"
+              },
+              {
+                "countryCode": "SB"
+              },
+              {
+                "countryCode": "KN"
+              },
+              {
+                "countryCode": "LC"
+              },
+              {
+                "countryCode": "VC"
+              },
+              {
+                "countryCode": "SR"
+              },
+              {
+                "countryCode": "TL"
+              },
+              {
+                "countryCode": "TO"
+              },
+              {
+                "countryCode": "TT"
+              },
+              {
+                "countryCode": "TV"
+              },
+              {
+                "countryCode": "VU"
+              },
+              {
+                "countryCode": "AZ"
+              },
+              {
+                "countryCode": "BN"
+              },
+              {
+                "countryCode": "BI"
+              },
+              {
+                "countryCode": "KH"
+              },
+              {
+                "countryCode": "CM"
+              },
+              {
+                "countryCode": "TD"
+              },
+              {
+                "countryCode": "KM"
+              },
+              {
+                "countryCode": "GQ"
+              },
+              {
+                "countryCode": "SZ"
+              },
+              {
+                "countryCode": "GA"
+              },
+              {
+                "countryCode": "GN"
+              },
+              {
+                "countryCode": "KG"
+              },
+              {
+                "countryCode": "LA"
+              },
+              {
+                "countryCode": "MO"
+              },
+              {
+                "countryCode": "MR"
+              },
+              {
+                "countryCode": "MN"
+              },
+              {
+                "countryCode": "NP"
+              },
+              {
+                "countryCode": "RW"
+              },
+              {
+                "countryCode": "TG"
+              },
+              {
+                "countryCode": "UZ"
+              },
+              {
+                "countryCode": "ZW"
+              },
+              {
+                "countryCode": "BJ"
+              },
+              {
+                "countryCode": "MG"
+              },
+              {
+                "countryCode": "MU"
+              },
+              {
+                "countryCode": "MZ"
+              },
+              {
+                "countryCode": "AO"
+              },
+              {
+                "countryCode": "CI"
+              },
+              {
+                "countryCode": "DJ"
+              },
+              {
+                "countryCode": "ZM"
+              },
+              {
+                "countryCode": "CD"
+              },
+              {
+                "countryCode": "CG"
+              },
+              {
+                "countryCode": "IQ"
+              },
+              {
+                "countryCode": "LY"
+              },
+              {
+                "countryCode": "TJ"
+              },
+              {
+                "countryCode": "VE"
+              },
+              {
+                "countryCode": "ET"
+              },
+              {
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "© 2006 The Verve Music Group, a Division of UMG Recordings, Inc.",
+                "type": "C"
+              },
+              {
+                "text": "℗ 1974 The Verve Music Group, a Division of UMG Recordings, Inc.",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#058580"
+              },
+              "colorRaw": {
+                "hex": "#08D0C8"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485171a0e81e83512b57cab6cb0a",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0271a0e81e83512b57cab6cb0a",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27371a0e81e83512b57cab6cb0a",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 1,
+            "month": 1,
+            "year": 1975
+          },
+          "id": "4p6aaQdcaVQmTci5ouCaPm",
+          "isPreRelease": false,
+          "name": "Death And The Flower",
+          "preReleaseEndDateTime": null,
+          "type": "ALBUM",
+          "uri": "spotify:album:4p6aaQdcaVQmTci5ouCaPm",
+          "tracksV2": {
+            "items": [
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Keith Jarrett"
+                        },
+                        "uri": "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 1367093
+                  },
+                  "id": "01m2V6haS531eQ7xqGT8aT",
+                  "name": "Death And The Flower",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/355c2338d57395f1ef7e848b9432a39e50000f97"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 1,
+                  "uri": "spotify:track:01m2V6haS531eQ7xqGT8aT"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Keith Jarrett"
+                        },
+                        "uri": "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 610106
+                  },
+                  "id": "2fdSvDfUa9bTW1EQWN6Mj1",
+                  "name": "Prayer",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/d79c54b20e7e605e9070749595bea6b20e9df1ec"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 2,
+                  "uri": "spotify:track:2fdSvDfUa9bTW1EQWN6Mj1"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Keith Jarrett"
+                        },
+                        "uri": "spotify:artist:0F3Aew9DSd6fb6192K1K0Y"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 523320
+                  },
+                  "id": "2xxGwmMzSesyA8TFYXkdzI",
+                  "name": "Great Bird",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/bf4da06d155af53f308e11b11e35f310f25ee8b3"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 3,
+                  "uri": "spotify:track:2xxGwmMzSesyA8TFYXkdzI"
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null,
+              "offset": 0
+            },
+            "totalCount": 3
+          },
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Keith Jarrett"
+                },
+                "stats": {
+                  "monthlyListeners": 611175
+                },
+                "uri": "spotify:artist:0F3Aew9DSd6fb6192K1K0Y",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb8757d081b1451ea9415230cb",
+                        "width": 640
+                      },
+                      {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1788757d081b1451ea9415230cb",
+                        "width": 160
+                      },
+                      {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051748757d081b1451ea9415230cb",
+                        "width": 320
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "album": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicAlbum",
+      "@id": "https://open.spotify.com/album/4p6aaQdcaVQmTci5ouCaPm",
+      "url": "https://open.spotify.com/album/4p6aaQdcaVQmTci5ouCaPm",
+      "name": "Death And The Flower",
+      "description": "Listen to Death And The Flower on Spotify · album · Keith Jarrett · 1975 · 3 songs",
+      "datePublished": "1975-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/album/4p6aaQdcaVQmTci5ouCaPm?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/album/4p6aaQdcaVQmTci5ouCaPm/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 227872,
+  "albumLinks": [
+    {
+      "id": "0I8vpSE1bSmysN2PhmHoQg",
+      "label": "The Köln Concert  Album • 1975"
+    },
+    {
+      "id": "2onXlqUvme77BeIcMIOz3M",
+      "label": "The Melody At Night, With You  Album • 1999"
+    },
+    {
+      "id": "6ID17PzjagQlFsc1KFha5v",
+      "label": "My Song  Album • 1978"
+    },
+    {
+      "id": "0dlzYOzj8FqN3OXV3jXZye",
+      "label": "Jasmine  Album • 2010"
+    },
+    {
+      "id": "6fvZds34e7H5ICQ5HOWNbd",
+      "label": "Standards, Vol. 2  Album • 1983"
+    },
+    {
+      "id": "7vZ8l8MoFYwx3Xo843MacV",
+      "label": "Late at Night  Album • 2026"
+    },
+    {
+      "id": "6SeF9urdp6Cw8aL11XwVEa",
+      "label": "Last Dance  Album • 2014"
+    },
+    {
+      "id": "6sJLTN1J3PhPQ0OybVsqVz",
+      "label": "At The Blue Note  Album • 1995"
+    },
+    {
+      "id": "6dmq2NJgWAvrzRVrpPwkzv",
+      "label": "Belonging  Album • 1974"
+    },
+    {
+      "id": "22oOtbOWOZvXIkxKoBdGM7",
+      "label": "Keith Jarrett The European Tour 2016  Album • 2026"
+    }
+  ]
+}

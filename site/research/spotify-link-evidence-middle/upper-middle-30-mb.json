@@ -1,0 +1,37 @@
+{
+  "id": "upper-middle-30",
+  "groups": [
+    "92e9a813-265a-3ddb-a5ad-5daac76af8b1",
+    "92e9a813-265a-3ddb-a5ad-5daac76af8b1"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=92e9a813-265a-3ddb-a5ad-5daac76af8b1&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 14
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "6zjenDV68SpvM3oEhorTDm",
+      "spotifyUrl": "https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm",
+      "musicbrainzReleaseId": "cd183993-6765-45c5-86a4-5d3e8ab9292c",
+      "musicbrainzTitle": "Ringo",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "name": "Ringo Starr",
+            "type": "Person",
+            "country": "GB",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Starr, Ringo",
+            "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+            "disambiguation": "The Beatles"
+          },
+          "joinphrase": "",
+          "name": "Ringo Starr"
+        }
+      ],
+      "musicbrainzDate": "2007-08-27"
+    }
+  ]
+}

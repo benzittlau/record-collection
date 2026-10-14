@@ -1,0 +1,329 @@
+{
+  "releases": [
+    {
+      "id": "2709591f-68b0-40b3-a817-88a34144b280",
+      "status": "Official",
+      "relations": [
+        {
+          "attribute-values": {},
+          "type": "discogs",
+          "ended": false,
+          "attribute-ids": {},
+          "attributes": [],
+          "source-credit": "",
+          "target-credit": "",
+          "direction": "forward",
+          "begin": null,
+          "end": null,
+          "target-type": "url",
+          "url": {
+            "id": "5c3e4c4c-9e53-4d06-90cd-928cd49b79c6",
+            "resource": "https://www.discogs.com/release/14545455"
+          },
+          "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "name": "United Kingdom",
+            "type-id": null,
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "disambiguation": "",
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+          },
+          "date": "2020"
+        }
+      ],
+      "barcode": "765387855727",
+      "cover-art-archive": {
+        "back": false,
+        "artwork": false,
+        "front": false,
+        "count": 0,
+        "darkened": false
+      },
+      "date": "2020",
+      "disambiguation": "",
+      "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+      "asin": null,
+      "country": "GB",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "title": "Giant Box",
+      "packaging": "Jewel Case",
+      "quality": "normal"
+    },
+    {
+      "packaging-id": "c1668fc7-8944-4a00-bc3e-46e8d861d211",
+      "disambiguation": "",
+      "asin": null,
+      "country": "US",
+      "title": "Giant Box",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "packaging": "Box",
+      "quality": "normal",
+      "id": "3df0b819-a0cf-4adb-9946-5417506c0ee7",
+      "status": "Official",
+      "relations": [
+        {
+          "source-credit": "",
+          "attribute-ids": {},
+          "attributes": [],
+          "target-credit": "",
+          "type": "discogs",
+          "attribute-values": {},
+          "ended": false,
+          "target-type": "url",
+          "end": null,
+          "begin": null,
+          "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+          "url": {
+            "resource": "https://www.discogs.com/release/1452535",
+            "id": "a1af9266-d9ac-4733-8500-d31e30388e2e"
+          },
+          "direction": "forward"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "barcode": "",
+      "release-events": [
+        {
+          "date": "1973",
+          "area": {
+            "type": null,
+            "name": "United States",
+            "disambiguation": "",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "sort-name": "United States",
+            "type-id": null
+          }
+        }
+      ],
+      "date": "1973",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "count": 0,
+        "front": false,
+        "artwork": false
+      }
+    },
+    {
+      "quality": "normal",
+      "packaging": "Cardboard/Paper Sleeve",
+      "asin": "B004PGGH8O",
+      "country": "US",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "title": "Giant Box",
+      "disambiguation": "",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "release-events": [
+        {
+          "date": "2011-04-12",
+          "area": {
+            "sort-name": "United States",
+            "type-id": null,
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "type": null,
+            "name": "United States"
+          }
+        }
+      ],
+      "barcode": "886978674326",
+      "cover-art-archive": {
+        "darkened": false,
+        "front": false,
+        "artwork": false,
+        "count": 0,
+        "back": false
+      },
+      "date": "2011-04-12",
+      "relations": [
+        {
+          "source-credit": "",
+          "attributes": [],
+          "attribute-ids": {},
+          "target-credit": "",
+          "type": "amazon asin",
+          "attribute-values": {},
+          "ended": false,
+          "target-type": "url",
+          "begin": null,
+          "end": null,
+          "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+          "url": {
+            "id": "ed12783f-bcf2-4ebc-b5a6-9fb72d200569",
+            "resource": "https://www.amazon.com/gp/product/B004PGGH8O"
+          },
+          "direction": "forward"
+        },
+        {
+          "target-type": "url",
+          "end": null,
+          "begin": null,
+          "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+          "url": {
+            "resource": "https://www.discogs.com/release/4104980",
+            "id": "8f8a3d4b-aa96-4770-a74e-5987ce1e5b6e"
+          },
+          "direction": "forward",
+          "attributes": [],
+          "attribute-ids": {},
+          "source-credit": "",
+          "target-credit": "",
+          "attribute-values": {},
+          "type": "discogs",
+          "ended": false
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "status": "Official",
+      "id": "629b4331-a183-45da-be6f-ce2a83745079"
+    },
+    {
+      "asin": null,
+      "country": "US",
+      "title": "Giant Box",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "disambiguation": "",
+      "packaging-id": "c1668fc7-8944-4a00-bc3e-46e8d861d211",
+      "quality": "normal",
+      "packaging": "Box",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "relations": [
+        {
+          "source-credit": "",
+          "attributes": [],
+          "attribute-ids": {},
+          "target-credit": "",
+          "type": "discogs",
+          "attribute-values": {},
+          "ended": false,
+          "end": null,
+          "begin": null,
+          "target-type": "url",
+          "url": {
+            "id": "efdc81c3-ebe5-408f-a2d5-59ce8ae1c3e8",
+            "resource": "https://www.discogs.com/release/7007635"
+          },
+          "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+          "direction": "forward"
+        }
+      ],
+      "status": "Official",
+      "id": "b9872fff-7b08-4a98-8ff0-cd3cb310fa0d",
+      "release-events": [
+        {
+          "area": {
+            "type": null,
+            "name": "United States",
+            "sort-name": "United States",
+            "type-id": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "US"
+            ]
+          },
+          "date": "1973"
+        }
+      ],
+      "barcode": "",
+      "date": "1973",
+      "cover-art-archive": {
+        "count": 0,
+        "front": false,
+        "artwork": false,
+        "back": false,
+        "darkened": false
+      }
+    },
+    {
+      "status": "Official",
+      "id": "f7f7c41a-254d-40cb-aaf4-bc817b8212a7",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "relations": [
+        {
+          "ended": true,
+          "attribute-values": {},
+          "type": "purchase for download",
+          "target-credit": "",
+          "attributes": [],
+          "attribute-ids": {},
+          "source-credit": "",
+          "direction": "forward",
+          "type-id": "98e08c20-8402-4163-8970-53504bb6a1e4",
+          "url": {
+            "resource": "https://www.e-onkyo.com/music/album/kicj2334/",
+            "id": "39cab9fa-7e1e-4ed2-b126-9b5fa9d294eb"
+          },
+          "target-type": "url",
+          "begin": null,
+          "end": "2024-10-16"
+        }
+      ],
+      "date": "2013",
+      "cover-art-archive": {
+        "darkened": false,
+        "back": false,
+        "front": false,
+        "artwork": false,
+        "count": 0
+      },
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "disambiguation": "",
+            "type-id": null,
+            "sort-name": "Japan",
+            "name": "Japan",
+            "type": null
+          },
+          "date": "2013"
+        }
+      ],
+      "barcode": null,
+      "disambiguation": "Japanese-only download; DSD64 / 24-bit, 192kHz FLAC",
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "title": "Giant Box",
+      "text-representation": {
+        "script": "Qaaa",
+        "language": "mul"
+      },
+      "asin": null,
+      "country": "JP",
+      "packaging": "None",
+      "quality": "normal"
+    }
+  ],
+  "release-count": 5,
+  "release-offset": 0
+}

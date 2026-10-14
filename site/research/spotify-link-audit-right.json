@@ -1,0 +1,5080 @@
+{
+  "version": 1,
+  "box": "right",
+  "created": "2026-10-14T05:11:14.954481+00:00",
+  "complete": true,
+  "method": "Official Spotify search discovery followed by parsed public initialState and embedded album metadata; exact programme and performers compared with accepted LP evidence.",
+  "summary": {
+    "eligible": 20,
+    "matched": 19,
+    "unresolved": 1
+  },
+  "records": [
+    {
+      "id": "right-01",
+      "title": "Music for Zen Meditation",
+      "artist": "Tony Scott",
+      "status": "matched",
+      "spotifyId": "2kNs01J4ApSKYhiMInx5kf",
+      "spotifyUrl": "https://open.spotify.com/album/2kNs01J4ApSKYhiMInx5kf",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/2kNs01J4ApSKYhiMInx5kf"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/2kNs01J4ApSKYhiMInx5kf.metadata.json",
+          "pageTitle": "Music For Zen Meditation - Album by Tony Scott | Spotify",
+          "albumUri": "spotify:album:2kNs01J4ApSKYhiMInx5kf",
+          "sha256": "5fbf0ed276fb1f969b8151dffdfd75086b77c460a278e431559fd77fe2a9df71"
+        }
+      ],
+      "spotifyTitle": "Music For Zen Meditation",
+      "spotifyArtists": [
+        "Tony Scott"
+      ],
+      "spotifyTrackArtists": [
+        "Tony Scott"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 2005
+      },
+      "spotifyTrackCount": 9,
+      "trackList": [
+        {
+          "title": "Is Not All One",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 192000,
+          "artists": [
+            "Tony Scott"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "The Murmuring Sound Of The Mountain Stream",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 480426,
+          "artists": [
+            "Tony Scott"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "A Quivering Leaf Ask The Winds",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 149626,
+          "artists": [
+            "Tony Scott"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "After The Snow The Fragrance",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 422160,
+          "artists": [
+            "Tony Scott"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "To Drift Like Clouds",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 96760,
+          "artists": [
+            "Tony Scott"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Za Zen (Meditation)",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 122466,
+          "artists": [
+            "Tony Scott"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Prajna-Paramita-Hridaya Sutra (Sutra Chant)",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 429493,
+          "artists": [
+            "Tony Scott"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Sanzen (Moment Of Truth)",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 403666,
+          "artists": [
+            "Tony Scott"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Satori (Enlightenment)",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 322666,
+          "artists": [
+            "Tony Scott"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "Verve reissue of the original nine-piece album.",
+      "availableMarketsObserved": [],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 9,
+      "availabilityNote": null,
+      "verificationNotes": "Verve2005 digital edition contains all nine original Zen Meditation pieces; not MusicForYogaMeditation."
+    },
+    {
+      "id": "right-03",
+      "title": "Giant Box",
+      "artist": "Don Sebesky",
+      "status": "matched",
+      "spotifyId": "6tL7AvVopIe1tIEtz4DrIv",
+      "spotifyUrl": "https://open.spotify.com/album/6tL7AvVopIe1tIEtz4DrIv",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/6tL7AvVopIe1tIEtz4DrIv"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/6tL7AvVopIe1tIEtz4DrIv.metadata.json",
+          "pageTitle": "Giant Box (CTI Records 40th Anniversary Edition) - Album by Don Sebesky | Spotify",
+          "albumUri": "spotify:album:6tL7AvVopIe1tIEtz4DrIv",
+          "sha256": "c8fdb5e3dc786fcc80ff1c2bda4deadc511ef8c5b30108b22f3b6eb2302bc839"
+        }
+      ],
+      "spotifyTitle": "Giant Box (CTI Records 40th Anniversary Edition)",
+      "spotifyArtists": [
+        "Don Sebesky"
+      ],
+      "spotifyTrackArtists": [
+        "Don Sebesky"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 1973
+      },
+      "spotifyTrackCount": 7,
+      "trackList": [
+        {
+          "title": "Firebird/Birds Of Fire",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 835266,
+          "artists": [
+            "Don Sebesky"
+          ],
+          "playableInFetchedMarket": false
+        },
+        {
+          "title": "Song to a Seagull",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 348720,
+          "artists": [
+            "Don Sebesky"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Free As a Bird",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 493080,
+          "artists": [
+            "Don Sebesky"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Psalm 150",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 488480,
+          "artists": [
+            "Don Sebesky"
+          ],
+          "playableInFetchedMarket": false
+        },
+        {
+          "title": "Vocalise",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 337360,
+          "artists": [
+            "Don Sebesky"
+          ],
+          "playableInFetchedMarket": false
+        },
+        {
+          "title": "Fly/Circles",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 586400,
+          "artists": [
+            "Don Sebesky"
+          ],
+          "playableInFetchedMarket": false
+        },
+        {
+          "title": "Semi-Tough",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 470813,
+          "artists": [
+            "Don Sebesky"
+          ],
+          "playableInFetchedMarket": false
+        }
+      ],
+      "editionNotes": "CTI 40th anniversary edition with all seven original selections.",
+      "availableMarketsObserved": [
+        "PR",
+        "US"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 2,
+      "availabilityNote": "Only two of seven tracks were playable in the Canadian public metadata.",
+      "regionalEditionSearch": {
+        "queries": [
+          "site:open.spotify.com/album \"Don Sebesky\" \"Giant Box\"",
+          "site:open.spotify.com/album \"Giant Box\" -Anniversary",
+          "site:open.spotify.com/track \"Don Sebesky\" \"Firebird\"",
+          "site:open.spotify.com/track \"Don Sebesky\" \"Semi-Tough\"",
+          "site:open.spotify.com/track \"Don Sebesky\" \"Fly/Circles\""
+        ],
+        "artistEvidence": "site/research/spotify-link-evidence-right/4yr0fHJhSr7ZWlsoZIbg44.metadata.json",
+        "releaseGroupEvidence": "site/research/spotify-link-evidence-right/giant-musicbrainz-links.json",
+        "result": "No alternative exact Canadian full-album edition verified; all observed Giant Box track/album references resolve to the CTI anniversary album."
+      },
+      "verificationNotes": "The CTI Records 40th Anniversary digital edition contains all seven original 1973 LP selections. Spotify public album markets list only US and PR. A follow-up search of the official artist discography, Giant Box album/track pages, and the MusicBrainz release group did not produce a verified Canadian full-album edition; retain this exact album with the regional limitation rather than substitute a different compilation."
+    },
+    {
+      "id": "right-09",
+      "title": "Suite for Flute and Jazz Piano",
+      "artist": "Claude Bolling & Jean-Pierre Rampal",
+      "status": "matched",
+      "spotifyId": "3mJigbmu7UYww3riSZlOkS",
+      "spotifyUrl": "https://open.spotify.com/album/3mJigbmu7UYww3riSZlOkS",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/3mJigbmu7UYww3riSZlOkS"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/3mJigbmu7UYww3riSZlOkS.metadata.json",
+          "pageTitle": "Bolling Rampal - Suite for Flute and Jazz Piano Trio - Album by Claude Bolling | Spotify",
+          "albumUri": "spotify:album:3mJigbmu7UYww3riSZlOkS",
+          "sha256": "d657ddec50fcbf2570eaa5ca4ba7298a62b9db7d7fe4f4fa62aa525dd3798840"
+        }
+      ],
+      "spotifyTitle": "Bolling Rampal - Suite for Flute and Jazz Piano Trio",
+      "spotifyArtists": [
+        "Claude Bolling"
+      ],
+      "spotifyTrackArtists": [
+        "Claude Bolling",
+        "Jean-Pierre Rampal",
+        "Max Hédiguer",
+        "Marcel Sabiani"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 1975
+      },
+      "spotifyTrackCount": 14,
+      "trackList": [
+        {
+          "title": "Baroque and Blue, Pt. 1",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 151760,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Baroque and Blue, Pt. 2",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 167160,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Sentimentale, Pt. 1",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 245253,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Sentimentale, Pt. 2",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 219706,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Javanaise, Pt. 1",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 127733,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Javanaise, Pt. 2",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 194533,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Fugace, Pt. 1",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 103293,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Fugace, Pt. 2",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 130826,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Irlandaise, Pt. 1",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 100373,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Irlandaise, Pt. 2",
+          "disc": 1,
+          "number": 10,
+          "durationMs": 82773,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Versatile, Pt. 1 - With Bass Flute",
+          "disc": 1,
+          "number": 11,
+          "durationMs": 143413,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Versatile, Pt. 2 - With Bass Flute",
+          "disc": 1,
+          "number": 12,
+          "durationMs": 165506,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Veloce, Pt. 1",
+          "disc": 1,
+          "number": 13,
+          "durationMs": 96960,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Veloce, Pt. 2",
+          "disc": 1,
+          "number": 14,
+          "durationMs": 124200,
+          "artists": [
+            "Claude Bolling",
+            "Jean-Pierre Rampal",
+            "Max Hédiguer",
+            "Marcel Sabiani"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "Original 1975 performers; seven movements are split into 14 digital tracks.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 14,
+      "availabilityNote": null,
+      "verificationNotes": "Original1975 ClaudeBolling/JeanPierreRampal/MaxHédiguer/MarcelSabiani performance; original seven movements are split into14 digital parts. Not SuiteNo2 or RoselliQuartet performance."
+    },
+    {
+      "id": "right-10",
+      "title": "Death and the Flower",
+      "artist": "Keith Jarrett",
+      "status": "matched",
+      "spotifyId": "4p6aaQdcaVQmTci5ouCaPm",
+      "spotifyUrl": "https://open.spotify.com/album/4p6aaQdcaVQmTci5ouCaPm",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/4p6aaQdcaVQmTci5ouCaPm"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/4p6aaQdcaVQmTci5ouCaPm.metadata.json",
+          "pageTitle": "Death And The Flower - Album by Keith Jarrett | Spotify",
+          "albumUri": "spotify:album:4p6aaQdcaVQmTci5ouCaPm",
+          "sha256": "1456af426e46d5f341f1cbdc4e4d3e621622506f2487d55d047b26dd40fab97f"
+        }
+      ],
+      "spotifyTitle": "Death And The Flower",
+      "spotifyArtists": [
+        "Keith Jarrett"
+      ],
+      "spotifyTrackArtists": [
+        "Keith Jarrett"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 1975
+      },
+      "spotifyTrackCount": 3,
+      "trackList": [
+        {
+          "title": "Death And The Flower",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 1367093,
+          "artists": [
+            "Keith Jarrett"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Prayer",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 610106,
+          "artists": [
+            "Keith Jarrett"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Great Bird",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 523320,
+          "artists": [
+            "Keith Jarrett"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original three-piece Impulse album.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 3,
+      "availabilityNote": null,
+      "verificationNotes": "Exact1975 Impulse album with DeathAndTheFlower, Prayer, GreatBird; not larger ImpulseYears compilation."
+    },
+    {
+      "id": "right-12",
+      "title": "Get Up With It",
+      "artist": "Miles Davis",
+      "status": "matched",
+      "spotifyId": "0CFS3jvFwutIt5ewGIa7Sq",
+      "spotifyUrl": "https://open.spotify.com/album/0CFS3jvFwutIt5ewGIa7Sq",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/0CFS3jvFwutIt5ewGIa7Sq"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/0CFS3jvFwutIt5ewGIa7Sq.metadata.json",
+          "pageTitle": "Get Up With It - Album by Miles Davis | Spotify",
+          "albumUri": "spotify:album:0CFS3jvFwutIt5ewGIa7Sq",
+          "sha256": "36c994a2939d927b2bbdf7bb5dc47b73b7cb3c069f62b8168eba77ef82f087a6"
+        }
+      ],
+      "spotifyTitle": "Get Up With It",
+      "spotifyArtists": [
+        "Miles Davis"
+      ],
+      "spotifyTrackArtists": [
+        "Miles Davis"
+      ],
+      "spotifyDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1974
+      },
+      "spotifyTrackCount": 8,
+      "trackList": [
+        {
+          "title": "He Loved Him Madly",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 1933000,
+          "artists": [
+            "Miles Davis"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Maiysha",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 891373,
+          "artists": [
+            "Miles Davis"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Honky Tonk",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 353333,
+          "artists": [
+            "Miles Davis"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Rated X",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 411160,
+          "artists": [
+            "Miles Davis"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Calypso Frelimo",
+          "disc": 2,
+          "number": 1,
+          "durationMs": 1925533,
+          "artists": [
+            "Miles Davis"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Red China Blues",
+          "disc": 2,
+          "number": 2,
+          "durationMs": 247173,
+          "artists": [
+            "Miles Davis"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Mtume",
+          "disc": 2,
+          "number": 3,
+          "durationMs": 909466,
+          "artists": [
+            "Miles Davis"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Billy Preston",
+          "disc": 2,
+          "number": 4,
+          "durationMs": 756306,
+          "artists": [
+            "Miles Davis"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original eight-track album.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 8,
+      "availabilityNote": null,
+      "verificationNotes": "Same original album/programme; digital mastering/pressing may differ from the photographed LP."
+    },
+    {
+      "id": "right-15",
+      "title": "Creek Bank",
+      "artist": "Mose Allison",
+      "status": "matched",
+      "spotifyId": "5uTi91Xp50FvzRNdXq207o",
+      "spotifyUrl": "https://open.spotify.com/album/5uTi91Xp50FvzRNdXq207o",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/5uTi91Xp50FvzRNdXq207o",
+        "https://concord.com/concord-albums/creek-bank-2/"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/5uTi91Xp50FvzRNdXq207o.metadata.json",
+          "pageTitle": "Creek Bank - Compilation by Mose Allison | Spotify",
+          "albumUri": "spotify:album:5uTi91Xp50FvzRNdXq207o",
+          "sha256": "27f64fad442da01050a0b77134fa437f253cd8e468cb83959a3dce40da779161"
+        }
+      ],
+      "spotifyTitle": "Creek Bank",
+      "spotifyArtists": [
+        "Mose Allison"
+      ],
+      "spotifyTrackArtists": [
+        "Mose Allison"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 1975
+      },
+      "spotifyTrackCount": 20,
+      "trackList": [
+        {
+          "title": "Somebody Else Is Taking My Place",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 245293,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Don't Get Around Much Anymore",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 168200,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Bye Bye Blues",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 200786,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "How Long Has This Been Going On?",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 248933,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "I Told Ya I Love Ya, Now Get Out!",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 283560,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Baby, Let Me Hold Your Hand",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 195933,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Stroll",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 235800,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "I Hadn't Anyone Till You",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 152560,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "My Kind Of Love",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 231240,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Sleepy Time Gal",
+          "disc": 1,
+          "number": 10,
+          "durationMs": 323293,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "The Seventh Son",
+          "disc": 1,
+          "number": 11,
+          "durationMs": 157693,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "If I Didn't Care",
+          "disc": 1,
+          "number": 12,
+          "durationMs": 266160,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Cabin In The Sky",
+          "disc": 1,
+          "number": 13,
+          "durationMs": 245266,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "If You Live",
+          "disc": 1,
+          "number": 14,
+          "durationMs": 152400,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Yardbird Suite",
+          "disc": 1,
+          "number": 15,
+          "durationMs": 202240,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Creek Bank",
+          "disc": 1,
+          "number": 16,
+          "durationMs": 275266,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Moon And Cypress",
+          "disc": 1,
+          "number": 17,
+          "durationMs": 241200,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Mule",
+          "disc": 1,
+          "number": 18,
+          "durationMs": 232360,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Dinner On The Ground",
+          "disc": 1,
+          "number": 19,
+          "durationMs": 195240,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Prelude To A Kiss",
+          "disc": 1,
+          "number": 20,
+          "durationMs": 253133,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "TN",
+        "LB",
+        "JO",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GD",
+        "GW",
+        "GY",
+        "FM",
+        "NA",
+        "NE",
+        "PG",
+        "SC",
+        "KN",
+        "TT",
+        "AZ",
+        "KH",
+        "CM",
+        "TD",
+        "SZ",
+        "GN",
+        "KG",
+        "LA",
+        "MN",
+        "NP",
+        "RW",
+        "UZ",
+        "ZW",
+        "MU",
+        "MZ",
+        "CI",
+        "TJ",
+        "VE",
+        "XK"
+      ],
+      "editionNotes": "Original Prestige twofer: Young Man Mose and Creek Bank, 20 tracks.",
+      "rejectedCandidates": [
+        {
+          "spotifyId": "1EQuNC0BbqyTe9zHNgfzfu",
+          "title": "Creek Bank",
+          "reason": "2013 Marylebone16-track compilation startsTroubleInMind; missing YoungManMose+CreekBank complete20-track programme."
+        }
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 20,
+      "availabilityNote": null,
+      "verificationNotes": "Exact1975 Prestige twofer programme,20tracks: YoungManMose10 followed by CreekBank10.1994 Fantasy digital edition matches the photographedP24055 compilation;2013 Marylebone16-track same-title compilation rejected."
+    },
+    {
+      "id": "right-17",
+      "title": "Bongo Fury",
+      "artist": "Frank Zappa / Captain Beefheart / The Mothers",
+      "status": "matched",
+      "spotifyId": "0u4GsfF3p8pt7BVSHIZq2N",
+      "spotifyUrl": "https://open.spotify.com/album/0u4GsfF3p8pt7BVSHIZq2N",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/0u4GsfF3p8pt7BVSHIZq2N"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/0u4GsfF3p8pt7BVSHIZq2N.metadata.json",
+          "pageTitle": "Bongo Fury (Live) - Album by Frank Zappa | Spotify",
+          "albumUri": "spotify:album:0u4GsfF3p8pt7BVSHIZq2N",
+          "sha256": "6981fe5238b7168bcea104af88ee7df4bbb952dd855ebbfda581326f9c405d6f"
+        }
+      ],
+      "spotifyTitle": "Bongo Fury (Live)",
+      "spotifyArtists": [
+        "Frank Zappa"
+      ],
+      "spotifyTrackArtists": [
+        "Frank Zappa",
+        "Captain Beefheart",
+        "The Mothers"
+      ],
+      "spotifyDate": {
+        "day": 2,
+        "month": 10,
+        "year": 1975
+      },
+      "spotifyTrackCount": 9,
+      "trackList": [
+        {
+          "title": "Debra Kadabra - Live",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 235400,
+          "artists": [
+            "Frank Zappa",
+            "Captain Beefheart",
+            "The Mothers"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Carolina Hard-Core Ecstasy - Live",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 359653,
+          "artists": [
+            "Frank Zappa",
+            "Captain Beefheart",
+            "The Mothers"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Sam With The Showing Scalp Flat Top - Live",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 171173,
+          "artists": [
+            "Frank Zappa",
+            "Captain Beefheart",
+            "The Mothers"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Poofter's Froth Wyoming Plans Ahead - Live",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 183773,
+          "artists": [
+            "Frank Zappa",
+            "Captain Beefheart",
+            "The Mothers"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "200 Years Old",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 275186,
+          "artists": [
+            "Frank Zappa",
+            "Captain Beefheart",
+            "The Mothers"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Cucamonga",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 144333,
+          "artists": [
+            "Frank Zappa",
+            "Captain Beefheart",
+            "The Mothers"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Advance Romance - Live",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 677813,
+          "artists": [
+            "Frank Zappa",
+            "Captain Beefheart",
+            "The Mothers"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Man With The Woman Head - Live",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 88186,
+          "artists": [
+            "Frank Zappa",
+            "Captain Beefheart",
+            "The Mothers"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Muffin Man",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 337733,
+          "artists": [
+            "Frank Zappa",
+            "Captain Beefheart",
+            "The Mothers"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original live and studio album; Spotify adds “Live” to the title.",
+      "availableMarketsObserved": [],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 9,
+      "availabilityNote": null,
+      "verificationNotes": "Original1975 nine-track BongoFury programme. Digital title adds(Live), preserving original Austin live/studio mixture."
+    },
+    {
+      "id": "right-19",
+      "title": "Apostrophe (')",
+      "artist": "Frank Zappa",
+      "status": "matched",
+      "spotifyId": "61eEIJPtxDANbzhNFKbqxF",
+      "spotifyUrl": "https://open.spotify.com/album/61eEIJPtxDANbzhNFKbqxF",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/61eEIJPtxDANbzhNFKbqxF"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/61eEIJPtxDANbzhNFKbqxF.metadata.json",
+          "pageTitle": "Apostrophe(&#x27;) - Album by Frank Zappa | Spotify",
+          "albumUri": "spotify:album:61eEIJPtxDANbzhNFKbqxF",
+          "sha256": "127368b461a18ffbd126250947811a929cfbae3289006bfac342cf2049c6669a"
+        }
+      ],
+      "spotifyTitle": "Apostrophe(')",
+      "spotifyArtists": [
+        "Frank Zappa"
+      ],
+      "spotifyTrackArtists": [
+        "Frank Zappa"
+      ],
+      "spotifyDate": {
+        "day": 22,
+        "month": 3,
+        "year": 1974
+      },
+      "spotifyTrackCount": 9,
+      "trackList": [
+        {
+          "title": "Don't Eat The Yellow Snow",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 125320,
+          "artists": [
+            "Frank Zappa"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Nanook Rubs It",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 277160,
+          "artists": [
+            "Frank Zappa"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "St. Alfonzo's Pancake Breakfast",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 110400,
+          "artists": [
+            "Frank Zappa"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Father O'Blivion",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 137653,
+          "artists": [
+            "Frank Zappa"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Cosmik Debris",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 255880,
+          "artists": [
+            "Frank Zappa"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Excentrifugal Forz",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 93293,
+          "artists": [
+            "Frank Zappa"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Apostrophe'",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 349786,
+          "artists": [
+            "Frank Zappa"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Uncle Remus",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 169600,
+          "artists": [
+            "Frank Zappa"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Stink-Foot",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 400693,
+          "artists": [
+            "Frank Zappa"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original nine-track studio album.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 9,
+      "availabilityNote": null,
+      "verificationNotes": "Standard1974 nine-track Apostrophe album, not unrelated live performance."
+    },
+    {
+      "id": "right-23",
+      "title": "Yesterdays",
+      "artist": "Yes",
+      "status": "matched",
+      "spotifyId": "1TEHDLJNEFZzXlmmtGGfnk",
+      "spotifyUrl": "https://open.spotify.com/album/1TEHDLJNEFZzXlmmtGGfnk",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/1TEHDLJNEFZzXlmmtGGfnk"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/1TEHDLJNEFZzXlmmtGGfnk.metadata.json",
+          "pageTitle": "Yesterdays - Compilation by Yes | Spotify",
+          "albumUri": "spotify:album:1TEHDLJNEFZzXlmmtGGfnk",
+          "sha256": "e4dddf67952c83273e9cf98c7f7a101b7a903afb2fa4804189b52d66e2a5e312"
+        }
+      ],
+      "spotifyTitle": "Yesterdays",
+      "spotifyArtists": [
+        "Yes"
+      ],
+      "spotifyTrackArtists": [
+        "Yes"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 1975
+      },
+      "spotifyTrackCount": 8,
+      "trackList": [
+        {
+          "title": "America",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 632333,
+          "artists": [
+            "Yes"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Looking Around",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 244600,
+          "artists": [
+            "Yes"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Time and a Word",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 273866,
+          "artists": [
+            "Yes"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Sweet Dreams",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 230373,
+          "artists": [
+            "Yes"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Then",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 349266,
+          "artists": [
+            "Yes"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Survival",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 382333,
+          "artists": [
+            "Yes"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Astral Traveller",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 354080,
+          "artists": [
+            "Yes"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Dear Father",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 252933,
+          "artists": [
+            "Yes"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original 1975 compilation, eight tracks.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 8,
+      "availabilityNote": null,
+      "verificationNotes": "Original1975 eight-track Yesterdays compilation, not different Yes anthology."
+    },
+    {
+      "id": "right-24",
+      "title": "Together",
+      "artist": "Johnny Winter & Edgar Winter",
+      "status": "matched",
+      "spotifyId": "2kdNGRXwcFLfB30bYBDmE3",
+      "spotifyUrl": "https://open.spotify.com/album/2kdNGRXwcFLfB30bYBDmE3",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/2kdNGRXwcFLfB30bYBDmE3"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/2kdNGRXwcFLfB30bYBDmE3.metadata.json",
+          "pageTitle": "Together - Album by Edgar Winter | Spotify",
+          "albumUri": "spotify:album:2kdNGRXwcFLfB30bYBDmE3",
+          "sha256": "1aa216da0747766c0d46de9d5fc27aebb0023dfcef8700229f2939516985a507"
+        }
+      ],
+      "spotifyTitle": "Together",
+      "spotifyArtists": [
+        "Edgar Winter"
+      ],
+      "spotifyTrackArtists": [
+        "Edgar Winter",
+        "Johnny Winter"
+      ],
+      "spotifyDate": {
+        "day": 29,
+        "month": 3,
+        "year": 1976
+      },
+      "spotifyTrackCount": 7,
+      "trackList": [
+        {
+          "title": "Harlem Shuffle - Live",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 231066,
+          "artists": [
+            "Edgar Winter",
+            "Johnny Winter"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Soul Man - Live",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 181600,
+          "artists": [
+            "Edgar Winter",
+            "Johnny Winter"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "You've Lost That Lovin' Feelin' - Live",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 319866,
+          "artists": [
+            "Edgar Winter",
+            "Johnny Winter"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Rock & Roll Medley - Live",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 362466,
+          "artists": [
+            "Edgar Winter",
+            "Johnny Winter"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Let the Good Times Roll - Live",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 205773,
+          "artists": [
+            "Edgar Winter",
+            "Johnny Winter"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Mercy, Mercy - Live",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 248693,
+          "artists": [
+            "Edgar Winter",
+            "Johnny Winter"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Baby, Whatcha Want Me to Do - Live",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 663506,
+          "artists": [
+            "Edgar Winter",
+            "Johnny Winter"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original live album by Johnny and Edgar Winter; Spotify lists Edgar as album artist.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 7,
+      "availabilityNote": null,
+      "verificationNotes": "Original1976 seven-track Winter brothers live album, not2011 WinterBrothers anthology."
+    },
+    {
+      "id": "right-27",
+      "title": "…But Seriously, Folks!",
+      "artist": "Joe Walsh",
+      "status": "matched",
+      "spotifyId": "5yqBTSoJqE9EfApl2Pptva",
+      "spotifyUrl": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/5yqBTSoJqE9EfApl2Pptva.metadata.json",
+          "pageTitle": "But Seriously, Folks... - Album by Joe Walsh | Spotify",
+          "albumUri": "spotify:album:5yqBTSoJqE9EfApl2Pptva",
+          "sha256": "060f8aa9ec0ff81c9aeb8c6d28d39bc47773201b6b45c789ae20ebfa9a9f78ac"
+        }
+      ],
+      "spotifyTitle": "But Seriously, Folks...",
+      "spotifyArtists": [
+        "Joe Walsh"
+      ],
+      "spotifyTrackArtists": [
+        "Joe Walsh"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 6,
+        "year": 1978
+      },
+      "spotifyTrackCount": 8,
+      "trackList": [
+        {
+          "title": "Over and Over",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 292600,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Second Hand Store",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 215333,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Indian Summer",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 183200,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "At the Station",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 308293,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Tomorrow",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 219240,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Inner Tube",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 84640,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Theme from Boat Weirdos",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 281893,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Life's Been Good",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 536226,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original eight-track album.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 8,
+      "availabilityNote": null,
+      "verificationNotes": "Same original album/programme; digital mastering/pressing may differ from the photographed LP."
+    },
+    {
+      "id": "right-28",
+      "title": "Barnstorm",
+      "artist": "Joe Walsh",
+      "status": "matched",
+      "spotifyId": "2mSYM0x3K8DxJar56FRlx4",
+      "spotifyUrl": "https://open.spotify.com/album/2mSYM0x3K8DxJar56FRlx4",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/2mSYM0x3K8DxJar56FRlx4"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/2mSYM0x3K8DxJar56FRlx4.metadata.json",
+          "pageTitle": "Barnstorm - Album by Joe Walsh | Spotify",
+          "albumUri": "spotify:album:2mSYM0x3K8DxJar56FRlx4",
+          "sha256": "0825dd246fd6c8581448629580cbbecb2a6e24106cd11a67b258c99adf2faf2c"
+        }
+      ],
+      "spotifyTitle": "Barnstorm",
+      "spotifyArtists": [
+        "Joe Walsh"
+      ],
+      "spotifyTrackArtists": [
+        "Joe Walsh"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 1972
+      },
+      "spotifyTrackCount": 10,
+      "trackList": [
+        {
+          "title": "Here We Go",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 298133,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Midnight Visitor",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 193960,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "One And One",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 75266,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Giant Bohemoth",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 260106,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Mother Says",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 375400,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Birdcall Morning",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 223093,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Home",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 173706,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "I'll Tell The World About You",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 235626,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Turn To Stone",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 320200,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Comin' Down",
+          "disc": 1,
+          "number": 10,
+          "durationMs": 116600,
+          "artists": [
+            "Joe Walsh"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original ten-track album.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 10,
+      "availabilityNote": null,
+      "verificationNotes": "Same original album/programme; digital mastering/pressing may differ from the photographed LP."
+    },
+    {
+      "id": "right-29",
+      "title": "Journey to the Centre of the Earth",
+      "artist": "Rick Wakeman",
+      "status": "matched",
+      "spotifyId": "3TYOdKDhbQihMNCb9LkvNJ",
+      "spotifyUrl": "https://open.spotify.com/album/3TYOdKDhbQihMNCb9LkvNJ",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/3TYOdKDhbQihMNCb9LkvNJ"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/3TYOdKDhbQihMNCb9LkvNJ.metadata.json",
+          "pageTitle": "Journey To The Centre Of The Earth - Album by Rick Wakeman | Spotify",
+          "albumUri": "spotify:album:3TYOdKDhbQihMNCb9LkvNJ",
+          "sha256": "96902b7adbdd2e911af7dd659a52e90070d1d7a9d52fb4ee9cd11190eb43b066"
+        }
+      ],
+      "spotifyTitle": "Journey To The Centre Of The Earth",
+      "spotifyArtists": [
+        "Rick Wakeman"
+      ],
+      "spotifyTrackArtists": [
+        "Rick Wakeman"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 1974
+      },
+      "spotifyTrackCount": 4,
+      "trackList": [
+        {
+          "title": "The Journey",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 535573,
+          "artists": [
+            "Rick Wakeman"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Recollection",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 734680,
+          "artists": [
+            "Rick Wakeman"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "The Battle",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 623866,
+          "artists": [
+            "Rick Wakeman"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "The Forest",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 513413,
+          "artists": [
+            "Rick Wakeman"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original 1974 live recording, indexed as four digital sections.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 4,
+      "availabilityNote": null,
+      "verificationNotes": "Original1974 A&M live recording in four digital sections matching the original two LP sides.2014 expanded/re-recorded28-track MusicFusion version rejected."
+    },
+    {
+      "id": "right-32",
+      "title": "Foreign Affairs",
+      "artist": "Tom Waits",
+      "status": "matched",
+      "spotifyId": "3NPfQpsF12YXk6FJp7mW2Y",
+      "spotifyUrl": "https://open.spotify.com/album/3NPfQpsF12YXk6FJp7mW2Y",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/3NPfQpsF12YXk6FJp7mW2Y"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/3NPfQpsF12YXk6FJp7mW2Y.metadata.json",
+          "pageTitle": "Foreign Affairs - Album by Tom Waits | Spotify",
+          "albumUri": "spotify:album:3NPfQpsF12YXk6FJp7mW2Y",
+          "sha256": "3df2a4cd576785e6591f8023a9b35fcf32c1f36f0259c544413c65bc0ff55801"
+        }
+      ],
+      "spotifyTitle": "Foreign Affairs",
+      "spotifyArtists": [
+        "Tom Waits"
+      ],
+      "spotifyTrackArtists": [
+        "Tom Waits"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 9,
+        "year": 1977
+      },
+      "spotifyTrackCount": 9,
+      "trackList": [
+        {
+          "title": "Cinny's Waltz",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 137266,
+          "artists": [
+            "Tom Waits"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Muriel",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 213933,
+          "artists": [
+            "Tom Waits"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "I Never Talk To Strangers",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 218466,
+          "artists": [
+            "Tom Waits"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Medley: Jack & Neal / California Here I Come",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 301306,
+          "artists": [
+            "Tom Waits"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "A Sight For Sore Eyes",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 280360,
+          "artists": [
+            "Tom Waits"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Potter's Field",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 520440,
+          "artists": [
+            "Tom Waits"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Burma-Shave",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 394800,
+          "artists": [
+            "Tom Waits"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Barber Shop",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 234666,
+          "artists": [
+            "Tom Waits"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Foreign Affair",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 226160,
+          "artists": [
+            "Tom Waits"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "Reissue of the original nine-track album.",
+      "availableMarketsObserved": [],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 9,
+      "availabilityNote": null,
+      "verificationNotes": "Original1977 nine-track album; digitalcopyright2017 is reissue, not different performance."
+    },
+    {
+      "id": "right-39",
+      "title": "Clayton",
+      "artist": "David Clayton-Thomas",
+      "status": "unresolved",
+      "spotifyId": null,
+      "spotifyUrl": null,
+      "reason": "No exact Spotify album or matching original ten-track programme found after title/year variants, the official artist discography, and searches for distinctive LP tracks. The 1972 self-titled Sony album is a different recording/programme and is explicitly rejected. This is not proof that Clayton is unavailable in every region.",
+      "sources": [
+        "https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa",
+        "https://open.spotify.com/album/2lY12htZvAlREG2jbfFG8a"
+      ],
+      "evidence": [
+        {
+          "type": "Official Spotify artist public initialState and page title",
+          "path": "site/research/spotify-link-evidence-right/0iC9XXKywTVieFeRoYSZoa.metadata.json"
+        },
+        {
+          "type": "Photographed LP outer rear programme",
+          "path": "site/dist/assets/covers/right-39-lp-back.jpg"
+        }
+      ],
+      "physicalProgramme": [
+        "Laying Down Rock And Roll",
+        "Fooled Ya",
+        "Homeward Bound",
+        "Sweet Sixteen",
+        "I’m A Free Man",
+        "Liberated Girls Don’t Cry",
+        "Friday The 13th Child",
+        "Professor Longhair",
+        "Sugar Comes From Arkansas",
+        "Drown In My Own Tears"
+      ],
+      "queries": [
+        "Clayton David Clayton-Thomas Spotify album 1978 /1977 ABC",
+        "David Clayton-Thomas Laying Down Rock And Roll Spotify",
+        "David Clayton-Thomas Liberated Girls Dont Cry Spotify",
+        "David Clayton-Thomas Friday The13th Child Spotify",
+        "David Clayton-Thomas Professor Longhair /Sugar Comes From Arkansas /Homeward Bound Spotify"
+      ],
+      "rejectedCandidates": [
+        {
+          "spotifyId": "2lY12htZvAlREG2jbfFG8a",
+          "spotifyUrl": "https://open.spotify.com/album/2lY12htZvAlREG2jbfFG8a",
+          "title": "David Clayton-Thomas",
+          "reason": "1972 album begins Magnificent Sanctuary Band /Were All Meat From TheSame Bone; none of the requested ten-track Clayton programme. Not interchangeable with original ABC Clayton."
+        }
+      ]
+    },
+    {
+      "id": "right-42",
+      "title": "Flag",
+      "artist": "James Taylor",
+      "status": "matched",
+      "spotifyId": "0TIfxixxwXalbIiNRSvKoF",
+      "spotifyUrl": "https://open.spotify.com/album/0TIfxixxwXalbIiNRSvKoF",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/0TIfxixxwXalbIiNRSvKoF"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/0TIfxixxwXalbIiNRSvKoF.metadata.json",
+          "pageTitle": "Flag - Album by James Taylor | Spotify",
+          "albumUri": "spotify:album:0TIfxixxwXalbIiNRSvKoF",
+          "sha256": "ce0ee96683ff76250688982ded23d5106c9d9bcd8e4c93adbf73bd2479d1d969"
+        }
+      ],
+      "spotifyTitle": "Flag",
+      "spotifyArtists": [
+        "James Taylor"
+      ],
+      "spotifyTrackArtists": [
+        "James Taylor"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 1979
+      },
+      "spotifyTrackCount": 12,
+      "trackList": [
+        {
+          "title": "Company Man",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 224973,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Johnnie Comes Back",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 234000,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Day Tripper",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 264400,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "I Will Not Lie for You",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 194800,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Brother Trucker",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 240866,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Is That the Way You Look?",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 117666,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "B.S.U.R.",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 201240,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Rainy Day Man",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 179293,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Millworker",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 231733,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Up On The Roof",
+          "disc": 1,
+          "number": 10,
+          "durationMs": 260066,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Chanson Francaise",
+          "disc": 1,
+          "number": 11,
+          "durationMs": 121906,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Sleep Come Free Me",
+          "disc": 1,
+          "number": 12,
+          "durationMs": 282133,
+          "artists": [
+            "James Taylor"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original twelve-track album.",
+      "availableMarketsObserved": [],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 12,
+      "availabilityNote": null,
+      "verificationNotes": "Same original album/programme; digital mastering/pressing may differ from the photographed LP."
+    },
+    {
+      "id": "right-48",
+      "title": "Happy Just to Be Like I Am",
+      "artist": "Taj Mahal",
+      "status": "matched",
+      "spotifyId": "4qUaN7ScvMt6pZ73D9g43i",
+      "spotifyUrl": "https://open.spotify.com/album/4qUaN7ScvMt6pZ73D9g43i",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/4qUaN7ScvMt6pZ73D9g43i"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/4qUaN7ScvMt6pZ73D9g43i.metadata.json",
+          "pageTitle": "Happy Just To Be Like I Am - Album by Taj Mahal | Spotify",
+          "albumUri": "spotify:album:4qUaN7ScvMt6pZ73D9g43i",
+          "sha256": "daa1760ff0842fa7b4fba4d0eb01ca872cddfdbb7e0d3cc446e2a3e7404e6de4"
+        }
+      ],
+      "spotifyTitle": "Happy Just To Be Like I Am",
+      "spotifyArtists": [
+        "Taj Mahal"
+      ],
+      "spotifyTrackArtists": [
+        "Taj Mahal"
+      ],
+      "spotifyDate": {
+        "day": 9,
+        "month": 6,
+        "year": 1971
+      },
+      "spotifyTrackCount": 8,
+      "trackList": [
+        {
+          "title": "Happy Just to Be Like I Am",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 229426,
+          "artists": [
+            "Taj Mahal"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Stealin'",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 418400,
+          "artists": [
+            "Taj Mahal"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Oh Susanna",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 319000,
+          "artists": [
+            "Taj Mahal"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Eighteen Hammers",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 345173,
+          "artists": [
+            "Taj Mahal"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Tomorrow May Not Be Your Day",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 254533,
+          "artists": [
+            "Taj Mahal"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Chevrolet",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 163600,
+          "artists": [
+            "Taj Mahal"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "West Indian Revelation",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 367666,
+          "artists": [
+            "Taj Mahal"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Black Spirit Boogie",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 428866,
+          "artists": [
+            "Taj Mahal"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The original eight-track album.",
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 8,
+      "availabilityNote": null,
+      "verificationNotes": "Same original album/programme; digital mastering/pressing may differ from the photographed LP."
+    },
+    {
+      "id": "right-50",
+      "title": "Crisis? What Crisis?",
+      "artist": "Supertramp",
+      "status": "matched",
+      "spotifyId": "2Nip1nntVPSdHJs0ZcRRHg",
+      "spotifyUrl": "https://open.spotify.com/album/2Nip1nntVPSdHJs0ZcRRHg",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/2Nip1nntVPSdHJs0ZcRRHg"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/2Nip1nntVPSdHJs0ZcRRHg.metadata.json",
+          "pageTitle": "Crisis? What Crisis? (Remastered 2025) - Album by Supertramp | Spotify",
+          "albumUri": "spotify:album:2Nip1nntVPSdHJs0ZcRRHg",
+          "sha256": "f84ddf3e0067c490e0f62e50bbfb2c041be91879efbdc25c2b949a540429c6c1"
+        },
+        {
+          "type": "Spotify original-album relinking and track albumOfTrack",
+          "paths": [
+            "site/research/spotify-link-evidence-right/5Fliz4RQcDktb93l1uYDka.metadata.json",
+            "site/research/spotify-link-evidence-right/4fAybZqd1Lkxfgl6CsTecU.metadata.json"
+          ]
+        }
+      ],
+      "spotifyTitle": "Crisis? What Crisis? (Remastered 2025)",
+      "spotifyArtists": [
+        "Supertramp"
+      ],
+      "spotifyTrackArtists": [
+        "Supertramp"
+      ],
+      "spotifyDate": {
+        "day": 15,
+        "month": 11,
+        "year": 1975
+      },
+      "spotifyTrackCount": 10,
+      "trackList": [
+        {
+          "title": "Easy Does It - Remastered 2025",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 138933,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Sister Moonshine - Remastered 2025",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 316493,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Ain't Nobody But Me - Remastered 2025",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 315026,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "A Soapbox Opera - Remastered 2025",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 293480,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Another Man's Woman - Remastered 2025",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 387920,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Lady - Remastered 2025",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 325480,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Poor Boy - Remastered 2025",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 307613,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Just A Normal Day - Remastered 2025",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 242520,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "The Meaning - Remastered 2025",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 324040,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Two Of Us - Remastered 2025",
+          "disc": 1,
+          "number": 10,
+          "durationMs": 209080,
+          "artists": [
+            "Supertramp"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "availableMarketsObserved": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "editionNotes": "2025 remaster of the original ten-track album.",
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 10,
+      "availabilityNote": "All ten tracks were playable in the Canadian public metadata.",
+      "verificationNotes": "Current2025 remaster of original1975 ten-track studio album; same songs/performance, remaster explicitly allowed. Superseded5Fliz4RQcDktb93l1uYDka metadata retained as discovery; its tracks relink to2025 remaster and one remainedunplayable."
+    },
+    {
+      "id": "right-53",
+      "title": "Solo Concerts: Bremen / Lausanne",
+      "artist": "Keith Jarrett",
+      "status": "matched",
+      "spotifyId": "2CMCLp7kOI8Be6rPaYyHeZ",
+      "spotifyUrl": "https://open.spotify.com/album/2CMCLp7kOI8Be6rPaYyHeZ",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/2CMCLp7kOI8Be6rPaYyHeZ"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/2CMCLp7kOI8Be6rPaYyHeZ.metadata.json",
+          "pageTitle": "Solo-Concerts Bremen / Lausanne (Live) - Album by Keith Jarrett | Spotify",
+          "albumUri": "spotify:album:2CMCLp7kOI8Be6rPaYyHeZ",
+          "sha256": "1897bc159316881b60eaecbd0b6f4227fbb56ac995625c712fe56faa3d0d7ff5"
+        }
+      ],
+      "spotifyTitle": "Solo-Concerts Bremen / Lausanne (Live)",
+      "spotifyArtists": [
+        "Keith Jarrett"
+      ],
+      "spotifyTrackArtists": [
+        "Keith Jarrett"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 11,
+        "year": 1973
+      },
+      "spotifyTrackCount": 3,
+      "trackList": [
+        {
+          "title": "Bremen, July 12, 1973, Part I - Live",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 1083333,
+          "artists": [
+            "Keith Jarrett"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Bremen, July 12, 1973, Part II - Live",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 2709173,
+          "artists": [
+            "Keith Jarrett"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Lausanne, March 20, 1973 - Live",
+          "disc": 2,
+          "number": 1,
+          "durationMs": 3893573,
+          "artists": [
+            "Keith Jarrett"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "The complete original concerts, indexed as three digital tracks.",
+      "availableMarketsObserved": [],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 3,
+      "availabilityNote": null,
+      "verificationNotes": "Original1973 BremenJuly12 and LausanneMarch20 solo concerts; full128minute programme resegmented into three digital tracks instead of LP-side divisions."
+    },
+    {
+      "id": "right-54",
+      "title": "Mose Allison",
+      "artist": "Mose Allison",
+      "status": "matched",
+      "spotifyId": "2gGyT3XsV20lQg1zy0w467",
+      "spotifyUrl": "https://open.spotify.com/album/2gGyT3XsV20lQg1zy0w467",
+      "reason": null,
+      "sources": [
+        "https://open.spotify.com/album/2gGyT3XsV20lQg1zy0w467",
+        "https://concord.com/concord-albums/mose-allison-2-fer-2/"
+      ],
+      "evidence": [
+        {
+          "type": "Spotify public initialState",
+          "path": "site/research/spotify-link-evidence-right/2gGyT3XsV20lQg1zy0w467.metadata.json",
+          "pageTitle": "Mose Allison [2-fer] - Album by Mose Allison | Spotify",
+          "albumUri": "spotify:album:2gGyT3XsV20lQg1zy0w467",
+          "sha256": "840de584fab88a217a478ed45204f4820faf6dac152815d9561b94b532de974e"
+        }
+      ],
+      "spotifyTitle": "Mose Allison [2-fer]",
+      "spotifyArtists": [
+        "Mose Allison"
+      ],
+      "spotifyTrackArtists": [
+        "Mose Allison"
+      ],
+      "spotifyDate": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "spotifyTrackCount": 25,
+      "trackList": [
+        {
+          "title": "New Ground",
+          "disc": 1,
+          "number": 1,
+          "durationMs": 125133,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Train",
+          "disc": 1,
+          "number": 2,
+          "durationMs": 110933,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Warm Night",
+          "disc": 1,
+          "number": 3,
+          "durationMs": 107373,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Young Man's Blues",
+          "disc": 1,
+          "number": 4,
+          "durationMs": 88560,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Saturday",
+          "disc": 1,
+          "number": 5,
+          "durationMs": 83200,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Scamper",
+          "disc": 1,
+          "number": 6,
+          "durationMs": 136040,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "January",
+          "disc": 1,
+          "number": 7,
+          "durationMs": 98866,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Promised Land",
+          "disc": 1,
+          "number": 8,
+          "durationMs": 123960,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Spring Song",
+          "disc": 1,
+          "number": 9,
+          "durationMs": 83426,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Highway 49",
+          "disc": 1,
+          "number": 10,
+          "durationMs": 100120,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Blueberry Hill",
+          "disc": 1,
+          "number": 11,
+          "durationMs": 179613,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "You Won't Let Me Go",
+          "disc": 1,
+          "number": 12,
+          "durationMs": 226893,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "I Thought About You",
+          "disc": 1,
+          "number": 13,
+          "durationMs": 232213,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "One Room Country Shack",
+          "disc": 1,
+          "number": 14,
+          "durationMs": 184453,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "In Salah",
+          "disc": 1,
+          "number": 15,
+          "durationMs": 228133,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Parchman Farm",
+          "disc": 1,
+          "number": 16,
+          "durationMs": 201026,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Carnival",
+          "disc": 1,
+          "number": 17,
+          "durationMs": 182440,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Crespuscular Air",
+          "disc": 1,
+          "number": 18,
+          "durationMs": 226426,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Mojo Woman",
+          "disc": 1,
+          "number": 19,
+          "durationMs": 245826,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Town",
+          "disc": 1,
+          "number": 20,
+          "durationMs": 205413,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Trouble In Mind",
+          "disc": 1,
+          "number": 21,
+          "durationMs": 197693,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Lost Mind",
+          "disc": 1,
+          "number": 22,
+          "durationMs": 214093,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "I'll Never Be Free",
+          "disc": 1,
+          "number": 23,
+          "durationMs": 340160,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Don't Ever Say Goodbye",
+          "disc": 1,
+          "number": 24,
+          "durationMs": 195693,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        },
+        {
+          "title": "Ain't You A Mess",
+          "disc": 1,
+          "number": 25,
+          "durationMs": 162413,
+          "artists": [
+            "Mose Allison"
+          ],
+          "playableInFetchedMarket": true
+        }
+      ],
+      "editionNotes": "Original Prestige twofer: Back Country Suite and Local Color, 25 tracks.",
+      "availableMarketsObserved": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BA",
+        "BD",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CW",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "EG",
+        "FI",
+        "FJ",
+        "FR",
+        "GB",
+        "GN",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HR",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JP",
+        "KH",
+        "KR",
+        "LA",
+        "LI",
+        "LK",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "ME",
+        "MK",
+        "MT",
+        "MU",
+        "MX",
+        "MY",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "UA",
+        "US",
+        "VE",
+        "VN",
+        "XK",
+        "ZA"
+      ],
+      "verification": "Official Spotify public album URI, title, performer credits, date and complete tracklist were inspected and compared with the physical album/research LP programme.",
+      "fetchedMarket": "CA",
+      "playableTracksObserved": 25,
+      "availabilityNote": null,
+      "verificationNotes": "PhysicalPrestige24002 compilation matches Concord2007 MoseAllison[2-fer]:25tracks, BackCountrySuite1–15+LocalColor16–25. Verified with Concordlabel description; not Prestige7502 or unrelated self-titled album."
+    }
+  ],
+  "completed": "2026-10-14T05:24:37.324906+00:00",
+  "canonicalShardSha256": "9c717269bd6c6a2a91fb5a57e7d60d06ec59c242ebb86908ca22e8fe77f28e1a"
+}

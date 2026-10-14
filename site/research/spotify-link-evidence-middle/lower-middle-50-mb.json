@@ -1,0 +1,59 @@
+{
+  "id": "lower-middle-50",
+  "groups": [
+    "a82c4b78-9e9a-390c-af1f-3c8a8a44c555",
+    "a82c4b78-9e9a-390c-af1f-3c8a8a44c555"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=a82c4b78-9e9a-390c-af1f-3c8a8a44c555&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 32
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "42KK3F8HTm1dyv5iFsCXdw",
+      "spotifyUrl": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw",
+      "musicbrainzReleaseId": "d2063c4b-2a50-4111-942c-bc41c7d63578",
+      "musicbrainzTitle": "White Christmas",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "type": "Person",
+            "name": "Bing Crosby",
+            "id": "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+            "disambiguation": "",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "sort-name": "Crosby, Bing"
+          },
+          "joinphrase": "",
+          "name": "Bing Crosby"
+        }
+      ],
+      "musicbrainzDate": "2023-10-31"
+    },
+    {
+      "spotifyId": "14TY9gKgbCeJeezD8uGnD4",
+      "spotifyUrl": "https://open.spotify.com/album/14TY9gKgbCeJeezD8uGnD4",
+      "musicbrainzReleaseId": "eca4333d-cfd2-435b-85fe-89fc6a467051",
+      "musicbrainzTitle": "White Christmas",
+      "musicbrainzArtists": [
+        {
+          "joinphrase": "",
+          "name": "Bing Crosby",
+          "artist": {
+            "sort-name": "Crosby, Bing",
+            "country": "US",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "disambiguation": "",
+            "id": "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+            "type": "Person",
+            "name": "Bing Crosby"
+          }
+        }
+      ],
+      "musicbrainzDate": "2010"
+    }
+  ]
+}

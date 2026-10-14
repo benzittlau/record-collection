@@ -1,0 +1,36 @@
+{
+  "id": "upper-middle-40",
+  "groups": [
+    "fe9bfd8f-0294-3fda-8bc3-fae55726a4a7"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=fe9bfd8f-0294-3fda-8bc3-fae55726a4a7&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 10
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "7J0OL2Ai73lJZu06coM0Oo",
+      "spotifyUrl": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo",
+      "musicbrainzReleaseId": "eb096d57-31e6-4aa0-b4a6-7683b008de5e",
+      "musicbrainzTitle": "Visions of the Emerald Beyond",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "country": "US",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Mahavishnu Orchestra",
+            "id": "a2be74f5-0735-46f7-a295-7e41aab30029",
+            "disambiguation": "",
+            "name": "Mahavishnu Orchestra",
+            "type": "Group"
+          },
+          "joinphrase": "",
+          "name": "Mahavishnu Orchestra"
+        }
+      ],
+      "musicbrainzDate": "2007-09-25"
+    }
+  ]
+}

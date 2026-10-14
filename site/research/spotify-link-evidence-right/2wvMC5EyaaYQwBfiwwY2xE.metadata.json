@@ -1,0 +1,3371 @@
+{
+  "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE",
+  "resolvedUrl": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE",
+  "fetchedAt": "2026-10-14T05:10:59Z",
+  "pageTitle": "Life&#x27;s Been Good - song and lyrics by Joe Walsh | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:2wvMC5EyaaYQwBfiwwY2xE": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "© 1978 Elektra Entertainment.",
+                  "type": "C"
+                },
+                {
+                  "text": "℗ 1978 Elektra Entertainment Company Inc. Marketed by Rhino Entertainment Company, a Warner Music Group Company.",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#377EA5"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048513cc721dd5e7c331ba8528b09",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e023cc721dd5e7c331ba8528b09",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2733cc721dd5e7c331ba8528b09",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 1,
+              "month": 6,
+              "year": 1978
+            },
+            "isPreRelease": false,
+            "name": "But Seriously, Folks...",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "67jSqUwOdfDKoSPex04ECg",
+                    "name": "Over and Over",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:67jSqUwOdfDKoSPex04ECg",
+                    "duration": {
+                      "totalMilliseconds": 292600
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1BypOJtVpNibD0dZs6le9P",
+                    "name": "Second Hand Store",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:1BypOJtVpNibD0dZs6le9P",
+                    "duration": {
+                      "totalMilliseconds": 215333
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "44yC6xqdIvE4G60mGc81ng",
+                    "name": "Indian Summer",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:44yC6xqdIvE4G60mGc81ng",
+                    "duration": {
+                      "totalMilliseconds": 183200
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0ew37Xvl9tL3HFzooLqpWo",
+                    "name": "At the Station",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:0ew37Xvl9tL3HFzooLqpWo",
+                    "duration": {
+                      "totalMilliseconds": 308293
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "6DlDXlxeKkb3yeg1KIIXfM",
+                    "name": "Tomorrow",
+                    "trackNumber": 5,
+                    "uri": "spotify:track:6DlDXlxeKkb3yeg1KIIXfM",
+                    "duration": {
+                      "totalMilliseconds": 219240
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5X8B5hBhjKuY2Z7yBkQjft",
+                    "name": "Inner Tube",
+                    "trackNumber": 6,
+                    "uri": "spotify:track:5X8B5hBhjKuY2Z7yBkQjft",
+                    "duration": {
+                      "totalMilliseconds": 84640
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4AdONwvS2DG3HUPYvTGsDI",
+                    "name": "Theme from Boat Weirdos",
+                    "trackNumber": 7,
+                    "uri": "spotify:track:4AdONwvS2DG3HUPYvTGsDI",
+                    "duration": {
+                      "totalMilliseconds": 281893
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "5bDxAyJiTYBat1YnFJhvEK",
+                          "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                          "profile": {
+                            "name": "Joe Walsh"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2wvMC5EyaaYQwBfiwwY2xE",
+                    "name": "Life's Been Good",
+                    "trackNumber": 8,
+                    "uri": "spotify:track:2wvMC5EyaaYQwBfiwwY2xE",
+                    "duration": {
+                      "totalMilliseconds": 536226
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "ALBUM",
+            "uri": "spotify:album:5yqBTSoJqE9EfApl2Pptva"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0262c3338da7c05042a651e81f",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485162c3338da7c05042a651e81f",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27362c3338da7c05042a651e81f",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2012
+                              },
+                              "id": "076bM8NjtRgmIGGrF3Mb6k",
+                              "name": "Analog Man",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:076bM8NjtRgmIGGrF3Mb6k"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e024b7b914dbcd0966d70e2d33a",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048514b7b914dbcd0966d70e2d33a",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2734b7b914dbcd0966d70e2d33a",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1992
+                              },
+                              "id": "2kE2LKtYcngq0UPxZya2Du",
+                              "name": "Songs for a Dying Planet",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:2kE2LKtYcngq0UPxZya2Du"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e028c49d25f94e58de707018bf1",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048518c49d25f94e58de707018bf1",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2738c49d25f94e58de707018bf1",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1991
+                              },
+                              "id": "1ktJ6umFTeO2gDeEODzjZG",
+                              "name": "Ordinary Average Guy",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:1ktJ6umFTeO2gDeEODzjZG"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e022a1e7e51ad0c399dc9b86e10",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048512a1e7e51ad0c399dc9b86e10",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2732a1e7e51ad0c399dc9b86e10",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1987
+                              },
+                              "id": "6Is4r41K1zGhe0dOYhoAZV",
+                              "name": "Got Any Gum?",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:6Is4r41K1zGhe0dOYhoAZV"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02e5e8947c2cfcf9f94b6ab38a",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851e5e8947c2cfcf9f94b6ab38a",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273e5e8947c2cfcf9f94b6ab38a",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1985
+                              },
+                              "id": "2VjJO68TbOPy1Id8a1PCoO",
+                              "name": "The Confessor",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:2VjJO68TbOPy1Id8a1PCoO"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0240824d3e55357e59ad1b619c",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485140824d3e55357e59ad1b619c",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27340824d3e55357e59ad1b619c",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 1983
+                              },
+                              "id": "2e9fTNNnhdHMNnzgTfXqnz",
+                              "name": "You Bought It - You Name It",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:2e9fTNNnhdHMNnzgTfXqnz"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e023cc721dd5e7c331ba8528b09",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048513cc721dd5e7c331ba8528b09",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2733cc721dd5e7c331ba8528b09",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1978
+                        },
+                        "id": "5yqBTSoJqE9EfApl2Pptva",
+                        "name": "But Seriously, Folks...",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5yqBTSoJqE9EfApl2Pptva"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e022df4d3c8c429700194bc0dfe",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048512df4d3c8c429700194bc0dfe",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2732df4d3c8c429700194bc0dfe",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1973
+                        },
+                        "id": "6Sdkho6t0ure9XTzZXM2CK",
+                        "name": "The Smoker You Drink, The Player You Get",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6Sdkho6t0ure9XTzZXM2CK"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02997fc258e36fb14ef0e0836c",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851997fc258e36fb14ef0e0836c",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273997fc258e36fb14ef0e0836c",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1981
+                        },
+                        "id": "2hsMdQyMatj8wUABiwGgkN",
+                        "name": "There Goes the Neighborhood",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2hsMdQyMatj8wUABiwGgkN"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02029e00521464a1d3bd67fe4f",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851029e00521464a1d3bd67fe4f",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273029e00521464a1d3bd67fe4f",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1972
+                        },
+                        "id": "2mSYM0x3K8DxJar56FRlx4",
+                        "name": "Barnstorm",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2mSYM0x3K8DxJar56FRlx4"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02f49747a3993ec8298adfd481",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851f49747a3993ec8298adfd481",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273f49747a3993ec8298adfd481",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1974
+                        },
+                        "id": "2ZRni2AFuPtW6z5jBUD3Vf",
+                        "name": "So What (Reissue)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2ZRni2AFuPtW6z5jBUD3Vf"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0262c3338da7c05042a651e81f",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485162c3338da7c05042a651e81f",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27362c3338da7c05042a651e81f",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2012
+                        },
+                        "id": "076bM8NjtRgmIGGrF3Mb6k",
+                        "name": "Analog Man",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:076bM8NjtRgmIGGrF3Mb6k"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02f041a1c004b3caf0692913b3",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851f041a1c004b3caf0692913b3",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273f041a1c004b3caf0692913b3",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2025
+                              },
+                              "id": "5cdbGAB813CdwjVGPpcVzU",
+                              "name": "How Blues Is That (feat. Joe Walsh)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:5cdbGAB813CdwjVGPpcVzU"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e025592c84e9225d312b26de2e1",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048515592c84e9225d312b26de2e1",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2735592c84e9225d312b26de2e1",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2023
+                              },
+                              "id": "73hDokQXIjjMe6AqzG5PuI",
+                              "name": "Daughter Of Zion [Feat. Joe Walsh]",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:73hDokQXIjjMe6AqzG5PuI"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02e247b481f3d4d90345caeb20",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851e247b481f3d4d90345caeb20",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273e247b481f3d4d90345caeb20",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2021
+                              },
+                              "id": "2PDchDtorf4Bgh1HnR9Uf2",
+                              "name": "Prayers",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:2PDchDtorf4Bgh1HnR9Uf2"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02485cea464622ce25580ec322",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851485cea464622ce25580ec322",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273485cea464622ce25580ec322",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2019
+                              },
+                              "id": "2xUVNiUndby56rYOrcyYXP",
+                              "name": "Still The Good Old Days",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:2xUVNiUndby56rYOrcyYXP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e023cc721dd5e7c331ba8528b09",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048513cc721dd5e7c331ba8528b09",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2733cc721dd5e7c331ba8528b09",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "But Seriously, Folks...",
+                            "uri": "spotify:album:5yqBTSoJqE9EfApl2Pptva"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                                "profile": {
+                                  "name": "Joe Walsh"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "2wvMC5EyaaYQwBfiwwY2xE",
+                          "name": "Life's Been Good",
+                          "playcount": "235425217",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/4220b4db522c301195461f9aaaa099ca0a4536b5"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:2wvMC5EyaaYQwBfiwwY2xE",
+                          "duration": {
+                            "totalMilliseconds": 536226
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e022df4d3c8c429700194bc0dfe",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048512df4d3c8c429700194bc0dfe",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2732df4d3c8c429700194bc0dfe",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "The Smoker You Drink, The Player You Get",
+                            "uri": "spotify:album:6Sdkho6t0ure9XTzZXM2CK"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                                "profile": {
+                                  "name": "Joe Walsh"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "2XHjFJVXYlEzoDvN82h8s5",
+                          "name": "Rocky Mountain Way",
+                          "playcount": "119349874",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/0cad997484fdb994d28081317d3bfdb81ab6a1bf"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:2XHjFJVXYlEzoDvN82h8s5",
+                          "duration": {
+                            "totalMilliseconds": 315400
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02997fc258e36fb14ef0e0836c",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851997fc258e36fb14ef0e0836c",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273997fc258e36fb14ef0e0836c",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "There Goes the Neighborhood",
+                            "uri": "spotify:album:2hsMdQyMatj8wUABiwGgkN"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                                "profile": {
+                                  "name": "Joe Walsh"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "19P4fwkPhE6yVAXApFWDoF",
+                          "name": "A Life of Illusion",
+                          "playcount": "74747867",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/a515ecba89d009bbb6972ccd1c9c144b5c9adecc"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:19P4fwkPhE6yVAXApFWDoF",
+                          "duration": {
+                            "totalMilliseconds": 210533
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02340e89cfaf8abb296fdd2a42",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851340e89cfaf8abb296fdd2a42",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273340e89cfaf8abb296fdd2a42",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "The Warriors Original Motion Picture Soundtrack",
+                            "uri": "spotify:album:3PDBsXfz86WysGX0RAIJ8A"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                                "profile": {
+                                  "name": "Joe Walsh"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "3G863Tbi9fj5IshOoql1aO",
+                          "name": "In The City - From \"The Warriors\" Soundtrack",
+                          "playcount": "26651503",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/52e4886945c72404dd1c1a0c443fad53ea6c158e"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:3G863Tbi9fj5IshOoql1aO",
+                          "duration": {
+                            "totalMilliseconds": 235426
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "6QtGlUje9TIkLrgPZrESuk",
+                        "profile": {
+                          "name": "Steve Miller Band"
+                        },
+                        "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb624ddceb90bdf808ed4e2e35",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178624ddceb90bdf808ed4e2e35",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174624ddceb90bdf808ed4e2e35",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "59QxeZBL6k9L4oJBGSyukd",
+                        "profile": {
+                          "name": "The Marshall Tucker Band"
+                        },
+                        "uri": "spotify:artist:59QxeZBL6k9L4oJBGSyukd",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5eb814a74985d206ff8f90f603b",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178814a74985d206ff8f90f603b",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174814a74985d206ff8f90f603b",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "5AEG63ajney2BoDXi0Vb84",
+                        "profile": {
+                          "name": "Bad Company"
+                        },
+                        "uri": "spotify:artist:5AEG63ajney2BoDXi0Vb84",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/5533763367069f897bd7ff7d1af605fdebdc3cda",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/1f2c7fcf6eb198a511c8ec4ab6c73cfd403c039c",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/9c55022aa8174545408f0a464dd1662876ed1b8a",
+                                "width": 200
+                              },
+                              {
+                                "height": 1000,
+                                "url": "https://i.scdn.co/image/65d37e5c4ee9ef8bfb76de6a17e7c05316199724",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "4wQ3PyMz3WwJGI5uEqHUVR",
+                        "profile": {
+                          "name": "Allman Brothers Band"
+                        },
+                        "uri": "spotify:artist:4wQ3PyMz3WwJGI5uEqHUVR",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6772690000dd2208f5d15585b77b0cb059717b",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67726900008f7408f5d15585b77b0cb059717b",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/ab6772690000bac308f5d15585b77b0cb059717b",
+                                "width": 200
+                              },
+                              {
+                                "height": 1000,
+                                "url": "https://i.scdn.co/image/ab6772690000c46c08f5d15585b77b0cb059717b",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "3Fz2GbraVXhcpXnoi2Oe1r",
+                        "profile": {
+                          "name": "Billy Squier"
+                        },
+                        "uri": "spotify:artist:3Fz2GbraVXhcpXnoi2Oe1r",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 439,
+                                "url": "https://i.scdn.co/image/6c4cb6de46aa8bc810975a7206f749e361e4fcfe",
+                                "width": 640
+                              },
+                              {
+                                "height": 44,
+                                "url": "https://i.scdn.co/image/514adea598576bb4350d954ca60f9ce467b747fa",
+                                "width": 64
+                              },
+                              {
+                                "height": 137,
+                                "url": "https://i.scdn.co/image/a1364cd92580944034366880b6b5ec4b0de5f04d",
+                                "width": 200
+                              },
+                              {
+                                "height": 686,
+                                "url": "https://i.scdn.co/image/6935410b9596e72ad3249d58339f49f220020432",
+                                "width": 999
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "4tX2TplrkIP4v05BNC903e",
+                        "profile": {
+                          "name": "Tom Petty and the Heartbreakers"
+                        },
+                        "uri": "spotify:artist:4tX2TplrkIP4v05BNC903e",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5ebc73be691a18c338234454a0b",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178c73be691a18c338234454a0b",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174c73be691a18c338234454a0b",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "5bDxAyJiTYBat1YnFJhvEK",
+                "profile": {
+                  "name": "Joe Walsh"
+                },
+                "stats": {
+                  "monthlyListeners": 2876121
+                },
+                "uri": "spotify:artist:5bDxAyJiTYBat1YnFJhvEK",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6772690000dd22cebc6873bca310c2d26a9819",
+                        "width": 640
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67726900008f74cebc6873bca310c2d26a9819",
+                        "width": 64
+                      },
+                      {
+                        "height": 200,
+                        "url": "https://i.scdn.co/image/ab6772690000bac3cebc6873bca310c2d26a9819",
+                        "width": 200
+                      },
+                      {
+                        "height": 1000,
+                        "url": "https://i.scdn.co/image/ab6772690000c46ccebc6873bca310c2d26a9819",
+                        "width": 1000
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "__typename": "Market",
+                "countryCode": "AR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MX"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ES"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "US"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ID"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "QA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "OM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ME"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BF"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ML"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "WS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ST"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ET"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 536226
+          },
+          "id": "2wvMC5EyaaYQwBfiwwY2xE",
+          "mediaType": "AUDIO",
+          "name": "Life's Been Good",
+          "playability": {
+            "playable": true
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/4220b4db522c301195461f9aaaa099ca0a4536b5"
+                }
+              ]
+            }
+          },
+          "trackNumber": 8,
+          "uri": "spotify:track:2wvMC5EyaaYQwBfiwwY2xE"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "2wvMC5EyaaYQwBfiwwY2xE": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:2wvMC5EyaaYQwBfiwwY2xE"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022fc23e78e87d793054bba090",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512fc23e78e87d793054bba090",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732fc23e78e87d793054bba090",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0fjJOLqG3v7vXRYhz2wxPC",
+              "name": "Fly Like An Eagle",
+              "uri": "spotify:album:0fjJOLqG3v7vXRYhz2wxPC"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "6QtGlUje9TIkLrgPZrESuk",
+                  "profile": {
+                    "name": "Steve Miller Band"
+                  },
+                  "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+                }
+              ]
+            },
+            "id": "1orVKbp6vqtfAPOmvRofVq",
+            "name": "Rock'n Me",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/845fea63f1fa358c71a3da5ef0a233751d300e04"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:1orVKbp6vqtfAPOmvRofVq"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022fc23e78e87d793054bba090",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512fc23e78e87d793054bba090",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732fc23e78e87d793054bba090",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0fjJOLqG3v7vXRYhz2wxPC",
+              "name": "Fly Like An Eagle",
+              "uri": "spotify:album:0fjJOLqG3v7vXRYhz2wxPC"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "6QtGlUje9TIkLrgPZrESuk",
+                  "profile": {
+                    "name": "Steve Miller Band"
+                  },
+                  "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+                }
+              ]
+            },
+            "id": "1ZhrREyOOeFV6TxDOyiPwu",
+            "name": "Take The Money And Run",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/9da8c751978f210d095662574bc5ca1403c22f53"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:1ZhrREyOOeFV6TxDOyiPwu"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d38733f240ef69763120a469",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d38733f240ef69763120a469",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d38733f240ef69763120a469",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0JBy4lxBlQIxMZ8qPMIJER",
+              "name": "Tom Petty And The Heartbreakers",
+              "uri": "spotify:album:0JBy4lxBlQIxMZ8qPMIJER"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "4tX2TplrkIP4v05BNC903e",
+                  "profile": {
+                    "name": "Tom Petty and the Heartbreakers"
+                  },
+                  "uri": "spotify:artist:4tX2TplrkIP4v05BNC903e"
+                }
+              ]
+            },
+            "id": "1HfB7BLeW5XXIJ9sjCaL5U",
+            "name": "Breakdown",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/7b4050fa114a61fb7ede824400d0bf4f84a51706"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:1HfB7BLeW5XXIJ9sjCaL5U"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02632b907273dba6a6062fb780",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851632b907273dba6a6062fb780",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273632b907273dba6a6062fb780",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "5hLazW5a3Ysgy3dncwGgUn",
+              "name": "Greatest Hits 1974-78",
+              "uri": "spotify:album:5hLazW5a3Ysgy3dncwGgUn"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "6QtGlUje9TIkLrgPZrESuk",
+                  "profile": {
+                    "name": "Steve Miller Band"
+                  },
+                  "uri": "spotify:artist:6QtGlUje9TIkLrgPZrESuk"
+                }
+              ]
+            },
+            "id": "2zI3bUYn2pcF27of6i2oqK",
+            "name": "Jet Airliner",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/f620ac1408252b55fe6c145b60753b7bd3327ddb"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:2zI3bUYn2pcF27of6i2oqK"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02626d1849afa1bc27a8743dfe",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851626d1849afa1bc27a8743dfe",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273626d1849afa1bc27a8743dfe",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "2Y5GORWYwVAZ8msuEuh5FN",
+              "name": "The Second",
+              "uri": "spotify:album:2Y5GORWYwVAZ8msuEuh5FN"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "1WRM9i067hd2ujxxi8FI3m",
+                  "profile": {
+                    "name": "Steppenwolf"
+                  },
+                  "uri": "spotify:artist:1WRM9i067hd2ujxxi8FI3m"
+                }
+              ]
+            },
+            "id": "4c4jJJoaiY21t2TyRZgdWS",
+            "name": "Magic Carpet Ride",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/46f4acfeccc879951d729c37777b6c8779e69c90"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:4c4jJJoaiY21t2TyRZgdWS"
+          }
+        ],
+        "uri": "spotify:track:2wvMC5EyaaYQwBfiwwY2xE",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e022fc23e78e87d793054bba090",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048512fc23e78e87d793054bba090",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2732fc23e78e87d793054bba090",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1976
+            },
+            "id": "0fjJOLqG3v7vXRYhz2wxPC",
+            "name": "Fly Like An Eagle",
+            "type": "ALBUM",
+            "uri": "spotify:album:0fjJOLqG3v7vXRYhz2wxPC"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02632b907273dba6a6062fb780",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851632b907273dba6a6062fb780",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273632b907273dba6a6062fb780",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1978
+            },
+            "id": "5hLazW5a3Ysgy3dncwGgUn",
+            "name": "Greatest Hits 1974-78",
+            "type": "COMPILATION",
+            "uri": "spotify:album:5hLazW5a3Ysgy3dncwGgUn"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02626d1849afa1bc27a8743dfe",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851626d1849afa1bc27a8743dfe",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273626d1849afa1bc27a8743dfe",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1968
+            },
+            "id": "2Y5GORWYwVAZ8msuEuh5FN",
+            "name": "The Second",
+            "type": "ALBUM",
+            "uri": "spotify:album:2Y5GORWYwVAZ8msuEuh5FN"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e020d9826176c32372e81a8a6cf",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048510d9826176c32372e81a8a6cf",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2730d9826176c32372e81a8a6cf",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1977
+            },
+            "id": "36G9sqbDXXbE7Mv9GTDMXd",
+            "name": "Book Of Dreams",
+            "type": "ALBUM",
+            "uri": "spotify:album:36G9sqbDXXbE7Mv9GTDMXd"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02676a8230a422123e8012557e",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851676a8230a422123e8012557e",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273676a8230a422123e8012557e",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1976
+            },
+            "id": "5QkOpsZupEPLq186YOrBNe",
+            "name": "Night Moves",
+            "type": "ALBUM",
+            "uri": "spotify:album:5QkOpsZupEPLq186YOrBNe"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0250807b4093430915ca336fc0",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485150807b4093430915ca336fc0",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27350807b4093430915ca336fc0",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1970
+            },
+            "id": "4hpZe4QmcWpl4dQjbbkvWA",
+            "name": "Idlewild South",
+            "type": "ALBUM",
+            "uri": "spotify:album:4hpZe4QmcWpl4dQjbbkvWA"
+          }
+        ],
+        "uri": "spotify:track:2wvMC5EyaaYQwBfiwwY2xE",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE",
+      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE",
+      "name": "Life's Been Good",
+      "description": "Listen to Life's Been Good on Spotify. Song · Joe Walsh · 1978",
+      "datePublished": "1978-06-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/2wvMC5EyaaYQwBfiwwY2xE/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": [
+            {
+              "@type": "Country",
+              "name": "AR"
+            },
+            {
+              "@type": "Country",
+              "name": "AU"
+            },
+            {
+              "@type": "Country",
+              "name": "AT"
+            },
+            {
+              "@type": "Country",
+              "name": "BE"
+            },
+            {
+              "@type": "Country",
+              "name": "BO"
+            },
+            {
+              "@type": "Country",
+              "name": "BR"
+            },
+            {
+              "@type": "Country",
+              "name": "BG"
+            },
+            {
+              "@type": "Country",
+              "name": "CA"
+            },
+            {
+              "@type": "Country",
+              "name": "CL"
+            },
+            {
+              "@type": "Country",
+              "name": "CO"
+            },
+            {
+              "@type": "Country",
+              "name": "CR"
+            },
+            {
+              "@type": "Country",
+              "name": "CY"
+            },
+            {
+              "@type": "Country",
+              "name": "CZ"
+            },
+            {
+              "@type": "Country",
+              "name": "DK"
+            },
+            {
+              "@type": "Country",
+              "name": "DO"
+            },
+            {
+              "@type": "Country",
+              "name": "DE"
+            },
+            {
+              "@type": "Country",
+              "name": "EC"
+            },
+            {
+              "@type": "Country",
+              "name": "EE"
+            },
+            {
+              "@type": "Country",
+              "name": "SV"
+            },
+            {
+              "@type": "Country",
+              "name": "FI"
+            },
+            {
+              "@type": "Country",
+              "name": "FR"
+            },
+            {
+              "@type": "Country",
+              "name": "GR"
+            },
+            {
+              "@type": "Country",
+              "name": "GT"
+            },
+            {
+              "@type": "Country",
+              "name": "HN"
+            },
+            {
+              "@type": "Country",
+              "name": "HK"
+            },
+            {
+              "@type": "Country",
+              "name": "HU"
+            },
+            {
+              "@type": "Country",
+              "name": "IS"
+            },
+            {
+              "@type": "Country",
+              "name": "IE"
+            },
+            {
+              "@type": "Country",
+              "name": "IT"
+            },
+            {
+              "@type": "Country",
+              "name": "LV"
+            },
+            {
+              "@type": "Country",
+              "name": "LT"
+            },
+            {
+              "@type": "Country",
+              "name": "LU"
+            },
+            {
+              "@type": "Country",
+              "name": "MY"
+            },
+            {
+              "@type": "Country",
+              "name": "MT"
+            },
+            {
+              "@type": "Country",
+              "name": "MX"
+            },
+            {
+              "@type": "Country",
+              "name": "NL"
+            },
+            {
+              "@type": "Country",
+              "name": "NZ"
+            },
+            {
+              "@type": "Country",
+              "name": "NI"
+            },
+            {
+              "@type": "Country",
+              "name": "NO"
+            },
+            {
+              "@type": "Country",
+              "name": "PA"
+            },
+            {
+              "@type": "Country",
+              "name": "PY"
+            },
+            {
+              "@type": "Country",
+              "name": "PE"
+            },
+            {
+              "@type": "Country",
+              "name": "PH"
+            },
+            {
+              "@type": "Country",
+              "name": "PL"
+            },
+            {
+              "@type": "Country",
+              "name": "PT"
+            },
+            {
+              "@type": "Country",
+              "name": "SG"
+            },
+            {
+              "@type": "Country",
+              "name": "SK"
+            },
+            {
+              "@type": "Country",
+              "name": "ES"
+            },
+            {
+              "@type": "Country",
+              "name": "SE"
+            },
+            {
+              "@type": "Country",
+              "name": "CH"
+            },
+            {
+              "@type": "Country",
+              "name": "TW"
+            },
+            {
+              "@type": "Country",
+              "name": "TR"
+            },
+            {
+              "@type": "Country",
+              "name": "UY"
+            },
+            {
+              "@type": "Country",
+              "name": "US"
+            },
+            {
+              "@type": "Country",
+              "name": "GB"
+            },
+            {
+              "@type": "Country",
+              "name": "AD"
+            },
+            {
+              "@type": "Country",
+              "name": "LI"
+            },
+            {
+              "@type": "Country",
+              "name": "MC"
+            },
+            {
+              "@type": "Country",
+              "name": "ID"
+            },
+            {
+              "@type": "Country",
+              "name": "JP"
+            },
+            {
+              "@type": "Country",
+              "name": "TH"
+            },
+            {
+              "@type": "Country",
+              "name": "VN"
+            },
+            {
+              "@type": "Country",
+              "name": "RO"
+            },
+            {
+              "@type": "Country",
+              "name": "IL"
+            },
+            {
+              "@type": "Country",
+              "name": "ZA"
+            },
+            {
+              "@type": "Country",
+              "name": "SA"
+            },
+            {
+              "@type": "Country",
+              "name": "AE"
+            },
+            {
+              "@type": "Country",
+              "name": "BH"
+            },
+            {
+              "@type": "Country",
+              "name": "QA"
+            },
+            {
+              "@type": "Country",
+              "name": "OM"
+            },
+            {
+              "@type": "Country",
+              "name": "KW"
+            },
+            {
+              "@type": "Country",
+              "name": "EG"
+            },
+            {
+              "@type": "Country",
+              "name": "MA"
+            },
+            {
+              "@type": "Country",
+              "name": "DZ"
+            },
+            {
+              "@type": "Country",
+              "name": "TN"
+            },
+            {
+              "@type": "Country",
+              "name": "LB"
+            },
+            {
+              "@type": "Country",
+              "name": "JO"
+            },
+            {
+              "@type": "Country",
+              "name": "PS"
+            },
+            {
+              "@type": "Country",
+              "name": "IN"
+            },
+            {
+              "@type": "Country",
+              "name": "BY"
+            },
+            {
+              "@type": "Country",
+              "name": "KZ"
+            },
+            {
+              "@type": "Country",
+              "name": "MD"
+            },
+            {
+              "@type": "Country",
+              "name": "UA"
+            },
+            {
+              "@type": "Country",
+              "name": "AL"
+            },
+            {
+              "@type": "Country",
+              "name": "BA"
+            },
+            {
+              "@type": "Country",
+              "name": "HR"
+            },
+            {
+              "@type": "Country",
+              "name": "ME"
+            },
+            {
+              "@type": "Country",
+              "name": "MK"
+            },
+            {
+              "@type": "Country",
+              "name": "RS"
+            },
+            {
+              "@type": "Country",
+              "name": "SI"
+            },
+            {
+              "@type": "Country",
+              "name": "KR"
+            },
+            {
+              "@type": "Country",
+              "name": "BD"
+            },
+            {
+              "@type": "Country",
+              "name": "PK"
+            },
+            {
+              "@type": "Country",
+              "name": "LK"
+            },
+            {
+              "@type": "Country",
+              "name": "GH"
+            },
+            {
+              "@type": "Country",
+              "name": "KE"
+            },
+            {
+              "@type": "Country",
+              "name": "NG"
+            },
+            {
+              "@type": "Country",
+              "name": "TZ"
+            },
+            {
+              "@type": "Country",
+              "name": "UG"
+            },
+            {
+              "@type": "Country",
+              "name": "AG"
+            },
+            {
+              "@type": "Country",
+              "name": "AM"
+            },
+            {
+              "@type": "Country",
+              "name": "BS"
+            },
+            {
+              "@type": "Country",
+              "name": "BB"
+            },
+            {
+              "@type": "Country",
+              "name": "BZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BT"
+            },
+            {
+              "@type": "Country",
+              "name": "BW"
+            },
+            {
+              "@type": "Country",
+              "name": "BF"
+            },
+            {
+              "@type": "Country",
+              "name": "CV"
+            },
+            {
+              "@type": "Country",
+              "name": "CW"
+            },
+            {
+              "@type": "Country",
+              "name": "DM"
+            },
+            {
+              "@type": "Country",
+              "name": "FJ"
+            },
+            {
+              "@type": "Country",
+              "name": "GM"
+            },
+            {
+              "@type": "Country",
+              "name": "GE"
+            },
+            {
+              "@type": "Country",
+              "name": "GD"
+            },
+            {
+              "@type": "Country",
+              "name": "GW"
+            },
+            {
+              "@type": "Country",
+              "name": "GY"
+            },
+            {
+              "@type": "Country",
+              "name": "HT"
+            },
+            {
+              "@type": "Country",
+              "name": "JM"
+            },
+            {
+              "@type": "Country",
+              "name": "KI"
+            },
+            {
+              "@type": "Country",
+              "name": "LS"
+            },
+            {
+              "@type": "Country",
+              "name": "LR"
+            },
+            {
+              "@type": "Country",
+              "name": "MW"
+            },
+            {
+              "@type": "Country",
+              "name": "MV"
+            },
+            {
+              "@type": "Country",
+              "name": "ML"
+            },
+            {
+              "@type": "Country",
+              "name": "MH"
+            },
+            {
+              "@type": "Country",
+              "name": "FM"
+            },
+            {
+              "@type": "Country",
+              "name": "NA"
+            },
+            {
+              "@type": "Country",
+              "name": "NR"
+            },
+            {
+              "@type": "Country",
+              "name": "NE"
+            },
+            {
+              "@type": "Country",
+              "name": "PW"
+            },
+            {
+              "@type": "Country",
+              "name": "PG"
+            },
+            {
+              "@type": "Country",
+              "name": "WS"
+            },
+            {
+              "@type": "Country",
+              "name": "SM"
+            },
+            {
+              "@type": "Country",
+              "name": "ST"
+            },
+            {
+              "@type": "Country",
+              "name": "SN"
+            },
+            {
+              "@type": "Country",
+              "name": "SC"
+            },
+            {
+              "@type": "Country",
+              "name": "SL"
+            },
+            {
+              "@type": "Country",
+              "name": "SB"
+            },
+            {
+              "@type": "Country",
+              "name": "KN"
+            },
+            {
+              "@type": "Country",
+              "name": "LC"
+            },
+            {
+              "@type": "Country",
+              "name": "VC"
+            },
+            {
+              "@type": "Country",
+              "name": "SR"
+            },
+            {
+              "@type": "Country",
+              "name": "TL"
+            },
+            {
+              "@type": "Country",
+              "name": "TO"
+            },
+            {
+              "@type": "Country",
+              "name": "TT"
+            },
+            {
+              "@type": "Country",
+              "name": "TV"
+            },
+            {
+              "@type": "Country",
+              "name": "VU"
+            },
+            {
+              "@type": "Country",
+              "name": "AZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BN"
+            },
+            {
+              "@type": "Country",
+              "name": "BI"
+            },
+            {
+              "@type": "Country",
+              "name": "KH"
+            },
+            {
+              "@type": "Country",
+              "name": "CM"
+            },
+            {
+              "@type": "Country",
+              "name": "TD"
+            },
+            {
+              "@type": "Country",
+              "name": "KM"
+            },
+            {
+              "@type": "Country",
+              "name": "GQ"
+            },
+            {
+              "@type": "Country",
+              "name": "SZ"
+            },
+            {
+              "@type": "Country",
+              "name": "GA"
+            },
+            {
+              "@type": "Country",
+              "name": "GN"
+            },
+            {
+              "@type": "Country",
+              "name": "KG"
+            },
+            {
+              "@type": "Country",
+              "name": "LA"
+            },
+            {
+              "@type": "Country",
+              "name": "MO"
+            },
+            {
+              "@type": "Country",
+              "name": "MR"
+            },
+            {
+              "@type": "Country",
+              "name": "MN"
+            },
+            {
+              "@type": "Country",
+              "name": "NP"
+            },
+            {
+              "@type": "Country",
+              "name": "RW"
+            },
+            {
+              "@type": "Country",
+              "name": "TG"
+            },
+            {
+              "@type": "Country",
+              "name": "UZ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZW"
+            },
+            {
+              "@type": "Country",
+              "name": "BJ"
+            },
+            {
+              "@type": "Country",
+              "name": "MG"
+            },
+            {
+              "@type": "Country",
+              "name": "MU"
+            },
+            {
+              "@type": "Country",
+              "name": "MZ"
+            },
+            {
+              "@type": "Country",
+              "name": "AO"
+            },
+            {
+              "@type": "Country",
+              "name": "CI"
+            },
+            {
+              "@type": "Country",
+              "name": "DJ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZM"
+            },
+            {
+              "@type": "Country",
+              "name": "CD"
+            },
+            {
+              "@type": "Country",
+              "name": "CG"
+            },
+            {
+              "@type": "Country",
+              "name": "IQ"
+            },
+            {
+              "@type": "Country",
+              "name": "LY"
+            },
+            {
+              "@type": "Country",
+              "name": "TJ"
+            },
+            {
+              "@type": "Country",
+              "name": "VE"
+            },
+            {
+              "@type": "Country",
+              "name": "ET"
+            },
+            {
+              "@type": "Country",
+              "name": "XK"
+            }
+          ]
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 297369
+}

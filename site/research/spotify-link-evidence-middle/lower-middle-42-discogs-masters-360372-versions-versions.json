@@ -1,0 +1,210 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "items": 4,
+    "urls": {}
+  },
+  "filters": {
+    "applied": {},
+    "available": {
+      "format": {
+        "Album": 4,
+        "LP": 3,
+        "Vinyl": 3,
+        "Stereo": 2,
+        "Cassette": 1,
+        "Reissue": 1
+      },
+      "label": {
+        "Up With People! Records": 4,
+        "Up With People": 2,
+        "Prc Recording Company, Richmond, In": 1
+      },
+      "country": {
+        "US": 3,
+        "Netherlands": 1
+      },
+      "released": {
+        "1975": 3
+      }
+    }
+  },
+  "filter_facets": [
+    {
+      "title": "Format",
+      "id": "format",
+      "values": [
+        {
+          "title": "Album",
+          "value": "Album",
+          "count": 4
+        },
+        {
+          "title": "LP",
+          "value": "LP",
+          "count": 3
+        },
+        {
+          "title": "Vinyl",
+          "value": "Vinyl",
+          "count": 3
+        },
+        {
+          "title": "Stereo",
+          "value": "Stereo",
+          "count": 2
+        },
+        {
+          "title": "Cassette",
+          "value": "Cassette",
+          "count": 1
+        },
+        {
+          "title": "Reissue",
+          "value": "Reissue",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Label",
+      "id": "label",
+      "values": [
+        {
+          "title": "Up With People! Records",
+          "value": "Up+With+People%21+Records",
+          "count": 4
+        },
+        {
+          "title": "Up With People",
+          "value": "Up+With+People",
+          "count": 2
+        },
+        {
+          "title": "Prc Recording Company, Richmond, In",
+          "value": "Prc+Recording+Company%2C+Richmond%2C+In",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Country",
+      "id": "country",
+      "values": [
+        {
+          "title": "US",
+          "value": "US",
+          "count": 3
+        },
+        {
+          "title": "Netherlands",
+          "value": "Netherlands",
+          "count": 1
+        }
+      ],
+      "allows_multiple_values": true
+    },
+    {
+      "title": "Released",
+      "id": "released",
+      "values": [
+        {
+          "title": "1975",
+          "value": "1975",
+          "count": 3
+        }
+      ],
+      "allows_multiple_values": false
+    }
+  ],
+  "versions": [
+    {
+      "id": 3044168,
+      "label": "Up With People! Records",
+      "country": "Netherlands",
+      "title": "The '76/'77 Show Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Stereo",
+      "catno": "1120",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/3044168",
+      "thumb": "https://i.discogs.com/DgO-ekVNgkEpOpC55LzlAr7QnshlDnFYgmIr_smr6yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDQx/NjgtMTM5OTczNDU3/Ni0zMTYxLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 2,
+          "in_collection": 84
+        }
+      }
+    },
+    {
+      "id": 10709569,
+      "label": "Up With People! Records",
+      "country": "US",
+      "title": "The '75 / '76 Show",
+      "major_formats": [
+        "Cassette"
+      ],
+      "format": "Album",
+      "catno": "1320",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/10709569",
+      "thumb": "https://i.discogs.com/HoVb7JSXSAYnmFQOb0hSqFNIyjS1V_yxdBnF38piUjM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzA5/NTY5LTE1MDg4Nzc4/NDUtNDg5Mi5qcGVn.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 0,
+          "in_collection": 0
+        }
+      }
+    },
+    {
+      "id": 789557,
+      "label": "Up With People! Records",
+      "country": "US",
+      "title": "The '75/'76 Show Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album",
+      "catno": "1120",
+      "released": "1975",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/789557",
+      "thumb": "https://i.discogs.com/xACV-_8mj5B0JnQtTkKUu4nCeh3uqO3N3_0xtSXVKuU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4OTU1/Ny0xNzY2NTk4MzU1/LTgzMTkuanBlZw.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 4,
+          "in_collection": 94
+        }
+      }
+    },
+    {
+      "id": 6398551,
+      "label": "Up With People! Records",
+      "country": "US",
+      "title": "The '76/'77 Show Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "format": "LP, Album, Reissue, Stereo",
+      "catno": "1120",
+      "released": "0",
+      "status": "Accepted",
+      "resource_url": "https://api.discogs.com/releases/6398551",
+      "thumb": "https://i.discogs.com/EQmOjteqoVxymT-1NKa5eCYEuVn_Pwp7Xe6b0wuju7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg1/NTEtMTc1NTQ1ODA0/NC04MjMxLmpwZWc.jpeg",
+      "stats": {
+        "community": {
+          "in_wantlist": 2,
+          "in_collection": 13
+        }
+      }
+    }
+  ]
+}

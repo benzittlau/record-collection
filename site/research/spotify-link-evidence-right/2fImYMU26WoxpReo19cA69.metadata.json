@@ -1,0 +1,2056 @@
+{
+  "url": "https://open.spotify.com/track/2fImYMU26WoxpReo19cA69",
+  "resolvedUrl": "https://open.spotify.com/track/2fImYMU26WoxpReo19cA69",
+  "fetchedAt": "2026-10-14T05:11:02Z",
+  "pageTitle": "Up On The Roof - song and lyrics by James Taylor | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": false
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:2fImYMU26WoxpReo19cA69": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "(P) 1979 Sony Music Entertainment Inc.",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#0080AA"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851bfa8af53ce3ae0d41a3392a3",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02bfa8af53ce3ae0d41a3392a3",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273bfa8af53ce3ae0d41a3392a3",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 1,
+              "month": 1,
+              "year": 1979
+            },
+            "isPreRelease": false,
+            "name": "Flag",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3iiMSpxSoy4N9RxsljGXCx",
+                    "name": "Company Man",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:3iiMSpxSoy4N9RxsljGXCx",
+                    "duration": {
+                      "totalMilliseconds": 224973
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5IT8PJx689QMtQb0yUbBSx",
+                    "name": "Johnnie Comes Back",
+                    "trackNumber": 2,
+                    "uri": "spotify:track:5IT8PJx689QMtQb0yUbBSx",
+                    "duration": {
+                      "totalMilliseconds": 234000
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5FkQykmzwUZAjfLfiYiZip",
+                    "name": "Day Tripper",
+                    "trackNumber": 3,
+                    "uri": "spotify:track:5FkQykmzwUZAjfLfiYiZip",
+                    "duration": {
+                      "totalMilliseconds": 264400
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "7D29ZB2fiPRn4CYRpT6L60",
+                    "name": "I Will Not Lie for You",
+                    "trackNumber": 4,
+                    "uri": "spotify:track:7D29ZB2fiPRn4CYRpT6L60",
+                    "duration": {
+                      "totalMilliseconds": 194800
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2NeKI2VLs1l1bjBGLFRXsl",
+                    "name": "Brother Trucker",
+                    "trackNumber": 5,
+                    "uri": "spotify:track:2NeKI2VLs1l1bjBGLFRXsl",
+                    "duration": {
+                      "totalMilliseconds": 240866
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0IFgUPK9cTpl2Z4JQXqAIN",
+                    "name": "Is That the Way You Look?",
+                    "trackNumber": 6,
+                    "uri": "spotify:track:0IFgUPK9cTpl2Z4JQXqAIN",
+                    "duration": {
+                      "totalMilliseconds": 117666
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "1XbeYHRv9ld8DJLJ3UARJA",
+                    "name": "B.S.U.R.",
+                    "trackNumber": 7,
+                    "uri": "spotify:track:1XbeYHRv9ld8DJLJ3UARJA",
+                    "duration": {
+                      "totalMilliseconds": 201240
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "0t8VXesc4CZwDMaBWrmJbL",
+                    "name": "Rainy Day Man",
+                    "trackNumber": 8,
+                    "uri": "spotify:track:0t8VXesc4CZwDMaBWrmJbL",
+                    "duration": {
+                      "totalMilliseconds": 179293
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "5obPpdTnWt6WQX4Vip1k1V",
+                    "name": "Millworker",
+                    "trackNumber": 9,
+                    "uri": "spotify:track:5obPpdTnWt6WQX4Vip1k1V",
+                    "duration": {
+                      "totalMilliseconds": 231733
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "2fImYMU26WoxpReo19cA69",
+                    "name": "Up On The Roof",
+                    "trackNumber": 10,
+                    "uri": "spotify:track:2fImYMU26WoxpReo19cA69",
+                    "duration": {
+                      "totalMilliseconds": 260066
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4cVR2Rsfusd4BJx3Dwa4WL",
+                    "name": "Chanson Francaise",
+                    "trackNumber": 11,
+                    "uri": "spotify:track:4cVR2Rsfusd4BJx3Dwa4WL",
+                    "duration": {
+                      "totalMilliseconds": 121906
+                    }
+                  }
+                },
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "0vn7UBvSQECKJm2817Yf1P",
+                          "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                          "profile": {
+                            "name": "James Taylor"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "4gVehPWsUuKMkTMU7xiMak",
+                    "name": "Sleep Come Free Me",
+                    "trackNumber": 12,
+                    "uri": "spotify:track:4gVehPWsUuKMkTMU7xiMak",
+                    "duration": {
+                      "totalMilliseconds": 282133
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "ALBUM",
+            "uri": "spotify:album:0TIfxixxwXalbIiNRSvKoF"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e029bb44e8ce392cd484d10c6e6",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048519bb44e8ce392cd484d10c6e6",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2739bb44e8ce392cd484d10c6e6",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2020
+                              },
+                              "id": "0wwpYXYdn6MSrWHZv4nyFh",
+                              "name": "American Standard",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0wwpYXYdn6MSrWHZv4nyFh"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02c98db0664a5f86c7a27adf67",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851c98db0664a5f86c7a27adf67",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273c98db0664a5f86c7a27adf67",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2015
+                              },
+                              "id": "2pmZbxvc1ysu9pddrpAZe9",
+                              "name": "Before This World",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:2pmZbxvc1ysu9pddrpAZe9"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02bf3adc02d83a50cbc46dec97",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851bf3adc02d83a50cbc46dec97",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273bf3adc02d83a50cbc46dec97",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2010
+                              },
+                              "id": "0sCulNLnuzZW4TGugGi6Gv",
+                              "name": "Live At The Troubadour",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0sCulNLnuzZW4TGugGi6Gv"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02bd214985e89031256d97bd4a",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851bd214985e89031256d97bd4a",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273bd214985e89031256d97bd4a",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2009
+                              },
+                              "id": "3Z1fBIILqsE6xUGUNLQM2r",
+                              "name": "Other Covers",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:3Z1fBIILqsE6xUGUNLQM2r"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02ec06923a5aeeb1043e90cca2",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851ec06923a5aeeb1043e90cca2",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273ec06923a5aeeb1043e90cca2",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2008
+                              },
+                              "id": "0TJsDbqfqBgHfj3hkDJG64",
+                              "name": "Covers",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0TJsDbqfqBgHfj3hkDJG64"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0263ccddbe44a989370b1f6f83",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485163ccddbe44a989370b1f6f83",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27363ccddbe44a989370b1f6f83",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2007
+                              },
+                              "id": "0C8IHwZUTmSGcFTeakuZNG",
+                              "name": "One Man Band",
+                              "type": "ALBUM",
+                              "uri": "spotify:album:0C8IHwZUTmSGcFTeakuZNG"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e026d6b57d4fb4ebea58c7ea97e",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048516d6b57d4fb4ebea58c7ea97e",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2736d6b57d4fb4ebea58c7ea97e",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1970
+                        },
+                        "id": "1HiG0ukRmFPN13EVcf98Jx",
+                        "name": "Sweet Baby James (2019 Remaster)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:1HiG0ukRmFPN13EVcf98Jx"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e028381695b7527ae82177041d8",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048518381695b7527ae82177041d8",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2738381695b7527ae82177041d8",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1975
+                        },
+                        "id": "0x491s63vRDvG25x2Fzrny",
+                        "name": "Gorilla (2019 Remaster)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0x491s63vRDvG25x2Fzrny"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0269d28156f24f78c5c5d9a1af",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485169d28156f24f78c5c5d9a1af",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27369d28156f24f78c5c5d9a1af",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1971
+                        },
+                        "id": "3ahHxtwRwMIdHcAo0MEXxX",
+                        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3ahHxtwRwMIdHcAo0MEXxX"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0203a0132ba7171ae0ffeee3ce",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485103a0132ba7171ae0ffeee3ce",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27303a0132ba7171ae0ffeee3ce",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1977
+                        },
+                        "id": "0Pbc9Jq12a47mQ1z9yIuhn",
+                        "name": "JT",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0Pbc9Jq12a47mQ1z9yIuhn"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e027d1f06afcef24448d1aeb156",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048517d1f06afcef24448d1aeb156",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2737d1f06afcef24448d1aeb156",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1976
+                        },
+                        "id": "45fMwpxS1ZOMqNt8Rq5pxP",
+                        "name": "In the Pocket (2019 Remaster)",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:45fMwpxS1ZOMqNt8Rq5pxP"
+                      },
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02608bb595b823504a63db5682",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851608bb595b823504a63db5682",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273608bb595b823504a63db5682",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 1993
+                        },
+                        "id": "38OACLXl1hgUnsuCUv13HC",
+                        "name": "James Taylor Live",
+                        "type": "ALBUM",
+                        "uri": "spotify:album:38OACLXl1hgUnsuCUv13HC"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02e0c1be96981c860b26c4ccb2",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851e0c1be96981c860b26c4ccb2",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273e0c1be96981c860b26c4ccb2",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2026
+                              },
+                              "id": "27gE9evgPjU83aCAvcOZSJ",
+                              "name": "Ol' Blue",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:27gE9evgPjU83aCAvcOZSJ"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e024783e9de9368970f2a2047cf",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d000048514783e9de9368970f2a2047cf",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2734783e9de9368970f2a2047cf",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "7iC5jkTp3GqdFGjx2wBBYk",
+                              "name": "Follow The Money (feat. James Taylor)",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:7iC5jkTp3GqdFGjx2wBBYk"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02837b73e5761208fb7d8eca75",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851837b73e5761208fb7d8eca75",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273837b73e5761208fb7d8eca75",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2022
+                              },
+                              "id": "5kHIm8MtwOa6jVGS4nFC31",
+                              "name": "Coming Back To You",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:5kHIm8MtwOa6jVGS4nFC31"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0220a4e1730a2e0db6dfb793f9",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485120a4e1730a2e0db6dfb793f9",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27320a4e1730a2e0db6dfb793f9",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2020
+                              },
+                              "id": "4om1cbmy0mM7M7w5u8pptF",
+                              "name": "Over The Rainbow: The American Standard EP",
+                              "type": "EP",
+                              "uri": "spotify:album:4om1cbmy0mM7M7w5u8pptF"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02f60485f25c3af7ccde794bde",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851f60485f25c3af7ccde794bde",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273f60485f25c3af7ccde794bde",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2015
+                              },
+                              "id": "4atB9O5pUmJUJ914dQWC4X",
+                              "name": "Montana",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:4atB9O5pUmJUJ914dQWC4X"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02fc5f5994c10e1893bf7a31fc",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d00004851fc5f5994c10e1893bf7a31fc",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273fc5f5994c10e1893bf7a31fc",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2015
+                              },
+                              "id": "6CObzvPjKQ3XIgEmp8mPrQ",
+                              "name": "Angels Of Fenway",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:6CObzvPjKQ3XIgEmp8mPrQ"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e026d6b57d4fb4ebea58c7ea97e",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048516d6b57d4fb4ebea58c7ea97e",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2736d6b57d4fb4ebea58c7ea97e",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Sweet Baby James (2019 Remaster)",
+                            "uri": "spotify:album:1HiG0ukRmFPN13EVcf98Jx"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                                "profile": {
+                                  "name": "James Taylor"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "1oht5GevPN9t1T3kG1m1GO",
+                          "name": "Fire and Rain - 2019 Remaster",
+                          "playcount": "463655045",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/8ee78f42e3b0fd05ab317d2d62cf3240a83a9102"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:1oht5GevPN9t1T3kG1m1GO",
+                          "duration": {
+                            "totalMilliseconds": 203613
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e0223ed6d11c4dff5ce4c47a7e7",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d0000485123ed6d11c4dff5ce4c47a7e7",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b27323ed6d11c4dff5ce4c47a7e7",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Greatest Hits",
+                            "uri": "spotify:album:2L4U4JjEADYaVltkvDrkCC"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                                "profile": {
+                                  "name": "James Taylor"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "2T5Ch09nefwckOu5NQvjIk",
+                          "name": "Carolina in My Mind",
+                          "playcount": "201137808",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/324b051ba2f51c39b4ba25d4f2be7655460c92f1"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:2T5Ch09nefwckOu5NQvjIk",
+                          "duration": {
+                            "totalMilliseconds": 238573
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e0269d28156f24f78c5c5d9a1af",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d0000485169d28156f24f78c5c5d9a1af",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b27369d28156f24f78c5c5d9a1af",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+                            "uri": "spotify:album:3ahHxtwRwMIdHcAo0MEXxX"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                                "profile": {
+                                  "name": "James Taylor"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "6zV8IpLvw0tkRSVCFQJB1y",
+                          "name": "You've Got a Friend - 2019 Remaster",
+                          "playcount": "260616144",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/c39233a6fcf4ed2eba8cc9ec1a2a60b5d39f6386"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:6zV8IpLvw0tkRSVCFQJB1y",
+                          "duration": {
+                            "totalMilliseconds": 268866
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e028381695b7527ae82177041d8",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048518381695b7527ae82177041d8",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2738381695b7527ae82177041d8",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Gorilla (2019 Remaster)",
+                            "uri": "spotify:album:0x491s63vRDvG25x2Fzrny"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                                "profile": {
+                                  "name": "James Taylor"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "75Nlnd9AJ4CYrLXgWGsuTF",
+                          "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
+                          "playcount": "171702751",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/2e583d9c76981dc7d21bfd8c3e2a1cd2d57e35c3"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:75Nlnd9AJ4CYrLXgWGsuTF",
+                          "duration": {
+                            "totalMilliseconds": 216386
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "5lkiCO9UQ8B23dZ1o0UV4m",
+                        "profile": {
+                          "name": "Jackson Browne"
+                        },
+                        "uri": "spotify:artist:5lkiCO9UQ8B23dZ1o0UV4m",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5ebef4b0122d50775167339c7c2",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178ef4b0122d50775167339c7c2",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174ef4b0122d50775167339c7c2",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2pdvghEHZJtgSXZ7cvNLou",
+                        "profile": {
+                          "name": "Crosby, Stills & Nash"
+                        },
+                        "uri": "spotify:artist:2pdvghEHZJtgSXZ7cvNLou",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 396,
+                                "url": "https://i.scdn.co/image/7d26d42a2969e495d8917b077501e02fca5da5e0",
+                                "width": 639
+                              },
+                              {
+                                "height": 40,
+                                "url": "https://i.scdn.co/image/f10a24a75fe763187b870479c4c2df81ce2923f8",
+                                "width": 64
+                              },
+                              {
+                                "height": 124,
+                                "url": "https://i.scdn.co/image/8ee7e65ec865603c08b0f6af1eeb0dc944d7872d",
+                                "width": 200
+                              },
+                              {
+                                "height": 619,
+                                "url": "https://i.scdn.co/image/b9c086901cca94cab20e8fcdc35bd79c7b39526a",
+                                "width": 999
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "7emRV8AluG3d4e5T0DZiK9",
+                        "profile": {
+                          "name": "Loggins & Messina"
+                        },
+                        "uri": "spotify:artist:7emRV8AluG3d4e5T0DZiK9",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5ebb64e91f808f376f77b0763b3",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178b64e91f808f376f77b0763b3",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174b64e91f808f376f77b0763b3",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "6jdObwsrIjSRnBbMw6lPBj",
+                        "profile": {
+                          "name": "Seals and Crofts"
+                        },
+                        "uri": "spotify:artist:6jdObwsrIjSRnBbMw6lPBj",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/76ccb803ba5113aa822077dd9f1c3187ca9d323d",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/d6c5db76d07d5fa0571e8353319da0c3ab2fdeaf",
+                                "width": 64
+                              },
+                              {
+                                "height": 200,
+                                "url": "https://i.scdn.co/image/b710389b2afcc6a256cd68d8409f9fdf481f78af",
+                                "width": 200
+                              },
+                              {
+                                "height": 1000,
+                                "url": "https://i.scdn.co/image/7e0eb81433b92ae11894a35a53aa870be824d772",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "319yZVtYM9MBGqmSQnMyY6",
+                        "profile": {
+                          "name": "Carole King"
+                        },
+                        "uri": "spotify:artist:319yZVtYM9MBGqmSQnMyY6",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab6761610000e5ebea6c3263b9aeda33707faee5",
+                                "width": 640
+                              },
+                              {
+                                "height": 160,
+                                "url": "https://i.scdn.co/image/ab6761610000f178ea6c3263b9aeda33707faee5",
+                                "width": 160
+                              },
+                              {
+                                "height": 320,
+                                "url": "https://i.scdn.co/image/ab67616100005174ea6c3263b9aeda33707faee5",
+                                "width": 320
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "1R6Hx1tJ2VOUyodEpC12xM",
+                        "profile": {
+                          "name": "Jim Croce"
+                        },
+                        "uri": "spotify:artist:1R6Hx1tJ2VOUyodEpC12xM",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 634,
+                                "url": "https://i.scdn.co/image/a231c19bbf27417afaf99cad6ef372054b38da28",
+                                "width": 640
+                              },
+                              {
+                                "height": 63,
+                                "url": "https://i.scdn.co/image/ac6acaf00e9a2201a9a9785a1bd83d1419545f1f",
+                                "width": 64
+                              },
+                              {
+                                "height": 198,
+                                "url": "https://i.scdn.co/image/f2374db73b0a0722f78b84ff88d26ab32472938b",
+                                "width": 200
+                              },
+                              {
+                                "height": 990,
+                                "url": "https://i.scdn.co/image/9f9b40704e3361c93ea8a8b7a86a5d9ee755466e",
+                                "width": 1000
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "0vn7UBvSQECKJm2817Yf1P",
+                "profile": {
+                  "name": "James Taylor"
+                },
+                "stats": {
+                  "monthlyListeners": 4987609
+                },
+                "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab6761610000e5eb5921cb8f2ec7bf6b5e725bcc",
+                        "width": 640
+                      },
+                      {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab6761610000f1785921cb8f2ec7bf6b5e725bcc",
+                        "width": 160
+                      },
+                      {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab676161000051745921cb8f2ec7bf6b5e725bcc",
+                        "width": 320
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": []
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 260066
+          },
+          "id": "2fImYMU26WoxpReo19cA69",
+          "mediaType": "AUDIO",
+          "name": "Up On The Roof",
+          "playability": {
+            "playable": true
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/3cca5086fdb27cbd64298a4919e12d02a6408ea2"
+                }
+              ]
+            }
+          },
+          "trackNumber": 10,
+          "uri": "spotify:track:2fImYMU26WoxpReo19cA69"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "2fImYMU26WoxpReo19cA69": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:2fImYMU26WoxpReo19cA69"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0269d28156f24f78c5c5d9a1af",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485169d28156f24f78c5c5d9a1af",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27369d28156f24f78c5c5d9a1af",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "3ahHxtwRwMIdHcAo0MEXxX",
+              "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+              "uri": "spotify:album:3ahHxtwRwMIdHcAo0MEXxX"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0vn7UBvSQECKJm2817Yf1P",
+                  "profile": {
+                    "name": "James Taylor"
+                  },
+                  "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                }
+              ]
+            },
+            "id": "59mPadX6sKWripbp54vDwk",
+            "name": "Long Ago and Far Away - 2019 Remaster",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/2c956384a8a1b12099b9add491c63a65bdaf0603"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:59mPadX6sKWripbp54vDwk"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028ae223aff822ae06e8345f96",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518ae223aff822ae06e8345f96",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738ae223aff822ae06e8345f96",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "5BWgJaesMjpJWCTU9sgUPf",
+              "name": "The Best: Loggins & Messina Sittin' In Again",
+              "uri": "spotify:album:5BWgJaesMjpJWCTU9sgUPf"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7emRV8AluG3d4e5T0DZiK9",
+                  "profile": {
+                    "name": "Loggins & Messina"
+                  },
+                  "uri": "spotify:artist:7emRV8AluG3d4e5T0DZiK9"
+                }
+              ]
+            },
+            "id": "02ozRCoTjCxJXCyuFW8QUi",
+            "name": "A Love Song",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/25946a31ad676589c4271fba3c785efa6bb96a71"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:02ozRCoTjCxJXCyuFW8QUi"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0264f867c4e67123eb38d97a6d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485164f867c4e67123eb38d97a6d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27364f867c4e67123eb38d97a6d",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "11hw0WWSfcwWTNKaMk5kmr",
+              "name": "Diamond Girl",
+              "uri": "spotify:album:11hw0WWSfcwWTNKaMk5kmr"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "6jdObwsrIjSRnBbMw6lPBj",
+                  "profile": {
+                    "name": "Seals and Crofts"
+                  },
+                  "uri": "spotify:artist:6jdObwsrIjSRnBbMw6lPBj"
+                }
+              ]
+            },
+            "id": "4yTGYFAl2ZOf8VWSdCYold",
+            "name": "We May Never Pass This Way (Again)",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/ec47e75fa07c396919cf2f63cbc78e2110c94e82"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:4yTGYFAl2ZOf8VWSdCYold"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028ae223aff822ae06e8345f96",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518ae223aff822ae06e8345f96",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738ae223aff822ae06e8345f96",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "5BWgJaesMjpJWCTU9sgUPf",
+              "name": "The Best: Loggins & Messina Sittin' In Again",
+              "uri": "spotify:album:5BWgJaesMjpJWCTU9sgUPf"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "7emRV8AluG3d4e5T0DZiK9",
+                  "profile": {
+                    "name": "Loggins & Messina"
+                  },
+                  "uri": "spotify:artist:7emRV8AluG3d4e5T0DZiK9"
+                }
+              ]
+            },
+            "id": "5eVLAs7AyOYMKuluTuWRuv",
+            "name": "Watching the River Run",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/b3678f67cc05872be185b9ad15c9b9814d490071"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:5eVLAs7AyOYMKuluTuWRuv"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0203a0132ba7171ae0ffeee3ce",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485103a0132ba7171ae0ffeee3ce",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27303a0132ba7171ae0ffeee3ce",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "0Pbc9Jq12a47mQ1z9yIuhn",
+              "name": "JT",
+              "uri": "spotify:album:0Pbc9Jq12a47mQ1z9yIuhn"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0vn7UBvSQECKJm2817Yf1P",
+                  "profile": {
+                    "name": "James Taylor"
+                  },
+                  "uri": "spotify:artist:0vn7UBvSQECKJm2817Yf1P"
+                }
+              ]
+            },
+            "id": "3IGAJam8XPmbBjCAvpCW8N",
+            "name": "Secret O' Life",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/f5196089de3c139fa420a759953c26d5ca26067c"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:3IGAJam8XPmbBjCAvpCW8N"
+          }
+        ],
+        "uri": "spotify:track:2fImYMU26WoxpReo19cA69",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02e86d32dd3164eda31ce08032",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851e86d32dd3164eda31ce08032",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273e86d32dd3164eda31ce08032",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1991
+            },
+            "id": "36DBvvp7XO5oSulZANyCIM",
+            "name": "New Moon Shine",
+            "type": "ALBUM",
+            "uri": "spotify:album:36DBvvp7XO5oSulZANyCIM"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0203a0132ba7171ae0ffeee3ce",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485103a0132ba7171ae0ffeee3ce",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27303a0132ba7171ae0ffeee3ce",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1977
+            },
+            "id": "0Pbc9Jq12a47mQ1z9yIuhn",
+            "name": "JT",
+            "type": "ALBUM",
+            "uri": "spotify:album:0Pbc9Jq12a47mQ1z9yIuhn"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02608bb595b823504a63db5682",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851608bb595b823504a63db5682",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273608bb595b823504a63db5682",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1993
+            },
+            "id": "38OACLXl1hgUnsuCUv13HC",
+            "name": "James Taylor Live",
+            "type": "ALBUM",
+            "uri": "spotify:album:38OACLXl1hgUnsuCUv13HC"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02cc7b65dbd52148c716a9a76b",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851cc7b65dbd52148c716a9a76b",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273cc7b65dbd52148c716a9a76b",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1981
+            },
+            "id": "2MDPMawWYx0T4FjdZWCU6f",
+            "name": "Dad Loves His Work",
+            "type": "ALBUM",
+            "uri": "spotify:album:2MDPMawWYx0T4FjdZWCU6f"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e020045aafc8d8cc6669acea2d6",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048510045aafc8d8cc6669acea2d6",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2730045aafc8d8cc6669acea2d6",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 1974
+            },
+            "id": "3rER5EzMnSZT75KT1UDHyq",
+            "name": "Souvenirs",
+            "type": "ALBUM",
+            "uri": "spotify:album:3rER5EzMnSZT75KT1UDHyq"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02bf3adc02d83a50cbc46dec97",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851bf3adc02d83a50cbc46dec97",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273bf3adc02d83a50cbc46dec97",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2010
+            },
+            "id": "0sCulNLnuzZW4TGugGi6Gv",
+            "name": "Live At The Troubadour",
+            "type": "ALBUM",
+            "uri": "spotify:album:0sCulNLnuzZW4TGugGi6Gv"
+          }
+        ],
+        "uri": "spotify:track:2fImYMU26WoxpReo19cA69",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/2fImYMU26WoxpReo19cA69",
+      "url": "https://open.spotify.com/track/2fImYMU26WoxpReo19cA69",
+      "name": "Up On The Roof",
+      "description": "Listen to Up On The Roof on Spotify. Song · James Taylor · 1979",
+      "datePublished": "1979-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/2fImYMU26WoxpReo19cA69?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/2fImYMU26WoxpReo19cA69/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 275586
+}

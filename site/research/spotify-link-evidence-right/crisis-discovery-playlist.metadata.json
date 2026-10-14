@@ -1,0 +1,5437 @@
+{
+  "url": "https://open.spotify.com/playlist/7JCLJPcFsjo4z0KyQPYVhs",
+  "resolvedUrl": "https://open.spotify.com/playlist/7JCLJPcFsjo4z0KyQPYVhs",
+  "fetchedAt": "2026-10-14T05:19:06Z",
+  "pageTitle": "The Top 10 Best Songs by Supertramp - playlist by Alt77 | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:playlist:7JCLJPcFsjo4z0KyQPYVhs": {
+          "__typename": "Playlist",
+          "content": {
+            "__typename": "PlaylistItemsPage",
+            "items": [
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0289d7032603b62e9aedb03fa2",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485189d7032603b62e9aedb03fa2",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27389d7032603b62e9aedb03fa2",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Crime Of The Century (Remastered)",
+                      "uri": "spotify:album:2wrHaulTgqqkVKx0k7Kq4r"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": [
+                        {
+                          "countryCode": "AR"
+                        },
+                        {
+                          "countryCode": "AU"
+                        },
+                        {
+                          "countryCode": "AT"
+                        },
+                        {
+                          "countryCode": "BE"
+                        },
+                        {
+                          "countryCode": "BO"
+                        },
+                        {
+                          "countryCode": "BR"
+                        },
+                        {
+                          "countryCode": "BG"
+                        },
+                        {
+                          "countryCode": "CA"
+                        },
+                        {
+                          "countryCode": "CL"
+                        },
+                        {
+                          "countryCode": "CO"
+                        },
+                        {
+                          "countryCode": "CR"
+                        },
+                        {
+                          "countryCode": "CY"
+                        },
+                        {
+                          "countryCode": "CZ"
+                        },
+                        {
+                          "countryCode": "DK"
+                        },
+                        {
+                          "countryCode": "DO"
+                        },
+                        {
+                          "countryCode": "DE"
+                        },
+                        {
+                          "countryCode": "EC"
+                        },
+                        {
+                          "countryCode": "EE"
+                        },
+                        {
+                          "countryCode": "SV"
+                        },
+                        {
+                          "countryCode": "FI"
+                        },
+                        {
+                          "countryCode": "FR"
+                        },
+                        {
+                          "countryCode": "GR"
+                        },
+                        {
+                          "countryCode": "GT"
+                        },
+                        {
+                          "countryCode": "HN"
+                        },
+                        {
+                          "countryCode": "HK"
+                        },
+                        {
+                          "countryCode": "HU"
+                        },
+                        {
+                          "countryCode": "IS"
+                        },
+                        {
+                          "countryCode": "IE"
+                        },
+                        {
+                          "countryCode": "IT"
+                        },
+                        {
+                          "countryCode": "LV"
+                        },
+                        {
+                          "countryCode": "LT"
+                        },
+                        {
+                          "countryCode": "LU"
+                        },
+                        {
+                          "countryCode": "MY"
+                        },
+                        {
+                          "countryCode": "MT"
+                        },
+                        {
+                          "countryCode": "MX"
+                        },
+                        {
+                          "countryCode": "NL"
+                        },
+                        {
+                          "countryCode": "NZ"
+                        },
+                        {
+                          "countryCode": "NI"
+                        },
+                        {
+                          "countryCode": "NO"
+                        },
+                        {
+                          "countryCode": "PA"
+                        },
+                        {
+                          "countryCode": "PY"
+                        },
+                        {
+                          "countryCode": "PE"
+                        },
+                        {
+                          "countryCode": "PH"
+                        },
+                        {
+                          "countryCode": "PL"
+                        },
+                        {
+                          "countryCode": "PT"
+                        },
+                        {
+                          "countryCode": "SG"
+                        },
+                        {
+                          "countryCode": "SK"
+                        },
+                        {
+                          "countryCode": "ES"
+                        },
+                        {
+                          "countryCode": "SE"
+                        },
+                        {
+                          "countryCode": "CH"
+                        },
+                        {
+                          "countryCode": "TW"
+                        },
+                        {
+                          "countryCode": "TR"
+                        },
+                        {
+                          "countryCode": "UY"
+                        },
+                        {
+                          "countryCode": "US"
+                        },
+                        {
+                          "countryCode": "GB"
+                        },
+                        {
+                          "countryCode": "AD"
+                        },
+                        {
+                          "countryCode": "LI"
+                        },
+                        {
+                          "countryCode": "MC"
+                        },
+                        {
+                          "countryCode": "ID"
+                        },
+                        {
+                          "countryCode": "JP"
+                        },
+                        {
+                          "countryCode": "TH"
+                        },
+                        {
+                          "countryCode": "VN"
+                        },
+                        {
+                          "countryCode": "RO"
+                        },
+                        {
+                          "countryCode": "IL"
+                        },
+                        {
+                          "countryCode": "ZA"
+                        },
+                        {
+                          "countryCode": "SA"
+                        },
+                        {
+                          "countryCode": "AE"
+                        },
+                        {
+                          "countryCode": "BH"
+                        },
+                        {
+                          "countryCode": "QA"
+                        },
+                        {
+                          "countryCode": "OM"
+                        },
+                        {
+                          "countryCode": "KW"
+                        },
+                        {
+                          "countryCode": "EG"
+                        },
+                        {
+                          "countryCode": "MA"
+                        },
+                        {
+                          "countryCode": "DZ"
+                        },
+                        {
+                          "countryCode": "TN"
+                        },
+                        {
+                          "countryCode": "LB"
+                        },
+                        {
+                          "countryCode": "JO"
+                        },
+                        {
+                          "countryCode": "PS"
+                        },
+                        {
+                          "countryCode": "IN"
+                        },
+                        {
+                          "countryCode": "BY"
+                        },
+                        {
+                          "countryCode": "KZ"
+                        },
+                        {
+                          "countryCode": "MD"
+                        },
+                        {
+                          "countryCode": "UA"
+                        },
+                        {
+                          "countryCode": "AL"
+                        },
+                        {
+                          "countryCode": "BA"
+                        },
+                        {
+                          "countryCode": "HR"
+                        },
+                        {
+                          "countryCode": "ME"
+                        },
+                        {
+                          "countryCode": "MK"
+                        },
+                        {
+                          "countryCode": "RS"
+                        },
+                        {
+                          "countryCode": "SI"
+                        },
+                        {
+                          "countryCode": "KR"
+                        },
+                        {
+                          "countryCode": "BD"
+                        },
+                        {
+                          "countryCode": "PK"
+                        },
+                        {
+                          "countryCode": "LK"
+                        },
+                        {
+                          "countryCode": "GH"
+                        },
+                        {
+                          "countryCode": "KE"
+                        },
+                        {
+                          "countryCode": "NG"
+                        },
+                        {
+                          "countryCode": "TZ"
+                        },
+                        {
+                          "countryCode": "UG"
+                        },
+                        {
+                          "countryCode": "AG"
+                        },
+                        {
+                          "countryCode": "AM"
+                        },
+                        {
+                          "countryCode": "BS"
+                        },
+                        {
+                          "countryCode": "BB"
+                        },
+                        {
+                          "countryCode": "BZ"
+                        },
+                        {
+                          "countryCode": "BT"
+                        },
+                        {
+                          "countryCode": "BW"
+                        },
+                        {
+                          "countryCode": "BF"
+                        },
+                        {
+                          "countryCode": "CV"
+                        },
+                        {
+                          "countryCode": "CW"
+                        },
+                        {
+                          "countryCode": "DM"
+                        },
+                        {
+                          "countryCode": "FJ"
+                        },
+                        {
+                          "countryCode": "GM"
+                        },
+                        {
+                          "countryCode": "GE"
+                        },
+                        {
+                          "countryCode": "GD"
+                        },
+                        {
+                          "countryCode": "GW"
+                        },
+                        {
+                          "countryCode": "GY"
+                        },
+                        {
+                          "countryCode": "HT"
+                        },
+                        {
+                          "countryCode": "JM"
+                        },
+                        {
+                          "countryCode": "KI"
+                        },
+                        {
+                          "countryCode": "LS"
+                        },
+                        {
+                          "countryCode": "LR"
+                        },
+                        {
+                          "countryCode": "MW"
+                        },
+                        {
+                          "countryCode": "MV"
+                        },
+                        {
+                          "countryCode": "ML"
+                        },
+                        {
+                          "countryCode": "MH"
+                        },
+                        {
+                          "countryCode": "FM"
+                        },
+                        {
+                          "countryCode": "NA"
+                        },
+                        {
+                          "countryCode": "NR"
+                        },
+                        {
+                          "countryCode": "NE"
+                        },
+                        {
+                          "countryCode": "PW"
+                        },
+                        {
+                          "countryCode": "PG"
+                        },
+                        {
+                          "countryCode": "WS"
+                        },
+                        {
+                          "countryCode": "SM"
+                        },
+                        {
+                          "countryCode": "ST"
+                        },
+                        {
+                          "countryCode": "SN"
+                        },
+                        {
+                          "countryCode": "SC"
+                        },
+                        {
+                          "countryCode": "SL"
+                        },
+                        {
+                          "countryCode": "SB"
+                        },
+                        {
+                          "countryCode": "KN"
+                        },
+                        {
+                          "countryCode": "LC"
+                        },
+                        {
+                          "countryCode": "VC"
+                        },
+                        {
+                          "countryCode": "SR"
+                        },
+                        {
+                          "countryCode": "TL"
+                        },
+                        {
+                          "countryCode": "TO"
+                        },
+                        {
+                          "countryCode": "TT"
+                        },
+                        {
+                          "countryCode": "TV"
+                        },
+                        {
+                          "countryCode": "VU"
+                        },
+                        {
+                          "countryCode": "AZ"
+                        },
+                        {
+                          "countryCode": "BN"
+                        },
+                        {
+                          "countryCode": "BI"
+                        },
+                        {
+                          "countryCode": "KH"
+                        },
+                        {
+                          "countryCode": "CM"
+                        },
+                        {
+                          "countryCode": "TD"
+                        },
+                        {
+                          "countryCode": "KM"
+                        },
+                        {
+                          "countryCode": "GQ"
+                        },
+                        {
+                          "countryCode": "SZ"
+                        },
+                        {
+                          "countryCode": "GA"
+                        },
+                        {
+                          "countryCode": "GN"
+                        },
+                        {
+                          "countryCode": "KG"
+                        },
+                        {
+                          "countryCode": "LA"
+                        },
+                        {
+                          "countryCode": "MO"
+                        },
+                        {
+                          "countryCode": "MR"
+                        },
+                        {
+                          "countryCode": "MN"
+                        },
+                        {
+                          "countryCode": "NP"
+                        },
+                        {
+                          "countryCode": "RW"
+                        },
+                        {
+                          "countryCode": "TG"
+                        },
+                        {
+                          "countryCode": "UZ"
+                        },
+                        {
+                          "countryCode": "ZW"
+                        },
+                        {
+                          "countryCode": "BJ"
+                        },
+                        {
+                          "countryCode": "MG"
+                        },
+                        {
+                          "countryCode": "MU"
+                        },
+                        {
+                          "countryCode": "MZ"
+                        },
+                        {
+                          "countryCode": "AO"
+                        },
+                        {
+                          "countryCode": "CI"
+                        },
+                        {
+                          "countryCode": "DJ"
+                        },
+                        {
+                          "countryCode": "ZM"
+                        },
+                        {
+                          "countryCode": "CD"
+                        },
+                        {
+                          "countryCode": "CG"
+                        },
+                        {
+                          "countryCode": "IQ"
+                        },
+                        {
+                          "countryCode": "LY"
+                        },
+                        {
+                          "countryCode": "TJ"
+                        },
+                        {
+                          "countryCode": "VE"
+                        },
+                        {
+                          "countryCode": "ET"
+                        },
+                        {
+                          "countryCode": "XK"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 272432
+                    },
+                    "name": "Bloody Well Right",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "74978288",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/459959c6a929806eb65a86067273a2c707f2f15c"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 2,
+                    "uri": "spotify:track:2SmlWvdYG6FsagxN3FkHMI"
+                  }
+                }
+              },
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02816e8b3e3e4b8fd048e8c55d",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851816e8b3e3e4b8fd048e8c55d",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273816e8b3e3e4b8fd048e8c55d",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Crisis? What Crisis?",
+                      "uri": "spotify:album:5Fliz4RQcDktb93l1uYDka"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": []
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 138800
+                    },
+                    "name": "Easy Does It",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "24122789",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/e02bc12d18677ac1dd3407b4a8e47afecc83e288"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 1,
+                    "uri": "spotify:track:1Guzg2htAsEghkxcYXcQKg"
+                  }
+                }
+              },
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bddcc30c6a3288e725aec2df",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bddcc30c6a3288e725aec2df",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bddcc30c6a3288e725aec2df",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Even In The Quietest Moments",
+                      "uri": "spotify:album:4X87hQ57jTYQTcYTaJWK5w"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": []
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 386106
+                    },
+                    "name": "Even In The Quietest Moments",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "27731477",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/15015826e92f6e2cba9e6c4ea477221870ac387f"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 3,
+                    "uri": "spotify:track:4PqGEhQlHBczN9hBbui8eY"
+                  }
+                }
+              },
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0289d7032603b62e9aedb03fa2",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485189d7032603b62e9aedb03fa2",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27389d7032603b62e9aedb03fa2",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Crime Of The Century (Remastered)",
+                      "uri": "spotify:album:2wrHaulTgqqkVKx0k7Kq4r"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": [
+                        {
+                          "countryCode": "AR"
+                        },
+                        {
+                          "countryCode": "AU"
+                        },
+                        {
+                          "countryCode": "AT"
+                        },
+                        {
+                          "countryCode": "BE"
+                        },
+                        {
+                          "countryCode": "BO"
+                        },
+                        {
+                          "countryCode": "BR"
+                        },
+                        {
+                          "countryCode": "BG"
+                        },
+                        {
+                          "countryCode": "CA"
+                        },
+                        {
+                          "countryCode": "CL"
+                        },
+                        {
+                          "countryCode": "CO"
+                        },
+                        {
+                          "countryCode": "CR"
+                        },
+                        {
+                          "countryCode": "CY"
+                        },
+                        {
+                          "countryCode": "CZ"
+                        },
+                        {
+                          "countryCode": "DK"
+                        },
+                        {
+                          "countryCode": "DO"
+                        },
+                        {
+                          "countryCode": "DE"
+                        },
+                        {
+                          "countryCode": "EC"
+                        },
+                        {
+                          "countryCode": "EE"
+                        },
+                        {
+                          "countryCode": "SV"
+                        },
+                        {
+                          "countryCode": "FI"
+                        },
+                        {
+                          "countryCode": "FR"
+                        },
+                        {
+                          "countryCode": "GR"
+                        },
+                        {
+                          "countryCode": "GT"
+                        },
+                        {
+                          "countryCode": "HN"
+                        },
+                        {
+                          "countryCode": "HK"
+                        },
+                        {
+                          "countryCode": "HU"
+                        },
+                        {
+                          "countryCode": "IS"
+                        },
+                        {
+                          "countryCode": "IE"
+                        },
+                        {
+                          "countryCode": "IT"
+                        },
+                        {
+                          "countryCode": "LV"
+                        },
+                        {
+                          "countryCode": "LT"
+                        },
+                        {
+                          "countryCode": "LU"
+                        },
+                        {
+                          "countryCode": "MY"
+                        },
+                        {
+                          "countryCode": "MT"
+                        },
+                        {
+                          "countryCode": "MX"
+                        },
+                        {
+                          "countryCode": "NL"
+                        },
+                        {
+                          "countryCode": "NZ"
+                        },
+                        {
+                          "countryCode": "NI"
+                        },
+                        {
+                          "countryCode": "NO"
+                        },
+                        {
+                          "countryCode": "PA"
+                        },
+                        {
+                          "countryCode": "PY"
+                        },
+                        {
+                          "countryCode": "PE"
+                        },
+                        {
+                          "countryCode": "PH"
+                        },
+                        {
+                          "countryCode": "PL"
+                        },
+                        {
+                          "countryCode": "PT"
+                        },
+                        {
+                          "countryCode": "SG"
+                        },
+                        {
+                          "countryCode": "SK"
+                        },
+                        {
+                          "countryCode": "ES"
+                        },
+                        {
+                          "countryCode": "SE"
+                        },
+                        {
+                          "countryCode": "CH"
+                        },
+                        {
+                          "countryCode": "TW"
+                        },
+                        {
+                          "countryCode": "TR"
+                        },
+                        {
+                          "countryCode": "UY"
+                        },
+                        {
+                          "countryCode": "US"
+                        },
+                        {
+                          "countryCode": "GB"
+                        },
+                        {
+                          "countryCode": "AD"
+                        },
+                        {
+                          "countryCode": "LI"
+                        },
+                        {
+                          "countryCode": "MC"
+                        },
+                        {
+                          "countryCode": "ID"
+                        },
+                        {
+                          "countryCode": "JP"
+                        },
+                        {
+                          "countryCode": "TH"
+                        },
+                        {
+                          "countryCode": "VN"
+                        },
+                        {
+                          "countryCode": "RO"
+                        },
+                        {
+                          "countryCode": "IL"
+                        },
+                        {
+                          "countryCode": "ZA"
+                        },
+                        {
+                          "countryCode": "SA"
+                        },
+                        {
+                          "countryCode": "AE"
+                        },
+                        {
+                          "countryCode": "BH"
+                        },
+                        {
+                          "countryCode": "QA"
+                        },
+                        {
+                          "countryCode": "OM"
+                        },
+                        {
+                          "countryCode": "KW"
+                        },
+                        {
+                          "countryCode": "EG"
+                        },
+                        {
+                          "countryCode": "MA"
+                        },
+                        {
+                          "countryCode": "DZ"
+                        },
+                        {
+                          "countryCode": "TN"
+                        },
+                        {
+                          "countryCode": "LB"
+                        },
+                        {
+                          "countryCode": "JO"
+                        },
+                        {
+                          "countryCode": "PS"
+                        },
+                        {
+                          "countryCode": "IN"
+                        },
+                        {
+                          "countryCode": "BY"
+                        },
+                        {
+                          "countryCode": "KZ"
+                        },
+                        {
+                          "countryCode": "MD"
+                        },
+                        {
+                          "countryCode": "UA"
+                        },
+                        {
+                          "countryCode": "AL"
+                        },
+                        {
+                          "countryCode": "BA"
+                        },
+                        {
+                          "countryCode": "HR"
+                        },
+                        {
+                          "countryCode": "ME"
+                        },
+                        {
+                          "countryCode": "MK"
+                        },
+                        {
+                          "countryCode": "RS"
+                        },
+                        {
+                          "countryCode": "SI"
+                        },
+                        {
+                          "countryCode": "KR"
+                        },
+                        {
+                          "countryCode": "BD"
+                        },
+                        {
+                          "countryCode": "PK"
+                        },
+                        {
+                          "countryCode": "LK"
+                        },
+                        {
+                          "countryCode": "GH"
+                        },
+                        {
+                          "countryCode": "KE"
+                        },
+                        {
+                          "countryCode": "NG"
+                        },
+                        {
+                          "countryCode": "TZ"
+                        },
+                        {
+                          "countryCode": "UG"
+                        },
+                        {
+                          "countryCode": "AG"
+                        },
+                        {
+                          "countryCode": "AM"
+                        },
+                        {
+                          "countryCode": "BS"
+                        },
+                        {
+                          "countryCode": "BB"
+                        },
+                        {
+                          "countryCode": "BZ"
+                        },
+                        {
+                          "countryCode": "BT"
+                        },
+                        {
+                          "countryCode": "BW"
+                        },
+                        {
+                          "countryCode": "BF"
+                        },
+                        {
+                          "countryCode": "CV"
+                        },
+                        {
+                          "countryCode": "CW"
+                        },
+                        {
+                          "countryCode": "DM"
+                        },
+                        {
+                          "countryCode": "FJ"
+                        },
+                        {
+                          "countryCode": "GM"
+                        },
+                        {
+                          "countryCode": "GE"
+                        },
+                        {
+                          "countryCode": "GD"
+                        },
+                        {
+                          "countryCode": "GW"
+                        },
+                        {
+                          "countryCode": "GY"
+                        },
+                        {
+                          "countryCode": "HT"
+                        },
+                        {
+                          "countryCode": "JM"
+                        },
+                        {
+                          "countryCode": "KI"
+                        },
+                        {
+                          "countryCode": "LS"
+                        },
+                        {
+                          "countryCode": "LR"
+                        },
+                        {
+                          "countryCode": "MW"
+                        },
+                        {
+                          "countryCode": "MV"
+                        },
+                        {
+                          "countryCode": "ML"
+                        },
+                        {
+                          "countryCode": "MH"
+                        },
+                        {
+                          "countryCode": "FM"
+                        },
+                        {
+                          "countryCode": "NA"
+                        },
+                        {
+                          "countryCode": "NR"
+                        },
+                        {
+                          "countryCode": "NE"
+                        },
+                        {
+                          "countryCode": "PW"
+                        },
+                        {
+                          "countryCode": "PG"
+                        },
+                        {
+                          "countryCode": "WS"
+                        },
+                        {
+                          "countryCode": "SM"
+                        },
+                        {
+                          "countryCode": "ST"
+                        },
+                        {
+                          "countryCode": "SN"
+                        },
+                        {
+                          "countryCode": "SC"
+                        },
+                        {
+                          "countryCode": "SL"
+                        },
+                        {
+                          "countryCode": "SB"
+                        },
+                        {
+                          "countryCode": "KN"
+                        },
+                        {
+                          "countryCode": "LC"
+                        },
+                        {
+                          "countryCode": "VC"
+                        },
+                        {
+                          "countryCode": "SR"
+                        },
+                        {
+                          "countryCode": "TL"
+                        },
+                        {
+                          "countryCode": "TO"
+                        },
+                        {
+                          "countryCode": "TT"
+                        },
+                        {
+                          "countryCode": "TV"
+                        },
+                        {
+                          "countryCode": "VU"
+                        },
+                        {
+                          "countryCode": "AZ"
+                        },
+                        {
+                          "countryCode": "BN"
+                        },
+                        {
+                          "countryCode": "BI"
+                        },
+                        {
+                          "countryCode": "KH"
+                        },
+                        {
+                          "countryCode": "CM"
+                        },
+                        {
+                          "countryCode": "TD"
+                        },
+                        {
+                          "countryCode": "KM"
+                        },
+                        {
+                          "countryCode": "GQ"
+                        },
+                        {
+                          "countryCode": "SZ"
+                        },
+                        {
+                          "countryCode": "GA"
+                        },
+                        {
+                          "countryCode": "GN"
+                        },
+                        {
+                          "countryCode": "KG"
+                        },
+                        {
+                          "countryCode": "LA"
+                        },
+                        {
+                          "countryCode": "MO"
+                        },
+                        {
+                          "countryCode": "MR"
+                        },
+                        {
+                          "countryCode": "MN"
+                        },
+                        {
+                          "countryCode": "NP"
+                        },
+                        {
+                          "countryCode": "RW"
+                        },
+                        {
+                          "countryCode": "TG"
+                        },
+                        {
+                          "countryCode": "UZ"
+                        },
+                        {
+                          "countryCode": "ZW"
+                        },
+                        {
+                          "countryCode": "BJ"
+                        },
+                        {
+                          "countryCode": "MG"
+                        },
+                        {
+                          "countryCode": "MU"
+                        },
+                        {
+                          "countryCode": "MZ"
+                        },
+                        {
+                          "countryCode": "AO"
+                        },
+                        {
+                          "countryCode": "CI"
+                        },
+                        {
+                          "countryCode": "DJ"
+                        },
+                        {
+                          "countryCode": "ZM"
+                        },
+                        {
+                          "countryCode": "CD"
+                        },
+                        {
+                          "countryCode": "CG"
+                        },
+                        {
+                          "countryCode": "IQ"
+                        },
+                        {
+                          "countryCode": "LY"
+                        },
+                        {
+                          "countryCode": "TJ"
+                        },
+                        {
+                          "countryCode": "VE"
+                        },
+                        {
+                          "countryCode": "ET"
+                        },
+                        {
+                          "countryCode": "XK"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 335286
+                    },
+                    "name": "School",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "128114855",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/1e8e580be50915e87e55a39cd8e91091a1856541"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 1,
+                    "uri": "spotify:track:6fnachl7fIn5dqIjakfJ57"
+                  }
+                }
+              },
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0289d7032603b62e9aedb03fa2",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485189d7032603b62e9aedb03fa2",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27389d7032603b62e9aedb03fa2",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Crime Of The Century (Remastered)",
+                      "uri": "spotify:album:2wrHaulTgqqkVKx0k7Kq4r"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": [
+                        {
+                          "countryCode": "AR"
+                        },
+                        {
+                          "countryCode": "AU"
+                        },
+                        {
+                          "countryCode": "AT"
+                        },
+                        {
+                          "countryCode": "BE"
+                        },
+                        {
+                          "countryCode": "BO"
+                        },
+                        {
+                          "countryCode": "BR"
+                        },
+                        {
+                          "countryCode": "BG"
+                        },
+                        {
+                          "countryCode": "CA"
+                        },
+                        {
+                          "countryCode": "CL"
+                        },
+                        {
+                          "countryCode": "CO"
+                        },
+                        {
+                          "countryCode": "CR"
+                        },
+                        {
+                          "countryCode": "CY"
+                        },
+                        {
+                          "countryCode": "CZ"
+                        },
+                        {
+                          "countryCode": "DK"
+                        },
+                        {
+                          "countryCode": "DO"
+                        },
+                        {
+                          "countryCode": "DE"
+                        },
+                        {
+                          "countryCode": "EC"
+                        },
+                        {
+                          "countryCode": "EE"
+                        },
+                        {
+                          "countryCode": "SV"
+                        },
+                        {
+                          "countryCode": "FI"
+                        },
+                        {
+                          "countryCode": "FR"
+                        },
+                        {
+                          "countryCode": "GR"
+                        },
+                        {
+                          "countryCode": "GT"
+                        },
+                        {
+                          "countryCode": "HN"
+                        },
+                        {
+                          "countryCode": "HK"
+                        },
+                        {
+                          "countryCode": "HU"
+                        },
+                        {
+                          "countryCode": "IS"
+                        },
+                        {
+                          "countryCode": "IE"
+                        },
+                        {
+                          "countryCode": "IT"
+                        },
+                        {
+                          "countryCode": "LV"
+                        },
+                        {
+                          "countryCode": "LT"
+                        },
+                        {
+                          "countryCode": "LU"
+                        },
+                        {
+                          "countryCode": "MY"
+                        },
+                        {
+                          "countryCode": "MT"
+                        },
+                        {
+                          "countryCode": "MX"
+                        },
+                        {
+                          "countryCode": "NL"
+                        },
+                        {
+                          "countryCode": "NZ"
+                        },
+                        {
+                          "countryCode": "NI"
+                        },
+                        {
+                          "countryCode": "NO"
+                        },
+                        {
+                          "countryCode": "PA"
+                        },
+                        {
+                          "countryCode": "PY"
+                        },
+                        {
+                          "countryCode": "PE"
+                        },
+                        {
+                          "countryCode": "PH"
+                        },
+                        {
+                          "countryCode": "PL"
+                        },
+                        {
+                          "countryCode": "PT"
+                        },
+                        {
+                          "countryCode": "SG"
+                        },
+                        {
+                          "countryCode": "SK"
+                        },
+                        {
+                          "countryCode": "ES"
+                        },
+                        {
+                          "countryCode": "SE"
+                        },
+                        {
+                          "countryCode": "CH"
+                        },
+                        {
+                          "countryCode": "TW"
+                        },
+                        {
+                          "countryCode": "TR"
+                        },
+                        {
+                          "countryCode": "UY"
+                        },
+                        {
+                          "countryCode": "US"
+                        },
+                        {
+                          "countryCode": "GB"
+                        },
+                        {
+                          "countryCode": "AD"
+                        },
+                        {
+                          "countryCode": "LI"
+                        },
+                        {
+                          "countryCode": "MC"
+                        },
+                        {
+                          "countryCode": "ID"
+                        },
+                        {
+                          "countryCode": "JP"
+                        },
+                        {
+                          "countryCode": "TH"
+                        },
+                        {
+                          "countryCode": "VN"
+                        },
+                        {
+                          "countryCode": "RO"
+                        },
+                        {
+                          "countryCode": "IL"
+                        },
+                        {
+                          "countryCode": "ZA"
+                        },
+                        {
+                          "countryCode": "SA"
+                        },
+                        {
+                          "countryCode": "AE"
+                        },
+                        {
+                          "countryCode": "BH"
+                        },
+                        {
+                          "countryCode": "QA"
+                        },
+                        {
+                          "countryCode": "OM"
+                        },
+                        {
+                          "countryCode": "KW"
+                        },
+                        {
+                          "countryCode": "EG"
+                        },
+                        {
+                          "countryCode": "MA"
+                        },
+                        {
+                          "countryCode": "DZ"
+                        },
+                        {
+                          "countryCode": "TN"
+                        },
+                        {
+                          "countryCode": "LB"
+                        },
+                        {
+                          "countryCode": "JO"
+                        },
+                        {
+                          "countryCode": "PS"
+                        },
+                        {
+                          "countryCode": "IN"
+                        },
+                        {
+                          "countryCode": "BY"
+                        },
+                        {
+                          "countryCode": "KZ"
+                        },
+                        {
+                          "countryCode": "MD"
+                        },
+                        {
+                          "countryCode": "UA"
+                        },
+                        {
+                          "countryCode": "AL"
+                        },
+                        {
+                          "countryCode": "BA"
+                        },
+                        {
+                          "countryCode": "HR"
+                        },
+                        {
+                          "countryCode": "ME"
+                        },
+                        {
+                          "countryCode": "MK"
+                        },
+                        {
+                          "countryCode": "RS"
+                        },
+                        {
+                          "countryCode": "SI"
+                        },
+                        {
+                          "countryCode": "KR"
+                        },
+                        {
+                          "countryCode": "BD"
+                        },
+                        {
+                          "countryCode": "PK"
+                        },
+                        {
+                          "countryCode": "LK"
+                        },
+                        {
+                          "countryCode": "GH"
+                        },
+                        {
+                          "countryCode": "KE"
+                        },
+                        {
+                          "countryCode": "NG"
+                        },
+                        {
+                          "countryCode": "TZ"
+                        },
+                        {
+                          "countryCode": "UG"
+                        },
+                        {
+                          "countryCode": "AG"
+                        },
+                        {
+                          "countryCode": "AM"
+                        },
+                        {
+                          "countryCode": "BS"
+                        },
+                        {
+                          "countryCode": "BB"
+                        },
+                        {
+                          "countryCode": "BZ"
+                        },
+                        {
+                          "countryCode": "BT"
+                        },
+                        {
+                          "countryCode": "BW"
+                        },
+                        {
+                          "countryCode": "BF"
+                        },
+                        {
+                          "countryCode": "CV"
+                        },
+                        {
+                          "countryCode": "CW"
+                        },
+                        {
+                          "countryCode": "DM"
+                        },
+                        {
+                          "countryCode": "FJ"
+                        },
+                        {
+                          "countryCode": "GM"
+                        },
+                        {
+                          "countryCode": "GE"
+                        },
+                        {
+                          "countryCode": "GD"
+                        },
+                        {
+                          "countryCode": "GW"
+                        },
+                        {
+                          "countryCode": "GY"
+                        },
+                        {
+                          "countryCode": "HT"
+                        },
+                        {
+                          "countryCode": "JM"
+                        },
+                        {
+                          "countryCode": "KI"
+                        },
+                        {
+                          "countryCode": "LS"
+                        },
+                        {
+                          "countryCode": "LR"
+                        },
+                        {
+                          "countryCode": "MW"
+                        },
+                        {
+                          "countryCode": "MV"
+                        },
+                        {
+                          "countryCode": "ML"
+                        },
+                        {
+                          "countryCode": "MH"
+                        },
+                        {
+                          "countryCode": "FM"
+                        },
+                        {
+                          "countryCode": "NA"
+                        },
+                        {
+                          "countryCode": "NR"
+                        },
+                        {
+                          "countryCode": "NE"
+                        },
+                        {
+                          "countryCode": "PW"
+                        },
+                        {
+                          "countryCode": "PG"
+                        },
+                        {
+                          "countryCode": "WS"
+                        },
+                        {
+                          "countryCode": "SM"
+                        },
+                        {
+                          "countryCode": "ST"
+                        },
+                        {
+                          "countryCode": "SN"
+                        },
+                        {
+                          "countryCode": "SC"
+                        },
+                        {
+                          "countryCode": "SL"
+                        },
+                        {
+                          "countryCode": "SB"
+                        },
+                        {
+                          "countryCode": "KN"
+                        },
+                        {
+                          "countryCode": "LC"
+                        },
+                        {
+                          "countryCode": "VC"
+                        },
+                        {
+                          "countryCode": "SR"
+                        },
+                        {
+                          "countryCode": "TL"
+                        },
+                        {
+                          "countryCode": "TO"
+                        },
+                        {
+                          "countryCode": "TT"
+                        },
+                        {
+                          "countryCode": "TV"
+                        },
+                        {
+                          "countryCode": "VU"
+                        },
+                        {
+                          "countryCode": "AZ"
+                        },
+                        {
+                          "countryCode": "BN"
+                        },
+                        {
+                          "countryCode": "BI"
+                        },
+                        {
+                          "countryCode": "KH"
+                        },
+                        {
+                          "countryCode": "CM"
+                        },
+                        {
+                          "countryCode": "TD"
+                        },
+                        {
+                          "countryCode": "KM"
+                        },
+                        {
+                          "countryCode": "GQ"
+                        },
+                        {
+                          "countryCode": "SZ"
+                        },
+                        {
+                          "countryCode": "GA"
+                        },
+                        {
+                          "countryCode": "GN"
+                        },
+                        {
+                          "countryCode": "KG"
+                        },
+                        {
+                          "countryCode": "LA"
+                        },
+                        {
+                          "countryCode": "MO"
+                        },
+                        {
+                          "countryCode": "MR"
+                        },
+                        {
+                          "countryCode": "MN"
+                        },
+                        {
+                          "countryCode": "NP"
+                        },
+                        {
+                          "countryCode": "RW"
+                        },
+                        {
+                          "countryCode": "TG"
+                        },
+                        {
+                          "countryCode": "UZ"
+                        },
+                        {
+                          "countryCode": "ZW"
+                        },
+                        {
+                          "countryCode": "BJ"
+                        },
+                        {
+                          "countryCode": "MG"
+                        },
+                        {
+                          "countryCode": "MU"
+                        },
+                        {
+                          "countryCode": "MZ"
+                        },
+                        {
+                          "countryCode": "AO"
+                        },
+                        {
+                          "countryCode": "CI"
+                        },
+                        {
+                          "countryCode": "DJ"
+                        },
+                        {
+                          "countryCode": "ZM"
+                        },
+                        {
+                          "countryCode": "CD"
+                        },
+                        {
+                          "countryCode": "CG"
+                        },
+                        {
+                          "countryCode": "IQ"
+                        },
+                        {
+                          "countryCode": "LY"
+                        },
+                        {
+                          "countryCode": "TJ"
+                        },
+                        {
+                          "countryCode": "VE"
+                        },
+                        {
+                          "countryCode": "ET"
+                        },
+                        {
+                          "countryCode": "XK"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 213236
+                    },
+                    "name": "Dreamer",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "92072302",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/ba5c05285b69aa46b254328f4ce065969b0730bc"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 5,
+                    "uri": "spotify:track:5z4ljpMLi1LTF8UG9P53fH"
+                  }
+                }
+              },
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515405ef9e393f5f1e53b4b42e",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735405ef9e393f5f1e53b4b42e",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Breakfast In America (Deluxe Edition)",
+                      "uri": "spotify:album:1zcm3UvHNHpseYOUfd0pna"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": [
+                        {
+                          "countryCode": "AR"
+                        },
+                        {
+                          "countryCode": "AU"
+                        },
+                        {
+                          "countryCode": "AT"
+                        },
+                        {
+                          "countryCode": "BO"
+                        },
+                        {
+                          "countryCode": "BR"
+                        },
+                        {
+                          "countryCode": "BG"
+                        },
+                        {
+                          "countryCode": "CA"
+                        },
+                        {
+                          "countryCode": "CL"
+                        },
+                        {
+                          "countryCode": "CO"
+                        },
+                        {
+                          "countryCode": "CR"
+                        },
+                        {
+                          "countryCode": "CY"
+                        },
+                        {
+                          "countryCode": "CZ"
+                        },
+                        {
+                          "countryCode": "DK"
+                        },
+                        {
+                          "countryCode": "DO"
+                        },
+                        {
+                          "countryCode": "DE"
+                        },
+                        {
+                          "countryCode": "EC"
+                        },
+                        {
+                          "countryCode": "EE"
+                        },
+                        {
+                          "countryCode": "SV"
+                        },
+                        {
+                          "countryCode": "FI"
+                        },
+                        {
+                          "countryCode": "FR"
+                        },
+                        {
+                          "countryCode": "GT"
+                        },
+                        {
+                          "countryCode": "HN"
+                        },
+                        {
+                          "countryCode": "HK"
+                        },
+                        {
+                          "countryCode": "HU"
+                        },
+                        {
+                          "countryCode": "IS"
+                        },
+                        {
+                          "countryCode": "IE"
+                        },
+                        {
+                          "countryCode": "IT"
+                        },
+                        {
+                          "countryCode": "LV"
+                        },
+                        {
+                          "countryCode": "LT"
+                        },
+                        {
+                          "countryCode": "MY"
+                        },
+                        {
+                          "countryCode": "MT"
+                        },
+                        {
+                          "countryCode": "MX"
+                        },
+                        {
+                          "countryCode": "NL"
+                        },
+                        {
+                          "countryCode": "NI"
+                        },
+                        {
+                          "countryCode": "NO"
+                        },
+                        {
+                          "countryCode": "PA"
+                        },
+                        {
+                          "countryCode": "PY"
+                        },
+                        {
+                          "countryCode": "PE"
+                        },
+                        {
+                          "countryCode": "PH"
+                        },
+                        {
+                          "countryCode": "PL"
+                        },
+                        {
+                          "countryCode": "PT"
+                        },
+                        {
+                          "countryCode": "SG"
+                        },
+                        {
+                          "countryCode": "SK"
+                        },
+                        {
+                          "countryCode": "ES"
+                        },
+                        {
+                          "countryCode": "SE"
+                        },
+                        {
+                          "countryCode": "CH"
+                        },
+                        {
+                          "countryCode": "TW"
+                        },
+                        {
+                          "countryCode": "UY"
+                        },
+                        {
+                          "countryCode": "US"
+                        },
+                        {
+                          "countryCode": "GB"
+                        },
+                        {
+                          "countryCode": "AD"
+                        },
+                        {
+                          "countryCode": "LI"
+                        },
+                        {
+                          "countryCode": "MC"
+                        },
+                        {
+                          "countryCode": "ID"
+                        },
+                        {
+                          "countryCode": "JP"
+                        },
+                        {
+                          "countryCode": "TH"
+                        },
+                        {
+                          "countryCode": "RO"
+                        },
+                        {
+                          "countryCode": "IL"
+                        },
+                        {
+                          "countryCode": "ZA"
+                        },
+                        {
+                          "countryCode": "SA"
+                        },
+                        {
+                          "countryCode": "AE"
+                        },
+                        {
+                          "countryCode": "BH"
+                        },
+                        {
+                          "countryCode": "QA"
+                        },
+                        {
+                          "countryCode": "OM"
+                        },
+                        {
+                          "countryCode": "KW"
+                        },
+                        {
+                          "countryCode": "EG"
+                        },
+                        {
+                          "countryCode": "MA"
+                        },
+                        {
+                          "countryCode": "DZ"
+                        },
+                        {
+                          "countryCode": "TN"
+                        },
+                        {
+                          "countryCode": "LB"
+                        },
+                        {
+                          "countryCode": "JO"
+                        },
+                        {
+                          "countryCode": "PS"
+                        },
+                        {
+                          "countryCode": "IN"
+                        },
+                        {
+                          "countryCode": "BY"
+                        },
+                        {
+                          "countryCode": "KZ"
+                        },
+                        {
+                          "countryCode": "MD"
+                        },
+                        {
+                          "countryCode": "UA"
+                        },
+                        {
+                          "countryCode": "AL"
+                        },
+                        {
+                          "countryCode": "BA"
+                        },
+                        {
+                          "countryCode": "HR"
+                        },
+                        {
+                          "countryCode": "ME"
+                        },
+                        {
+                          "countryCode": "MK"
+                        },
+                        {
+                          "countryCode": "RS"
+                        },
+                        {
+                          "countryCode": "SI"
+                        },
+                        {
+                          "countryCode": "KR"
+                        },
+                        {
+                          "countryCode": "BD"
+                        },
+                        {
+                          "countryCode": "PK"
+                        },
+                        {
+                          "countryCode": "LK"
+                        },
+                        {
+                          "countryCode": "GH"
+                        },
+                        {
+                          "countryCode": "KE"
+                        },
+                        {
+                          "countryCode": "NG"
+                        },
+                        {
+                          "countryCode": "TZ"
+                        },
+                        {
+                          "countryCode": "UG"
+                        },
+                        {
+                          "countryCode": "AG"
+                        },
+                        {
+                          "countryCode": "AM"
+                        },
+                        {
+                          "countryCode": "BS"
+                        },
+                        {
+                          "countryCode": "BB"
+                        },
+                        {
+                          "countryCode": "BZ"
+                        },
+                        {
+                          "countryCode": "BT"
+                        },
+                        {
+                          "countryCode": "BW"
+                        },
+                        {
+                          "countryCode": "BF"
+                        },
+                        {
+                          "countryCode": "CV"
+                        },
+                        {
+                          "countryCode": "CW"
+                        },
+                        {
+                          "countryCode": "DM"
+                        },
+                        {
+                          "countryCode": "FJ"
+                        },
+                        {
+                          "countryCode": "GM"
+                        },
+                        {
+                          "countryCode": "GE"
+                        },
+                        {
+                          "countryCode": "GD"
+                        },
+                        {
+                          "countryCode": "GW"
+                        },
+                        {
+                          "countryCode": "GY"
+                        },
+                        {
+                          "countryCode": "HT"
+                        },
+                        {
+                          "countryCode": "JM"
+                        },
+                        {
+                          "countryCode": "KI"
+                        },
+                        {
+                          "countryCode": "LS"
+                        },
+                        {
+                          "countryCode": "LR"
+                        },
+                        {
+                          "countryCode": "MW"
+                        },
+                        {
+                          "countryCode": "MV"
+                        },
+                        {
+                          "countryCode": "ML"
+                        },
+                        {
+                          "countryCode": "MH"
+                        },
+                        {
+                          "countryCode": "FM"
+                        },
+                        {
+                          "countryCode": "NA"
+                        },
+                        {
+                          "countryCode": "NR"
+                        },
+                        {
+                          "countryCode": "NE"
+                        },
+                        {
+                          "countryCode": "PW"
+                        },
+                        {
+                          "countryCode": "PG"
+                        },
+                        {
+                          "countryCode": "WS"
+                        },
+                        {
+                          "countryCode": "SM"
+                        },
+                        {
+                          "countryCode": "ST"
+                        },
+                        {
+                          "countryCode": "SN"
+                        },
+                        {
+                          "countryCode": "SC"
+                        },
+                        {
+                          "countryCode": "SL"
+                        },
+                        {
+                          "countryCode": "SB"
+                        },
+                        {
+                          "countryCode": "KN"
+                        },
+                        {
+                          "countryCode": "LC"
+                        },
+                        {
+                          "countryCode": "VC"
+                        },
+                        {
+                          "countryCode": "SR"
+                        },
+                        {
+                          "countryCode": "TL"
+                        },
+                        {
+                          "countryCode": "TO"
+                        },
+                        {
+                          "countryCode": "TT"
+                        },
+                        {
+                          "countryCode": "TV"
+                        },
+                        {
+                          "countryCode": "VU"
+                        },
+                        {
+                          "countryCode": "AZ"
+                        },
+                        {
+                          "countryCode": "BN"
+                        },
+                        {
+                          "countryCode": "BI"
+                        },
+                        {
+                          "countryCode": "KH"
+                        },
+                        {
+                          "countryCode": "CM"
+                        },
+                        {
+                          "countryCode": "TD"
+                        },
+                        {
+                          "countryCode": "KM"
+                        },
+                        {
+                          "countryCode": "GQ"
+                        },
+                        {
+                          "countryCode": "SZ"
+                        },
+                        {
+                          "countryCode": "GA"
+                        },
+                        {
+                          "countryCode": "GN"
+                        },
+                        {
+                          "countryCode": "KG"
+                        },
+                        {
+                          "countryCode": "LA"
+                        },
+                        {
+                          "countryCode": "MR"
+                        },
+                        {
+                          "countryCode": "MN"
+                        },
+                        {
+                          "countryCode": "NP"
+                        },
+                        {
+                          "countryCode": "RW"
+                        },
+                        {
+                          "countryCode": "TG"
+                        },
+                        {
+                          "countryCode": "UZ"
+                        },
+                        {
+                          "countryCode": "ZW"
+                        },
+                        {
+                          "countryCode": "BJ"
+                        },
+                        {
+                          "countryCode": "MG"
+                        },
+                        {
+                          "countryCode": "MU"
+                        },
+                        {
+                          "countryCode": "MZ"
+                        },
+                        {
+                          "countryCode": "AO"
+                        },
+                        {
+                          "countryCode": "CI"
+                        },
+                        {
+                          "countryCode": "DJ"
+                        },
+                        {
+                          "countryCode": "ZM"
+                        },
+                        {
+                          "countryCode": "CD"
+                        },
+                        {
+                          "countryCode": "CG"
+                        },
+                        {
+                          "countryCode": "IQ"
+                        },
+                        {
+                          "countryCode": "LY"
+                        },
+                        {
+                          "countryCode": "TJ"
+                        },
+                        {
+                          "countryCode": "VE"
+                        },
+                        {
+                          "countryCode": "ET"
+                        },
+                        {
+                          "countryCode": "XK"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 350573
+                    },
+                    "name": "Goodbye Stranger - Remastered 2010",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "244570439",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/f1f84b5e3a47e135683b45540c074ed545f0833e"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 3,
+                    "uri": "spotify:track:67oyFnjJnn78fZP9KjeZx0"
+                  }
+                }
+              },
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bddcc30c6a3288e725aec2df",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bddcc30c6a3288e725aec2df",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bddcc30c6a3288e725aec2df",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Even In The Quietest Moments",
+                      "uri": "spotify:album:4X87hQ57jTYQTcYTaJWK5w"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": []
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 248173
+                    },
+                    "name": "Give A Little Bit",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "615907294",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/e0a885cc7ff57a27ef2573f396ee54c068b9d6ee"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 1,
+                    "uri": "spotify:track:6XUHsYE38CEbYunT983O9G"
+                  }
+                }
+              },
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515405ef9e393f5f1e53b4b42e",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735405ef9e393f5f1e53b4b42e",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Breakfast In America (Deluxe Edition)",
+                      "uri": "spotify:album:1zcm3UvHNHpseYOUfd0pna"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": [
+                        {
+                          "countryCode": "AR"
+                        },
+                        {
+                          "countryCode": "AU"
+                        },
+                        {
+                          "countryCode": "AT"
+                        },
+                        {
+                          "countryCode": "BO"
+                        },
+                        {
+                          "countryCode": "BR"
+                        },
+                        {
+                          "countryCode": "BG"
+                        },
+                        {
+                          "countryCode": "CA"
+                        },
+                        {
+                          "countryCode": "CL"
+                        },
+                        {
+                          "countryCode": "CO"
+                        },
+                        {
+                          "countryCode": "CR"
+                        },
+                        {
+                          "countryCode": "CY"
+                        },
+                        {
+                          "countryCode": "CZ"
+                        },
+                        {
+                          "countryCode": "DK"
+                        },
+                        {
+                          "countryCode": "DO"
+                        },
+                        {
+                          "countryCode": "DE"
+                        },
+                        {
+                          "countryCode": "EC"
+                        },
+                        {
+                          "countryCode": "EE"
+                        },
+                        {
+                          "countryCode": "SV"
+                        },
+                        {
+                          "countryCode": "FI"
+                        },
+                        {
+                          "countryCode": "FR"
+                        },
+                        {
+                          "countryCode": "GT"
+                        },
+                        {
+                          "countryCode": "HN"
+                        },
+                        {
+                          "countryCode": "HK"
+                        },
+                        {
+                          "countryCode": "HU"
+                        },
+                        {
+                          "countryCode": "IS"
+                        },
+                        {
+                          "countryCode": "IE"
+                        },
+                        {
+                          "countryCode": "IT"
+                        },
+                        {
+                          "countryCode": "LV"
+                        },
+                        {
+                          "countryCode": "LT"
+                        },
+                        {
+                          "countryCode": "MY"
+                        },
+                        {
+                          "countryCode": "MT"
+                        },
+                        {
+                          "countryCode": "MX"
+                        },
+                        {
+                          "countryCode": "NL"
+                        },
+                        {
+                          "countryCode": "NI"
+                        },
+                        {
+                          "countryCode": "NO"
+                        },
+                        {
+                          "countryCode": "PA"
+                        },
+                        {
+                          "countryCode": "PY"
+                        },
+                        {
+                          "countryCode": "PE"
+                        },
+                        {
+                          "countryCode": "PH"
+                        },
+                        {
+                          "countryCode": "PL"
+                        },
+                        {
+                          "countryCode": "PT"
+                        },
+                        {
+                          "countryCode": "SG"
+                        },
+                        {
+                          "countryCode": "SK"
+                        },
+                        {
+                          "countryCode": "ES"
+                        },
+                        {
+                          "countryCode": "SE"
+                        },
+                        {
+                          "countryCode": "CH"
+                        },
+                        {
+                          "countryCode": "TW"
+                        },
+                        {
+                          "countryCode": "UY"
+                        },
+                        {
+                          "countryCode": "US"
+                        },
+                        {
+                          "countryCode": "GB"
+                        },
+                        {
+                          "countryCode": "AD"
+                        },
+                        {
+                          "countryCode": "LI"
+                        },
+                        {
+                          "countryCode": "MC"
+                        },
+                        {
+                          "countryCode": "ID"
+                        },
+                        {
+                          "countryCode": "JP"
+                        },
+                        {
+                          "countryCode": "TH"
+                        },
+                        {
+                          "countryCode": "RO"
+                        },
+                        {
+                          "countryCode": "IL"
+                        },
+                        {
+                          "countryCode": "ZA"
+                        },
+                        {
+                          "countryCode": "SA"
+                        },
+                        {
+                          "countryCode": "AE"
+                        },
+                        {
+                          "countryCode": "BH"
+                        },
+                        {
+                          "countryCode": "QA"
+                        },
+                        {
+                          "countryCode": "OM"
+                        },
+                        {
+                          "countryCode": "KW"
+                        },
+                        {
+                          "countryCode": "EG"
+                        },
+                        {
+                          "countryCode": "MA"
+                        },
+                        {
+                          "countryCode": "DZ"
+                        },
+                        {
+                          "countryCode": "TN"
+                        },
+                        {
+                          "countryCode": "LB"
+                        },
+                        {
+                          "countryCode": "JO"
+                        },
+                        {
+                          "countryCode": "PS"
+                        },
+                        {
+                          "countryCode": "IN"
+                        },
+                        {
+                          "countryCode": "BY"
+                        },
+                        {
+                          "countryCode": "KZ"
+                        },
+                        {
+                          "countryCode": "MD"
+                        },
+                        {
+                          "countryCode": "UA"
+                        },
+                        {
+                          "countryCode": "AL"
+                        },
+                        {
+                          "countryCode": "BA"
+                        },
+                        {
+                          "countryCode": "HR"
+                        },
+                        {
+                          "countryCode": "ME"
+                        },
+                        {
+                          "countryCode": "MK"
+                        },
+                        {
+                          "countryCode": "RS"
+                        },
+                        {
+                          "countryCode": "SI"
+                        },
+                        {
+                          "countryCode": "KR"
+                        },
+                        {
+                          "countryCode": "BD"
+                        },
+                        {
+                          "countryCode": "PK"
+                        },
+                        {
+                          "countryCode": "LK"
+                        },
+                        {
+                          "countryCode": "GH"
+                        },
+                        {
+                          "countryCode": "KE"
+                        },
+                        {
+                          "countryCode": "NG"
+                        },
+                        {
+                          "countryCode": "TZ"
+                        },
+                        {
+                          "countryCode": "UG"
+                        },
+                        {
+                          "countryCode": "AG"
+                        },
+                        {
+                          "countryCode": "AM"
+                        },
+                        {
+                          "countryCode": "BS"
+                        },
+                        {
+                          "countryCode": "BB"
+                        },
+                        {
+                          "countryCode": "BZ"
+                        },
+                        {
+                          "countryCode": "BT"
+                        },
+                        {
+                          "countryCode": "BW"
+                        },
+                        {
+                          "countryCode": "BF"
+                        },
+                        {
+                          "countryCode": "CV"
+                        },
+                        {
+                          "countryCode": "CW"
+                        },
+                        {
+                          "countryCode": "DM"
+                        },
+                        {
+                          "countryCode": "FJ"
+                        },
+                        {
+                          "countryCode": "GM"
+                        },
+                        {
+                          "countryCode": "GE"
+                        },
+                        {
+                          "countryCode": "GD"
+                        },
+                        {
+                          "countryCode": "GW"
+                        },
+                        {
+                          "countryCode": "GY"
+                        },
+                        {
+                          "countryCode": "HT"
+                        },
+                        {
+                          "countryCode": "JM"
+                        },
+                        {
+                          "countryCode": "KI"
+                        },
+                        {
+                          "countryCode": "LS"
+                        },
+                        {
+                          "countryCode": "LR"
+                        },
+                        {
+                          "countryCode": "MW"
+                        },
+                        {
+                          "countryCode": "MV"
+                        },
+                        {
+                          "countryCode": "ML"
+                        },
+                        {
+                          "countryCode": "MH"
+                        },
+                        {
+                          "countryCode": "FM"
+                        },
+                        {
+                          "countryCode": "NA"
+                        },
+                        {
+                          "countryCode": "NR"
+                        },
+                        {
+                          "countryCode": "NE"
+                        },
+                        {
+                          "countryCode": "PW"
+                        },
+                        {
+                          "countryCode": "PG"
+                        },
+                        {
+                          "countryCode": "WS"
+                        },
+                        {
+                          "countryCode": "SM"
+                        },
+                        {
+                          "countryCode": "ST"
+                        },
+                        {
+                          "countryCode": "SN"
+                        },
+                        {
+                          "countryCode": "SC"
+                        },
+                        {
+                          "countryCode": "SL"
+                        },
+                        {
+                          "countryCode": "SB"
+                        },
+                        {
+                          "countryCode": "KN"
+                        },
+                        {
+                          "countryCode": "LC"
+                        },
+                        {
+                          "countryCode": "VC"
+                        },
+                        {
+                          "countryCode": "SR"
+                        },
+                        {
+                          "countryCode": "TL"
+                        },
+                        {
+                          "countryCode": "TO"
+                        },
+                        {
+                          "countryCode": "TT"
+                        },
+                        {
+                          "countryCode": "TV"
+                        },
+                        {
+                          "countryCode": "VU"
+                        },
+                        {
+                          "countryCode": "AZ"
+                        },
+                        {
+                          "countryCode": "BN"
+                        },
+                        {
+                          "countryCode": "BI"
+                        },
+                        {
+                          "countryCode": "KH"
+                        },
+                        {
+                          "countryCode": "CM"
+                        },
+                        {
+                          "countryCode": "TD"
+                        },
+                        {
+                          "countryCode": "KM"
+                        },
+                        {
+                          "countryCode": "GQ"
+                        },
+                        {
+                          "countryCode": "SZ"
+                        },
+                        {
+                          "countryCode": "GA"
+                        },
+                        {
+                          "countryCode": "GN"
+                        },
+                        {
+                          "countryCode": "KG"
+                        },
+                        {
+                          "countryCode": "LA"
+                        },
+                        {
+                          "countryCode": "MR"
+                        },
+                        {
+                          "countryCode": "MN"
+                        },
+                        {
+                          "countryCode": "NP"
+                        },
+                        {
+                          "countryCode": "RW"
+                        },
+                        {
+                          "countryCode": "TG"
+                        },
+                        {
+                          "countryCode": "UZ"
+                        },
+                        {
+                          "countryCode": "ZW"
+                        },
+                        {
+                          "countryCode": "BJ"
+                        },
+                        {
+                          "countryCode": "MG"
+                        },
+                        {
+                          "countryCode": "MU"
+                        },
+                        {
+                          "countryCode": "MZ"
+                        },
+                        {
+                          "countryCode": "AO"
+                        },
+                        {
+                          "countryCode": "CI"
+                        },
+                        {
+                          "countryCode": "DJ"
+                        },
+                        {
+                          "countryCode": "ZM"
+                        },
+                        {
+                          "countryCode": "CD"
+                        },
+                        {
+                          "countryCode": "CG"
+                        },
+                        {
+                          "countryCode": "IQ"
+                        },
+                        {
+                          "countryCode": "LY"
+                        },
+                        {
+                          "countryCode": "TJ"
+                        },
+                        {
+                          "countryCode": "VE"
+                        },
+                        {
+                          "countryCode": "ET"
+                        },
+                        {
+                          "countryCode": "XK"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 308853
+                    },
+                    "name": "Take The Long Way Home - Remastered 2010",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "193183380",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/09a6d45f04a6ec995a51e2ac9ab6ca57ce96b792"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 6,
+                    "uri": "spotify:track:0v0XYK0pLgsPiq5u4FKHaw"
+                  }
+                }
+              },
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515405ef9e393f5f1e53b4b42e",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735405ef9e393f5f1e53b4b42e",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Breakfast In America (Deluxe Edition)",
+                      "uri": "spotify:album:1zcm3UvHNHpseYOUfd0pna"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": [
+                        {
+                          "countryCode": "AR"
+                        },
+                        {
+                          "countryCode": "AU"
+                        },
+                        {
+                          "countryCode": "AT"
+                        },
+                        {
+                          "countryCode": "BO"
+                        },
+                        {
+                          "countryCode": "BR"
+                        },
+                        {
+                          "countryCode": "BG"
+                        },
+                        {
+                          "countryCode": "CA"
+                        },
+                        {
+                          "countryCode": "CL"
+                        },
+                        {
+                          "countryCode": "CO"
+                        },
+                        {
+                          "countryCode": "CR"
+                        },
+                        {
+                          "countryCode": "CY"
+                        },
+                        {
+                          "countryCode": "CZ"
+                        },
+                        {
+                          "countryCode": "DK"
+                        },
+                        {
+                          "countryCode": "DO"
+                        },
+                        {
+                          "countryCode": "DE"
+                        },
+                        {
+                          "countryCode": "EC"
+                        },
+                        {
+                          "countryCode": "EE"
+                        },
+                        {
+                          "countryCode": "SV"
+                        },
+                        {
+                          "countryCode": "FI"
+                        },
+                        {
+                          "countryCode": "FR"
+                        },
+                        {
+                          "countryCode": "GT"
+                        },
+                        {
+                          "countryCode": "HN"
+                        },
+                        {
+                          "countryCode": "HK"
+                        },
+                        {
+                          "countryCode": "HU"
+                        },
+                        {
+                          "countryCode": "IS"
+                        },
+                        {
+                          "countryCode": "IE"
+                        },
+                        {
+                          "countryCode": "IT"
+                        },
+                        {
+                          "countryCode": "LV"
+                        },
+                        {
+                          "countryCode": "LT"
+                        },
+                        {
+                          "countryCode": "MY"
+                        },
+                        {
+                          "countryCode": "MT"
+                        },
+                        {
+                          "countryCode": "MX"
+                        },
+                        {
+                          "countryCode": "NL"
+                        },
+                        {
+                          "countryCode": "NI"
+                        },
+                        {
+                          "countryCode": "NO"
+                        },
+                        {
+                          "countryCode": "PA"
+                        },
+                        {
+                          "countryCode": "PY"
+                        },
+                        {
+                          "countryCode": "PE"
+                        },
+                        {
+                          "countryCode": "PH"
+                        },
+                        {
+                          "countryCode": "PL"
+                        },
+                        {
+                          "countryCode": "PT"
+                        },
+                        {
+                          "countryCode": "SG"
+                        },
+                        {
+                          "countryCode": "SK"
+                        },
+                        {
+                          "countryCode": "ES"
+                        },
+                        {
+                          "countryCode": "SE"
+                        },
+                        {
+                          "countryCode": "CH"
+                        },
+                        {
+                          "countryCode": "TW"
+                        },
+                        {
+                          "countryCode": "UY"
+                        },
+                        {
+                          "countryCode": "US"
+                        },
+                        {
+                          "countryCode": "GB"
+                        },
+                        {
+                          "countryCode": "AD"
+                        },
+                        {
+                          "countryCode": "LI"
+                        },
+                        {
+                          "countryCode": "MC"
+                        },
+                        {
+                          "countryCode": "ID"
+                        },
+                        {
+                          "countryCode": "JP"
+                        },
+                        {
+                          "countryCode": "TH"
+                        },
+                        {
+                          "countryCode": "RO"
+                        },
+                        {
+                          "countryCode": "IL"
+                        },
+                        {
+                          "countryCode": "ZA"
+                        },
+                        {
+                          "countryCode": "SA"
+                        },
+                        {
+                          "countryCode": "AE"
+                        },
+                        {
+                          "countryCode": "BH"
+                        },
+                        {
+                          "countryCode": "QA"
+                        },
+                        {
+                          "countryCode": "OM"
+                        },
+                        {
+                          "countryCode": "KW"
+                        },
+                        {
+                          "countryCode": "EG"
+                        },
+                        {
+                          "countryCode": "MA"
+                        },
+                        {
+                          "countryCode": "DZ"
+                        },
+                        {
+                          "countryCode": "TN"
+                        },
+                        {
+                          "countryCode": "LB"
+                        },
+                        {
+                          "countryCode": "JO"
+                        },
+                        {
+                          "countryCode": "PS"
+                        },
+                        {
+                          "countryCode": "IN"
+                        },
+                        {
+                          "countryCode": "BY"
+                        },
+                        {
+                          "countryCode": "KZ"
+                        },
+                        {
+                          "countryCode": "MD"
+                        },
+                        {
+                          "countryCode": "UA"
+                        },
+                        {
+                          "countryCode": "AL"
+                        },
+                        {
+                          "countryCode": "BA"
+                        },
+                        {
+                          "countryCode": "HR"
+                        },
+                        {
+                          "countryCode": "ME"
+                        },
+                        {
+                          "countryCode": "MK"
+                        },
+                        {
+                          "countryCode": "RS"
+                        },
+                        {
+                          "countryCode": "SI"
+                        },
+                        {
+                          "countryCode": "KR"
+                        },
+                        {
+                          "countryCode": "BD"
+                        },
+                        {
+                          "countryCode": "PK"
+                        },
+                        {
+                          "countryCode": "LK"
+                        },
+                        {
+                          "countryCode": "GH"
+                        },
+                        {
+                          "countryCode": "KE"
+                        },
+                        {
+                          "countryCode": "NG"
+                        },
+                        {
+                          "countryCode": "TZ"
+                        },
+                        {
+                          "countryCode": "UG"
+                        },
+                        {
+                          "countryCode": "AG"
+                        },
+                        {
+                          "countryCode": "AM"
+                        },
+                        {
+                          "countryCode": "BS"
+                        },
+                        {
+                          "countryCode": "BB"
+                        },
+                        {
+                          "countryCode": "BZ"
+                        },
+                        {
+                          "countryCode": "BT"
+                        },
+                        {
+                          "countryCode": "BW"
+                        },
+                        {
+                          "countryCode": "BF"
+                        },
+                        {
+                          "countryCode": "CV"
+                        },
+                        {
+                          "countryCode": "CW"
+                        },
+                        {
+                          "countryCode": "DM"
+                        },
+                        {
+                          "countryCode": "FJ"
+                        },
+                        {
+                          "countryCode": "GM"
+                        },
+                        {
+                          "countryCode": "GE"
+                        },
+                        {
+                          "countryCode": "GD"
+                        },
+                        {
+                          "countryCode": "GW"
+                        },
+                        {
+                          "countryCode": "GY"
+                        },
+                        {
+                          "countryCode": "HT"
+                        },
+                        {
+                          "countryCode": "JM"
+                        },
+                        {
+                          "countryCode": "KI"
+                        },
+                        {
+                          "countryCode": "LS"
+                        },
+                        {
+                          "countryCode": "LR"
+                        },
+                        {
+                          "countryCode": "MW"
+                        },
+                        {
+                          "countryCode": "MV"
+                        },
+                        {
+                          "countryCode": "ML"
+                        },
+                        {
+                          "countryCode": "MH"
+                        },
+                        {
+                          "countryCode": "FM"
+                        },
+                        {
+                          "countryCode": "NA"
+                        },
+                        {
+                          "countryCode": "NR"
+                        },
+                        {
+                          "countryCode": "NE"
+                        },
+                        {
+                          "countryCode": "PW"
+                        },
+                        {
+                          "countryCode": "PG"
+                        },
+                        {
+                          "countryCode": "WS"
+                        },
+                        {
+                          "countryCode": "SM"
+                        },
+                        {
+                          "countryCode": "ST"
+                        },
+                        {
+                          "countryCode": "SN"
+                        },
+                        {
+                          "countryCode": "SC"
+                        },
+                        {
+                          "countryCode": "SL"
+                        },
+                        {
+                          "countryCode": "SB"
+                        },
+                        {
+                          "countryCode": "KN"
+                        },
+                        {
+                          "countryCode": "LC"
+                        },
+                        {
+                          "countryCode": "VC"
+                        },
+                        {
+                          "countryCode": "SR"
+                        },
+                        {
+                          "countryCode": "TL"
+                        },
+                        {
+                          "countryCode": "TO"
+                        },
+                        {
+                          "countryCode": "TT"
+                        },
+                        {
+                          "countryCode": "TV"
+                        },
+                        {
+                          "countryCode": "VU"
+                        },
+                        {
+                          "countryCode": "AZ"
+                        },
+                        {
+                          "countryCode": "BN"
+                        },
+                        {
+                          "countryCode": "BI"
+                        },
+                        {
+                          "countryCode": "KH"
+                        },
+                        {
+                          "countryCode": "CM"
+                        },
+                        {
+                          "countryCode": "TD"
+                        },
+                        {
+                          "countryCode": "KM"
+                        },
+                        {
+                          "countryCode": "GQ"
+                        },
+                        {
+                          "countryCode": "SZ"
+                        },
+                        {
+                          "countryCode": "GA"
+                        },
+                        {
+                          "countryCode": "GN"
+                        },
+                        {
+                          "countryCode": "KG"
+                        },
+                        {
+                          "countryCode": "LA"
+                        },
+                        {
+                          "countryCode": "MR"
+                        },
+                        {
+                          "countryCode": "MN"
+                        },
+                        {
+                          "countryCode": "NP"
+                        },
+                        {
+                          "countryCode": "RW"
+                        },
+                        {
+                          "countryCode": "TG"
+                        },
+                        {
+                          "countryCode": "UZ"
+                        },
+                        {
+                          "countryCode": "ZW"
+                        },
+                        {
+                          "countryCode": "BJ"
+                        },
+                        {
+                          "countryCode": "MG"
+                        },
+                        {
+                          "countryCode": "MU"
+                        },
+                        {
+                          "countryCode": "MZ"
+                        },
+                        {
+                          "countryCode": "AO"
+                        },
+                        {
+                          "countryCode": "CI"
+                        },
+                        {
+                          "countryCode": "DJ"
+                        },
+                        {
+                          "countryCode": "ZM"
+                        },
+                        {
+                          "countryCode": "CD"
+                        },
+                        {
+                          "countryCode": "CG"
+                        },
+                        {
+                          "countryCode": "IQ"
+                        },
+                        {
+                          "countryCode": "LY"
+                        },
+                        {
+                          "countryCode": "TJ"
+                        },
+                        {
+                          "countryCode": "VE"
+                        },
+                        {
+                          "countryCode": "ET"
+                        },
+                        {
+                          "countryCode": "XK"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 159346
+                    },
+                    "name": "Breakfast In America - Remastered 2010",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "507738913",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/ac3c12aa6a32db5b171f67b9d13a16adc431da3a"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 4,
+                    "uri": "spotify:track:4a5pNRjwmzYQuEY1E7O6pj"
+                  }
+                }
+              },
+              {
+                "itemV2": {
+                  "__typename": "TrackResponseWrapper",
+                  "data": {
+                    "__typename": "Track",
+                    "albumOfTrack": {
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+                            "width": 300
+                          },
+                          {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515405ef9e393f5f1e53b4b42e",
+                            "width": 64
+                          },
+                          {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735405ef9e393f5f1e53b4b42e",
+                            "width": 640
+                          }
+                        ]
+                      },
+                      "name": "Breakfast In America (Deluxe Edition)",
+                      "uri": "spotify:album:1zcm3UvHNHpseYOUfd0pna"
+                    },
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Supertramp"
+                          },
+                          "uri": "spotify:artist:3JsMj0DEzyWc0VDlHuy9Bx"
+                        }
+                      ]
+                    },
+                    "availableMarkets": {
+                      "items": [
+                        {
+                          "countryCode": "AR"
+                        },
+                        {
+                          "countryCode": "AU"
+                        },
+                        {
+                          "countryCode": "AT"
+                        },
+                        {
+                          "countryCode": "BO"
+                        },
+                        {
+                          "countryCode": "BR"
+                        },
+                        {
+                          "countryCode": "BG"
+                        },
+                        {
+                          "countryCode": "CA"
+                        },
+                        {
+                          "countryCode": "CL"
+                        },
+                        {
+                          "countryCode": "CO"
+                        },
+                        {
+                          "countryCode": "CR"
+                        },
+                        {
+                          "countryCode": "CY"
+                        },
+                        {
+                          "countryCode": "CZ"
+                        },
+                        {
+                          "countryCode": "DK"
+                        },
+                        {
+                          "countryCode": "DO"
+                        },
+                        {
+                          "countryCode": "DE"
+                        },
+                        {
+                          "countryCode": "EC"
+                        },
+                        {
+                          "countryCode": "EE"
+                        },
+                        {
+                          "countryCode": "SV"
+                        },
+                        {
+                          "countryCode": "FI"
+                        },
+                        {
+                          "countryCode": "FR"
+                        },
+                        {
+                          "countryCode": "GT"
+                        },
+                        {
+                          "countryCode": "HN"
+                        },
+                        {
+                          "countryCode": "HK"
+                        },
+                        {
+                          "countryCode": "HU"
+                        },
+                        {
+                          "countryCode": "IS"
+                        },
+                        {
+                          "countryCode": "IE"
+                        },
+                        {
+                          "countryCode": "IT"
+                        },
+                        {
+                          "countryCode": "LV"
+                        },
+                        {
+                          "countryCode": "LT"
+                        },
+                        {
+                          "countryCode": "MY"
+                        },
+                        {
+                          "countryCode": "MT"
+                        },
+                        {
+                          "countryCode": "MX"
+                        },
+                        {
+                          "countryCode": "NL"
+                        },
+                        {
+                          "countryCode": "NI"
+                        },
+                        {
+                          "countryCode": "NO"
+                        },
+                        {
+                          "countryCode": "PA"
+                        },
+                        {
+                          "countryCode": "PY"
+                        },
+                        {
+                          "countryCode": "PE"
+                        },
+                        {
+                          "countryCode": "PH"
+                        },
+                        {
+                          "countryCode": "PL"
+                        },
+                        {
+                          "countryCode": "PT"
+                        },
+                        {
+                          "countryCode": "SG"
+                        },
+                        {
+                          "countryCode": "SK"
+                        },
+                        {
+                          "countryCode": "ES"
+                        },
+                        {
+                          "countryCode": "SE"
+                        },
+                        {
+                          "countryCode": "CH"
+                        },
+                        {
+                          "countryCode": "TW"
+                        },
+                        {
+                          "countryCode": "UY"
+                        },
+                        {
+                          "countryCode": "US"
+                        },
+                        {
+                          "countryCode": "GB"
+                        },
+                        {
+                          "countryCode": "AD"
+                        },
+                        {
+                          "countryCode": "LI"
+                        },
+                        {
+                          "countryCode": "MC"
+                        },
+                        {
+                          "countryCode": "ID"
+                        },
+                        {
+                          "countryCode": "JP"
+                        },
+                        {
+                          "countryCode": "TH"
+                        },
+                        {
+                          "countryCode": "RO"
+                        },
+                        {
+                          "countryCode": "IL"
+                        },
+                        {
+                          "countryCode": "ZA"
+                        },
+                        {
+                          "countryCode": "SA"
+                        },
+                        {
+                          "countryCode": "AE"
+                        },
+                        {
+                          "countryCode": "BH"
+                        },
+                        {
+                          "countryCode": "QA"
+                        },
+                        {
+                          "countryCode": "OM"
+                        },
+                        {
+                          "countryCode": "KW"
+                        },
+                        {
+                          "countryCode": "EG"
+                        },
+                        {
+                          "countryCode": "MA"
+                        },
+                        {
+                          "countryCode": "DZ"
+                        },
+                        {
+                          "countryCode": "TN"
+                        },
+                        {
+                          "countryCode": "LB"
+                        },
+                        {
+                          "countryCode": "JO"
+                        },
+                        {
+                          "countryCode": "PS"
+                        },
+                        {
+                          "countryCode": "IN"
+                        },
+                        {
+                          "countryCode": "BY"
+                        },
+                        {
+                          "countryCode": "KZ"
+                        },
+                        {
+                          "countryCode": "MD"
+                        },
+                        {
+                          "countryCode": "UA"
+                        },
+                        {
+                          "countryCode": "AL"
+                        },
+                        {
+                          "countryCode": "BA"
+                        },
+                        {
+                          "countryCode": "HR"
+                        },
+                        {
+                          "countryCode": "ME"
+                        },
+                        {
+                          "countryCode": "MK"
+                        },
+                        {
+                          "countryCode": "RS"
+                        },
+                        {
+                          "countryCode": "SI"
+                        },
+                        {
+                          "countryCode": "KR"
+                        },
+                        {
+                          "countryCode": "BD"
+                        },
+                        {
+                          "countryCode": "PK"
+                        },
+                        {
+                          "countryCode": "LK"
+                        },
+                        {
+                          "countryCode": "GH"
+                        },
+                        {
+                          "countryCode": "KE"
+                        },
+                        {
+                          "countryCode": "NG"
+                        },
+                        {
+                          "countryCode": "TZ"
+                        },
+                        {
+                          "countryCode": "UG"
+                        },
+                        {
+                          "countryCode": "AG"
+                        },
+                        {
+                          "countryCode": "AM"
+                        },
+                        {
+                          "countryCode": "BS"
+                        },
+                        {
+                          "countryCode": "BB"
+                        },
+                        {
+                          "countryCode": "BZ"
+                        },
+                        {
+                          "countryCode": "BT"
+                        },
+                        {
+                          "countryCode": "BW"
+                        },
+                        {
+                          "countryCode": "BF"
+                        },
+                        {
+                          "countryCode": "CV"
+                        },
+                        {
+                          "countryCode": "CW"
+                        },
+                        {
+                          "countryCode": "DM"
+                        },
+                        {
+                          "countryCode": "FJ"
+                        },
+                        {
+                          "countryCode": "GM"
+                        },
+                        {
+                          "countryCode": "GE"
+                        },
+                        {
+                          "countryCode": "GD"
+                        },
+                        {
+                          "countryCode": "GW"
+                        },
+                        {
+                          "countryCode": "GY"
+                        },
+                        {
+                          "countryCode": "HT"
+                        },
+                        {
+                          "countryCode": "JM"
+                        },
+                        {
+                          "countryCode": "KI"
+                        },
+                        {
+                          "countryCode": "LS"
+                        },
+                        {
+                          "countryCode": "LR"
+                        },
+                        {
+                          "countryCode": "MW"
+                        },
+                        {
+                          "countryCode": "MV"
+                        },
+                        {
+                          "countryCode": "ML"
+                        },
+                        {
+                          "countryCode": "MH"
+                        },
+                        {
+                          "countryCode": "FM"
+                        },
+                        {
+                          "countryCode": "NA"
+                        },
+                        {
+                          "countryCode": "NR"
+                        },
+                        {
+                          "countryCode": "NE"
+                        },
+                        {
+                          "countryCode": "PW"
+                        },
+                        {
+                          "countryCode": "PG"
+                        },
+                        {
+                          "countryCode": "WS"
+                        },
+                        {
+                          "countryCode": "SM"
+                        },
+                        {
+                          "countryCode": "ST"
+                        },
+                        {
+                          "countryCode": "SN"
+                        },
+                        {
+                          "countryCode": "SC"
+                        },
+                        {
+                          "countryCode": "SL"
+                        },
+                        {
+                          "countryCode": "SB"
+                        },
+                        {
+                          "countryCode": "KN"
+                        },
+                        {
+                          "countryCode": "LC"
+                        },
+                        {
+                          "countryCode": "VC"
+                        },
+                        {
+                          "countryCode": "SR"
+                        },
+                        {
+                          "countryCode": "TL"
+                        },
+                        {
+                          "countryCode": "TO"
+                        },
+                        {
+                          "countryCode": "TT"
+                        },
+                        {
+                          "countryCode": "TV"
+                        },
+                        {
+                          "countryCode": "VU"
+                        },
+                        {
+                          "countryCode": "AZ"
+                        },
+                        {
+                          "countryCode": "BN"
+                        },
+                        {
+                          "countryCode": "BI"
+                        },
+                        {
+                          "countryCode": "KH"
+                        },
+                        {
+                          "countryCode": "CM"
+                        },
+                        {
+                          "countryCode": "TD"
+                        },
+                        {
+                          "countryCode": "KM"
+                        },
+                        {
+                          "countryCode": "GQ"
+                        },
+                        {
+                          "countryCode": "SZ"
+                        },
+                        {
+                          "countryCode": "GA"
+                        },
+                        {
+                          "countryCode": "GN"
+                        },
+                        {
+                          "countryCode": "KG"
+                        },
+                        {
+                          "countryCode": "LA"
+                        },
+                        {
+                          "countryCode": "MR"
+                        },
+                        {
+                          "countryCode": "MN"
+                        },
+                        {
+                          "countryCode": "NP"
+                        },
+                        {
+                          "countryCode": "RW"
+                        },
+                        {
+                          "countryCode": "TG"
+                        },
+                        {
+                          "countryCode": "UZ"
+                        },
+                        {
+                          "countryCode": "ZW"
+                        },
+                        {
+                          "countryCode": "BJ"
+                        },
+                        {
+                          "countryCode": "MG"
+                        },
+                        {
+                          "countryCode": "MU"
+                        },
+                        {
+                          "countryCode": "MZ"
+                        },
+                        {
+                          "countryCode": "AO"
+                        },
+                        {
+                          "countryCode": "CI"
+                        },
+                        {
+                          "countryCode": "DJ"
+                        },
+                        {
+                          "countryCode": "ZM"
+                        },
+                        {
+                          "countryCode": "CD"
+                        },
+                        {
+                          "countryCode": "CG"
+                        },
+                        {
+                          "countryCode": "IQ"
+                        },
+                        {
+                          "countryCode": "LY"
+                        },
+                        {
+                          "countryCode": "TJ"
+                        },
+                        {
+                          "countryCode": "VE"
+                        },
+                        {
+                          "countryCode": "ET"
+                        },
+                        {
+                          "countryCode": "XK"
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "discNumber": 1,
+                    "duration": {
+                      "totalMilliseconds": 251253
+                    },
+                    "name": "The Logical Song - Remastered 2010",
+                    "playability": {
+                      "playable": true
+                    },
+                    "playcount": "606123735",
+                    "previews": {
+                      "audioPreviews": {
+                        "items": [
+                          {
+                            "url": "https://p.scdn.co/mp3-preview/40810a2f83247bea42ea6067ff47c183128e3c26"
+                          }
+                        ]
+                      }
+                    },
+                    "trackNumber": 2,
+                    "uri": "spotify:track:6mHOcVtsHLMuesJkswc0GZ"
+                  }
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null
+            },
+            "totalCount": 10
+          },
+          "description": "Supertramp remains a great reminder for any new band that it&#x27;s not keeping up with the trends or having a snappy fashion sense that creates long-lasting success. It&#x27;s musical ability, artistic vision and a dogged persistence. All of these things helped make Supertramp into one of the greatest bands ",
+          "followers": 0,
+          "id": "7JCLJPcFsjo4z0KyQPYVhs",
+          "images": {
+            "items": [
+              {
+                "sources": [
+                  {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ba532b5530e8ec61b0588790",
+                    "width": null
+                  }
+                ]
+              }
+            ]
+          },
+          "name": "The Top 10 Best Songs by Supertramp",
+          "ownerV2": {
+            "data": {
+              "__typename": "User",
+              "avatar": {
+                "sources": [
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67757000003b82df85bd946d25abde295fb3cd",
+                    "width": 64
+                  },
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab6775700000ee85df85bd946d25abde295fb3cd",
+                    "width": 300
+                  }
+                ]
+              },
+              "name": "Alt77",
+              "uri": "spotify:user:lg9mamyinopxivysj1zr1jyuq",
+              "username": "lg9mamyinopxivysj1zr1jyuq"
+            }
+          },
+          "uri": "spotify:playlist:7JCLJPcFsjo4z0KyQPYVhs"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {
+        "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ba532b5530e8ec61b0588790": [
+          184,
+          32,
+          32
+        ]
+      }
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "playlist-v2": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicGroup",
+      "@id": "https://open.spotify.com/playlist/7JCLJPcFsjo4z0KyQPYVhs",
+      "url": "https://open.spotify.com/playlist/7JCLJPcFsjo4z0KyQPYVhs",
+      "name": "The Top 10 Best Songs by Supertramp",
+      "description": "Supertramp remains a great reminder for any new band that it&#x27;s not keeping up with the trends or having a snappy fashion sense that creates long-lasting success. It&#x27;s musical ability, artistic vision and a dogged persistence. All of these things helped make Supertramp into one of the greatest bands ",
+      "datePublished": null,
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/playlist/7JCLJPcFsjo4z0KyQPYVhs?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/playlist/7JCLJPcFsjo4z0KyQPYVhs/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": [
+            {
+              "@type": "Country",
+              "name": "AR"
+            },
+            {
+              "@type": "Country",
+              "name": "AU"
+            },
+            {
+              "@type": "Country",
+              "name": "AT"
+            },
+            {
+              "@type": "Country",
+              "name": "BE"
+            },
+            {
+              "@type": "Country",
+              "name": "BO"
+            },
+            {
+              "@type": "Country",
+              "name": "BR"
+            },
+            {
+              "@type": "Country",
+              "name": "BG"
+            },
+            {
+              "@type": "Country",
+              "name": "CA"
+            },
+            {
+              "@type": "Country",
+              "name": "CL"
+            },
+            {
+              "@type": "Country",
+              "name": "CO"
+            },
+            {
+              "@type": "Country",
+              "name": "CR"
+            },
+            {
+              "@type": "Country",
+              "name": "CY"
+            },
+            {
+              "@type": "Country",
+              "name": "CZ"
+            },
+            {
+              "@type": "Country",
+              "name": "DK"
+            },
+            {
+              "@type": "Country",
+              "name": "DO"
+            },
+            {
+              "@type": "Country",
+              "name": "DE"
+            },
+            {
+              "@type": "Country",
+              "name": "EC"
+            },
+            {
+              "@type": "Country",
+              "name": "EE"
+            },
+            {
+              "@type": "Country",
+              "name": "SV"
+            },
+            {
+              "@type": "Country",
+              "name": "FI"
+            },
+            {
+              "@type": "Country",
+              "name": "FR"
+            },
+            {
+              "@type": "Country",
+              "name": "GR"
+            },
+            {
+              "@type": "Country",
+              "name": "GT"
+            },
+            {
+              "@type": "Country",
+              "name": "HN"
+            },
+            {
+              "@type": "Country",
+              "name": "HK"
+            },
+            {
+              "@type": "Country",
+              "name": "HU"
+            },
+            {
+              "@type": "Country",
+              "name": "IS"
+            },
+            {
+              "@type": "Country",
+              "name": "IE"
+            },
+            {
+              "@type": "Country",
+              "name": "IT"
+            },
+            {
+              "@type": "Country",
+              "name": "LV"
+            },
+            {
+              "@type": "Country",
+              "name": "LT"
+            },
+            {
+              "@type": "Country",
+              "name": "LU"
+            },
+            {
+              "@type": "Country",
+              "name": "MY"
+            },
+            {
+              "@type": "Country",
+              "name": "MT"
+            },
+            {
+              "@type": "Country",
+              "name": "MX"
+            },
+            {
+              "@type": "Country",
+              "name": "NL"
+            },
+            {
+              "@type": "Country",
+              "name": "NZ"
+            },
+            {
+              "@type": "Country",
+              "name": "NI"
+            },
+            {
+              "@type": "Country",
+              "name": "NO"
+            },
+            {
+              "@type": "Country",
+              "name": "PA"
+            },
+            {
+              "@type": "Country",
+              "name": "PY"
+            },
+            {
+              "@type": "Country",
+              "name": "PE"
+            },
+            {
+              "@type": "Country",
+              "name": "PH"
+            },
+            {
+              "@type": "Country",
+              "name": "PL"
+            },
+            {
+              "@type": "Country",
+              "name": "PT"
+            },
+            {
+              "@type": "Country",
+              "name": "SG"
+            },
+            {
+              "@type": "Country",
+              "name": "SK"
+            },
+            {
+              "@type": "Country",
+              "name": "ES"
+            },
+            {
+              "@type": "Country",
+              "name": "SE"
+            },
+            {
+              "@type": "Country",
+              "name": "CH"
+            },
+            {
+              "@type": "Country",
+              "name": "TW"
+            },
+            {
+              "@type": "Country",
+              "name": "TR"
+            },
+            {
+              "@type": "Country",
+              "name": "UY"
+            },
+            {
+              "@type": "Country",
+              "name": "US"
+            },
+            {
+              "@type": "Country",
+              "name": "GB"
+            },
+            {
+              "@type": "Country",
+              "name": "AD"
+            },
+            {
+              "@type": "Country",
+              "name": "LI"
+            },
+            {
+              "@type": "Country",
+              "name": "MC"
+            },
+            {
+              "@type": "Country",
+              "name": "ID"
+            },
+            {
+              "@type": "Country",
+              "name": "JP"
+            },
+            {
+              "@type": "Country",
+              "name": "TH"
+            },
+            {
+              "@type": "Country",
+              "name": "VN"
+            },
+            {
+              "@type": "Country",
+              "name": "RO"
+            },
+            {
+              "@type": "Country",
+              "name": "IL"
+            },
+            {
+              "@type": "Country",
+              "name": "ZA"
+            },
+            {
+              "@type": "Country",
+              "name": "SA"
+            },
+            {
+              "@type": "Country",
+              "name": "AE"
+            },
+            {
+              "@type": "Country",
+              "name": "BH"
+            },
+            {
+              "@type": "Country",
+              "name": "QA"
+            },
+            {
+              "@type": "Country",
+              "name": "OM"
+            },
+            {
+              "@type": "Country",
+              "name": "KW"
+            },
+            {
+              "@type": "Country",
+              "name": "EG"
+            },
+            {
+              "@type": "Country",
+              "name": "MA"
+            },
+            {
+              "@type": "Country",
+              "name": "DZ"
+            },
+            {
+              "@type": "Country",
+              "name": "TN"
+            },
+            {
+              "@type": "Country",
+              "name": "LB"
+            },
+            {
+              "@type": "Country",
+              "name": "JO"
+            },
+            {
+              "@type": "Country",
+              "name": "PS"
+            },
+            {
+              "@type": "Country",
+              "name": "IN"
+            },
+            {
+              "@type": "Country",
+              "name": "BY"
+            },
+            {
+              "@type": "Country",
+              "name": "KZ"
+            },
+            {
+              "@type": "Country",
+              "name": "MD"
+            },
+            {
+              "@type": "Country",
+              "name": "UA"
+            },
+            {
+              "@type": "Country",
+              "name": "AL"
+            },
+            {
+              "@type": "Country",
+              "name": "BA"
+            },
+            {
+              "@type": "Country",
+              "name": "HR"
+            },
+            {
+              "@type": "Country",
+              "name": "ME"
+            },
+            {
+              "@type": "Country",
+              "name": "MK"
+            },
+            {
+              "@type": "Country",
+              "name": "RS"
+            },
+            {
+              "@type": "Country",
+              "name": "SI"
+            },
+            {
+              "@type": "Country",
+              "name": "KR"
+            },
+            {
+              "@type": "Country",
+              "name": "BD"
+            },
+            {
+              "@type": "Country",
+              "name": "PK"
+            },
+            {
+              "@type": "Country",
+              "name": "LK"
+            },
+            {
+              "@type": "Country",
+              "name": "GH"
+            },
+            {
+              "@type": "Country",
+              "name": "KE"
+            },
+            {
+              "@type": "Country",
+              "name": "NG"
+            },
+            {
+              "@type": "Country",
+              "name": "TZ"
+            },
+            {
+              "@type": "Country",
+              "name": "UG"
+            },
+            {
+              "@type": "Country",
+              "name": "AG"
+            },
+            {
+              "@type": "Country",
+              "name": "AM"
+            },
+            {
+              "@type": "Country",
+              "name": "BS"
+            },
+            {
+              "@type": "Country",
+              "name": "BB"
+            },
+            {
+              "@type": "Country",
+              "name": "BZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BT"
+            },
+            {
+              "@type": "Country",
+              "name": "BW"
+            },
+            {
+              "@type": "Country",
+              "name": "BF"
+            },
+            {
+              "@type": "Country",
+              "name": "CV"
+            },
+            {
+              "@type": "Country",
+              "name": "CW"
+            },
+            {
+              "@type": "Country",
+              "name": "DM"
+            },
+            {
+              "@type": "Country",
+              "name": "FJ"
+            },
+            {
+              "@type": "Country",
+              "name": "GM"
+            },
+            {
+              "@type": "Country",
+              "name": "GE"
+            },
+            {
+              "@type": "Country",
+              "name": "GD"
+            },
+            {
+              "@type": "Country",
+              "name": "GW"
+            },
+            {
+              "@type": "Country",
+              "name": "GY"
+            },
+            {
+              "@type": "Country",
+              "name": "HT"
+            },
+            {
+              "@type": "Country",
+              "name": "JM"
+            },
+            {
+              "@type": "Country",
+              "name": "KI"
+            },
+            {
+              "@type": "Country",
+              "name": "LS"
+            },
+            {
+              "@type": "Country",
+              "name": "LR"
+            },
+            {
+              "@type": "Country",
+              "name": "MW"
+            },
+            {
+              "@type": "Country",
+              "name": "MV"
+            },
+            {
+              "@type": "Country",
+              "name": "ML"
+            },
+            {
+              "@type": "Country",
+              "name": "MH"
+            },
+            {
+              "@type": "Country",
+              "name": "FM"
+            },
+            {
+              "@type": "Country",
+              "name": "NA"
+            },
+            {
+              "@type": "Country",
+              "name": "NR"
+            },
+            {
+              "@type": "Country",
+              "name": "NE"
+            },
+            {
+              "@type": "Country",
+              "name": "PW"
+            },
+            {
+              "@type": "Country",
+              "name": "PG"
+            },
+            {
+              "@type": "Country",
+              "name": "WS"
+            },
+            {
+              "@type": "Country",
+              "name": "SM"
+            },
+            {
+              "@type": "Country",
+              "name": "ST"
+            },
+            {
+              "@type": "Country",
+              "name": "SN"
+            },
+            {
+              "@type": "Country",
+              "name": "SC"
+            },
+            {
+              "@type": "Country",
+              "name": "SL"
+            },
+            {
+              "@type": "Country",
+              "name": "SB"
+            },
+            {
+              "@type": "Country",
+              "name": "KN"
+            },
+            {
+              "@type": "Country",
+              "name": "LC"
+            },
+            {
+              "@type": "Country",
+              "name": "VC"
+            },
+            {
+              "@type": "Country",
+              "name": "SR"
+            },
+            {
+              "@type": "Country",
+              "name": "TL"
+            },
+            {
+              "@type": "Country",
+              "name": "TO"
+            },
+            {
+              "@type": "Country",
+              "name": "TT"
+            },
+            {
+              "@type": "Country",
+              "name": "TV"
+            },
+            {
+              "@type": "Country",
+              "name": "VU"
+            },
+            {
+              "@type": "Country",
+              "name": "AZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BN"
+            },
+            {
+              "@type": "Country",
+              "name": "BI"
+            },
+            {
+              "@type": "Country",
+              "name": "KH"
+            },
+            {
+              "@type": "Country",
+              "name": "CM"
+            },
+            {
+              "@type": "Country",
+              "name": "TD"
+            },
+            {
+              "@type": "Country",
+              "name": "KM"
+            },
+            {
+              "@type": "Country",
+              "name": "GQ"
+            },
+            {
+              "@type": "Country",
+              "name": "SZ"
+            },
+            {
+              "@type": "Country",
+              "name": "GA"
+            },
+            {
+              "@type": "Country",
+              "name": "GN"
+            },
+            {
+              "@type": "Country",
+              "name": "KG"
+            },
+            {
+              "@type": "Country",
+              "name": "LA"
+            },
+            {
+              "@type": "Country",
+              "name": "MO"
+            },
+            {
+              "@type": "Country",
+              "name": "MR"
+            },
+            {
+              "@type": "Country",
+              "name": "MN"
+            },
+            {
+              "@type": "Country",
+              "name": "NP"
+            },
+            {
+              "@type": "Country",
+              "name": "RW"
+            },
+            {
+              "@type": "Country",
+              "name": "TG"
+            },
+            {
+              "@type": "Country",
+              "name": "UZ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZW"
+            },
+            {
+              "@type": "Country",
+              "name": "BJ"
+            },
+            {
+              "@type": "Country",
+              "name": "MG"
+            },
+            {
+              "@type": "Country",
+              "name": "MU"
+            },
+            {
+              "@type": "Country",
+              "name": "MZ"
+            },
+            {
+              "@type": "Country",
+              "name": "AO"
+            },
+            {
+              "@type": "Country",
+              "name": "CI"
+            },
+            {
+              "@type": "Country",
+              "name": "DJ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZM"
+            },
+            {
+              "@type": "Country",
+              "name": "CD"
+            },
+            {
+              "@type": "Country",
+              "name": "CG"
+            },
+            {
+              "@type": "Country",
+              "name": "IQ"
+            },
+            {
+              "@type": "Country",
+              "name": "LY"
+            },
+            {
+              "@type": "Country",
+              "name": "TJ"
+            },
+            {
+              "@type": "Country",
+              "name": "VE"
+            },
+            {
+              "@type": "Country",
+              "name": "ET"
+            },
+            {
+              "@type": "Country",
+              "name": "XK"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "htmlBytes": 288427,
+  "albumLinks": []
+}

@@ -1,0 +1,2765 @@
+{
+  "url": "https://open.spotify.com/track/3MzsifNRt15WBoc6u7PLul",
+  "resolvedUrl": "https://open.spotify.com/track/3MzsifNRt15WBoc6u7PLul",
+  "fetchedAt": "2026-10-14T05:38:39Z",
+  "pageTitle": "Mary Poppins - Storyteller - song and lyrics by Karen Dotrice | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": true
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:track:3MzsifNRt15WBoc6u7PLul": {
+          "__typename": "Track",
+          "albumOfTrack": {
+            "__typename": "Album",
+            "copyright": {
+              "items": [
+                {
+                  "text": "© 2004 Disney",
+                  "type": "C"
+                },
+                {
+                  "text": "℗ 2004 Walt Disney Records",
+                  "type": "P"
+                }
+              ]
+            },
+            "coverArt": {
+              "extractedColors": {
+                "colorDark": {
+                  "hex": "#0868A0"
+                }
+              },
+              "sources": [
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485100aeb79f2ba99426d48b187c",
+                  "width": 64
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0200aeb79f2ba99426d48b187c",
+                  "width": 300
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27300aeb79f2ba99426d48b187c",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "day": 1,
+              "month": 1,
+              "year": 2004
+            },
+            "isPreRelease": false,
+            "name": "Mary Poppins",
+            "playability": {
+              "playable": true
+            },
+            "preReleaseEndDateTime": null,
+            "tracks": {
+              "items": [
+                {
+                  "track": {
+                    "artists": {
+                      "items": [
+                        {
+                          "id": "2vHx2wi7daCLxHL0jKOZiz",
+                          "uri": "spotify:artist:2vHx2wi7daCLxHL0jKOZiz",
+                          "profile": {
+                            "name": "Karen Dotrice"
+                          }
+                        }
+                      ]
+                    },
+                    "contentRating": {
+                      "label": "NONE"
+                    },
+                    "id": "3MzsifNRt15WBoc6u7PLul",
+                    "name": "Mary Poppins - Storyteller",
+                    "trackNumber": 1,
+                    "uri": "spotify:track:3MzsifNRt15WBoc6u7PLul",
+                    "duration": {
+                      "totalMilliseconds": 937600
+                    }
+                  }
+                }
+              ]
+            },
+            "type": "SINGLE",
+            "uri": "spotify:album:2xjTIjw6eUd2lXPxC9uxAb"
+          },
+          "otherArtists": {
+            "items": []
+          },
+          "firstArtist": {
+            "items": [
+              {
+                "discography": {
+                  "albums": {
+                    "items": []
+                  },
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0200aeb79f2ba99426d48b187c",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485100aeb79f2ba99426d48b187c",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27300aeb79f2ba99426d48b187c",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2004
+                        },
+                        "id": "2xjTIjw6eUd2lXPxC9uxAb",
+                        "name": "Mary Poppins",
+                        "type": "SINGLE",
+                        "uri": "spotify:album:2xjTIjw6eUd2lXPxC9uxAb"
+                      }
+                    ]
+                  },
+                  "singles": {
+                    "items": [
+                      {
+                        "releases": {
+                          "items": [
+                            {
+                              "coverArt": {
+                                "sources": [
+                                  {
+                                    "height": 300,
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0200aeb79f2ba99426d48b187c",
+                                    "width": 300
+                                  },
+                                  {
+                                    "height": 64,
+                                    "url": "https://i.scdn.co/image/ab67616d0000485100aeb79f2ba99426d48b187c",
+                                    "width": 64
+                                  },
+                                  {
+                                    "height": 640,
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27300aeb79f2ba99426d48b187c",
+                                    "width": 640
+                                  }
+                                ]
+                              },
+                              "date": {
+                                "year": 2004
+                              },
+                              "id": "2xjTIjw6eUd2lXPxC9uxAb",
+                              "name": "Mary Poppins",
+                              "type": "SINGLE",
+                              "uri": "spotify:album:2xjTIjw6eUd2lXPxC9uxAb"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "topTracks": {
+                    "items": [
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02c75b74de8035c647e89c2a84",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851c75b74de8035c647e89c2a84",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273c75b74de8035c647e89c2a84",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Saving Mr. Banks (Original Motion Picture Soundtrack [Deluxe Edition])",
+                            "uri": "spotify:album:1cuE3waPR1CDFUpYd6fX12"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:6XIT5sGHOtxVgqtSnMCYZ6",
+                                "profile": {
+                                  "name": "Dick Van Dyke"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:5RdqZVi36tpDPYNPw8jJbO",
+                                "profile": {
+                                  "name": "Julie Andrews"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:2vHx2wi7daCLxHL0jKOZiz",
+                                "profile": {
+                                  "name": "Karen Dotrice"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:3YDM76Dml4Pyo8H7JSfafZ",
+                                "profile": {
+                                  "name": "Matthew Garber"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "2Bl4ZuWiMoffCXzj11s0oR",
+                          "name": "Chim Chim Cher-ee - From \"Mary Poppins\"/Soundtrack Version",
+                          "playcount": "65792415",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/62ee076f8fe24c20b40f353fe818951e909f985b"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:2Bl4ZuWiMoffCXzj11s0oR",
+                          "duration": {
+                            "totalMilliseconds": 166240
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e0200aeb79f2ba99426d48b187c",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d0000485100aeb79f2ba99426d48b187c",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b27300aeb79f2ba99426d48b187c",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Mary Poppins",
+                            "uri": "spotify:album:2xjTIjw6eUd2lXPxC9uxAb"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:2vHx2wi7daCLxHL0jKOZiz",
+                                "profile": {
+                                  "name": "Karen Dotrice"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "3MzsifNRt15WBoc6u7PLul",
+                          "name": "Mary Poppins - Storyteller",
+                          "playcount": "3884340",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/efddfd82e1d9946f35895d242effece79745372f"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:3MzsifNRt15WBoc6u7PLul",
+                          "duration": {
+                            "totalMilliseconds": 937600
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02611b2c88997324926c0d2c96",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d00004851611b2c88997324926c0d2c96",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273611b2c88997324926c0d2c96",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Mary Poppins",
+                            "uri": "spotify:album:4I53uIfFAiQPKjXFNN2k4d"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:2vHx2wi7daCLxHL0jKOZiz",
+                                "profile": {
+                                  "name": "Karen Dotrice"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:3YDM76Dml4Pyo8H7JSfafZ",
+                                "profile": {
+                                  "name": "Matthew Garber"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "1ypaTvlkJjmMeGhFx7D43u",
+                          "name": "The Perfect Nanny - From \"Mary Poppins\"/Soundtrack Version",
+                          "playcount": "6827906",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/e0fd2118657541ae9c09fef1d454c563913ff8af"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:1ypaTvlkJjmMeGhFx7D43u",
+                          "duration": {
+                            "totalMilliseconds": 99600
+                          }
+                        }
+                      },
+                      {
+                        "track": {
+                          "__typename": "Track",
+                          "albumOfTrack": {
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "height": 300,
+                                  "url": "https://i.scdn.co/image/ab67616d00001e027650e013b0532f77cf7e7c50",
+                                  "width": 300
+                                },
+                                {
+                                  "height": 64,
+                                  "url": "https://i.scdn.co/image/ab67616d000048517650e013b0532f77cf7e7c50",
+                                  "width": 64
+                                },
+                                {
+                                  "height": 640,
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2737650e013b0532f77cf7e7c50",
+                                  "width": 640
+                                }
+                              ]
+                            },
+                            "name": "Walt Disney Records The Legacy Collection: Mary Poppins",
+                            "uri": "spotify:album:4DUWm8vaQunIscOtp3GRZ8"
+                          },
+                          "artists": {
+                            "items": [
+                              {
+                                "uri": "spotify:artist:6XIT5sGHOtxVgqtSnMCYZ6",
+                                "profile": {
+                                  "name": "Dick Van Dyke"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:5RdqZVi36tpDPYNPw8jJbO",
+                                "profile": {
+                                  "name": "Julie Andrews"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:2vHx2wi7daCLxHL0jKOZiz",
+                                "profile": {
+                                  "name": "Karen Dotrice"
+                                }
+                              },
+                              {
+                                "uri": "spotify:artist:3YDM76Dml4Pyo8H7JSfafZ",
+                                "profile": {
+                                  "name": "Matthew Garber"
+                                }
+                              }
+                            ]
+                          },
+                          "id": "4yUtQaRE4tKO2PsrdMmHST",
+                          "name": "Chim Chim Cher-ee/March Over The Rooftops",
+                          "playcount": "1026638",
+                          "previews": {
+                            "audioPreviews": {
+                              "items": [
+                                {
+                                  "url": "https://p.scdn.co/mp3-preview/99ffebc0f8e7b1602ce2a92b644a7e466915f89d"
+                                }
+                              ]
+                            }
+                          },
+                          "uri": "spotify:track:4yUtQaRE4tKO2PsrdMmHST",
+                          "duration": {
+                            "totalMilliseconds": 311026
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "relatedContent": {
+                  "relatedArtists": {
+                    "items": [
+                      {
+                        "id": "3YDM76Dml4Pyo8H7JSfafZ",
+                        "profile": {
+                          "name": "Matthew Garber"
+                        },
+                        "uri": "spotify:artist:3YDM76Dml4Pyo8H7JSfafZ",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273dbb174f0421d55fc494958a1",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851dbb174f0421d55fc494958a1",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02dbb174f0421d55fc494958a1",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "45hYH27gg84NeDsSE88ThD",
+                        "profile": {
+                          "name": "David Tomlinson"
+                        },
+                        "uri": "spotify:artist:45hYH27gg84NeDsSE88ThD",
+                        "visuals": {
+                          "avatarImage": null
+                        }
+                      },
+                      {
+                        "id": "6XIT5sGHOtxVgqtSnMCYZ6",
+                        "profile": {
+                          "name": "Dick Van Dyke"
+                        },
+                        "uri": "spotify:artist:6XIT5sGHOtxVgqtSnMCYZ6",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273d6dc8b97a1736a1d356d67c3",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851d6dc8b97a1736a1d356d67c3",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02d6dc8b97a1736a1d356d67c3",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "3XX7VQJvnPuFrCSaHgexf5",
+                        "profile": {
+                          "name": "Edwynn"
+                        },
+                        "uri": "spotify:artist:3XX7VQJvnPuFrCSaHgexf5",
+                        "visuals": {
+                          "avatarImage": null
+                        }
+                      },
+                      {
+                        "id": "5XZwzPXvbmy8rmj4RwFZs8",
+                        "profile": {
+                          "name": "The Londoners"
+                        },
+                        "uri": "spotify:artist:5XZwzPXvbmy8rmj4RwFZs8",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b2736be4a948ccfbed23a8371591",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d000048516be4a948ccfbed23a8371591",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e026be4a948ccfbed23a8371591",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "id": "2i0zSzndmS2ms3uKxmvZcQ",
+                        "profile": {
+                          "name": "Mike Sammes Singers"
+                        },
+                        "uri": "spotify:artist:2i0zSzndmS2ms3uKxmvZcQ",
+                        "visuals": {
+                          "avatarImage": {
+                            "sources": [
+                              {
+                                "height": 640,
+                                "url": "https://i.scdn.co/image/ab67616d0000b273778d88d306ca8270f1cbb214",
+                                "width": 640
+                              },
+                              {
+                                "height": 64,
+                                "url": "https://i.scdn.co/image/ab67616d00004851f588a5d573951a3f69f681bc",
+                                "width": 64
+                              },
+                              {
+                                "height": 300,
+                                "url": "https://i.scdn.co/image/ab67616d00001e02778d88d306ca8270f1cbb214",
+                                "width": 300
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ],
+                    "totalCount": 40
+                  }
+                },
+                "id": "2vHx2wi7daCLxHL0jKOZiz",
+                "profile": {
+                  "name": "Karen Dotrice"
+                },
+                "stats": {
+                  "monthlyListeners": 230933
+                },
+                "uri": "spotify:artist:2vHx2wi7daCLxHL0jKOZiz",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27300aeb79f2ba99426d48b187c",
+                        "width": 640
+                      },
+                      {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485100aeb79f2ba99426d48b187c",
+                        "width": 64
+                      },
+                      {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0200aeb79f2ba99426d48b187c",
+                        "width": 300
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "associationsV3": {
+            "videoAssociations": {
+              "items": []
+            }
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "__typename": "Market",
+                "countryCode": "AR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MX"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ES"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "US"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ID"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "QA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "OM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "EG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ME"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LK"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BF"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "HT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "JM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ML"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "FM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "PG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "WS"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ST"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SB"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VC"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TL"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TT"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TV"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KH"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "SZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "GN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "KG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LA"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MR"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MN"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "NP"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "RW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "UZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZW"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "BJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MU"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "MZ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "AO"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CI"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "DJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ZM"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CD"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "CG"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "IQ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "LY"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "TJ"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "VE"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "ET"
+              },
+              {
+                "__typename": "Market",
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "contentRating": {
+            "label": "NONE"
+          },
+          "contentRatingV2": null,
+          "duration": {
+            "totalMilliseconds": 937600
+          },
+          "id": "3MzsifNRt15WBoc6u7PLul",
+          "mediaType": "AUDIO",
+          "name": "Mary Poppins - Storyteller",
+          "playability": {
+            "playable": true
+          },
+          "previews": {
+            "audioPreviews": {
+              "items": [
+                {
+                  "url": "https://p.scdn.co/mp3-preview/efddfd82e1d9946f35895d242effece79745372f"
+                }
+              ]
+            }
+          },
+          "trackNumber": 1,
+          "uri": "spotify:track:3MzsifNRt15WBoc6u7PLul"
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "track": {
+        "3MzsifNRt15WBoc6u7PLul": [
+          {
+            "experimentId": "track-mv-thumbnails-1"
+          }
+        ]
+      },
+      "uri": "spotify:track:3MzsifNRt15WBoc6u7PLul"
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "data": [
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fb67313d8a26f6129c0bec76",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fb67313d8a26f6129c0bec76",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fb67313d8a26f6129c0bec76",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "7zv67NnsMWwOEVCtmX1joe",
+              "name": "Zen Den - Volume 1",
+              "uri": "spotify:album:7zv67NnsMWwOEVCtmX1joe"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "1JnKoX8m8Wa6XGxIaqTjRu",
+                  "profile": {
+                    "name": "Cosmic Kids Yoga"
+                  },
+                  "uri": "spotify:artist:1JnKoX8m8Wa6XGxIaqTjRu"
+                }
+              ]
+            },
+            "id": "0pNl5MuIV2xDzyoYwR4X1W",
+            "name": "Why Are Some People So Mean?",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/a8785a59ffab6c5cbdf021b9b6a49ddd48970902"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:0pNl5MuIV2xDzyoYwR4X1W"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023449dbc3dafb4bf4aaa6097e",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513449dbc3dafb4bf4aaa6097e",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733449dbc3dafb4bf4aaa6097e",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "1ZxSS2bTJyYik5Pi9oCPx8",
+              "name": "Tom's Garage - Stories for Kids, Vol. 3",
+              "uri": "spotify:album:1ZxSS2bTJyYik5Pi9oCPx8"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "331LaDIj9jLnqEh9x5yVUZ",
+                  "profile": {
+                    "name": "Car City"
+                  },
+                  "uri": "spotify:artist:331LaDIj9jLnqEh9x5yVUZ"
+                }
+              ]
+            },
+            "id": "5puM9dm1j5kjnBnZ1QMNS4",
+            "name": "Crocodile Car Gets Covered in Chocolate!",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/0deb6e8d22d91467e2ac679fc83f4837e0f85060"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:5puM9dm1j5kjnBnZ1QMNS4"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0257bd01e95c0f83ba3c0e8950",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485157bd01e95c0f83ba3c0e8950",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27357bd01e95c0f83ba3c0e8950",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "3VgnxKjkCJ9PThgfMkkQHE",
+              "name": "Seven Fun Stories for Children (4-7 Year Olds) With Seven Songs Based On Each Story",
+              "uri": "spotify:album:3VgnxKjkCJ9PThgfMkkQHE"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "4mDKJy1TbaGakst9mf7AkH",
+                  "profile": {
+                    "name": "Charles Vald"
+                  },
+                  "uri": "spotify:artist:4mDKJy1TbaGakst9mf7AkH"
+                }
+              ]
+            },
+            "id": "1SyP58NhdbqJKyBk6NPVwS",
+            "name": "The Most Important Space Mission Ever - Space Story",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/ae62499de51c57d7f9738bd8aad0788a79e5c283"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:1SyP58NhdbqJKyBk6NPVwS"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02270cae7bef6c114143214346",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851270cae7bef6c114143214346",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273270cae7bef6c114143214346",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "5hrzJrP6qRcxR8k4tiyoGz",
+              "name": "Kids Stories by SUMU #1",
+              "uri": "spotify:album:5hrzJrP6qRcxR8k4tiyoGz"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "6OGUMXxdF0oWTOkZBRDLRS",
+                  "profile": {
+                    "name": "Natalie Quinn"
+                  },
+                  "uri": "spotify:artist:6OGUMXxdF0oWTOkZBRDLRS"
+                }
+              ]
+            },
+            "id": "5108jYAR8ZDkDe3m7i1Gjv",
+            "name": "Archie the Caterpillar",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/405d112b73b3004f9b61f99cc09459921b28cb02"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:5108jYAR8ZDkDe3m7i1Gjv"
+          },
+          {
+            "__typename": "Track",
+            "albumOfTrack": {
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0214fcea0d341c2f653e48f48d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485114fcea0d341c2f653e48f48d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27314fcea0d341c2f653e48f48d",
+                    "width": 640
+                  }
+                ]
+              },
+              "id": "6Y3mAYjyuvrbrsxmTAc0br",
+              "name": "Little Red Riding Hood: Story and Songs for Kids",
+              "uri": "spotify:album:6Y3mAYjyuvrbrsxmTAc0br"
+            },
+            "artists": {
+              "items": [
+                {
+                  "id": "0lcjuPYXDeNxJcepKiBK1H",
+                  "profile": {
+                    "name": "Children's Fairytale Theater"
+                  },
+                  "uri": "spotify:artist:0lcjuPYXDeNxJcepKiBK1H"
+                }
+              ]
+            },
+            "id": "1o0pGfSbk2cqOSec64GweO",
+            "name": "The Big Bad Wolf Tricks Little Red Riding Hood",
+            "previews": {
+              "audioPreviews": {
+                "items": [
+                  {
+                    "url": "https://p.scdn.co/mp3-preview/1533d1045e51c7dfedebaf26cd416d8a131cb49d"
+                  }
+                ]
+              }
+            },
+            "uri": "spotify:track:1o0pGfSbk2cqOSec64GweO"
+          }
+        ],
+        "uri": "spotify:track:3MzsifNRt15WBoc6u7PLul",
+        "status": "LOADED"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "data": [
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0295f98326da30e8ac5b7b6a72",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485195f98326da30e8ac5b7b6a72",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27395f98326da30e8ac5b7b6a72",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2013
+            },
+            "id": "1PYq2vd60V10HsdOWjfpTH",
+            "name": "Songs and Story: Peter Pan",
+            "type": "EP",
+            "uri": "spotify:album:1PYq2vd60V10HsdOWjfpTH"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0260e6acedd9b954e98b951676",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485160e6acedd9b954e98b951676",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27360e6acedd9b954e98b951676",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2004
+            },
+            "id": "2wiTToQjhz8Au8a02AMCP9",
+            "name": "The Little Mermaid (Storyteller Version)",
+            "type": "SINGLE",
+            "uri": "spotify:album:2wiTToQjhz8Au8a02AMCP9"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02a207800fbb6e21c957d2f761",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851a207800fbb6e21c957d2f761",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a207800fbb6e21c957d2f761",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2004
+            },
+            "id": "7DhiwRBcIwooMzS0gqaheT",
+            "name": "Snow White and the Seven Dwarfs",
+            "type": "SINGLE",
+            "uri": "spotify:album:7DhiwRBcIwooMzS0gqaheT"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0292fb18158ca82f41daecacfc",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485192fb18158ca82f41daecacfc",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27392fb18158ca82f41daecacfc",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2004
+            },
+            "id": "432hwAJ6hvG1hOUivexDfl",
+            "name": "The Rescuers Down Under (Storyteller)",
+            "type": "SINGLE",
+            "uri": "spotify:album:432hwAJ6hvG1hOUivexDfl"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e022808ea02b4d5a964c1733511",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048512808ea02b4d5a964c1733511",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2732808ea02b4d5a964c1733511",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2013
+            },
+            "id": "775ZiS8JunI0jiZKNPZ3Wo",
+            "name": "Songs and Story: Sofia the First",
+            "type": "COMPILATION",
+            "uri": "spotify:album:775ZiS8JunI0jiZKNPZ3Wo"
+          },
+          {
+            "__typename": "Album",
+            "coverArt": {
+              "sources": [
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e0220715cb3fd80ca3d95f6de5e",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d0000485120715cb3fd80ca3d95f6de5e",
+                  "width": 64
+                },
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b27320715cb3fd80ca3d95f6de5e",
+                  "width": 640
+                }
+              ]
+            },
+            "date": {
+              "year": 2013
+            },
+            "id": "1z020VJSXkWimeCcRg9PXa",
+            "name": "Songs and Story: Jake and the Never Land Pirates",
+            "type": "EP",
+            "uri": "spotify:album:1z020VJSXkWimeCcRg9PXa"
+          }
+        ],
+        "uri": "spotify:track:3MzsifNRt15WBoc6u7PLul",
+        "status": "LOADED"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": [
+        "CreativeWork",
+        "MusicRecording"
+      ],
+      "@id": "https://open.spotify.com/track/3MzsifNRt15WBoc6u7PLul",
+      "url": "https://open.spotify.com/track/3MzsifNRt15WBoc6u7PLul",
+      "name": "Mary Poppins - Storyteller",
+      "description": "Listen to Mary Poppins - Storyteller on Spotify. Song · Karen Dotrice · 2004",
+      "datePublished": "2004-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/track/3MzsifNRt15WBoc6u7PLul?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/track/3MzsifNRt15WBoc6u7PLul/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": [
+            {
+              "@type": "Country",
+              "name": "AR"
+            },
+            {
+              "@type": "Country",
+              "name": "AU"
+            },
+            {
+              "@type": "Country",
+              "name": "AT"
+            },
+            {
+              "@type": "Country",
+              "name": "BE"
+            },
+            {
+              "@type": "Country",
+              "name": "BO"
+            },
+            {
+              "@type": "Country",
+              "name": "BR"
+            },
+            {
+              "@type": "Country",
+              "name": "BG"
+            },
+            {
+              "@type": "Country",
+              "name": "CA"
+            },
+            {
+              "@type": "Country",
+              "name": "CL"
+            },
+            {
+              "@type": "Country",
+              "name": "CO"
+            },
+            {
+              "@type": "Country",
+              "name": "CR"
+            },
+            {
+              "@type": "Country",
+              "name": "CY"
+            },
+            {
+              "@type": "Country",
+              "name": "CZ"
+            },
+            {
+              "@type": "Country",
+              "name": "DK"
+            },
+            {
+              "@type": "Country",
+              "name": "DO"
+            },
+            {
+              "@type": "Country",
+              "name": "DE"
+            },
+            {
+              "@type": "Country",
+              "name": "EC"
+            },
+            {
+              "@type": "Country",
+              "name": "EE"
+            },
+            {
+              "@type": "Country",
+              "name": "SV"
+            },
+            {
+              "@type": "Country",
+              "name": "FI"
+            },
+            {
+              "@type": "Country",
+              "name": "FR"
+            },
+            {
+              "@type": "Country",
+              "name": "GR"
+            },
+            {
+              "@type": "Country",
+              "name": "GT"
+            },
+            {
+              "@type": "Country",
+              "name": "HN"
+            },
+            {
+              "@type": "Country",
+              "name": "HK"
+            },
+            {
+              "@type": "Country",
+              "name": "HU"
+            },
+            {
+              "@type": "Country",
+              "name": "IS"
+            },
+            {
+              "@type": "Country",
+              "name": "IE"
+            },
+            {
+              "@type": "Country",
+              "name": "IT"
+            },
+            {
+              "@type": "Country",
+              "name": "LV"
+            },
+            {
+              "@type": "Country",
+              "name": "LT"
+            },
+            {
+              "@type": "Country",
+              "name": "LU"
+            },
+            {
+              "@type": "Country",
+              "name": "MY"
+            },
+            {
+              "@type": "Country",
+              "name": "MT"
+            },
+            {
+              "@type": "Country",
+              "name": "MX"
+            },
+            {
+              "@type": "Country",
+              "name": "NL"
+            },
+            {
+              "@type": "Country",
+              "name": "NZ"
+            },
+            {
+              "@type": "Country",
+              "name": "NI"
+            },
+            {
+              "@type": "Country",
+              "name": "NO"
+            },
+            {
+              "@type": "Country",
+              "name": "PA"
+            },
+            {
+              "@type": "Country",
+              "name": "PY"
+            },
+            {
+              "@type": "Country",
+              "name": "PE"
+            },
+            {
+              "@type": "Country",
+              "name": "PH"
+            },
+            {
+              "@type": "Country",
+              "name": "PL"
+            },
+            {
+              "@type": "Country",
+              "name": "PT"
+            },
+            {
+              "@type": "Country",
+              "name": "SG"
+            },
+            {
+              "@type": "Country",
+              "name": "SK"
+            },
+            {
+              "@type": "Country",
+              "name": "ES"
+            },
+            {
+              "@type": "Country",
+              "name": "SE"
+            },
+            {
+              "@type": "Country",
+              "name": "CH"
+            },
+            {
+              "@type": "Country",
+              "name": "TW"
+            },
+            {
+              "@type": "Country",
+              "name": "TR"
+            },
+            {
+              "@type": "Country",
+              "name": "UY"
+            },
+            {
+              "@type": "Country",
+              "name": "US"
+            },
+            {
+              "@type": "Country",
+              "name": "GB"
+            },
+            {
+              "@type": "Country",
+              "name": "AD"
+            },
+            {
+              "@type": "Country",
+              "name": "LI"
+            },
+            {
+              "@type": "Country",
+              "name": "MC"
+            },
+            {
+              "@type": "Country",
+              "name": "ID"
+            },
+            {
+              "@type": "Country",
+              "name": "JP"
+            },
+            {
+              "@type": "Country",
+              "name": "TH"
+            },
+            {
+              "@type": "Country",
+              "name": "VN"
+            },
+            {
+              "@type": "Country",
+              "name": "RO"
+            },
+            {
+              "@type": "Country",
+              "name": "IL"
+            },
+            {
+              "@type": "Country",
+              "name": "ZA"
+            },
+            {
+              "@type": "Country",
+              "name": "SA"
+            },
+            {
+              "@type": "Country",
+              "name": "AE"
+            },
+            {
+              "@type": "Country",
+              "name": "BH"
+            },
+            {
+              "@type": "Country",
+              "name": "QA"
+            },
+            {
+              "@type": "Country",
+              "name": "OM"
+            },
+            {
+              "@type": "Country",
+              "name": "KW"
+            },
+            {
+              "@type": "Country",
+              "name": "EG"
+            },
+            {
+              "@type": "Country",
+              "name": "MA"
+            },
+            {
+              "@type": "Country",
+              "name": "DZ"
+            },
+            {
+              "@type": "Country",
+              "name": "TN"
+            },
+            {
+              "@type": "Country",
+              "name": "LB"
+            },
+            {
+              "@type": "Country",
+              "name": "JO"
+            },
+            {
+              "@type": "Country",
+              "name": "PS"
+            },
+            {
+              "@type": "Country",
+              "name": "IN"
+            },
+            {
+              "@type": "Country",
+              "name": "KZ"
+            },
+            {
+              "@type": "Country",
+              "name": "MD"
+            },
+            {
+              "@type": "Country",
+              "name": "UA"
+            },
+            {
+              "@type": "Country",
+              "name": "AL"
+            },
+            {
+              "@type": "Country",
+              "name": "BA"
+            },
+            {
+              "@type": "Country",
+              "name": "HR"
+            },
+            {
+              "@type": "Country",
+              "name": "ME"
+            },
+            {
+              "@type": "Country",
+              "name": "MK"
+            },
+            {
+              "@type": "Country",
+              "name": "RS"
+            },
+            {
+              "@type": "Country",
+              "name": "SI"
+            },
+            {
+              "@type": "Country",
+              "name": "KR"
+            },
+            {
+              "@type": "Country",
+              "name": "BD"
+            },
+            {
+              "@type": "Country",
+              "name": "PK"
+            },
+            {
+              "@type": "Country",
+              "name": "LK"
+            },
+            {
+              "@type": "Country",
+              "name": "GH"
+            },
+            {
+              "@type": "Country",
+              "name": "KE"
+            },
+            {
+              "@type": "Country",
+              "name": "NG"
+            },
+            {
+              "@type": "Country",
+              "name": "TZ"
+            },
+            {
+              "@type": "Country",
+              "name": "UG"
+            },
+            {
+              "@type": "Country",
+              "name": "AG"
+            },
+            {
+              "@type": "Country",
+              "name": "AM"
+            },
+            {
+              "@type": "Country",
+              "name": "BS"
+            },
+            {
+              "@type": "Country",
+              "name": "BB"
+            },
+            {
+              "@type": "Country",
+              "name": "BZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BT"
+            },
+            {
+              "@type": "Country",
+              "name": "BW"
+            },
+            {
+              "@type": "Country",
+              "name": "BF"
+            },
+            {
+              "@type": "Country",
+              "name": "CV"
+            },
+            {
+              "@type": "Country",
+              "name": "CW"
+            },
+            {
+              "@type": "Country",
+              "name": "DM"
+            },
+            {
+              "@type": "Country",
+              "name": "FJ"
+            },
+            {
+              "@type": "Country",
+              "name": "GM"
+            },
+            {
+              "@type": "Country",
+              "name": "GE"
+            },
+            {
+              "@type": "Country",
+              "name": "GD"
+            },
+            {
+              "@type": "Country",
+              "name": "GW"
+            },
+            {
+              "@type": "Country",
+              "name": "GY"
+            },
+            {
+              "@type": "Country",
+              "name": "HT"
+            },
+            {
+              "@type": "Country",
+              "name": "JM"
+            },
+            {
+              "@type": "Country",
+              "name": "KI"
+            },
+            {
+              "@type": "Country",
+              "name": "LS"
+            },
+            {
+              "@type": "Country",
+              "name": "LR"
+            },
+            {
+              "@type": "Country",
+              "name": "MW"
+            },
+            {
+              "@type": "Country",
+              "name": "MV"
+            },
+            {
+              "@type": "Country",
+              "name": "ML"
+            },
+            {
+              "@type": "Country",
+              "name": "MH"
+            },
+            {
+              "@type": "Country",
+              "name": "FM"
+            },
+            {
+              "@type": "Country",
+              "name": "NA"
+            },
+            {
+              "@type": "Country",
+              "name": "NR"
+            },
+            {
+              "@type": "Country",
+              "name": "NE"
+            },
+            {
+              "@type": "Country",
+              "name": "PW"
+            },
+            {
+              "@type": "Country",
+              "name": "PG"
+            },
+            {
+              "@type": "Country",
+              "name": "WS"
+            },
+            {
+              "@type": "Country",
+              "name": "SM"
+            },
+            {
+              "@type": "Country",
+              "name": "ST"
+            },
+            {
+              "@type": "Country",
+              "name": "SN"
+            },
+            {
+              "@type": "Country",
+              "name": "SC"
+            },
+            {
+              "@type": "Country",
+              "name": "SL"
+            },
+            {
+              "@type": "Country",
+              "name": "SB"
+            },
+            {
+              "@type": "Country",
+              "name": "KN"
+            },
+            {
+              "@type": "Country",
+              "name": "LC"
+            },
+            {
+              "@type": "Country",
+              "name": "VC"
+            },
+            {
+              "@type": "Country",
+              "name": "SR"
+            },
+            {
+              "@type": "Country",
+              "name": "TL"
+            },
+            {
+              "@type": "Country",
+              "name": "TO"
+            },
+            {
+              "@type": "Country",
+              "name": "TT"
+            },
+            {
+              "@type": "Country",
+              "name": "TV"
+            },
+            {
+              "@type": "Country",
+              "name": "VU"
+            },
+            {
+              "@type": "Country",
+              "name": "AZ"
+            },
+            {
+              "@type": "Country",
+              "name": "BN"
+            },
+            {
+              "@type": "Country",
+              "name": "BI"
+            },
+            {
+              "@type": "Country",
+              "name": "KH"
+            },
+            {
+              "@type": "Country",
+              "name": "CM"
+            },
+            {
+              "@type": "Country",
+              "name": "TD"
+            },
+            {
+              "@type": "Country",
+              "name": "KM"
+            },
+            {
+              "@type": "Country",
+              "name": "GQ"
+            },
+            {
+              "@type": "Country",
+              "name": "SZ"
+            },
+            {
+              "@type": "Country",
+              "name": "GA"
+            },
+            {
+              "@type": "Country",
+              "name": "GN"
+            },
+            {
+              "@type": "Country",
+              "name": "KG"
+            },
+            {
+              "@type": "Country",
+              "name": "LA"
+            },
+            {
+              "@type": "Country",
+              "name": "MO"
+            },
+            {
+              "@type": "Country",
+              "name": "MR"
+            },
+            {
+              "@type": "Country",
+              "name": "MN"
+            },
+            {
+              "@type": "Country",
+              "name": "NP"
+            },
+            {
+              "@type": "Country",
+              "name": "RW"
+            },
+            {
+              "@type": "Country",
+              "name": "TG"
+            },
+            {
+              "@type": "Country",
+              "name": "UZ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZW"
+            },
+            {
+              "@type": "Country",
+              "name": "BJ"
+            },
+            {
+              "@type": "Country",
+              "name": "MG"
+            },
+            {
+              "@type": "Country",
+              "name": "MU"
+            },
+            {
+              "@type": "Country",
+              "name": "MZ"
+            },
+            {
+              "@type": "Country",
+              "name": "AO"
+            },
+            {
+              "@type": "Country",
+              "name": "CI"
+            },
+            {
+              "@type": "Country",
+              "name": "DJ"
+            },
+            {
+              "@type": "Country",
+              "name": "ZM"
+            },
+            {
+              "@type": "Country",
+              "name": "CD"
+            },
+            {
+              "@type": "Country",
+              "name": "CG"
+            },
+            {
+              "@type": "Country",
+              "name": "IQ"
+            },
+            {
+              "@type": "Country",
+              "name": "LY"
+            },
+            {
+              "@type": "Country",
+              "name": "TJ"
+            },
+            {
+              "@type": "Country",
+              "name": "VE"
+            },
+            {
+              "@type": "Country",
+              "name": "ET"
+            },
+            {
+              "@type": "Country",
+              "name": "XK"
+            }
+          ]
+        }
+      },
+      "isAccessibleForFree": false,
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": false,
+        "cssSelector": ".paywall"
+      },
+      "abstract": "Lyrics are only available to logged-in users or Premium subscribers."
+    }
+  ],
+  "htmlBytes": 277467,
+  "albumLinks": [
+    {
+      "id": "2xjTIjw6eUd2lXPxC9uxAb",
+      "label": "Mary Poppins  Single • 2004"
+    },
+    {
+      "id": "2xjTIjw6eUd2lXPxC9uxAb",
+      "label": "Mary Poppins  Single • 2004"
+    },
+    {
+      "id": "1PYq2vd60V10HsdOWjfpTH",
+      "label": "Songs and Story: Peter Pan  EP • 2013"
+    },
+    {
+      "id": "2wiTToQjhz8Au8a02AMCP9",
+      "label": "The Little Mermaid (Storyteller Version)  Single • 2004"
+    },
+    {
+      "id": "7DhiwRBcIwooMzS0gqaheT",
+      "label": "Snow White and the Seven Dwarfs  Single • 2004"
+    },
+    {
+      "id": "432hwAJ6hvG1hOUivexDfl",
+      "label": "The Rescuers Down Under (Storyteller)  Single • 2004"
+    },
+    {
+      "id": "775ZiS8JunI0jiZKNPZ3Wo",
+      "label": "Songs and Story: Sofia the First  Compilation • 2013"
+    },
+    {
+      "id": "1z020VJSXkWimeCcRg9PXa",
+      "label": "Songs and Story: Jake and the Never Land Pirates  EP • 2013"
+    },
+    {
+      "id": "2xjTIjw6eUd2lXPxC9uxAb",
+      "label": "Mary Poppins"
+    }
+  ]
+}

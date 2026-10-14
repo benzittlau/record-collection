@@ -1,0 +1,37 @@
+{
+  "id": "lower-middle-47",
+  "groups": [
+    "cad7b90f-c9fb-4ce4-8906-b08f1b57e2c1",
+    "cad7b90f-c9fb-4ce4-8906-b08f1b57e2c1"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=cad7b90f-c9fb-4ce4-8906-b08f1b57e2c1&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 4
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "3sgRIolGiFrAxLP7fkcu7x",
+      "spotifyUrl": "https://open.spotify.com/album/3sgRIolGiFrAxLP7fkcu7x",
+      "musicbrainzReleaseId": "15beebb6-071b-4aaa-86c6-21b9232551ec",
+      "musicbrainzTitle": "Poco",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "name": "Fred Penner",
+            "type": "Person",
+            "id": "05d33097-11cb-4388-a1c0-da97540ece4e",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "disambiguation": "",
+            "country": "CA",
+            "sort-name": "Penner, Fred"
+          },
+          "name": "Fred Penner",
+          "joinphrase": ""
+        }
+      ],
+      "musicbrainzDate": "2016-04-20"
+    }
+  ]
+}

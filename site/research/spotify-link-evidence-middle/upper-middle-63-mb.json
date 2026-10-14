@@ -1,0 +1,36 @@
+{
+  "id": "upper-middle-63",
+  "groups": [
+    "9e64450d-608d-3d85-b881-9b1de24f9195"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=9e64450d-608d-3d85-b881-9b1de24f9195&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 22
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "6Gdf5vvFmoEwcsEV61tXiT",
+      "spotifyUrl": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT",
+      "musicbrainzReleaseId": "ddd7b6f6-6ed2-4418-9508-ff3cbfcef9c7",
+      "musicbrainzTitle": "Rastaman Vibration",
+      "musicbrainzArtists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "joinphrase": "",
+          "artist": {
+            "name": "Bob Marley & The Wailers",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Marley, Bob & The Wailers",
+            "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+            "disambiguation": "",
+            "country": "JM"
+          }
+        }
+      ],
+      "musicbrainzDate": "2001-07-12"
+    }
+  ]
+}

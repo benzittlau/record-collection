@@ -1,0 +1,59 @@
+{
+  "id": "upper-middle-14",
+  "groups": [
+    "b20405cf-b154-3e30-bd4e-e351fdc54bb4",
+    "b20405cf-b154-3e30-bd4e-e351fdc54bb4"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=b20405cf-b154-3e30-bd4e-e351fdc54bb4&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 15
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "0UHN59vOz4A7D90zihTeOR",
+      "spotifyUrl": "https://open.spotify.com/album/0UHN59vOz4A7D90zihTeOR",
+      "musicbrainzReleaseId": "be78b710-0047-4220-adaf-c69ed63ee46c",
+      "musicbrainzTitle": "Chance",
+      "musicbrainzArtists": [
+        {
+          "artist": {
+            "disambiguation": "",
+            "country": "GB",
+            "type": "Group",
+            "name": "Manfred Mann’s Earth Band",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Mann, Manfred, Earth Band",
+            "id": "83e9c775-84ea-4cf6-abdf-b9ffa8c3d060"
+          },
+          "joinphrase": "",
+          "name": "Manfred Mann’s Earth Band"
+        }
+      ],
+      "musicbrainzDate": "2017"
+    },
+    {
+      "spotifyId": "3hagJx7vNgAyI1cTyn13gx",
+      "spotifyUrl": "https://open.spotify.com/album/3hagJx7vNgAyI1cTyn13gx",
+      "musicbrainzReleaseId": "e28933b0-03bc-4452-9aaa-b71453331845",
+      "musicbrainzTitle": "Chance",
+      "musicbrainzArtists": [
+        {
+          "name": "Manfred Mann’s Earth Band",
+          "joinphrase": "",
+          "artist": {
+            "name": "Manfred Mann’s Earth Band",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "id": "83e9c775-84ea-4cf6-abdf-b9ffa8c3d060",
+            "sort-name": "Mann, Manfred, Earth Band",
+            "disambiguation": "",
+            "country": "GB"
+          }
+        }
+      ],
+      "musicbrainzDate": ""
+    }
+  ]
+}

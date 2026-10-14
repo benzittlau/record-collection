@@ -1,0 +1,36 @@
+{
+  "id": "upper-middle-02",
+  "groups": [
+    "8f6ad92b-e711-3e07-a734-a1ecf942987a"
+  ],
+  "searches": [
+    {
+      "url": "https://musicbrainz.org/ws/2/release?release-group=8f6ad92b-e711-3e07-a734-a1ecf942987a&inc=url-rels%2Bartist-credits&limit=100&fmt=json",
+      "releaseCount": 5
+    }
+  ],
+  "candidates": [
+    {
+      "spotifyId": "3zdgAyvThlcRGmcFcZ7zQb",
+      "spotifyUrl": "https://open.spotify.com/album/3zdgAyvThlcRGmcFcZ7zQb",
+      "musicbrainzReleaseId": "230ad303-61f2-4f5b-a497-b691c8bab97e",
+      "musicbrainzTitle": "Rebel",
+      "musicbrainzArtists": [
+        {
+          "name": "John Miles",
+          "joinphrase": "",
+          "artist": {
+            "country": "GB",
+            "disambiguation": "UK singer/songwriter/guitarist/keyboardist",
+            "sort-name": "Miles, John",
+            "id": "4256d457-1372-4b3b-b443-fd5cf9bb733f",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "name": "John Miles",
+            "type": "Person"
+          }
+        }
+      ],
+      "musicbrainzDate": "2024-09-27"
+    }
+  ]
+}

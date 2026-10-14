@@ -1,0 +1,1513 @@
+{
+  "url": "https://open.spotify.com/album/6bxIPfZ1TzyAfHdAbYrCZ8",
+  "resolvedUrl": "https://open.spotify.com/album/6bxIPfZ1TzyAfHdAbYrCZ8",
+  "fetchedAt": "2026-10-14T05:36:15Z",
+  "pageTitle": "Schubert: Piano Quintet, D. 667 &quot;Trout&quot; - Album by Franz Schubert | Spotify",
+  "initialState": {
+    "session": {
+      "me": null,
+      "product": {
+        "has-audiobooks-available": null,
+        "has-podcasts-available": null,
+        "country": "CA",
+        "catalogue": "premium",
+        "product": "PREMIUM",
+        "on-demand": "1"
+      },
+      "locale": "en",
+      "textDirectionality": "ltr",
+      "isAnonymous": true,
+      "features": {
+        "enableShows": true,
+        "isMWPAndPlaybackCapable": false,
+        "isPodcastEnabled": true,
+        "isI18nAdditionalPagesEnabled": false,
+        "isReinventFreeEnabled": false,
+        "isUnauthMusicVideoThumbnailsEnabled": false
+      },
+      "country": "CA",
+      "browserOS": "android",
+      "canGoBack": false,
+      "canGoForward": false
+    },
+    "connect": {
+      "device": null,
+      "devices": [],
+      "manualTransferDeviceId": null
+    },
+    "entities": {
+      "items": {
+        "spotify:album:6bxIPfZ1TzyAfHdAbYrCZ8": {
+          "__typename": "Album",
+          "moreAlbumsByArtist": {
+            "items": [
+              {
+                "discography": {
+                  "popularReleasesAlbums": {
+                    "items": [
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0275903e4166b8a18e23bd7956",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485175903e4166b8a18e23bd7956",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27375903e4166b8a18e23bd7956",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "3Gul8nt38IwDEmM4rnny3e",
+                        "name": "\"A Classical Melody: Bach, Mozart & more\"",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3Gul8nt38IwDEmM4rnny3e"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e4f2ceb490b02ee856eabc48",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851e4f2ceb490b02ee856eabc48",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e4f2ceb490b02ee856eabc48",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "6E1vIbtD1nOoiQb3YDpIX1",
+                        "name": "Calm Classical for Studying",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6E1vIbtD1nOoiQb3YDpIX1"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e020dd0470586e4b3ce771f644c",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048510dd0470586e4b3ce771f644c",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2730dd0470586e4b3ce771f644c",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "0WfJqLaQANECrxskT2QCKM",
+                        "name": "Relaxing Classical for Studying",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0WfJqLaQANECrxskT2QCKM"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02e1042d7db7689bb4e423bde8",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851e1042d7db7689bb4e423bde8",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273e1042d7db7689bb4e423bde8",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2025
+                        },
+                        "id": "2apZW8lHmm7SvimzhKMQ1X",
+                        "name": "\"Moment Musical\" - Deep Focus & Concentration",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:2apZW8lHmm7SvimzhKMQ1X"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0254f741ed902709bccdb46264",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485154f741ed902709bccdb46264",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27354f741ed902709bccdb46264",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "47It6NIjNCUHsL1J5MU3BZ",
+                        "name": "The Source",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:47It6NIjNCUHsL1J5MU3BZ"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e029a4e5a15b19392089e4a6db7",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048519a4e5a15b19392089e4a6db7",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2739a4e5a15b19392089e4a6db7",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "6mLqVNuRhdTRJVj7fRIdfh",
+                        "name": "Late Summer Languidness",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:6mLqVNuRhdTRJVj7fRIdfh"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e020416cd51b9c15103c5f6ae34",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048510416cd51b9c15103c5f6ae34",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2730416cd51b9c15103c5f6ae34",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "0yq6V8bwNWq2bExhv2ggZV",
+                        "name": "100 Best Film Classics",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:0yq6V8bwNWq2bExhv2ggZV"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e025714a3968e781929d37448c7",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d000048515714a3968e781929d37448c7",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b2735714a3968e781929d37448c7",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "5dBjEWccFHazeaCt3998qQ",
+                        "name": "\"Molto cantabile- Classical Works by Beethoven, Mozart & more\"",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:5dBjEWccFHazeaCt3998qQ"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e0291ef36319b588715687cc256",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d0000485191ef36319b588715687cc256",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b27391ef36319b588715687cc256",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "238xXBWtYLubN0ael8A468",
+                        "name": "\"Wildflowers Waltz: Classical Masterpieces\"",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:238xXBWtYLubN0ael8A468"
+                      },
+                      {
+                        "__typename": "Album",
+                        "coverArt": {
+                          "sources": [
+                            {
+                              "height": 300,
+                              "url": "https://i.scdn.co/image/ab67616d00001e02b19a550adeb49b2ac0558eff",
+                              "width": 300
+                            },
+                            {
+                              "height": 64,
+                              "url": "https://i.scdn.co/image/ab67616d00004851b19a550adeb49b2ac0558eff",
+                              "width": 64
+                            },
+                            {
+                              "height": 640,
+                              "url": "https://i.scdn.co/image/ab67616d0000b273b19a550adeb49b2ac0558eff",
+                              "width": 640
+                            }
+                          ]
+                        },
+                        "date": {
+                          "year": 2026
+                        },
+                        "id": "3dd6837vUvWT23349ktDuS",
+                        "name": "\"Classical Relaxation\" with Chopin, Rachmaninov, Mozart, Debussy",
+                        "playability": {
+                          "playable": true,
+                          "reason": "PLAYABLE"
+                        },
+                        "type": "ALBUM",
+                        "uri": "spotify:album:3dd6837vUvWT23349ktDuS"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          "availableMarkets": {
+            "items": [
+              {
+                "countryCode": "AR"
+              },
+              {
+                "countryCode": "AU"
+              },
+              {
+                "countryCode": "AT"
+              },
+              {
+                "countryCode": "BE"
+              },
+              {
+                "countryCode": "BO"
+              },
+              {
+                "countryCode": "BR"
+              },
+              {
+                "countryCode": "BG"
+              },
+              {
+                "countryCode": "CA"
+              },
+              {
+                "countryCode": "CL"
+              },
+              {
+                "countryCode": "CO"
+              },
+              {
+                "countryCode": "CR"
+              },
+              {
+                "countryCode": "CY"
+              },
+              {
+                "countryCode": "CZ"
+              },
+              {
+                "countryCode": "DK"
+              },
+              {
+                "countryCode": "DO"
+              },
+              {
+                "countryCode": "DE"
+              },
+              {
+                "countryCode": "EC"
+              },
+              {
+                "countryCode": "EE"
+              },
+              {
+                "countryCode": "SV"
+              },
+              {
+                "countryCode": "FI"
+              },
+              {
+                "countryCode": "FR"
+              },
+              {
+                "countryCode": "GR"
+              },
+              {
+                "countryCode": "GT"
+              },
+              {
+                "countryCode": "HN"
+              },
+              {
+                "countryCode": "HK"
+              },
+              {
+                "countryCode": "HU"
+              },
+              {
+                "countryCode": "IS"
+              },
+              {
+                "countryCode": "IE"
+              },
+              {
+                "countryCode": "IT"
+              },
+              {
+                "countryCode": "LV"
+              },
+              {
+                "countryCode": "LT"
+              },
+              {
+                "countryCode": "LU"
+              },
+              {
+                "countryCode": "MY"
+              },
+              {
+                "countryCode": "MT"
+              },
+              {
+                "countryCode": "MX"
+              },
+              {
+                "countryCode": "NL"
+              },
+              {
+                "countryCode": "NZ"
+              },
+              {
+                "countryCode": "NI"
+              },
+              {
+                "countryCode": "NO"
+              },
+              {
+                "countryCode": "PA"
+              },
+              {
+                "countryCode": "PY"
+              },
+              {
+                "countryCode": "PE"
+              },
+              {
+                "countryCode": "PH"
+              },
+              {
+                "countryCode": "PL"
+              },
+              {
+                "countryCode": "PT"
+              },
+              {
+                "countryCode": "SG"
+              },
+              {
+                "countryCode": "SK"
+              },
+              {
+                "countryCode": "ES"
+              },
+              {
+                "countryCode": "SE"
+              },
+              {
+                "countryCode": "CH"
+              },
+              {
+                "countryCode": "TW"
+              },
+              {
+                "countryCode": "TR"
+              },
+              {
+                "countryCode": "UY"
+              },
+              {
+                "countryCode": "US"
+              },
+              {
+                "countryCode": "GB"
+              },
+              {
+                "countryCode": "AD"
+              },
+              {
+                "countryCode": "LI"
+              },
+              {
+                "countryCode": "MC"
+              },
+              {
+                "countryCode": "ID"
+              },
+              {
+                "countryCode": "JP"
+              },
+              {
+                "countryCode": "TH"
+              },
+              {
+                "countryCode": "VN"
+              },
+              {
+                "countryCode": "RO"
+              },
+              {
+                "countryCode": "IL"
+              },
+              {
+                "countryCode": "ZA"
+              },
+              {
+                "countryCode": "SA"
+              },
+              {
+                "countryCode": "AE"
+              },
+              {
+                "countryCode": "BH"
+              },
+              {
+                "countryCode": "QA"
+              },
+              {
+                "countryCode": "OM"
+              },
+              {
+                "countryCode": "KW"
+              },
+              {
+                "countryCode": "EG"
+              },
+              {
+                "countryCode": "MA"
+              },
+              {
+                "countryCode": "DZ"
+              },
+              {
+                "countryCode": "TN"
+              },
+              {
+                "countryCode": "LB"
+              },
+              {
+                "countryCode": "JO"
+              },
+              {
+                "countryCode": "PS"
+              },
+              {
+                "countryCode": "IN"
+              },
+              {
+                "countryCode": "BY"
+              },
+              {
+                "countryCode": "KZ"
+              },
+              {
+                "countryCode": "MD"
+              },
+              {
+                "countryCode": "UA"
+              },
+              {
+                "countryCode": "AL"
+              },
+              {
+                "countryCode": "BA"
+              },
+              {
+                "countryCode": "HR"
+              },
+              {
+                "countryCode": "ME"
+              },
+              {
+                "countryCode": "MK"
+              },
+              {
+                "countryCode": "RS"
+              },
+              {
+                "countryCode": "SI"
+              },
+              {
+                "countryCode": "KR"
+              },
+              {
+                "countryCode": "BD"
+              },
+              {
+                "countryCode": "PK"
+              },
+              {
+                "countryCode": "LK"
+              },
+              {
+                "countryCode": "GH"
+              },
+              {
+                "countryCode": "KE"
+              },
+              {
+                "countryCode": "NG"
+              },
+              {
+                "countryCode": "TZ"
+              },
+              {
+                "countryCode": "UG"
+              },
+              {
+                "countryCode": "AG"
+              },
+              {
+                "countryCode": "AM"
+              },
+              {
+                "countryCode": "BS"
+              },
+              {
+                "countryCode": "BB"
+              },
+              {
+                "countryCode": "BZ"
+              },
+              {
+                "countryCode": "BT"
+              },
+              {
+                "countryCode": "BW"
+              },
+              {
+                "countryCode": "BF"
+              },
+              {
+                "countryCode": "CV"
+              },
+              {
+                "countryCode": "CW"
+              },
+              {
+                "countryCode": "DM"
+              },
+              {
+                "countryCode": "FJ"
+              },
+              {
+                "countryCode": "GM"
+              },
+              {
+                "countryCode": "GE"
+              },
+              {
+                "countryCode": "GD"
+              },
+              {
+                "countryCode": "GW"
+              },
+              {
+                "countryCode": "GY"
+              },
+              {
+                "countryCode": "HT"
+              },
+              {
+                "countryCode": "JM"
+              },
+              {
+                "countryCode": "KI"
+              },
+              {
+                "countryCode": "LS"
+              },
+              {
+                "countryCode": "LR"
+              },
+              {
+                "countryCode": "MW"
+              },
+              {
+                "countryCode": "MV"
+              },
+              {
+                "countryCode": "ML"
+              },
+              {
+                "countryCode": "MH"
+              },
+              {
+                "countryCode": "FM"
+              },
+              {
+                "countryCode": "NA"
+              },
+              {
+                "countryCode": "NR"
+              },
+              {
+                "countryCode": "NE"
+              },
+              {
+                "countryCode": "PW"
+              },
+              {
+                "countryCode": "PG"
+              },
+              {
+                "countryCode": "PR"
+              },
+              {
+                "countryCode": "WS"
+              },
+              {
+                "countryCode": "SM"
+              },
+              {
+                "countryCode": "ST"
+              },
+              {
+                "countryCode": "SN"
+              },
+              {
+                "countryCode": "SC"
+              },
+              {
+                "countryCode": "SL"
+              },
+              {
+                "countryCode": "SB"
+              },
+              {
+                "countryCode": "KN"
+              },
+              {
+                "countryCode": "LC"
+              },
+              {
+                "countryCode": "VC"
+              },
+              {
+                "countryCode": "SR"
+              },
+              {
+                "countryCode": "TL"
+              },
+              {
+                "countryCode": "TO"
+              },
+              {
+                "countryCode": "TT"
+              },
+              {
+                "countryCode": "TV"
+              },
+              {
+                "countryCode": "VU"
+              },
+              {
+                "countryCode": "AZ"
+              },
+              {
+                "countryCode": "BN"
+              },
+              {
+                "countryCode": "BI"
+              },
+              {
+                "countryCode": "KH"
+              },
+              {
+                "countryCode": "CM"
+              },
+              {
+                "countryCode": "TD"
+              },
+              {
+                "countryCode": "KM"
+              },
+              {
+                "countryCode": "GQ"
+              },
+              {
+                "countryCode": "SZ"
+              },
+              {
+                "countryCode": "GA"
+              },
+              {
+                "countryCode": "GN"
+              },
+              {
+                "countryCode": "KG"
+              },
+              {
+                "countryCode": "LA"
+              },
+              {
+                "countryCode": "MO"
+              },
+              {
+                "countryCode": "MR"
+              },
+              {
+                "countryCode": "MN"
+              },
+              {
+                "countryCode": "NP"
+              },
+              {
+                "countryCode": "RW"
+              },
+              {
+                "countryCode": "TG"
+              },
+              {
+                "countryCode": "UZ"
+              },
+              {
+                "countryCode": "ZW"
+              },
+              {
+                "countryCode": "BJ"
+              },
+              {
+                "countryCode": "MG"
+              },
+              {
+                "countryCode": "MU"
+              },
+              {
+                "countryCode": "MZ"
+              },
+              {
+                "countryCode": "AO"
+              },
+              {
+                "countryCode": "CI"
+              },
+              {
+                "countryCode": "DJ"
+              },
+              {
+                "countryCode": "ZM"
+              },
+              {
+                "countryCode": "CD"
+              },
+              {
+                "countryCode": "CG"
+              },
+              {
+                "countryCode": "IQ"
+              },
+              {
+                "countryCode": "LY"
+              },
+              {
+                "countryCode": "TJ"
+              },
+              {
+                "countryCode": "VE"
+              },
+              {
+                "countryCode": "ET"
+              },
+              {
+                "countryCode": "XK"
+              }
+            ]
+          },
+          "copyright": {
+            "items": [
+              {
+                "text": "A Warner Classics release, © 2020 Parlophone Records Limited",
+                "type": "C"
+              },
+              {
+                "text": "A Warner Classics release, ℗ 1958 Parlophone Records Limited. Remastered 1989 Parlophone Records Limited",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "extractedColors": {
+              "colorDark": {
+                "hex": "#3060A0"
+              },
+              "colorRaw": {
+                "hex": "#3060A0"
+              }
+            },
+            "sources": [
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515684b9d1ddd05815e34ade2e",
+                "width": 64
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025684b9d1ddd05815e34ade2e",
+                "width": 300
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735684b9d1ddd05815e34ade2e",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 1,
+            "month": 1,
+            "year": 1958
+          },
+          "id": "6bxIPfZ1TzyAfHdAbYrCZ8",
+          "isPreRelease": false,
+          "name": "Schubert: Piano Quintet, D. 667 \"Trout\"",
+          "preReleaseEndDateTime": null,
+          "type": "ALBUM",
+          "uri": "spotify:album:6bxIPfZ1TzyAfHdAbYrCZ8",
+          "tracksV2": {
+            "items": [
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Franz Schubert"
+                        },
+                        "uri": "spotify:artist:2p0UyoPfYfI76PCStuXfOP"
+                      },
+                      {
+                        "profile": {
+                          "name": "Hephzibah Menuhin"
+                        },
+                        "uri": "spotify:artist:1NH50olttJ4Gz7fTQKW7vI"
+                      },
+                      {
+                        "profile": {
+                          "name": "Amadeus Quartet"
+                        },
+                        "uri": "spotify:artist:76P71z1u6vn8zfQuDtnY7I"
+                      },
+                      {
+                        "profile": {
+                          "name": "James Edward Merrett"
+                        },
+                        "uri": "spotify:artist:1oybBTKbW0XCecPl8uYrEy"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 561106
+                  },
+                  "id": "0bhedxQPy9YkvSW09csTh8",
+                  "name": "Schubert: Piano Quintet in A Major, Op. Posth. 114, D. 667 \"The Trout\": I. Allegro vivace",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/d103e0187c2dccdf42f1ce11e7569667d9e07f2a"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 1,
+                  "uri": "spotify:track:0bhedxQPy9YkvSW09csTh8"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Franz Schubert"
+                        },
+                        "uri": "spotify:artist:2p0UyoPfYfI76PCStuXfOP"
+                      },
+                      {
+                        "profile": {
+                          "name": "Hephzibah Menuhin"
+                        },
+                        "uri": "spotify:artist:1NH50olttJ4Gz7fTQKW7vI"
+                      },
+                      {
+                        "profile": {
+                          "name": "Amadeus Quartet"
+                        },
+                        "uri": "spotify:artist:76P71z1u6vn8zfQuDtnY7I"
+                      },
+                      {
+                        "profile": {
+                          "name": "James Edward Merrett"
+                        },
+                        "uri": "spotify:artist:1oybBTKbW0XCecPl8uYrEy"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 431626
+                  },
+                  "id": "6SFHDhCnJQy4D7lTaqncP7",
+                  "name": "Schubert: Piano Quintet in A Major, Op. Posth. 114, D. 667 \"The Trout\": II. Andante",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/98dd1249f58164453e3462c6392006a0552e9d86"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 2,
+                  "uri": "spotify:track:6SFHDhCnJQy4D7lTaqncP7"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Franz Schubert"
+                        },
+                        "uri": "spotify:artist:2p0UyoPfYfI76PCStuXfOP"
+                      },
+                      {
+                        "profile": {
+                          "name": "Hephzibah Menuhin"
+                        },
+                        "uri": "spotify:artist:1NH50olttJ4Gz7fTQKW7vI"
+                      },
+                      {
+                        "profile": {
+                          "name": "Amadeus Quartet"
+                        },
+                        "uri": "spotify:artist:76P71z1u6vn8zfQuDtnY7I"
+                      },
+                      {
+                        "profile": {
+                          "name": "James Edward Merrett"
+                        },
+                        "uri": "spotify:artist:1oybBTKbW0XCecPl8uYrEy"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 241040
+                  },
+                  "id": "6noZXMnVnwhLysRTe4JHWu",
+                  "name": "Schubert: Piano Quintet in A Major, Op. Posth. 114, D. 667 \"The Trout\": III. Scherzo. Presto",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/3ba4ce076b8d5fed15d5dea7da17b6bfea6788f3"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 3,
+                  "uri": "spotify:track:6noZXMnVnwhLysRTe4JHWu"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Franz Schubert"
+                        },
+                        "uri": "spotify:artist:2p0UyoPfYfI76PCStuXfOP"
+                      },
+                      {
+                        "profile": {
+                          "name": "Hephzibah Menuhin"
+                        },
+                        "uri": "spotify:artist:1NH50olttJ4Gz7fTQKW7vI"
+                      },
+                      {
+                        "profile": {
+                          "name": "Amadeus Quartet"
+                        },
+                        "uri": "spotify:artist:76P71z1u6vn8zfQuDtnY7I"
+                      },
+                      {
+                        "profile": {
+                          "name": "James Edward Merrett"
+                        },
+                        "uri": "spotify:artist:1oybBTKbW0XCecPl8uYrEy"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 487533
+                  },
+                  "id": "2Uz0cPremmKIoDdR4H6vYX",
+                  "name": "Schubert: Piano Quintet in A Major, Op. Posth. 114, D. 667 \"The Trout\": IV. Tema con variazione. Andantino",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/58ba9461b94daaf522efaee61a0ab343af262ce7"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 4,
+                  "uri": "spotify:track:2Uz0cPremmKIoDdR4H6vYX"
+                }
+              },
+              {
+                "track": {
+                  "__typename": "Track",
+                  "artists": {
+                    "items": [
+                      {
+                        "profile": {
+                          "name": "Franz Schubert"
+                        },
+                        "uri": "spotify:artist:2p0UyoPfYfI76PCStuXfOP"
+                      },
+                      {
+                        "profile": {
+                          "name": "Hephzibah Menuhin"
+                        },
+                        "uri": "spotify:artist:1NH50olttJ4Gz7fTQKW7vI"
+                      },
+                      {
+                        "profile": {
+                          "name": "Amadeus Quartet"
+                        },
+                        "uri": "spotify:artist:76P71z1u6vn8zfQuDtnY7I"
+                      },
+                      {
+                        "profile": {
+                          "name": "James Edward Merrett"
+                        },
+                        "uri": "spotify:artist:1oybBTKbW0XCecPl8uYrEy"
+                      }
+                    ]
+                  },
+                  "contentRating": {
+                    "label": "NONE"
+                  },
+                  "discNumber": 1,
+                  "duration": {
+                    "totalMilliseconds": 389226
+                  },
+                  "id": "65a2uxQevvKhIvhJ3r0mzh",
+                  "name": "Schubert: Piano Quintet in A Major, Op. Posth. 114, D. 667 \"The Trout\": V. Finale. Allegro giusto",
+                  "playability": {
+                    "playable": true
+                  },
+                  "previews": {
+                    "audioPreviews": {
+                      "items": [
+                        {
+                          "url": "https://p.scdn.co/mp3-preview/591984345fea68893ae303f165b853449d96dcf1"
+                        }
+                      ]
+                    }
+                  },
+                  "relinkingInformation": null,
+                  "trackNumber": 5,
+                  "uri": "spotify:track:65a2uxQevvKhIvhJ3r0mzh"
+                }
+              }
+            ],
+            "pagingInfo": {
+              "nextOffset": null,
+              "offset": 0
+            },
+            "totalCount": 5
+          },
+          "artists": {
+            "items": [
+              {
+                "profile": {
+                  "name": "Franz Schubert"
+                },
+                "stats": {
+                  "monthlyListeners": 3276991
+                },
+                "uri": "spotify:artist:2p0UyoPfYfI76PCStuXfOP",
+                "visuals": {
+                  "avatarImage": {
+                    "sources": [
+                      {
+                        "height": 787,
+                        "url": "https://i.scdn.co/image/87eea77169f443e253f96c06dd98a631db96b356",
+                        "width": 640
+                      },
+                      {
+                        "height": 79,
+                        "url": "https://i.scdn.co/image/168779da16912766ecdea068c5e53c946e5db485",
+                        "width": 64
+                      },
+                      {
+                        "height": 246,
+                        "url": "https://i.scdn.co/image/b2fb7dbe6300466d49d81501828cc89a062d411d",
+                        "width": 200
+                      },
+                      {
+                        "height": 1229,
+                        "url": "https://i.scdn.co/image/ffd1ed5399935c49e9c34ba3681a899104998299",
+                        "width": 1000
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "recommendations": {},
+      "saved": {},
+      "restricted": {}
+    },
+    "playback": {
+      "current": null,
+      "hasSkippedThisSession": false,
+      "isBuffering": false,
+      "heardAudio": false,
+      "initiatedPlayback": false
+    },
+    "request": {
+      "hasPreviousLikes": false,
+      "isBanned": false,
+      "entityView": null,
+      "albumUri": ""
+    },
+    "search": {
+      "isFetching": false,
+      "results": null,
+      "query": null,
+      "error": null,
+      "recentSearches": []
+    },
+    "toast": {
+      "message": null,
+      "type": "default",
+      "action": null
+    },
+    "ui": {
+      "modal": "now_playing_bar",
+      "nowPlayingView": false,
+      "dialog": null,
+      "errorView": false
+    },
+    "home": {
+      "isLoading": false,
+      "hasError": false,
+      "data": null
+    },
+    "onDemandPlaylists": {
+      "fetched": false,
+      "items": []
+    },
+    "contextMenu": {
+      "isVisible": false
+    },
+    "colorExtraction": {
+      "colors": {}
+    },
+    "lyrics": {
+      "status": "UNAVAILABLE"
+    },
+    "seoLyrics": {
+      "status": "UNAVAILABLE",
+      "unauthEnabled": false
+    },
+    "seoExperiment": {
+      "status": "LOADED",
+      "album": {}
+    },
+    "browse": {
+      "grid": {
+        "isLoading": false,
+        "sections": null,
+        "hasFailedAttempts": false
+      },
+      "pages": {}
+    },
+    "internalLinkRecommender": {
+      "tracks": {
+        "status": "UNAVAILABLE"
+      },
+      "shows": {
+        "status": "UNAVAILABLE"
+      },
+      "episodes": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAlbums": {
+        "status": "UNAVAILABLE"
+      },
+      "similarAudiobooks": {
+        "status": "UNAVAILABLE"
+      },
+      "trackPlaylists": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistRecommendedTracks": {
+      "playlist": {
+        "status": "UNAVAILABLE"
+      }
+    },
+    "playlistSection": {
+      "status": "UNAVAILABLE"
+    },
+    "concertHub": {
+      "concertFeed": null,
+      "location": null
+    },
+    "masthead": {
+      "isCrawlerBot": false
+    },
+    "section": {},
+    "countryHubs": {},
+    "entityPreview": {
+      "data": null
+    }
+  },
+  "structuredData": [
+    {
+      "@context": "http://schema.googleapis.com/",
+      "@type": "MusicAlbum",
+      "@id": "https://open.spotify.com/album/6bxIPfZ1TzyAfHdAbYrCZ8",
+      "url": "https://open.spotify.com/album/6bxIPfZ1TzyAfHdAbYrCZ8",
+      "name": "Schubert: Piano Quintet, D. 667 \"Trout\"",
+      "description": "Listen to Schubert: Piano Quintet, D. 667 \"Trout\" on Spotify · album · Franz Schubert · 1958 · 5 songs",
+      "datePublished": "1958-01-01",
+      "potentialAction": {
+        "@type": "ListenAction",
+        "target": [
+          {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://open.spotify.com/album/6bxIPfZ1TzyAfHdAbYrCZ8?autoplay=true",
+            "actionPlatform": [
+              "http://schema.org/DesktopWebPlatform",
+              "http://schema.org/IOSPlatform",
+              "http://schema.googleapis.com/GoogleAudioCast",
+              "http://schema.googleapis.com/GoogleVideoCast"
+            ]
+          },
+          "android-app://com.spotify.music/spotify/album/6bxIPfZ1TzyAfHdAbYrCZ8/play"
+        ],
+        "expectsAcceptanceOf": {
+          "@type": "Offer",
+          "category": "free",
+          "eligibleRegion": []
+        }
+      }
+    }
+  ],
+  "htmlBytes": 241675,
+  "albumLinks": [
+    {
+      "id": "3Gul8nt38IwDEmM4rnny3e",
+      "label": "\"A Classical Melody: Bach, Mozart & more\"  Album • 2026"
+    },
+    {
+      "id": "6E1vIbtD1nOoiQb3YDpIX1",
+      "label": "Calm Classical for Studying  Album • 2026"
+    },
+    {
+      "id": "0WfJqLaQANECrxskT2QCKM",
+      "label": "Relaxing Classical for Studying  Album • 2026"
+    },
+    {
+      "id": "2apZW8lHmm7SvimzhKMQ1X",
+      "label": "\"Moment Musical\" - Deep Focus & Concentration  Album • 2025"
+    },
+    {
+      "id": "47It6NIjNCUHsL1J5MU3BZ",
+      "label": "The Source  Album • 2026"
+    },
+    {
+      "id": "6mLqVNuRhdTRJVj7fRIdfh",
+      "label": "Late Summer Languidness  Album • 2026"
+    },
+    {
+      "id": "0yq6V8bwNWq2bExhv2ggZV",
+      "label": "100 Best Film Classics  Album • 2026"
+    },
+    {
+      "id": "5dBjEWccFHazeaCt3998qQ",
+      "label": "\"Molto cantabile- Classical Works by Beethoven, Mozart & more\"  Album • 2026"
+    },
+    {
+      "id": "238xXBWtYLubN0ael8A468",
+      "label": "\"Wildflowers Waltz: Classical Masterpieces\"  Album • 2026"
+    },
+    {
+      "id": "3dd6837vUvWT23349ktDuS",
+      "label": "\"Classical Relaxation\" with Chopin, Rachmaninov, Mozart, Debussy  Album • 2026"
+    }
+  ]
+}
