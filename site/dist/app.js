@@ -22,6 +22,7 @@ let cameraReturnTimer;
 let cameraBase = null, carouselIndex = 0, manualCarouselScroll = false, scrollSettleTimer;
 let records = [], sourceRecords = [], currentBox = null, currentIndex = 0, previewIndex = null, previewAnchor = {}, currentView = 'front', lastRoomFocus = null, ignoreJacketClick = false;
 const spotifyIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="currentColor"/><path d="M5 8c5-1.6 10-1.3 14 1M6 12c4-1.2 8-1 12 .8M7 16c3-.7 6-.5 9 .6" fill="none" stroke="#d8e0cb" stroke-width="1.6" stroke-linecap="round"/></svg>';
+const turntableIcon = '<svg class="turntable-button-icon" viewBox="0 0 48 32" aria-hidden="true"><rect x="1" y="1" width="46" height="30" rx="2" fill="#999e8e" stroke="#777e6e"/><circle cx="17" cy="16" r="12.5" fill="#171b16"/><g fill="none" stroke="#434b3d" stroke-width=".7"><circle cx="17" cy="16" r="10.5"/><circle cx="17" cy="16" r="8.5"/><circle cx="17" cy="16" r="6.5"/></g><circle cx="17" cy="16" r="4" fill="#e6c993"/><circle cx="17" cy="16" r=".9" fill="#202420"/><path d="M40 6 33 23" fill="none" stroke="#dce1d2" stroke-width="2.2" stroke-linecap="round"/><path d="m33 22-1.5 4" stroke="#333a2d" stroke-width="3"/><circle cx="40" cy="6" r="2" fill="#6e7864"/></svg>';
 const photoCalibrationReady=fetch('box-photos.json?v=2',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 const spineMasksReady=fetch('spine-masks.json?v=51fd67f9dfb8',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 let photoProjectionRequest=0;
@@ -108,7 +109,7 @@ function renderRecord(){
   const search=`https://open.spotify.com/search/${encodeURIComponent(`${r.artist} ${r.title}`)}`;
   if(r.kind==='book'){$('listen-actions').innerHTML='<p class="record-evidence">An art book, tucked in with the records.</p>';}
   else if(r.spotifyId&&/^[A-Za-z0-9]{22}$/.test(r.spotifyId)&&r.confidence==='confirmed'){
-    $('listen-actions').innerHTML=`<button class="spotify-button" id="listen-album">${spotifyIcon} Listen on Spotify</button><a class="spotify-link" href="https://open.spotify.com/album/${r.spotifyId}" target="_blank" rel="noopener noreferrer">Open the verified album ↗</a>${r.spotifyAvailabilityNote?`<p class="spotify-link">${escapeHtml(r.spotifyAvailabilityNote)}</p>`:''}`;
+    $('listen-actions').innerHTML=`<button class="spotify-button turntable-button" id="listen-album" aria-haspopup="dialog" aria-controls="listen-dialog">${turntableIcon} Put on the turntable</button><a class="spotify-link" href="https://open.spotify.com/album/${r.spotifyId}" target="_blank" rel="noopener noreferrer">Open the verified album ↗</a>${r.spotifyAvailabilityNote?`<p class="spotify-link">${escapeHtml(r.spotifyAvailabilityNote)}</p>`:''}`;
     $('listen-album').onclick=()=>openListen(r);
   }else if(r.confidence!=='unknown'){$('listen-actions').innerHTML=`<a class="spotify-button" href="${search}" target="_blank" rel="noopener noreferrer">${spotifyIcon} Find on Spotify ↗</a><p class="spotify-link">Search only · an exact album link hasn’t been verified.</p>`;}
   else{$('listen-actions').innerHTML='<p class="record-evidence">Listening will be available once this record is identified.</p>';}
