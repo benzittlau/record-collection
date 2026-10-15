@@ -52,7 +52,7 @@ npm run check
 npx --yes vercel@64.1.0 --cwd site deploy --prod --scope ben-zittlaus-projects
 ```
 
-The production deployment is protected by Vercel Authentication for all deployments, including custom domains. Preserve that setting unless a change in access is explicitly requested. The existing private Sites project remains separate.
+The Vercel site is public, as explicitly requested on October 14, 2026. Vercel Authentication is disabled for this project, including its production domain. The existing private Sites project remains separate.
 
 Vercel's recommended DNS record, retrieved October 14, 2026, is a `CNAME` named `records` pointing to `ffff5ae07e97b6f2.vercel-dns-017.com.`. Add this record at the authoritative DNS provider; the root domain and nameservers do not need to move. Recheck the recommendation and propagation with:
 
