@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=19">
+  <link rel="stylesheet" href="styles.css?v=809ca92cface">
   <link rel="preload" href="assets/room-wide.jpg" as="image">
 </head>
 <body>
@@ -79,15 +79,15 @@
     <header><span class="small-label">On the turntable</span><button class="icon-button" id="close-listen" aria-label="Minimize turntable and keep playing" title="Keep playing & browse">−</button></header>
     <div class="mini-turntable"><div class="mini-disc"><img id="playing-cover" alt=""></div><div class="tonearm"></div><span>33⅓</span></div>
     <h2 id="playing-title"></h2><p id="playing-artist"></p>
-    <div id="spotify-player"></div><p id="spotify-player-status" class="spotify-player-status" role="status">Loading Spotify…</p>
     <div class="spotify-sign-in">
-      <strong>Only hearing a preview?</strong>
-      <p>Spotify controls embedded playback. If it stays in preview mode after signing in, use Open album in Spotify.</p>
-      <div><a id="spotify-sign-in" target="_blank" rel="noopener noreferrer">Sign in to Spotify ↗</a><button id="spotify-refresh" title="Reload Spotify after signing in; playback resets, so choose a track again">Refresh player</button></div>
-      <small id="spotify-sign-in-note">Spotify handles your sign-in. This room doesn’t access your account.</small>
+      <strong id="spotify-session-title">Full albums with Premium</strong>
+      <p id="spotify-session-description">Connect your Spotify account to play full albums in this room.</p>
+      <div><button id="spotify-connect" hidden>Connect Spotify</button><button id="spotify-disconnect" hidden>Disconnect</button><a id="spotify-sign-in" target="_blank" rel="noopener noreferrer">Sign in to Spotify ↗</a><button id="spotify-refresh" title="Reload Spotify’s preview; playback resets">Refresh preview</button></div>
+      <small id="spotify-sign-in-note" role="status">You’ll sign in securely with Spotify and return to this album.</small>
     </div>
+    <div id="spotify-player"></div><p id="spotify-player-status" class="spotify-player-status" role="status">Loading Spotify…</p>
     <footer class="turntable-footer"><a id="spotify-open" target="_blank" rel="noopener noreferrer">Open album in Spotify ↗</a><button id="stop-listen">Stop & remove record</button></footer>
-    <p class="spotify-note">Use Spotify’s play button to start. Minimize to keep listening while you browse.</p>
+    <p class="spotify-note" id="spotify-note">Use Spotify’s play button to start. Minimize to keep listening while you browse.</p>
   </dialog>
   <aside id="turntable-widget" class="turntable-widget" aria-label="Turntable mini player" popover="manual" hidden>
     <button id="expand-turntable" class="mini-player-album" aria-label="Expand turntable">
@@ -99,6 +99,6 @@
 
   <dialog id="about-dialog" class="about-dialog" aria-labelledby="about-title"><button class="icon-button" id="close-about" aria-label="Close information">✕</button><p class="eyebrow">A family collection</p><h2 id="about-title">Kept in its own order.</h2><p>This room is a photographic reconstruction of the five boxes in your family photos. Records stay in their original left-to-right order.</p><p>Readable spines identify the albums. Cover artwork represents the album, and may come from a different pressing. Worn, unreadable sleeves keep their place until more photographs can identify them.</p><p>Back covers appear only where sourced. The vinyl inside is an illustration; labels and condition of the original discs haven’t been photographed.</p><p>Spotify albums are linked only when verified. Other records offer a clearly labeled Spotify search.</p><p><a href="capture.html">Photograph the remaining sleeves ↗</a></p><div class="about-stats" id="about-stats"></div></dialog>
   
-  <script src="app.js?v=9458754cae56" type="module"></script>
+  <script src="app.js?v=b705154dbb23" type="module"></script>
 </body>
 </html>

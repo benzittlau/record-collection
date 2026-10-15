@@ -30,13 +30,25 @@ const fingerprint=source=>createHash('sha256').update(source).digest('hex').slic
 const appUrl=new URL('../dist/app.js',import.meta.url),indexUrl=new URL('../dist/index.html',import.meta.url);
 const appSource=await readFile(appUrl,'utf8');
 assert(/spine-masks\.json\?v=[^'"]+/.test(appSource),'Missing versioned mask request');
-const playerSource=await readFile(new URL('../dist/turntable.js',import.meta.url),'utf8');
+const playerUrl=new URL('../dist/turntable.js',import.meta.url);
+const playerSource=await readFile(playerUrl,'utf8');
+let nextPlayer=playerSource;
+for(const module of ['spotify-session','spotify-player']){
+  const pattern=new RegExp(`${module}\\.js(?:\\?v=[^'\"]+)?(?=['\"])`);
+  if(!pattern.test(nextPlayer))continue;
+  const moduleSource=await readFile(new URL(`../dist/${module}.js`,import.meta.url),'utf8');
+  nextPlayer=nextPlayer.replace(pattern,`${module}.js?v=${fingerprint(moduleSource)}`);
+}
+if(nextPlayer!==playerSource)await writeFile(playerUrl,nextPlayer);
 assert(/turntable\.js\?v=[^'"]+/.test(appSource),'Missing versioned player module');
 const nextApp=appSource.replace(/spine-masks\.json\?v=[^'"]+/,`spine-masks.json?v=${fingerprint(maskSource)}`)
-  .replace(/turntable\.js\?v=[^'"]+/,`turntable.js?v=${fingerprint(playerSource)}`);
+  .replace(/turntable\.js\?v=[^'"]+/,`turntable.js?v=${fingerprint(nextPlayer)}`);
 if(nextApp!==appSource)await writeFile(appUrl,nextApp);
 const indexSource=await readFile(indexUrl,'utf8');
+const stylesSource=await readFile(new URL('../dist/styles.css',import.meta.url),'utf8');
 assert(/src="app\.js\?v=[^"]+"/.test(indexSource),'Missing versioned application script');
-const nextIndex=indexSource.replace(/src="app\.js\?v=[^"]+"/,`src="app.js?v=${fingerprint(nextApp)}"`);
+assert(/href="styles\.css\?v=[^"]+"/.test(indexSource),'Missing versioned application stylesheet');
+const nextIndex=indexSource.replace(/src="app\.js\?v=[^"]+"/,`src="app.js?v=${fingerprint(nextApp)}"`)
+  .replace(/href="styles\.css\?v=[^"]+"/,`href="styles.css?v=${fingerprint(stylesSource)}"`);
 if(nextIndex!==indexSource)await writeFile(indexUrl,nextIndex);
 console.log('Merged the five photographic spine maps and refreshed their content-based cache keys.');

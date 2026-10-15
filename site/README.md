@@ -4,7 +4,13 @@ A buildless photographic collection browser. The room is reconstructed from the 
 
 ## Run locally
 
-From this directory, run `npm run dev` and open `http://localhost:4173`. Python 3 and Node.js are the only runtime requirements; there are no npm dependencies. After application or tracing edits, run `node scripts/merge-spine-masks.mjs` to refresh the masks and their content-based cache keys, then `npm run check` for syntax, catalog, projection, mask and cache integrity checks.
+From this directory, run `npm run dev` and open `http://127.0.0.1:4173/`. The local server also accepts `localhost`, but Spotify sign-in uses the numeric loopback redirect registered below. Python 3.9 or newer and Node.js are the only runtime requirements; there are no npm dependencies. After application or tracing edits, run `node scripts/merge-spine-masks.mjs` to refresh the masks and their content-based cache keys, then `npm run check` for syntax, catalog, projection, mask, Spotify configuration and cache integrity checks.
+
+For Spotify account playback, copy `.env.example` to the ignored `.env.local` in this directory, then replace its client ID placeholder with the public client ID from the Spotify developer app. The local server loads this file at startup; inherited environment variables take priority. It supports single-line `KEY=value` settings, single or double quotes, and comments. Restart the server after changing local settings.
+
+The configuration names are `SPOTIFY_CLIENT_ID` and `SPOTIFY_REDIRECT_URI`. Locally, the redirect defaults to `http://127.0.0.1:4173/`. Register that exact URI separately from the production URI `https://records.zittlau.ca/` in the Spotify developer app. Open the numeric loopback address for sign-in so the callback returns to the same browser origin. `localhost` is unsuitable as a Spotify OAuth redirect.
+
+The browser reads `/api/spotify-config` at runtime. This endpoint exposes only `{clientId, redirectUri}` and disables caching; the client ID is public OAuth application metadata. Missing or invalid configuration returns HTTP 503. Authorization Code with PKCE does not require a client secret. Never put a client secret in browser code, the runtime response, or tracked files. `.env.local` is ignored by Git and excluded from Vercel uploads; `.env.example` contains placeholders only.
 
 ## Catalog and evidence
 
@@ -18,7 +24,7 @@ The source photographs are in `dist/assets/IMG_3569.jpg` through `IMG_3573.jpg`.
 
 Spine outlines in `dist/spine-masks.json` use the displayed source-photo coordinates and the same homography as the photographic texture. Multiple vertices follow leaning or bent sleeves; measured widths preserve broad box sets, narrow records, divider gaps, and empty space at the edges. The numbered marker follows the photographed sleeve's lower edge. Masks are clipped to the actual image bounds, including the missing lower-middle corner.
 
-Edit the tracing data in `research/spine-masks-left.json`, `spine-masks-middle.json`, and `spine-masks-right.json`, then run `node scripts/merge-spine-masks.mjs`. The merge retains catalog order and records a checksum of each source photo. It fingerprints the merged mask data and application script so preview and published browsers request the current files. Validation checks those cache keys, coverage, projection, clipping, and the Rampal/Laskine sleeve that previously highlighted the empty right frame. Several worn or uncertain boundaries remain interpolated between readable anchors; more precise outlines do not change the catalog's identification confidence.
+Edit the tracing data in `research/spine-masks-left.json`, `spine-masks-middle.json`, and `spine-masks-right.json`, then run `node scripts/merge-spine-masks.mjs`. The merge retains catalog order and records a checksum of each source photo. It fingerprints the merged mask data, Spotify modules, player, application script and stylesheet so preview and published browsers request the current files. Validation checks those cache keys, coverage, projection, clipping, and the Rampal/Laskine sleeve that previously highlighted the empty right frame. Several worn or uncertain boundaries remain interpolated between readable anchors; more precise outlines do not change the catalog's identification confidence.
 
 ## Adding missing records later
 
@@ -38,13 +44,15 @@ For ordinary catalog edits, run `node scripts/merge-catalog.mjs`, then `node scr
 
 ## Playback and hosting
 
-Verified albums open a Spotify embed on demand and offer the exact album link. Closing or pressing Escape in the listening panel minimizes it to a corner player while the same iframe continues playing. Its controls remain usable in boxes, the collection, and photo views. Only Stop, Refresh player, or choosing another album resets the player. Sign in to Spotify and Refresh player are available inside the expanded turntable; refreshing resets playback. Other identified albums offer a Spotify search. Unidentified records and the art book have no playback action. Spotify manages login, regional availability, and playback permissions. Full browser playback through the Web Playback SDK requires a separate Spotify developer app, user authorization, and Spotify Premium; this project currently uses embeds.
+Verified albums open the turntable on demand and offer the exact album link. Spotify embeds remain available without connecting an account. Connecting Spotify authorizes the browser with Authorization Code and PKCE; full playback uses the Web Playback SDK and requires Spotify Premium, an eligible Spotify account and a configured developer app. Spotify manages account access, regional availability and playback permissions. Minimizing the turntable preserves playback while browsing boxes, the collection and photo views. Other identified albums offer a Spotify search. Unidentified records and the art book have no playback action.
 
 `.openai/hosting.json` declares the private Sites project and static `dist` output. No credentials are stored in this repository. Publishing keeps the owner-private audience until the user explicitly changes sharing.
 
 ## Vercel hosting
 
-The Vercel project is `record-collection` in `ben-zittlaus-projects`, with production domain `records.zittlau.ca`. Use the Vercel CLI for deployment and account configuration. `vercel.json` serves only `dist/`, with no install or build step. `.vercelignore` excludes research, tooling, hosting metadata and local environment files from CLI uploads. Original phone captures live outside `site/`.
+The Vercel project is `record-collection` in `ben-zittlaus-projects`, with production domain `records.zittlau.ca`. Use the Vercel CLI for deployment and account configuration. `vercel.json` serves static files from `dist/`, with no install or build step. Vercel automatically deploys `api/spotify-config.js` as a Node.js function alongside that static output. `.vercelignore` excludes research, tooling, hosting metadata and local environment files from CLI uploads. Original phone captures live outside `site/`.
+
+Set `SPOTIFY_CLIENT_ID` and `SPOTIFY_REDIRECT_URI` in the Vercel project environment for each deployment target that needs playback. Production uses `SPOTIFY_REDIRECT_URI=https://records.zittlau.ca/`. Preview deployments can use that same registered URI: Connect first moves browsing to production, then starts authorization there. A separately registered preview root URL allows sign-in within that preview instead. Use the Vercel CLI's interactive environment input so values stay outside tracked files and shell command arguments, then deploy again to apply changes. A retained `SPOTIFY_CLIENT_SECRET` stays in environment storage and is unused by browser PKCE. The runtime endpoint reads only the public configuration. The static private Sites publication can use Spotify embeds; full account playback requires the configuration endpoint provided by the local or Vercel server.
 
 From the repository root, link a fresh checkout once, then validate and deploy:
 
@@ -62,4 +70,4 @@ Vercel's recommended DNS record, retrieved October 14, 2026, is a `CNAME` named 
 npx --yes vercel@64.1.0 --cwd site domains verify records.zittlau.ca --scope ben-zittlaus-projects
 ```
 
-For Spotify authorization on this domain, register the exact redirect URI `https://records.zittlau.ca/` in the Spotify developer app. The current Spotify embed does not require an OAuth redirect; the future Web Playback SDK sign-in will.
+For Spotify authorization on this domain, register the exact redirect URI `https://records.zittlau.ca/` in the Spotify developer app, as well as the separate local redirect when developing. Spotify embeds do not require an OAuth redirect; account playback through the Web Playback SDK does.

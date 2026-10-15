@@ -1,6 +1,6 @@
 import {fitHomography,cssProjection,sourceClip,projectPoint} from './photo-projection.js';
 import {projectSpineMasks} from './spine-masks.js';
-import {openTurntable} from './turntable.js?v=f574139747a8';
+import {openTurntable,restoreTurntable} from './turntable.js?v=d86bf7c7cb19';
 const $ = (id) => document.getElementById(id);
 const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -43,6 +43,7 @@ const catalogReady = fetch('catalog.json?v=34b6abcb6a93',{cache:'no-store'}).the
   return [];
 });
 function boxRecords(){return records.filter(r=>r.box===currentBox).sort((a,b)=>a.position-b.position);}
+catalogReady.then(restoreTurntable);
 function resolveRecordId(id){const seen=new Set();let row=sourceRecords.find(r=>r.id===id);while(row?.mergedInto&&!seen.has(row.id)){seen.add(row.id);row=sourceRecords.find(r=>r.id===row.mergedInto);}return row?.id??id;}
 function sleeveNumber(r){return r.positionLabel??r.position;}
 function isFamilyArtwork(r,side){return r.artworkProvenance?.[side]?.source==='Family photograph';}

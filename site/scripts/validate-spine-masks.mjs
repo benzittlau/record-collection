@@ -19,16 +19,23 @@ assert.throws(()=>projectSpineMasks(h,{records:[{id:'bad',polygon:[[0,0],[NaN,1]
 
 const load=async name=>JSON.parse(await readFile(new URL(`../dist/${name}`,import.meta.url),'utf8'));
 const [masks,photos,catalog]=await Promise.all(['spine-masks.json','box-photos.json','catalog.json'].map(load));
-const [maskBytes,appSource,indexSource,playerSource]=await Promise.all([
+const [maskBytes,appSource,indexSource,playerSource,stylesSource]=await Promise.all([
   readFile(new URL('../dist/spine-masks.json',import.meta.url)),
   readFile(new URL('../dist/app.js',import.meta.url),'utf8'),
   readFile(new URL('../dist/index.html',import.meta.url),'utf8'),
-  readFile(new URL('../dist/turntable.js',import.meta.url),'utf8')
+  readFile(new URL('../dist/turntable.js',import.meta.url),'utf8'),
+  readFile(new URL('../dist/styles.css',import.meta.url),'utf8')
 ]);
 const fingerprint=bytes=>createHash('sha256').update(bytes).digest('hex').slice(0,12);
 assert(appSource.includes(`spine-masks.json?v=${fingerprint(maskBytes)}`),'Mask requests must identify the current traced data to avoid stale previews');
 assert(indexSource.includes(`app.js?v=${fingerprint(appSource)}`),'The page must request the current application that loads the traced data');
+assert(indexSource.includes(`styles.css?v=${fingerprint(stylesSource)}`),'The page must request the current application stylesheet');
 assert(appSource.includes(`turntable.js?v=${fingerprint(playerSource)}`),'The application must request the current persistent player module');
+for(const module of ['spotify-session','spotify-player']){
+  if(!new RegExp(`${module}\\.js(?:\\?v=[^'\"]+)?['\"]`).test(playerSource))continue;
+  const moduleSource=await readFile(new URL(`../dist/${module}.js`,import.meta.url),'utf8');
+  assert(playerSource.includes(`${module}.js?v=${fingerprint(moduleSource)}`),`The player must request the current ${module} module`);
+}
 assert.equal(masks.coordinateSpace,'source-photo');
 const turn=(a,b,c)=>(b[0]-a[0])*(c[1]-a[1])-(b[1]-a[1])*(c[0]-a[0]);
 function hasCrossedEdges(points){
