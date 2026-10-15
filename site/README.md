@@ -1,16 +1,12 @@
-# Dad’s record room
+# Dad’s record room — maintainer guide
+
+For a visual tour, screenshots, and a plain-language explanation of the project, start with the [main README](../README.md).
 
 A buildless photographic collection browser. The room is reconstructed from the six original family photographs, with five selectable boxes. Clicking a box moves the same camera toward it and isolates it in focus. Records lift out in front of the original box. Browse by spine, the centered cover carousel, keyboard arrows, touch swipes, or the searchable collection view.
 
 ## Run locally
 
 From this directory, run `npm run dev` and open `http://127.0.0.1:4173/` or `http://localhost:4173/`. Python 3.9 or newer and Node.js are the only runtime requirements; there are no npm dependencies. After application or tracing edits, run `node scripts/merge-spine-masks.mjs` to refresh the masks and their content-based cache keys, then `npm run check` for syntax, catalog, projection, mask, Spotify configuration and cache integrity checks. Spotify's own embedded player works without local credentials.
-
-The earlier custom account player and its configuration tools are retained for development, but the collection no longer opens that player or starts an app authorization flow. To configure those tools, copy `.env.example` to the ignored `.env.local` in this directory, then replace its client ID placeholder with the public client ID from the Spotify developer app. The local server loads this file at startup; inherited environment variables take priority. It supports single-line `KEY=value` settings, single or double quotes, and comments. Restart the server after changing local settings.
-
-The configuration names are `SPOTIFY_CLIENT_ID` and `SPOTIFY_REDIRECT_URI`. Locally, the redirect defaults to `http://127.0.0.1:4173/`. Register that exact URI separately from the production URI `https://records.zittlau.ca/` in the Spotify developer app. Open the numeric loopback address for sign-in so the callback returns to the same browser origin. `localhost` is unsuitable as a Spotify OAuth redirect.
-
-`/api/spotify-config` exposes only `{clientId, redirectUri}` and disables caching; the client ID is public OAuth application metadata. Missing or invalid configuration returns HTTP 503. The collection loads the legacy session module only to finish an in-flight OAuth callback from the earlier player, then restores the album in Spotify's own widget. Normal browsing does not load the session module or Web Playback SDK. Authorization Code with PKCE does not require a client secret. Never put a client secret in browser code, the runtime response, or tracked files. `.env.local` is ignored by Git and excluded from Vercel uploads; `.env.example` contains placeholders only.
 
 ## Catalog and evidence
 
@@ -28,7 +24,7 @@ Edit the tracing data in `research/spine-masks-left.json`, `spine-masks-middle.j
 
 ## Adding missing records later
 
-Use `capture.html` for the phone guide. Its 47 requested entries allow up to 94 photos, front then back, in original box order. Conditional folded edges can be skipped. Each entry shows the original source-photo mask, neighboring albums and the reason for capture. No image renaming, captions or folders are required. Original file order and cover content resolve retakes and skipped folds.
+The retained first-pass phone guide is `capture.html`. Its 47 requested entries allowed up to 94 photos, front then back, in original box order; this is the completed intake sequence, not a new list of the seven remaining gaps. Conditional folded edges could be skipped. Each entry shows the original source-photo mask, neighboring albums and the reason for capture. No image renaming, captions or folders were required. Original file order and cover content resolve retakes and skipped folds.
 
 The frozen sequence is `research/capture-plans/7ac3efbb41aa.json`; retain it when matching uploads even if the catalogue changes. `research/photo-capture-plan.md` contains the complete list, and `dist/capture-map.pdf` is the printable visual map. Regenerate the current manifest with `node scripts/build-capture-plan.mjs`; use `--freeze` only when issuing a reviewed new sequence. The script fingerprints the manifest, guide script and styles. PDF regeneration uses `scripts/render-capture-map.py` with Pillow and ReportLab; the Codex bundled Python runtime provides both.
 
@@ -71,3 +67,13 @@ npx --yes vercel@64.1.0 --cwd site domains verify records.zittlau.ca --scope ben
 ```
 
 The retained developer-app redirect is `https://records.zittlau.ca/`, with a separate numeric loopback entry for local development. Spotify's embedded player does not require an app OAuth redirect.
+
+## Optional legacy Spotify tools
+
+Ordinary browsing and the embedded turntable do not need this setup. These notes apply only to the retained developer tools and recovery of authorization callbacks from the earlier custom player.
+
+The earlier custom account player and its configuration tools are retained for development, but the collection no longer opens that player or starts an app authorization flow. To configure those tools, copy `.env.example` to the ignored `.env.local` in this directory, then replace its client ID placeholder with the public client ID from the Spotify developer app. The local server loads this file at startup; inherited environment variables take priority. It supports single-line `KEY=value` settings, single or double quotes, and comments. Restart the server after changing local settings.
+
+The configuration names are `SPOTIFY_CLIENT_ID` and `SPOTIFY_REDIRECT_URI`. Locally, the redirect defaults to `http://127.0.0.1:4173/`. Register that exact URI separately from the production URI `https://records.zittlau.ca/` in the Spotify developer app. Open the numeric loopback address for sign-in so the callback returns to the same browser origin. `localhost` is unsuitable as a Spotify OAuth redirect.
+
+`/api/spotify-config` exposes only `{clientId, redirectUri}` and disables caching; the client ID is public OAuth application metadata. Missing or invalid configuration returns HTTP 503. The collection loads the legacy session module only to finish an in-flight OAuth callback from the earlier player, then restores the album in Spotify's own widget. Normal browsing does not load the session module or Web Playback SDK. Authorization Code with PKCE does not require a client secret. Never put a client secret in browser code, the runtime response, or tracked files. `.env.local` is ignored by Git and excluded from Vercel uploads; `.env.example` contains placeholders only.
