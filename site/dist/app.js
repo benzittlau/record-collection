@@ -1,6 +1,6 @@
 import {fitHomography,cssProjection,sourceClip,projectPoint} from './photo-projection.js';
 import {projectSpineMasks} from './spine-masks.js';
-import {openTurntable,restoreTurntable} from './turntable.js?v=d86bf7c7cb19';
+import {openTurntable,restoreTurntable} from './turntable.js?v=9724e9847d80';
 const $ = (id) => document.getElementById(id);
 const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
