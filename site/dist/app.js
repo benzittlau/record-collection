@@ -327,9 +327,9 @@ strip.addEventListener('scroll',()=>{
   },180);
 });
 $('box-dialog').addEventListener('click',e=>{
-  if(!$('box-dialog').classList.contains('album-open'))return;
   if(e.target.closest('.sleeve-object,.view-controls,.album-navigation,.album-nav,.record-info,.crate-browser,.box-header,.put-back,.turntable-widget'))return;
-  putRecordBack();
+  if($('box-dialog').classList.contains('album-open'))putRecordBack();
+  else closeBox();
 });
 $('box-dialog').addEventListener('cancel',e=>{if($('box-dialog').classList.contains('album-open')){e.preventDefault();putRecordBack();}});
 
