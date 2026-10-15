@@ -1,0 +1,619 @@
+{
+  "id": "lower-middle-11",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=The+Band&release_title=Moondog+Matinee"
+  ],
+  "releases": [
+    {
+      "id": 8123215,
+      "title": "Moondog Matinee",
+      "artists": [
+        {
+          "name": "The Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 254199,
+          "resource_url": "https://api.discogs.com/artists/254199",
+          "thumbnail_url": "https://i.discogs.com/Yj7tSodT8Ekvi3BQW35eyZKPvHKHT1rUYot_s4U579M/rs:fit/g:sm/q:90/h:457/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NDE5/OS0xNTA5NjgyNTcz/LTMzODkuanBlZw.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1973,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Capitol Records",
+          "catno": "SW 11214",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 654,
+          "resource_url": "https://api.discogs.com/labels/654",
+          "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+        }
+      ],
+      "notes": "Runouts variant 3: 0 and Sterling are stamped\n\n\n",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Ain't Got No Home",
+          "extraartists": [
+            {
+              "name": "Clarence \"Frogman\" Henry",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 316996,
+              "resource_url": "https://api.discogs.com/artists/316996"
+            }
+          ],
+          "duration": "3:20"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Holy Cow",
+          "extraartists": [
+            {
+              "name": "Allen Toussaint",
+              "anv": "Allan Toussaint",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 136135,
+              "resource_url": "https://api.discogs.com/artists/136135"
+            }
+          ],
+          "duration": "3:15"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Share Your Love",
+          "extraartists": [
+            {
+              "name": "Al \"TNT\" Braggs",
+              "anv": "A. Braggs",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 446266,
+              "resource_url": "https://api.discogs.com/artists/446266"
+            },
+            {
+              "name": "Deadric Malone",
+              "anv": "D. Malone",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 661243,
+              "resource_url": "https://api.discogs.com/artists/661243"
+            }
+          ],
+          "duration": "2:50"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Mystery Train",
+          "extraartists": [
+            {
+              "name": "Robbie Robertson",
+              "anv": "Robertson",
+              "join": "",
+              "role": "Adapted By",
+              "tracks": "",
+              "id": 90154,
+              "resource_url": "https://api.discogs.com/artists/90154"
+            },
+            {
+              "name": "Little Junior Parker",
+              "anv": "Parker",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 368541,
+              "resource_url": "https://api.discogs.com/artists/368541"
+            },
+            {
+              "name": "Sam Phillips (2)",
+              "anv": "Philips",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 340809,
+              "resource_url": "https://api.discogs.com/artists/340809"
+            }
+          ],
+          "duration": "5:35"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Third Man Theme",
+          "extraartists": [
+            {
+              "name": "Anton Karas",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 492716,
+              "resource_url": "https://api.discogs.com/artists/492716"
+            }
+          ],
+          "duration": "2:43"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Promised Land",
+          "extraartists": [
+            {
+              "name": "Chuck Berry",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 180119,
+              "resource_url": "https://api.discogs.com/artists/180119"
+            }
+          ],
+          "duration": "3:00"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "The Great Pretender",
+          "extraartists": [
+            {
+              "name": "Buck Ram",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 415783,
+              "resource_url": "https://api.discogs.com/artists/415783"
+            }
+          ],
+          "duration": "3:07"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "I'm Ready",
+          "extraartists": [
+            {
+              "name": "Al Lewis",
+              "anv": "Lewis",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 638185,
+              "resource_url": "https://api.discogs.com/artists/638185"
+            },
+            {
+              "name": "Fats Domino",
+              "anv": "Domino",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 309140,
+              "resource_url": "https://api.discogs.com/artists/309140"
+            },
+            {
+              "name": "Sylvester Bradford",
+              "anv": "Bradford",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 723309,
+              "resource_url": "https://api.discogs.com/artists/723309"
+            }
+          ],
+          "duration": "3:22"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Saved",
+          "extraartists": [
+            {
+              "name": "Leiber & Stoller",
+              "anv": "J. Leiber-M. Stoller",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 281667,
+              "resource_url": "https://api.discogs.com/artists/281667"
+            }
+          ],
+          "duration": "3:42"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "A Change Is Gonna Come",
+          "extraartists": [
+            {
+              "name": "Sam Cooke",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 295202,
+              "resource_url": "https://api.discogs.com/artists/295202"
+            }
+          ],
+          "duration": "4:15"
+        }
+      ],
+      "url": "https://www.discogs.com/release/8123215",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-8123215-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/F9lHjkaR0oL-Q1GqgQ6Mh6aaI2-hS9rz9CUdPoAiugY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjMy/MTUtMTY4NjY3NDAz/MC05Mzg4LmpwZWc.jpeg",
+          "type": "primary",
+          "width": 597,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-8123215-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/HwcUeECBJh3TpFrK2_snjOv7rosW_7NflCPuYcLYwl0/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjMy/MTUtMTY4NjY3NDAz/My00NDgwLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 583,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-8123215-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/mRV8z-X8ls8NMIPVKvq5fJ66aT3Fi2DAvMRuFRf2yjU/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjMy/MTUtMTY4NjY3NDAz/My00NjkwLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 594,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-8123215-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/J8K_QdiJjvLWkW9RDk7Oxt22FMc3V8HxTvSD48QCgsI/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjMy/MTUtMTY4NjY3NDAz/NC04MTIwLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 584,
+          "height": 600,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 1768869,
+      "title": "Moondog Matinee",
+      "artists": [
+        {
+          "name": "The Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 254199,
+          "resource_url": "https://api.discogs.com/artists/254199",
+          "thumbnail_url": "https://i.discogs.com/Yj7tSodT8Ekvi3BQW35eyZKPvHKHT1rUYot_s4U579M/rs:fit/g:sm/q:90/h:457/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NDE5/OS0xNTA5NjgyNTcz/LTMzODkuanBlZw.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1973,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ],
+          "text": "Poster Cover"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Capitol Records",
+          "catno": "SW-11214",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 654,
+          "resource_url": "https://api.discogs.com/labels/654",
+          "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+        }
+      ],
+      "notes": "Recorded at Bearsville Sound Studios in Bearsville, New York and capitol Studios in Hollywood, California.\nIn runouts STERLING stamped; all else etched.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Ain't Got No Home",
+          "extraartists": [
+            {
+              "name": "Clarence \"Frogman\" Henry",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 316996,
+              "resource_url": "https://api.discogs.com/artists/316996"
+            }
+          ],
+          "duration": "3:20"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Holy Cow",
+          "extraartists": [
+            {
+              "name": "Allen Toussaint",
+              "anv": "Allan Toussaint",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 136135,
+              "resource_url": "https://api.discogs.com/artists/136135"
+            }
+          ],
+          "duration": "3:15"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Share Your Love",
+          "extraartists": [
+            {
+              "name": "Al \"TNT\" Braggs",
+              "anv": "A. Braggs",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 446266,
+              "resource_url": "https://api.discogs.com/artists/446266"
+            },
+            {
+              "name": "Deadric Malone",
+              "anv": "D. Malone",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 661243,
+              "resource_url": "https://api.discogs.com/artists/661243"
+            }
+          ],
+          "duration": "2:50"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Mystery Train",
+          "extraartists": [
+            {
+              "name": "Robbie Robertson",
+              "anv": "Robertson",
+              "join": "",
+              "role": "Adapted By",
+              "tracks": "",
+              "id": 90154,
+              "resource_url": "https://api.discogs.com/artists/90154"
+            },
+            {
+              "name": "Little Junior Parker",
+              "anv": "Parker",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 368541,
+              "resource_url": "https://api.discogs.com/artists/368541"
+            },
+            {
+              "name": "Sam Phillips (2)",
+              "anv": "Philips",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 340809,
+              "resource_url": "https://api.discogs.com/artists/340809"
+            }
+          ],
+          "duration": "5:35"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Third Man Theme",
+          "extraartists": [
+            {
+              "name": "Anton Karas",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 492716,
+              "resource_url": "https://api.discogs.com/artists/492716"
+            }
+          ],
+          "duration": "2:43"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Promised Land",
+          "extraartists": [
+            {
+              "name": "Chuck Berry",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 180119,
+              "resource_url": "https://api.discogs.com/artists/180119"
+            }
+          ],
+          "duration": "3:00"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "The Great Pretender",
+          "extraartists": [
+            {
+              "name": "Buck Ram",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 415783,
+              "resource_url": "https://api.discogs.com/artists/415783"
+            }
+          ],
+          "duration": "3:07"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "I'm Ready",
+          "extraartists": [
+            {
+              "name": "Al Lewis",
+              "anv": "Lewis",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 638185,
+              "resource_url": "https://api.discogs.com/artists/638185"
+            },
+            {
+              "name": "Fats Domino",
+              "anv": "Domino",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 309140,
+              "resource_url": "https://api.discogs.com/artists/309140"
+            },
+            {
+              "name": "Sylvester Bradford",
+              "anv": "Bradford",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 723309,
+              "resource_url": "https://api.discogs.com/artists/723309"
+            }
+          ],
+          "duration": "3:22"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Saved",
+          "extraartists": [
+            {
+              "name": "Leiber & Stoller",
+              "anv": "J. Leiber-M. Stoller",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 281667,
+              "resource_url": "https://api.discogs.com/artists/281667"
+            }
+          ],
+          "duration": "3:42"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "A Change Is Gonna Come",
+          "extraartists": [
+            {
+              "name": "Sam Cooke",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 295202,
+              "resource_url": "https://api.discogs.com/artists/295202"
+            }
+          ],
+          "duration": "4:15"
+        }
+      ],
+      "url": "https://www.discogs.com/release/1768869",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-1768869-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/76GWS3XZK-2EsRzRSZICuHKSEyz6mrGllAH_p6tQNvc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg4/NjktMTI5MTIxNjU1/MC5qcGVn.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-1768869-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/a9DpRvF9auC0chtHJDhno3Z6fWELC1xsBF_jmSWLzQw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg4/NjktMTI5MTIxNjUw/OS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-1768869-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/F7Qf8buTVDFcYj0m8es8aT3rnIO0X14F7Dw8-sP6L70/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg4/NjktMTI5MTIxNjUy/Mi5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-1768869-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/JQq29CEsJOhE2tx3i99sQSfS2NdiE29G4bd_UXFhPgA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg4/NjktMTI5MTIxNjUz/MC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-1768869-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/QTTCJqL71E56mJK5dwKz3Ky2icdsjem2JJD5b6oMpMY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg4/NjktMTI5MTIxNjUz/Ny5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-11-discogs-1768869-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/MQ6AQ_LqNCOctOa7CbWPY5WQ3njjQUieALeF37uknyo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njg4/NjktMTI5MTIxNjU2/NC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 598,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

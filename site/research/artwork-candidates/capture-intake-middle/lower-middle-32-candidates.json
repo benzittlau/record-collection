@@ -1,0 +1,345 @@
+{
+  "id": "lower-middle-32",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Stephen+Stills&release_title=Stephen+Stills+2"
+  ],
+  "releases": [
+    {
+      "id": 8909080,
+      "title": "Stephen Stills 2",
+      "artists": [
+        {
+          "name": "Stephen Stills",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968",
+          "thumbnail_url": "https://i.discogs.com/u4EjUGmDXuYa9D1uS8YpI-Uv1HYR9RG6DW6qcetz0c4/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzNjk2/OC0xMjk0ODI4MDQ5/LmpwZWc.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1971,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ],
+          "text": "PR"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catno": "SD 7206",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 681,
+          "resource_url": "https://api.discogs.com/labels/681",
+          "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+        }
+      ],
+      "notes": "LABEL: MFG. by Atlantic Recording Corp., 1841 Broadway, New York, N.Y.\nSLEEVE: Manufactured And Distributed By Warner Bros. Records of Canada, ltd.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Change Partners",
+          "duration": "3:13"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Nothin' To Do But Today",
+          "duration": "2:40"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Fishes And Scorpions",
+          "duration": "3:13"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Sugar Babe",
+          "duration": "4:04"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Know You Got To Run",
+          "duration": "3:50"
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "title": "Open Secret",
+          "duration": "5:00"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Relaxing Town",
+          "duration": "2:20"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Singin' Call",
+          "duration": "3:01"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Ecology Song",
+          "duration": "3:22"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "World Game",
+          "duration": "4:13"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Marianne",
+          "duration": "2:27"
+        },
+        {
+          "position": "B6",
+          "type_": "track",
+          "title": "Bluebird Revisited",
+          "duration": "5:23"
+        }
+      ],
+      "url": "https://www.discogs.com/release/8909080",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-8909080-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/4QjPSUVIo7CBP7LxdALNzIr9U4IvsAwZE3g6Fx1xVCY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDkw/ODAtMTQ3MTI2NTIy/Ny00MDg1LmpwZWc.jpeg",
+          "type": "primary",
+          "width": 596,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-8909080-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/f9SPGaW3qbhatud6lMJB7otkUNAI5FIL7JhNr5kOk6g/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDkw/ODAtMTQ3MTI2NTI0/NS01MzkxLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 297,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-8909080-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/I9FGI9El3h1jS9P7d83pvjPHwkLThKVTYuTOVhZCQqo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDkw/ODAtMTQ3MTI2NTIy/Ny04MzM5LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 597,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-8909080-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/f5wRPS0g_cRYFlUjDTVRTwB1MFBqtMaiq2eHP9aauU8/rs:fit/g:sm/q:90/h:600/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDkw/ODAtMTQ3MTI2NTIy/Ny02MDgwLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 559,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-8909080-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/B9aUHSNhUU8i3N0-msh7Z5WWxX91FzdJb-m8IfRc-W8/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDkw/ODAtMTQ3MTI2NTIy/Ny01MjY4LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 581,
+          "height": 600,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 2221225,
+      "title": "Stephen Stills 2",
+      "artists": [
+        {
+          "name": "Stephen Stills",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 236968,
+          "resource_url": "https://api.discogs.com/artists/236968",
+          "thumbnail_url": "https://i.discogs.com/u4EjUGmDXuYa9D1uS8YpI-Uv1HYR9RG6DW6qcetz0c4/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzNjk2/OC0xMjk0ODI4MDQ5/LmpwZWc.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1971,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ],
+          "text": "Gatefold"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catno": "SD 7206",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 681,
+          "resource_url": "https://api.discogs.com/labels/681",
+          "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+        }
+      ],
+      "notes": "Conrad Isidore appears through the courtesy of Philips Records, Paris\n© 1971 Atlantic Recording Corp.\n\nPrinted on spine: ER [encircled Ever Reddy logo] Printed In Canada.\n\nRunouts etched, except Artisan logo is stamped",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Change Partners",
+          "duration": "3:13"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Nothin' To Do But Today",
+          "duration": "2:40"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Fishes And Scorpions",
+          "duration": "3:13"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Sugar Babe",
+          "duration": "4:04"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Know You Got To Run",
+          "duration": "3:50"
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "title": "Open Secret",
+          "duration": "5:00"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Relaxing Town",
+          "duration": "2:20"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Singin' Call",
+          "duration": "3:01"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Ecology Song",
+          "duration": "3:22"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "World Game",
+          "duration": "4:13"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Marianne",
+          "duration": "2:27"
+        },
+        {
+          "position": "B6",
+          "type_": "track",
+          "title": "Bluebird Revisited",
+          "duration": "5:23"
+        }
+      ],
+      "url": "https://www.discogs.com/release/2221225",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-2221225-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/gLOLTXe8sEEsFeuaPnH43IBfEy127g-UTzP20HM0Rfo/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEy/MjUtMTQ3Njg3ODM1/My03NTc5LmpwZWc.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 580,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-2221225-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/dZNPcJjnMq7dzAQKdAmMsH0Ck_TSLXG8dpZyjL36xG4/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEy/MjUtMTQ3Njg3ODM2/Ny05NzgwLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 302,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-2221225-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/S7JfAHmnLPLPVYQcJvedbemZtth8j4w3ttwHPg2AcDw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEy/MjUtMTQ3Njg3ODQw/NS03NzYyLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 599,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-2221225-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/aZ_80jIFYvkV6PRUTQdjXz92evsuAj8VkrPMzJxQ96g/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEy/MjUtMTQ3Njg3ODQx/MC03NzExLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 597,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-2221225-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/U-ae9DHjj2pzb3LU33EBFV7tsY7ljN0JqzjQzP9L7wU/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEy/MjUtMTQ3Njg3ODQw/OS0yMTA0LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 589,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-32-discogs-2221225-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/96oJTnMktgR2p3-IG6KoiK2h55eYKwIxTaAnbxUdNWg/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMjEy/MjUtMTQ3Njg3ODQw/OC0zMDE4LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 571,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

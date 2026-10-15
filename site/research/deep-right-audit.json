@@ -873,10 +873,10 @@
       "boxNumber": 5,
       "position": 4,
       "kind": "record",
-      "title": "Unidentified cream sleeve",
-      "artist": "Unknown artist",
-      "confidence": "unknown",
-      "status": "conditional-unidentified-edge",
+      "title": "The Quintet of the Hot Club of France",
+      "artist": "Django Reinhardt & Stéphane Grappelli",
+      "confidence": "confirmed",
+      "status": "confirmed-from-family-capture",
       "spineText": "DANCES … RENA…",
       "identityEvidence": [
         {
@@ -898,10 +898,7 @@
       "searchedVinylReleases": [],
       "sources": [],
       "acquiredImages": {},
-      "neededFaces": [
-        "front",
-        "back"
-      ],
+      "neededFaces": [],
       "reasons": [
         "Identity cannot be established from the worn/occluded spine. The edge may be a folded part of a neighboring jacket, not a separate record."
       ],
@@ -916,7 +913,31 @@
       ],
       "physicalAnchor": "Cream edge between03 Don Sebesky / Giant Box and05 Hubert Laws / Afro-Classic.",
       "captureInstruction": "Check the cream edge between Giant Box and Afro-Classic. If it is a separate jacket, take its front then back. If it is a folded part of Giant Box, skip this pair and leave it in place.",
-      "limits": "Representative LP outer sleeves are sufficient for browsing; exact physical copy wear/pressing is not claimed. Required photo pairs are only remaining gaps or unidentified independent jackets."
+      "limits": "Representative LP outer sleeves are sufficient for browsing; exact physical copy wear/pressing is not claimed. Required photo pairs are only remaining gaps or unidentified independent jackets.",
+      "beforeCapture": {
+        "status": "conditional-unidentified-edge",
+        "title": "Unidentified cream sleeve",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
+    },
+    {
+      "id": "right-04b",
+      "beforeCapture": {},
+      "box": "right",
+      "position": 4.5,
+      "title": "Brazil Blues",
+      "artist": "Herbie Mann",
+      "confidence": "confirmed",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "right-05",
@@ -19248,7 +19269,7 @@
       "title": "Views",
       "artist": "Roger Dean",
       "confidence": "confirmed",
-      "status": "book-edition-and-back-needed",
+      "status": "confirmed-from-family-capture",
       "spineText": "ROGER DEAN VIEWS LEHMKUHL/HAMILTON/CAPALBO DRAGON’S DREAM",
       "identityEvidence": [
         {
@@ -19300,10 +19321,7 @@
           "quality": "usable reference front; actual-copy photographs requested"
         }
       },
-      "neededFaces": [
-        "front",
-        "back"
-      ],
+      "neededFaces": [],
       "reasons": [
         "A representative historical front is available, but the physical book’s binding, edition and outer back remain unverified."
       ],
@@ -19340,7 +19358,18 @@
           "quality": "usable reference front; actual-copy photographs requested"
         }
       },
-      "limits": "Representative historical book front available; actual binding, edition, ISBN and outer back are unverified. The requested front/back pair will resolve these gaps."
+      "limits": "Representative historical book front available; actual binding, edition, ISBN and outer back are unverified. The requested front/back pair will resolve these gaps.",
+      "beforeCapture": {
+        "status": "book-edition-and-back-needed",
+        "title": "Views",
+        "confidence": "confirmed",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "right-53",

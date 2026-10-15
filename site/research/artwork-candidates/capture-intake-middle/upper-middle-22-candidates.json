@@ -1,0 +1,598 @@
+{
+  "id": "upper-middle-22",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Janis+Ian&catno=PC33394"
+  ],
+  "releases": [
+    {
+      "id": 27746301,
+      "title": "Between The Lines",
+      "artists": [
+        {
+          "name": "Janis Ian",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825",
+          "thumbnail_url": "https://i.discogs.com/eBRrukT4WqEfdag-UaHMbBQMxFmxRJSG3f2bZKCljzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4ODI1/LTEzNDU2NTQ2ODIt/NTIxMi5qcGVn.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1975,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "catno": "PC 33394",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 1866,
+          "resource_url": "https://api.discogs.com/labels/1866",
+          "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+        },
+        {
+          "name": "The Rainbow Collection",
+          "catno": "PC 33394",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 310794,
+          "resource_url": "https://api.discogs.com/labels/310794",
+          "thumbnail_url": "https://i.discogs.com/vMCxBzRO1Yh2TjayRXRPYKctbkfXWdueEvhtNfBx21Q/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMDc5/NC0xNDA2NDY4NDcw/LTUyNTMuanBlZw.jpeg"
+        }
+      ],
+      "notes": "Similar to [r27745407], only the text design at the bottom of the back cover is different.\n\nPrinted inner sheet with lyrics.\n\nPressing ring 2.70\"",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "When The Party's Over",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "2:57"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "At Seventeen",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:41"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "From Me To You",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "3:19"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Bright Lights And Promises",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:17"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "In The Winter",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "2:13"
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "title": "Watercolors",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:58"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Between The Lines",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:03"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "The Come On",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "3:56"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Light A Light",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "2:45"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Tea & Sympathy",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:28"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Lover's Lullaby",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "5:25"
+        }
+      ],
+      "url": "https://www.discogs.com/release/27746301",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-27746301-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/S3zvyGE9pM1-G-yF3clEoKRfjqvb3ZrHhA33yYtT1_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzQ2/MzAxLTE2ODk5OTY2/MzktNTI1NS5qcGVn.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-27746301-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/Z8vFVMNVkhVFaOZtqU3tvAALAXOWfzWpD6FBXZtUAoQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzQ2/MzAxLTE2ODk5OTY2/NDMtNjU5Mi5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-27746301-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/VwjsnCfCLvUXdzR9AnO1as1E0L5I-Mhyyyi0jRrep8E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzQ2/MzAxLTE2ODk5OTY2/NTAtNzM2OC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-27746301-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/Ubntp4o2qQy5BXKtr1EAH_5F54V_SElJYNCQBUzzsAc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzQ2/MzAxLTE2ODk5OTY2/NTYtMTM3NC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-27746301-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/cIeJbRglxPHAI5aE8WfoVaENym8dzUYCq7xh5c7fbZc/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzQ2/MzAxLTE2ODk5OTY2/NjYtOTUwMS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 449,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-27746301-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/k3-uYR0qQX4u7SClOPWEW8elc6qkz0-qA-QlIh4GltM/rs:fit/g:sm/q:90/h:600/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzQ2/MzAxLTE2ODk5OTY2/NzEtNTI0NS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 437,
+          "height": 600,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 9642423,
+      "title": "Between The Lines",
+      "artists": [
+        {
+          "name": "Janis Ian",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825",
+          "thumbnail_url": "https://i.discogs.com/eBRrukT4WqEfdag-UaHMbBQMxFmxRJSG3f2bZKCljzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4ODI1/LTEzNDU2NTQ2ODIt/NTIxMi5qcGVn.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1975,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Columbia",
+          "catno": "PC 33394",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 1866,
+          "resource_url": "https://api.discogs.com/labels/1866",
+          "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+        },
+        {
+          "name": "The Rainbow Collection",
+          "catno": "PC 33394",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 310794,
+          "resource_url": "https://api.discogs.com/labels/310794",
+          "thumbnail_url": "https://i.discogs.com/vMCxBzRO1Yh2TjayRXRPYKctbkfXWdueEvhtNfBx21Q/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMDc5/NC0xNDA2NDY4NDcw/LTUyNTMuanBlZw.jpeg"
+        }
+      ],
+      "notes": "℗ 1975 CBS Inc. © 1975 CBS Inc.\n\nBack cover bottom; Mfd and dist by Columbia records Of Canada\n\nSpine: SPC [Shorewood Canada logo] Litho in Canada",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "When The Party's Over",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "2:57"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "At Seventeen",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:41"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "From Me To You",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "3:19"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Bright Lights And Promises",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:17"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "In The Winter",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "2:13"
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "title": "Watercolors",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:58"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Between The Lines",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:03"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "The Come On",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "3:56"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Light A Light",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "2:45"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Tea & Sympathy",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "4:28"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Lover's Lullaby",
+          "extraartists": [
+            {
+              "name": "Janis Ian",
+              "anv": "J. Ian",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 98825,
+              "resource_url": "https://api.discogs.com/artists/98825"
+            }
+          ],
+          "duration": "5:25"
+        }
+      ],
+      "url": "https://www.discogs.com/release/9642423",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-9642423-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/9yEg_1gLtpv9oOsIySIhlKqXQh2NqPJzm5tptJXKahc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Ni01NzI5LmpwZWc.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 597,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-9642423-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/aXwBkqaUPaS53NB98AfUw6d53eM0DJx9m65oHHVYMkM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Mi00NTIxLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 596,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-9642423-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/lFcxT3rlSwYC9jEiAGqFjtdLR4DF7wZ9mQP3npzaj2A/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/My00ODg1LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 596,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-9642423-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/CXA6zHWuP3P9muxV_00DppcJbN4U9p2iAxrOP7d5xHc/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/NS03MjE5LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 587,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-9642423-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/Mo3ROhMc69fNng6nn9r1o62x8SI-9Rg0JxF28uIzeUI/rs:fit/g:sm/q:90/h:600/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/NS05OTcyLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 474,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-22-discogs-9642423-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/891TT4cH1y-to271hW96JBh57FXBGDKjwxFYudqXvBg/rs:fit/g:sm/q:90/h:600/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Ni0zODQ1LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 497,
+          "height": 600,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

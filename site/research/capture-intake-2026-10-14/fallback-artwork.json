@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "policy": "Family photographs only where a documented clean external outer-back scan remains unavailable.",
+  "records": [
+    {
+      "recordId": "lower-middle-35",
+      "back": {
+        "localPath": "site/research/capture-intake-2026-10-14/family-artwork/IMG_3663-sleeve.jpg",
+        "source": "Family photograph",
+        "sourceUrl": null,
+        "releaseUrl": null,
+        "captureFilename": "IMG_3663.HEIC",
+        "captureOriginalSha256": "275dd938756b95d9716a6c7b5e43ff16832fd95aa1a3843312d06dd56f4067e0",
+        "catalogue": "WGS-8196",
+        "country": "Canada",
+        "sha256": "ea2645fbf23c41e191cadfbd4bffcceb47aa38998873169ff481fc5818337d24",
+        "dimensions": [
+          2200,
+          2200
+        ],
+        "editionNote": "Back of the family copy. No usable documented external outer-back scan was found. The original photograph was cropped and corrected for perspective; natural lighting and wear are retained.",
+        "visualReview": "Manually reviewed full-size before integration: outer-back perimeter, upright readable text, no tabletop, labels or inner pages substituted.",
+        "cropCalibration": "research/capture-intake-2026-10-14/fallback-crops.json",
+        "processing": "Original HEIC decoded with EXIF orientation; reviewed outer-jacket quadrilateral optically rectified, rotated upright, converted to sRGB and exported at 2200px. Capture metadata omitted. Printed artwork, wear and lighting retained."
+      }
+    },
+    {
+      "recordId": "lower-middle-43",
+      "back": {
+        "localPath": "site/research/capture-intake-2026-10-14/family-artwork/IMG_3665-sleeve.jpg",
+        "source": "Family photograph",
+        "sourceUrl": null,
+        "releaseUrl": null,
+        "captureFilename": "IMG_3665.HEIC",
+        "captureOriginalSha256": "8590e3c3cd0176380730b38c98af7aa5892fa67117400c93fa46527524936aa2",
+        "catalogue": "WGS-8163-3",
+        "country": "Canada",
+        "sha256": "bf9f19041edaa7ef28c7be0327d469484ae3012ad1c3cf717251bb52f9fb907f",
+        "dimensions": [
+          2200,
+          2200
+        ],
+        "editionNote": "Back of the family copy. No usable documented external outer-back scan was found. The original photograph was cropped and corrected for perspective; natural lighting and wear are retained.",
+        "visualReview": "Manually reviewed full-size before integration: outer-back perimeter, upright readable text, no tabletop, labels or inner pages substituted.",
+        "cropCalibration": "research/capture-intake-2026-10-14/fallback-crops.json",
+        "processing": "Original HEIC decoded with EXIF orientation; reviewed outer-jacket quadrilateral optically rectified, rotated upright, converted to sRGB and exported at 2200px. Capture metadata omitted. Printed artwork, wear and lighting retained."
+      }
+    }
+  ]
+}

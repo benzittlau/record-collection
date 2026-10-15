@@ -4286,11 +4286,11 @@
               555
             ],
             [
-              879,
+              872,
               1500
             ],
             [
-              1076,
+              1081,
               2932
             ],
             [
@@ -4303,12 +4303,13 @@
             ]
           ],
           "anchor": [
-            1064.5,
+            1067,
             2934.5
           ],
           "traceConfidence": "measured",
-          "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "notes": "Cabaret’s black face ends before Fricsay’s cream paper. Trim the middle-right boundary from879 to872; extend the old right heel slightly to1081 within the visible black face. Other cap/left anchors preserved.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
         },
         {
           "id": "lower-middle-04",
@@ -4318,19 +4319,19 @@
               565
             ],
             [
-              830.1,
-              544
+              791,
+              548
             ],
             [
-              934,
+              901,
               1500
             ],
             [
-              1098.7,
+              1111,
               2925
             ],
             [
-              1083.8,
+              1087,
               2934
             ],
             [
@@ -4339,12 +4340,49 @@
             ]
           ],
           "anchor": [
-            1091.2,
+            1099,
             2929.5
           ],
-          "traceConfidence": "estimated",
-          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "traceConfidence": "measured",
+          "notes": "The old wide cap/body included the separate gray Bream sleeve. Keep Fricsay on the cream band between Cabaret’s black spine and the gray seam; cap-right791, body-right901. Correct its displaced foot onto the visible cream rounded heel.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
+        },
+        {
+          "id": "lower-middle-04b",
+          "polygon": [
+            [
+              796,
+              539
+            ],
+            [
+              825,
+              542
+            ],
+            [
+              928,
+              1500
+            ],
+            [
+              1140,
+              2918
+            ],
+            [
+              1119,
+              2927
+            ],
+            [
+              906,
+              1500
+            ]
+          ],
+          "anchor": [
+            1129.5,
+            2922.5
+          ],
+          "traceConfidence": "measured",
+          "notes": "New stable inserted sleeve. The narrow gray band is visible from cap through body to the foot reading Westminster Gold Series. The earlier1101–1116 foot proposal landed on the cream neighbor; corrected foot is1119–1140.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
         },
         {
           "id": "lower-middle-05",
@@ -4354,33 +4392,34 @@
               543
             ],
             [
-              860.2,
+              858,
               544
             ],
             [
-              963,
+              959,
               1500
             ],
             [
-              1124.8,
-              2927
+              1167,
+              2907
             ],
             [
-              1104.4,
-              2940
+              1145,
+              2915
             ],
             [
-              938,
+              933,
               1500
             ]
           ],
           "anchor": [
-            1114.6,
-            2933.5
+            1156,
+            2911
           ],
-          "traceConfidence": "estimated",
-          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "traceConfidence": "measured",
+          "notes": "Firebird’s pale Philips sleeve is immediately right of the gray Bream band. Shift the old foot1104–1125 to the actual pale Philips band1145–1167. Slight body/cap insets exclude the seams.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
         },
         {
           "id": "lower-middle-06",
@@ -4402,7 +4441,7 @@
               2911
             ],
             [
-              1127.7,
+              1173,
               2918
             ],
             [
@@ -4411,12 +4450,13 @@
             ]
           ],
           "anchor": [
-            1155.7,
+            1178.35,
             2914.5
           ],
-          "traceConfidence": "estimated",
-          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "traceConfidence": "measured",
+          "notes": "Required minimal adjacent adjustment: keep all existing06 cap, body, right-foot and endpoint heights, but move only left-foot x1127.7 to1173. The old left edge crosses the actual Bream and Firebird feet. This conservative mask covers the left portion of the photographed Ravel heel while retaining a gap before unchanged07.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
         },
         {
           "id": "lower-middle-07",
@@ -9258,15 +9298,15 @@
               430
             ],
             [
-              764,
-              427
+              742,
+              429
             ],
             [
-              907,
+              876,
               1500
             ],
             [
-              1044,
+              1026,
               2606
             ],
             [
@@ -9279,10 +9319,48 @@
             ]
           ],
           "anchor": [
-            1024,
+            1015,
             2608
           ],
-          "notes": "Unidentified cream edge retained as its catalogue slot. Its pale contour is traced, but it may be an adjacent sleeve/box-set fold; title and exact ownership remain unresolved."
+          "notes": "Broad cream Django spine on the Giant Box side of the visible dark divider. Conservative interior of the old region; outer left bound retained.",
+          "traceConfidence": "measured",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
+        },
+        {
+          "id": "right-04b",
+          "polygon": [
+            [
+              749,
+              428
+            ],
+            [
+              764,
+              427
+            ],
+            [
+              899,
+              1500
+            ],
+            [
+              1044,
+              2606
+            ],
+            [
+              1032,
+              2606
+            ],
+            [
+              885,
+              1500
+            ]
+          ],
+          "anchor": [
+            1038,
+            2606
+          ],
+          "traceConfidence": "measured",
+          "notes": "Narrow pale sleeve between Django and Hubert. Excludes the dark dividing groove and trims the old mask’s middle-right edge to avoid black Hubert material.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
         },
         {
           "id": "right-05",

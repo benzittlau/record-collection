@@ -1,0 +1,57 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 25,
+    "items": 1,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "Canada",
+      "genre": [
+        "Classical"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Mono"
+      ],
+      "style": [
+        "Baroque"
+      ],
+      "id": 9677359,
+      "label": [
+        "ABC Westminster Gold",
+        "Westminster Gold",
+        "GRT Of Canada Ltd.",
+        "GRT Of Canada Ltd."
+      ],
+      "type": "release",
+      "barcode": [],
+      "master_id": 353424,
+      "master_url": "https://api.discogs.com/masters/353424",
+      "uri": "/release/9677359-Julian-Bream-Plays-Bach",
+      "catno": "9008-8113",
+      "title": "Julian Bream - Plays Bach",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9677359",
+      "community": {
+        "want": 9,
+        "have": 23
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Mono"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Brief+Replies%22+AND+artist%3A%22Ten+Wheel+Drive%22&fmt=json&limit=100",
+  "retrieved": "2026-10-15T03:16:12Z",
+  "data": {
+    "created": "2026-10-15T03:16:12.051Z",
+    "count": 5,
+    "offset": 0,
+    "releases": [
+      {
+        "id": "8f795612-1bb1-4597-a239-4d8960dc9437",
+        "score": 100,
+        "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "2413c0c6-7e71-48ae-9a1b-b21f009ebafa",
+        "count": 1,
+        "title": "Brief Replies",
+        "status": "Bootleg",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "joinphrase": " with ",
+            "name": "Ten Wheel Drive",
+            "artist": {
+              "id": "888c157b-5a52-4119-b609-08b66b379c30",
+              "name": "Ten Wheel Drive",
+              "sort-name": "Ten Wheel Drive"
+            }
+          },
+          {
+            "name": "Genya Ravan",
+            "artist": {
+              "id": "26dac2bf-2992-4768-b244-f8423a027510",
+              "name": "Goldie Zelkowitz",
+              "sort-name": "Zelkowitz, Goldie",
+              "disambiguation": "pop rock singer Goldie"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "b5326191-d9cc-4459-b173-fb7eb637b6d8",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Brief Replies",
+          "primary-type": "Album"
+        },
+        "date": "",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "label-info": [
+          {
+            "catalog-number": "IAM-TWD-001",
+            "label": {
+              "id": "2ae41ae3-7529-4eec-8e31-9c7c257eca7f",
+              "name": "ItsAboutMusic.com"
+            }
+          }
+        ],
+        "track-count": 8,
+        "media": [
+          {
+            "id": "aa498a68-aa7d-3923-ba41-f0a2e07a3b01",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 8
+          }
+        ]
+      },
+      {
+        "id": "ca82d577-8542-4054-a8c5-fdf70fbfd51e",
+        "score": 100,
+        "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "2413c0c6-7e71-48ae-9a1b-b21f009ebafa",
+        "count": 1,
+        "title": "Brief Replies",
+        "status": "Bootleg",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "joinphrase": " with ",
+            "name": "Ten Wheel Drive",
+            "artist": {
+              "id": "888c157b-5a52-4119-b609-08b66b379c30",
+              "name": "Ten Wheel Drive",
+              "sort-name": "Ten Wheel Drive"
+            }
+          },
+          {
+            "name": "Genya Ravan",
+            "artist": {
+              "id": "26dac2bf-2992-4768-b244-f8423a027510",
+              "name": "Goldie Zelkowitz",
+              "sort-name": "Zelkowitz, Goldie",
+              "disambiguation": "pop rock singer Goldie"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "b5326191-d9cc-4459-b173-fb7eb637b6d8",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Brief Replies",
+          "primary-type": "Album"
+        },
+        "date": "2019",
+        "country": "KR",
+        "release-events": [
+          {
+            "date": "2019",
+            "area": {
+              "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+              "name": "South Korea",
+              "sort-name": "South Korea",
+              "iso-3166-1-codes": [
+                "KR"
+              ]
+            }
+          }
+        ],
+        "barcode": "8809270026183",
+        "label-info": [
+          {
+            "catalog-number": "BIG PINK 611",
+            "label": {
+              "id": "c4316b82-561b-4eff-933d-c923cb90608e",
+              "name": "Big Pink"
+            }
+          }
+        ],
+        "track-count": 8,
+        "media": [
+          {
+            "id": "19f55c14-b5af-331d-b91a-cdc05278cd5b",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 8
+          }
+        ]
+      },
+      {
+        "id": "20aa2301-2fe1-49fc-8e4d-49d0a6766475",
+        "score": 100,
+        "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "2413c0c6-7e71-48ae-9a1b-b21f009ebafa",
+        "count": 1,
+        "title": "Brief Replies",
+        "status": "Bootleg",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "joinphrase": " with ",
+            "name": "Ten Wheel Drive",
+            "artist": {
+              "id": "888c157b-5a52-4119-b609-08b66b379c30",
+              "name": "Ten Wheel Drive",
+              "sort-name": "Ten Wheel Drive"
+            }
+          },
+          {
+            "name": "Genya Ravan",
+            "artist": {
+              "id": "26dac2bf-2992-4768-b244-f8423a027510",
+              "name": "Goldie Zelkowitz",
+              "sort-name": "Zelkowitz, Goldie",
+              "disambiguation": "pop rock singer Goldie"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "b5326191-d9cc-4459-b173-fb7eb637b6d8",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Brief Replies",
+          "primary-type": "Album"
+        },
+        "date": "2019-10-30",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "2019-10-30",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "4540399058610",
+        "label-info": [
+          {
+            "catalog-number": "BIG PINK 611",
+            "label": {
+              "id": "c4316b82-561b-4eff-933d-c923cb90608e",
+              "name": "Big Pink"
+            }
+          },
+          {
+            "catalog-number": "VSCD-5861",
+            "label": {
+              "id": "ed1a2a21-a7a1-4323-b874-289e050a2bc0",
+              "name": "ViViD SOUND"
+            }
+          }
+        ],
+        "track-count": 8,
+        "media": [
+          {
+            "id": "2a2f7e30-838b-34fe-b2ce-0eeb5cd017a9",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 8
+          }
+        ]
+      },
+      {
+        "id": "e933ba93-fa31-40b7-9af7-5083a49c52a9",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+        "artist-credit-id": "2413c0c6-7e71-48ae-9a1b-b21f009ebafa",
+        "count": 1,
+        "title": "Brief Replies",
+        "status": "Official",
+        "packaging": "Gatefold Cover",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "joinphrase": " with ",
+            "name": "Ten Wheel Drive",
+            "artist": {
+              "id": "888c157b-5a52-4119-b609-08b66b379c30",
+              "name": "Ten Wheel Drive",
+              "sort-name": "Ten Wheel Drive"
+            }
+          },
+          {
+            "name": "Genya Ravan",
+            "artist": {
+              "id": "26dac2bf-2992-4768-b244-f8423a027510",
+              "name": "Goldie Zelkowitz",
+              "sort-name": "Zelkowitz, Goldie",
+              "disambiguation": "pop rock singer Goldie"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "b5326191-d9cc-4459-b173-fb7eb637b6d8",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Brief Replies",
+          "primary-type": "Album"
+        },
+        "date": "1970",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1970",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "24-4024",
+            "label": {
+              "id": "ce24ab18-1bd6-4293-a486-546d13d6a5e2",
+              "name": "Polydor"
+            }
+          }
+        ],
+        "track-count": 8,
+        "media": [
+          {
+            "id": "d0b15a40-3491-329a-8624-638ed6d1fe40",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 8
+          }
+        ]
+      },
+      {
+        "id": "5a23d737-2713-446f-a945-1e445dbe63fe",
+        "score": 100,
+        "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "2413c0c6-7e71-48ae-9a1b-b21f009ebafa",
+        "count": 1,
+        "title": "Brief Replies",
+        "status": "Promotion",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "joinphrase": " with ",
+            "name": "Ten Wheel Drive",
+            "artist": {
+              "id": "888c157b-5a52-4119-b609-08b66b379c30",
+              "name": "Ten Wheel Drive",
+              "sort-name": "Ten Wheel Drive"
+            }
+          },
+          {
+            "name": "Genya Ravan",
+            "artist": {
+              "id": "26dac2bf-2992-4768-b244-f8423a027510",
+              "name": "Goldie Zelkowitz",
+              "sort-name": "Zelkowitz, Goldie",
+              "disambiguation": "pop rock singer Goldie"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "b5326191-d9cc-4459-b173-fb7eb637b6d8",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Brief Replies",
+          "primary-type": "Album"
+        },
+        "date": "1970-12",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "1970-12",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "MP2120",
+            "label": {
+              "id": "ce24ab18-1bd6-4293-a486-546d13d6a5e2",
+              "name": "Polydor"
+            }
+          }
+        ],
+        "track-count": 8,
+        "media": [
+          {
+            "id": "8525dfe2-e9be-30e7-b3a0-91cb04065636",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 8
+          }
+        ]
+      }
+    ]
+  }
+}

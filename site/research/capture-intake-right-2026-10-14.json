@@ -1,0 +1,908 @@
+{
+  "version": 1,
+  "status": "proposal-only",
+  "createdAt": "2026-10-15T03:07:43.888822+00:00",
+  "batch": "2026-10-14",
+  "box": "right",
+  "boxNumber": 5,
+  "frozenGuide": "site/research/capture-plans/7ac3efbb41aa.json",
+  "scope": "Box 5 identification and source-order proposal. No canonical catalogue, mask, app or artwork files changed.",
+  "summary": {
+    "capturedPhysicalItems": 3,
+    "recordPairs": 2,
+    "bookPairs": 1,
+    "newlyIdentifiedExistingSlot": "right-04",
+    "insertedPhysicalSleeveRequired": "right-04b",
+    "insertedSourceOrder": 4.5,
+    "existingConfirmedBook": "right-52",
+    "uncapturedConditionalSlot": "right-30",
+    "boxBoundary": "IMG_3674.HEIC",
+    "rotationBasis": "All six EXIF-normalized JPEG previews are upright. Additional clockwise rotation is 0 degrees per face. Raw HEIC EXIF orientation 6 is handled before that."
+  },
+  "sourceOrder": [
+    {
+      "id": "right-03",
+      "title": "Giant Box",
+      "status": "existing unchanged"
+    },
+    {
+      "id": "right-04",
+      "title": "Django Reinhardt / Stephane Grappelly with The Quintet of the Hot Club of France",
+      "status": "identify existing combined cream-spine slot"
+    },
+    {
+      "id": "right-04b",
+      "title": "Brazil Blues",
+      "artist": "Herbie Mann",
+      "sourceOrder": 4.5,
+      "status": "new separate physical sleeve inside previous combined mask"
+    },
+    {
+      "id": "right-05",
+      "title": "Afro-Classic",
+      "artist": "Hubert Laws",
+      "status": "existing unchanged"
+    }
+  ],
+  "pairs": [
+    {
+      "proposedId": "right-04",
+      "operation": "identify-existing-slot",
+      "frozenGuidePair": 45,
+      "sourceOrder": 4,
+      "kind": "record",
+      "title": "The Quintet of the Hot Club of France",
+      "displayTitle": "Django Reinhardt / Stephane Grappelly with The Quintet of the Hot Club of France",
+      "artist": "Django Reinhardt & Stéphane Grappelli",
+      "printedArtist": "Django Reinhardt / Stephane Grappelly",
+      "confidence": "confirmed",
+      "physicalCatalogueNumbers": [
+        "GNP-9001"
+      ],
+      "label": "GNP Crescendo",
+      "series": "Vintage Series",
+      "printedFormat": "MONO PLAYABLE STEREO",
+      "year": null,
+      "yearNote": "The compilation is catalogued as a 1965 issue by two discographies, but no printing date is visible on this family jacket. Do not claim an exact pressing year from the photos.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3674.HEIC",
+          "rawPath": "captures/2026-10-14/IMG_3674.HEIC",
+          "previewPath": "previews/IMG_3674.jpg",
+          "captureSequence": 85,
+          "capturedAtLocal": "2026:10:14 20:39:27.086",
+          "timezone": "America/Edmonton",
+          "sha256": "dbdfd7b5ac40203faa09cceefea224487d30eda5bce10329d547ace901b57cf6",
+          "rawExifOrientation": 6,
+          "clockwiseRotationAfterExifNormalization": 0,
+          "visualCheck": "Upright outer LP front. Artist names, ensemble and GNP-9001 are clear; aged jacket and all four face corners visible.",
+          "manualOuterQuad": {
+            "coordinateSpace": "EXIF-normalized preview; top-left origin; normalized to width/height",
+            "cornerOrder": [
+              "TL",
+              "TR",
+              "BR",
+              "BL"
+            ],
+            "previewDimensions": [
+              1800,
+              2400
+            ],
+            "normalized": [
+              [
+                0.06,
+                0.12
+              ],
+              [
+                0.9211111,
+                0.1375
+              ],
+              [
+                0.9727778,
+                0.7929167
+              ],
+              [
+                0.0172222,
+                0.8075
+              ]
+            ],
+            "pixels": [
+              [
+                108,
+                288
+              ],
+              [
+                1658,
+                330
+              ],
+              [
+                1751,
+                1903
+              ],
+              [
+                31,
+                1938
+              ]
+            ],
+            "method": "Manually inspected full outer face and worn paper edges in the normalized preview, independently of document/rectangle candidates.",
+            "additionalClockwiseRotation": 0,
+            "edgeCaveat": "Slightly conservative outer-edge coordinates preserve the worn paper border; tiny background fragments are preferable to cutting paper."
+          }
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3675.HEIC",
+          "rawPath": "captures/2026-10-14/IMG_3675.HEIC",
+          "previewPath": "previews/IMG_3675.jpg",
+          "captureSequence": 86,
+          "capturedAtLocal": "2026:10:14 20:39:30.965",
+          "timezone": "America/Edmonton",
+          "sha256": "5f931433dd4f544da3bad0a376e95c421ca2e6d436848657e7804c6ec7b608a1",
+          "rawExifOrientation": 6,
+          "clockwiseRotationAfterExifNormalization": 0,
+          "visualCheck": "Upright outer LP back. Fourteen-track programme, recording sessions, GNP-9001 and artist names are readable; no CD tray or inner gatefold ambiguity.",
+          "manualOuterQuad": {
+            "coordinateSpace": "EXIF-normalized preview; top-left origin; normalized to width/height",
+            "cornerOrder": [
+              "TL",
+              "TR",
+              "BR",
+              "BL"
+            ],
+            "previewDimensions": [
+              1800,
+              2400
+            ],
+            "normalized": [
+              [
+                0.0516667,
+                0.11875
+              ],
+              [
+                0.9627778,
+                0.1304167
+              ],
+              [
+                0.9938889,
+                0.8275
+              ],
+              [
+                0.0105556,
+                0.8320833
+              ]
+            ],
+            "pixels": [
+              [
+                93,
+                285
+              ],
+              [
+                1733,
+                313
+              ],
+              [
+                1789,
+                1986
+              ],
+              [
+                19,
+                1997
+              ]
+            ],
+            "method": "Manually inspected full outer face and worn paper edges in the normalized preview, independently of document/rectangle candidates.",
+            "additionalClockwiseRotation": 0,
+            "edgeCaveat": "Slightly conservative outer-edge coordinates preserve the worn paper border; tiny background fragments are preferable to cutting paper."
+          }
+        }
+      ],
+      "physicalMatch": {
+        "confidence": "confirmed",
+        "evidence": [
+          "The original room photo has a wide cream spine immediately after Giant Box reading DJANGO REINHARDT / STEPHANE GRAPPELLY; the old DANCES … RENA… transcription was incorrect.",
+          "The new front and rear both print GNP-9001 and the same named musicians.",
+          "The user explicitly said there were two albums before Hubert Laws and captured both; the Django pair is followed immediately by the Herbie Mann pair."
+        ],
+        "roomPhoto": "reference/IMG_3573.jpg",
+        "sourcePhoto": "site/dist/assets/boxes/right.jpg",
+        "roomSpineText": "DJANGO REINHARDT / STEPHANE GRAPPELLY …",
+        "existingMaskIssue": "Old right-04 combines this broad printed cream sleeve and the adjacent narrower pale sleeve."
+      },
+      "programme": {
+        "sideOne": [
+          "Honeysuckle Rose",
+          "Night and Day",
+          "Black and White",
+          "Sweet Georgia Brown",
+          "Belleville",
+          "Souvenirs",
+          "My Sweet"
+        ],
+        "sideTwo": [
+          "Liza",
+          "Stomping at Decca",
+          "Love’s Melody",
+          "Daphne",
+          "Lambeth Walk",
+          "Nuages",
+          "H.C.Q. Strut"
+        ],
+        "trackCount": 14,
+        "sessionKeys": {
+          "A": {
+            "printedDate": "1946-02-01",
+            "location": "London",
+            "personnel": [
+              "Stéphane Grappelli — violin",
+              "Django Reinhardt, Jack Llewellyn, Alan Hodgkiss — guitars",
+              "Coleridge Goode — bass"
+            ]
+          },
+          "B": {
+            "printedDate": "1939-08-25",
+            "location": "London",
+            "personnel": [
+              "Stéphane Grappelli — violin",
+              "Django Reinhardt, Joseph Reinhardt, Eugène Vées — guitars",
+              "Emmannuel Soudieux — bass"
+            ]
+          },
+          "C": {
+            "printedDate": "1938-08-30",
+            "location": "London",
+            "personnel": "Same as B except Roger Grasset replaces Emmannuel Soudieux on bass."
+          },
+          "D": {
+            "printedDate": "1938-01-31",
+            "location": "London",
+            "personnel": [
+              "Stéphane Grappelli — violin",
+              "Django Reinhardt, Roger Chaput, Eugène Vées — guitars",
+              "Louis Vola — bass"
+            ]
+          }
+        },
+        "trackSessionKeys": [
+          "D",
+          "D",
+          "D",
+          "D",
+          "A",
+          "D",
+          "D",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B"
+        ],
+        "recordingCaution": "Rear liner notes state that this Nuages uses the repeat take without the verse, with a different Django solo from the previously issued take. A streaming compilation with the same titles alone is not sufficient proof."
+      },
+      "sources": [
+        {
+          "type": "family-photo",
+          "path": "captures/2026-10-14/IMG_3674.HEIC"
+        },
+        {
+          "type": "family-photo",
+          "path": "captures/2026-10-14/IMG_3675.HEIC"
+        },
+        {
+          "type": "original-room-photo",
+          "path": "reference/IMG_3573.jpg"
+        },
+        {
+          "type": "secondary-catalogue-context",
+          "url": "https://www.bsnpubs.com/la/gnp/06gnp9000.html",
+          "supports": "GNP 9001 album identity and 1965 first-issue listing; not family printing date"
+        },
+        {
+          "type": "contemporary-discography",
+          "url": "https://www.worldradiohistory.com/Archive-All-Music/DownBeat/80s/81/DB-1981-04.pdf",
+          "supports": "With the Quintet of the Hot Club of France, GNP Crescendo 9001"
+        }
+      ],
+      "spotify": {
+        "existingSpotifyId": null,
+        "action": "Do not inherit any neighboring ID. Exact 14-track compilation and Nuages take require independent streaming verification.",
+        "researchStatus": "unresolved-specific-take"
+      }
+    },
+    {
+      "proposedId": "right-04b",
+      "operation": "insert-physical-sleeve",
+      "frozenGuidePair": 45,
+      "sourceOrder": 4.5,
+      "preserveExistingIdsAndPositions": true,
+      "kind": "record",
+      "title": "Brazil Blues",
+      "artist": "Herbie Mann",
+      "confidence": "confirmed",
+      "physicalCatalogueNumbers": [
+        "UAS 5636"
+      ],
+      "label": "United Artists Records",
+      "series": "The Douglas Collection",
+      "printedFormat": "STEREO",
+      "year": 1972,
+      "yearBasis": "Physical rear prints © MCMLXXII. This dates the reissue jacket, not the original recording.",
+      "country": null,
+      "countryNote": "Rear includes a U.A. Records Limited manufacturing/distribution overprint in addition to the printed Los Angeles base copyright. Exact pressing country needs label/runout evidence; do not label the family copy an exact US pressing from a database match.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3676.HEIC",
+          "rawPath": "captures/2026-10-14/IMG_3676.HEIC",
+          "previewPath": "previews/IMG_3676.jpg",
+          "captureSequence": 87,
+          "capturedAtLocal": "2026:10:14 20:39:44.508",
+          "timezone": "America/Edmonton",
+          "sha256": "720e8d4daac3a9a57c5f9868390f9a826473765090c4897f99cdc794982c8c0a",
+          "rawExifOrientation": 6,
+          "clockwiseRotationAfterExifNormalization": 0,
+          "visualCheck": "Upright outer LP front; Herbie Mann and Brazil Blues are clear. Auto rectangle selects the inner photograph and omits the title/header, so crop outer corners manually.",
+          "manualOuterQuad": {
+            "coordinateSpace": "EXIF-normalized preview; top-left origin; normalized to width/height",
+            "cornerOrder": [
+              "TL",
+              "TR",
+              "BR",
+              "BL"
+            ],
+            "previewDimensions": [
+              1800,
+              2400
+            ],
+            "normalized": [
+              [
+                0.0111111,
+                0.0866667
+              ],
+              [
+                0.9527778,
+                0.09125
+              ],
+              [
+                0.9994444,
+                0.8170833
+              ],
+              [
+                0.0,
+                0.8245833
+              ]
+            ],
+            "pixels": [
+              [
+                20,
+                208
+              ],
+              [
+                1715,
+                219
+              ],
+              [
+                1799,
+                1961
+              ],
+              [
+                0,
+                1979
+              ]
+            ],
+            "method": "Manually inspected full outer face and worn paper edges in the normalized preview, independently of document/rectangle candidates.",
+            "additionalClockwiseRotation": 0,
+            "edgeCaveat": "Several outer edges approach or touch the camera frame. These points preserve the visible face through the frame edge; do not generate or extrapolate missing paper."
+          }
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3677.HEIC",
+          "rawPath": "captures/2026-10-14/IMG_3677.HEIC",
+          "previewPath": "previews/IMG_3677.jpg",
+          "captureSequence": 88,
+          "capturedAtLocal": "2026:10:14 20:39:48.412",
+          "timezone": "America/Edmonton",
+          "sha256": "047b537cd7bac512b1aed8ed38d1a1aac5749e9ccaf3da597b5454055f6a2562",
+          "rawExifOrientation": 6,
+          "clockwiseRotationAfterExifNormalization": 0,
+          "visualCheck": "Upright outer LP back; six-track programme at left, catalogue UAS 5636 and 1972 copyright are readable. No automatic rectangle was returned; use outer jacket corners.",
+          "manualOuterQuad": {
+            "coordinateSpace": "EXIF-normalized preview; top-left origin; normalized to width/height",
+            "cornerOrder": [
+              "TL",
+              "TR",
+              "BR",
+              "BL"
+            ],
+            "previewDimensions": [
+              1800,
+              2400
+            ],
+            "normalized": [
+              [
+                0.01,
+                0.07125
+              ],
+              [
+                0.9755556,
+                0.0829167
+              ],
+              [
+                0.9994444,
+                0.8141667
+              ],
+              [
+                0.0,
+                0.8216667
+              ]
+            ],
+            "pixels": [
+              [
+                18,
+                171
+              ],
+              [
+                1756,
+                199
+              ],
+              [
+                1799,
+                1954
+              ],
+              [
+                0,
+                1972
+              ]
+            ],
+            "method": "Manually inspected full outer face and worn paper edges in the normalized preview, independently of document/rectangle candidates.",
+            "additionalClockwiseRotation": 0,
+            "edgeCaveat": "Several outer edges approach or touch the camera frame. These points preserve the visible face through the frame edge; do not generate or extrapolate missing paper."
+          }
+        }
+      ],
+      "physicalMatch": {
+        "confidence": "confirmed-identity; placement-supported-by-user-and-sequence",
+        "evidence": [
+          "The user explicitly identified two albums before Hubert Laws.",
+          "The new Herbie Mann front/back pair follows the spine-anchored Django pair and precedes Views; all photos are chronological.",
+          "The original room photo shows a distinct narrow pale sleeve between the broad Django sleeve and the black/blue Hubert Laws spine. Its own title is not readable in that room photo."
+        ],
+        "roomPhoto": "reference/IMG_3573.jpg",
+        "sourcePhoto": "site/dist/assets/boxes/right.jpg",
+        "roomSpineText": "Narrow pale unlettered/unreadable edge",
+        "existingMaskIssue": "Insert a new stable ID right-04b at source order 4.5; split the old right-04 mask. Do not rename Hubert Laws right-05 or shift subsequent stable IDs."
+      },
+      "programme": {
+        "sideOne": [
+          "Brazil",
+          "Copacabana",
+          "Minha Saudade"
+        ],
+        "sideTwo": [
+          "B.N. Blues",
+          "One Note Samba",
+          "Me Faz Recorar"
+        ],
+        "trackCount": 6,
+        "printedReissueNote": "This album has been previously issued under #UAJ 15009 & SS 18020.",
+        "personnel": [
+          "Herbie Mann — flute",
+          "Billy Bean — guitar",
+          "Carlos (Potato) Valdez — conga",
+          "Willie Bobo — drums",
+          "Haygood Hardy — vibes",
+          "Dave Pike — marimba",
+          "Bill Salter — bass",
+          "Jose de Paula — tambourine",
+          "Carmen Costa — maracas"
+        ],
+        "producer": "Alan Douglas",
+        "engineer": "Bill Schwartau",
+        "printedSpellingNote": "The family rear prints ME FAZ RECORAR. Other editions commonly print Me Faz Recordar.",
+        "rearDiscographyWarning": "The many additional album titles on the rear are a Herbie Mann discography, not additional tracks on this LP."
+      },
+      "sources": [
+        {
+          "type": "family-photo",
+          "path": "captures/2026-10-14/IMG_3676.HEIC"
+        },
+        {
+          "type": "family-photo",
+          "path": "captures/2026-10-14/IMG_3677.HEIC"
+        },
+        {
+          "type": "original-room-photo",
+          "path": "reference/IMG_3573.jpg"
+        },
+        {
+          "type": "contemporary-release-list",
+          "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1972/BB-1972-12-02.pdf",
+          "supports": "Lists Herbie Mann Brazil Blues, United Artists UAS 5636 in December 1972."
+        },
+        {
+          "type": "secondary-catalogue-context",
+          "url": "https://www.bsnpubs.com/ua/ua5500.pdf",
+          "supports": "UAS 5636 reissue, 1972, same six titles."
+        }
+      ],
+      "spotify": {
+        "existingSpotifyId": null,
+        "action": "New identity: never inherit Herbie Hancock right-11 or Hubert Laws right-05. Verify the six-track programme, including possible original title Brazil, Bossa Nova & Blues.",
+        "researchStatus": "matched",
+        "proposedSpotifyId": "6XO6EaQ8soeQN2xCyRlT49"
+      }
+    },
+    {
+      "proposedId": "right-52",
+      "operation": "replace-reference-art-with-family-copy",
+      "frozenGuidePair": 47,
+      "sourceOrder": 52,
+      "kind": "book",
+      "title": "Views",
+      "artist": "Roger Dean",
+      "confidence": "confirmed",
+      "physicalIsbn": "090507100X",
+      "publisher": "Dragon’s Dream / Big ‘O’",
+      "printedPrice": "£3.95 (net U.K. only)",
+      "originalPublicationYear": 1975,
+      "physicalPrintingYear": null,
+      "yearNote": "The family back verifies the historical paperback ISBN and publisher imprint. These two exterior faces do not establish the particular printing year. Roger Dean’s official site dates initial publication to 1975; existing 1976 is not a verified date for this copy.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3678.HEIC",
+          "rawPath": "captures/2026-10-14/IMG_3678.HEIC",
+          "previewPath": "previews/IMG_3678.jpg",
+          "captureSequence": 89,
+          "capturedAtLocal": "2026:10:14 20:41:12.080",
+          "timezone": "America/Edmonton",
+          "sha256": "f49516b79a1a9478cd59671f6f95f79a374cae4532c468ab09a7ed54f006b312",
+          "rawExifOrientation": 6,
+          "clockwiseRotationAfterExifNormalization": 0,
+          "visualCheck": "Upright worn black square paperback outer front with gold Views title and Roger Dean signature/illustration; outer face and all lettering visible; lower side margins reach the camera frame. Automatic rectangle is inaccurate at lower edge.",
+          "manualOuterQuad": {
+            "coordinateSpace": "EXIF-normalized preview; top-left origin; normalized to width/height",
+            "cornerOrder": [
+              "TL",
+              "TR",
+              "BR",
+              "BL"
+            ],
+            "previewDimensions": [
+              1800,
+              2400
+            ],
+            "normalized": [
+              [
+                0.0144444,
+                0.12625
+              ],
+              [
+                0.9077778,
+                0.1154167
+              ],
+              [
+                0.9994444,
+                0.81625
+              ],
+              [
+                0.0,
+                0.84
+              ]
+            ],
+            "pixels": [
+              [
+                26,
+                303
+              ],
+              [
+                1634,
+                277
+              ],
+              [
+                1799,
+                1959
+              ],
+              [
+                0,
+                2016
+              ]
+            ],
+            "method": "Manually inspected full outer face and worn paper edges in the normalized preview, independently of document/rectangle candidates.",
+            "additionalClockwiseRotation": 0,
+            "edgeCaveat": "Several outer edges approach or touch the camera frame. These points preserve the visible face through the frame edge; do not generate or extrapolate missing paper."
+          }
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3679.HEIC",
+          "rawPath": "captures/2026-10-14/IMG_3679.HEIC",
+          "previewPath": "previews/IMG_3679.jpg",
+          "captureSequence": 90,
+          "capturedAtLocal": "2026:10:14 20:41:20.277",
+          "timezone": "America/Edmonton",
+          "sha256": "5b97ed7c3a5fc5f3b1ab9b21b4fcee0cefc14b32e641f2aae504a86b126a8e43",
+          "rawExifOrientation": 6,
+          "clockwiseRotationAfterExifNormalization": 0,
+          "visualCheck": "Upright outer book back with Dragon’s Dream logo, printed ISBN 0 905071 00 X, publisher and UK price; automatic rectangle identifies the dragon logo, not the outer cover.",
+          "manualOuterQuad": {
+            "coordinateSpace": "EXIF-normalized preview; top-left origin; normalized to width/height",
+            "cornerOrder": [
+              "TL",
+              "TR",
+              "BR",
+              "BL"
+            ],
+            "previewDimensions": [
+              1800,
+              2400
+            ],
+            "normalized": [
+              [
+                0.0027778,
+                0.1029167
+              ],
+              [
+                0.9633333,
+                0.0779167
+              ],
+              [
+                0.9994444,
+                0.8325
+              ],
+              [
+                0.0,
+                0.8175
+              ]
+            ],
+            "pixels": [
+              [
+                5,
+                247
+              ],
+              [
+                1734,
+                187
+              ],
+              [
+                1799,
+                1998
+              ],
+              [
+                0,
+                1962
+              ]
+            ],
+            "method": "Manually inspected full outer face and worn paper edges in the normalized preview, independently of document/rectangle candidates.",
+            "additionalClockwiseRotation": 0,
+            "edgeCaveat": "Several outer edges approach or touch the camera frame. These points preserve the visible face through the frame edge; do not generate or extrapolate missing paper."
+          }
+        }
+      ],
+      "physicalMatch": {
+        "confidence": "confirmed",
+        "evidence": [
+          "The room spine explicitly names ROGER DEAN VIEWS and DRAGON’S DREAM.",
+          "Captured front prints Roger Dean / Views; rear ISBN, Dragon’s Dream / Big O imprint and historical square paperback design agree."
+        ],
+        "roomPhoto": "reference/IMG_3573.jpg",
+        "sourcePhoto": "site/dist/assets/boxes/right.jpg",
+        "exactPrintingVerified": false
+      },
+      "sources": [
+        {
+          "type": "family-photo",
+          "path": "captures/2026-10-14/IMG_3678.HEIC"
+        },
+        {
+          "type": "family-photo",
+          "path": "captures/2026-10-14/IMG_3679.HEIC"
+        },
+        {
+          "type": "artist-primary",
+          "url": "https://www.rogerdean.com/testimonials",
+          "supports": "Richard Branson’s foreword dates original Views to two years after summer 1973, i.e. 1975."
+        }
+      ],
+      "spotify": {
+        "existingSpotifyId": null,
+        "action": "Remain unlinked; this is a book."
+      }
+    }
+  ],
+  "unmatchedGuideSlots": [
+    {
+      "id": "right-30",
+      "guidePair": 46,
+      "status": "no captured pair found",
+      "possibleExplanation": "The guide made this conditional because it may be a fold of Journey to the Centre of the Earth. Omission is consistent with a skip but does not independently prove a fold.",
+      "suggestedAction": "Do not attach Herbie Mann to this ID. Keep an explicit unresolved/conditional alias until user confirmation or stronger physical evidence; root may apply any additional user-provided fold confirmation."
+    }
+  ],
+  "duplicatesAndExtras": {
+    "byteIdenticalDuplicates": [],
+    "box5Retakes": [],
+    "extraPhysicalSleeves": [
+      {
+        "proposedId": "right-04b",
+        "filenames": [
+          "IMG_3676.HEIC",
+          "IMG_3677.HEIC"
+        ],
+        "reason": "Two distinct jackets were captured for the one frozen guide region right-04."
+      }
+    ],
+    "sequenceBoundaryEvidence": [
+      {
+        "filenames": [
+          "IMG_3670.HEIC",
+          "IMG_3671.HEIC"
+        ],
+        "identity": "David Grisman Quintet ’80",
+        "box": "lower-middle",
+        "status": "Prior Box 4 pair; middle agent owns exact identity mapping."
+      },
+      {
+        "filenames": [
+          "IMG_3672.HEIC",
+          "IMG_3673.HEIC"
+        ],
+        "identity": "Organisation — Orchestral Manoeuvres in the Dark, VL 2206",
+        "box": "lower-middle",
+        "status": "Prior Box 4 final pair; not Box 5."
+      }
+    ]
+  },
+  "sequenceQa": {
+    "inventory": "tmp/capture-intake-2026-10-14/inventory.json",
+    "actualImageCount": 90,
+    "distinctSha256Count": 90,
+    "filenameRange": [
+      "IMG_3588.HEIC",
+      "IMG_3679.HEIC"
+    ],
+    "missingNumbers": [
+      "IMG_3626.HEIC",
+      "IMG_3627.HEIC"
+    ],
+    "cameraTimesStrictlyIncreasing": true,
+    "firstCaptureLocal": "2026-10-14T20:08:17.904000",
+    "lastCaptureLocal": "2026-10-14T20:41:20.277000",
+    "timezone": "America/Edmonton",
+    "largestGapsOver100Seconds": [
+      {
+        "from": "IMG_3603.HEIC",
+        "to": "IMG_3604.HEIC",
+        "seconds": 135.087
+      },
+      {
+        "from": "IMG_3625.HEIC",
+        "to": "IMG_3628.HEIC",
+        "seconds": 166.767
+      }
+    ],
+    "box5FrontBackIntervalsSeconds": [
+      3.879,
+      3.904,
+      8.197
+    ],
+    "conclusion": "No filename/time reordering, byte-identical duplicate or retake is evidenced. Missing filenames 3626/3627 alone do not establish a missing album; map by visible identities and programme rather than fixed offsets."
+  },
+  "maskSplitProposal": {
+    "status": "measured-proposal; no canonical edits",
+    "coordinateSpace": "source-photo EXIF-transposed",
+    "sourcePhoto": "site/dist/assets/boxes/right.jpg",
+    "sourceWidth": 4032,
+    "sourceHeight": 3024,
+    "photoSha256": "6aeed81d91ac748d027c1d70262d919c6d44c8ef5138f913c2557086f577648a",
+    "oldMaskId": "right-04",
+    "records": [
+      {
+        "id": "right-04",
+        "polygon": [
+          [
+            708,
+            430
+          ],
+          [
+            742,
+            429
+          ],
+          [
+            876,
+            1500
+          ],
+          [
+            1026,
+            2606
+          ],
+          [
+            1003,
+            2610
+          ],
+          [
+            858,
+            1500
+          ]
+        ],
+        "anchor": [
+          1015,
+          2608
+        ],
+        "notes": "Broad cream Django spine on the Giant Box side of the visible dark divider. Conservative interior of the old region; outer left bound retained."
+      },
+      {
+        "id": "right-04b",
+        "polygon": [
+          [
+            749,
+            428
+          ],
+          [
+            764,
+            427
+          ],
+          [
+            899,
+            1500
+          ],
+          [
+            1044,
+            2606
+          ],
+          [
+            1032,
+            2606
+          ],
+          [
+            885,
+            1500
+          ]
+        ],
+        "anchor": [
+          1038,
+          2606
+        ],
+        "notes": "Narrow pale sleeve between Django and Hubert. Excludes the dark dividing groove and trims the old mask’s middle-right edge to avoid black Hubert material."
+      }
+    ],
+    "measuredDividerSamples": [
+      {
+        "y": 480,
+        "dividerXRange": [
+          744,
+          748
+        ]
+      },
+      {
+        "y": 1500,
+        "dividerXRange": [
+          878,
+          883
+        ]
+      },
+      {
+        "y": 2585,
+        "dividerXRange": [
+          1026,
+          1031
+        ]
+      }
+    ],
+    "limitations": "Divider samples were visually measured in the full-resolution EXIF-transposed source. Top cap and foot joins are interpolated within the old polygon; do not present boundaries as physical subpixel certainty. Identity of the narrow spine is tied to user testimony/capture order because no readable Herbie title survives on its room spine."
+  },
+  "cropQa": {
+    "allFacesUprightAfterExif": true,
+    "manualOuterQuadsAdded": 6,
+    "notableDetectorFailures": [
+      "IMG_3676 ordinary rectangle follows inner photograph and excludes header.",
+      "IMG_3678 document segmentation follows illustration instead of full book and cuts VIEWS.",
+      "IMG_3679 ordinary rectangle follows dragon logo instead of outer book."
+    ],
+    "bookEdgeLimit": "The outer book face is retained, including VIEWS, price and ISBN. Some side edges touch the original camera frame, so no crop can restore paper outside the supplied photograph. No reconstruction is proposed."
+  },
+  "cleanArtworkProposal": "site/research/capture-intake-clean-art-right-2026-10-14.json",
+  "spotifyProposal": "site/research/capture-intake-spotify-right-2026-10-14.json"
+}

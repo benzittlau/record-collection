@@ -1,0 +1,596 @@
+{
+  "id": "upper-middle-68",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Bette+Midler&catno=SD7270"
+  ],
+  "releases": [
+    {
+      "id": 25655308,
+      "title": "Bette Midler",
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 63507,
+          "resource_url": "https://api.discogs.com/artists/63507",
+          "thumbnail_url": "https://i.discogs.com/sEyKkPWDhzBLyzgInrkUcU8pvCyFXkH-my2d7dVuuRI/rs:fit/g:sm/q:90/h:477/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYzNTA3/LTEzMjc0NDExNzIu/anBlZw.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1973,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catno": "SD 7270",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 681,
+          "resource_url": "https://api.discogs.com/labels/681",
+          "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+        }
+      ],
+      "notes": null,
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Skylark",
+          "extraartists": [
+            {
+              "name": "Hoagy Carmichael",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 301368,
+              "resource_url": "https://api.discogs.com/artists/301368"
+            },
+            {
+              "name": "Johnny Mercer",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 164574,
+              "resource_url": "https://api.discogs.com/artists/164574"
+            }
+          ],
+          "duration": "3:02"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Drinking Again",
+          "extraartists": [
+            {
+              "name": "Doris Tauber",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 717272,
+              "resource_url": "https://api.discogs.com/artists/717272"
+            },
+            {
+              "name": "Johnny Mercer",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 164574,
+              "resource_url": "https://api.discogs.com/artists/164574"
+            }
+          ],
+          "duration": "2:46"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Breaking Up Somebody's Home",
+          "extraartists": [
+            {
+              "name": "Arif Mardin",
+              "anv": "",
+              "join": "",
+              "role": "Arranged By [Horns]",
+              "tracks": "",
+              "id": 15446,
+              "resource_url": "https://api.discogs.com/artists/15446"
+            },
+            {
+              "name": "Denise LaSalle",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 218922,
+              "resource_url": "https://api.discogs.com/artists/218922"
+            }
+          ],
+          "duration": "3:47"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Surabaya Johnny",
+          "extraartists": [
+            {
+              "name": "Bertolt Brecht",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 457141,
+              "resource_url": "https://api.discogs.com/artists/457141"
+            },
+            {
+              "name": "Herbert Hartig",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 771060,
+              "resource_url": "https://api.discogs.com/artists/771060"
+            },
+            {
+              "name": "Kurt Weill",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 407111,
+              "resource_url": "https://api.discogs.com/artists/407111"
+            }
+          ],
+          "duration": "4:52"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "I Shall Be Released",
+          "extraartists": [
+            {
+              "name": "Bob Dylan",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 59792,
+              "resource_url": "https://api.discogs.com/artists/59792"
+            }
+          ],
+          "duration": "4:55"
+        },
+        {
+          "position": "",
+          "type_": "heading",
+          "title": "-",
+          "duration": "2:26"
+        },
+        {
+          "position": "B1a",
+          "type_": "track",
+          "title": "Optimistic Voices",
+          "extraartists": [
+            {
+              "name": "E.Y. Harburg",
+              "anv": "E. Y. Harburg",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 573556,
+              "resource_url": "https://api.discogs.com/artists/573556"
+            },
+            {
+              "name": "Harold Arlen",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 301975,
+              "resource_url": "https://api.discogs.com/artists/301975"
+            },
+            {
+              "name": "Herbert Stothart",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 679002,
+              "resource_url": "https://api.discogs.com/artists/679002"
+            },
+            {
+              "name": "Leo Feist",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 1029014,
+              "resource_url": "https://api.discogs.com/artists/1029014"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B1b",
+          "type_": "track",
+          "title": "Lullaby Of Broadway",
+          "extraartists": [
+            {
+              "name": "Al Dubin",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 628267,
+              "resource_url": "https://api.discogs.com/artists/628267"
+            },
+            {
+              "name": "Harry Warren (2)",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 601710,
+              "resource_url": "https://api.discogs.com/artists/601710"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "",
+          "type_": "heading",
+          "title": "-",
+          "duration": ""
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "In The Mood",
+          "extraartists": [
+            {
+              "name": "Arif Mardin",
+              "anv": "",
+              "join": "",
+              "role": "Arranged By [Horns]",
+              "tracks": "",
+              "id": 15446,
+              "resource_url": "https://api.discogs.com/artists/15446"
+            },
+            {
+              "name": "Bette Midler",
+              "anv": "",
+              "join": "",
+              "role": "Lyrics By [Additional]",
+              "tracks": "",
+              "id": 63507,
+              "resource_url": "https://api.discogs.com/artists/63507"
+            },
+            {
+              "name": "Barry Manilow",
+              "anv": "",
+              "join": "",
+              "role": "Lyrics By [Additional], Arranged By [Vocals]",
+              "tracks": "",
+              "id": 79091,
+              "resource_url": "https://api.discogs.com/artists/79091"
+            },
+            {
+              "name": "Andy Razaf",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 301998,
+              "resource_url": "https://api.discogs.com/artists/301998"
+            },
+            {
+              "name": "Joe Garland",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 254897,
+              "resource_url": "https://api.discogs.com/artists/254897"
+            }
+          ],
+          "duration": "2:37"
+        },
+        {
+          "position": "",
+          "type_": "heading",
+          "title": "-",
+          "duration": "3:22"
+        },
+        {
+          "position": "B3a",
+          "type_": "track",
+          "title": "Uptown",
+          "extraartists": [
+            {
+              "name": "Mann And Weil",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 732053,
+              "resource_url": "https://api.discogs.com/artists/732053"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B3b",
+          "type_": "track",
+          "title": "Da Doo Run Run",
+          "extraartists": [
+            {
+              "name": "Ellie Greenwich",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 304236,
+              "resource_url": "https://api.discogs.com/artists/304236"
+            },
+            {
+              "name": "Jeff Barry",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 264600,
+              "resource_url": "https://api.discogs.com/artists/264600"
+            },
+            {
+              "name": "Phil Spector",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 190767,
+              "resource_url": "https://api.discogs.com/artists/190767"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "",
+          "type_": "heading",
+          "title": "-",
+          "duration": ""
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Twisted",
+          "extraartists": [
+            {
+              "name": "Wardell Gray",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 272019,
+              "resource_url": "https://api.discogs.com/artists/272019"
+            }
+          ],
+          "duration": "2:23"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Higher And Higher (Your Love Keeps Lifting Me)",
+          "extraartists": [
+            {
+              "name": "Carl Smith (2)",
+              "anv": "Carl W. Smith",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 159831,
+              "resource_url": "https://api.discogs.com/artists/159831"
+            },
+            {
+              "name": "Gary Jackson (2)",
+              "anv": "Gary Lee Jackson",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 601803,
+              "resource_url": "https://api.discogs.com/artists/601803"
+            },
+            {
+              "name": "Raynard Miner",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 391733,
+              "resource_url": "https://api.discogs.com/artists/391733"
+            }
+          ],
+          "duration": "4:08"
+        }
+      ],
+      "url": "https://www.discogs.com/release/25655308",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-68-discogs-25655308-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/8JamQ2pw5NMovzSoq6SQKpsnGK3kb2qI2QOWOVjUaPE/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjU1/MzA4LTE2NzI3ODI0/OTctMzc1Ny5qcGVn.jpeg",
+          "type": "primary",
+          "width": 588,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-68-discogs-25655308-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/CYIhodOGU_ibi6lBAZMJrpHLxKGLvZ3fZ3umEQiN3xk/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NjU1/MzA4LTE2NzI3ODI0/OTgtOTI1My5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 586,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 14179656,
+      "title": "Bette Midler",
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 63507,
+          "resource_url": "https://api.discogs.com/artists/63507",
+          "thumbnail_url": "https://i.discogs.com/sEyKkPWDhzBLyzgInrkUcU8pvCyFXkH-my2d7dVuuRI/rs:fit/g:sm/q:90/h:477/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYzNTA3/LTEzMjc0NDExNzIu/anBlZw.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1973,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catno": "SD 7270",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 681,
+          "resource_url": "https://api.discogs.com/labels/681",
+          "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+        }
+      ],
+      "notes": "UNUSUAL UNFINISHED PRESSING\nRED SIDE 2",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "A1\tSkylark Written-By – Hoagy Carmichael, Johnny Mercer ",
+          "duration": ""
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Drinking Again Written-By – Doris Tauber, Johnny Mercer ",
+          "duration": ""
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Breaking Up Somebody's Home Arranged By [Horns] – Arif Mardin Written-By – Denise LaSalle ",
+          "duration": ""
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Surabaya Johnny Written-By – Bertolt Brecht, Herbert Hartig, Kurt Weill ",
+          "duration": ""
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "I Shall Be Released Written-By – Bob Dylan \t",
+          "duration": ""
+        },
+        {
+          "position": "B1A",
+          "type_": "track",
+          "title": "Optimistic Voices Written-By – E. Y. Harburg*, Harold Arlen, Herbert Stothart, Leo Feist ",
+          "duration": ""
+        },
+        {
+          "position": "B1B",
+          "type_": "track",
+          "title": "Lullaby Of Broadway Written-By – Al Dubin, Harry Warren (2) ",
+          "duration": ""
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "In The Mood Arranged By [Horns] – Arif Mardin Lyrics By [Additional] – Bette Midler Lyrics By [Additional], Arranged By [Vocals] – Barry Manilow Written-By – Andy Razaf, Joe Garland ",
+          "duration": ""
+        },
+        {
+          "position": "B3A",
+          "type_": "track",
+          "title": "Uptown Written-By – Mann And Weil ",
+          "duration": ""
+        },
+        {
+          "position": "B3B",
+          "type_": "track",
+          "title": "Da Doo Run Run Written-By – Ellie Greenwich, Jeff Barry, Phil Spector ",
+          "duration": ""
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Twisted Written-By – Wardell Gray ",
+          "duration": ""
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Higher & Higher (Your Love Keeps Lifting Me) Written-By – Carl W. Smith*, Gary Lee Jackson*, Raynard Miner",
+          "duration": ""
+        }
+      ],
+      "url": "https://www.discogs.com/release/14179656",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-68-discogs-14179656-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/0hYFEGD6NoDoUyKTrjXN6Og_nBED5u-uMZSigG_DlQM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc5/NjU2LTE1NjkzNDcy/NDQtMjE2Ny5tcG8.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 450,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-68-discogs-14179656-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/saZtzVv8hX8RGPpHfpOImFXxrMy6sLTmfoVpjsyXMMw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc5/NjU2LTE1NjkzNDcy/MzItNzE0NC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 587,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-68-discogs-14179656-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/kziEr7-BmPWLuRT4Fh3_OGU6Xx2WA8395QXGRy03Wl4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc5/NjU2LTE1NjkzNDcz/MDMtODU5OS5tcG8.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 450,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

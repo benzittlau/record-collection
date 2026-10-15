@@ -1,0 +1,1641 @@
+{
+  "version": 1,
+  "date": "2026-10-14",
+  "status": "complete",
+  "scope": "Box3 and Box4 visual identification and sequence reconciliation only. No canonical, mask, app or asset edits.",
+  "guideVersion": "7ac3efbb41aa",
+  "canonicalMiddleSha256AtRead": "6f82e8f895464a54faa6ce5407e250b8149ead93d39e3bb36090f12c196b0f33",
+  "userNotes": [
+    "Box 3, first few there were no records there, so I captured the previous one you called out.",
+    "Box 4, Eine klein, there was another record there before the firebird, so I took a picture of it. Julian bream plays bach."
+  ],
+  "sequence": {
+    "firstOriginal": "IMG_3636.HEIC",
+    "lastOriginal": "IMG_3673.HEIC",
+    "box3First": "IMG_3636.HEIC",
+    "box3Last": "IMG_3651.HEIC",
+    "box4First": "IMG_3652.HEIC",
+    "box4Last": "IMG_3673.HEIC",
+    "pairCount": 19,
+    "photoCount": 38,
+    "box3Pairs": 8,
+    "box4Pairs": 11,
+    "note": "All front/back pairs are consecutive camera filenames. Earlier tentative boundary3638 was two files late."
+  },
+  "coordinateConvention": {
+    "rotation": "Clockwise degrees applied after EXIF orientation, to both original image and its rectangle. Only Axis3644/45 needs270°.",
+    "suggestedCorners": "Normalized[0,1] in the EXIF-oriented preview, top-left origin, ordered TL,TR,BR,BL before optional rotation.",
+    "vision": "Vision source metadata uses bottom-left origin and is not the same as suggested top-left corners."
+  },
+  "merges": [
+    {
+      "id": "upper-middle-08",
+      "mergedInto": "upper-middle-07",
+      "strength": "high",
+      "reason": "User reports no separate early record and recaptured previous requested neighbor. IMG3636/37 is Travelling Days; source08 only adds Warner Bros footer text beside the same pale jacket.",
+      "photoPair": [
+        "IMG_3636.HEIC",
+        "IMG_3637.HEIC"
+      ]
+    },
+    {
+      "id": "upper-middle-15",
+      "mergedInto": "upper-middle-14",
+      "strength": "high",
+      "reason": "User reports no separate early record and recaptured previous requested neighbor. IMG3638/39 is Chance; gray strip has faint continuation of the same Manfred Mann wording beside its blue printed spine.",
+      "photoPair": [
+        "IMG_3638.HEIC",
+        "IMG_3639.HEIC"
+      ]
+    },
+    {
+      "id": "upper-middle-67",
+      "mergedInto": "upper-middle-68",
+      "strength": "moderate",
+      "reason": "Only one Bette Midler jacket was photographed for the final optional black/cream group; no extra pair follows before Box4. Source has a blank black seam directly against the broad cream outer spine. Prefer68 as physical item because it covers the cream face; retain67 as a source-slot alias.",
+      "photoPair": [
+        "IMG_3650.HEIC",
+        "IMG_3651.HEIC"
+      ]
+    }
+  ],
+  "insertions": [
+    {
+      "id": "lower-middle-04b",
+      "sourcePosition": 4.5,
+      "afterId": "lower-middle-04",
+      "beforeId": "lower-middle-05",
+      "title": "Julian Bream Plays Bach",
+      "artist": "Julian Bream",
+      "catalogue": "9008-8113",
+      "evidenceStrength": "high",
+      "originalSourcePhoto": "site/dist/assets/boxes/lower-middle.jpg",
+      "sourceBandHint": "Narrow gray sleeve between Fricsay and Philips Firebird; nearx900–918 atsourcey1500 (approximate band only, not a mask edit).",
+      "photoPair": [
+        "IMG_3654.HEIC",
+        "IMG_3655.HEIC"
+      ],
+      "sourceMaskProposal": {
+        "coordinateSpace": "source-photo EXIF oriented4032x3024",
+        "polygon": [
+          [
+            796,
+            539
+          ],
+          [
+            825,
+            542
+          ],
+          [
+            925,
+            1500
+          ],
+          [
+            1116,
+            2932
+          ],
+          [
+            1101,
+            2936
+          ],
+          [
+            906,
+            1500
+          ]
+        ],
+        "crossSections": [
+          {
+            "y": 650,
+            "left": 807,
+            "right": 834
+          },
+          {
+            "y": 1500,
+            "left": 906,
+            "right": 925
+          },
+          {
+            "y": 2920,
+            "left": 1102,
+            "right": 1117
+          }
+        ],
+        "confidence": "measured_estimate",
+        "notes": "The gray Bream band changes width and borrows from the old broad04 mask; current04 right body934 crosses past it into the Philips face. It is not an equal split. At source1500, Fricsay paper runs approximately862–903, Bream906–925, Firebird928–956. Firebird05 also needs a modest body-left correction from938 toward928–930 if its full face is to be retained, rather than leaving the overlap. Rounded/worn Bream heel blends into shadow, so foot corners are conservative estimates; parent should verify final overlay. No geometry edited."
+      }
+    }
+  ],
+  "importantRetentions": [
+    {
+      "id": "upper-middle-39",
+      "reason": "Separate physical Leo Kottke CHR1106 jacket, not an Axis fold. Original thin cream spine says ©1976 Chrysalis Records Inc.; captured rear confirmsCHR1106."
+    },
+    {
+      "id": "lower-middle-25",
+      "reason": "Separate physical Abbey Road jacket, not a White Album fold. White Album26 remains its own record."
+    }
+  ],
+  "pairs": [
+    {
+      "frontFilename": "IMG_3636.HEIC",
+      "backFilename": "IMG_3637.HEIC",
+      "box": "upper-middle",
+      "proposedRecordId": "upper-middle-07",
+      "sourcePosition": 7,
+      "requestedSlotIds": [
+        "upper-middle-08"
+      ],
+      "guidePairs": [
+        26
+      ],
+      "action": "recaptured_neighbor",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Travelling Days",
+        "artist": "J.S.D. Band",
+        "year": 1973,
+        "catalogue": null,
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Title printed on both faces; rear credits Des Coffield, Sean O’Rourke, Jim Divers, Chuck Fleming and Colin Finn, and ©1973 Warner Bros. Records Inc.; WEA Music of Canada manufacture. User says no record was present at the early requested edge and photographed the previous album.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3636.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3636.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3636.json",
+          "sha256": "964fb81e16d6de02c88c2ca8a57abab01ba586e72ae9a375de04ccad1be465bd",
+          "captureSequence": 47,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 3,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "All candidates are inset artwork frames, omitting the outer cream sleeve and title."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Check proof: ordinary Vision detects nested artwork. Keep the full cream jacket/title border. Manual corners follow the outer photographed paper, not inset artwork. Refine by a few pixels at original resolution.",
+            "suggestedOuterCornersNormalized": [
+              [
+                0.052,
+                0.135
+              ],
+              [
+                0.963,
+                0.138
+              ],
+              [
+                1,
+                0.869
+              ],
+              [
+                0,
+                0.854
+              ]
+            ],
+            "suggestionConfidence": "manual_approximation",
+            "edgeLimitation": "One or more paper corners meet the camera boundary; use the visible image boundary, do not invent missing paper beyond it."
+          }
+        },
+        "back": {
+          "filename": "IMG_3637.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3637.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3637.json",
+          "sha256": "ed04c71a6279898b7d855942b43ea42f9dea9c6ba8d81984f62187f62cb29427",
+          "captureSequence": 48,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate encloses inner artwork, not the whole cream jacket."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Keep outer cream border and bottom manufacturer text, not the printed inset graphic. Manual corners follow the outer photographed paper, not inset artwork. Refine by a few pixels at original resolution.",
+            "suggestedOuterCornersNormalized": [
+              [
+                0.064,
+                0.159
+              ],
+              [
+                0.946,
+                0.162
+              ],
+              [
+                1,
+                0.862
+              ],
+              [
+                0.006,
+                0.855
+              ]
+            ],
+            "suggestionConfidence": "manual_approximation",
+            "edgeLimitation": "One or more paper corners meet the camera boundary; use the visible image boundary, do not invent missing paper beyond it."
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3638.HEIC",
+      "backFilename": "IMG_3639.HEIC",
+      "box": "upper-middle",
+      "proposedRecordId": "upper-middle-14",
+      "sourcePosition": 14,
+      "requestedSlotIds": [
+        "upper-middle-15"
+      ],
+      "guidePairs": [
+        27
+      ],
+      "action": "recaptured_neighbor",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Chance",
+        "artist": "Manfred Mann’s Earth Band",
+        "year": 1980,
+        "catalogue": "XBS 3498",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front title and band name, and the original nine-song rear programme, confirm the known album immediately before the requested gray edge. Original source spine has XBS3498 and ©1980 Warner Bros.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3638.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3638.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3638.json",
+          "sha256": "a75e78bbe2b988bafb6efe8f2540318733b73f9d2b0c7a7b5f7a951bb53ce161",
+          "captureSequence": 49,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate clips lower blue/cream band and CHANCE title."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3639.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3639.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3639.json",
+          "sha256": "cd2289fd820537d9c730bf6ef483cb08288714a0338c7767c7d2ab99c1883bf0",
+          "captureSequence": 50,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": 0,
+            "enclosesFullSleeve": true,
+            "status": "usable_full_sleeve",
+            "notes": "Use the full outer sleeve, not an inset image."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3640.HEIC",
+      "backFilename": "IMG_3641.HEIC",
+      "box": "upper-middle",
+      "proposedRecordId": "upper-middle-22",
+      "sourcePosition": 22,
+      "requestedSlotIds": [
+        "upper-middle-22"
+      ],
+      "guidePairs": [
+        28
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Between the Lines",
+        "artist": "Janis Ian",
+        "year": 1975,
+        "catalogue": "PC 33394",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front names Janis Ian and Between the Lines; rear includes At Seventeen and ten other original tracks, ©1975 CBS Inc., PC33394 and Columbia Records of Canada.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3640.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3640.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3640.json",
+          "sha256": "431025a0c80954597662e5280a7faf28748b2e88b2175302a5d2a0aece8eb215",
+          "captureSequence": 51,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Bottom crop includes table fringe; replace the lower corners with the actual tilted paper edge. Manual corners follow the outer photographed paper, not inset artwork. Refine by a few pixels at original resolution.",
+            "suggestedOuterCornersNormalized": [
+              [
+                0.046,
+                0.139
+              ],
+              [
+                0.891,
+                0.137
+              ],
+              [
+                0.971,
+                0.781
+              ],
+              [
+                0.028,
+                0.814
+              ]
+            ],
+            "suggestionConfidence": "manual_approximation"
+          }
+        },
+        "back": {
+          "filename": "IMG_3641.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3641.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3641.json",
+          "sha256": "0c048cade7f0f3c5e3da4850df894a5e4cb7ef569f66f3c5eae7df7df6a683a6",
+          "captureSequence": 52,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate bottom edge is skewed onto the table and does not follow the jacket corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3642.HEIC",
+      "backFilename": "IMG_3643.HEIC",
+      "box": "upper-middle",
+      "proposedRecordId": "upper-middle-23",
+      "sourcePosition": 23,
+      "requestedSlotIds": [
+        "upper-middle-23"
+      ],
+      "guidePairs": [
+        29
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Islands in Space",
+        "artist": "Lightdreams",
+        "year": 1981,
+        "catalogue": null,
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front and rear name Lightdreams / Islands in Space. Rear credits Paul R. Marcano, Cory Rhyon, Andre Martin and others; all songs ©1981, pressed at Praise Records Vancouver, Made in Canada. Original seven-track programme. Do not use a later Lightdreams single as a full-album substitute.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3642.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3642.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3642.json",
+          "sha256": "188366443774dc863e8e6472704f687c2f6d6066527e8bcbd8ebcbaba5399d2d",
+          "captureSequence": 53,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate has an erroneous diagonal top edge."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3643.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3643.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3643.json",
+          "sha256": "718a8abbaba4e75bb82e6088819115887785985782f4e1162b777a1299b4eab7",
+          "captureSequence": 54,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate cuts off the right-hand artwork and text."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Visible trapezoid remains uncorrected. Use all four outer paper corners.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3644.HEIC",
+      "backFilename": "IMG_3645.HEIC",
+      "box": "upper-middle",
+      "proposedRecordId": "upper-middle-38",
+      "sourcePosition": 38,
+      "requestedSlotIds": [
+        "upper-middle-38"
+      ],
+      "guidePairs": [
+        30
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Axis: Bold as Love",
+        "artist": "The Jimi Hendrix Experience",
+        "year": 1967,
+        "catalogue": "6281",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front visibly names The Jimi Hendrix Experience / Axis: Bold as Love and Reprise6281. Both photographs are sideways; 270° clockwise makes the artwork upright. Rear is the continuation of the same Indian-deity painting.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3644.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3644.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3644.json",
+          "sha256": "43c53c6650295969f1678449022d435e24980c6d138923b2fd25169f20a4e293",
+          "captureSequence": 55,
+          "clockwiseRotationDegrees": 270,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Rotate270° clockwise after rectifying the full outer sleeve.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3645.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3645.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3645.json",
+          "sha256": "ade955129f92e64de24b88a01bfdcb73555dac88aa6d504c5065ff4cb642d9d6",
+          "captureSequence": 56,
+          "clockwiseRotationDegrees": 270,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Rotate270° clockwise; crop includes a triangular table/fringe strip along the current lower edge.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3646.HEIC",
+      "backFilename": "IMG_3647.HEIC",
+      "box": "upper-middle",
+      "proposedRecordId": "upper-middle-39",
+      "sourcePosition": 39,
+      "requestedSlotIds": [
+        "upper-middle-39"
+      ],
+      "guidePairs": [
+        31
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Leo Kottke",
+        "artist": "Leo Kottke",
+        "year": 1976,
+        "catalogue": "CHR 1106",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Back explicitly prints CHR1106, Buckaroo, The White Ape, Hayseed Suede, Rio Leo, Range, Airproofing, Maroon, Waltz, Death by Reputation, Up Tempo and Shadowland; arrangements by Jack Nitzsche, produced by Denny Bruce, manufactured in Canada by Capitol. Crucially, original source slot39’s thin cream spine clearly says ©1976 CHRYSALIS RECORDS INC.; this is a separate jacket, not an Axis fold.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3646.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3646.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3646.json",
+          "sha256": "97e5821af2e494ee41bdbfae2a1e521898bde8b2774ed6853665cc2d0a8f43b7",
+          "captureSequence": 57,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 3,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate0 has an out-of-image bottom-left corner; inset alternatives omit the gray border."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Crop appears to select inset artwork. Preserve the full gray/cream outer border. Manual corners follow the outer photographed paper, not inset artwork. Refine by a few pixels at original resolution.",
+            "suggestedOuterCornersNormalized": [
+              [
+                0.066,
+                0.131
+              ],
+              [
+                0.925,
+                0.126
+              ],
+              [
+                0.98,
+                0.787
+              ],
+              [
+                0.033,
+                0.794
+              ]
+            ],
+            "suggestionConfidence": "manual_approximation"
+          }
+        },
+        "back": {
+          "filename": "IMG_3647.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3647.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3647.json",
+          "sha256": "e5e126cbc69fee0b3f2aed56e013252939dbc128487e8b3121e67f720431fc65",
+          "captureSequence": 58,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Only candidate encloses central portrait, omitting gray side credits and CHR1106."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Critical: crop cuts side credits and catalogue. Select the entire gray-backed sleeve. Manual corners follow the outer photographed paper, not inset artwork. Refine by a few pixels at original resolution.",
+            "suggestedOuterCornersNormalized": [
+              [
+                0.065,
+                0.123
+              ],
+              [
+                0.938,
+                0.125
+              ],
+              [
+                0.984,
+                0.791
+              ],
+              [
+                0.034,
+                0.798
+              ]
+            ],
+            "suggestionConfidence": "manual_approximation"
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3648.HEIC",
+      "backFilename": "IMG_3649.HEIC",
+      "box": "upper-middle",
+      "proposedRecordId": "upper-middle-47",
+      "sourcePosition": 47,
+      "requestedSlotIds": [
+        "upper-middle-47"
+      ],
+      "guidePairs": [
+        32
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Electric Ladyland",
+        "artist": "The Jimi Hendrix Experience",
+        "year": 1968,
+        "catalogue": "6307",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front is the red close portrait and Reprise6307; rear names Electric Ladyland and The Jimi Hendrix Experience and gives the sixteen-song programme. Capture order and the worn pink spine after Hot Tuna Burgers bind this pair to47, not the final black/cream group.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3648.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3648.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3648.json",
+          "sha256": "5aa0715b095bf774cee330acd5f5ac255b1d3317cbd592f71dcad00c2d2c5b13",
+          "captureSequence": 59,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Lower crop includes table/fringe; follow the tilted paper edge. Manual corners follow the outer photographed paper, not inset artwork. Refine by a few pixels at original resolution.",
+            "suggestedOuterCornersNormalized": [
+              [
+                0.039,
+                0.158
+              ],
+              [
+                0.874,
+                0.142
+              ],
+              [
+                0.939,
+                0.792
+              ],
+              [
+                0.023,
+                0.806
+              ]
+            ],
+            "suggestionConfidence": "manual_approximation"
+          }
+        },
+        "back": {
+          "filename": "IMG_3649.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3649.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3649.json",
+          "sha256": "8b21547819899b926a1987457546338eabff60fe67bfc4d9284e85b0160cb326",
+          "captureSequence": 60,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3650.HEIC",
+      "backFilename": "IMG_3651.HEIC",
+      "box": "upper-middle",
+      "proposedRecordId": "upper-middle-68",
+      "sourcePosition": 68,
+      "requestedSlotIds": [
+        "upper-middle-67",
+        "upper-middle-68"
+      ],
+      "guidePairs": [
+        33,
+        34
+      ],
+      "action": "identify_physical_group",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "probable",
+      "identity": {
+        "title": "Bette Midler",
+        "artist": "Bette Midler",
+        "year": 1973,
+        "catalogue": "SD 7270",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front’s Richard Amsel illustration and Bette Midler lettering, rear SD7270, ten-track programme and ©1973 Atlantic establish the self-titled second album. Only one physical jacket was photographed for the two final source edges. The wider cream slot68 is the preferred physical-item ID; the adjacent blank black slot67 is proposed as part of it.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3650.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3650.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3650.json",
+          "sha256": "04aa17cbc0e0f65106d6ad289a75cb2e664d6b0677ff76d98c2e58de689bd610",
+          "captureSequence": 61,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3651.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3651.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3651.json",
+          "sha256": "f64889351fe51ed3d4374c4ddbe7ecdbb426901091d0af291f9cd111475dee22",
+          "captureSequence": 62,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate diagonal lower edge clips the bottom artwork/credits."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [
+        "Choosing68 as the physical-item ID and67 as its source-edge alias is a semantic choice; both refer to the same final captured jacket."
+      ],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3652.HEIC",
+      "backFilename": "IMG_3653.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-04",
+      "sourcePosition": 4,
+      "requestedSlotIds": [
+        "lower-middle-04"
+      ],
+      "guidePairs": [
+        35
+      ],
+      "action": "confirm_probable",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Eine kleine Nachtmusik / Egmont Overture / Die Moldau / Les Préludes",
+        "artist": "Berliner Philharmoniker / Radio-Symphonie-Orchester Berlin / Ferenc Fricsay",
+        "year": null,
+        "catalogue": "SLPEM 136226",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front and rear explicitly print136226/SLPEM, the four composers and all four works, both orchestras and Ferenc Fricsay. Printed in Germany. The former probable match is now directly confirmed; no pressing year printed or inferred.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3652.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3652.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3652.json",
+          "sha256": "eb6074a744f50e54fa3444f9e2a2c7e3dc0402c054871d1fd995b8ac6ffdebfb",
+          "captureSequence": 63,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": 0,
+            "enclosesFullSleeve": true,
+            "status": "usable_full_sleeve",
+            "notes": "Use the full outer sleeve, not an inset image."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3653.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3653.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3653.json",
+          "sha256": "4ebaab251b01e786af47cd02b821ee4dd5d527945e45efc1fd2991b0dab09f42",
+          "captureSequence": 64,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 2,
+            "suggestedIndex": 0,
+            "enclosesFullSleeve": true,
+            "status": "usable_full_sleeve",
+            "notes": "Use the full outer sleeve, not an inset image."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3654.HEIC",
+      "backFilename": "IMG_3655.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-04b",
+      "sourcePosition": 4.5,
+      "requestedSlotIds": [],
+      "guidePairs": [],
+      "action": "insert",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Julian Bream Plays Bach",
+        "artist": "Julian Bream",
+        "year": null,
+        "catalogue": "9008-8113",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Separate sleeve explicitly reported by the user between Eine kleine Nachtmusik and Firebird. Both faces print Julian Bream Plays Bach; front9008-8113 / Westminster Gold Series, rear GRT of Canada manufacture and9008-8113C. Original source has a narrow gray sleeve in that interval, previously absorbed into the broad04 estimate. This is distinct from the later Bach & Villa-Lobos compilation45.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3654.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3654.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3654.json",
+          "sha256": "0aa7ccf4df5f1547a3d2a15f04c2cdf149f0560f32fdea636ab6b8b9cfa4c3a9",
+          "captureSequence": 65,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3655.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3655.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3655.json",
+          "sha256": "8d94bf4ae525ad460e80e443ed671d9a88d0086c1c93ebcb3ca1584f157e0287",
+          "captureSequence": 66,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 4,
+            "suggestedIndex": 0,
+            "enclosesFullSleeve": true,
+            "status": "usable_full_sleeve",
+            "notes": "Use the full outer sleeve, not an inset image."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3656.HEIC",
+      "backFilename": "IMG_3657.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-11",
+      "sourcePosition": 11,
+      "requestedSlotIds": [
+        "lower-middle-11"
+      ],
+      "guidePairs": [
+        36
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Moondog Matinee",
+        "artist": "The Band",
+        "year": 1973,
+        "catalogue": null,
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "The two captured faces are Edward Kasper’s Jook Joint / Blackie’s Poolhall wraparound painting for The Band’s Moondog Matinee. Jook Joint is a painted storefront sign, not the album title. A contemporary Capitol advertisement reproduces the exact scene and names Moondog Matinee / The Band / SW11214. Exact photographed pressing code and track list are not visible on these two outer panels.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3656.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3656.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3656.json",
+          "sha256": "728dfe517a1dff4b7f8c24a47458df0bee93665116fbca09a6eeb52a5c5b3f2a",
+          "captureSequence": 67,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate encloses the painted cafe window, not the sleeve."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3657.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3657.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3657.json",
+          "sha256": "0832000a8f2dc9be5d198f8decae28f0f72a95b59719364961d400866594c17e",
+          "captureSequence": 68,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate encloses the painted billiards window, not the sleeve."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Lower crop includes table/fringe; use actual worn jacket edge.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [
+        "Exact physical pressing code and track programme are not visible on the captured outer wraparound."
+      ],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3658.HEIC",
+      "backFilename": "IMG_3659.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-25",
+      "sourcePosition": 25,
+      "requestedSlotIds": [
+        "lower-middle-25"
+      ],
+      "guidePairs": [
+        37
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Abbey Road",
+        "artist": "The Beatles",
+        "year": 1969,
+        "catalogue": "SO-383",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front is the Abbey Road crossing; rear explicitly prints APPLE SO-383 and the original programme. This confirms a separate physical Abbey Road jacket before White Album26, not a folded White Album edge.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3658.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3658.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3658.json",
+          "sha256": "a9482f20fc5b4f07b93645626230b590b691503eb130f2b93f5cb417e79c88a5",
+          "captureSequence": 69,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3659.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3659.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3659.json",
+          "sha256": "ac8baccbf18d4ab4e330d804136c9c3eabd4ec1496259c16454b7ee08b0512f6",
+          "captureSequence": 70,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3660.HEIC",
+      "backFilename": "IMG_3661.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-32",
+      "sourcePosition": 32,
+      "requestedSlotIds": [
+        "lower-middle-32"
+      ],
+      "guidePairs": [
+        38
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Stephen Stills 2",
+        "artist": "Stephen Stills",
+        "year": 1971,
+        "catalogue": null,
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front explicitly prints STEPHEN STILLS2; matching rear depicts the guitar case and2 tag. No legible catalogue code in the submitted views. Do not misread the numeral as3.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3660.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3660.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3660.json",
+          "sha256": "de13895d0ebb4125f50af7ac01887a0cdb6dd1ee5bba6ad4aac98f1c1c9e2242",
+          "captureSequence": 71,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3661.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3661.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3661.json",
+          "sha256": "f01ea356c0988cde4858f05f249e163792baad222544a0e95ffa596cafbc839f",
+          "captureSequence": 72,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 2,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidates do not follow the full jacket, leaving an erroneous diagonal bottom."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3662.HEIC",
+      "backFilename": "IMG_3663.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-35",
+      "sourcePosition": 35,
+      "requestedSlotIds": [
+        "lower-middle-35"
+      ],
+      "guidePairs": [
+        39
+      ],
+      "action": "confirm_pressing",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Trios for Flute, Viola and Harp",
+        "artist": "Lucien Grujon / Walter Mony / Kathleen Alister",
+        "year": 1972,
+        "catalogue": "WGS-8196",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Both faces print WGS8196. Rear names Lucien Grujon flute, Kathleen Alister harp, Walter Mony violin/viola, Lavry Suite Concertante, Voss Serenade, Bax Elegiac Trio, Ma’Ayani Improvisation variée; recorded by Geoff Tucker at RPM Johannesburg. ©1972 ABC, licensed/distributed by RCA Limited. Voss uses violin, rather than viola, as explicitly printed.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3662.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3662.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3662.json",
+          "sha256": "4f5c9ea4330bb6698521988ceb67b95074ca0f23b91e15adad9664051758b554",
+          "captureSequence": 73,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3663.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3663.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3663.json",
+          "sha256": "275dd938756b95d9716a6c7b5e43ff16832fd95aa1a3843312d06dd56f4067e0",
+          "captureSequence": 74,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 2,
+            "suggestedIndex": 0,
+            "enclosesFullSleeve": true,
+            "status": "usable_full_sleeve",
+            "notes": "Use the full outer sleeve, not an inset image."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3664.HEIC",
+      "backFilename": "IMG_3665.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-43",
+      "sourcePosition": 43,
+      "requestedSlotIds": [
+        "lower-middle-43"
+      ],
+      "guidePairs": [
+        40
+      ],
+      "action": "confirm_pressing",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Handel’s Messiah (Original Dublin Version 1742)",
+        "artist": "Hermann Scherchen / Vienna State Opera Orchestra / Vienna Academy Chorus",
+        "year": null,
+        "catalogue": "WGS-8163-3",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Both outer box faces have nearly identical artwork. Rear adds RCA Limited licensing and Printed in Canada. WGS8163-3; three-record set; soloists Pierrette Alarie, Nan Merriman, Leopold Simoneau and Richard Standen. The pair is front and rear, not an accidental duplicate.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3664.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3664.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3664.json",
+          "sha256": "93b60ebfe35f1e24c31596508f264eb7e3b6dfbaa9a2e5fc61579045055ca0f8",
+          "captureSequence": 75,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": 0,
+            "enclosesFullSleeve": true,
+            "status": "usable_full_sleeve",
+            "notes": "Use the full outer sleeve, not an inset image."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3665.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3665.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3665.json",
+          "sha256": "8590e3c3cd0176380730b38c98af7aa5892fa67117400c93fa46527524936aa2",
+          "captureSequence": 76,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 3,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate0 misses the upper-right outer edge; alternatives are interior artwork shapes."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3666.HEIC",
+      "backFilename": "IMG_3667.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-44",
+      "sourcePosition": 44,
+      "requestedSlotIds": [
+        "lower-middle-44"
+      ],
+      "guidePairs": [
+        41
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "The Mouse Factory Presents Mickey and His Friends",
+        "artist": "Walt Disney Productions / Various",
+        "year": 1972,
+        "catalogue": "1342",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front names The Mouse Factory Presents Mickey and His Friends; rear Disneyland1342 and ©1972 Walt Disney Productions, manufactured/distributed in Canada by Walt Disney Music of Canada. Twelve track groups including Donald Duck Song, Mickey Mouse March and The Ballad of Davy Crockett. Former unidentified classical classification is incorrect.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3666.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3666.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3666.json",
+          "sha256": "aa2111082f9c87fb1758d3c9d4e83931c0ca7c95e87348e4952616a5dd76a018",
+          "captureSequence": 77,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 2,
+            "suggestedIndex": 0,
+            "enclosesFullSleeve": true,
+            "status": "usable_full_sleeve",
+            "notes": "Use the full outer sleeve, not an inset image."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3667.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3667.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3667.json",
+          "sha256": "52a8b0effd7b5a1e1a2161473610af797d25af16ba4d9da1b8a056141006119a",
+          "captureSequence": 78,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 2,
+            "suggestedIndex": 0,
+            "enclosesFullSleeve": true,
+            "status": "usable_full_sleeve",
+            "notes": "Use the full outer sleeve, not an inset image."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3668.HEIC",
+      "backFilename": "IMG_3669.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-53",
+      "sourcePosition": 53,
+      "requestedSlotIds": [
+        "lower-middle-53"
+      ],
+      "guidePairs": [
+        42
+      ],
+      "action": "confirm_probable",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Italian Baroque Trumpet Concerti",
+        "artist": "Hellmut Schneidewind / Wolfgang Pasch / Heinz Zickler / Herbert Thal / Edward H. Tarr; Mainz Chamber Orchestra / Günter Kehr; Württemberg Chamber Orchestra / Jörg Faerber",
+        "year": null,
+        "catalogue": "TV 34057S",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front/rear establish TurnaboutTV34057S and five concertos: Manfredini inD (Schneidewind/Pasch, Faerber); Vivaldi inC (Zickler/Thal, Kehr); Torelli inD (Zickler, Kehr); Torelli inD and Albinoni inC (Edward H. Tarr, Faerber). No Maurice André attribution. Rear LOC card R66-2634 does not alone establish the pressing year.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3668.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3668.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3668.json",
+          "sha256": "c0cd175abe999c90509e949f7dde33a9bd13952da2267fb9b6ce4e3b8b0a5bf8",
+          "captureSequence": 79,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "Critical: document segmentation selected a highly distorted internal shape, producing an angled sliver. Replace with full outer cover quadrilateral. Manual corners follow the outer photographed paper, not inset artwork. Refine by a few pixels at original resolution.",
+            "suggestedOuterCornersNormalized": [
+              [
+                0.02,
+                0.123
+              ],
+              [
+                0.951,
+                0.129
+              ],
+              [
+                1,
+                0.849
+              ],
+              [
+                0,
+                0.861
+              ]
+            ],
+            "suggestionConfidence": "manual_approximation",
+            "edgeLimitation": "One or more paper corners meet the camera boundary; use the visible image boundary, do not invent missing paper beyond it."
+          }
+        },
+        "back": {
+          "filename": "IMG_3669.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3669.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3669.json",
+          "sha256": "b80111e1df1b3019c25d95850b4f342baa643ba8996371c47a9e76a229c6cd99",
+          "captureSequence": 80,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate encloses a small liner-note paragraph, not the sleeve."
+          },
+          "cropProofReview": {
+            "status": "needs_refinement",
+            "notes": "The current proof clips the title at the top. Include the entire top paper edge and Turnabout logo.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3670.HEIC",
+      "backFilename": "IMG_3671.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-66",
+      "sourcePosition": 66,
+      "requestedSlotIds": [
+        "lower-middle-66"
+      ],
+      "guidePairs": [
+        43
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Quintet ’80",
+        "artist": "David Grisman",
+        "year": 1980,
+        "catalogue": "7599-23469-1",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Both faces explicitly name David Grisman Quintet80; rear ©1980 Warner Bros., Made in USA and7599-23469-1. Players Darol Anger, Mike Marshall, Mark O’Connor, Rob Wasserman; eight tracks Dawgma through Thailand. Earlier RSA4099 spine transcription is not supported by the captured rear; preserve it only as superseded reading evidence.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3670.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3670.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3670.json",
+          "sha256": "9f07710c6b5e5078428172ff5d142d08db541d6f6d5993c889bb12efbe32cd6f",
+          "captureSequence": 81,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3671.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3671.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3671.json",
+          "sha256": "ea69e793256aae2732dbd7c63eda72ee24ba141b073278b8deed528e45efa0f5",
+          "captureSequence": 82,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 0,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": null,
+            "status": "no_candidate",
+            "notes": "No full-sleeve candidate available; use manual outer corners."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    },
+    {
+      "frontFilename": "IMG_3672.HEIC",
+      "backFilename": "IMG_3673.HEIC",
+      "box": "lower-middle",
+      "proposedRecordId": "lower-middle-69",
+      "sourcePosition": 69,
+      "requestedSlotIds": [
+        "lower-middle-69"
+      ],
+      "guidePairs": [
+        44
+      ],
+      "action": "identify",
+      "identityConfidence": "confirmed",
+      "slotBindingConfidence": "confirmed",
+      "identity": {
+        "title": "Organisation",
+        "artist": "Orchestral Manoeuvres in the Dark",
+        "year": 1980,
+        "catalogue": "VL 2206",
+        "confidence": "confirmed"
+      },
+      "visibleEvidence": "Front names Organisation and Orchestral Manoeuvres in the Dark. Rear VL2206, ©1980 Dindisc Limited, Virgin/PolyGram; original nine tracks including Enola Gay, VCLXI and Stanlow. Resolves the album without assuming self-title.",
+      "faces": {
+        "front": {
+          "filename": "IMG_3672.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3672.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3672.json",
+          "sha256": "6fb9145313a0a138948c66e233dd4a4f53a1a3a005bdab1b51acab58339b19a8",
+          "captureSequence": 83,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate encloses the inset landscape photograph, not the outer gray sleeve."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        },
+        "back": {
+          "filename": "IMG_3673.HEIC",
+          "preview": "tmp/capture-intake-2026-10-14/previews/IMG_3673.jpg",
+          "metadata": "tmp/capture-intake-2026-10-14/IMG_3673.json",
+          "sha256": "92f4bcde1cb477c596d643634ffe3eb69ecffa135094632951d4ab842c2f30ad",
+          "captureSequence": 84,
+          "clockwiseRotationDegrees": 0,
+          "rotationAppliesAfterExifOrientation": true,
+          "visionRectangle": {
+            "candidateCount": 1,
+            "suggestedIndex": null,
+            "enclosesFullSleeve": false,
+            "status": "incomplete_or_wrong_shape",
+            "notes": "Candidate encloses the small performer photograph, not the outer sleeve."
+          },
+          "cropProofReview": {
+            "status": "no_obvious_major_issue_at_contact_scale",
+            "notes": "No obvious major clipping at contact-sheet scale; inspect final rectified pixels before accepting.",
+            "suggestedOuterCornersNormalized": null
+          }
+        }
+      },
+      "uncertainties": [],
+      "canonicalEditsApplied": false
+    }
+  ],
+  "primaryResearch": [
+    {
+      "recordId": "upper-middle-22",
+      "url": "https://janisian.com/music/between-the-lines/",
+      "supports": "Artist confirms1975 original eleven-track Between the Lines programme."
+    },
+    {
+      "recordId": "upper-middle-23",
+      "url": "https://islandsinspace.com/",
+      "supports": "Paul Marcano’s own site confirms original1981 seven-track Lightdreams album and original limited vinyl issue."
+    },
+    {
+      "recordId": "upper-middle-38",
+      "url": "https://www.jimihendrix.com/encyclopedia/?cat=440&per_page=5",
+      "supports": "Artist estate identifies Axis, RepriseRS6281, first UK1967 and American1968 release. Physical6307 belongs Electric Ladyland, not Axis."
+    },
+    {
+      "recordId": "lower-middle-11",
+      "url": "https://www.worldradiohistory.com/Archive-All-Music/Record-World/70s/RW-1973-11-03.pdf",
+      "supports": "Contemporary Capitol advertisement reproduces the exact Edward Kasper storefront painting and identifies The Band / Moondog Matinee / SW11214."
+    },
+    {
+      "recordId": "lower-middle-69",
+      "url": "https://omd.uk.com/pages/horizon-omd-discography",
+      "supports": "Official artist discography dates Organisation24October1980."
+    }
+  ],
+  "limitations": [
+    "New original photographs prove the visible faces and catalogues, but a front/back pair alone does not determine matrix/runout or every pressing variant.",
+    "Merged source slots must remain traceable to frozen guide IDs; do not renumber later stable IDs.",
+    "Initial contact-sheet guesses are superseded by this proposal:3644Axis,3646LeoKottke→39,3648ElectricLadyland→47,3650BetteMidler→68group;3660StephenStills2."
+  ],
+  "summary": {
+    "pairs": 19,
+    "faces": 38,
+    "proposedMergedSourceSlots": 3,
+    "extraPhysicalAlbums": 1,
+    "manualCropSuggestions": 7,
+    "canonicalEditsApplied": false
+  }
+}

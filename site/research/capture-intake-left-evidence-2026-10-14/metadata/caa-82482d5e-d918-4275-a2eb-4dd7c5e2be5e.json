@@ -1,0 +1,89 @@
+{
+  "recordId": "upper-left-56",
+  "release": {
+    "id": "82482d5e-d918-4275-a2eb-4dd7c5e2be5e",
+    "score": 100,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+    "count": 1,
+    "title": "Between the Buttons",
+    "status": "Official",
+    "disambiguation": "mono US version",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "artist-credit": [
+      {
+        "name": "The Rolling Stones",
+        "artist": {
+          "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+          "name": "The Rolling Stones",
+          "sort-name": "Rolling Stones, The"
+        }
+      }
+    ],
+    "release-group": {
+      "id": "72a77b05-0006-3838-a378-c56b65abc733",
+      "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Between the Buttons",
+      "primary-type": "Album"
+    },
+    "date": "1967-02-11",
+    "country": "US",
+    "release-events": [
+      {
+        "date": "1967-02-11",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "name": "United States",
+          "sort-name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        }
+      }
+    ],
+    "label-info": [
+      {
+        "catalog-number": "LL 3499",
+        "label": {
+          "id": "60a0dd34-2333-4679-9050-38c21f7bc616",
+          "name": "London Records"
+        }
+      }
+    ],
+    "track-count": 12,
+    "media": [
+      {
+        "id": "5dae6f84-cd0f-326e-b0ef-77f07601b20c",
+        "format": "Vinyl",
+        "disc-count": 0,
+        "track-count": 12
+      }
+    ]
+  },
+  "url": "https://coverartarchive.org/release/82482d5e-d918-4275-a2eb-4dd7c5e2be5e",
+  "data": {
+    "release": "https://musicbrainz.org/release/82482d5e-d918-4275-a2eb-4dd7c5e2be5e",
+    "images": [
+      {
+        "comment": "",
+        "edit": 44572241,
+        "types": [
+          "Front"
+        ],
+        "back": false,
+        "image": "http://coverartarchive.org/release/82482d5e-d918-4275-a2eb-4dd7c5e2be5e/16356923778.jpg",
+        "front": true,
+        "thumbnails": {
+          "small": "http://coverartarchive.org/release/82482d5e-d918-4275-a2eb-4dd7c5e2be5e/16356923778-250.jpg",
+          "large": "http://coverartarchive.org/release/82482d5e-d918-4275-a2eb-4dd7c5e2be5e/16356923778-500.jpg"
+        },
+        "id": 16356923778,
+        "approved": true
+      }
+    ]
+  }
+}

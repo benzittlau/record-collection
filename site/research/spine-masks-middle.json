@@ -16,7 +16,7 @@
               552
             ],
             [
-              768.0,
+              768,
               1500
             ],
             [
@@ -28,12 +28,12 @@
               2966
             ],
             [
-              716.0,
+              716,
               1500
             ]
           ],
           "anchor": [
-            965.0,
+            965,
             2965.5
           ],
           "traceConfidence": "measured",
@@ -52,7 +52,7 @@
               527
             ],
             [
-              836.0,
+              836,
               1500
             ],
             [
@@ -64,17 +64,17 @@
               2958
             ],
             [
-              772.0,
+              772,
               1500
             ]
           ],
           "anchor": [
-            1017.0,
-            2956.0
+            1017,
+            2956
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-03",
@@ -84,15 +84,15 @@
               551
             ],
             [
-              736.0,
+              736,
               555
             ],
             [
-              879.0,
+              872,
               1500
             ],
             [
-              1076,
+              1081,
               2932
             ],
             [
@@ -100,17 +100,18 @@
               2937
             ],
             [
-              840.0,
+              840,
               1500
             ]
           ],
           "anchor": [
-            1064.5,
+            1067,
             2934.5
           ],
           "traceConfidence": "measured",
-          "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "notes": "Cabaret’s black face ends before Fricsay’s cream paper. Trim the middle-right boundary from879 to872; extend the old right heel slightly to1081 within the visible black face. Other cap/left anchors preserved.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
         },
         {
           "id": "lower-middle-04",
@@ -120,69 +121,107 @@
               565
             ],
             [
-              830.1,
-              544
+              791,
+              548
             ],
             [
-              934.0,
+              901,
               1500
             ],
             [
-              1098.7,
+              1111,
               2925
             ],
             [
-              1083.8,
+              1087,
               2934
             ],
             [
-              883.0,
+              883,
               1500
             ]
           ],
           "anchor": [
-            1091.2,
+            1099,
             2929.5
           ],
-          "traceConfidence": "estimated",
-          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "traceConfidence": "measured",
+          "notes": "The old wide cap/body included the separate gray Bream sleeve. Keep Fricsay on the cream band between Cabaret’s black spine and the gray seam; cap-right791, body-right901. Correct its displaced foot onto the visible cream rounded heel.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
+        },
+        {
+          "id": "lower-middle-04b",
+          "polygon": [
+            [
+              796,
+              539
+            ],
+            [
+              825,
+              542
+            ],
+            [
+              928,
+              1500
+            ],
+            [
+              1140,
+              2918
+            ],
+            [
+              1119,
+              2927
+            ],
+            [
+              906,
+              1500
+            ]
+          ],
+          "anchor": [
+            1129.5,
+            2922.5
+          ],
+          "traceConfidence": "measured",
+          "notes": "New stable inserted sleeve. The narrow gray band is visible from cap through body to the foot reading Westminster Gold Series. The earlier1101–1116 foot proposal landed on the cream neighbor; corrected foot is1119–1140.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
         },
         {
           "id": "lower-middle-05",
           "polygon": [
             [
-              834.0,
+              834,
               543
             ],
             [
-              860.2,
+              858,
               544
             ],
             [
-              963.0,
+              959,
               1500
             ],
             [
-              1124.8,
-              2927
+              1167,
+              2907
             ],
             [
-              1104.4,
-              2940
+              1145,
+              2915
             ],
             [
-              938.0,
+              933,
               1500
             ]
           ],
           "anchor": [
-            1114.6,
-            2933.5
+            1156,
+            2911
           ],
-          "traceConfidence": "estimated",
-          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "traceConfidence": "measured",
+          "notes": "Firebird’s pale Philips sleeve is immediately right of the gray Bream band. Shift the old foot1104–1125 to the actual pale Philips band1145–1167. Slight body/cap insets exclude the seams.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
         },
         {
           "id": "lower-middle-06",
@@ -192,11 +231,11 @@
               548
             ],
             [
-              897.0,
+              897,
               553
             ],
             [
-              994.0,
+              994,
               1500
             ],
             [
@@ -204,21 +243,22 @@
               2911
             ],
             [
-              1127.7,
+              1173,
               2918
             ],
             [
-              967.0,
+              967,
               1500
             ]
           ],
           "anchor": [
-            1155.7,
+            1178.35,
             2914.5
           ],
-          "traceConfidence": "estimated",
-          "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "traceConfidence": "measured",
+          "notes": "Required minimal adjacent adjustment: keep all existing06 cap, body, right-foot and endpoint heights, but move only left-foot x1127.7 to1173. The old left edge crosses the actual Bream and Firebird feet. This conservative mask covers the left portion of the photographed Ravel heel while retaining a gap before unchanged07.",
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations.",
+          "captureReview": "research/capture-intake-2026-10-14/mask-corrections.json"
         },
         {
           "id": "lower-middle-07",
@@ -228,11 +268,11 @@
               536
             ],
             [
-              931.0,
+              931,
               534
             ],
             [
-              1024.0,
+              1024,
               1500
             ],
             [
@@ -244,17 +284,17 @@
               2929
             ],
             [
-              998.0,
+              998,
               1500
             ]
           ],
           "anchor": [
             1191.8,
-            2921.0
+            2921
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-08",
@@ -268,7 +308,7 @@
               549
             ],
             [
-              1062.0,
+              1062,
               1500
             ],
             [
@@ -280,7 +320,7 @@
               2915
             ],
             [
-              1028.0,
+              1028,
               1500
             ]
           ],
@@ -290,7 +330,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-09",
@@ -304,7 +344,7 @@
               551
             ],
             [
-              1094.0,
+              1094,
               1500
             ],
             [
@@ -316,7 +356,7 @@
               2911
             ],
             [
-              1066.0,
+              1066,
               1500
             ]
           ],
@@ -326,49 +366,49 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-10",
           "polygon": [
             [
-              1022.0,
+              1022,
               520
             ],
             [
-              1038.0,
+              1038,
               524
             ],
             [
-              1138.0,
+              1138,
               1500
             ],
             [
-              1321.0,
+              1321,
               2896
             ],
             [
-              1285.0,
+              1285,
               2902
             ],
             [
-              1098.0,
+              1098,
               1500
             ]
           ],
           "anchor": [
-            1303.0,
-            2899.0
+            1303,
+            2899
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-11",
           "polygon": [
             [
-              1047.0,
+              1047,
               573
             ],
             [
@@ -376,7 +416,7 @@
               574
             ],
             [
-              1162.0,
+              1162,
               1500
             ],
             [
@@ -388,23 +428,23 @@
               2889
             ],
             [
-              1142.0,
+              1142,
               1500
             ]
           ],
           "anchor": [
             1330.6,
-            2886.0
+            2886
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-12",
           "polygon": [
             [
-              1068.0,
+              1068,
               566
             ],
             [
@@ -412,7 +452,7 @@
               560
             ],
             [
-              1205.0,
+              1205,
               1500
             ],
             [
@@ -424,17 +464,17 @@
               2894
             ],
             [
-              1166.0,
+              1166,
               1500
             ]
           ],
           "anchor": [
             1360.1,
-            2891.0
+            2891
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-13",
@@ -448,7 +488,7 @@
               528
             ],
             [
-              1255.0,
+              1255,
               1500
             ],
             [
@@ -460,7 +500,7 @@
               2880
             ],
             [
-              1209.0,
+              1209,
               1500
             ]
           ],
@@ -470,13 +510,13 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-14",
           "polygon": [
             [
-              1136.0,
+              1136,
               526
             ],
             [
@@ -484,7 +524,7 @@
               527
             ],
             [
-              1288.0,
+              1288,
               1500
             ],
             [
@@ -496,23 +536,23 @@
               2881
             ],
             [
-              1259.0,
+              1259,
               1500
             ]
           ],
           "anchor": [
             1435.2,
-            2879.0
+            2879
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-15",
           "polygon": [
             [
-              1183.0,
+              1183,
               562
             ],
             [
@@ -520,7 +560,7 @@
               552
             ],
             [
-              1362.0,
+              1362,
               1500
             ],
             [
@@ -532,17 +572,17 @@
               2870
             ],
             [
-              1292.0,
+              1292,
               1500
             ]
           ],
           "anchor": [
             1482.1,
-            2868.0
+            2868
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-16",
@@ -556,7 +596,7 @@
               561
             ],
             [
-              1391.0,
+              1391,
               1500
             ],
             [
@@ -568,7 +608,7 @@
               2874
             ],
             [
-              1366.0,
+              1366,
               1500
             ]
           ],
@@ -578,7 +618,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-17",
@@ -592,7 +632,7 @@
               560
             ],
             [
-              1417.0,
+              1417,
               1500
             ],
             [
@@ -604,7 +644,7 @@
               2870
             ],
             [
-              1395.0,
+              1395,
               1500
             ]
           ],
@@ -614,7 +654,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-18",
@@ -628,7 +668,7 @@
               543
             ],
             [
-              1482.0,
+              1482,
               1500
             ],
             [
@@ -640,17 +680,17 @@
               2865
             ],
             [
-              1463.0,
+              1463,
               1500
             ]
           ],
           "anchor": [
             1595.2,
-            2864.0
+            2864
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-19",
@@ -664,7 +704,7 @@
               553
             ],
             [
-              1533.0,
+              1533,
               1500
             ],
             [
@@ -672,11 +712,11 @@
               2864
             ],
             [
-              1612.0,
+              1612,
               2867
             ],
             [
-              1486.0,
+              1486,
               1500
             ]
           ],
@@ -686,7 +726,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-20",
@@ -700,7 +740,7 @@
               563
             ],
             [
-              1459.0,
+              1459,
               1500
             ],
             [
@@ -708,11 +748,11 @@
               2861
             ],
             [
-              1565.0,
+              1565,
               2864
             ],
             [
-              1421.0,
+              1421,
               1500
             ]
           ],
@@ -722,7 +762,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-21",
@@ -736,11 +776,11 @@
               569
             ],
             [
-              1571.0,
+              1571,
               1500
             ],
             [
-              1681.0,
+              1681,
               2857
             ],
             [
@@ -748,7 +788,7 @@
               2860
             ],
             [
-              1537.0,
+              1537,
               1500
             ]
           ],
@@ -758,7 +798,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-22",
@@ -772,11 +812,11 @@
               574
             ],
             [
-              1593.0,
+              1593,
               1500
             ],
             [
-              1697.0,
+              1697,
               2857
             ],
             [
@@ -784,17 +824,17 @@
               2861
             ],
             [
-              1575.0,
+              1575,
               1500
             ]
           ],
           "anchor": [
             1691.2,
-            2859.0
+            2859
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-23",
@@ -808,7 +848,7 @@
               552
             ],
             [
-              1616.0,
+              1616,
               1500
             ],
             [
@@ -820,23 +860,23 @@
               2863
             ],
             [
-              1597.0,
+              1597,
               1500
             ]
           ],
           "anchor": [
             1720.9,
-            2864.0
+            2864
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-24",
           "polygon": [
             [
-              1515.0,
+              1515,
               545
             ],
             [
@@ -844,7 +884,7 @@
               547
             ],
             [
-              1653.0,
+              1653,
               1500
             ],
             [
@@ -856,17 +896,17 @@
               2864
             ],
             [
-              1620.0,
+              1620,
               1500
             ]
           ],
           "anchor": [
             1744.8,
-            2863.0
+            2863
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-25",
@@ -884,7 +924,7 @@
               1500
             ],
             [
-              1753.0,
+              1753,
               2859
             ],
             [
@@ -902,7 +942,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-26",
@@ -916,7 +956,7 @@
               551
             ],
             [
-              1721.0,
+              1721,
               1500
             ],
             [
@@ -928,17 +968,17 @@
               2861
             ],
             [
-              1667.0,
+              1667,
               1500
             ]
           ],
           "anchor": [
             1777.5,
-            2860.0
+            2860
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-27",
@@ -952,7 +992,7 @@
               567
             ],
             [
-              1748.0,
+              1748,
               1500
             ],
             [
@@ -960,21 +1000,21 @@
               2837
             ],
             [
-              1810.0,
+              1810,
               2841
             ],
             [
-              1725.0,
+              1725,
               1500
             ]
           ],
           "anchor": [
             1821.3,
-            2839.0
+            2839
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-28",
@@ -988,7 +1028,7 @@
               553
             ],
             [
-              1781.0,
+              1781,
               1500
             ],
             [
@@ -996,11 +1036,11 @@
               2840
             ],
             [
-              1837.0,
+              1837,
               2841
             ],
             [
-              1752.0,
+              1752,
               1500
             ]
           ],
@@ -1010,7 +1050,7 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-29",
@@ -1024,7 +1064,7 @@
               554
             ],
             [
-              1808.0,
+              1808,
               1500
             ],
             [
@@ -1036,7 +1076,7 @@
               2843
             ],
             [
-              1785.0,
+              1785,
               1500
             ]
           ],
@@ -1046,7 +1086,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-30",
@@ -1060,7 +1100,7 @@
               577
             ],
             [
-              1840.0,
+              1840,
               1500
             ],
             [
@@ -1072,7 +1112,7 @@
               2820
             ],
             [
-              1812.0,
+              1812,
               1500
             ]
           ],
@@ -1082,7 +1122,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-31",
@@ -1096,7 +1136,7 @@
               539
             ],
             [
-              1887.0,
+              1887,
               1500
             ],
             [
@@ -1108,17 +1148,17 @@
               2842
             ],
             [
-              1844.0,
+              1844,
               1500
             ]
           ],
           "anchor": [
             1948.9,
-            2840.0
+            2840
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-32",
@@ -1132,7 +1172,7 @@
               548
             ],
             [
-              1930.0,
+              1930,
               1500
             ],
             [
@@ -1140,21 +1180,21 @@
               2838
             ],
             [
-              1964.0,
+              1964,
               2840
             ],
             [
-              1891.0,
+              1891,
               1500
             ]
           ],
           "anchor": [
             1977.5,
-            2839.0
+            2839
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-33",
@@ -1168,7 +1208,7 @@
               572
             ],
             [
-              1956.0,
+              1956,
               1500
             ],
             [
@@ -1180,17 +1220,17 @@
               2810
             ],
             [
-              1934.0,
+              1934,
               1500
             ]
           ],
           "anchor": [
             2006.1,
-            2807.0
+            2807
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-34",
@@ -1204,7 +1244,7 @@
               571
             ],
             [
-              1984.0,
+              1984,
               1500
             ],
             [
@@ -1216,17 +1256,17 @@
               2811
             ],
             [
-              1960.0,
+              1960,
               1500
             ]
           ],
           "anchor": [
             2037.5,
-            2810.0
+            2810
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-35",
@@ -1240,7 +1280,7 @@
               546
             ],
             [
-              2017.0,
+              2017,
               1500
             ],
             [
@@ -1252,7 +1292,7 @@
               2805
             ],
             [
-              1988.0,
+              1988,
               1500
             ]
           ],
@@ -1262,7 +1302,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-36",
@@ -1276,7 +1316,7 @@
               549
             ],
             [
-              2045.0,
+              2045,
               1500
             ],
             [
@@ -1288,7 +1328,7 @@
               2800
             ],
             [
-              2021.0,
+              2021,
               1500
             ]
           ],
@@ -1298,7 +1338,7 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-37",
@@ -1312,7 +1352,7 @@
               557
             ],
             [
-              2068.0,
+              2068,
               1500
             ],
             [
@@ -1324,17 +1364,17 @@
               2780
             ],
             [
-              2049.0,
+              2049,
               1500
             ]
           ],
           "anchor": [
-            2110.0,
+            2110,
             2777.5
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-38",
@@ -1348,7 +1388,7 @@
               570
             ],
             [
-              2209.0,
+              2209,
               1500
             ],
             [
@@ -1360,7 +1400,7 @@
               2790
             ],
             [
-              2072.0,
+              2072,
               1500
             ]
           ],
@@ -1370,7 +1410,7 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-39",
@@ -1380,11 +1420,11 @@
               579
             ],
             [
-              2234.0,
+              2234,
               575
             ],
             [
-              2234.0,
+              2234,
               1500
             ],
             [
@@ -1396,7 +1436,7 @@
               2775
             ],
             [
-              2213.0,
+              2213,
               1500
             ]
           ],
@@ -1406,13 +1446,13 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-40",
           "polygon": [
             [
-              2238.0,
+              2238,
               573
             ],
             [
@@ -1420,7 +1460,7 @@
               570
             ],
             [
-              2253.0,
+              2253,
               1500
             ],
             [
@@ -1432,7 +1472,7 @@
               2776
             ],
             [
-              2238.0,
+              2238,
               1500
             ]
           ],
@@ -1442,7 +1482,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-41",
@@ -1456,11 +1496,11 @@
               549
             ],
             [
-              2277.0,
+              2277,
               1500
             ],
             [
-              2308.0,
+              2308,
               2768
             ],
             [
@@ -1468,17 +1508,17 @@
               2770
             ],
             [
-              2257.0,
+              2257,
               1500
             ]
           ],
           "anchor": [
             2305.1,
-            2769.0
+            2769
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-42",
@@ -1492,7 +1532,7 @@
               551
             ],
             [
-              2330.0,
+              2330,
               1500
             ],
             [
@@ -1504,7 +1544,7 @@
               2761
             ],
             [
-              2281.0,
+              2281,
               1500
             ]
           ],
@@ -1514,7 +1554,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-43",
@@ -1528,7 +1568,7 @@
               579
             ],
             [
-              2368.0,
+              2368,
               1500
             ],
             [
@@ -1536,11 +1576,11 @@
               2742
             ],
             [
-              2377.0,
+              2377,
               2747
             ],
             [
-              2334.0,
+              2334,
               1500
             ]
           ],
@@ -1550,7 +1590,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-44",
@@ -1564,7 +1604,7 @@
               582
             ],
             [
-              2384.0,
+              2384,
               1500
             ],
             [
@@ -1576,17 +1616,17 @@
               2744
             ],
             [
-              2372.0,
+              2372,
               1500
             ]
           ],
           "anchor": [
             2418.1,
-            2743.0
+            2743
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-45",
@@ -1600,7 +1640,7 @@
               542
             ],
             [
-              2431.0,
+              2431,
               1500
             ],
             [
@@ -1612,7 +1652,7 @@
               2737
             ],
             [
-              2388.0,
+              2388,
               1500
             ]
           ],
@@ -1622,7 +1662,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-46",
@@ -1632,15 +1672,15 @@
               585
             ],
             [
-              2455.0,
+              2455,
               586
             ],
             [
-              2463.0,
+              2463,
               1500
             ],
             [
-              2489.0,
+              2489,
               2734
             ],
             [
@@ -1648,31 +1688,31 @@
               2740
             ],
             [
-              2435.0,
+              2435,
               1500
             ]
           ],
           "anchor": [
             2473.7,
-            2737.0
+            2737
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-47",
           "polygon": [
             [
-              2459.0,
+              2459,
               579
             ],
             [
-              2493.0,
+              2493,
               576
             ],
             [
-              2493.0,
+              2493,
               1500
             ],
             [
@@ -1684,7 +1724,7 @@
               2738
             ],
             [
-              2467.0,
+              2467,
               1500
             ]
           ],
@@ -1694,13 +1734,13 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-48",
           "polygon": [
             [
-              2497.0,
+              2497,
               585
             ],
             [
@@ -1708,7 +1748,7 @@
               588
             ],
             [
-              2552.0,
+              2552,
               1500
             ],
             [
@@ -1720,17 +1760,17 @@
               2735
             ],
             [
-              2497.0,
+              2497,
               1500
             ]
           ],
           "anchor": [
             2550.5,
-            2733.0
+            2733
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-49",
@@ -1744,7 +1784,7 @@
               584
             ],
             [
-              2583.0,
+              2583,
               1500
             ],
             [
@@ -1756,17 +1796,17 @@
               2733
             ],
             [
-              2556.0,
+              2556,
               1500
             ]
           ],
           "anchor": [
             2589.9,
-            2731.0
+            2731
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-50",
@@ -1780,11 +1820,11 @@
               593
             ],
             [
-              2612.0,
+              2612,
               1500
             ],
             [
-              2639.0,
+              2639,
               2716
             ],
             [
@@ -1792,17 +1832,17 @@
               2722
             ],
             [
-              2587.0,
+              2587,
               1500
             ]
           ],
           "anchor": [
             2623.2,
-            2719.0
+            2719
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-51",
@@ -1816,7 +1856,7 @@
               531
             ],
             [
-              2645.0,
+              2645,
               1500
             ],
             [
@@ -1828,7 +1868,7 @@
               2712
             ],
             [
-              2616.0,
+              2616,
               1500
             ]
           ],
@@ -1838,7 +1878,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-52",
@@ -1848,11 +1888,11 @@
               558
             ],
             [
-              2684.0,
+              2684,
               550
             ],
             [
-              2684.0,
+              2684,
               1500
             ],
             [
@@ -1864,7 +1904,7 @@
               2706
             ],
             [
-              2649.0,
+              2649,
               1500
             ]
           ],
@@ -1874,13 +1914,13 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-53",
           "polygon": [
             [
-              2688.0,
+              2688,
               546
             ],
             [
@@ -1888,7 +1928,7 @@
               550
             ],
             [
-              2712.0,
+              2712,
               1500
             ],
             [
@@ -1900,17 +1940,17 @@
               2703
             ],
             [
-              2688.0,
+              2688,
               1500
             ]
           ],
           "anchor": [
             2706.6,
-            2701.0
+            2701
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-54",
@@ -1924,11 +1964,11 @@
               562
             ],
             [
-              2744.0,
+              2744,
               1500
             ],
             [
-              2740.0,
+              2740,
               2694
             ],
             [
@@ -1936,17 +1976,17 @@
               2700
             ],
             [
-              2716.0,
+              2716,
               1500
             ]
           ],
           "anchor": [
             2731.3,
-            2697.0
+            2697
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-55",
@@ -1960,19 +2000,19 @@
               578
             ],
             [
-              2775.0,
+              2775,
               1500
             ],
             [
-              2775.0,
+              2775,
               2677
             ],
             [
-              2744.0,
+              2744,
               2682
             ],
             [
-              2748.0,
+              2748,
               1500
             ]
           ],
@@ -1982,7 +2022,7 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-56",
@@ -1996,7 +2036,7 @@
               594
             ],
             [
-              2800.0,
+              2800,
               1500
             ],
             [
@@ -2004,11 +2044,11 @@
               2669
             ],
             [
-              2779.0,
+              2779,
               2674
             ],
             [
-              2779.0,
+              2779,
               1500
             ]
           ],
@@ -2018,7 +2058,7 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-57",
@@ -2032,7 +2072,7 @@
               584
             ],
             [
-              2853.0,
+              2853,
               1500
             ],
             [
@@ -2044,7 +2084,7 @@
               2691
             ],
             [
-              2804.0,
+              2804,
               1500
             ]
           ],
@@ -2054,7 +2094,7 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-58",
@@ -2068,7 +2108,7 @@
               576
             ],
             [
-              2881.0,
+              2881,
               1500
             ],
             [
@@ -2080,7 +2120,7 @@
               2664
             ],
             [
-              2857.0,
+              2857,
               1500
             ]
           ],
@@ -2090,7 +2130,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-59",
@@ -2104,7 +2144,7 @@
               574
             ],
             [
-              2904.0,
+              2904,
               1500
             ],
             [
@@ -2116,17 +2156,17 @@
               2655
             ],
             [
-              2885.0,
+              2885,
               1500
             ]
           ],
           "anchor": [
             2876.6,
-            2655.0
+            2655
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-60",
@@ -2140,7 +2180,7 @@
               575
             ],
             [
-              2928.0,
+              2928,
               1500
             ],
             [
@@ -2152,17 +2192,17 @@
               2649
             ],
             [
-              2908.0,
+              2908,
               1500
             ]
           ],
           "anchor": [
             2891.9,
-            2647.0
+            2647
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-61",
@@ -2172,11 +2212,11 @@
               576
             ],
             [
-              2989.0,
+              2989,
               578
             ],
             [
-              2966.0,
+              2966,
               1500
             ],
             [
@@ -2188,17 +2228,17 @@
               2649
             ],
             [
-              2932.0,
+              2932,
               1500
             ]
           ],
           "anchor": [
             2910.2,
-            2645.0
+            2645
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-62",
@@ -2212,7 +2252,7 @@
               575
             ],
             [
-              2993.0,
+              2993,
               1500
             ],
             [
@@ -2224,7 +2264,7 @@
               2642
             ],
             [
-              2970.0,
+              2970,
               1500
             ]
           ],
@@ -2234,7 +2274,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-63",
@@ -2248,7 +2288,7 @@
               580
             ],
             [
-              3017.0,
+              3017,
               1500
             ],
             [
@@ -2260,7 +2300,7 @@
               2637
             ],
             [
-              2997.0,
+              2997,
               1500
             ]
           ],
@@ -2270,7 +2310,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-64",
@@ -2284,7 +2324,7 @@
               582
             ],
             [
-              3052.0,
+              3052,
               1500
             ],
             [
@@ -2296,17 +2336,17 @@
               2632
             ],
             [
-              3021.0,
+              3021,
               1500
             ]
           ],
           "anchor": [
             2991.3,
-            2630.0
+            2630
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-65",
@@ -2320,7 +2360,7 @@
               609
             ],
             [
-              3086.0,
+              3086,
               1500
             ],
             [
@@ -2332,7 +2372,7 @@
               2627
             ],
             [
-              3056.0,
+              3056,
               1500
             ]
           ],
@@ -2342,7 +2382,7 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-66",
@@ -2356,7 +2396,7 @@
               576
             ],
             [
-              3099.0,
+              3099,
               1500
             ],
             [
@@ -2368,17 +2408,17 @@
               2618
             ],
             [
-              3090.0,
+              3090,
               1500
             ]
           ],
           "anchor": [
             3037.4,
-            2616.0
+            2616
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-67",
@@ -2392,7 +2432,7 @@
               577
             ],
             [
-              3136.0,
+              3136,
               1500
             ],
             [
@@ -2404,7 +2444,7 @@
               2608
             ],
             [
-              3103.0,
+              3103,
               1500
             ]
           ],
@@ -2414,7 +2454,7 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-68",
@@ -2428,7 +2468,7 @@
               562
             ],
             [
-              3172.0,
+              3172,
               1500
             ],
             [
@@ -2440,7 +2480,7 @@
               2605
             ],
             [
-              3140.0,
+              3140,
               1500
             ]
           ],
@@ -2450,7 +2490,7 @@
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-69",
@@ -2464,7 +2504,7 @@
               569
             ],
             [
-              3196.0,
+              3196,
               1500
             ],
             [
@@ -2476,17 +2516,17 @@
               2598
             ],
             [
-              3176.0,
+              3176,
               1500
             ]
           ],
           "anchor": [
             3106.1,
-            2597.0
+            2597
           ],
           "traceConfidence": "estimated",
           "notes": "Boundary estimate constrained to visible sleeve band; some thin or worn neighboring edges remain ambiguous.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         },
         {
           "id": "lower-middle-70",
@@ -2496,11 +2536,11 @@
               570
             ],
             [
-              3351.0,
+              3351,
               565
             ],
             [
-              3240.0,
+              3240,
               1500
             ],
             [
@@ -2512,7 +2552,7 @@
               2594
             ],
             [
-              3200.0,
+              3200,
               1500
             ]
           ],
@@ -2522,10 +2562,10 @@
           ],
           "traceConfidence": "measured",
           "notes": "Photographed side seams measured at three source heights.",
-          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2\u20134px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
+          "endpointNotes": "Per-sleeve front-face cap and foot heights measured in the EXIF-oriented original;2–4px inset where the paper edge is clear. Reviewed side/body anchors are preserved; tiny rounded and ragged tips use straight corner approximations."
         }
       ],
-      "notes": "Single physical compartment. Per-sleeve cap/foot corner heights measured from full-resolution EXIF-oriented original photos. Existing source middle-body vertices and stable IDs are preserved. Marker anchors are the individual foot midpoints. Worn or rounded paper corners use a conservative straight edge, generally2\u20134px inside visible sleeve faces; shelf shadows and exposed white frame are excluded. The outer frame corner is photo-clipped, but the first paper heel is visible and measured near y2970; its mask stops on the sleeve rather than the gray shelf shadow below it.",
+      "notes": "Single physical compartment. Per-sleeve cap/foot corner heights measured from full-resolution EXIF-oriented original photos. Existing source middle-body vertices and stable IDs are preserved. Marker anchors are the individual foot midpoints. Worn or rounded paper corners use a conservative straight edge, generally2–4px inside visible sleeve faces; shelf shadows and exposed white frame are excluded. The outer frame corner is photo-clipped, but the first paper heel is visible and measured near y2970; its mask stops on the sleeve rather than the gray shelf shadow below it.",
       "sourceSize": [
         4032,
         3024
@@ -2547,11 +2587,11 @@
               410
             ],
             [
-              621.0,
+              621,
               417
             ],
             [
-              686.0,
+              686,
               1500
             ],
             [
@@ -2598,7 +2638,7 @@
               2713
             ],
             [
-              690.0,
+              690,
               1500
             ]
           ],
@@ -2617,7 +2657,7 @@
               442
             ],
             [
-              695.0,
+              695,
               441
             ],
             [
@@ -2709,7 +2749,7 @@
           ],
           "anchor": [
             913.6,
-            2692.0
+            2692
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -2743,7 +2783,7 @@
             ]
           ],
           "anchor": [
-            944.0,
+            944,
             2698.5
           ],
           "traceConfidence": "measured",
@@ -2761,7 +2801,7 @@
               435
             ],
             [
-              935.0,
+              935,
               1500
             ],
             [
@@ -2788,7 +2828,7 @@
           "id": "upper-middle-08",
           "polygon": [
             [
-              897.0,
+              897,
               450
             ],
             [
@@ -2808,13 +2848,13 @@
               2714
             ],
             [
-              939.0,
+              939,
               1500
             ]
           ],
           "anchor": [
-            993.0,
-            2715.0
+            993,
+            2715
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -2884,7 +2924,7 @@
           ],
           "anchor": [
             1046.8,
-            2701.0
+            2701
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -2909,7 +2949,7 @@
               2686
             ],
             [
-              1066.0,
+              1066,
               2688
             ],
             [
@@ -2919,7 +2959,7 @@
           ],
           "anchor": [
             1086.6,
-            2687.0
+            2687
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -2954,7 +2994,7 @@
           ],
           "anchor": [
             1128.3,
-            2694.0
+            2694
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3014,7 +3054,7 @@
               2746
             ],
             [
-              1186.0,
+              1186,
               2741
             ],
             [
@@ -3023,7 +3063,7 @@
             ]
           ],
           "anchor": [
-            1198.0,
+            1198,
             2743.5
           ],
           "traceConfidence": "measured",
@@ -3103,7 +3143,7 @@
           "id": "upper-middle-17",
           "polygon": [
             [
-              1221.0,
+              1221,
               441
             ],
             [
@@ -3163,8 +3203,8 @@
             ]
           ],
           "anchor": [
-            1304.0,
-            2672.0
+            1304,
+            2672
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3185,7 +3225,7 @@
               1500
             ],
             [
-              1346.0,
+              1346,
               2667
             ],
             [
@@ -3216,7 +3256,7 @@
               464
             ],
             [
-              1361.0,
+              1361,
               1500
             ],
             [
@@ -3234,7 +3274,7 @@
           ],
           "anchor": [
             1361.4,
-            2669.0
+            2669
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3263,13 +3303,13 @@
               2664
             ],
             [
-              1365.0,
+              1365,
               1500
             ]
           ],
           "anchor": [
             1390.9,
-            2664.0
+            2664
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3303,8 +3343,8 @@
             ]
           ],
           "anchor": [
-            1425.0,
-            2709.0
+            1425,
+            2709
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3352,7 +3392,7 @@
               463
             ],
             [
-              1494.0,
+              1494,
               459
             ],
             [
@@ -3444,7 +3484,7 @@
           ],
           "anchor": [
             1576.6,
-            2652.0
+            2652
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3479,7 +3519,7 @@
           ],
           "anchor": [
             1622.1,
-            2654.0
+            2654
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3548,7 +3588,7 @@
             ]
           ],
           "anchor": [
-            1687.0,
+            1687,
             2655.5
           ],
           "traceConfidence": "measured",
@@ -3654,7 +3694,7 @@
           ],
           "anchor": [
             1821.3,
-            2655.0
+            2655
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3675,7 +3715,7 @@
               1500
             ],
             [
-              1871.0,
+              1871,
               2655
             ],
             [
@@ -3689,7 +3729,7 @@
           ],
           "anchor": [
             1856.7,
-            2654.0
+            2654
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3710,7 +3750,7 @@
               1500
             ],
             [
-              1928.0,
+              1928,
               2643
             ],
             [
@@ -3724,7 +3764,7 @@
           ],
           "anchor": [
             1906.4,
-            2644.0
+            2644
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3877,7 +3917,7 @@
               509
             ],
             [
-              2158.0,
+              2158,
               507
             ],
             [
@@ -3885,7 +3925,7 @@
               1500
             ],
             [
-              2103.0,
+              2103,
               2631
             ],
             [
@@ -3899,7 +3939,7 @@
           ],
           "anchor": [
             2095.1,
-            2631.0
+            2631
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3924,7 +3964,7 @@
               2634
             ],
             [
-              2107.0,
+              2107,
               2630
             ],
             [
@@ -3934,7 +3974,7 @@
           ],
           "anchor": [
             2127.2,
-            2632.0
+            2632
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -3969,7 +4009,7 @@
           ],
           "anchor": [
             2166.8,
-            2622.0
+            2622
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4003,8 +4043,8 @@
             ]
           ],
           "anchor": [
-            2203.0,
-            2623.0
+            2203,
+            2623
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4039,7 +4079,7 @@
           ],
           "anchor": [
             2237.2,
-            2609.0
+            2609
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4052,11 +4092,11 @@
               443
             ],
             [
-              2355.0,
+              2355,
               433
             ],
             [
-              2323.0,
+              2323,
               1500
             ],
             [
@@ -4074,7 +4114,7 @@
           ],
           "anchor": [
             2272.4,
-            2590.0
+            2590
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4087,7 +4127,7 @@
               497
             ],
             [
-              2379.0,
+              2379,
               497
             ],
             [
@@ -4103,13 +4143,13 @@
               2606
             ],
             [
-              2327.0,
+              2327,
               1500
             ]
           ],
           "anchor": [
             2299.8,
-            2607.0
+            2607
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4178,7 +4218,7 @@
             ]
           ],
           "anchor": [
-            2387.0,
+            2387,
             2607.5
           ],
           "traceConfidence": "measured",
@@ -4200,7 +4240,7 @@
               1500
             ],
             [
-              2423.0,
+              2423,
               2605
             ],
             [
@@ -4249,7 +4289,7 @@
           ],
           "anchor": [
             2433.9,
-            2606.0
+            2606
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4274,7 +4314,7 @@
               2595
             ],
             [
-              2445.0,
+              2445,
               2597
             ],
             [
@@ -4284,7 +4324,7 @@
           ],
           "anchor": [
             2468.3,
-            2596.0
+            2596
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4319,7 +4359,7 @@
           ],
           "anchor": [
             2499.1,
-            2591.0
+            2591
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4340,7 +4380,7 @@
               1500
             ],
             [
-              2538.0,
+              2538,
               2586
             ],
             [
@@ -4389,7 +4429,7 @@
           ],
           "anchor": [
             2544.6,
-            2585.0
+            2585
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4398,11 +4438,11 @@
           "id": "upper-middle-54",
           "polygon": [
             [
-              2649.0,
+              2649,
               532
             ],
             [
-              2667.0,
+              2667,
               533
             ],
             [
@@ -4424,7 +4464,7 @@
           ],
           "anchor": [
             2552.7,
-            2603.0
+            2603
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4449,7 +4489,7 @@
               2586
             ],
             [
-              2560.0,
+              2560,
               2585
             ],
             [
@@ -4519,7 +4559,7 @@
               2593
             ],
             [
-              2617.0,
+              2617,
               2598
             ],
             [
@@ -4542,7 +4582,7 @@
               538
             ],
             [
-              2816.0,
+              2816,
               544
             ],
             [
@@ -4564,7 +4604,7 @@
           ],
           "anchor": [
             2669.2,
-            2596.0
+            2596
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4682,7 +4722,7 @@
               529
             ],
             [
-              2937.0,
+              2937,
               524
             ],
             [
@@ -4694,7 +4734,7 @@
               2590
             ],
             [
-              2777.0,
+              2777,
               2592
             ],
             [
@@ -4704,7 +4744,7 @@
           ],
           "anchor": [
             2780.6,
-            2591.0
+            2591
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4725,7 +4765,7 @@
               1500
             ],
             [
-              2830.0,
+              2830,
               2594
             ],
             [
@@ -4739,7 +4779,7 @@
           ],
           "anchor": [
             2808.9,
-            2593.0
+            2593
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4752,7 +4792,7 @@
               538
             ],
             [
-              3017.0,
+              3017,
               540
             ],
             [
@@ -4774,7 +4814,7 @@
           ],
           "anchor": [
             2848.8,
-            2594.0
+            2594
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4809,7 +4849,7 @@
           ],
           "anchor": [
             2872.2,
-            2595.0
+            2595
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4844,7 +4884,7 @@
           ],
           "anchor": [
             2893.5,
-            2594.0
+            2594
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4878,8 +4918,8 @@
             ]
           ],
           "anchor": [
-            2915.0,
-            2593.0
+            2915,
+            2593
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."
@@ -4892,7 +4932,7 @@
               524
             ],
             [
-              3156.0,
+              3156,
               527
             ],
             [
@@ -4914,7 +4954,7 @@
           ],
           "anchor": [
             2931.2,
-            2604.0
+            2604
           ],
           "traceConfidence": "measured",
           "notes": "Cap/foot corner heights measured per sleeve in the full-resolution photo, approximately2-4px inside visible edge. Existing estimated side seam slopes retained; tiny folded/rounded tips use a straight endpoint approximation."

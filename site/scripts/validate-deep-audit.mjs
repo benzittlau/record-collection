@@ -5,13 +5,23 @@ const audits=[];
 for(const name of ['left','middle','right']){
   const data=JSON.parse(await readFile(new URL(`../research/deep-${name}-audit.json`,import.meta.url),'utf8'));
   const rows=Array.isArray(data)?data:data.records;
-  assert.equal(rows.length,{left:126,middle:138,right:54}[name],`Incomplete ${name} audit`);
+  const boxes={left:['upper-left','lower-left'],middle:['upper-middle','lower-middle'],right:['right']}[name];
+  const expected=catalog.records.filter(row=>boxes.includes(row.box));
+  assert.equal(rows.length,expected.length,`Incomplete ${name} audit`);
+  assert.deepEqual([...rows.map(row=>row.id)].sort(),expected.map(row=>row.id).sort(),`Wrong ${name} audit coverage`);
   for(const row of rows){assert(row.id&&row.status,`Missing audit outcome in ${name}`);assert(!/pending|staged|proposed/i.test(row.status),`Unfinished research ${row.id}`);assert(Array.isArray(row.neededFaces),`Missing capture decision ${row.id}`);assert(row.neededFaces.every(face=>['front','back'].includes(face)),`Unexpected capture face ${row.id}`);audits.push(row);}
 }
 assert.equal(new Set(audits.map(r=>r.id)).size,catalog.records.length,'Duplicate or missing audit IDs');
 for(const r of catalog.records){
   const audit=audits.find(a=>a.id===r.id);assert(audit,`No audit ${r.id}`);assert.equal(audit.position,r.position,`Stale physical order ${r.id}`);
   assert.equal(audit.title,r.title,`Stale researched title ${r.id}`);assert.equal(audit.confidence,r.confidence,`Stale confidence ${r.id}`);
-  if(r.confidence!=='confirmed'||!r.cover||!r.back)assert(audit.neededFaces.length,`Capture gap omitted ${r.id}`);
+  if(r.mergedInto){
+    assert.equal(audit.status,'resolved-fold-from-family-capture',`Unresolved sleeve alias ${r.id}`);
+    assert.deepEqual(audit.neededFaces,[],`Fold alias must not request another physical jacket ${r.id}`);
+  }else if(r.confidence!=='confirmed'||!r.cover||!r.back)assert(audit.neededFaces.length,`Capture gap omitted ${r.id}`);
+  if(r.familyCapture){
+    assert.equal(audit.captureReceipt,r.familyCapture.auditFile,`Missing capture provenance ${r.id}`);
+    assert.deepEqual(audit.neededFaces,[],`Photographed pair still requests capture ${r.id}`);
+  }
 }
 console.log(`Validated ${audits.length} final research outcomes, physical order, identities and remaining capture needs.`);

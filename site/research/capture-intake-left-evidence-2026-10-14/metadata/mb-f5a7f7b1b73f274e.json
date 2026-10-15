@@ -1,0 +1,499 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/?query=artist%3A%22Bo+Hansson%22+AND+release%3Ahat&fmt=json&limit=100",
+  "retrieved": "2026-10-15T03:17:59Z",
+  "data": {
+    "created": "2026-10-15T03:17:59.973Z",
+    "count": 7,
+    "offset": 0,
+    "releases": [
+      {
+        "id": "8719ad34-f6f2-4963-9de8-38cd997e5279",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "1621b0fc-f4ab-3a57-908e-ec5757aa79ae",
+        "count": 1,
+        "title": "Magician's Hat",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Bo Hansson",
+            "artist": {
+              "id": "d49d73a0-384e-40c7-9b89-89c98f07d674",
+              "name": "Bo Hansson",
+              "sort-name": "Hansson, Bo",
+              "disambiguation": "prog rock / jazz musician, 1943–2010"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "db5dfdfe-ff3b-3768-acc1-aecde748c46c",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ur trollkarlens hatt",
+          "primary-type": "Album"
+        },
+        "date": "2004",
+        "country": "XE",
+        "release-events": [
+          {
+            "date": "2004",
+            "area": {
+              "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+              "name": "Europe",
+              "sort-name": "Europe",
+              "iso-3166-1-codes": [
+                "XE"
+              ]
+            }
+          }
+        ],
+        "barcode": "724386444721",
+        "label-info": [
+          {
+            "catalog-number": "7243 8 66134 2 4",
+            "label": {
+              "id": "49b58bdb-3d74-40c6-956a-4c4b46115c9c",
+              "name": "Virgin"
+            }
+          }
+        ],
+        "track-count": 13,
+        "media": [
+          {
+            "id": "c3c4ba0b-1407-311d-bd21-4d71f7aa5740",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 13
+          }
+        ]
+      },
+      {
+        "id": "4659a9c1-5df5-3fe6-a97c-652052d260c9",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "1621b0fc-f4ab-3a57-908e-ec5757aa79ae",
+        "count": 1,
+        "title": "Magician's Hat",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Bo Hansson",
+            "artist": {
+              "id": "d49d73a0-384e-40c7-9b89-89c98f07d674",
+              "name": "Bo Hansson",
+              "sort-name": "Hansson, Bo",
+              "disambiguation": "prog rock / jazz musician, 1943–2010"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "db5dfdfe-ff3b-3768-acc1-aecde748c46c",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ur trollkarlens hatt",
+          "primary-type": "Album"
+        },
+        "date": "1973",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "1973",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "label-info": [
+          {
+            "catalog-number": "6369 945",
+            "label": {
+              "id": "924da91f-86a6-4f15-842f-b9afb645fe5c",
+              "name": "Charisma"
+            }
+          }
+        ],
+        "track-count": 11,
+        "media": [
+          {
+            "id": "b3fee619-ffff-3975-8c7c-a61cd119f313",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 11
+          }
+        ]
+      },
+      {
+        "id": "051fd8a0-bb85-4da8-8f83-fdce383f3838",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "1621b0fc-f4ab-3a57-908e-ec5757aa79ae",
+        "count": 1,
+        "title": "Magician's Hat",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Bo Hansson",
+            "artist": {
+              "id": "d49d73a0-384e-40c7-9b89-89c98f07d674",
+              "name": "Bo Hansson",
+              "sort-name": "Hansson, Bo",
+              "disambiguation": "prog rock / jazz musician, 1943–2010"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "db5dfdfe-ff3b-3768-acc1-aecde748c46c",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ur trollkarlens hatt",
+          "primary-type": "Album"
+        },
+        "date": "1973",
+        "country": "GB",
+        "release-events": [
+          {
+            "date": "1973",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "iso-3166-1-codes": [
+                "GB"
+              ]
+            }
+          }
+        ],
+        "label-info": [
+          {
+            "catalog-number": "CAS 1073",
+            "label": {
+              "id": "924da91f-86a6-4f15-842f-b9afb645fe5c",
+              "name": "Charisma"
+            }
+          }
+        ],
+        "track-count": 11,
+        "media": [
+          {
+            "id": "bc3ede9c-8aa0-3449-914a-880bf49a8b24",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 11
+          }
+        ]
+      },
+      {
+        "id": "dfa99ed3-5bce-46be-ac6b-dbef53238f40",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "1621b0fc-f4ab-3a57-908e-ec5757aa79ae",
+        "count": 1,
+        "title": "Magician’s Hat",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Bo Hansson",
+            "artist": {
+              "id": "d49d73a0-384e-40c7-9b89-89c98f07d674",
+              "name": "Bo Hansson",
+              "sort-name": "Hansson, Bo",
+              "disambiguation": "prog rock / jazz musician, 1943–2010"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "db5dfdfe-ff3b-3768-acc1-aecde748c46c",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ur trollkarlens hatt",
+          "primary-type": "Album"
+        },
+        "date": "1996-07-23",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1996-07-23",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "046633365529",
+        "label-info": [
+          {
+            "catalog-number": "OW 33655",
+            "label": {
+              "id": "cdd905e9-5a4d-4814-b0f7-9eae6e56fae8",
+              "name": "One Way Records"
+            }
+          }
+        ],
+        "track-count": 11,
+        "media": [
+          {
+            "id": "d3a64cc2-6e01-3a76-815a-15e7d6e47339",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 11
+          }
+        ]
+      },
+      {
+        "id": "55165a34-a905-49ad-ad20-f762305254ef",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "1621b0fc-f4ab-3a57-908e-ec5757aa79ae",
+        "count": 1,
+        "title": "Magician's Hat",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Bo Hansson",
+            "artist": {
+              "id": "d49d73a0-384e-40c7-9b89-89c98f07d674",
+              "name": "Bo Hansson",
+              "sort-name": "Hansson, Bo",
+              "disambiguation": "prog rock / jazz musician, 1943–2010"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "db5dfdfe-ff3b-3768-acc1-aecde748c46c",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ur trollkarlens hatt",
+          "primary-type": "Album"
+        },
+        "date": "2004",
+        "country": "XE",
+        "release-events": [
+          {
+            "date": "2004",
+            "area": {
+              "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+              "name": "Europe",
+              "sort-name": "Europe",
+              "iso-3166-1-codes": [
+                "XE"
+              ]
+            }
+          }
+        ],
+        "barcode": "724386444721",
+        "label-info": [
+          {
+            "catalog-number": "7243 8 66134 2 4",
+            "label": {
+              "id": "49b58bdb-3d74-40c6-956a-4c4b46115c9c",
+              "name": "Virgin"
+            }
+          }
+        ],
+        "track-count": 13,
+        "media": [
+          {
+            "id": "65036fac-ffc1-3343-a0f8-70bc79ffb7be",
+            "format": "Copy Control CD",
+            "disc-count": 0,
+            "track-count": 13
+          }
+        ]
+      },
+      {
+        "id": "7efdfb90-0487-440a-87fa-145e069c822c",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "1621b0fc-f4ab-3a57-908e-ec5757aa79ae",
+        "count": 1,
+        "title": "Magician’s Hat",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Bo Hansson",
+            "artist": {
+              "id": "d49d73a0-384e-40c7-9b89-89c98f07d674",
+              "name": "Bo Hansson",
+              "sort-name": "Hansson, Bo",
+              "disambiguation": "prog rock / jazz musician, 1943–2010"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "db5dfdfe-ff3b-3768-acc1-aecde748c46c",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ur trollkarlens hatt",
+          "primary-type": "Album"
+        },
+        "date": "2010",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "2010",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "4988044330252",
+        "label-info": [
+          {
+            "catalog-number": "ARC-3025",
+            "label": {
+              "id": "924da91f-86a6-4f15-842f-b9afb645fe5c",
+              "name": "Charisma"
+            }
+          },
+          {
+            "catalog-number": "ARC-3025",
+            "label": {
+              "id": "49b58bdb-3d74-40c6-956a-4c4b46115c9c",
+              "name": "Virgin"
+            }
+          },
+          {
+            "catalog-number": "ARC-3025",
+            "label": {
+              "id": "9d8b5a51-caea-4b79-936f-e6b4fd03399a",
+              "name": "Silence Records"
+            }
+          },
+          {
+            "catalog-number": "ARC-3025",
+            "label": {
+              "id": "959b4545-e514-44ea-a0fb-29b734dcade9",
+              "name": "Arcàngelo"
+            }
+          }
+        ],
+        "track-count": 13,
+        "media": [
+          {
+            "id": "f5afabad-7beb-367e-9666-92439a3b7782",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 13
+          }
+        ]
+      },
+      {
+        "id": "503975ae-6a13-472b-b0f2-f12d0cb95d0c",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "1621b0fc-f4ab-3a57-908e-ec5757aa79ae",
+        "count": 1,
+        "title": "Magician's Hat",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Bo Hansson",
+            "artist": {
+              "id": "d49d73a0-384e-40c7-9b89-89c98f07d674",
+              "name": "Bo Hansson",
+              "sort-name": "Hansson, Bo",
+              "disambiguation": "prog rock / jazz musician, 1943–2010"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "db5dfdfe-ff3b-3768-acc1-aecde748c46c",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Ur trollkarlens hatt",
+          "primary-type": "Album"
+        },
+        "date": "1993",
+        "country": "SE",
+        "release-events": [
+          {
+            "date": "1993",
+            "area": {
+              "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+              "name": "Sweden",
+              "sort-name": "Sweden",
+              "iso-3166-1-codes": [
+                "SE"
+              ]
+            }
+          }
+        ],
+        "barcode": "7391946054909",
+        "label-info": [
+          {
+            "catalog-number": "RESCD 509",
+            "label": {
+              "id": "d954ad1d-7daf-4c58-9dc1-2620f2b1190c",
+              "name": "Resource Records"
+            }
+          }
+        ],
+        "track-count": 11,
+        "media": [
+          {
+            "id": "92187745-0b5c-38d0-89d8-44df420655b4",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 11
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "1972"
+          }
+        ]
+      }
+    ]
+  }
+}

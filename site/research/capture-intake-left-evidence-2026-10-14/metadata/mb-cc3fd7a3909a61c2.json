@@ -1,0 +1,223 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Sun+Secrets%22+AND+artist%3A%22Eric+Burdon%22&fmt=json&limit=100",
+  "retrieved": "2026-10-15T03:16:18Z",
+  "data": {
+    "created": "2026-10-15T03:16:18.639Z",
+    "count": 3,
+    "offset": 0,
+    "releases": [
+      {
+        "id": "fa3b0226-649e-4232-9b55-fea11864dd5d",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "299ade6c-0cf6-3068-aba0-77332267de5b",
+        "count": 1,
+        "title": "Sun Secrets",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Eric Burdon Band",
+            "artist": {
+              "id": "16ecfb44-cba3-4566-ad38-8b703e62a2e5",
+              "name": "The Eric Burdon Band",
+              "sort-name": "Burdon, Eric, Band, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "52822b87-6373-3758-9211-b65dc0736a79",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sun Secrets",
+          "primary-type": "Album"
+        },
+        "date": "1974",
+        "country": "GB",
+        "release-events": [
+          {
+            "date": "1974",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "iso-3166-1-codes": [
+                "GB"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "E-ST 11359",
+            "label": {
+              "id": "abea2d3e-eabf-4480-ab24-9382dd642c73",
+              "name": "Capitol Records"
+            }
+          }
+        ],
+        "track-count": 7,
+        "media": [
+          {
+            "id": "c866b056-1e7a-377c-a02a-798abc3a52f9",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 7
+          }
+        ]
+      },
+      {
+        "id": "ac7566ae-e341-443e-bab9-3a88164263d7",
+        "score": 87,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "299ade6c-0cf6-3068-aba0-77332267de5b",
+        "count": 1,
+        "title": "Sun Secrets / Stop",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Eric Burdon Band",
+            "artist": {
+              "id": "16ecfb44-cba3-4566-ad38-8b703e62a2e5",
+              "name": "The Eric Burdon Band",
+              "sort-name": "Burdon, Eric, Band, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "98f88309-0b57-3f44-9e15-0500c2a3844a",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sun Secrets / Stop",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "",
+        "country": "XE",
+        "release-events": [
+          {
+            "date": "",
+            "area": {
+              "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+              "name": "Europe",
+              "sort-name": "Europe",
+              "iso-3166-1-codes": [
+                "XE"
+              ]
+            }
+          }
+        ],
+        "barcode": "743213074627",
+        "label-info": [
+          {
+            "label": {
+              "id": "0798a99b-f8c3-4b00-9695-e2efa6e62127",
+              "name": "ARG Records"
+            }
+          }
+        ],
+        "track-count": 16,
+        "media": [
+          {
+            "id": "970a2bda-11ea-3ec3-b9d0-1b135df7afbd",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 16
+          }
+        ]
+      },
+      {
+        "id": "a3f74594-a915-4f12-94e8-2b11ebc29664",
+        "score": 87,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "299ade6c-0cf6-3068-aba0-77332267de5b",
+        "count": 1,
+        "title": "Sun Secrets / Stop",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Eric Burdon Band",
+            "artist": {
+              "id": "16ecfb44-cba3-4566-ad38-8b703e62a2e5",
+              "name": "The Eric Burdon Band",
+              "sort-name": "Burdon, Eric, Band, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "98f88309-0b57-3f44-9e15-0500c2a3844a",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sun Secrets / Stop",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "1993",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1993",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "081227121921",
+        "label-info": [
+          {
+            "catalog-number": "R2 71219",
+            "label": {
+              "id": "720ed9ba-d0d4-41d9-91bb-fc61a08d2b12",
+              "name": "Avenue Records"
+            }
+          },
+          {
+            "catalog-number": "R2 71219",
+            "label": {
+              "id": "c4f2cf49-b57c-4cc1-8061-f54400704ac4",
+              "name": "Rhino"
+            }
+          }
+        ],
+        "track-count": 16,
+        "media": [
+          {
+            "id": "15b89404-7f0e-3e49-ade9-510c5bb5cbb0",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 16
+          }
+        ]
+      }
+    ]
+  }
+}

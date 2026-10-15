@@ -1,0 +1,523 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Sing+It+Again+Rod%22+AND+artist%3A%22Rod+Stewart%22&fmt=json&limit=100",
+  "retrieved": "2026-10-15T03:16:09Z",
+  "data": {
+    "created": "2026-10-15T03:16:09.827Z",
+    "count": 7,
+    "offset": 0,
+    "releases": [
+      {
+        "id": "db5becfb-8f9b-49e5-a8b5-d53a739828d8",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "320b6a62-5229-3667-a1a5-63bea3183af8",
+        "count": 1,
+        "title": "Sing It Again Rod",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Rod Stewart",
+            "artist": {
+              "id": "a35237a0-4f47-40a6-b6f3-1e786db23402",
+              "name": "Rod Stewart",
+              "sort-name": "Stewart, Rod"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "dfe06f2a-473c-314d-81b8-d01fcb4adfd5",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sing It Again Rod",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "barcode": "042282488220",
+        "asin": "B00000612R",
+        "label-info": [
+          {
+            "catalog-number": "824 882-2 M-1",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "2cee5dc9-3b85-3412-ba4f-1e011132e697",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "477d3640-b105-4ee9-b9ef-a9520dfb9a59",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "320b6a62-5229-3667-a1a5-63bea3183af8",
+        "count": 1,
+        "title": "Sing It Again Rod",
+        "status": "Official",
+        "disambiguation": "BMG club edition",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Rod Stewart",
+            "artist": {
+              "id": "a35237a0-4f47-40a6-b6f3-1e786db23402",
+              "name": "Rod Stewart",
+              "sort-name": "Stewart, Rod"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "dfe06f2a-473c-314d-81b8-d01fcb4adfd5",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sing It Again Rod",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "D-100942",
+            "label": {
+              "id": "9a7d39a4-a887-40f3-a645-a9a136d1f13f",
+              "name": "BMG Direct Marketing, Inc."
+            }
+          },
+          {
+            "catalog-number": "824 882-2",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "63902d0f-92be-3fdc-8b0c-9be30eaf7726",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "2a4ea2fb-ecc2-4d1e-b4d0-0af9298650fe",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "320b6a62-5229-3667-a1a5-63bea3183af8",
+        "count": 1,
+        "title": "Sing It Again Rod",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Rod Stewart",
+            "artist": {
+              "id": "a35237a0-4f47-40a6-b6f3-1e786db23402",
+              "name": "Rod Stewart",
+              "sort-name": "Stewart, Rod"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "dfe06f2a-473c-314d-81b8-d01fcb4adfd5",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sing It Again Rod",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "1986",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1986",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "042282488220",
+        "label-info": [
+          {
+            "catalog-number": "824 882-2",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "4ee70d6d-d31a-4178-b187-76c07a3753a7",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "f2630cac-2f82-4e49-8a0f-e56a57483308",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "320b6a62-5229-3667-a1a5-63bea3183af8",
+        "count": 1,
+        "title": "Sing It Again Rod",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Rod Stewart",
+            "artist": {
+              "id": "a35237a0-4f47-40a6-b6f3-1e786db23402",
+              "name": "Rod Stewart",
+              "sort-name": "Stewart, Rod"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "dfe06f2a-473c-314d-81b8-d01fcb4adfd5",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sing It Again Rod",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "1973-08-10",
+        "country": "GB",
+        "release-events": [
+          {
+            "date": "1973-08-10",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "iso-3166-1-codes": [
+                "GB"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "6499 484",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "7b767e2e-a6a6-344e-aa38-55a6ed917fdc",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "318bcad8-bbe6-4fb6-873a-2fd3d413a0da",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "320b6a62-5229-3667-a1a5-63bea3183af8",
+        "count": 1,
+        "title": "Sing It Again Rod",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Rod Stewart",
+            "artist": {
+              "id": "a35237a0-4f47-40a6-b6f3-1e786db23402",
+              "name": "Rod Stewart",
+              "sort-name": "Stewart, Rod"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "dfe06f2a-473c-314d-81b8-d01fcb4adfd5",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sing It Again Rod",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "1998-03-31",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1998-03-31",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "label-info": [
+          {
+            "catalog-number": "P2 24882",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "a7e1cbb0-5342-33aa-a717-92248eb872cd",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "fd9664bb-057a-4125-ac75-c8cea8d6b9e5",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+        "artist-credit-id": "320b6a62-5229-3667-a1a5-63bea3183af8",
+        "count": 1,
+        "title": "Sing It Again Rod",
+        "status": "Official",
+        "packaging": "None",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Rod Stewart",
+            "artist": {
+              "id": "a35237a0-4f47-40a6-b6f3-1e786db23402",
+              "name": "Rod Stewart",
+              "sort-name": "Stewart, Rod"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "dfe06f2a-473c-314d-81b8-d01fcb4adfd5",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sing It Again Rod",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "2006-12-26",
+        "country": "XW",
+        "release-events": [
+          {
+            "date": "2006-12-26",
+            "area": {
+              "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+              "name": "[Worldwide]",
+              "sort-name": "[Worldwide]",
+              "iso-3166-1-codes": [
+                "XW"
+              ]
+            }
+          }
+        ],
+        "barcode": "731455806229",
+        "label-info": [
+          {
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "97fd1f79-dce9-373e-8fb3-33ad979ce727",
+            "format": "Digital Media",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "34481416-be17-49ca-a014-d321e3d623a1",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "320b6a62-5229-3667-a1a5-63bea3183af8",
+        "count": 1,
+        "title": "Sing It Again Rod",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Rod Stewart",
+            "artist": {
+              "id": "a35237a0-4f47-40a6-b6f3-1e786db23402",
+              "name": "Rod Stewart",
+              "sort-name": "Stewart, Rod"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "dfe06f2a-473c-314d-81b8-d01fcb4adfd5",
+          "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Sing It Again Rod",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Compilation"
+          ],
+          "secondary-type-ids": [
+            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+          ]
+        },
+        "date": "1998",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1998",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "731455806229",
+        "asin": "B00000612R",
+        "label-info": [
+          {
+            "catalog-number": "314 558 062-2",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "787687e9-6d3b-3af2-afb2-a6e1ae4bc61f",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 12
+          }
+        ]
+      }
+    ]
+  }
+}

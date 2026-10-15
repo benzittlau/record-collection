@@ -1,0 +1,1711 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 3,
+    "per_page": 25,
+    "items": 60,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Jimi+Hendrix&catno=6307&page=3",
+      "next": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Jimi+Hendrix&catno=6307&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "UK",
+      "year": "1971",
+      "format": [
+        "Vinyl",
+        "LP"
+      ],
+      "label": [
+        "Pantonic",
+        "Art & Sound Ltd.",
+        "Saga Studios",
+        "New Town Sound Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 4965974,
+      "barcode": [
+        "MCPS",
+        "Patent Nos. 1125555 Made In Great Britain",
+        "PAN 6307 A-2",
+        "PAN 6307 B-2"
+      ],
+      "master_id": 603746,
+      "master_url": "https://api.discogs.com/masters/603746",
+      "uri": "/release/4965974-Jimi-Hendrix-Impromptu",
+      "catno": "PAN 6307",
+      "title": "Jimi Hendrix - Impromptu",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4965974",
+      "community": {
+        "want": 99,
+        "have": 344
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "UK",
+      "year": "1971",
+      "format": [
+        "Vinyl",
+        "LP"
+      ],
+      "label": [
+        "SagaPan",
+        "Art & Sound Ltd.",
+        "Saga Studios",
+        "New Town Sound Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Experimental",
+        "Psychedelic Rock"
+      ],
+      "id": 1546145,
+      "barcode": [
+        "MCPS"
+      ],
+      "master_id": 603746,
+      "master_url": "https://api.discogs.com/masters/603746",
+      "uri": "/release/1546145-Jimi-Hendrix-Impromptu",
+      "catno": "PAN 6307",
+      "title": "Jimi Hendrix - Impromptu",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1546145",
+      "community": {
+        "want": 142,
+        "have": 254
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Record Plant, N.Y.C.",
+        "Capitol Records Pressing Plant, Los Angeles",
+        "Warner Bros. - Seven Arts Records",
+        "Bella Godiva Music",
+        "Joint Music",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Arch Music, Inc.",
+        "Unart Music Corp.",
+        "Warner Bros. Records Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock",
+        "Hard Rock"
+      ],
+      "id": 11716702,
+      "barcode": [
+        "2RS-1-6307 LW4 ✲",
+        "2RS-2-6307 LW5 ✲",
+        "2RS-3-6307 LW2 ✲",
+        "2RS-4-6307 LW2 ✲",
+        "BMI"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/11716702-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11716702",
+      "community": {
+        "want": 586,
+        "have": 97
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Los Angeles Press",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "id": 6778528,
+      "label": [
+        "Reprise Records",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Music Of Canada, Ltd.",
+        "Reprise Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "2RS 6307A",
+        "2RS 6307B",
+        "2RS 6307C",
+        "2RS 6307D"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/6778528-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6778528",
+      "community": {
+        "want": 685,
+        "have": 130
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Music Of Canada, Ltd.",
+        "Quality Records Limited"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "id": 2665603,
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "2RS-6307-A Q",
+        "2RS-6307-B Q",
+        "2RS-6307-C Q",
+        "2RS-6307-D Q"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/2665603-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2665603",
+      "community": {
+        "want": 776,
+        "have": 624
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Quality Records Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records Inc.",
+        "Specialty Records Corporation",
+        "Arch Music, Inc.",
+        "Bella Godiva Music",
+        "Joint Music Co., Inc.",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Record Plant, N.Y.C.",
+        "Capitol Records Pressing Plant, Winchester"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Blues"
+      ],
+      "style": [
+        "Electric Blues",
+        "Psychedelic Rock"
+      ],
+      "id": 9466459,
+      "barcode": [
+        "BMI",
+        "2RS-1-6307-SR1 [SRC logo]",
+        "2RS-2-6307-SR1 [SRC logo]",
+        "2RS-3-6307-WW3 ",
+        "2RS-4-6307 WW-2 ",
+        "2RS-1-6307-SR1 1-1 [SRC logo]",
+        "2RS-2-6307-SR1 1-1 [SRC logo]",
+        "2RS-3-6307 WW-2#2 –––◁ 1-1",
+        "2RS-4-6307 WW-2 #2 SP –––◁ 1-1",
+        "2RS-1-6307-SR1 1-1 [SRC logo]",
+        "2RS-2-6307-SR1 [SRC logo]",
+        "2RS-3-6307-WW3 ••–––◁ SP-1-1",
+        "2RS-4-6307 JW-4",
+        "2RS-1-6307-SR1 1-1 [SRC logo]",
+        "2RS-2-6307-SR1 [SRC logo]",
+        "2RS-3-6307-WW3 ••–––◁ SP-1-1",
+        "2RS-4-6307 WW-2 #2 SP –––◁ 1-1"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/9466459-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9466459",
+      "community": {
+        "want": 684,
+        "have": 468
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Record Plant, N.Y.C.",
+        "Warner Bros. - Seven Arts Records",
+        "Capitol Records Pressing Plant, Jacksonville",
+        "Bella Godiva Music",
+        "Joint Music",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Arch Music, Inc.",
+        "Unart Music Corp.",
+        "Warner Bros. Records Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Blues"
+      ],
+      "style": [
+        "Electric Blues",
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 9883160,
+      "barcode": [
+        "2RS-1-6307  JW4 #1",
+        "2RS-4-6307  JW-4 #1",
+        "2RS-2-6307  JW7 #2",
+        "2RS-3-6307  JW-6 #3",
+        "2RS-1-6307 JW4 #1  0",
+        "2RS-4-6307 JW-4 #1  0",
+        "2RS-2-6307-JW6 #1  0",
+        "2RS-3-6307 JW-6 #3  0",
+        "2RS-1-6307 JW4 #2 0",
+        "2RS-4-6307 JW-4 #3 0",
+        "2RS-2-6307 JW-5 #1 0",
+        "SUB 2RS-3-6307 JW3 #3 0",
+        "2RS-1-6307 JW4 #1 0",
+        "2RS-4-6307 JW-4 0",
+        "SUB 2RS-2-6307 JW-5 #1 0",
+        "SUB 2RS-3-6307-JW3 #3 0",
+        "0",
+        "BMI"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/9883160-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9883160",
+      "community": {
+        "want": 652,
+        "have": 444
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Jacksonville Press",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1976",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Record Plant, N.Y.C.",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records Inc.",
+        "Bella Godiva Music",
+        "Joint Music",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Arch Music, Inc.",
+        "Unart Music Corp.",
+        "Warner Bros. Records Inc."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 12347999,
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "SIDE 1 2RS 6307 (30799-1) A #1",
+        "SIDE 2 2RS 6307 (30800-1) B #2",
+        "SIDE 3 2RS 6307 (30801-1) #2",
+        "SIDE 4 2RS 6307 (30802-1) #2",
+        "()",
+        "4"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/12347999-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12347999",
+      "community": {
+        "want": 571,
+        "have": 171
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold, Auto-coupled",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records Inc.",
+        "Columbia Records Pressing Plant, Pitman",
+        "Bella Godiva Music",
+        "Joint Music",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Record Plant, N.Y.C.",
+        "Customatrix"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 22201573,
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "30799 2RS 6307 A -1D o 1  C 1",
+        "P 30800 2RS 6307 [scribble] B  -1B o E 1",
+        "P 30801 2RS 6307 C -1C H 5",
+        "P o  30802 2RS 6307B -1F  1 ",
+        "P"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/22201573-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/22201573",
+      "community": {
+        "want": 350,
+        "have": 110
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Pitman Pressing, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1976",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records Inc.",
+        "Warner Communications",
+        "Warner Bros. Records Inc.",
+        "Bella Godiva Music",
+        "Joint Music Co., Inc.",
+        "Dwarf Music",
+        "Record Plant, N.Y.C.",
+        "Capitol Records Pressing Plant, Winchester"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 24275231,
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "2RS-1-6307 WW2 #2  ─◁",
+        "RS-2-6307-WB#2 2RS6307(30800-1)-WB  ─◁",
+        "2RS6307 (30801-1)-WB 3-6307  ─◁",
+        "2RS 6307 (30802-1)-WB 4-6307 ─◁",
+        "2 RS-1-6307 WW-3 #3 ─◁",
+        "2 RS-2-6307 WW 3 #4  ─◁",
+        "2 RS-3-6307 WW-2  ─◁",
+        "2 RS-4-6307 WW-2 ─◁",
+        "2RS-1-6307 WW 2# 2  ─◁",
+        "RS-2-6307-(30800-1)-WB RS-2-6307-#2  ─◁",
+        "2RS 6307 (30801-1) WB 3-6307  ─◁",
+        "2RS 6307 (30802-1)-WB 4-6307  ─◁"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/24275231-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/24275231",
+      "community": {
+        "want": 307,
+        "have": 194
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Winchester Pressing, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Record Plant, N.Y.C.",
+        "Warner Bros. - Seven Arts Records",
+        "Bella Godiva Music",
+        "Joint Music",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Arch Music, Inc.",
+        "Unart Music Corp.",
+        "Warner Bros. Records Inc.",
+        "Capitol Records Pressing Plant, Los Angeles"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock",
+        "Hard Rock"
+      ],
+      "id": 26456084,
+      "barcode": [
+        "BMI",
+        "✲",
+        "30, 799",
+        "30, 800",
+        "30, 801",
+        "30, 802",
+        "2RS-1-6307 LW3  3 ✲ #64",
+        "2RS-2-6307 LW3 1 ✲ #64",
+        "2RS-3-6307 LW2 (scratched out rectangle) 2 ✲#64",
+        "2RS-4-6307-LW2 1 ✲ #64"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/26456084-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26456084",
+      "community": {
+        "want": 252,
+        "have": 26
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Los Angeles Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "id": 34970861,
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Record Plant, N.Y.C."
+      ],
+      "type": "release",
+      "barcode": [
+        "2RS-6307-30799[strikethrough] \"[stick figure\" ^ SIDE A",
+        "2RS-2-6307 1C SX C",
+        "2RS-3-6307-1B",
+        "2RS-6307 DXT 30802"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/34970861-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/34970861",
+      "community": {
+        "want": 107,
+        "have": 10
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1975",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Capitol Records Pressing Plant, Winchester",
+        "Record Plant, N.Y.C.",
+        "Bella Godiva Music",
+        "Joint Music Co., Inc.",
+        "Dwarf Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Blues"
+      ],
+      "style": [
+        "Electric Blues",
+        "Psychedelic Rock"
+      ],
+      "id": 6578248,
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "RS-1-6307 WW2 #3  ─◁",
+        "2RS-2-6307-WB#3 WB ─◁",
+        "2RS-3-6307-WB#2 WB ─◁",
+        "2RS 6307 (30802-1)-WB 4-6307 ─◁",
+        "RS-1-6307 WW2  ─◁",
+        "2RS2 6307 (30800-1)-WB 2-6307 ─◁",
+        "2RS 6307 (30801-1)-WB 3-6307 ─◁",
+        "2RS 6307 (30802-1)-WB 4-6307 ─◁"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/6578248-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/6578248",
+      "community": {
+        "want": 799,
+        "have": 619
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Winchester Pressing, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Bella Godiva Music",
+        "Joint Music",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Record Plant, N.Y.C.",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Communications",
+        "Warner Bros. Records Inc.",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Musique Du Canada Ltée.",
+        "WEA Musique Du Canada Ltée.",
+        "Customatrix",
+        "Columbia Records Pressing Plant, Don Mills, ON",
+        "Columbia Records Pressing Plant, Don Mills, ON",
+        "Columbia Records Pressing Plant, Don Mills, ON"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 7855324,
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "30799-1A o C2-D DM-43",
+        "B side 30800-1A o C2-D 21",
+        "30801-1A C2-DK o 9",
+        "30802-1A C2-D o DM-35",
+        "30799-1A C2-D DM-7",
+        "B side 30800-1A o C2-D DM 27",
+        "30801-1A C2-DK DM 10",
+        "30802-1A 2 C2-D DM-1",
+        "30799-1A o C2-D DM-",
+        "B side 30800-1A o C2-D DM 31",
+        "30801-1A C2-DK DM o",
+        "30802-1A C2-D DM-",
+        "30799-1A o C2-D DM-40",
+        "B side 30800-1A o C2-D 2",
+        "30801-1A C2-DK o 8",
+        "30802-1A C2-D DM-35"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/7855324-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7855324",
+      "community": {
+        "want": 679,
+        "have": 481
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Don Mills Pressing, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Bella Godiva Music",
+        "Joint Music Co., Inc.",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Record Plant, N.Y.C.",
+        "Customatrix",
+        "Columbia Records Pressing Plant, Santa Maria"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 12005300,
+      "barcode": [
+        "Ƨ  ",
+        "o",
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "Ƨ   30799 2RS6307A-1D o [2 upside-down]  A3",
+        "Ƨ  o \\  30800 2RS 6307-B-1E B9",
+        "Ƨ  o \\  30801 2RS 6307#C-1B A13",
+        "o \\  30802-D 2RS6307 -1D A2",
+        "Ƨ | 30799 2RS 6307A -1C o A",
+        "Ƨ | 30800 2RS 6307 B̷C̷ -1B. o ES",
+        "Ƨ o 30801 2RS 6307-D̷E̷ -1E. 2 AƐ",
+        "Ƨ 30802 2RS 6307D -1G o BƐ"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/12005300-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12005300",
+      "community": {
+        "want": 853,
+        "have": 343
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Santa Maria Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1972",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. Records Inc.",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records Inc.",
+        "Record Plant, N.Y.C.",
+        "Customatrix",
+        "Columbia Records Pressing Plant, Santa Maria",
+        "Columbia Records Pressing Plant, Pitman",
+        "Bella Godiva Music",
+        "Joint Music Co., Inc.",
+        "Yameta Co. Ltd.",
+        "Dwarf Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 15588935,
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "P 30799 2RS 6307A -1D o C",
+        "o P BL 30800-1B P B / B",
+        "o 1 30802̶1 2RS 6307-A̶C D̶ C -1E. SX A 1 P",
+        "P o 30802 2RS 6307D -1G SX A B"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/15588935-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/15588935",
+      "community": {
+        "want": 488,
+        "have": 163
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Pitman Pressing, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1972",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Columbia Records Pressing Plant, Terre Haute",
+        "Record Plant, N.Y.C.",
+        "Bella Godiva Music",
+        "Joint Music Co., Inc.",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Customatrix",
+        "Columbia Records Pressing Plant, Santa Maria"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Electric Blues",
+        "Psychedelic Rock"
+      ],
+      "id": 13521682,
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "30799 2RS 6307A -1G 17D T1",
+        "30800 2RS 6307- -1E SX0T C30 ",
+        "30801 -1G- 2RS 6307 SIDE C C3 T1",
+        "30802 2RS 6307D -1G 0 2 SXͰ B11",
+        "30799 2RS 6307A -1G C 10 T I",
+        "30800 2RS 6307-B 3 -IE- SXoT C30 ",
+        "30801-1G- 2RS 6307 SIDE C C12 T I",
+        "30802 2RS 6307D -1G SXT A17 o"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/13521682-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/13521682",
+      "community": {
+        "want": 567,
+        "have": 320
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Terre Haute Pressing SXT, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Rock",
+        "Blues"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Club Edition",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Electric Blues",
+        "Psychedelic Rock"
+      ],
+      "id": 5692237,
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Record Plant, N.Y.C.",
+        "Columbia Records Pressing Plant, Carrollton, GA",
+        "Bella Godiva Music",
+        "Joint Music Co., Inc.",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Warner Communications"
+      ],
+      "type": "release",
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "G1 2RS-1-6307 G1A Barry",
+        "G1 2RS-2-6307-1B",
+        "G1 2RS-3-6307 G1A Anna",
+        "<J-AD> 2RS-4-6307 G1B",
+        "2RS-1-6307  G1A Barry B4 [D] G1",
+        "2RS-2-6307-1B G1 [D] G1",
+        "2RS -3-6307 G1A Anna C1 G1",
+        "2RS-4-6307 G1B [M]G1 A4 <J.AD>",
+        "G1"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/5692237-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5692237",
+      "community": {
+        "want": 776,
+        "have": 346
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Carrollton, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 22312939,
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Record Plant, N.Y.C.",
+        "Warner Bros. - Seven Arts Records",
+        "Capitol Records Pressing Plant, Jacksonville",
+        "Bella Godiva Music",
+        "Joint Music",
+        "Yameta Co. Ltd.",
+        "Dwarf Music"
+      ],
+      "type": "release",
+      "barcode": [
+        "2RS-1-6307  JW-3 #1",
+        "2RS-2-6307 JW32 #1",
+        "SIDE 3 2RS 6307 (30801-1) #3",
+        "2RS-4-6307 JW2 #1",
+        "0"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/22312939-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/22312939",
+      "community": {
+        "want": 312,
+        "have": 75
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Jacksonville Press",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 2167492,
+      "barcode": [
+        "30799 2RS 6307A-1G",
+        "30800 2RS 6307 B",
+        "30801-1G-2RS 6307 SIDE C",
+        "30802 2RS 6307D-1B",
+        "30799 2RS 6307A -1E",
+        "30800 2RS 6307    -1E",
+        "2RS-6307-C   30801   -1J",
+        "2RS-6307   30802",
+        "30799 2RS 6037A-1G  C 18  T 1",
+        "1 30800 2RS 6307-B A(crossed out)  -1E  SX0T  C26",
+        "30801-1G-2RS 6307 SIDE C  T 1",
+        "2RS-6307  30802-3 D3  T 1",
+        "o 30799 2RS6307 A-1D  13 C",
+        "o 30800 2RS6307 B-1E  11 B",
+        "o 30801-1G-2RS 6307 SIDE C  T 1   C",
+        "o 30802  2RS 6307-1G  "
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/2167492-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2167492",
+      "community": {
+        "want": 1133,
+        "have": 5573
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album"
+      ],
+      "label": [
+        "Reprise Records",
+        "Warner Bros. Records Of Canada, Ltd.",
+        "Customatrix"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 15365384,
+      "barcode": [
+        "30799 2RS 6307A -C1",
+        "30800 2RS 6307 B -1B",
+        "30801 2RS 6307-C -1E",
+        "308022RS 6307 -1D  30802-D",
+        "1 o 30799 2RS 63O7A -1C",
+        "1 30800 2RS 6307 B⃫B⃫ -1B o 2 md",
+        "o 1 30801 2RS D⃫D⃫ C -1E",
+        "o 1 3̶0̶8̶0̶2̶-̶D̶ 3O802 2RS 63O7D⃫ -1D"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/15365384-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/15365384",
+      "community": {
+        "want": 547,
+        "have": 379
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "A/D + B/C",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "id": 3794735,
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Arch Music Co., Inc.",
+        "Dwarf Music",
+        "Unart Music Corp.",
+        "Record Plant, N.Y.C."
+      ],
+      "type": "release",
+      "barcode": [
+        "0 7599-27443-1",
+        "07599274431",
+        "2RS-1-6307-SR1 1-1 [SRC logo]",
+        "2RS-2-6307-SR1 1-1 [SRC logo]",
+        "2RS-3-6307 WW-2#2 –––◁ 1-1",
+        "2RS-4-6307 WW-2 #2 SP –––◁ 1-1"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/3794735-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3794735",
+      "community": {
+        "want": 794,
+        "have": 384
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "id": 12514744,
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Musique Du Canada Ltée.",
+        "WEA Musique Du Canada Ltée."
+      ],
+      "type": "release",
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "30799-1A  C2-D",
+        "30800-1A  C2-D",
+        "30801-1A  C2-DK",
+        "30802-1A  C2-D"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/12514744-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2 RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12514744",
+      "community": {
+        "want": 504,
+        "have": 93
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Record Plant, N.Y.C.",
+        "Customatrix",
+        "Columbia Records Pressing Plant, Terre Haute",
+        "Imperial Packing Co., Inc.",
+        "Bella Godiva Music",
+        "Joint Music Co., Inc.",
+        "Yameta Co. Ltd.",
+        "Dwarf Music"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 10726488,
+      "barcode": [
+        "T",
+        "4",
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "30799 2RS 6307 A -1A D2 T",
+        "30800 2RS 6307-B -1D \\ 6 T",
+        "30801 2RS 6307- C -1D | T",
+        "30802 2RS 6307D -1B I A4 T",
+        "30799 2RS 6307 A -1A 1 D C 6 o T",
+        "30800 2RS 6307 B -1A 1 D 12 o T",
+        "30801 2RS 6307 C -1D. 1 C10 T o",
+        "30802 2RS 6307D -1A 1 A4 o T",
+        "30799 2RS 6307 A -1A D9 T",
+        "30800 2RS 6307 B -1D \\ C1 T",
+        "30801 2RS 6307 C -1D | D4 o T",
+        "308022RS 6307D -1A 1 A9 o T",
+        "30799 2RS 6307 A -1A 1 BB3 o T",
+        "30800 2RS 6307 B -1A. 1 B6 o T",
+        "30801 2RS 6307 C -1D. 1 B o T",
+        "30800̶2 2RS 6307D -1A 1 C 8 T o",
+        "30799 2RS 6307A 1A 1 B4 T",
+        "30802 2RS 6307D - 1B 1 D8 T",
+        "30801 2RS 6307 C 1D 1 B5 T",
+        "30800 2RS 6307 B - 1D 1 D8 T",
+        "30799 2RS 6307 A -1A 1 C12 o T",
+        "30800 2RS 6307 B -1D 1 A11  J T",
+        "30801 2RS 6307 C -1D 1 A7 o T",
+        "30802 2RS 6307 D -1B 1 A15 o T"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/10726488-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10726488",
+      "community": {
+        "want": 1027,
+        "have": 1124
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "2-Tone Labels, Terre Haute Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1975",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Bella Godiva Music",
+        "Joint Music",
+        "Yameta Co. Ltd.",
+        "Dwarf Music",
+        "Record Plant, N.Y.C.",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records Inc.",
+        "Warner Communications",
+        "Customatrix"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock"
+      ],
+      "id": 2166961,
+      "barcode": [
+        "30,799",
+        "30,800",
+        "30,801",
+        "30,802",
+        "o 30799 2RS 6307 A-1D B18",
+        "30800 2RS 6307-B̶3̶ 1E F6",
+        "30801 2RS 6307-D̶ ̶C̶ C -1E o D8",
+        "I 30802-D 3̶0̶8̶0̶2̶2RS6307B̶ -1D J25"
+      ],
+      "master_id": 24535,
+      "master_url": "https://api.discogs.com/masters/24535",
+      "uri": "/release/2166961-The-Jimi-Hendrix-Experience-Electric-Ladyland",
+      "catno": "2RS 6307",
+      "title": "The Jimi Hendrix Experience - Electric Ladyland",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/2166961",
+      "community": {
+        "want": 895,
+        "have": 645
+      },
+      "format_quantity": 2,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "text": "Auto-coupled",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

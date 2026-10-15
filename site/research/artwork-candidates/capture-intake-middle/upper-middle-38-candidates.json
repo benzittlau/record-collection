@@ -1,0 +1,398 @@
+{
+  "id": "upper-middle-38",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Jimi+Hendrix&catno=6281"
+  ],
+  "releases": [
+    {
+      "id": 3624653,
+      "title": "Axis: Bold As Love",
+      "artists": [
+        {
+          "name": "The Jimi Hendrix Experience",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 255672,
+          "resource_url": "https://api.discogs.com/artists/255672",
+          "thumbnail_url": "https://i.discogs.com/cUqu3D8zu0Gd4P71y6q9jxRCskheqkuK-J3NdD5Dv4M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NTY3/Mi0xNzc3NjU0NTc1/LTExNDIuanBlZw.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 0,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catno": "RS 6281",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 157,
+          "resource_url": "https://api.discogs.com/labels/157",
+          "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+        },
+        {
+          "name": "Reprise Records",
+          "catno": "6281",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 157,
+          "resource_url": "https://api.discogs.com/labels/157",
+          "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+        }
+      ],
+      "notes": "Spine reads: ''Printed in Canada''.\r\n\r\nSecond cat.nr. on front cover, first on label and inside the gatefold cover.\r\n",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Exp",
+          "duration": "1:55"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Up From The Skies",
+          "duration": "2:55"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Spanish Castle Magic",
+          "duration": "3:00"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Wait Until Tomorrow",
+          "duration": "3:00"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Ain't No Telling",
+          "duration": "1:46"
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "title": "Little Wing",
+          "duration": "2:24"
+        },
+        {
+          "position": "A7",
+          "type_": "track",
+          "title": "If Six Was Nine",
+          "duration": "5:32"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "You've Got Me Floating",
+          "duration": "2:45"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Castles Made Of Sand",
+          "duration": "2:46"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "She's So Fine",
+          "extraartists": [
+            {
+              "name": "Noel Redding",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 252848,
+              "resource_url": "https://api.discogs.com/artists/252848"
+            }
+          ],
+          "duration": "2:37"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "One Rainy Wish",
+          "duration": "3:40"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Little Miss Lover",
+          "duration": "2:20"
+        },
+        {
+          "position": "B6",
+          "type_": "track",
+          "title": "Bold As Love",
+          "duration": "4:09"
+        }
+      ],
+      "url": "https://www.discogs.com/release/3624653",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-3624653-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/5EkfSTj9HMZozVRUc82_8fMPwb4Ar98adTlSlo7e_oQ/rs:fit/g:sm/q:90/h:447/w:447/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ2/NTMtMTMzNzg0MDky/Ny0zNTEyLmpwZWc.jpeg",
+          "type": "primary",
+          "width": 447,
+          "height": 447,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-3624653-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/C8P9cjmsJUVFlMJ8Gtw43WCL376sRu5L43cIfmFRpBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ2/NTMtMTUyMTM3MTY2/Ni02NDU4LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-3624653-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/pW-0RLBnJal70nESIzVXIhedEJYMjyXvhGuPVokgal8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ2/NTMtMTUyMTM3MTY2/Ni01NDE3LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-3624653-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/J2zV1vm_AI2EZ3J4ehpYQ5jPnD9MdMIHrHyhMe6yKUI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ2/NTMtMTUyMTM3MTY2/Ni01NzQ3LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-3624653-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/c6m3F55Lhx1EtGUDtqJap4N96DTKQrFg-y-q1y6j5ws/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ2/NTMtMTMzNzg0MDk0/Mi00MjY3LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 599,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-3624653-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/DkNno0PvMnvdAmnRQwfDQMhY2h8ZQTFzqR1rCh8y4bo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQ2/NTMtMTUyMTM3MTY3/My03NjA0LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 10338221,
+      "title": "Axis: Bold As Love",
+      "artists": [
+        {
+          "name": "The Jimi Hendrix Experience",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 255672,
+          "resource_url": "https://api.discogs.com/artists/255672",
+          "thumbnail_url": "https://i.discogs.com/cUqu3D8zu0Gd4P71y6q9jxRCskheqkuK-J3NdD5Dv4M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NTY3/Mi0xNzc3NjU0NTc1/LTExNDIuanBlZw.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 0,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ],
+          "text": "Gatefold Album Cover"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catno": "RS 6281",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 157,
+          "resource_url": "https://api.discogs.com/labels/157",
+          "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+        },
+        {
+          "name": "Reprise Records",
+          "catno": "R 6281",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 157,
+          "resource_url": "https://api.discogs.com/labels/157",
+          "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+        }
+      ],
+      "notes": "Single colour brown labels without W7 logo. Similar to other versions however labels & inner gatefold simply read: MANUFACTURED AND DISTRIBUTED BY WEA MUSIC OF CANADA, LTD where other versions have more extensive information listed. Cover and gatefold feature the W7 logo as well as the reprise logo however the centre labels feature just the reprise logo. \n\nSpine reads Litho In Canada. \n\nCover reads 6281, inside gatefold reads R 6281 & RS 6281, labels read RS 6281. ",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Exp",
+          "duration": "1:55"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Up From The Skies",
+          "duration": "2:55"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Spanish Castle Magic",
+          "duration": "3:00"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Wait Until Tomorrow",
+          "duration": "3:00"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Ain't No Telling",
+          "duration": "1:46"
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "title": "Little Wing",
+          "duration": "2:24"
+        },
+        {
+          "position": "A7",
+          "type_": "track",
+          "title": "If Six Was Nine",
+          "duration": "5:32"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "You've Got Me Floating",
+          "duration": "2:45"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Castles Made Of Sand",
+          "duration": "2:46"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "She's So Fine",
+          "extraartists": [
+            {
+              "name": "Noel Redding",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 252848,
+              "resource_url": "https://api.discogs.com/artists/252848"
+            }
+          ],
+          "duration": "2:37"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "One Rainy Wish",
+          "duration": "3:40"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Little Miss Lover",
+          "duration": "2:20"
+        },
+        {
+          "position": "B6",
+          "type_": "track",
+          "title": "Bold As Love",
+          "duration": "4:09"
+        }
+      ],
+      "url": "https://www.discogs.com/release/10338221",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-10338221-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/eFnFTHNv56ZdPTZQjsOjsslmd3xZ54GDYr37jcWy5QY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM4/MjIxLTE0OTU1ODc5/OTctMzcwOC5qcGVn.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-10338221-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/x0rtjfkNChA1DZJSC91VcDHK_F7K1w43CdEZSXQDRy0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM4/MjIxLTE0OTU1ODc5/OTYtNzQyOS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-10338221-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/UgT0InaRRyfyx19auM1JIxAy4NBStKZSR5LWH2C1Ek4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM4/MjIxLTE0OTU1ODc5/OTYtNjA3Mi5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-10338221-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/rGn4Ak17FY1ejqjWlCKqo9HoN-psvMP38PW0_6_ATDM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM4/MjIxLTE0OTU1ODc5/OTctNDY0MC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-38-discogs-10338221-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/5d9RpIvPhOX_JXPWOt_-HZrpyiLnMxC9zTKTX0_iwjg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM4/MjIxLTE0OTU1ODc5/OTYtNTgyNi5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "recordId": "upper-left-56",
+  "release": {
+    "id": "cc300b19-97fa-4c26-986a-cd17034b24d8",
+    "score": 100,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+    "count": 1,
+    "title": "Between the Buttons",
+    "status": "Official",
+    "disambiguation": "mono UK version",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "artist-credit": [
+      {
+        "name": "The Rolling Stones",
+        "artist": {
+          "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+          "name": "The Rolling Stones",
+          "sort-name": "Rolling Stones, The"
+        }
+      }
+    ],
+    "release-group": {
+      "id": "72a77b05-0006-3838-a378-c56b65abc733",
+      "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Between the Buttons",
+      "primary-type": "Album"
+    },
+    "date": "1967-01-20",
+    "country": "GB",
+    "release-events": [
+      {
+        "date": "1967-01-20",
+        "area": {
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "name": "United Kingdom",
+          "sort-name": "United Kingdom",
+          "iso-3166-1-codes": [
+            "GB"
+          ]
+        }
+      }
+    ],
+    "label-info": [
+      {
+        "catalog-number": "LK 4852",
+        "label": {
+          "id": "f18f3b31-8263-4de3-966a-fda317492d3d",
+          "name": "Decca Records"
+        }
+      }
+    ],
+    "track-count": 12,
+    "media": [
+      {
+        "id": "d8682247-5f29-3088-9dd9-fdc1cd9ba86f",
+        "format": "12\" Vinyl",
+        "disc-count": 0,
+        "track-count": 12
+      }
+    ]
+  },
+  "url": "https://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8",
+  "data": {
+    "release": "http://musicbrainz.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8",
+    "images": [
+      {
+        "id": "1636871743",
+        "front": true,
+        "edit": 18584177,
+        "image": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/1636871743.jpg",
+        "thumbnails": {
+          "small": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/1636871743-250.jpg",
+          "large": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/1636871743-500.jpg"
+        },
+        "types": [
+          "Front"
+        ],
+        "comment": "",
+        "approved": true,
+        "back": false
+      },
+      {
+        "back": true,
+        "approved": true,
+        "comment": "",
+        "id": "11932846459",
+        "edit": 35822265,
+        "front": false,
+        "image": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/11932846459.jpg",
+        "thumbnails": {
+          "small": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/11932846459-250.jpg",
+          "large": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/11932846459-500.jpg"
+        },
+        "types": [
+          "Back"
+        ]
+      },
+      {
+        "id": "11932847988",
+        "edit": 35822287,
+        "front": false,
+        "image": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/11932847988.jpg",
+        "thumbnails": {
+          "large": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/11932847988-500.jpg",
+          "small": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/11932847988-250.jpg"
+        },
+        "types": [
+          "Medium"
+        ],
+        "comment": "Side A",
+        "approved": true,
+        "back": false
+      },
+      {
+        "thumbnails": {
+          "small": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/11932850137-250.jpg",
+          "large": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/11932850137-500.jpg"
+        },
+        "types": [
+          "Medium"
+        ],
+        "edit": 35822354,
+        "id": "11932850137",
+        "front": false,
+        "image": "http://coverartarchive.org/release/cc300b19-97fa-4c26-986a-cd17034b24d8/11932850137.jpg",
+        "comment": "Side B",
+        "approved": true,
+        "back": false
+      }
+    ]
+  }
+}

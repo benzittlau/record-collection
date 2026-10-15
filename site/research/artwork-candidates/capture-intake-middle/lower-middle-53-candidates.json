@@ -1,0 +1,756 @@
+{
+  "id": "lower-middle-53",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&catno=TV34057S"
+  ],
+  "releases": [
+    {
+      "id": 19984648,
+      "title": "Italian Baroque Trumpet Concerti",
+      "artists": [
+        {
+          "name": "Francesco Manfredini",
+          "anv": "Manfredini",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 934773,
+          "resource_url": "https://api.discogs.com/artists/934773"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "anv": "Vivaldi",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 108566,
+          "resource_url": "https://api.discogs.com/artists/108566",
+          "thumbnail_url": "https://i.discogs.com/8_DvXtrHVj24Jy2KFXIULYOUUKXFJE0lN_rBIwAObvI/rs:fit/g:sm/q:90/h:486/w:404/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwODU2/Ni0xMDgzODMxMjMx/LmpwZw.jpeg"
+        },
+        {
+          "name": "Giuseppe Torelli",
+          "anv": "Torelli",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 836442,
+          "resource_url": "https://api.discogs.com/artists/836442",
+          "thumbnail_url": "https://i.discogs.com/3JTLzNjDmhupnA_9BrBZaIrnALCXcsR_CsG8qtQfgMs/rs:fit/g:sm/q:90/h:480/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzNjQ0/Mi0xMTg4ODMxMTAy/LmpwZWc.jpeg"
+        },
+        {
+          "name": "Tomaso Albinoni",
+          "anv": "Albinoni",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 95541,
+          "resource_url": "https://api.discogs.com/artists/95541",
+          "thumbnail_url": "https://i.discogs.com/I8-M3exr7JvMy4F0HIHz9zfJ_orwp273NaJhoFa2E38/rs:fit/g:sm/q:90/h:400/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk1NTQx/LTExODI0MjE1OTAu/anBlZw.jpeg"
+        }
+      ],
+      "country": "US",
+      "year": 1966,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Turnabout",
+          "catno": "TV 34057S",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 5319,
+          "resource_url": "https://api.discogs.com/labels/5319",
+          "thumbnail_url": "https://i.discogs.com/Y7-SVMR2-O689eyGgUsjmQM8RTecsn8MebLgBP0SM38/rs:fit/g:sm/q:90/h:279/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUzMTkt/MTQ1MzY4Mzk4My05/NDg1LmpwZWc.jpeg"
+        }
+      ],
+      "notes": "Also released in mono (TV 4057)\nPurple label with TURNABOUT label at 12 o'clock",
+      "tracklist": [
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Francesco Manfredini",
+              "anv": "Manfredini",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 934773,
+              "resource_url": "https://api.discogs.com/artists/934773"
+            }
+          ],
+          "title": "Concerto In D For Two Trumpets",
+          "extraartists": [
+            {
+              "name": "Hellmut Schneidewind",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 1218990,
+              "resource_url": "https://api.discogs.com/artists/1218990"
+            },
+            {
+              "name": "Wolfgang Basch",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 849149,
+              "resource_url": "https://api.discogs.com/artists/849149"
+            }
+          ],
+          "duration": "7:09",
+          "sub_tracks": [
+            {
+              "position": "A1a",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            },
+            {
+              "position": "A1b",
+              "type_": "track",
+              "title": "Largo",
+              "duration": ""
+            },
+            {
+              "position": "A1c",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Antonio Vivaldi",
+              "anv": "Vivaldi",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 108566,
+              "resource_url": "https://api.discogs.com/artists/108566"
+            }
+          ],
+          "title": "Concerto In C For Two Trumpets",
+          "extraartists": [
+            {
+              "name": "Heinz Zickler",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 1097801,
+              "resource_url": "https://api.discogs.com/artists/1097801"
+            },
+            {
+              "name": "Herbert Thal",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 1960403,
+              "resource_url": "https://api.discogs.com/artists/1960403"
+            }
+          ],
+          "duration": "7:24",
+          "sub_tracks": [
+            {
+              "position": "A2a",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            },
+            {
+              "position": "A2b",
+              "type_": "track",
+              "title": "Largo",
+              "duration": ""
+            },
+            {
+              "position": "A2c",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Giuseppe Torelli",
+              "anv": "Torelli",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 836442,
+              "resource_url": "https://api.discogs.com/artists/836442"
+            }
+          ],
+          "title": "Trumpet Concerto In D",
+          "extraartists": [
+            {
+              "name": "Heinz Zickler",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 1097801,
+              "resource_url": "https://api.discogs.com/artists/1097801"
+            }
+          ],
+          "duration": "4:43",
+          "sub_tracks": [
+            {
+              "position": "A3",
+              "type_": "track",
+              "title": "Trumpet Concerto In D",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Giuseppe Torelli",
+              "anv": "Torelli",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 836442,
+              "resource_url": "https://api.discogs.com/artists/836442"
+            }
+          ],
+          "title": "Trumpet Concerto In D",
+          "extraartists": [
+            {
+              "name": "Edward H. Tarr",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 774302,
+              "resource_url": "https://api.discogs.com/artists/774302"
+            }
+          ],
+          "duration": "6:42",
+          "sub_tracks": [
+            {
+              "position": "B1a",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            },
+            {
+              "position": "B1b",
+              "type_": "track",
+              "title": "Adagio",
+              "duration": ""
+            },
+            {
+              "position": "B1c",
+              "type_": "track",
+              "title": "Presto",
+              "duration": ""
+            },
+            {
+              "position": "B1d",
+              "type_": "track",
+              "title": "Adagio",
+              "duration": ""
+            },
+            {
+              "position": "B1e",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Tomaso Albinoni",
+              "anv": "Albinoni",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 95541,
+              "resource_url": "https://api.discogs.com/artists/95541"
+            }
+          ],
+          "title": "Trumpet Concerto In C",
+          "extraartists": [
+            {
+              "name": "Edward H. Tarr",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 774302,
+              "resource_url": "https://api.discogs.com/artists/774302"
+            }
+          ],
+          "duration": "7:25",
+          "sub_tracks": [
+            {
+              "position": "B2a",
+              "type_": "track",
+              "title": "Grave",
+              "duration": ""
+            },
+            {
+              "position": "B2b",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            },
+            {
+              "position": "B2c",
+              "type_": "track",
+              "title": "Grave",
+              "duration": ""
+            },
+            {
+              "position": "B2d",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            }
+          ]
+        }
+      ],
+      "url": "https://www.discogs.com/release/19984648",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-53-discogs-19984648-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/EZQUWBNuj7dE_FQm1BUIEDH0A1tjHojlKscq6uadNcA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTg0/NjQ4LTE2Mjk4NjE0/NjktMzEwNC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 596,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-53-discogs-19984648-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/311y5oJwVNPJzZAhyLlKbPqK7vhOZDUM5uwKB5AF31Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTg0/NjQ4LTE2Mjk4NjE0/ODUtNzY0NS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 596,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-53-discogs-19984648-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/Y47jyeaGZx0lWvNcWuTQaoWGDhuJAsbVn6R94weydEk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTg0/NjQ4LTE2Mjk4NjE0/OTQtOTM5NC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 594,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-53-discogs-19984648-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/jdUYCm_VaaK_IaD3ggb-hSnMwv6KSuLQxUOMAg_4nxo/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTg0/NjQ4LTE2Mjk4NjE0/OTktNTk1MC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 583,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 4164816,
+      "title": "Italian Baroque Trumpet Concerti",
+      "artists": [
+        {
+          "name": "Francesco Manfredini",
+          "anv": "Manfredini",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 934773,
+          "resource_url": "https://api.discogs.com/artists/934773"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "anv": "Vivaldi",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 108566,
+          "resource_url": "https://api.discogs.com/artists/108566",
+          "thumbnail_url": "https://i.discogs.com/8_DvXtrHVj24Jy2KFXIULYOUUKXFJE0lN_rBIwAObvI/rs:fit/g:sm/q:90/h:486/w:404/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwODU2/Ni0xMDgzODMxMjMx/LmpwZw.jpeg"
+        },
+        {
+          "name": "Giuseppe Torelli",
+          "anv": "Torelli",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 836442,
+          "resource_url": "https://api.discogs.com/artists/836442",
+          "thumbnail_url": "https://i.discogs.com/3JTLzNjDmhupnA_9BrBZaIrnALCXcsR_CsG8qtQfgMs/rs:fit/g:sm/q:90/h:480/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgzNjQ0/Mi0xMTg4ODMxMTAy/LmpwZWc.jpeg"
+        },
+        {
+          "name": "Tomaso Albinoni",
+          "anv": "Albinoni",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 95541,
+          "resource_url": "https://api.discogs.com/artists/95541",
+          "thumbnail_url": "https://i.discogs.com/I8-M3exr7JvMy4F0HIHz9zfJ_orwp273NaJhoFa2E38/rs:fit/g:sm/q:90/h:400/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk1NTQx/LTExODI0MjE1OTAu/anBlZw.jpeg"
+        }
+      ],
+      "country": "US",
+      "year": 1971,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Turnabout",
+          "catno": "TV 34057S",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 5319,
+          "resource_url": "https://api.discogs.com/labels/5319",
+          "thumbnail_url": "https://i.discogs.com/Y7-SVMR2-O689eyGgUsjmQM8RTecsn8MebLgBP0SM38/rs:fit/g:sm/q:90/h:279/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUzMTkt/MTQ1MzY4Mzk4My05/NDg1LmpwZWc.jpeg"
+        }
+      ],
+      "notes": "Also released in Mono (TV 4057)\n\nThis version is Stereo (TV 34057S).\nHexagon Turnabout labels. Made in U.S.A. with a Ⓟ under.\nOn front and back cover under Turnabout logo: TV 34057S/TV 4057.\nOn back cover: Turnabout (A Vox Production) logo is fair play.\nOn back cover: Library Of Congress Catalog Card No: Mono - R 66-2663 / Stereo - R 66-2634.\n\nUncredited liner notes on back cover in English.",
+      "tracklist": [
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Francesco Manfredini",
+              "anv": "Manfredini",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 934773,
+              "resource_url": "https://api.discogs.com/artists/934773"
+            }
+          ],
+          "title": "Concerto In D For Two Trumpets",
+          "extraartists": [
+            {
+              "name": "Hellmut Schneidewind",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 1218990,
+              "resource_url": "https://api.discogs.com/artists/1218990"
+            },
+            {
+              "name": "Wolfgang Basch",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 849149,
+              "resource_url": "https://api.discogs.com/artists/849149"
+            }
+          ],
+          "duration": "7:09",
+          "sub_tracks": [
+            {
+              "position": "A1a",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            },
+            {
+              "position": "A1b",
+              "type_": "track",
+              "title": "Largo",
+              "duration": ""
+            },
+            {
+              "position": "A1c",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Antonio Vivaldi",
+              "anv": "Vivaldi",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 108566,
+              "resource_url": "https://api.discogs.com/artists/108566"
+            }
+          ],
+          "title": "Concerto In C For Two Trumpets",
+          "extraartists": [
+            {
+              "name": "Heinz Zickler",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 1097801,
+              "resource_url": "https://api.discogs.com/artists/1097801"
+            },
+            {
+              "name": "Herbert Thal",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 1960403,
+              "resource_url": "https://api.discogs.com/artists/1960403"
+            }
+          ],
+          "duration": "7:24",
+          "sub_tracks": [
+            {
+              "position": "A2a",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            },
+            {
+              "position": "A2b",
+              "type_": "track",
+              "title": "Largo",
+              "duration": ""
+            },
+            {
+              "position": "A2c",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Giuseppe Torelli",
+              "anv": "Torelli",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 836442,
+              "resource_url": "https://api.discogs.com/artists/836442"
+            }
+          ],
+          "title": "Trumpet Concerto In D",
+          "extraartists": [
+            {
+              "name": "Heinz Zickler",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 1097801,
+              "resource_url": "https://api.discogs.com/artists/1097801"
+            }
+          ],
+          "duration": "4:43",
+          "sub_tracks": [
+            {
+              "position": "A3",
+              "type_": "track",
+              "title": "Trumpet Concerto In D",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Giuseppe Torelli",
+              "anv": "Torelli",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 836442,
+              "resource_url": "https://api.discogs.com/artists/836442"
+            }
+          ],
+          "title": "Trumpet Concerto In D",
+          "extraartists": [
+            {
+              "name": "Edward H. Tarr",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 774302,
+              "resource_url": "https://api.discogs.com/artists/774302"
+            }
+          ],
+          "duration": "6:42",
+          "sub_tracks": [
+            {
+              "position": "B1a",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            },
+            {
+              "position": "B1b",
+              "type_": "track",
+              "title": "Adagio",
+              "duration": ""
+            },
+            {
+              "position": "B1c",
+              "type_": "track",
+              "title": "Presto",
+              "duration": ""
+            },
+            {
+              "position": "B1d",
+              "type_": "track",
+              "title": "Adagio",
+              "duration": ""
+            },
+            {
+              "position": "B1e",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "artists": [
+            {
+              "name": "Tomaso Albinoni",
+              "anv": "Albinoni",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 95541,
+              "resource_url": "https://api.discogs.com/artists/95541"
+            }
+          ],
+          "title": "Trumpet Concerto In C",
+          "extraartists": [
+            {
+              "name": "Edward H. Tarr",
+              "anv": "",
+              "join": "",
+              "role": "Trumpet",
+              "tracks": "",
+              "id": 774302,
+              "resource_url": "https://api.discogs.com/artists/774302"
+            }
+          ],
+          "duration": "7:25",
+          "sub_tracks": [
+            {
+              "position": "B2a",
+              "type_": "track",
+              "title": "Grave",
+              "duration": ""
+            },
+            {
+              "position": "B2b",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            },
+            {
+              "position": "B2c",
+              "type_": "track",
+              "title": "Grave",
+              "duration": ""
+            },
+            {
+              "position": "B2d",
+              "type_": "track",
+              "title": "Allegro",
+              "duration": ""
+            }
+          ]
+        }
+      ],
+      "url": "https://www.discogs.com/release/4164816",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-53-discogs-4164816-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/x4LdpbmWE05SdhlT3FbhkyrrKesiujDbGd79StXzAyg/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQ4/MTYtMTQ4NzI3MzQ5/OC04MDc2LmpwZWc.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 584,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-53-discogs-4164816-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/c9wb-3p5qWU6IL75ECYK4vtun2aKc-FxgGvuEi6Uxbg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQ4/MTYtMTQ4NzI3MzQ5/Ny02ODI3LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 599,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-53-discogs-4164816-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/UF6g0cT--GvXBLT3d2kRjSwGtTopODOvzXxfz1WgLbg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQ4/MTYtMTQ4NzI3MzQ5/OC05MTY2LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 597,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-53-discogs-4164816-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/uhT59lC81TFBPlsujKTD655URvGi4QZtGjPGiV5tXHk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjQ4/MTYtMTQ4NzI3MzUw/MC02MDEwLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 598,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

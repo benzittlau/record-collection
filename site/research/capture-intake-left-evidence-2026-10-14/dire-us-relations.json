@@ -1,0 +1,65 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/1a88b34a-a74b-3100-a901-a7302cc085e7?inc=url-rels&fmt=json",
+  "retrieved": "2026-10-15T03:27:27Z",
+  "data": {
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "barcode": null,
+    "packaging": null,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "US",
+    "asin": null,
+    "disambiguation": "",
+    "packaging-id": null,
+    "title": "Dire Straits",
+    "date": "1978-10",
+    "release-events": [
+      {
+        "area": {
+          "sort-name": "United States",
+          "type-id": null,
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "disambiguation": "",
+          "id": "489ce91b-6658-3307-9877-795b68554c98"
+        },
+        "date": "1978-10"
+      }
+    ],
+    "id": "1a88b34a-a74b-3100-a901-a7302cc085e7",
+    "quality": "normal",
+    "status": "Official",
+    "cover-art-archive": {
+      "count": 5,
+      "back": true,
+      "darkened": false,
+      "front": true,
+      "artwork": true
+    },
+    "relations": [
+      {
+        "end": null,
+        "attribute-values": {},
+        "attributes": [],
+        "begin": null,
+        "source-credit": "",
+        "target-credit": "",
+        "target-type": "url",
+        "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+        "attribute-ids": {},
+        "ended": false,
+        "direction": "forward",
+        "url": {
+          "id": "c9cd01c1-fd5a-4661-b58a-45900fea6735",
+          "resource": "https://www.discogs.com/release/621110"
+        },
+        "type": "discogs"
+      }
+    ]
+  }
+}

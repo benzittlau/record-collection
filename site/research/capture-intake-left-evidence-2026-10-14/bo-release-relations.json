@@ -1,0 +1,516 @@
+[
+  {
+    "url": "https://musicbrainz.org/ws/2/release/4659a9c1-5df5-3fe6-a97c-652052d260c9?inc=url-rels+labels+recordings&fmt=json",
+    "retrieved": "2026-10-15T03:20:51Z",
+    "data": {
+      "barcode": null,
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "packaging": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "country": "DE",
+      "asin": null,
+      "disambiguation": "",
+      "release-events": [
+        {
+          "area": {
+            "name": "Germany",
+            "sort-name": "Germany",
+            "type-id": null,
+            "type": null,
+            "disambiguation": "",
+            "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+            "iso-3166-1-codes": [
+              "DE"
+            ]
+          },
+          "date": "1973"
+        }
+      ],
+      "date": "1973",
+      "packaging-id": null,
+      "title": "Magician's Hat",
+      "media": [
+        {
+          "track-offset": 0,
+          "track-count": 11,
+          "id": "b3fee619-ffff-3975-8c7c-a61cd119f313",
+          "format": "12\" Vinyl",
+          "position": 1,
+          "tracks": [
+            {
+              "recording": {
+                "title": "The City",
+                "length": 443000,
+                "video": false,
+                "first-release-date": "1973",
+                "id": "c19a6688-d0ad-43ed-b5f0-841a836b7768",
+                "disambiguation": ""
+              },
+              "title": "The City",
+              "length": 443000,
+              "position": 1,
+              "id": "3c2dbbb4-a790-343d-a04a-6e49e04b9605",
+              "number": "A1"
+            },
+            {
+              "number": "A2",
+              "id": "8dedc8b1-4f69-312d-9c27-c9f031f1f5e5",
+              "position": 2,
+              "length": 365000,
+              "recording": {
+                "first-release-date": "1973",
+                "video": false,
+                "disambiguation": "",
+                "id": "07fdc80d-1135-4f3e-aa32-814f854c22a2",
+                "title": "Divided Reality",
+                "length": 365000
+              },
+              "title": "Divided Reality"
+            },
+            {
+              "number": "A3",
+              "id": "f51b4c81-2343-3e0b-baa0-a0bb169acfe8",
+              "position": 3,
+              "length": 96000,
+              "recording": {
+                "length": 95000,
+                "title": "Elidor",
+                "video": false,
+                "first-release-date": "1972",
+                "id": "cfd809ea-c78d-4640-9315-e32a9d83183c",
+                "disambiguation": ""
+              },
+              "title": "Elidor"
+            },
+            {
+              "title": "Before the Rain",
+              "recording": {
+                "video": false,
+                "first-release-date": "1972",
+                "disambiguation": "",
+                "id": "90874867-c950-4ded-8835-924c5d6393ad",
+                "length": 90733,
+                "title": "Före regnet"
+              },
+              "length": 91000,
+              "position": 4,
+              "id": "41221faf-87ba-3e47-ace8-7020b0e3100b",
+              "number": "A4"
+            },
+            {
+              "position": 5,
+              "id": "c2b7e2da-38f9-363e-9a82-dafc1a6d90f5",
+              "number": "A5",
+              "title": "Fylke",
+              "recording": {
+                "title": "Fylke",
+                "length": 112000,
+                "video": false,
+                "first-release-date": "1972",
+                "id": "ce63c72c-fb1b-4e6d-90cf-848ad6082702",
+                "disambiguation": ""
+              },
+              "length": 113000
+            },
+            {
+              "recording": {
+                "video": false,
+                "first-release-date": "1972",
+                "disambiguation": "",
+                "id": "0bc9b86e-30db-48fa-b186-0edcd9f05347",
+                "length": 104000,
+                "title": "Sluttningar (lek i nedförsbacke)"
+              },
+              "title": "Playing Downhill Into the Downs",
+              "length": 102000,
+              "id": "3d3d5173-7cb1-39ae-94fd-ecf8f985b021",
+              "position": 6,
+              "number": "A6"
+            },
+            {
+              "number": "B1",
+              "position": 7,
+              "id": "712912d9-a8cd-3a1d-a638-367470ea2675",
+              "length": 103000,
+              "recording": {
+                "first-release-date": "1973",
+                "video": false,
+                "id": "b9fbf069-ff2e-48e2-b6db-e042ff3d3c97",
+                "disambiguation": "",
+                "length": 103000,
+                "title": "Findhorn's Song"
+              },
+              "title": "Findhorn's Song"
+            },
+            {
+              "title": "Awakening",
+              "recording": {
+                "length": 166000,
+                "title": "Uppvaknandet",
+                "id": "37818210-1950-40c8-8a41-aca1ec7f5b7d",
+                "disambiguation": "",
+                "first-release-date": "1972",
+                "video": false
+              },
+              "length": 164000,
+              "id": "ecf6cd41-7dfc-32cf-8010-f3b97e0abebe",
+              "position": 8,
+              "number": "B2"
+            },
+            {
+              "title": "Wandering Song",
+              "recording": {
+                "title": "Vandringslåt",
+                "length": 195960,
+                "video": false,
+                "first-release-date": "1972",
+                "disambiguation": "",
+                "id": "dde0681e-42c1-4a85-876b-30519ae99193"
+              },
+              "length": 195000,
+              "position": 9,
+              "id": "a3482412-a361-3a13-a58d-39bc379d552a",
+              "number": "B3"
+            },
+            {
+              "title": "The Sun (Parallel or 90°)",
+              "recording": {
+                "video": false,
+                "first-release-date": "1972",
+                "disambiguation": "",
+                "id": "4b5b66f9-7971-4dce-a8c4-36aee8e0029e",
+                "title": "Solen (parallellt eller 90°)",
+                "length": 434000
+              },
+              "length": 431000,
+              "position": 10,
+              "id": "68e862f7-4e77-369c-a676-9045941947db",
+              "number": "B4"
+            },
+            {
+              "length": 204000,
+              "title": "Excursion With Complications",
+              "recording": {
+                "title": "Excursion With Complications",
+                "length": 204000,
+                "id": "c873b6b2-36ce-441d-8c25-59ea99075b41",
+                "disambiguation": "",
+                "video": false,
+                "first-release-date": "1973"
+              },
+              "number": "B5",
+              "position": 11,
+              "id": "87d29d15-dafb-3357-8fed-00f6936bdfff"
+            }
+          ],
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "title": ""
+        }
+      ],
+      "id": "4659a9c1-5df5-3fe6-a97c-652052d260c9",
+      "cover-art-archive": {
+        "count": 0,
+        "darkened": false,
+        "back": false,
+        "artwork": false,
+        "front": false
+      },
+      "label-info": [
+        {
+          "label": {
+            "id": "924da91f-86a6-4f15-842f-b9afb645fe5c",
+            "label-code": null,
+            "disambiguation": "",
+            "name": "Charisma",
+            "sort-name": "Charisma",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "type": "Original Production"
+          },
+          "catalog-number": "6369 945"
+        }
+      ],
+      "relations": [
+        {
+          "url": {
+            "resource": "https://www.discogs.com/release/2122891",
+            "id": "0670c21f-6e05-4be7-b68d-a6028e0fad46"
+          },
+          "type": "discogs",
+          "attribute-ids": {},
+          "ended": false,
+          "direction": "forward",
+          "target-credit": "",
+          "target-type": "url",
+          "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+          "end": null,
+          "attribute-values": {},
+          "begin": null,
+          "attributes": [],
+          "source-credit": ""
+        }
+      ],
+      "quality": "normal",
+      "status": "Official"
+    }
+  },
+  {
+    "url": "https://musicbrainz.org/ws/2/release/051fd8a0-bb85-4da8-8f83-fdce383f3838?inc=url-rels+labels+recordings&fmt=json",
+    "retrieved": "2026-10-15T03:20:52Z",
+    "data": {
+      "quality": "normal",
+      "release-events": [
+        {
+          "date": "1973",
+          "area": {
+            "sort-name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "disambiguation": "",
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "type-id": null,
+            "name": "United Kingdom",
+            "type": null
+          }
+        }
+      ],
+      "id": "051fd8a0-bb85-4da8-8f83-fdce383f3838",
+      "barcode": null,
+      "relations": [
+        {
+          "end": null,
+          "ended": false,
+          "source-credit": "",
+          "attribute-ids": {},
+          "target-credit": "",
+          "attributes": [],
+          "url": {
+            "resource": "https://www.discogs.com/release/773159",
+            "id": "b6850cb5-2176-46b6-8b42-e6b30f701fb4"
+          },
+          "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+          "type": "discogs",
+          "direction": "forward",
+          "target-type": "url",
+          "begin": null,
+          "attribute-values": {}
+        }
+      ],
+      "media": [
+        {
+          "track-offset": 0,
+          "track-count": 11,
+          "position": 1,
+          "title": "",
+          "format": "12\" Vinyl",
+          "tracks": [
+            {
+              "number": "A1",
+              "length": 443000,
+              "id": "d6065461-702e-3492-bd7a-02124f5a7f28",
+              "position": 1,
+              "recording": {
+                "id": "c19a6688-d0ad-43ed-b5f0-841a836b7768",
+                "length": 443000,
+                "first-release-date": "1973",
+                "video": false,
+                "title": "The City",
+                "disambiguation": ""
+              },
+              "title": "The City"
+            },
+            {
+              "length": 365000,
+              "id": "9e27ddda-2c12-36a1-aca3-0f819fb41c1d",
+              "number": "A2",
+              "position": 2,
+              "recording": {
+                "video": false,
+                "disambiguation": "",
+                "title": "Divided Reality",
+                "id": "07fdc80d-1135-4f3e-aa32-814f854c22a2",
+                "length": 365000,
+                "first-release-date": "1973"
+              },
+              "title": "Divided Reality"
+            },
+            {
+              "recording": {
+                "video": false,
+                "disambiguation": "",
+                "title": "Elidor",
+                "length": 95000,
+                "id": "cfd809ea-c78d-4640-9315-e32a9d83183c",
+                "first-release-date": "1972"
+              },
+              "title": "Elidor",
+              "position": 3,
+              "id": "0ee5c046-5e06-3fb0-937f-5d2188cad407",
+              "length": 96000,
+              "number": "A3"
+            },
+            {
+              "length": 91000,
+              "id": "73f64561-7ee9-34a0-838a-f0d8527a3373",
+              "number": "A4",
+              "position": 4,
+              "title": "Before the Rain",
+              "recording": {
+                "first-release-date": "1972",
+                "length": 90733,
+                "id": "90874867-c950-4ded-8835-924c5d6393ad",
+                "disambiguation": "",
+                "title": "Före regnet",
+                "video": false
+              }
+            },
+            {
+              "length": 113000,
+              "id": "3cf1b726-8d26-3372-84d3-777ee9cc37c7",
+              "number": "A5",
+              "position": 5,
+              "recording": {
+                "video": false,
+                "disambiguation": "",
+                "title": "Fylke",
+                "id": "ce63c72c-fb1b-4e6d-90cf-848ad6082702",
+                "length": 112000,
+                "first-release-date": "1972"
+              },
+              "title": "Fylke"
+            },
+            {
+              "number": "A6",
+              "length": 102000,
+              "id": "ed7186d1-07e5-397c-b2e7-11d63aea3b1c",
+              "position": 6,
+              "recording": {
+                "video": false,
+                "title": "Sluttningar (lek i nedförsbacke)",
+                "disambiguation": "",
+                "id": "0bc9b86e-30db-48fa-b186-0edcd9f05347",
+                "length": 104000,
+                "first-release-date": "1972"
+              },
+              "title": "Playing Downhill Into the Downs"
+            },
+            {
+              "length": 103000,
+              "id": "d7f4c85e-d9a5-34f0-ae96-611477943e6f",
+              "number": "B1",
+              "position": 7,
+              "recording": {
+                "title": "Findhorn's Song",
+                "disambiguation": "",
+                "video": false,
+                "first-release-date": "1973",
+                "id": "b9fbf069-ff2e-48e2-b6db-e042ff3d3c97",
+                "length": 103000
+              },
+              "title": "Findhorn's Song"
+            },
+            {
+              "recording": {
+                "first-release-date": "1972",
+                "id": "37818210-1950-40c8-8a41-aca1ec7f5b7d",
+                "length": 166000,
+                "title": "Uppvaknandet",
+                "disambiguation": "",
+                "video": false
+              },
+              "title": "Awakening",
+              "position": 8,
+              "id": "fa21f376-5d1c-32dc-897b-282bde61d529",
+              "length": 164000,
+              "number": "B2"
+            },
+            {
+              "position": 9,
+              "recording": {
+                "title": "Vandringslåt",
+                "disambiguation": "",
+                "video": false,
+                "first-release-date": "1972",
+                "length": 195960,
+                "id": "dde0681e-42c1-4a85-876b-30519ae99193"
+              },
+              "title": "Wandering Song",
+              "number": "B3",
+              "length": 195000,
+              "id": "b86cc556-2771-3b45-b098-439ce7472d32"
+            },
+            {
+              "length": 431000,
+              "id": "2ae85575-b5b3-37ec-80e7-12d029f2cabe",
+              "number": "B4",
+              "position": 10,
+              "recording": {
+                "id": "4b5b66f9-7971-4dce-a8c4-36aee8e0029e",
+                "length": 434000,
+                "first-release-date": "1972",
+                "video": false,
+                "disambiguation": "",
+                "title": "Solen (parallellt eller 90°)"
+              },
+              "title": "The Sun (Parallel or 90°)"
+            },
+            {
+              "position": 11,
+              "recording": {
+                "video": false,
+                "title": "Excursion With Complications",
+                "disambiguation": "",
+                "id": "c873b6b2-36ce-441d-8c25-59ea99075b41",
+                "length": 204000,
+                "first-release-date": "1973"
+              },
+              "title": "Excursion With Complications",
+              "number": "B5",
+              "length": 204000,
+              "id": "b77f85e8-c8d9-3c52-8384-313e2eb7c6f0"
+            }
+          ],
+          "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+          "id": "bc3ede9c-8aa0-3449-914a-880bf49a8b24"
+        }
+      ],
+      "label-info": [
+        {
+          "label": {
+            "name": "Charisma",
+            "type": "Original Production",
+            "label-code": null,
+            "id": "924da91f-86a6-4f15-842f-b9afb645fe5c",
+            "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+            "disambiguation": "",
+            "sort-name": "Charisma"
+          },
+          "catalog-number": "CAS 1073"
+        }
+      ],
+      "disambiguation": "",
+      "title": "Magician's Hat",
+      "packaging-id": null,
+      "country": "GB",
+      "status": "Official",
+      "packaging": null,
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "cover-art-archive": {
+        "darkened": false,
+        "count": 0,
+        "front": false,
+        "artwork": false,
+        "back": false
+      },
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "asin": null,
+      "date": "1973"
+    }
+  }
+]

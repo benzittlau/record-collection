@@ -1,0 +1,697 @@
+{
+  "id": "upper-middle-23",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Lightdreams&release_title=Islands+In+Space"
+  ],
+  "releases": [
+    {
+      "id": 3225288,
+      "title": "Islands In Space",
+      "artists": [
+        {
+          "name": "Lightdreams",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 2494731,
+          "resource_url": "https://api.discogs.com/artists/2494731",
+          "thumbnail_url": "https://i.discogs.com/OLDtuBlssWkBqv9ezg3QxOZ4EsWLsP7tuieruEuEyp0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0OTQ3/MzEtMTY3MTc3MTA1/MS03MDU4LmpwZWc.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1981,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "SpacesMinusOne",
+          "catno": "IS 2001",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 2165776,
+          "resource_url": "https://api.discogs.com/labels/2165776"
+        }
+      ],
+      "notes": "1000 copies pressed.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "The High Frontier",
+          "extraartists": [
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Bass, Rhythm Section, Lead Guitar",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            },
+            {
+              "name": "John Walker (34)",
+              "anv": "",
+              "join": "",
+              "role": "Lead Guitar",
+              "tracks": "",
+              "id": 5812248,
+              "resource_url": "https://api.discogs.com/artists/5812248"
+            },
+            {
+              "name": "Peter Daoust",
+              "anv": "",
+              "join": "",
+              "role": "Sounds [Blastoff]",
+              "tracks": "",
+              "id": 5812251,
+              "resource_url": "https://api.discogs.com/artists/5812251"
+            }
+          ],
+          "duration": "3:29"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Islands In Space",
+          "extraartists": [
+            {
+              "name": "Art Lowe",
+              "anv": "",
+              "join": "",
+              "role": "Bass",
+              "tracks": "",
+              "id": 5812249,
+              "resource_url": "https://api.discogs.com/artists/5812249"
+            },
+            {
+              "name": "Tim Moore (15)",
+              "anv": "",
+              "join": "",
+              "role": "Keyboards, Saxophone",
+              "tracks": "",
+              "id": 5812250,
+              "resource_url": "https://api.discogs.com/artists/5812250"
+            },
+            {
+              "name": "Cory Rhyon",
+              "anv": "",
+              "join": "",
+              "role": "Rhythm Guitar",
+              "tracks": "",
+              "id": 5812247,
+              "resource_url": "https://api.discogs.com/artists/5812247"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Vocals, Guitar",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "5:02"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Voiceless Voice",
+          "extraartists": [
+            {
+              "name": "Andre Martin",
+              "anv": "",
+              "join": "",
+              "role": "Keyboards [On Echo]",
+              "tracks": "",
+              "id": 2044930,
+              "resource_url": "https://api.discogs.com/artists/2044930"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Vocals, Sounds, Effects",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "7:30"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "I Ride The Wind",
+          "extraartists": [
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Vocals, Bass, Guitar",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "5:17"
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "title": "Atmospheric Dreams",
+          "duration": "10:45",
+          "sub_tracks": [
+            {
+              "position": "B1-1 ",
+              "type_": "track",
+              "title": "My Spirit Soars",
+              "duration": "0:01"
+            },
+            {
+              "position": "B1-2",
+              "type_": "track",
+              "title": "Dreams",
+              "duration": "0:01"
+            }
+          ]
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Solar Winds",
+          "extraartists": [
+            {
+              "name": "Cory Rhyon",
+              "anv": "",
+              "join": "",
+              "role": "Acoustic Guitar",
+              "tracks": "",
+              "id": 5812247,
+              "resource_url": "https://api.discogs.com/artists/5812247"
+            },
+            {
+              "name": "Hal 9000 (8)",
+              "anv": "",
+              "join": "",
+              "role": "Crew [Solar Winds]",
+              "tracks": "",
+              "id": 5812252,
+              "resource_url": "https://api.discogs.com/artists/5812252"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Keyboards",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "5:00"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Farewell Goodbyes",
+          "extraartists": [
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Bass, Rhythm Section, Lead Vocals, Vocals",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            },
+            {
+              "name": "John Walker (34)",
+              "anv": "",
+              "join": "",
+              "role": "Lead Guitar",
+              "tracks": "",
+              "id": 5812248,
+              "resource_url": "https://api.discogs.com/artists/5812248"
+            },
+            {
+              "name": "Peter Daoust",
+              "anv": "",
+              "join": "",
+              "role": "Sounds [Blastoff]",
+              "tracks": "",
+              "id": 5812251,
+              "resource_url": "https://api.discogs.com/artists/5812251"
+            }
+          ],
+          "duration": "4:35"
+        }
+      ],
+      "url": "https://www.discogs.com/release/3225288",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-3225288-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/XoKZgNJA_Zl0Y5zuMzbeNVn-F0fr5p33XAT_WuFcYoM/rs:fit/g:sm/q:90/h:514/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjUy/ODgtMTMyMTI0NzI1/My5qcGVn.jpeg",
+          "type": "primary",
+          "width": 512,
+          "height": 514,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-3225288-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/k15mfl89syw_eknt_h-RyE57AguJRiXLA9fjA778rgY/rs:fit/g:sm/q:90/h:514/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjUy/ODgtMTMyMTI0NzM0/OC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 512,
+          "height": 514,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-3225288-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/Dampzwxx66b_ty1O3VxlKZH_l3Rpvo4zWzt2Ps6j9KU/rs:fit/g:sm/q:90/h:591/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjUy/ODgtMTM3ODg1MTE3/Mi0yNzYzLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 599,
+          "height": 591,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-3225288-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/r2u0I02U94l1LjWEqMj5ora80AyAYB4BYmpfH4PAkwY/rs:fit/g:sm/q:90/h:570/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjUy/ODgtMTM3ODg1MTE3/OC00MTExLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 599,
+          "height": 570,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 7838840,
+      "title": "Islands In Space",
+      "artists": [
+        {
+          "name": "Lightdreams",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 2494731,
+          "resource_url": "https://api.discogs.com/artists/2494731",
+          "thumbnail_url": "https://i.discogs.com/OLDtuBlssWkBqv9ezg3QxOZ4EsWLsP7tuieruEuEyp0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0OTQ3/MzEtMTY3MTc3MTA1/MS03MDU4LmpwZWc.jpeg"
+        }
+      ],
+      "country": "Spain",
+      "year": 2016,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Got Kinda Lost Records",
+          "catno": "GKL005",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 710598,
+          "resource_url": "https://api.discogs.com/labels/710598",
+          "thumbnail_url": "https://i.discogs.com/wmrW6qmuPz6tqn8XUN4ENGGbzou_drVzRGKq-lTr2BM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxMDU5/OC0xNDA4NjM2NDQy/LTIwNDIuanBlZw.jpeg"
+        }
+      ],
+      "notes": "Housed in old-school-style tip-on sleeve.\n\nInsert includes full lyrics, rare photos and liner notes culled from interviewing the artist.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "The High Frontier",
+          "extraartists": [
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Bass, Rhythm Section, Lead Guitar [Backwards]",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            },
+            {
+              "name": "John Walker (34)",
+              "anv": "",
+              "join": "",
+              "role": "Lead Guitar",
+              "tracks": "",
+              "id": 5812248,
+              "resource_url": "https://api.discogs.com/artists/5812248"
+            },
+            {
+              "name": "Peter Daoust",
+              "anv": "",
+              "join": "",
+              "role": "Sounds [Blastoff]",
+              "tracks": "",
+              "id": 5812251,
+              "resource_url": "https://api.discogs.com/artists/5812251"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Marcano",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "3:29"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Islands In Space",
+          "extraartists": [
+            {
+              "name": "Art Lowe",
+              "anv": "",
+              "join": "",
+              "role": "Bass",
+              "tracks": "",
+              "id": 5812249,
+              "resource_url": "https://api.discogs.com/artists/5812249"
+            },
+            {
+              "name": "Tim Moore (15)",
+              "anv": "",
+              "join": "",
+              "role": "Keyboards, Saxophone",
+              "tracks": "",
+              "id": 5812250,
+              "resource_url": "https://api.discogs.com/artists/5812250"
+            },
+            {
+              "name": "Cory Rhyon",
+              "anv": "",
+              "join": "",
+              "role": "Rhythm Guitar",
+              "tracks": "",
+              "id": 5812247,
+              "resource_url": "https://api.discogs.com/artists/5812247"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Vocals, Guitar",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Marcano",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "5:02"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Voiceless Voice",
+          "extraartists": [
+            {
+              "name": "Andre Martin",
+              "anv": "",
+              "join": "",
+              "role": "Keyboards [On Echo]",
+              "tracks": "",
+              "id": 2044930,
+              "resource_url": "https://api.discogs.com/artists/2044930"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Vocals, Effects",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            },
+            {
+              "name": "Andre Martin",
+              "anv": "Martin",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 2044930,
+              "resource_url": "https://api.discogs.com/artists/2044930"
+            }
+          ],
+          "duration": "7:30"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "I Ride The Wind",
+          "extraartists": [
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Vocals, Bass, Guitar",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Marcano",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "5:17"
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "title": "Atmospheric Dreams",
+          "extraartists": [
+            {
+              "name": "Cory Rhyon",
+              "anv": "Rhyon",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 5812247,
+              "resource_url": "https://api.discogs.com/artists/5812247"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Marcano",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "10:45",
+          "sub_tracks": [
+            {
+              "position": "B1a",
+              "type_": "track",
+              "title": "Part I",
+              "duration": ""
+            },
+            {
+              "position": "B1b",
+              "type_": "track",
+              "title": "Part II",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Solar Winds",
+          "extraartists": [
+            {
+              "name": "Cory Rhyon",
+              "anv": "",
+              "join": "",
+              "role": "Acoustic Guitar",
+              "tracks": "",
+              "id": 5812247,
+              "resource_url": "https://api.discogs.com/artists/5812247"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Keyboards",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            },
+            {
+              "name": "Hal 9000 (8)",
+              "anv": "",
+              "join": "",
+              "role": "Performer [Solar Winds]",
+              "tracks": "",
+              "id": 5812252,
+              "resource_url": "https://api.discogs.com/artists/5812252"
+            },
+            {
+              "name": "Cory Rhyon",
+              "anv": "Rhyon",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 5812247,
+              "resource_url": "https://api.discogs.com/artists/5812247"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Marcano",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "5:00"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Farewell Goodbyes",
+          "extraartists": [
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Paul Marcano",
+              "join": "",
+              "role": "Bass, Rhythm Section, Lead Guitar [Backwards], Vocals",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            },
+            {
+              "name": "John Walker (34)",
+              "anv": "",
+              "join": "",
+              "role": "Lead Guitar",
+              "tracks": "",
+              "id": 5812248,
+              "resource_url": "https://api.discogs.com/artists/5812248"
+            },
+            {
+              "name": "Peter Daoust",
+              "anv": "",
+              "join": "",
+              "role": "Sounds [Blastoff]",
+              "tracks": "",
+              "id": 5812251,
+              "resource_url": "https://api.discogs.com/artists/5812251"
+            },
+            {
+              "name": "Paul R. Marcano",
+              "anv": "Marcano",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 4698917,
+              "resource_url": "https://api.discogs.com/artists/4698917"
+            }
+          ],
+          "duration": "4:35"
+        }
+      ],
+      "url": "https://www.discogs.com/release/7838840",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-7838840-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/kKNrhFlnS8DcuGqGiH6_P6g2B88uB5jY9S6SwHc1poo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzg4/NDAtMTYyMDQyMDIz/OS0yNzA3LmpwZWc.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 597,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-7838840-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/uWjtH3IKdJX71Mp7zKGA7rwVem81cPrNpEzL2JUZeG4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzg4/NDAtMTQ1MzMzMjk3/OC02MTY4LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-7838840-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/K4pommLBOE9-ssCpmg6pGOZ8tqxmAVQpR8lWsCvSBP4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzg4/NDAtMTQ1NzA1MDcw/MC00NDgxLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-7838840-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/h5qWEXbo7zX-Dk9zdUeZHSw8R4UBplp0rn8lRNCKncs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzg4/NDAtMTYyMDQyMDI0/MC03NzM5LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 599,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-7838840-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/8Mg7wFv9r3vOZYzv3ZVOtPQzPgdAd4fUCayVWs_fmEQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzg4/NDAtMTYyMDQyMDI0/MC0yMjEzLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 597,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-23-discogs-7838840-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/9mqsUDr5yq-fH7tvilx61kduopczaYWeSUV8uraRGyg/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Mzg4/NDAtMTYyMDQyMDIz/OS05MDc0LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 598,
+          "height": 600,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+{
+  "url": "https://api.discogs.com/releases/438323",
+  "retrieved": "2026-10-15T03:19:04Z",
+  "data": {
+    "id": 438323,
+    "status": "Accepted",
+    "year": 1973,
+    "resource_url": "https://api.discogs.com/releases/438323",
+    "uri": "https://www.discogs.com/release/438323-Rod-Stewart-Sing-It-Again-Rod",
+    "artists": [
+      {
+        "name": "Rod Stewart",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 11012,
+        "resource_url": "https://api.discogs.com/artists/11012",
+        "thumbnail_url": "https://i.discogs.com/WoMhuvO-G1wxd_t-dY9K_eyhUNUC6MBRoTifdDzLtz0/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMDEy/LTEzOTQwMzc3OTMt/OTYwMS5qcGVn.jpeg"
+      }
+    ],
+    "artists_sort": "Rod Stewart",
+    "labels": [
+      {
+        "name": "Mercury",
+        "catno": "6499 484",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 39357,
+        "resource_url": "https://api.discogs.com/labels/39357",
+        "thumbnail_url": "https://i.discogs.com/Gk10JQfI8xTIB79ehV94mylhBMI0-KediNkDlP0wk3M/rs:fit/g:sm/q:90/h:269/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MzU3/LTE3ODE4ODgzMDIt/MTAyMS5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Mercury Sound Studios",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 316436,
+        "resource_url": "https://api.discogs.com/labels/316436",
+        "thumbnail_url": "https://i.discogs.com/iqhX_fAfOwISQLGgBuEBeQwXmdb6Y3Ke_ZaNOS3WBg8/rs:fit/g:sm/q:90/h:600/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQz/Ni0xNjU5ODE2MjI4/LTI0NDQucG5n.jpeg"
+      },
+      {
+        "name": "Mercury Sound Studios",
+        "catno": "",
+        "entity_type": "27",
+        "entity_type_name": "Mixed At",
+        "id": 316436,
+        "resource_url": "https://api.discogs.com/labels/316436",
+        "thumbnail_url": "https://i.discogs.com/iqhX_fAfOwISQLGgBuEBeQwXmdb6Y3Ke_ZaNOS3WBg8/rs:fit/g:sm/q:90/h:600/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjQz/Ni0xNjU5ODE2MjI4/LTI0NDQucG5n.jpeg"
+      },
+      {
+        "name": "Ode Records (2)",
+        "catno": "",
+        "entity_type": "13",
+        "entity_type_name": "Phonographic Copyright (p)",
+        "id": 36012,
+        "resource_url": "https://api.discogs.com/labels/36012",
+        "thumbnail_url": "https://i.discogs.com/4vPLD4FPo25OdW5Nchpk-1WlxM3B-D4MQYcNmAmFnJk/rs:fit/g:sm/q:90/h:320/w:305/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2MDEy/LTE2NDU2NTE1NzUt/ODgzNi5qcGVn.jpeg"
+      },
+      {
+        "name": "A&M (2)",
+        "catno": "",
+        "entity_type": "13",
+        "entity_type_name": "Phonographic Copyright (p)",
+        "id": 263630,
+        "resource_url": "https://api.discogs.com/labels/263630",
+        "thumbnail_url": "https://i.discogs.com/VhkRTcchxtDHTS5_n6kq0imJ_fqUHuQ2KrDhqtJpp2w/rs:fit/g:sm/q:90/h:193/w:197/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MzYz/MC0xNjc3NzYzMDAw/LTc5NDgucG5n.jpeg"
+      },
+      {
+        "name": "Phonodisc Ltd.",
+        "catno": "",
+        "entity_type": "30",
+        "entity_type_name": "Lacquer Cut At",
+        "id": 327018,
+        "resource_url": "https://api.discogs.com/labels/327018",
+        "thumbnail_url": "https://i.discogs.com/5W9HkVZZE06JawRP3uwkMgqOpkjkBJGxX3u_RsVK2Bk/rs:fit/g:sm/q:90/h:462/w:502/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNzAx/OC0xMzI3MDU0NjAx/LnBuZw.jpeg"
+      },
+      {
+        "name": "Phonodisc Ltd.",
+        "catno": "",
+        "entity_type": "17",
+        "entity_type_name": "Pressed By",
+        "id": 327018,
+        "resource_url": "https://api.discogs.com/labels/327018",
+        "thumbnail_url": "https://i.discogs.com/5W9HkVZZE06JawRP3uwkMgqOpkjkBJGxX3u_RsVK2Bk/rs:fit/g:sm/q:90/h:462/w:502/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNzAx/OC0xMzI3MDU0NjAx/LnBuZw.jpeg"
+      },
+      {
+        "name": "Robbins Music Corp.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 280839,
+        "resource_url": "https://api.discogs.com/labels/280839",
+        "thumbnail_url": "https://i.discogs.com/Oc-B_xfhqG5IuNLOYdSYasUmjJujL39QrFk23OZdrxA/rs:fit/g:sm/q:90/h:154/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MDgz/OS0xNjc4MDQ3MjYy/LTc1NDUuanBlZw.jpeg"
+      },
+      {
+        "name": "Chappell & Co. Ltd.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 273333,
+        "resource_url": "https://api.discogs.com/labels/273333",
+        "thumbnail_url": "https://i.discogs.com/OmLQ51jVQY8JJTx0CPW9CkLkUqaFkv7aMmhb08yY4Jk/rs:fit/g:sm/q:90/h:256/w:256/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MzMz/My0xNDU2ODU3ODE1/LTI2NTIuanBlZw.jpeg"
+      },
+      {
+        "name": "Fabulous Music Ltd.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 271918,
+        "resource_url": "https://api.discogs.com/labels/271918",
+        "thumbnail_url": "https://i.discogs.com/oVw31ICOE-Osd14RveMiC1z-aWrcFGcb4ee9gdzmy38/rs:fit/g:sm/q:90/h:171/w:212/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTkx/OC0xNzI1NTgzMDE3/LTM0MTkuanBlZw.jpeg"
+      },
+      {
+        "name": "GH Music Ltd",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 895431,
+        "resource_url": "https://api.discogs.com/labels/895431"
+      },
+      {
+        "name": "United Artists Music Ltd.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 268737,
+        "resource_url": "https://api.discogs.com/labels/268737",
+        "thumbnail_url": "https://i.discogs.com/k-fX7voOQBePTSnxLduaMpaUh3uW0EC5mfs-sP7BAN8/rs:fit/g:sm/q:90/h:155/w:172/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2ODcz/Ny0xNjQ5NDkyMDg1/LTU2MjIucG5n.jpeg"
+      },
+      {
+        "name": "Mirage Music Ltd.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 458204,
+        "resource_url": "https://api.discogs.com/labels/458204",
+        "thumbnail_url": "https://i.discogs.com/KJmxVAJYJTZGmjXgqjT12w70LMKHXAOX1-ayW2CtSvE/rs:fit/g:sm/q:90/h:51/w:311/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ1ODIw/NC0xNDgyMjc2MjU2/LTcwNTAuanBlZw.jpeg"
+      },
+      {
+        "name": "ABKCO Music",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 282302,
+        "resource_url": "https://api.discogs.com/labels/282302"
+      },
+      {
+        "name": "Warner Bros. Music Ltd.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 264571,
+        "resource_url": "https://api.discogs.com/labels/264571",
+        "thumbnail_url": "https://i.discogs.com/N5IAbuVA2yD_7IOEQ1wmROEGzU50Pkahlg2Y5l5Vnmk/rs:fit/g:sm/q:90/h:34/w:207/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDU3/MS0xNTcyOTM5ODQ4/LTI0NTIuanBlZw.jpeg"
+      },
+      {
+        "name": "Jobete London Music Ltd.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 499405,
+        "resource_url": "https://api.discogs.com/labels/499405",
+        "thumbnail_url": "https://i.discogs.com/rjB81qXvg5BRJuMedFpa0IXSzSpXkBVOtSdlPoHvOjs/rs:fit/g:sm/q:90/h:58/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ5OTQw/NS0xNzMyMjgzOTA1/LTI2OTguanBlZw.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Compilation",
+          "Stereo"
+        ],
+        "text": "Die Cut Cover"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 4390,
+      "want": 76,
+      "rating": {
+        "count": 241,
+        "average": 3.95
+      },
+      "submitter": {
+        "username": "Kergillian",
+        "resource_url": "https://api.discogs.com/users/Kergillian"
+      },
+      "contributors": [
+        {
+          "username": "Kergillian",
+          "resource_url": "https://api.discogs.com/users/Kergillian"
+        },
+        {
+          "username": "Morten-Hattestad",
+          "resource_url": "https://api.discogs.com/users/Morten-Hattestad"
+        },
+        {
+          "username": "massivemidget",
+          "resource_url": "https://api.discogs.com/users/massivemidget"
+        },
+        {
+          "username": "mcdustsucker",
+          "resource_url": "https://api.discogs.com/users/mcdustsucker"
+        },
+        {
+          "username": "yr130962",
+          "resource_url": "https://api.discogs.com/users/yr130962"
+        },
+        {
+          "username": "HipSonic",
+          "resource_url": "https://api.discogs.com/users/HipSonic"
+        },
+        {
+          "username": "chillyboy64",
+          "resource_url": "https://api.discogs.com/users/chillyboy64"
+        },
+        {
+          "username": "fluuunk",
+          "resource_url": "https://api.discogs.com/users/fluuunk"
+        },
+        {
+          "username": "tangent1979",
+          "resource_url": "https://api.discogs.com/users/tangent1979"
+        },
+        {
+          "username": "shangalang",
+          "resource_url": "https://api.discogs.com/users/shangalang"
+        },
+        {
+          "username": "rikroc",
+          "resource_url": "https://api.discogs.com/users/rikroc"
+        },
+        {
+          "username": "rollenstein",
+          "resource_url": "https://api.discogs.com/users/rollenstein"
+        },
+        {
+          "username": "smakmuz",
+          "resource_url": "https://api.discogs.com/users/smakmuz"
+        },
+        {
+          "username": "swbostoncd",
+          "resource_url": "https://api.discogs.com/users/swbostoncd"
+        },
+        {
+          "username": "carlosbluenose",
+          "resource_url": "https://api.discogs.com/users/carlosbluenose"
+        },
+        {
+          "username": "aclbernie",
+          "resource_url": "https://api.discogs.com/users/aclbernie"
+        },
+        {
+          "username": "pfue",
+          "resource_url": "https://api.discogs.com/users/pfue"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2005-04-22T00:23:19-07:00",
+    "date_changed": "2026-01-08T09:18:34-08:00",
+    "num_for_sale": 205,
+    "lowest_price": 0.65,
+    "master_id": 68338,
+    "master_url": "https://api.discogs.com/masters/68338",
+    "title": "Sing It Again Rod",
+    "country": "UK",
+    "released": "1973-08-00",
+    "notes": "Released in a gimmick whisky glass shaped sleeve manufactured and printed in England.\n\nA6 is an edited version. Runouts are stamped.",
+    "released_formatted": "Aug 1973",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "6499 484.1",
+        "description": "Label side A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499 484.2",
+        "description": "Label side B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 1Y//6 420 04 12",
+        "description": "Runout side A - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 2Y//5 420 05 11 4 1 ",
+        "description": "Runout side B - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 1Y//∇1 420 11 3 6  04",
+        "description": "Runout side A - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 2Y//2∇ 420 12 18   04",
+        "description": "Runout side B - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 1Y//6 420 04 1 1 1 4",
+        "description": "Runout side A - variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 2Y//5 420 05 1 1 2 4",
+        "description": "Runout side B - variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 1Y//1∇420 11 1 04",
+        "description": "Runout side A - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 2Y//2∇420C 11 4 04",
+        "description": "Runout side B - variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 1Y//6 420 04 1 1 1 7",
+        "description": "Runout side A - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 2Y//5 420 05 1 1 2 8",
+        "description": "Runout side B - variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 1Y//1∇420 11 34 06",
+        "description": "Runout side A - variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "6499484 2Y//2∇420C 12 14 04",
+        "description": "Runout side B - variant 6"
+      }
+    ],
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=hQqNUwNNkTo",
+        "title": "Rod Stewart Feat. Faces - You Wear It Well - TOTP2 1972",
+        "description": "First Generation VHS-Rip.",
+        "duration": 239,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=poaOlVSMTrM",
+        "title": "Gasoline Alley",
+        "description": "Provided to YouTube by Universal Music Group\n\nGasoline Alley · Rod Stewart\n\nGasoline Alley\n\n℗ 1970 The Island Def Jam Music Group\n\nReleased on: 1970-01-01\n\nProducer, Associated  Performer, Vocals: Rod Stewart\nProducer: Lou Reizner\nAssociated  Performer, G",
+        "duration": 248,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=br6IizSE3nE",
+        "title": "Pinball Wizard",
+        "description": "Provided to YouTube by Universal Music Group\n\nPinball Wizard · Rod Stewart\n\nThe Best Of Rod Stewart\n\n℗ 1972 The Island Def Jam Music Group\n\nReleased on: 1976-08-19\n\nProducer, Associated  Performer, Vocals: Rod Stewart\nComposer  Lyricist: Pete Townshend\n\nA",
+        "duration": 193,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=BKxRS47h1YY",
+        "title": "Rod Stewart - Reason To Believe",
+        "description": "This song from the 1973 compilation album, \"Sing It Again Rod\" appears to be a  'Greatest Hits' when he had just had 3 or 4 albums! It is a lovely album anyway. This version of \"Reason to Believe\" has absolutely beautiful piano and orchestration.  I think",
+        "duration": 226,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=uNCykvedKlo",
+        "title": "Rod Stewart   Mandolin Wind",
+        "description": "From the album 'Sing It Again Rod'",
+        "duration": 329,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=ZChRmRx1XsQ",
+        "title": "Rod Stewart   You Wear It Well",
+        "description": "From the album 'Sing It Again Rod'",
+        "duration": 251,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=pW3TT67l79U",
+        "title": "Rod Stewart   (I Know) I'm Losing You",
+        "description": "From the album 'Sing It Again Rod'",
+        "duration": 304,
+        "embed": true
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock",
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Reason To Believe (Find A Reason To Believe)",
+        "extraartists": [
+          {
+            "name": "Tim Hardin",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 123766,
+            "resource_url": "https://api.discogs.com/artists/123766"
+          }
+        ],
+        "duration": "3:45"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "You Wear It Well",
+        "extraartists": [
+          {
+            "name": "Martin Quittenton",
+            "anv": "M. Quittenton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 434242,
+            "resource_url": "https://api.discogs.com/artists/434242"
+          },
+          {
+            "name": "Rod Stewart",
+            "anv": "R. Stewart",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 11012,
+            "resource_url": "https://api.discogs.com/artists/11012"
+          }
+        ],
+        "duration": "4:10"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Mandolin Wind",
+        "extraartists": [
+          {
+            "name": "Rod Stewart",
+            "anv": "R. Stewart",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 11012,
+            "resource_url": "https://api.discogs.com/artists/11012"
+          }
+        ],
+        "duration": "5:25"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Country Comfort",
+        "extraartists": [
+          {
+            "name": "Elton John & Bernie Taupin",
+            "anv": "Elton John- Bernie Taupin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 825268,
+            "resource_url": "https://api.discogs.com/artists/825268"
+          }
+        ],
+        "duration": "4:41"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Maggie May",
+        "extraartists": [
+          {
+            "name": "Martin Quittenton",
+            "anv": "M. Quittenton",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 434242,
+            "resource_url": "https://api.discogs.com/artists/434242"
+          },
+          {
+            "name": "Rod Stewart",
+            "anv": "R. Stewart",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 11012,
+            "resource_url": "https://api.discogs.com/artists/11012"
+          }
+        ],
+        "duration": "5:12"
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Handbags And Gladrags",
+        "extraartists": [
+          {
+            "name": "Mike D'Abo",
+            "anv": "Michael D'Abo",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 371220,
+            "resource_url": "https://api.discogs.com/artists/371220"
+          }
+        ],
+        "duration": "3:58"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Street Fighting Man",
+        "extraartists": [
+          {
+            "name": "Jagger-Richards",
+            "anv": "M. Jagger-K. Richards",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 845581,
+            "resource_url": "https://api.discogs.com/artists/845581"
+          }
+        ],
+        "duration": "4:59"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Twisting The Night Away",
+        "extraartists": [
+          {
+            "name": "Sam Cooke",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 295202,
+            "resource_url": "https://api.discogs.com/artists/295202"
+          }
+        ],
+        "duration": "3:07"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Lost Paraguayos",
+        "extraartists": [
+          {
+            "name": "Rod Stewart",
+            "anv": "R. Stewart",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 11012,
+            "resource_url": "https://api.discogs.com/artists/11012"
+          },
+          {
+            "name": "Ron Wood",
+            "anv": "R. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 271311,
+            "resource_url": "https://api.discogs.com/artists/271311"
+          }
+        ],
+        "duration": "3:50"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "(I Know) I'm Losing You",
+        "extraartists": [
+          {
+            "name": "Cornelius Grant",
+            "anv": "C. Grant",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 331570,
+            "resource_url": "https://api.discogs.com/artists/331570"
+          },
+          {
+            "name": "Edward Holland, Jr.",
+            "anv": "E. Holland",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 589715,
+            "resource_url": "https://api.discogs.com/artists/589715"
+          },
+          {
+            "name": "Norman Whitfield",
+            "anv": "N. Whitfield",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 101822,
+            "resource_url": "https://api.discogs.com/artists/101822"
+          }
+        ],
+        "duration": "5:03"
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Pinball Wizard (From The Rock Opera \"Tommy\" (1914-1984))",
+        "extraartists": [
+          {
+            "name": "Pete Townshend",
+            "anv": "",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 256053,
+            "resource_url": "https://api.discogs.com/artists/256053"
+          }
+        ],
+        "duration": "3:09"
+      },
+      {
+        "position": "B6",
+        "type_": "track",
+        "title": "Gasoline Alley",
+        "extraartists": [
+          {
+            "name": "Rod Stewart",
+            "anv": "R. Stewart",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 11012,
+            "resource_url": "https://api.discogs.com/artists/11012"
+          },
+          {
+            "name": "Ron Wood",
+            "anv": "R. Wood",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 271311,
+            "resource_url": "https://api.discogs.com/artists/271311"
+          }
+        ],
+        "duration": "4:02"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Peter Corriston",
+        "anv": "Shakey Pete Corriston",
+        "join": "",
+        "role": "Design [Album Design]",
+        "tracks": "",
+        "id": 1839415,
+        "resource_url": "https://api.discogs.com/artists/1839415"
+      },
+      {
+        "name": "Gilbert Kong",
+        "anv": "",
+        "join": "",
+        "role": "Mastered By [Mastering]",
+        "tracks": "",
+        "id": 347240,
+        "resource_url": "https://api.discogs.com/artists/347240"
+      },
+      {
+        "name": "Cosimo Scianna",
+        "anv": "",
+        "join": "",
+        "role": "Photography By",
+        "tracks": "",
+        "id": 2909072,
+        "resource_url": "https://api.discogs.com/artists/2909072"
+      },
+      {
+        "name": "Emerson-Loew",
+        "anv": "Emerson, Loew",
+        "join": "",
+        "role": "Photography By",
+        "tracks": "",
+        "id": 2234715,
+        "resource_url": "https://api.discogs.com/artists/2234715"
+      },
+      {
+        "name": "Steve Azzara (2)",
+        "anv": "",
+        "join": "",
+        "role": "Photography By",
+        "tracks": "",
+        "id": 2297247,
+        "resource_url": "https://api.discogs.com/artists/2297247"
+      },
+      {
+        "name": "Rod Stewart",
+        "anv": "",
+        "join": "",
+        "role": "Producer",
+        "tracks": "",
+        "id": 11012,
+        "resource_url": "https://api.discogs.com/artists/11012"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/1NQtgfpNh2amqRkHiWWvztgQWoLW5AZ8Kf6n4wBPAc4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODM5/LTY5NjcuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/1NQtgfpNh2amqRkHiWWvztgQWoLW5AZ8Kf6n4wBPAc4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODM5/LTY5NjcuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/DnEzHl9xSevd5zyTHFNc31_9sUs808Oxjz4jgbVNvrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODM5/LTY5NjcuanBlZw.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/PpNILDU8vg7tyFZrZFC97lrVM3JynQPtsQVhkSuDlAw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODQ0/LTE3NTAuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/PpNILDU8vg7tyFZrZFC97lrVM3JynQPtsQVhkSuDlAw/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODQ0/LTE3NTAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/mNd9Ph1J1KreubHWCrIdmCMlBoct8lEy8LwXfQg6J20/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODQ0/LTE3NTAuanBlZw.jpeg",
+        "width": 597,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/YA1ctznbkJgYOBIDl7N4diXkDdP6dpNyZTCPbT3VpwQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODQ5/LTMwNTUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/YA1ctznbkJgYOBIDl7N4diXkDdP6dpNyZTCPbT3VpwQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODQ5/LTMwNTUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/OtDjd9nSEPzxsUixpNI_ciOUwmKg5rSGPGgv-_1wfOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODQ5/LTMwNTUuanBlZw.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vyBAT76hSjY0l566RfQ2gDttB5GT7dFw8L4u7azpy3E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODUz/LTcxNzQuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/vyBAT76hSjY0l566RfQ2gDttB5GT7dFw8L4u7azpy3E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODUz/LTcxNzQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/hIHDPD3YQ2kyiw6BeQRHbrrOhsGY292eILXPfJp_p0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODUz/LTcxNzQuanBlZw.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/R8ylJak4uchQ089B2YEDLHTErBWr4VJnlG7Tuz_ExXI/rs:fit/g:sm/q:90/h:367/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODU4/LTY1OTAuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/R8ylJak4uchQ089B2YEDLHTErBWr4VJnlG7Tuz_ExXI/rs:fit/g:sm/q:90/h:367/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODU4/LTY1OTAuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/2Va3W9n3HV34OmrNvnnp2sqSVbqmGQFRFg8GomrcusQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODU4/LTY1OTAuanBlZw.jpeg",
+        "width": 600,
+        "height": 367
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0vzMgrV6fF2ajFt07SdYkPjDYqnNjkkqo72MkIMFGl8/rs:fit/g:sm/q:90/h:319/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODYz/LTU0NDQuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/0vzMgrV6fF2ajFt07SdYkPjDYqnNjkkqo72MkIMFGl8/rs:fit/g:sm/q:90/h:319/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODYz/LTU0NDQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/7GO9ZVRYg-iAQmPRi6HjxXKTwyKFTJmAQAqDjLwHGl0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODYz/LTU0NDQuanBlZw.jpeg",
+        "width": 600,
+        "height": 319
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/d4OcvWETfVN91M120M6eAezHG_jbcI51EOLP6HxiFms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODY4/LTY1MzguanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/d4OcvWETfVN91M120M6eAezHG_jbcI51EOLP6HxiFms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODY4/LTY1MzguanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/xf9PDUbxhvqCfxjHzWOfqfeW2GTg-Fk3bNkjzxd2m_s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODY4/LTY1MzguanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/7mrpaieDy1B7gFX-fJXaQRzI8R_t_d6QpCJzXihox-k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODcy/LTEzNzcuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/7mrpaieDy1B7gFX-fJXaQRzI8R_t_d6QpCJzXihox-k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODcy/LTEzNzcuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/pE1fccLb6LJJ-dGOeqJ6NKOUEIITttoc8GiEyyqvrwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODcy/LTEzNzcuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/DnEzHl9xSevd5zyTHFNc31_9sUs808Oxjz4jgbVNvrw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODMy/My0xMzk3OTExODM5/LTY5NjcuanBlZw.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  }
+}

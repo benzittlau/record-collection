@@ -1,0 +1,122 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 1,
+    "per_page": 25,
+    "items": 2,
+    "urls": {}
+  },
+  "results": [
+    {
+      "country": "Canada",
+      "year": "1981",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "SpacesMinusOne",
+        "SpacesMinusOne",
+        "Goldstream Park",
+        "Goldstream Park",
+        "Praise Records",
+        "Clearlite Acres"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Prog Rock",
+        "Ambient",
+        "Krautrock"
+      ],
+      "id": 3225288,
+      "barcode": [],
+      "master_id": 902483,
+      "master_url": "https://api.discogs.com/masters/902483",
+      "uri": "/release/3225288-Lightdreams-Islands-In-Space",
+      "catno": "IS 2001",
+      "title": "Lightdreams - Islands In Space",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3225288",
+      "community": {
+        "want": 450,
+        "have": 101
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Spain",
+      "year": "2016",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "label": [
+        "Got Kinda Lost Records",
+        "GZ Media"
+      ],
+      "type": "release",
+      "genre": [
+        "Electronic",
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Prog Rock",
+        "Ambient",
+        "New Age"
+      ],
+      "id": 7838840,
+      "barcode": [
+        "4 040824 085759",
+        "139247E1/A",
+        "139247E2/A"
+      ],
+      "master_id": 902483,
+      "master_url": "https://api.discogs.com/masters/902483",
+      "uri": "/release/7838840-Lightdreams-Islands-In-Space",
+      "catno": "GKL005",
+      "title": "Lightdreams - Islands In Space",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7838840",
+      "community": {
+        "want": 169,
+        "have": 131
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Remastered"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1541,7 +1541,7 @@
       "artist": "J.S.D. Band",
       "confidence": "confirmed",
       "neededFaces": [],
-      "reason": "Photographed album identity is supported; usable front and rear sleeve references are available from verified vinyl LP editions. Exact physical pressing remains unverified.",
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [
         {
           "query": "rgid:906082de-4651-4b76-8079-adee51c17cea",
@@ -1595,8 +1595,15 @@
         "back": "/assets/covers/upper-middle-07-deep-back.jpg",
         "backSourceUrl": "https://coverartarchive.org/release/84c12b00-b5e8-4271-a4e4-dc53e064c215/28508784000-1200.jpg"
       },
-      "status": "complete_reference_artwork",
-      "remainingCaptureNeeds": []
+      "status": "confirmed-from-family-capture",
+      "remainingCaptureNeeds": [],
+      "beforeCapture": {
+        "status": "complete_reference_artwork",
+        "title": "Travelling Days",
+        "confidence": "confirmed",
+        "neededFaces": []
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-middle-08",
@@ -1622,14 +1629,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "title": "Travelling Days",
+      "artist": "J.S.D. Band",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "User reports no separate early record and recaptured previous requested neighbor. IMG3636/37 is Travelling Days; source08 only adds Warner Bros footer text beside the same pale jacket.",
       "queries": [],
       "evidence": [
         {
@@ -1648,7 +1652,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "resolved-fold-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -1657,7 +1661,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-middle-09",
@@ -2879,7 +2893,7 @@
       "artist": "Manfred Mann's Earth Band",
       "confidence": "confirmed",
       "neededFaces": [],
-      "reason": "Photographed album identity is supported; usable front and rear sleeve references are available from verified vinyl LP editions. Exact physical pressing remains unverified.",
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [
         {
           "query": "rgid:b20405cf-b154-3e30-bd4e-e351fdc54bb4",
@@ -2933,8 +2947,15 @@
         "back": "/assets/covers/upper-middle-14-deep-back.jpg",
         "backSourceUrl": "http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469501181.jpg"
       },
-      "status": "complete_reference_artwork",
-      "remainingCaptureNeeds": []
+      "status": "confirmed-from-family-capture",
+      "remainingCaptureNeeds": [],
+      "beforeCapture": {
+        "status": "complete_reference_artwork",
+        "title": "Chance",
+        "confidence": "confirmed",
+        "neededFaces": []
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-middle-15",
@@ -2960,14 +2981,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "title": "Chance",
+      "artist": "Manfred Mann's Earth Band",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "User reports no separate early record and recaptured previous requested neighbor. IMG3638/39 is Chance; gray strip has faint continuation of the same Manfred Mann wording beside its blue printed spine.",
       "queries": [],
       "evidence": [
         {
@@ -2986,7 +3004,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "resolved-fold-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -2995,7 +3013,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-middle-16",
@@ -4355,14 +4383,11 @@
       ],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches. Faint catalogue resembles FC39298; Arnold Schwarzenegger’s Total Body Workout is a lead, not an established identity.",
+      "title": "Between the Lines",
+      "artist": "Janis Ian",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [
         {
           "url": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=30&catno=FC39298",
@@ -4392,7 +4417,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -4401,7 +4426,17 @@
           ],
           "reason": "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches. Faint catalogue resembles FC39298; Arnold Schwarzenegger’s Total Body Workout is a lead, not an established identity."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-middle-23",
@@ -4427,14 +4462,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "title": "Islands in Space",
+      "artist": "Lightdreams",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [],
       "evidence": [
         {
@@ -4453,7 +4485,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -4462,7 +4494,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-middle-24",
@@ -7817,14 +7859,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "title": "Axis: Bold as Love",
+      "artist": "The Jimi Hendrix Experience",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [],
       "evidence": [
         {
@@ -7851,7 +7890,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -7860,7 +7899,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-middle-39",
@@ -7886,14 +7935,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "title": "Leo Kottke",
+      "artist": "Leo Kottke",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [],
       "evidence": [
         {
@@ -7920,7 +7966,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -7929,7 +7975,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-middle-40",
@@ -9502,14 +9558,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "title": "Electric Ladyland",
+      "artist": "The Jimi Hendrix Experience",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [],
       "evidence": [
         {
@@ -9528,7 +9581,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -9537,7 +9590,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-middle-48",
@@ -14122,14 +14185,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches. WALTER fragment is insufficient to choose an artist or album; generic Walter search rejected.",
+      "title": "Bette Midler",
+      "artist": "Bette Midler",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [
         {
           "url": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=30&q=Walter",
@@ -14167,7 +14227,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -14176,7 +14236,17 @@
           ],
           "reason": "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches. WALTER fragment is insufficient to choose an artist or album; generic Walter search rejected."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-01",
@@ -14832,12 +14902,9 @@
       ],
       "title": "Eine kleine Nachtmusik / Egmont Overture / Die Moldau / Les Préludes",
       "artist": "Berliner Philharmoniker / Radio-Symphonie-Orchester Berlin / Ferenc Fricsay",
-      "confidence": "probable",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album identity or performer/edition is unresolved from the worn source spine.",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [
         {
           "url": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=30&catno=136226&artist=Fricsay",
@@ -14914,7 +14981,7 @@
         "back": "/assets/covers/lower-middle-04-deep-discogs-1845467-1.jpg",
         "backSourceUrl": "https://i.discogs.com/HTIXktIdzDLjGqVkwBN5G-_9AGjdwP9AqW3GfgYkir4/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDU0/NjctMTMwMDIzNDc1/OC5qcGVn.jpeg"
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -14923,7 +14990,30 @@
           ],
           "reason": "Album identity or performer/edition is unresolved from the worn source spine."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Eine kleine Nachtmusik / Egmont Overture / Die Moldau / Les Préludes",
+        "confidence": "probable",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
+    },
+    {
+      "id": "lower-middle-04b",
+      "beforeCapture": {},
+      "box": "lower-middle",
+      "position": 4.5,
+      "title": "Julian Bream Plays Bach",
+      "artist": "Julian Bream",
+      "confidence": "confirmed",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-05",
@@ -16212,14 +16302,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "title": "Moondog Matinee",
+      "artist": "The Band",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [],
       "evidence": [
         {
@@ -16238,7 +16325,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -16247,7 +16334,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-12",
@@ -17542,255 +17639,6 @@
       "remainingCaptureNeeds": []
     },
     {
-      "id": "lower-middle-18",
-      "box": "lower-middle",
-      "position": 20,
-      "before": {
-        "title": "Low",
-        "artist": "David Bowie",
-        "confidence": "confirmed",
-        "front": "/assets/covers/lower-middle-18.jpg",
-        "frontSource": "https://i.scdn.co/image/ab67616d0000b27397f5848879cbefd4192f69ae",
-        "back": null,
-        "backSource": null
-      },
-      "spineText": "DAVID BOWIE · LOW",
-      "identityEvidence": [
-        {
-          "type": "photo",
-          "source": "reference/IMG_3572.jpg",
-          "transcription": "DAVID BOWIE · LOW"
-        }
-      ],
-      "searchedCodes": [],
-      "searchedReleases": [
-        {
-          "id": "e0f741ae-9254-38b9-bef8-fd0516d36c94",
-          "url": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
-          "title": "Low",
-          "artistCredit": [
-            {
-              "name": "David Bowie",
-              "artist": {
-                "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
-                "name": "David Bowie",
-                "sort-name": "Bowie, David",
-                "disambiguation": "English singer‐songwriter"
-              }
-            }
-          ],
-          "country": "JP",
-          "date": "1977",
-          "formats": [
-            "12\" Vinyl"
-          ],
-          "labels": [
-            {
-              "catalog-number": "RVP-6154",
-              "label": {
-                "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
-                "name": "RCA"
-              }
-            }
-          ],
-          "error": null
-        },
-        {
-          "id": "3dfd3d20-fa03-4db3-85b1-02c439133884",
-          "url": "https://musicbrainz.org/release/3dfd3d20-fa03-4db3-85b1-02c439133884",
-          "title": "Low",
-          "artistCredit": [
-            {
-              "name": "David Bowie",
-              "artist": {
-                "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
-                "name": "David Bowie",
-                "sort-name": "Bowie, David",
-                "disambiguation": "English singer‐songwriter"
-              }
-            }
-          ],
-          "country": "XE",
-          "date": "2018-02-23",
-          "formats": [
-            "12\" Vinyl"
-          ],
-          "labels": [
-            {
-              "catalog-number": "DB 77821",
-              "label": {
-                "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
-                "name": "Parlophone"
-              }
-            }
-          ],
-          "error": "404"
-        },
-        {
-          "id": "394420bd-47a0-4ad3-90dc-93856eb44552",
-          "url": "https://musicbrainz.org/release/394420bd-47a0-4ad3-90dc-93856eb44552",
-          "title": "Low",
-          "artistCredit": [
-            {
-              "name": "David Bowie",
-              "artist": {
-                "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
-                "name": "David Bowie",
-                "sort-name": "Bowie, David",
-                "disambiguation": "English singer‐songwriter"
-              }
-            }
-          ],
-          "country": "US",
-          "date": "2018-02-23",
-          "formats": [
-            "12\" Vinyl"
-          ],
-          "labels": [
-            {
-              "catalog-number": "DB 77821",
-              "label": {
-                "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
-                "name": "Parlophone"
-              }
-            }
-          ],
-          "error": "404"
-        },
-        {
-          "id": "f480baa5-1e25-4f4a-aff6-250397993534",
-          "url": "https://musicbrainz.org/release/f480baa5-1e25-4f4a-aff6-250397993534",
-          "title": "Low",
-          "artistCredit": [
-            {
-              "name": "David Bowie",
-              "artist": {
-                "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
-                "name": "David Bowie",
-                "sort-name": "Bowie, David",
-                "disambiguation": "English singer‐songwriter"
-              }
-            }
-          ],
-          "country": "XE",
-          "date": "1984",
-          "formats": [
-            "12\" Vinyl"
-          ],
-          "labels": [
-            {
-              "catalog-number": "NL 83856",
-              "label": {
-                "id": "5e56de85-b963-4db5-87da-6506c9455c57",
-                "name": "RCA International"
-              }
-            }
-          ],
-          "error": null
-        }
-      ],
-      "imagesAdded": [
-        {
-          "face": "front",
-          "local": "/assets/covers/lower-middle-18-deep-front.jpg",
-          "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079.jpg",
-          "releaseUrl": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
-          "media": [
-            "12\" Vinyl"
-          ],
-          "country": "JP",
-          "catalogues": [
-            {
-              "catalog-number": "RVP-6154",
-              "label": {
-                "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
-                "name": "RCA"
-              }
-            }
-          ],
-          "editionNote": "Representative or catalogue-matching vinyl LP; exact photographed pressing remains unverified.",
-          "visualReview": "accepted_actual_front_sleeve"
-        },
-        {
-          "face": "back",
-          "local": "/assets/covers/lower-middle-18-deep-back.jpg",
-          "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267.jpg",
-          "releaseUrl": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
-          "media": [
-            "12\" Vinyl"
-          ],
-          "country": "JP",
-          "catalogues": [
-            {
-              "catalog-number": "RVP-6154",
-              "label": {
-                "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
-                "name": "RCA"
-              }
-            }
-          ],
-          "editionNote": "Representative or catalogue-matching vinyl LP; exact photographed pressing remains unverified.",
-          "visualReview": "accepted_actual_back_sleeve"
-        }
-      ],
-      "title": "Low",
-      "artist": "David Bowie",
-      "confidence": "confirmed",
-      "neededFaces": [],
-      "reason": "Photographed album identity is supported; usable front and rear sleeve references are available from verified vinyl LP editions. Exact physical pressing remains unverified.",
-      "queries": [
-        {
-          "query": "release:\"Low\" AND artist:\"David Bowie\"",
-          "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Low%22%20AND%20artist%3A%22David%20Bowie%22&limit=100&fmt=json"
-        }
-      ],
-      "evidence": [
-        {
-          "type": "source_photo",
-          "source": "reference/IMG_3572.jpg",
-          "transcription": "DAVID BOWIE · LOW",
-          "method": "Full-resolution EXIF-oriented photograph reread; straightened source strips for uncertain, probable and classical spines."
-        },
-        {
-          "type": "reference",
-          "url": "https://open.spotify.com/album/0Oqi3Mm316FRX5H9mHjF0b"
-        },
-        {
-          "type": "reference",
-          "url": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94"
-        },
-        {
-          "type": "LP_artwork",
-          "url": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
-          "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079.jpg",
-          "media": [
-            "12\" Vinyl"
-          ],
-          "face": "front"
-        },
-        {
-          "type": "LP_artwork",
-          "url": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
-          "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267.jpg",
-          "media": [
-            "12\" Vinyl"
-          ],
-          "face": "back"
-        }
-      ],
-      "rejectedCandidates": [],
-      "blockedRequests": [],
-      "physicalGroup": null,
-      "finalArtwork": {
-        "front": "/assets/covers/lower-middle-18-deep-front.jpg",
-        "frontSourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079.jpg",
-        "back": "/assets/covers/lower-middle-18-deep-back.jpg",
-        "backSourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267.jpg"
-      },
-      "status": "complete_reference_artwork",
-      "remainingCaptureNeeds": []
-    },
-    {
       "id": "lower-middle-19",
       "box": "lower-middle",
       "position": 18,
@@ -18257,6 +18105,255 @@
         "frontSourceUrl": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824929255.jpg",
         "back": "/assets/covers/lower-middle-20-deep-back.jpg",
         "backSourceUrl": "http://coverartarchive.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1/6824933246.jpg"
+      },
+      "status": "complete_reference_artwork",
+      "remainingCaptureNeeds": []
+    },
+    {
+      "id": "lower-middle-18",
+      "box": "lower-middle",
+      "position": 20,
+      "before": {
+        "title": "Low",
+        "artist": "David Bowie",
+        "confidence": "confirmed",
+        "front": "/assets/covers/lower-middle-18.jpg",
+        "frontSource": "https://i.scdn.co/image/ab67616d0000b27397f5848879cbefd4192f69ae",
+        "back": null,
+        "backSource": null
+      },
+      "spineText": "DAVID BOWIE · LOW",
+      "identityEvidence": [
+        {
+          "type": "photo",
+          "source": "reference/IMG_3572.jpg",
+          "transcription": "DAVID BOWIE · LOW"
+        }
+      ],
+      "searchedCodes": [],
+      "searchedReleases": [
+        {
+          "id": "e0f741ae-9254-38b9-bef8-fd0516d36c94",
+          "url": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
+          "title": "Low",
+          "artistCredit": [
+            {
+              "name": "David Bowie",
+              "artist": {
+                "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                "name": "David Bowie",
+                "sort-name": "Bowie, David",
+                "disambiguation": "English singer‐songwriter"
+              }
+            }
+          ],
+          "country": "JP",
+          "date": "1977",
+          "formats": [
+            "12\" Vinyl"
+          ],
+          "labels": [
+            {
+              "catalog-number": "RVP-6154",
+              "label": {
+                "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+                "name": "RCA"
+              }
+            }
+          ],
+          "error": null
+        },
+        {
+          "id": "3dfd3d20-fa03-4db3-85b1-02c439133884",
+          "url": "https://musicbrainz.org/release/3dfd3d20-fa03-4db3-85b1-02c439133884",
+          "title": "Low",
+          "artistCredit": [
+            {
+              "name": "David Bowie",
+              "artist": {
+                "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                "name": "David Bowie",
+                "sort-name": "Bowie, David",
+                "disambiguation": "English singer‐songwriter"
+              }
+            }
+          ],
+          "country": "XE",
+          "date": "2018-02-23",
+          "formats": [
+            "12\" Vinyl"
+          ],
+          "labels": [
+            {
+              "catalog-number": "DB 77821",
+              "label": {
+                "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+                "name": "Parlophone"
+              }
+            }
+          ],
+          "error": "404"
+        },
+        {
+          "id": "394420bd-47a0-4ad3-90dc-93856eb44552",
+          "url": "https://musicbrainz.org/release/394420bd-47a0-4ad3-90dc-93856eb44552",
+          "title": "Low",
+          "artistCredit": [
+            {
+              "name": "David Bowie",
+              "artist": {
+                "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                "name": "David Bowie",
+                "sort-name": "Bowie, David",
+                "disambiguation": "English singer‐songwriter"
+              }
+            }
+          ],
+          "country": "US",
+          "date": "2018-02-23",
+          "formats": [
+            "12\" Vinyl"
+          ],
+          "labels": [
+            {
+              "catalog-number": "DB 77821",
+              "label": {
+                "id": "df7d1c7f-ef95-425f-8eef-445b3d7bcbd9",
+                "name": "Parlophone"
+              }
+            }
+          ],
+          "error": "404"
+        },
+        {
+          "id": "f480baa5-1e25-4f4a-aff6-250397993534",
+          "url": "https://musicbrainz.org/release/f480baa5-1e25-4f4a-aff6-250397993534",
+          "title": "Low",
+          "artistCredit": [
+            {
+              "name": "David Bowie",
+              "artist": {
+                "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                "name": "David Bowie",
+                "sort-name": "Bowie, David",
+                "disambiguation": "English singer‐songwriter"
+              }
+            }
+          ],
+          "country": "XE",
+          "date": "1984",
+          "formats": [
+            "12\" Vinyl"
+          ],
+          "labels": [
+            {
+              "catalog-number": "NL 83856",
+              "label": {
+                "id": "5e56de85-b963-4db5-87da-6506c9455c57",
+                "name": "RCA International"
+              }
+            }
+          ],
+          "error": null
+        }
+      ],
+      "imagesAdded": [
+        {
+          "face": "front",
+          "local": "/assets/covers/lower-middle-18-deep-front.jpg",
+          "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079.jpg",
+          "releaseUrl": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
+          "media": [
+            "12\" Vinyl"
+          ],
+          "country": "JP",
+          "catalogues": [
+            {
+              "catalog-number": "RVP-6154",
+              "label": {
+                "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+                "name": "RCA"
+              }
+            }
+          ],
+          "editionNote": "Representative or catalogue-matching vinyl LP; exact photographed pressing remains unverified.",
+          "visualReview": "accepted_actual_front_sleeve"
+        },
+        {
+          "face": "back",
+          "local": "/assets/covers/lower-middle-18-deep-back.jpg",
+          "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267.jpg",
+          "releaseUrl": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
+          "media": [
+            "12\" Vinyl"
+          ],
+          "country": "JP",
+          "catalogues": [
+            {
+              "catalog-number": "RVP-6154",
+              "label": {
+                "id": "1ca5ed29-e00b-4ea5-b817-0bcca0e04946",
+                "name": "RCA"
+              }
+            }
+          ],
+          "editionNote": "Representative or catalogue-matching vinyl LP; exact photographed pressing remains unverified.",
+          "visualReview": "accepted_actual_back_sleeve"
+        }
+      ],
+      "title": "Low",
+      "artist": "David Bowie",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Photographed album identity is supported; usable front and rear sleeve references are available from verified vinyl LP editions. Exact physical pressing remains unverified.",
+      "queries": [
+        {
+          "query": "release:\"Low\" AND artist:\"David Bowie\"",
+          "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Low%22%20AND%20artist%3A%22David%20Bowie%22&limit=100&fmt=json"
+        }
+      ],
+      "evidence": [
+        {
+          "type": "source_photo",
+          "source": "reference/IMG_3572.jpg",
+          "transcription": "DAVID BOWIE · LOW",
+          "method": "Full-resolution EXIF-oriented photograph reread; straightened source strips for uncertain, probable and classical spines."
+        },
+        {
+          "type": "reference",
+          "url": "https://open.spotify.com/album/0Oqi3Mm316FRX5H9mHjF0b"
+        },
+        {
+          "type": "reference",
+          "url": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94"
+        },
+        {
+          "type": "LP_artwork",
+          "url": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
+          "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079.jpg",
+          "media": [
+            "12\" Vinyl"
+          ],
+          "face": "front"
+        },
+        {
+          "type": "LP_artwork",
+          "url": "https://musicbrainz.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94",
+          "sourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267.jpg",
+          "media": [
+            "12\" Vinyl"
+          ],
+          "face": "back"
+        }
+      ],
+      "rejectedCandidates": [],
+      "blockedRequests": [],
+      "physicalGroup": null,
+      "finalArtwork": {
+        "front": "/assets/covers/lower-middle-18-deep-front.jpg",
+        "frontSourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331191079.jpg",
+        "back": "/assets/covers/lower-middle-18-deep-back.jpg",
+        "backSourceUrl": "http://coverartarchive.org/release/e0f741ae-9254-38b9-bef8-fd0516d36c94/1331201267.jpg"
       },
       "status": "complete_reference_artwork",
       "remainingCaptureNeeds": []
@@ -19209,14 +19306,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
+      "title": "Abbey Road",
       "artist": "The Beatles",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Possible second fold of White Album26; a distinct physical jacket has not been established. Capture only if it is separate.",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [],
       "evidence": [
         {
@@ -19247,7 +19341,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -19256,7 +19350,17 @@
           ],
           "reason": "Possible second fold of White Album26; a distinct physical jacket has not been established. Capture only if it is separate."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-26",
@@ -20654,14 +20758,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "title": "Stephen Stills 2",
+      "artist": "Stephen Stills",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [],
       "evidence": [
         {
@@ -20680,7 +20781,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -20689,7 +20790,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-33",
@@ -21185,11 +21296,8 @@
       "title": "Trios for Flute, Viola and Harp",
       "artist": "Lucien Grujon / Walter Mony / Kathleen Alister",
       "confidence": "confirmed",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "No usable, face-verified LP rear scan was found after alternate LP-edition searches.",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [
         {
           "query": "release:\"Music for Flute, Viola and Harp\" AND artist:\"Unknown\"",
@@ -21241,7 +21349,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -21250,7 +21358,17 @@
           ],
           "reason": "No usable, face-verified LP rear scan was found after alternate LP-edition searches."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Trios for Flute, Viola and Harp",
+        "confidence": "confirmed",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-36",
@@ -22729,11 +22847,8 @@
       "title": "Handel's Messiah",
       "artist": "Hermann Scherchen / Vienna State Opera Orchestra",
       "confidence": "confirmed",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "No usable, face-verified LP rear scan was found after alternate LP-edition searches.",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [
         {
           "query": "release:\"Handel's Messiah\" AND artist:\"Hermann Scherchen\"",
@@ -22800,7 +22915,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -22809,7 +22924,17 @@
           ],
           "reason": "No usable, face-verified LP rear scan was found after alternate LP-edition searches."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Handel's Messiah",
+        "confidence": "confirmed",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-44",
@@ -22835,14 +22960,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified classical album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "title": "The Mouse Factory Presents Mickey and His Friends",
+      "artist": "Walt Disney Productions / Various",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [],
       "evidence": [
         {
@@ -22861,7 +22983,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -22870,7 +22992,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified classical album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-45",
@@ -24518,14 +24650,11 @@
       ],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Italian Baroque Trumpet Concertos",
-      "artist": "Performers awaiting verification",
-      "confidence": "probable",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches.",
+      "title": "Italian Baroque Trumpet Concerti",
+      "artist": "Hellmut Schneidewind / Wolfgang Pasch / Heinz Zickler / Herbert Thal / Edward H. Tarr; Mainz Chamber Orchestra / Günter Kehr; Württemberg Chamber Orchestra / Jörg Faerber",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [
         {
           "query": "release:\"Italian Baroque Trumpet Concertos\" AND artist:\"Maurice André\"",
@@ -24571,7 +24700,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -24580,7 +24709,17 @@
           ],
           "reason": "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Italian Baroque Trumpet Concertos",
+        "confidence": "probable",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-54",
@@ -27221,14 +27360,11 @@
       ],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
-      "artist": "Unknown",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches.",
+      "title": "Quintet ’80",
+      "artist": "David Grisman",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [
         {
           "url": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=30&catno=RSA4099",
@@ -27258,7 +27394,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -27267,7 +27403,17 @@
           ],
           "reason": "Album identity or performer/edition is unresolved from the worn source spine. No confidently matched usable LP front scan was found after the documented searches. No usable, face-verified LP rear scan was found after alternate LP-edition searches."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-67",
@@ -27720,14 +27866,11 @@
       "searchedCodes": [],
       "searchedReleases": [],
       "imagesAdded": [],
-      "title": "Unidentified album",
+      "title": "Organisation",
       "artist": "Orchestral Manoeuvres in the Dark",
-      "confidence": "unknown",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back.",
+      "confidence": "confirmed",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "queries": [],
       "evidence": [
         {
@@ -27746,7 +27889,7 @@
         "back": null,
         "backSourceUrl": null
       },
-      "status": "capture_required",
+      "status": "confirmed-from-family-capture",
       "remainingCaptureNeeds": [
         {
           "faces": [
@@ -27755,7 +27898,17 @@
           ],
           "reason": "The full-resolution spine has no reliable title, artist or catalogue to search. Online identity matching is not justified; capture the actual jacket front and back."
         }
-      ]
+      ],
+      "beforeCapture": {
+        "status": "capture_required",
+        "title": "Unidentified album",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-middle-70",

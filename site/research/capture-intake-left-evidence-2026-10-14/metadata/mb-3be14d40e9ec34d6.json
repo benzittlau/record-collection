@@ -1,0 +1,65 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/e933ba93-fa31-40b7-9af7-5083a49c52a9?inc=url-rels&fmt=json",
+  "retrieved": "2026-10-15T03:29:39Z",
+  "data": {
+    "country": "US",
+    "disambiguation": "",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+    "status": "Official",
+    "date": "1970",
+    "release-events": [
+      {
+        "area": {
+          "type-id": null,
+          "sort-name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "disambiguation": ""
+        },
+        "date": "1970"
+      }
+    ],
+    "relations": [
+      {
+        "attribute-values": {},
+        "target-type": "url",
+        "attribute-ids": {},
+        "ended": false,
+        "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+        "begin": null,
+        "target-credit": "",
+        "end": null,
+        "url": {
+          "id": "e97d872c-0adc-4668-ab0a-47324098640c",
+          "resource": "https://www.discogs.com/release/7966976"
+        },
+        "attributes": [],
+        "source-credit": "",
+        "direction": "forward",
+        "type": "discogs"
+      }
+    ],
+    "id": "e933ba93-fa31-40b7-9af7-5083a49c52a9",
+    "cover-art-archive": {
+      "count": 5,
+      "back": true,
+      "front": true,
+      "artwork": true,
+      "darkened": false
+    },
+    "title": "Brief Replies",
+    "asin": null,
+    "barcode": "",
+    "packaging": "Gatefold Cover",
+    "quality": "normal"
+  }
+}

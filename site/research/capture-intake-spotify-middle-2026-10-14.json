@@ -1,0 +1,858 @@
+{
+  "version": 1,
+  "date": "2026-10-14",
+  "status": "complete",
+  "scope": "Streaming proposals for the fourteen newly identified or changed Box3/Box4 albums, including the Bream insert. Canonical identity corrections must be applied before these links; no canonical edits performed.",
+  "policy": "Verify album identity and full original programme. Digital remasters/expanded reissues are allowed with explicit notes. Classical performers and recording identity must match. Partial anthologies and same-title recordings by other artists are rejected.",
+  "summary": {
+    "audited": 14,
+    "matched": 10,
+    "unresolved": 4
+  },
+  "relatedProposals": [
+    "site/research/capture-intake-middle-2026-10-14.json",
+    "site/research/capture-intake-artwork-middle-2026-10-14.json",
+    "site/research/capture-intake-spotify-root-2026-10-14.json"
+  ],
+  "metadataHandling": "Only public Spotify album/embed parsed metadata is saved; raw HTML and runtime token fields are not retained. Spotify digital dates do not replace physical LP dates.",
+  "records": [
+    {
+      "id": "upper-middle-22",
+      "recordId": "upper-middle-22",
+      "title": "Between the Lines",
+      "artist": "Janis Ian",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3640.HEIC",
+        "backFilename": "IMG_3641.HEIC",
+        "catalogue": "PC 33394",
+        "visibleEvidence": "Front names Janis Ian and Between the Lines; rear includes At Seventeen and ten other original tracks, ©1975 CBS Inc., PC33394 and Columbia Records of Canada."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "0bRlXo4f7P0gF30G3RACTN",
+      "url": "https://open.spotify.com/album/0bRlXo4f7P0gF30G3RACTN",
+      "spotifyUrl": "https://open.spotify.com/album/0bRlXo4f7P0gF30G3RACTN",
+      "spotifyTitle": "Between The Lines",
+      "spotifyArtists": [
+        "Janis Ian"
+      ],
+      "spotifyDate": "1975-01-01",
+      "spotifyTrackCount": 11,
+      "spotifyTrackTitles": [
+        "When The Party's Over",
+        "At Seventeen",
+        "From Me To You",
+        "Bright Lights And Promises",
+        "In The Winter",
+        "Water Colors",
+        "Between The Lines",
+        "The Come On",
+        "Light A Light",
+        "Tea & Sympathy",
+        "Lover's Lullaby"
+      ],
+      "editionNote": "Original 1975 album programme; digital mastering may differ from the family Columbia LP.",
+      "verification": "All eleven original songs match the photographed PC33394 rear in side order, from When the Party’s Over through Lover’s Lullaby. Official album artist is Janis Ian.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/0bRlXo4f7P0gF30G3RACTN",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/0bRlXo4f7P0gF30G3RACTN.json"
+        },
+        {
+          "url": "https://www.discogs.com/release/27746301",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album Janis Ian Between the Lines",
+        "Janis Ian Between the Lines Spotify original album programme"
+      ],
+      "rejectedCandidates": [],
+      "availableInCanada": null,
+      "availabilityNote": "Public album/embed metadata is playable, but the fetched market list is empty; regional availability requires independent browser verification."
+    },
+    {
+      "id": "upper-middle-23",
+      "recordId": "upper-middle-23",
+      "title": "Islands in Space",
+      "artist": "Lightdreams",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3642.HEIC",
+        "backFilename": "IMG_3643.HEIC",
+        "catalogue": null,
+        "visibleEvidence": "Front and rear name Lightdreams / Islands in Space. Rear credits Paul R. Marcano, Cory Rhyon, Andre Martin and others; all songs ©1981, pressed at Praise Records Vancouver, Made in Canada. Original seven-track programme. Do not use a later Lightdreams single as a full-album substitute."
+      },
+      "canonicalEditsApplied": false,
+      "status": "unresolved",
+      "spotifyId": null,
+      "url": null,
+      "spotifyUrl": null,
+      "spotifyTitle": null,
+      "spotifyArtists": [],
+      "spotifyDate": null,
+      "spotifyTrackCount": null,
+      "reason": "No complete original seven-track Islands in Space album was verified. The exact artist/title Spotify result is a one-track 2013 single, not the 1981 LP; 10,001Dreams is a different Lightdreams album.",
+      "editionNote": null,
+      "queries": [
+        "site:open.spotify.com/album Lightdreams Islands in Space",
+        "Lightdreams Paul Marcano Islands in Space Spotify full album",
+        "Lightdreams 32ItyhGiJL5XvXM3y8A2Pq album"
+      ],
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/3Nz3bDbv492sS7S0KAZMJi",
+          "description": "Official metadata confirms just one title track.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/3Nz3bDbv492sS7S0KAZMJi.json"
+        },
+        {
+          "url": "https://paulmarcanoandlightdreams.bandcamp.com/album/islands-in-space",
+          "description": "Artist’s complete seven-track album provides a programme reference and optional non-Spotify fallback."
+        },
+        {
+          "url": "https://islandsinspace.com/",
+          "description": "Artist’s primary album site."
+        }
+      ],
+      "rejectedCandidates": [
+        {
+          "spotifyId": "3Nz3bDbv492sS7S0KAZMJi",
+          "url": "https://open.spotify.com/album/3Nz3bDbv492sS7S0KAZMJi",
+          "reason": "Only one song, Islands in Space; six required LP songs absent."
+        },
+        {
+          "spotifyId": "7CsO67rW42hh1mgeKufrJe",
+          "url": "https://open.spotify.com/album/7CsO67rW42hh1mgeKufrJe",
+          "reason": "10,001Dreams is a different album, not the captured Islands in Space programme."
+        }
+      ]
+    },
+    {
+      "id": "upper-middle-38",
+      "recordId": "upper-middle-38",
+      "title": "Axis: Bold as Love",
+      "artist": "The Jimi Hendrix Experience",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3644.HEIC",
+        "backFilename": "IMG_3645.HEIC",
+        "catalogue": "6281",
+        "visibleEvidence": "Front visibly names The Jimi Hendrix Experience / Axis: Bold as Love and Reprise6281. Both photographs are sideways; 270° clockwise makes the artwork upright. Rear is the continuation of the same Indian-deity painting."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "3bVgOet9qc7a3cpzrqGS0t",
+      "url": "https://open.spotify.com/album/3bVgOet9qc7a3cpzrqGS0t",
+      "spotifyUrl": "https://open.spotify.com/album/3bVgOet9qc7a3cpzrqGS0t",
+      "spotifyTitle": "Axis: Bold As Love",
+      "spotifyArtists": [
+        "Jimi Hendrix"
+      ],
+      "spotifyDate": "1967-12-01",
+      "spotifyTrackCount": 13,
+      "spotifyTrackTitles": [
+        "EXP",
+        "Up From The Skies",
+        "Spanish Castle Magic",
+        "Wait Until Tomorrow",
+        "Ain't No Telling",
+        "Little Wing",
+        "If 6 Was 9",
+        "You Got Me Floatin'",
+        "Castles Made Of Sand",
+        "She's So Fine",
+        "One Rainy Wish",
+        "Little Miss Lover",
+        "Bold As Love"
+      ],
+      "editionNote": "Digital edition of the original thirteen-track stereo album; mastering differs from the Reprise LP.",
+      "verification": "All thirteen original tracks appear in order, EXP through Bold as Love. Same Jimi Hendrix Experience album as the photographed Reprise6281 sleeve. The later 66-track sessions package is unnecessary.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/3bVgOet9qc7a3cpzrqGS0t",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/3bVgOet9qc7a3cpzrqGS0t.json"
+        },
+        {
+          "url": "https://www.discogs.com/release/3624653",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album The Jimi Hendrix Experience Axis: Bold as Love",
+        "The Jimi Hendrix Experience Axis: Bold as Love Spotify original album programme"
+      ],
+      "rejectedCandidates": [],
+      "availableInCanada": null,
+      "availabilityNote": "Public album/embed metadata is playable, but the fetched market list is empty; regional availability requires independent browser verification."
+    },
+    {
+      "id": "upper-middle-39",
+      "recordId": "upper-middle-39",
+      "title": "Leo Kottke",
+      "artist": "Leo Kottke",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3646.HEIC",
+        "backFilename": "IMG_3647.HEIC",
+        "catalogue": "CHR 1106",
+        "visibleEvidence": "Back explicitly prints CHR1106, Buckaroo, The White Ape, Hayseed Suede, Rio Leo, Range, Airproofing, Maroon, Waltz, Death by Reputation, Up Tempo and Shadowland; arrangements by Jack Nitzsche, produced by Denny Bruce, manufactured in Canada by Capitol. Crucially, original source slot39’s thin cream spine clearly says ©1976 CHRYSALIS RECORDS INC.; this is a separate jacket, not an Axis fold."
+      },
+      "canonicalEditsApplied": false,
+      "status": "unresolved",
+      "spotifyId": null,
+      "url": null,
+      "spotifyUrl": null,
+      "spotifyTitle": null,
+      "spotifyArtists": [],
+      "spotifyDate": null,
+      "spotifyTrackCount": null,
+      "reason": "No complete self-titled 1976 Chrysalis CHR1106 album was verified. Parent checked the artist’s full native Canadian Spotify discography (28 releases); the available Chrysalis anthologies are partial programmes and include live versions.",
+      "editionNote": null,
+      "queries": [
+        "site:open.spotify.com/album Leo Kottke 1976 CHR1106",
+        "Leo Kottke Buckaroo White Ape Hayseed Suede Spotify",
+        "Leo Kottke full native discography all28 albums"
+      ],
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx/discography/all",
+          "description": "Parent inspected the complete native artist discography.",
+          "localPath": "site/research/capture-intake-spotify-root-2026-10-14.json"
+        }
+      ],
+      "rejectedCandidates": [
+        {
+          "spotifyId": "5YYv5MWJ2mq7Om5VrYAYlB",
+          "url": "https://open.spotify.com/album/5YYv5MWJ2mq7Om5VrYAYlB",
+          "reason": "Instrumentals: Best of Chrysalis is a partial anthology including live versions, not the complete eleven-song CHR1106 album."
+        },
+        {
+          "spotifyId": "7591I8OHs7ap9qUk5gPV2f",
+          "url": "https://open.spotify.com/album/7591I8OHs7ap9qUk5gPV2f",
+          "reason": "1971–1976 Did You Hear Me? is a multi-album compilation, not the original captured album."
+        }
+      ]
+    },
+    {
+      "id": "upper-middle-47",
+      "recordId": "upper-middle-47",
+      "title": "Electric Ladyland",
+      "artist": "The Jimi Hendrix Experience",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3648.HEIC",
+        "backFilename": "IMG_3649.HEIC",
+        "catalogue": "6307",
+        "visibleEvidence": "Front is the red close portrait and Reprise6307; rear names Electric Ladyland and The Jimi Hendrix Experience and gives the sixteen-song programme. Capture order and the worn pink spine after Hot Tuna Burgers bind this pair to47, not the final black/cream group."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "5z090LQztiqh13wYspQvKQ",
+      "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ",
+      "spotifyUrl": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ",
+      "spotifyTitle": "Electric Ladyland",
+      "spotifyArtists": [
+        "Jimi Hendrix"
+      ],
+      "spotifyDate": "1968-10-25",
+      "spotifyTrackCount": 16,
+      "spotifyTrackTitles": [
+        "...And the Gods Made Love",
+        "Have You Ever Been (To Electric Ladyland)",
+        "Crosstown Traffic",
+        "Voodoo Chile",
+        "Little Miss Strange",
+        "Long Hot Summer Night",
+        "Come On (Let the Good Times Roll)",
+        "Gypsy Eyes",
+        "Burning of the Midnight Lamp",
+        "Rainy Day, Dream Away",
+        "1983...(A Merman I Should Turn to Be)",
+        "Moon, Turn the Tides...Gently Gently Away",
+        "Still Raining, Still Dreaming",
+        "House Burning Down",
+        "All Along the Watchtower",
+        "Voodoo Child (Slight Return)"
+      ],
+      "editionNote": "Original 1968 sixteen-track album programme in a digital edition; mastering and cover variant can differ.",
+      "verification": "Complete original double-LP programme, …And the Gods Made Love through Voodoo Child (Slight Return), with Jimi Hendrix credits. This independently refetched ID is already verified for the same album elsewhere in the collection.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/5z090LQztiqh13wYspQvKQ.json"
+        },
+        {
+          "url": "https://www.discogs.com/release/6778528",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album The Jimi Hendrix Experience Electric Ladyland",
+        "The Jimi Hendrix Experience Electric Ladyland Spotify original album programme"
+      ],
+      "rejectedCandidates": [],
+      "availableInCanada": false,
+      "availabilityNote": "Explicit Spotify market list checked."
+    },
+    {
+      "id": "upper-middle-68",
+      "recordId": "upper-middle-68",
+      "title": "Bette Midler",
+      "artist": "Bette Midler",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3650.HEIC",
+        "backFilename": "IMG_3651.HEIC",
+        "catalogue": "SD 7270",
+        "visibleEvidence": "Front’s Richard Amsel illustration and Bette Midler lettering, rear SD7270, ten-track programme and ©1973 Atlantic establish the self-titled second album. Only one physical jacket was photographed for the two final source edges. The wider cream slot68 is the preferred physical-item ID; the adjacent blank black slot67 is proposed as part of it."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "5LGiNCGWsy2X59KZQ3S6kH",
+      "url": "https://open.spotify.com/album/5LGiNCGWsy2X59KZQ3S6kH",
+      "spotifyUrl": "https://open.spotify.com/album/5LGiNCGWsy2X59KZQ3S6kH",
+      "spotifyTitle": "Bette Midler",
+      "spotifyArtists": [
+        "Bette Midler"
+      ],
+      "spotifyDate": "1973-01-01",
+      "spotifyTrackCount": 10,
+      "spotifyTrackTitles": [
+        "Skylark",
+        "Drinkin' Again",
+        "Breaking Up Somebody's Home",
+        "Surabaya Johnny",
+        "I Shall Be Released",
+        "Optimistic Voices / Lullaby of Broadway",
+        "In the Mood",
+        "Uptown / Dont' Say Nothin' Bad (About My Baby) / Da Doo Run Run",
+        "Twisted",
+        "Higher and Higher (Your Love Keeps Lifting Me)"
+      ],
+      "editionNote": "Original 1973 ten-track album programme; digital mastering may differ from the Atlantic SD7270 LP.",
+      "verification": "All ten photographed songs/groups match, including Skylark, Drinkin’ Again, Surabaya Johnny, the Uptown medley and Higher and Higher. Parent independently discovered this album through an official track page.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/5LGiNCGWsy2X59KZQ3S6kH",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/5LGiNCGWsy2X59KZQ3S6kH.json"
+        },
+        {
+          "url": "https://open.spotify.com/track/2YxyYVDwRxGnjkQx1YbEvu",
+          "description": "Official track discovery exposes this exact Bette Midler album URI.",
+          "localPath": "site/research/capture-intake-spotify-root-2026-10-14.json"
+        },
+        {
+          "url": "https://www.discogs.com/release/3495024",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album Bette Midler Bette Midler",
+        "Bette Midler Bette Midler Spotify original album programme"
+      ],
+      "rejectedCandidates": [],
+      "availableInCanada": false,
+      "availabilityNote": "Explicit Spotify market list checked."
+    },
+    {
+      "id": "lower-middle-04b",
+      "recordId": "lower-middle-04b",
+      "title": "Julian Bream Plays Bach",
+      "artist": "Julian Bream",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3654.HEIC",
+        "backFilename": "IMG_3655.HEIC",
+        "catalogue": "9008-8113",
+        "visibleEvidence": "Separate sleeve explicitly reported by the user between Eine kleine Nachtmusik and Firebird. Both faces print Julian Bream Plays Bach; front9008-8113 / Westminster Gold Series, rear GRT of Canada manufacture and9008-8113C. Original source has a narrow gray sleeve in that interval, previously absorbed into the broad04 estimate. This is distinct from the later Bach & Villa-Lobos compilation45."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "2DxA1kE23NCa5wakaEkUr0",
+      "url": "https://open.spotify.com/album/2DxA1kE23NCa5wakaEkUr0",
+      "spotifyUrl": "https://open.spotify.com/album/2DxA1kE23NCa5wakaEkUr0",
+      "spotifyTitle": "Bach: Guitar Pieces by Julian Bream (2023.b Remastered, Vienna 1956)",
+      "spotifyArtists": [
+        "Johann Sebastian Bach"
+      ],
+      "spotifyDate": "2023-03-20",
+      "spotifyTrackCount": 9,
+      "spotifyTrackTitles": [
+        "Prelude in C minor, BWV 999 (played in D minor): Moderato - 2023.b Remastered, Vienna 1956",
+        "Partita for Lute in C minor, BWV 997 (played in A minor): I. Prelude - 2023.b Remastered, Vienna 1956",
+        "Partita for Lute in C minor, BWV 997 (played in A minor): II. Fugue - 2023.b Remastered, Vienna 1956",
+        "Suite in E minor, BWV 996: I. Sarabande - 2023.b Remastered, Vienna 1956",
+        "Suite in E minor, BWV 996: II. Bourée - 2023.b Remastered, Vienna 1956",
+        "Partita for Violin Solo No. 2 in D minor, BWV 1004: Chaconne - 2023.b Remastered, Vienna 1956",
+        "Prelude, Fugue and Allegro in E-flat Major, BWV 998 (played in D Major): I. Prelude - 2023.b Remastered, Vienna 1956",
+        "Prelude, Fugue and Allegro in E-flat Major, BWV 998 (played in D Major): II. Fugue, Attacca - 2023.b Remastered, Vienna 1956",
+        "Prelude, Fugue and Allegro in E-flat Major, BWV 998 (played in D Major): III. Allegro - 2023.b Remastered, Vienna 1956"
+      ],
+      "editionNote": "Remastered digital reissue of Julian Bream’s Vienna 1956 Bach recording. The same complete LP programme is reordered and divided into nine movement tracks.",
+      "verification": "All six printed LP groups are present: BWV999; BWV997 Prelude/Fugue; BWV996 Sarabande/Bourrée; BWV1004 Chaconne; and the complete BWV998 Prelude/Fugue/Allegro. Every digital movement credits Julian Bream and Vienna1956. This is the standalone Bach LP, distinct from the later Bach/Villa-Lobos compilation.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/2DxA1kE23NCa5wakaEkUr0",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/2DxA1kE23NCa5wakaEkUr0.json"
+        },
+        {
+          "url": "https://www.julianbreamguitar.com/a-bach-recital-for-the-guitar.html",
+          "description": "Artist discography identifies the 1956 Westminster recording, its programme/timings and Westminster Gold WGM8113 reissue."
+        },
+        {
+          "url": "https://classical.music.apple.com/gb/album/1676072477",
+          "description": "Licensed primary metadata corroborates Bream, Vienna1956 and the same nine movements."
+        },
+        {
+          "url": "https://www.discogs.com/release/9677359",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album Julian Bream Julian Bream Plays Bach",
+        "Julian Bream Julian Bream Plays Bach Spotify original album programme"
+      ],
+      "rejectedCandidates": [],
+      "availableInCanada": false,
+      "availabilityNote": "Explicit Spotify market list checked."
+    },
+    {
+      "id": "lower-middle-11",
+      "recordId": "lower-middle-11",
+      "title": "Moondog Matinee",
+      "artist": "The Band",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3656.HEIC",
+        "backFilename": "IMG_3657.HEIC",
+        "catalogue": null,
+        "visibleEvidence": "The two captured faces are Edward Kasper’s Jook Joint / Blackie’s Poolhall wraparound painting for The Band’s Moondog Matinee. Jook Joint is a painted storefront sign, not the album title. A contemporary Capitol advertisement reproduces the exact scene and names Moondog Matinee / The Band / SW11214. Exact photographed pressing code and track list are not visible on these two outer panels."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "5xwmncr9AWNZxMJ93r8d7q",
+      "url": "https://open.spotify.com/album/5xwmncr9AWNZxMJ93r8d7q",
+      "spotifyUrl": "https://open.spotify.com/album/5xwmncr9AWNZxMJ93r8d7q",
+      "spotifyTitle": "Moondog Matinee (Expanded Edition)",
+      "spotifyArtists": [
+        "The Band"
+      ],
+      "spotifyDate": "1973-01-01",
+      "spotifyTrackCount": 16,
+      "spotifyTrackTitles": [
+        "Ain't Got No Home - Remastered",
+        "Holy Cow - Remastered",
+        "Share Your Love With Me - Remastered",
+        "Mystery Train - Remastered",
+        "The Third Man Theme - Remastered",
+        "The Promised Land - Remastered",
+        "The Great Pretender - Remastered",
+        "I'm Ready - Remastered",
+        "Saved - Remastered",
+        "A Change Is Gonna Come - Remastered",
+        "Didn't It Rain - Remastered 2001",
+        "Crying Heart Blues - Outtake/Remastered 2001",
+        "Shakin' - Outtake/Remastered 2001",
+        "What Am I Living For - Outtake/Remastered 2001",
+        "Going Back To Memphis - Outtake/Remastered 2001",
+        "Endless Highway - Studio Version/Remastered 2001"
+      ],
+      "editionNote": "Expanded remastered reissue: the original ten-track 1973 album comes first, followed by six bonus tracks.",
+      "verification": "The original ten songs run in LP order from Ain’t Got No Home through A Change Is Gonna Come; tracks11–16 are explicitly outtakes/bonus material. The photographed Jook Joint/Blackie’s Poolhall panels are the outer wraparound artwork for Moondog Matinee.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/5xwmncr9AWNZxMJ93r8d7q",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/5xwmncr9AWNZxMJ93r8d7q.json"
+        },
+        {
+          "url": "https://www.discogs.com/release/1768869",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album The Band Moondog Matinee",
+        "The Band Moondog Matinee Spotify original album programme"
+      ],
+      "rejectedCandidates": [],
+      "availableInCanada": false,
+      "availabilityNote": "Explicit Spotify market list checked."
+    },
+    {
+      "id": "lower-middle-25",
+      "recordId": "lower-middle-25",
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3658.HEIC",
+        "backFilename": "IMG_3659.HEIC",
+        "catalogue": "SO-383",
+        "visibleEvidence": "Front is the Abbey Road crossing; rear explicitly prints APPLE SO-383 and the original programme. This confirms a separate physical Abbey Road jacket before White Album26, not a folded White Album edge."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "0ETFjACtuP2ADo6LFhL6HN",
+      "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
+      "spotifyUrl": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
+      "spotifyTitle": "Abbey Road (Remastered 2009)",
+      "spotifyArtists": [
+        "The Beatles"
+      ],
+      "spotifyDate": "1969-09-26",
+      "spotifyTrackCount": 17,
+      "spotifyTrackTitles": [
+        "Come Together - Remastered 2009",
+        "Something - Remastered 2009",
+        "Maxwell's Silver Hammer - Remastered 2009",
+        "Oh! Darling - Remastered 2009",
+        "Octopus's Garden - Remastered 2009",
+        "I Want You (She's So Heavy) - Remastered 2009",
+        "Here Comes The Sun - Remastered 2009",
+        "Because - Remastered 2009",
+        "You Never Give Me Your Money - Remastered 2009",
+        "Sun King - Remastered 2009",
+        "Mean Mr Mustard - Remastered 2009",
+        "Polythene Pam - Remastered 2009",
+        "She Came In Through The Bathroom Window - Remastered 2009",
+        "Golden Slumbers - Remastered 2009",
+        "Carry That Weight - Remastered 2009",
+        "The End - Remastered 2009",
+        "Her Majesty - Remastered 2009"
+      ],
+      "editionNote": "2009 remaster of the original 1969 album, with all seventeen tracks including Her Majesty.",
+      "verification": "Complete original Abbey Road sequence in LP order. The newly photographed SO383 is a separate physical copy from lower-middle20, which already uses this independently verified streaming ID.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/0ETFjACtuP2ADo6LFhL6HN.json"
+        },
+        {
+          "url": "https://musicbrainz.org/release/d5f3d527-edb8-4534-a1c6-1e433262e5c1",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album The Beatles Abbey Road",
+        "The Beatles Abbey Road Spotify original album programme"
+      ],
+      "rejectedCandidates": [],
+      "availableInCanada": false,
+      "availabilityNote": "Explicit Spotify market list checked."
+    },
+    {
+      "id": "lower-middle-32",
+      "recordId": "lower-middle-32",
+      "title": "Stephen Stills 2",
+      "artist": "Stephen Stills",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3660.HEIC",
+        "backFilename": "IMG_3661.HEIC",
+        "catalogue": null,
+        "visibleEvidence": "Front explicitly prints STEPHEN STILLS2; matching rear depicts the guitar case and2 tag. No legible catalogue code in the submitted views. Do not misread the numeral as3."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "0a8eh00YLK6LCNGhinsWeI",
+      "url": "https://open.spotify.com/album/0a8eh00YLK6LCNGhinsWeI",
+      "spotifyUrl": "https://open.spotify.com/album/0a8eh00YLK6LCNGhinsWeI",
+      "spotifyTitle": "Stephen Stills 2",
+      "spotifyArtists": [
+        "Stephen Stills"
+      ],
+      "spotifyDate": "1971-01-01",
+      "spotifyTrackCount": 12,
+      "spotifyTrackTitles": [
+        "Change Partners",
+        "Nothin' to Do but Today",
+        "Fishes and Scorpions",
+        "Sugar Babe",
+        "Know You Got to Run",
+        "Open Secret",
+        "Relaxing Town",
+        "Singin' Call",
+        "Ecology Song",
+        "Word Game",
+        "Marianne",
+        "Bluebird Revisited"
+      ],
+      "editionNote": "Digital edition of the original 1971 twelve-track album; mastering may differ from the Atlantic LP.",
+      "verification": "All twelve original songs match in order, Change Partners through Bluebird Revisited. This is Stephen Stills2, not the 1970 first self-titled album.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/0a8eh00YLK6LCNGhinsWeI",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/0a8eh00YLK6LCNGhinsWeI.json"
+        },
+        {
+          "url": "https://www.discogs.com/release/8909080",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album Stephen Stills Stephen Stills 2",
+        "Stephen Stills Stephen Stills 2 Spotify original album programme"
+      ],
+      "rejectedCandidates": [
+        {
+          "spotifyId": "2nkFniR6DseqFJLhxXV01T",
+          "url": "https://open.spotify.com/album/2nkFniR6DseqFJLhxXV01T",
+          "reason": "1970 first self-titled album, ten different tracks; the family front explicitly says2.",
+          "evidenceFile": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/2nkFniR6DseqFJLhxXV01T.json"
+        }
+      ],
+      "availableInCanada": false,
+      "availabilityNote": "Explicit Spotify market list checked."
+    },
+    {
+      "id": "lower-middle-44",
+      "recordId": "lower-middle-44",
+      "title": "The Mouse Factory Presents Mickey and His Friends",
+      "artist": "Walt Disney Productions / Various",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3666.HEIC",
+        "backFilename": "IMG_3667.HEIC",
+        "catalogue": "1342",
+        "visibleEvidence": "Front names The Mouse Factory Presents Mickey and His Friends; rear Disneyland1342 and ©1972 Walt Disney Productions, manufactured/distributed in Canada by Walt Disney Music of Canada. Twelve track groups including Donald Duck Song, Mickey Mouse March and The Ballad of Davy Crockett. Former unidentified classical classification is incorrect."
+      },
+      "canonicalEditsApplied": false,
+      "status": "unresolved",
+      "spotifyId": null,
+      "url": null,
+      "spotifyUrl": null,
+      "spotifyTitle": null,
+      "spotifyArtists": [],
+      "spotifyDate": null,
+      "spotifyTrackCount": null,
+      "reason": "No full twelve-part The Mouse Factory Presents Mickey and His Friends Disneyland1342 programme was verified. Minnie’s Yoo Hoo appears in Disney Classics, but that anthology omits the rest of this LP programme.",
+      "editionNote": null,
+      "queries": [
+        "site:open.spotify.com/album The Mouse Factory Mickey and His Friends",
+        "Disneyland1342 Mouse Factory Spotify",
+        "site:open.spotify.com Mouse Factory Minnie Yoo Hoo"
+      ],
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF",
+          "description": "Official Disney Classics metadata lists95 tracks and only the isolated Mouse Factory theme from this programme.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/6b4nBlM4ofUKA0mcb1b9oF.json"
+        }
+      ],
+      "rejectedCandidates": [
+        {
+          "spotifyId": "6b4nBlM4ofUKA0mcb1b9oF",
+          "url": "https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF",
+          "reason": "Unrelated95-track Disney anthology; not the complete Disneyland1342 album."
+        }
+      ]
+    },
+    {
+      "id": "lower-middle-53",
+      "recordId": "lower-middle-53",
+      "title": "Italian Baroque Trumpet Concerti",
+      "artist": "Hellmut Schneidewind / Wolfgang Pasch / Heinz Zickler / Herbert Thal / Edward H. Tarr; Mainz Chamber Orchestra / Günter Kehr; Württemberg Chamber Orchestra / Jörg Faerber",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3668.HEIC",
+        "backFilename": "IMG_3669.HEIC",
+        "catalogue": "TV 34057S",
+        "visibleEvidence": "Front/rear establish TurnaboutTV34057S and five concertos: Manfredini inD (Schneidewind/Pasch, Faerber); Vivaldi inC (Zickler/Thal, Kehr); Torelli inD (Zickler, Kehr); Torelli inD and Albinoni inC (Edward H. Tarr, Faerber). No Maurice André attribution. Rear LOC card R66-2634 does not alone establish the pressing year."
+      },
+      "canonicalEditsApplied": false,
+      "status": "unresolved",
+      "spotifyId": null,
+      "url": null,
+      "spotifyUrl": null,
+      "spotifyTitle": null,
+      "spotifyArtists": [],
+      "spotifyDate": null,
+      "spotifyTrackCount": null,
+      "reason": "The photographed TV34057S mixed-player five-concerto programme was not verified on one digital album. Correct original Zickler/Thal/Kehr performances occur on Virtuoso Trumpet Vol.2, while Tarr/Faerber and Schneidewind/Pasch material is split across other volumes. Same-title recordings by other soloists were excluded.",
+      "editionNote": null,
+      "queries": [
+        "site:open.spotify.com/album Italian Baroque Trumpet Concerti TV34057S",
+        "Heinz Zickler Herbert Thal Edward Tarr Faerber Manfredini Spotify",
+        "Virtuoso Trumpet Vol1 Vol2 TV34057S original programme"
+      ],
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/5wPE2AknDzCfkWe6VxCxjo",
+          "description": "Official Vol.2 metadata has the required Zickler/Thal Vivaldi and Zickler Torelli but omits the complete Tarr/Faerber mixed-player LP programme.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/5wPE2AknDzCfkWe6VxCxjo.json"
+        },
+        {
+          "url": "https://www.naxos.com/CatalogueDetail/?id=VOX-NX-2558",
+          "description": "Primary Vox/Naxos publisher corroborates performers and Vivaldi/Torelli in Virtuoso Trumpet Vol.2."
+        },
+        {
+          "url": "https://open.spotify.com/track/70EqP61shr18WgL6wqApOo",
+          "description": "Original Tarr/Faerber Albinoni movement is on Virtuoso Trumpet Vol.1, a different expanded programme."
+        }
+      ],
+      "rejectedCandidates": [
+        {
+          "spotifyId": "5wPE2AknDzCfkWe6VxCxjo",
+          "url": "https://open.spotify.com/album/5wPE2AknDzCfkWe6VxCxjo",
+          "reason": "Correct partial original performances, but lacks all three other mixed-player concertos from the captured LP."
+        },
+        {
+          "spotifyId": "54EO25mXn0M36A4C1cCy88",
+          "url": "https://open.spotify.com/album/54EO25mXn0M36A4C1cCy88",
+          "reason": "20Basics:TheTrumpet is an anthology with only part of Manfredini and unrelated repertoire; not the complete LP."
+        }
+      ]
+    },
+    {
+      "id": "lower-middle-66",
+      "recordId": "lower-middle-66",
+      "title": "Quintet ’80",
+      "artist": "David Grisman",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3670.HEIC",
+        "backFilename": "IMG_3671.HEIC",
+        "catalogue": "7599-23469-1",
+        "visibleEvidence": "Both faces explicitly name David Grisman Quintet80; rear ©1980 Warner Bros., Made in USA and7599-23469-1. Players Darol Anger, Mike Marshall, Mark O’Connor, Rob Wasserman; eight tracks Dawgma through Thailand. Earlier RSA4099 spine transcription is not supported by the captured rear; preserve it only as superseded reading evidence."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "64R7b6bou3ZyIsgvDztif2",
+      "url": "https://open.spotify.com/album/64R7b6bou3ZyIsgvDztif2",
+      "spotifyUrl": "https://open.spotify.com/album/64R7b6bou3ZyIsgvDztif2",
+      "spotifyTitle": "Quintet '80 (Deluxe Edition)",
+      "spotifyArtists": [
+        "DAVID GRISMAN QUINTET"
+      ],
+      "spotifyDate": "2023-07-21",
+      "spotifyTrackCount": 13,
+      "spotifyTrackTitles": [
+        "Dawgma",
+        "Bow Wow",
+        "Barkeley's Bug",
+        "Sea of Cortez",
+        "Naima",
+        "Mugavero",
+        "Dawgmatism",
+        "Thailand",
+        "Bow Wow 1",
+        "Bow Wow 2",
+        "Bow Wow 4",
+        "Naima 1",
+        "Naima 2"
+      ],
+      "editionNote": "2023 deluxe reissue: the eight original 1980 master takes are followed by five alternate takes.",
+      "verification": "First eight tracks exactly match the photographed Quintet’80 programme, Dawgma through Thailand. The artist’s Acoustic Disc publisher explicitly says this reissue contains all original master takes plus five previously unissued alternates and names the original quintet.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/64R7b6bou3ZyIsgvDztif2",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/64R7b6bou3ZyIsgvDztif2.json"
+        },
+        {
+          "url": "https://acousticdisc.com/product/david-grisman-quintet-80-deluxe-hi-def-master-download/",
+          "description": "Artist-owned publisher confirms original master takes, original 1980 album and five added alternate takes."
+        },
+        {
+          "url": "https://www.discogs.com/release/2741810",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album David Grisman Quintet ’80",
+        "David Grisman Quintet ’80 Spotify original album programme"
+      ],
+      "rejectedCandidates": [],
+      "availableInCanada": false,
+      "availabilityNote": "Explicit Spotify market list checked."
+    },
+    {
+      "id": "lower-middle-69",
+      "recordId": "lower-middle-69",
+      "title": "Organisation",
+      "artist": "Orchestral Manoeuvres in the Dark",
+      "physicalIdentityEvidence": {
+        "proposal": "site/research/capture-intake-middle-2026-10-14.json",
+        "frontFilename": "IMG_3672.HEIC",
+        "backFilename": "IMG_3673.HEIC",
+        "catalogue": "VL 2206",
+        "visibleEvidence": "Front names Organisation and Orchestral Manoeuvres in the Dark. Rear VL2206, ©1980 Dindisc Limited, Virgin/PolyGram; original nine tracks including Enola Gay, VCLXI and Stanlow. Resolves the album without assuming self-title."
+      },
+      "canonicalEditsApplied": false,
+      "status": "matched",
+      "spotifyId": "3bouQtY9H1DP39yxqHuFf8",
+      "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8",
+      "spotifyUrl": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8",
+      "spotifyTitle": "Organisation",
+      "spotifyArtists": [
+        "Orchestral Manoeuvres In The Dark"
+      ],
+      "spotifyDate": "1980-10-24",
+      "spotifyTrackCount": 15,
+      "spotifyTrackTitles": [
+        "Enola Gay - Remastered 2003",
+        "2nd Thought - 2003 Digital Remaster",
+        "VCL XI - 2003 Digital Remaster",
+        "Motion And Heart - 2003 Digital Remaster",
+        "Statues - 2003 Digital Remaster",
+        "The Misunderstanding - 2003 Digital Remaster",
+        "The More I See You - 2003 Digital Remaster",
+        "Promise - Remastered",
+        "Stanlow - 2003 Digital Remaster",
+        "Annex - 2003 Digital Remaster",
+        "Introducing Radios - Live From The Factory, UK / 1978 / 2003 Digital Remaster",
+        "Distance Fades Between Us - Live From The Factory, UK / 1978 / 2003 Digital Remaster",
+        "Progress - Live From The Factory, UK / 1978 / 2003 Digital Remaster",
+        "Once When I Was Six - Live From The Factory, UK / 1978 / 2003 Digital Remaster",
+        "Electricity - DinDisc 1980 Version / 2003 Digital Remaster"
+      ],
+      "editionNote": "2003 expanded remaster: the original nine-track Organisation album is followed by six bonus tracks.",
+      "verification": "First nine tracks run in the exact photographed VL2206 order from Enola Gay through Stanlow. The bonus Annex and early Factory recordings follow the original programme; Spotify’s package type does not change the studio-album identity.",
+      "evidence": [
+        {
+          "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8",
+          "description": "Official Spotify album page, public initialState and album JSON-LD; title, date, artists and complete ordered track list saved without runtime tokens.",
+          "localPath": "site/research/capture-intake-spotify-middle-evidence-2026-10-14/3bouQtY9H1DP39yxqHuFf8.json"
+        },
+        {
+          "url": "https://omd.uk.com/pages/horizon-omd-discography",
+          "description": "Official artist discography corroborates Organisation as the 1980 album."
+        },
+        {
+          "url": "https://www.discogs.com/release/8690003",
+          "description": "Reviewed LP outer back and release track list support the photographed original programme.",
+          "localPath": "site/research/capture-intake-artwork-middle-2026-10-14.json"
+        }
+      ],
+      "queries": [
+        "site:open.spotify.com/album Orchestral Manoeuvres in the Dark Organisation",
+        "Orchestral Manoeuvres in the Dark Organisation Spotify original album programme"
+      ],
+      "rejectedCandidates": [],
+      "availableInCanada": false,
+      "availabilityNote": "Explicit Spotify market list checked."
+    }
+  ],
+  "supplementalObservation": {
+    "id": "lower-middle-04",
+    "status": "unresolved",
+    "reason": "Newly confirmed Fricsay four-work LP136226 remains unlinked. Candidate7kW7Xcvbr7WkDJkoYVlGCU has Mozart/Moldau/LesPréludes but lacks Egmont; huge Complete Recordings160-track7dvxQBrOvFiTqLFGSBZblp and Berliner Legendary181-track21uTh6XDcgR9KXpjDuCNqb are unrelated broad compilations and were not substituted."
+  }
+}

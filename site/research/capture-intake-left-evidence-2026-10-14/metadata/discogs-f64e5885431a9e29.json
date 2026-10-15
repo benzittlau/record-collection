@@ -1,0 +1,1360 @@
+{
+  "url": "https://api.discogs.com/masters/96550/versions?per_page=100&page=1",
+  "retrieved": "2026-10-15T03:26:42Z",
+  "data": {
+    "pagination": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 100,
+      "items": 36,
+      "urls": {}
+    },
+    "filters": {
+      "applied": {},
+      "available": {
+        "format": {
+          "Album": 36,
+          "LP": 19,
+          "Vinyl": 19,
+          "Reissue": 18,
+          "Stereo": 12,
+          "CD": 11,
+          "Remastered": 6,
+          "Cassette": 3,
+          "Copy Protected": 3,
+          "8-Track Cartridge": 2,
+          "CDr": 1,
+          "Repress": 1,
+          "Unofficial Release": 1
+        },
+        "label": {
+          "Studio Decibel": 20,
+          "Charisma": 19,
+          "Silence": 11,
+          "Silence Records Ab": 9,
+          "Decibel Studios": 6,
+          "General Printing Ab": 6,
+          "Phonogram Ltd.": 6,
+          "Silence Studio": 6,
+          "Virgin": 6,
+          "Sam-Distribution": 5,
+          "The Audio Archiving Company": 4,
+          "Charisma Music Ltd.": 3,
+          "Emi Music": 3,
+          "Phonodisc Ltd.": 3,
+          "Presswell": 3,
+          "Atlantic Recording Corporation": 2,
+          "B & C Records": 2,
+          "Charisma Classics": 2,
+          "Charisma Records Ltd.": 2,
+          "Druckhaus Maack Kg": 2,
+          "James Upton Ltd.": 2,
+          "Mooncrest Ltd.": 2,
+          "Mooncrest Music": 2,
+          "One Way Records": 2,
+          "Phonogram Gmbh": 2,
+          "Precision Tapes Ltd.": 2,
+          "Stratton-Smith Productions, Ltd.": 2,
+          "Virgin Records Ltd.": 2,
+          "Abbey Road Studios": 1,
+          "Air Chrysalis Scandinavia Ab": 1,
+          "Arcàngelo": 1,
+          "Atlantic Studios": 1,
+          "B&C Records Ltd.": 1,
+          "Cd Plant Ab": 1,
+          "Cd Plant Mfg": 1,
+          "Cdm": 1,
+          "Chappell Music Ltd.": 1,
+          "Charisma Music Publishing Co. Ltd.": 1,
+          "Dcm Sweden": 1,
+          "Dicentia": 1,
+          "E.J. Day Group": 1,
+          "Emi": 1,
+          "Garrod & Lofthouse Ltd.": 1,
+          "Grafiche Dotti": 1,
+          "Ims Manufacturing": 1,
+          "Monarch Record Mfg. Co.": 1,
+          "Phonodisc Gmbh": 1,
+          "Phonogram Pty Limited": 1,
+          "Phonogram S.P.A.": 1,
+          "Prs Ltd.": 1,
+          "Queens Litho": 1,
+          "Resource Records": 1,
+          "Scandinavian Collection": 1,
+          "Sony Dadc": 1,
+          "Stateside": 1,
+          "Virgin Music Ltd.": 1
+        },
+        "country": {
+          "Sweden": 9,
+          "UK": 8,
+          "Europe": 4,
+          "US": 4,
+          "Canada": 2,
+          "Germany": 2,
+          "Australia": 1,
+          "Italy": 1,
+          "Japan": 1,
+          "Netherlands": 1,
+          "New Zealand": 1,
+          "Russia": 1,
+          "UK & Europe": 1
+        },
+        "released": {
+          "1972": 3,
+          "1973": 12,
+          "1974": 2,
+          "1982": 2,
+          "1993": 1,
+          "2000": 1,
+          "2002": 1,
+          "2004": 3,
+          "2010": 1
+        }
+      }
+    },
+    "filter_facets": [
+      {
+        "title": "Format",
+        "id": "format",
+        "values": [
+          {
+            "title": "Album",
+            "value": "Album",
+            "count": 36
+          },
+          {
+            "title": "LP",
+            "value": "LP",
+            "count": 19
+          },
+          {
+            "title": "Vinyl",
+            "value": "Vinyl",
+            "count": 19
+          },
+          {
+            "title": "Reissue",
+            "value": "Reissue",
+            "count": 18
+          },
+          {
+            "title": "Stereo",
+            "value": "Stereo",
+            "count": 12
+          },
+          {
+            "title": "CD",
+            "value": "CD",
+            "count": 11
+          },
+          {
+            "title": "Remastered",
+            "value": "Remastered",
+            "count": 6
+          },
+          {
+            "title": "Cassette",
+            "value": "Cassette",
+            "count": 3
+          },
+          {
+            "title": "Copy Protected",
+            "value": "Copy+Protected",
+            "count": 3
+          },
+          {
+            "title": "8-Track Cartridge",
+            "value": "8-Track+Cartridge",
+            "count": 2
+          },
+          {
+            "title": "CDr",
+            "value": "CDr",
+            "count": 1
+          },
+          {
+            "title": "Repress",
+            "value": "Repress",
+            "count": 1
+          },
+          {
+            "title": "Unofficial Release",
+            "value": "Unofficial+Release",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": true
+      },
+      {
+        "title": "Label",
+        "id": "label",
+        "values": [
+          {
+            "title": "Studio Decibel",
+            "value": "Studio+Decibel",
+            "count": 20
+          },
+          {
+            "title": "Charisma",
+            "value": "Charisma",
+            "count": 19
+          },
+          {
+            "title": "Silence",
+            "value": "Silence",
+            "count": 11
+          },
+          {
+            "title": "Silence Records Ab",
+            "value": "Silence+Records+Ab",
+            "count": 9
+          },
+          {
+            "title": "Decibel Studios",
+            "value": "Decibel+Studios",
+            "count": 6
+          },
+          {
+            "title": "General Printing Ab",
+            "value": "General+Printing+Ab",
+            "count": 6
+          },
+          {
+            "title": "Phonogram Ltd.",
+            "value": "Phonogram+Ltd.",
+            "count": 6
+          },
+          {
+            "title": "Silence Studio",
+            "value": "Silence+Studio",
+            "count": 6
+          },
+          {
+            "title": "Virgin",
+            "value": "Virgin",
+            "count": 6
+          },
+          {
+            "title": "Sam-Distribution",
+            "value": "Sam-Distribution",
+            "count": 5
+          },
+          {
+            "title": "The Audio Archiving Company",
+            "value": "The+Audio+Archiving+Company",
+            "count": 4
+          },
+          {
+            "title": "Charisma Music Ltd.",
+            "value": "Charisma+Music+Ltd.",
+            "count": 3
+          },
+          {
+            "title": "Emi Music",
+            "value": "Emi+Music",
+            "count": 3
+          },
+          {
+            "title": "Phonodisc Ltd.",
+            "value": "Phonodisc+Ltd.",
+            "count": 3
+          },
+          {
+            "title": "Presswell",
+            "value": "Presswell",
+            "count": 3
+          },
+          {
+            "title": "Atlantic Recording Corporation",
+            "value": "Atlantic+Recording+Corporation",
+            "count": 2
+          },
+          {
+            "title": "B & C Records",
+            "value": "B+%26+C+Records",
+            "count": 2
+          },
+          {
+            "title": "Charisma Classics",
+            "value": "Charisma+Classics",
+            "count": 2
+          },
+          {
+            "title": "Charisma Records Ltd.",
+            "value": "Charisma+Records+Ltd.",
+            "count": 2
+          },
+          {
+            "title": "Druckhaus Maack Kg",
+            "value": "Druckhaus+Maack+Kg",
+            "count": 2
+          },
+          {
+            "title": "James Upton Ltd.",
+            "value": "James+Upton+Ltd.",
+            "count": 2
+          },
+          {
+            "title": "Mooncrest Ltd.",
+            "value": "Mooncrest+Ltd.",
+            "count": 2
+          },
+          {
+            "title": "Mooncrest Music",
+            "value": "Mooncrest+Music",
+            "count": 2
+          },
+          {
+            "title": "One Way Records",
+            "value": "One+Way+Records",
+            "count": 2
+          },
+          {
+            "title": "Phonogram Gmbh",
+            "value": "Phonogram+Gmbh",
+            "count": 2
+          },
+          {
+            "title": "Precision Tapes Ltd.",
+            "value": "Precision+Tapes+Ltd.",
+            "count": 2
+          },
+          {
+            "title": "Stratton-Smith Productions, Ltd.",
+            "value": "Stratton-Smith+Productions%2C+Ltd.",
+            "count": 2
+          },
+          {
+            "title": "Virgin Records Ltd.",
+            "value": "Virgin+Records+Ltd.",
+            "count": 2
+          },
+          {
+            "title": "Abbey Road Studios",
+            "value": "Abbey+Road+Studios",
+            "count": 1
+          },
+          {
+            "title": "Air Chrysalis Scandinavia Ab",
+            "value": "Air+Chrysalis+Scandinavia+Ab",
+            "count": 1
+          },
+          {
+            "title": "Arcàngelo",
+            "value": "Arc%C3%A0ngelo",
+            "count": 1
+          },
+          {
+            "title": "Atlantic Studios",
+            "value": "Atlantic+Studios",
+            "count": 1
+          },
+          {
+            "title": "B&C Records Ltd.",
+            "value": "B%26C+Records+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Cd Plant Ab",
+            "value": "Cd+Plant+Ab",
+            "count": 1
+          },
+          {
+            "title": "Cd Plant Mfg",
+            "value": "Cd+Plant+Mfg",
+            "count": 1
+          },
+          {
+            "title": "Cdm",
+            "value": "Cdm",
+            "count": 1
+          },
+          {
+            "title": "Chappell Music Ltd.",
+            "value": "Chappell+Music+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Charisma Music Publishing Co. Ltd.",
+            "value": "Charisma+Music+Publishing+Co.+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Dcm Sweden",
+            "value": "Dcm+Sweden",
+            "count": 1
+          },
+          {
+            "title": "Dicentia",
+            "value": "Dicentia",
+            "count": 1
+          },
+          {
+            "title": "E.J. Day Group",
+            "value": "E.J.+Day+Group",
+            "count": 1
+          },
+          {
+            "title": "Emi",
+            "value": "Emi",
+            "count": 1
+          },
+          {
+            "title": "Garrod & Lofthouse Ltd.",
+            "value": "Garrod+%26+Lofthouse+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Grafiche Dotti",
+            "value": "Grafiche+Dotti",
+            "count": 1
+          },
+          {
+            "title": "Ims Manufacturing",
+            "value": "Ims+Manufacturing",
+            "count": 1
+          },
+          {
+            "title": "Monarch Record Mfg. Co.",
+            "value": "Monarch+Record+Mfg.+Co.",
+            "count": 1
+          },
+          {
+            "title": "Phonodisc Gmbh",
+            "value": "Phonodisc+Gmbh",
+            "count": 1
+          },
+          {
+            "title": "Phonogram Pty Limited",
+            "value": "Phonogram+Pty+Limited",
+            "count": 1
+          },
+          {
+            "title": "Phonogram S.P.A.",
+            "value": "Phonogram+S.P.A.",
+            "count": 1
+          },
+          {
+            "title": "Prs Ltd.",
+            "value": "Prs+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Queens Litho",
+            "value": "Queens+Litho",
+            "count": 1
+          },
+          {
+            "title": "Resource Records",
+            "value": "Resource+Records",
+            "count": 1
+          },
+          {
+            "title": "Scandinavian Collection",
+            "value": "Scandinavian+Collection",
+            "count": 1
+          },
+          {
+            "title": "Sony Dadc",
+            "value": "Sony+Dadc",
+            "count": 1
+          },
+          {
+            "title": "Stateside",
+            "value": "Stateside",
+            "count": 1
+          },
+          {
+            "title": "Virgin Music Ltd.",
+            "value": "Virgin+Music+Ltd.",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": true
+      },
+      {
+        "title": "Country",
+        "id": "country",
+        "values": [
+          {
+            "title": "Sweden",
+            "value": "Sweden",
+            "count": 9
+          },
+          {
+            "title": "UK",
+            "value": "UK",
+            "count": 8
+          },
+          {
+            "title": "Europe",
+            "value": "Europe",
+            "count": 4
+          },
+          {
+            "title": "US",
+            "value": "US",
+            "count": 4
+          },
+          {
+            "title": "Canada",
+            "value": "Canada",
+            "count": 2
+          },
+          {
+            "title": "Germany",
+            "value": "Germany",
+            "count": 2
+          },
+          {
+            "title": "Australia",
+            "value": "Australia",
+            "count": 1
+          },
+          {
+            "title": "Italy",
+            "value": "Italy",
+            "count": 1
+          },
+          {
+            "title": "Japan",
+            "value": "Japan",
+            "count": 1
+          },
+          {
+            "title": "Netherlands",
+            "value": "Netherlands",
+            "count": 1
+          },
+          {
+            "title": "New Zealand",
+            "value": "New+Zealand",
+            "count": 1
+          },
+          {
+            "title": "Russia",
+            "value": "Russia",
+            "count": 1
+          },
+          {
+            "title": "UK & Europe",
+            "value": "UK+%26+Europe",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": true
+      },
+      {
+        "title": "Released",
+        "id": "released",
+        "values": [
+          {
+            "title": "1972",
+            "value": "1972",
+            "count": 3
+          },
+          {
+            "title": "1973",
+            "value": "1973",
+            "count": 12
+          },
+          {
+            "title": "1974",
+            "value": "1974",
+            "count": 2
+          },
+          {
+            "title": "1982",
+            "value": "1982",
+            "count": 2
+          },
+          {
+            "title": "1993",
+            "value": "1993",
+            "count": 1
+          },
+          {
+            "title": "2000",
+            "value": "2000",
+            "count": 1
+          },
+          {
+            "title": "2002",
+            "value": "2002",
+            "count": 1
+          },
+          {
+            "title": "2004",
+            "value": "2004",
+            "count": 3
+          },
+          {
+            "title": "2010",
+            "value": "2010",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": false
+      }
+    ],
+    "versions": [
+      {
+        "id": 37122252,
+        "label": "Silence (3)",
+        "country": "Sweden",
+        "title": "Ur Trollkarlens Hatt",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "SRS 4615",
+        "released": "1972",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/37122252",
+        "thumb": "",
+        "stats": {
+          "community": {
+            "in_wantlist": 11,
+            "in_collection": 5
+          }
+        }
+      },
+      {
+        "id": 10228210,
+        "label": "Silence (3)",
+        "country": "Sweden",
+        "title": "Ur Trollkarlens Hatt",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "SRS 4615",
+        "released": "1972",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/10228210",
+        "thumb": "https://i.discogs.com/p2D0fsXtIgCDPwDEzJK_ttZVrOXTt_TJKy18Xw7cm1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI4/MjEwLTE0OTQwMTU0/OTEtNjYxNy5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 250,
+            "in_collection": 205
+          }
+        }
+      },
+      {
+        "id": 1056608,
+        "label": "Silence (3)",
+        "country": "Sweden",
+        "title": "Ur Trollkarlens Hatt",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "SRS 4615",
+        "released": "1972",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1056608",
+        "thumb": "https://i.discogs.com/UGuN3WMXQOwJa6kU8-7G3KTCgNXi3AotRZL16b2ObBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTY2/MDgtMTUxOTMwNjgz/Ni02NzEyLm1wbw.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 775,
+            "in_collection": 1651
+          }
+        }
+      },
+      {
+        "id": 905882,
+        "label": "Charisma",
+        "country": "US",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "FC 6062",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/905882",
+        "thumb": "https://i.discogs.com/N1R09l5J3hvsDsSMJvl1tJkWsakY8TxNl4CFkfKQ92M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xMjgyMTM1MjI5/LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 302,
+            "in_collection": 1063
+          }
+        }
+      },
+      {
+        "id": 30341621,
+        "label": "Charisma",
+        "country": "Canada",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "8-Track Cartridge"
+        ],
+        "format": "Album, Stereo",
+        "catno": "8FC-6062 ",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/30341621",
+        "thumb": "https://i.discogs.com/r-3bDExO3VcK6uQ9PF9dAmh_fRQpsuF8S09KupHOWJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzQx/NjIxLTE3MTI1OTcx/NzQtODAxNi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 17,
+            "in_collection": 1
+          }
+        }
+      },
+      {
+        "id": 773159,
+        "label": "Charisma",
+        "country": "UK",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "CAS 1073",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/773159",
+        "thumb": "https://i.discogs.com/tVjWZppKb2IhNTgwEKu5Gyh4IzL5Oftme44lDo2IhNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzE1/OS0xMzk2OTgyMTQ4/LTcxNzguanBlZw.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 347,
+            "in_collection": 1823
+          }
+        }
+      },
+      {
+        "id": 4301782,
+        "label": "Charisma",
+        "country": "Canada",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "FC 6062",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/4301782",
+        "thumb": "https://i.discogs.com/-nmqyTQR7UTIVx9R9fSUH2bk4AVIHfhVGIhBA411VCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDE3/ODItMTM2MTE0ODM3/OC0zMTY0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 184,
+            "in_collection": 257
+          }
+        }
+      },
+      {
+        "id": 7595712,
+        "label": "Charisma",
+        "country": "US",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "FC 6062",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/7595712",
+        "thumb": "https://i.discogs.com/LboHEXDvRTrljULUCf-K4ZjmfRn3rGEahfVyHEmC0vI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTU3/MTItMTQ0NDc3ODkz/OS03MDIyLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 210,
+            "in_collection": 388
+          }
+        }
+      },
+      {
+        "id": 30730550,
+        "label": "Charisma",
+        "country": "Germany",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6369 945",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/30730550",
+        "thumb": "https://i.discogs.com/MFfotnAVhag_g_kuOJURQ9oVoDcih2WGyIScMhW3zhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzMw/NTUwLTE3MTYyMDUz/MDMtMzUxNS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 48,
+            "in_collection": 69
+          }
+        }
+      },
+      {
+        "id": 25414123,
+        "label": "Charisma",
+        "country": "UK",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "8-Track Cartridge"
+        ],
+        "format": "Album",
+        "catno": "Y8CAS 1073",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/25414123",
+        "thumb": "https://i.discogs.com/5CxGpmC45W3unPK57NglKQCrguGb2uigcU-sRlOUIr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDE0/MTIzLTE3MTA3MTQ0/MzktMzI0MC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 25,
+            "in_collection": 6
+          }
+        }
+      },
+      {
+        "id": 2122891,
+        "label": "Charisma",
+        "country": "Germany",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6369 945",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/2122891",
+        "thumb": "https://i.discogs.com/422zG5pwrKh0rv2_-9iOGKvtJO-SnLHZZnzCjjZYht4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjI4/OTEtMTMwMDQ5Mzgy/NC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 256,
+            "in_collection": 1148
+          }
+        }
+      },
+      {
+        "id": 5023204,
+        "label": "Charisma",
+        "country": "New Zealand",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6369 945",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/5023204",
+        "thumb": "https://i.discogs.com/Az-6p13XtHkvSjQ8pInGSLH_OcqSNwqCmmPzlRYwJ1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjMy/MDQtMTQ2Njc2NzQ0/NC00MDgwLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 144,
+            "in_collection": 45
+          }
+        }
+      },
+      {
+        "id": 3858448,
+        "label": "Stateside",
+        "country": "Netherlands",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "5C 054-95109",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/3858448",
+        "thumb": "https://i.discogs.com/dQ1T2tcvWSzuR2McvdmujxBmrHqxgar2GN83zh97mxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTg0/NDgtMTM1NDI4ODEw/NS0zMjc0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 187,
+            "in_collection": 140
+          }
+        }
+      },
+      {
+        "id": 11450725,
+        "label": "Charisma",
+        "country": "US",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "FC 6062",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/11450725",
+        "thumb": "https://i.discogs.com/RvSr4kYeaRymJ7LF_Q5GzBOxPP-zHJHoxHJX9O293ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUw/NzI1LTE2NzE3NTc5/MDEtNTkwNi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 136,
+            "in_collection": 100
+          }
+        }
+      },
+      {
+        "id": 3519591,
+        "label": "Charisma",
+        "country": "UK",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "ZCCAS 1073",
+        "released": "1973",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/3519591",
+        "thumb": "https://i.discogs.com/tJe3sU8OOz-yt96oc-bQaM5SJverbRxUBUShVFIkZOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTk1/OTEtMTUzMTIxNDQ5/MC0zNTY2LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 82,
+            "in_collection": 8
+          }
+        }
+      },
+      {
+        "id": 3780330,
+        "label": "Charisma",
+        "country": "Australia",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6369 945",
+        "released": "1974",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/3780330",
+        "thumb": "https://i.discogs.com/hk7oSMhKZ9cIjdA6ZI8AeSe0-clrL7-hDYewGVQvW4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODAz/MzAtMTM0NDEzNTQz/My01OTM3LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 158,
+            "in_collection": 141
+          }
+        }
+      },
+      {
+        "id": 6661052,
+        "label": "Charisma",
+        "country": "Italy",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6369 945 L",
+        "released": "1974",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6661052",
+        "thumb": "https://i.discogs.com/a-iNrGKp_MWXeiNtQT_nvU7N5vd1vnXygHdqdj4LZRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjEw/NTItMTQyNjE3NDcw/OS02MzYxLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 137,
+            "in_collection": 35
+          }
+        }
+      },
+      {
+        "id": 4706009,
+        "label": "Charisma",
+        "country": "UK",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Reissue",
+        "catno": "CHC 8",
+        "released": "1982",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/4706009",
+        "thumb": "https://i.discogs.com/14FnS7IR8aZ496e8_8lEYrTZAgpq3MnUP9tzbU3BCnc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDYw/MDktMTU4NzU2OTg4/MC0yNzEzLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 166,
+            "in_collection": 115
+          }
+        }
+      },
+      {
+        "id": 9943946,
+        "label": "Charisma",
+        "country": "UK",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Reissue, Stereo",
+        "catno": "CHCMC 8",
+        "released": "1982",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/9943946",
+        "thumb": "https://i.discogs.com/ylybWceoC7eQjVlJYN13xq3T8Zo4FFkZmfngPQEpHLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDM5/NDYtMTQ4ODk4Mzg0/Ny04MTc2LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 53,
+            "in_collection": 1
+          }
+        }
+      },
+      {
+        "id": 773250,
+        "label": "Resource Records (3)",
+        "country": "Sweden",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue",
+        "catno": "rescd 509",
+        "released": "1993",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/773250",
+        "thumb": "https://i.discogs.com/nbBYvkVJUGwIyDG9n6rxXY0-ciNMUXyBjU0wul8wFjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MzI1/MC0xMzgxMTUwOTY4/LTM1ODQuanBlZw.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 71,
+            "in_collection": 91
+          }
+        }
+      },
+      {
+        "id": 8362289,
+        "label": "Silence (3)",
+        "country": "Sweden",
+        "title": "Magician's Hat / Ur Trollkarlens Hatt",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue",
+        "catno": "SRSCD 3615 ",
+        "released": "2000",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/8362289",
+        "thumb": "https://i.discogs.com/sgJDND6R4fylApDwV09SxokRToVHt1nAtcfDziakBQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNjIy/ODktMTQ2MDEzMjUw/OC03MDkyLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 63,
+            "in_collection": 40
+          }
+        }
+      },
+      {
+        "id": 12496587,
+        "label": "Silence (3)",
+        "country": "Sweden",
+        "title": "Ur Trollkarlens Hatt",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue, Remastered, Stereo",
+        "catno": "SRSCD 3615",
+        "released": "2002",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/12496587",
+        "thumb": "https://i.discogs.com/aVEgBGOI01GonRiJWHVPTlWhcpaMrdOcNgdW8xmk62o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDk2/NTg3LTE1MzY0MzY2/MjctNTE2MS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 60,
+            "in_collection": 124
+          }
+        }
+      },
+      {
+        "id": 12690498,
+        "label": "Virgin",
+        "country": "UK & Europe",
+        "title": "Magicians Hat",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue",
+        "catno": " CDOVD499",
+        "released": "2004",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/12690498",
+        "thumb": "https://i.discogs.com/maPXV0iwHZk1Q56Yhn1JpeaAf-1YC8QbmnMqDMOKBfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjkw/NDk4LTE1NDAxMjM3/NjQtOTQyMC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 65,
+            "in_collection": 28
+          }
+        }
+      },
+      {
+        "id": 13936516,
+        "label": "Virgin",
+        "country": "Europe",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Copy Protected, Reissue, Remastered, Stereo",
+        "catno": "7243 8 66134 2 4",
+        "released": "2004",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/13936516",
+        "thumb": "https://i.discogs.com/mxzh14jRjQGm_yB4i1bStsxQ4If6iQlyn5C7Doj1xaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTM2/NTE2LTE2MDQzNDU1/NjctODYxMS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 52,
+            "in_collection": 23
+          }
+        }
+      },
+      {
+        "id": 1794640,
+        "label": "Virgin",
+        "country": "Europe",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Copy Protected, Reissue, Remastered",
+        "catno": "7243 8 66134 2 4",
+        "released": "2004",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1794640",
+        "thumb": "https://i.discogs.com/qqDXhZFk1s-tpNROp5YzLSewXL6gxqfiMS0qvdOOAOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTQ2/NDAtMTI0Mzc5NzIy/My5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 79,
+            "in_collection": 104
+          }
+        }
+      },
+      {
+        "id": 2930486,
+        "label": "Arcàngelo",
+        "country": "Japan",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue",
+        "catno": "ARC-3025",
+        "released": "2010",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/2930486",
+        "thumb": "https://i.discogs.com/VWQvDd7n2fvFKog-87lazMJi_4V_UvjASNGo9zzH5GY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzA0/ODYtMTMwNzg2MDk1/NC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 84,
+            "in_collection": 20
+          }
+        }
+      },
+      {
+        "id": 12784182,
+        "label": "Silence (3)",
+        "country": "Sweden",
+        "title": "Ur Trollkarlens Hatt",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Stereo",
+        "catno": "SRS 4615 K",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/12784182",
+        "thumb": "https://i.discogs.com/PckBdXl5ubq0L6Yk2Q1sDZmf2tjYQhJ1pV_ZMelZwRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzg0/MTgyLTE1NDE4ODA2/MzUtNTA2Ni5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 59,
+            "in_collection": 3
+          }
+        }
+      },
+      {
+        "id": 6276404,
+        "label": "One Way Records (6)",
+        "country": "US",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue",
+        "catno": "OW 33655",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6276404",
+        "thumb": "https://i.discogs.com/RT04uXWFv7d0rhyyPJ2hG6zXBlZfMSNJ4g537ydiYhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzY0/MDQtMTQxNTM4ODQ1/MS05NjQ0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 66,
+            "in_collection": 91
+          }
+        }
+      },
+      {
+        "id": 14299449,
+        "label": "Virgin",
+        "country": "Europe",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Copy Protected, Reissue, Remastered, Repress, Stereo",
+        "catno": "CDOVD499, 7243 864447 21",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/14299449",
+        "thumb": "https://i.discogs.com/YsXXO3_L4qGGbHRm21m0kx5EXZLqAG5-qqELOml9dgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk5/NDQ5LTE1NzE3NTE2/MjQtNDkzOS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 46,
+            "in_collection": 18
+          }
+        }
+      },
+      {
+        "id": 6840120,
+        "label": "Silence (3)",
+        "country": "Sweden",
+        "title": "Ur Trollkarlens Hatt",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Reissue, Stereo",
+        "catno": "SRS 4615",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6840120",
+        "thumb": "https://i.discogs.com/iRuA4YesYuqL7hXEOY9eR_lOyZiLGQScizs9e-51qok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4NDAx/MjAtMTQyNzcyNzc2/Mi04NjQ4LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 157,
+            "in_collection": 36
+          }
+        }
+      },
+      {
+        "id": 29634739,
+        "label": "Virgin",
+        "country": "Europe",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue, Remastered, Stereo",
+        "catno": "CDOVD 499, 724386444721, 7243 864447 21",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/29634739",
+        "thumb": "https://i.discogs.com/14DYqmu-ehJqAGYUT8A4xtBFqYake5K0xUatIzbVyEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjM0/NzM5LTE3MDY2NDQw/MDgtNjA4My5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 23,
+            "in_collection": 7
+          }
+        }
+      },
+      {
+        "id": 677163,
+        "label": "Silence (3)",
+        "country": "Sweden",
+        "title": "Ur Trollkarlens Hatt",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue, Remastered",
+        "catno": "SRSCD 3615",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/677163",
+        "thumb": "https://i.discogs.com/ZBsxocAcaV5Hmyu94u4LXKGi00yTeyHGIBAEoOuPn-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzE2/My0xNDQwOTUxNDE4/LTE5NDcuanBlZw.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 74,
+            "in_collection": 117
+          }
+        }
+      },
+      {
+        "id": 15390907,
+        "label": "One Way Records (6)",
+        "country": "Russia",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "CDr"
+        ],
+        "format": "Album, Reissue, Unofficial Release",
+        "catno": "OW 33655",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/15390907",
+        "thumb": "https://i.discogs.com/R7uyIY7q9cJr4jIfzPQTM2bUTnMPG0pU9Qj4JDd8Z3w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkw/OTA3LTE1OTA3Njg2/OTQtMjIxMi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 35,
+            "in_collection": 4
+          }
+        }
+      },
+      {
+        "id": 22579937,
+        "label": "Charisma",
+        "country": "UK",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Reissue",
+        "catno": "CAS 1073",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/22579937",
+        "thumb": "https://i.discogs.com/1C48THEDskFwMGF1cXZpOLV1TvZ62lQ5oHekcuSpo4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTc5/OTM3LTE2NDc3ODY5/MzAtMzcwMi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 52,
+            "in_collection": 15
+          }
+        }
+      },
+      {
+        "id": 4073927,
+        "label": "Charisma",
+        "country": "UK",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Reissue",
+        "catno": "CAS 1073",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/4073927",
+        "thumb": "https://i.discogs.com/vPeKMCAApjHsPGwvnqxwdzO8_jlj7H0FBacfsSOYLz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzM5/MjctMTUxMjkwMjQ2/Ny0xNjIzLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 146,
+            "in_collection": 247
+          }
+        }
+      },
+      {
+        "id": 12257099,
+        "label": "Charisma",
+        "country": "UK",
+        "title": "Magician's Hat",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Reissue",
+        "catno": "CAS 1073",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/12257099",
+        "thumb": "https://i.discogs.com/LFVX-8UGmiNn9U6SFF-bbhJkdJuNci-T2cIfXHk8Vko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjU3/MDk5LTE1MzIyNzQ0/MzQtOTMxMS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 94,
+            "in_collection": 73
+          }
+        }
+      }
+    ]
+  }
+}

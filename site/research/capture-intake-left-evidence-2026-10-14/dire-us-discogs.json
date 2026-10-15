@@ -1,0 +1,892 @@
+{
+  "url": "https://api.discogs.com/releases/621110",
+  "retrieved": "2026-10-15T03:27:37Z",
+  "data": {
+    "id": 621110,
+    "status": "Accepted",
+    "year": 1978,
+    "resource_url": "https://api.discogs.com/releases/621110",
+    "uri": "https://www.discogs.com/release/621110-Dire-Straits-Dire-Straits",
+    "artists": [
+      {
+        "name": "Dire Straits",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 103687,
+        "resource_url": "https://api.discogs.com/artists/103687",
+        "thumbnail_url": "https://i.discogs.com/4akh63U9KGNd6VUSaSpy2w-IfCEbxv5hn6GTGClEnOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMzY4/Ny0xNTQ3MDc1MzU5/LTkxNTEuanBlZw.jpeg"
+      }
+    ],
+    "artists_sort": "Dire Straits",
+    "labels": [
+      {
+        "name": "Warner Bros. Records",
+        "catno": "BSK 3266",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1000,
+        "resource_url": "https://api.discogs.com/labels/1000",
+        "thumbnail_url": "https://i.discogs.com/GO-baqlieZvkZypxRJOHC9sgGPzAinoiWBc7_LwuZ10/rs:fit/g:sm/q:90/h:358/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDAt/MTY0NDg3NDIwMS01/ODI0LmpwZWc.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Warner Communications",
+        "catno": "",
+        "entity_type": "4",
+        "entity_type_name": "Record Company",
+        "id": 552180,
+        "resource_url": "https://api.discogs.com/labels/552180",
+        "thumbnail_url": "https://i.discogs.com/S_f58w7fIK9rNZ3U5whQEZTIi2iFjwgB2vgoNCBgAvk/rs:fit/g:sm/q:90/h:156/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU1MjE4/MC0xNDQ0NjE2MTQy/LTk2NTcucG5n.jpeg"
+      },
+      {
+        "name": "Warner Bros. Records Inc.",
+        "catno": "",
+        "entity_type": "13",
+        "entity_type_name": "Phonographic Copyright (p)",
+        "id": 90718,
+        "resource_url": "https://api.discogs.com/labels/90718",
+        "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+      },
+      {
+        "name": "Warner Bros. Records Inc.",
+        "catno": "",
+        "entity_type": "14",
+        "entity_type_name": "Copyright (c)",
+        "id": 90718,
+        "resource_url": "https://api.discogs.com/labels/90718",
+        "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+      },
+      {
+        "name": "Basing Street Studios",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 264413,
+        "resource_url": "https://api.discogs.com/labels/264413",
+        "thumbnail_url": "https://i.discogs.com/BxLoE9z0mcShxwuWyeblFh23ObJ63eaLZRCkyXiKnss/rs:fit/g:sm/q:90/h:454/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDQx/My0xMzU3NzY5Njg5/LTg3MzEuanBlZw.jpeg"
+      },
+      {
+        "name": "Capitol Records Pressing Plant, Winchester",
+        "catno": "",
+        "entity_type": "17",
+        "entity_type_name": "Pressed By",
+        "id": 313656,
+        "resource_url": "https://api.discogs.com/labels/313656",
+        "thumbnail_url": "https://i.discogs.com/kSgF452aWdeWEpTFrc5y0cAa0c3sl1UjHjrWvoQY3-4/rs:fit/g:sm/q:90/h:135/w:237/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzY1/Ni0xMzU3OTExNjA1/LTg3ODYuanBlZw.jpeg"
+      },
+      {
+        "name": "Warner Bros. Records Inc.",
+        "catno": "",
+        "entity_type": "4",
+        "entity_type_name": "Record Company",
+        "id": 90718,
+        "resource_url": "https://api.discogs.com/labels/90718",
+        "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+      },
+      {
+        "name": "Straitjacket Songs Ltd.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 286578,
+        "resource_url": "https://api.discogs.com/labels/286578"
+      },
+      {
+        "name": "Rondor Music (London) Ltd.",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 263841,
+        "resource_url": "https://api.discogs.com/labels/263841",
+        "thumbnail_url": "https://i.discogs.com/Cuq1UEKjWtPKVfQ4Ey2twvNx_AgMaW4-CR6SINoyRyw/rs:fit/g:sm/q:90/h:50/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzg0/MS0xNDkwOTI3ODQ2/LTk0NTcuanBlZw.jpeg"
+      },
+      {
+        "name": "Almo Music",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 288555,
+        "resource_url": "https://api.discogs.com/labels/288555",
+        "thumbnail_url": "https://i.discogs.com/7LboE6Cs8gY5ZeYrRy2gPIDzx4omH5uHfMptNdZvVr0/rs:fit/g:sm/q:90/h:76/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4ODU1/NS0xNTU5Mjg2ODk3/LTMwNjcuanBlZw.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Winchester Pressing"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 19447,
+      "want": 1982,
+      "rating": {
+        "count": 1448,
+        "average": 4.27
+      },
+      "submitter": {
+        "username": "organix",
+        "resource_url": "https://api.discogs.com/users/organix"
+      },
+      "contributors": [
+        {
+          "username": "organix",
+          "resource_url": "https://api.discogs.com/users/organix"
+        },
+        {
+          "username": "leonak",
+          "resource_url": "https://api.discogs.com/users/leonak"
+        },
+        {
+          "username": "Internaut",
+          "resource_url": "https://api.discogs.com/users/Internaut"
+        },
+        {
+          "username": "garywerner",
+          "resource_url": "https://api.discogs.com/users/garywerner"
+        },
+        {
+          "username": "tony_m",
+          "resource_url": "https://api.discogs.com/users/tony_m"
+        },
+        {
+          "username": "Kergillian",
+          "resource_url": "https://api.discogs.com/users/Kergillian"
+        },
+        {
+          "username": "ray2603",
+          "resource_url": "https://api.discogs.com/users/ray2603"
+        },
+        {
+          "username": "highpower",
+          "resource_url": "https://api.discogs.com/users/highpower"
+        },
+        {
+          "username": "dalhembe",
+          "resource_url": "https://api.discogs.com/users/dalhembe"
+        },
+        {
+          "username": "teatoe993",
+          "resource_url": "https://api.discogs.com/users/teatoe993"
+        },
+        {
+          "username": "SJH",
+          "resource_url": "https://api.discogs.com/users/SJH"
+        },
+        {
+          "username": "haiyai2u",
+          "resource_url": "https://api.discogs.com/users/haiyai2u"
+        },
+        {
+          "username": "disneyfacts",
+          "resource_url": "https://api.discogs.com/users/disneyfacts"
+        },
+        {
+          "username": "CD3003",
+          "resource_url": "https://api.discogs.com/users/CD3003"
+        },
+        {
+          "username": "dyet",
+          "resource_url": "https://api.discogs.com/users/dyet"
+        },
+        {
+          "username": "Showbiz_Kid",
+          "resource_url": "https://api.discogs.com/users/Showbiz_Kid"
+        },
+        {
+          "username": "jassoul",
+          "resource_url": "https://api.discogs.com/users/jassoul"
+        },
+        {
+          "username": "HeWhoHasAnEar",
+          "resource_url": "https://api.discogs.com/users/HeWhoHasAnEar"
+        },
+        {
+          "username": "eponymous.audio",
+          "resource_url": "https://api.discogs.com/users/eponymous.audio"
+        },
+        {
+          "username": "rindfoundrest",
+          "resource_url": "https://api.discogs.com/users/rindfoundrest"
+        },
+        {
+          "username": "EzraZebra",
+          "resource_url": "https://api.discogs.com/users/EzraZebra"
+        },
+        {
+          "username": "JacksonPolyp",
+          "resource_url": "https://api.discogs.com/users/JacksonPolyp"
+        },
+        {
+          "username": "Montalbon",
+          "resource_url": "https://api.discogs.com/users/Montalbon"
+        },
+        {
+          "username": "AdmiralAnalogs",
+          "resource_url": "https://api.discogs.com/users/AdmiralAnalogs"
+        },
+        {
+          "username": "widbnetwork",
+          "resource_url": "https://api.discogs.com/users/widbnetwork"
+        },
+        {
+          "username": "WadeH123",
+          "resource_url": "https://api.discogs.com/users/WadeH123"
+        },
+        {
+          "username": "Diognes_The_Fox",
+          "resource_url": "https://api.discogs.com/users/Diognes_The_Fox"
+        },
+        {
+          "username": "sraman_lp",
+          "resource_url": "https://api.discogs.com/users/sraman_lp"
+        },
+        {
+          "username": "VinylSpinel",
+          "resource_url": "https://api.discogs.com/users/VinylSpinel"
+        },
+        {
+          "username": "Chapp33.3",
+          "resource_url": "https://api.discogs.com/users/Chapp33.3"
+        },
+        {
+          "username": "jpsawicki",
+          "resource_url": "https://api.discogs.com/users/jpsawicki"
+        },
+        {
+          "username": "smokingeo",
+          "resource_url": "https://api.discogs.com/users/smokingeo"
+        },
+        {
+          "username": "cosmic-colors",
+          "resource_url": "https://api.discogs.com/users/cosmic-colors"
+        },
+        {
+          "username": "attilio59",
+          "resource_url": "https://api.discogs.com/users/attilio59"
+        },
+        {
+          "username": "lshpitalnik",
+          "resource_url": "https://api.discogs.com/users/lshpitalnik"
+        },
+        {
+          "username": "bthuman",
+          "resource_url": "https://api.discogs.com/users/bthuman"
+        },
+        {
+          "username": "mercedes7m",
+          "resource_url": "https://api.discogs.com/users/mercedes7m"
+        },
+        {
+          "username": "lnnuendo",
+          "resource_url": "https://api.discogs.com/users/lnnuendo"
+        },
+        {
+          "username": "GoodVibes78",
+          "resource_url": "https://api.discogs.com/users/GoodVibes78"
+        },
+        {
+          "username": "alilly",
+          "resource_url": "https://api.discogs.com/users/alilly"
+        },
+        {
+          "username": "OPIV4me",
+          "resource_url": "https://api.discogs.com/users/OPIV4me"
+        },
+        {
+          "username": "F56",
+          "resource_url": "https://api.discogs.com/users/F56"
+        },
+        {
+          "username": "PirateSixActual",
+          "resource_url": "https://api.discogs.com/users/PirateSixActual"
+        },
+        {
+          "username": "AudiosnobNW",
+          "resource_url": "https://api.discogs.com/users/AudiosnobNW"
+        },
+        {
+          "username": "hazool",
+          "resource_url": "https://api.discogs.com/users/hazool"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2006-04-30T07:35:53-07:00",
+    "date_changed": "2025-06-27T20:00:12-07:00",
+    "num_for_sale": 99,
+    "lowest_price": 3.99,
+    "master_id": 23759,
+    "master_url": "https://api.discogs.com/masters/23759",
+    "title": "Dire Straits",
+    "country": "US",
+    "released": "1978",
+    "notes": "[l313656] pressing. Issued with photo/lyric inner sleeve.\n\nFor Charlie Gillett.\n\nWarner Bros. Records Inc., a subsidiary and licensee of Warner Bros. Inc., a Warner Communications Company.\n\u21171978 Warner Bros. Records Inc. \u00a91978 Warner Bros. Records Inc. Made in U.S.A. Printed in U.S.A.\n\nRecorded at Basing St. Studios, London, Feb. 1978.\nCover painting by Chuck Loyola at Hothouse.\n\nAll selections published by Straightjacket Songs LTD. All rights administered by Rondor Music (London) LTD, controlled in the U.S. by Almo Music - ASCAP.\n",
+    "released_formatted": "1978",
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "ASCAP"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 #5 ---\u25c1",
+        "description": "Runout A, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1 M\u0336 #9 ---\u25c1",
+        "description": "Runout B, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW4 ---\u25c1",
+        "description": "Runout A, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1 #8H ---\u25c1",
+        "description": "Runout B, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW1 M\u0336  ---\u25c1",
+        "description": "Runout A, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1 #2 M\u0336  ---\u25c1",
+        "description": "Runout B, variant 3"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW4 #3 ---\u25c1",
+        "description": "Runout A, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW3 #2 ---\u25c1",
+        "description": "Runout B, variant 4"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW4 ---\u25c1",
+        "description": "Runout A, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1 M\u0336  ---\u25c1 #9",
+        "description": "Runout B, variant 5"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW4 ---\u25c1",
+        "description": "Runout A, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW3 #3 ---\u25c1",
+        "description": "Runout B, variant 6"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2  #8 ---\u25c1",
+        "description": "Runout A, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1#7 # ---\u25c1",
+        "description": "Runout B, variant 7"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW4 ---\u25c1",
+        "description": "Runout A, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW3 #2 ---\u25c1",
+        "description": "Runout B, variant 8"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW11 ---\u25c1",
+        "description": "Runout A, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW5 #2 ---\u25c1",
+        "description": "Runout B, variant 9"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 #7 ---\u25c1",
+        "description": "Runout A, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW4 ---\u25c1",
+        "description": "Runout B, variant 10"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 #2 ---\u25c1",
+        "description": "Runout A, variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1 #7 # ---\u25c1",
+        "description": "Runout B, variant 11"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW1 #2 M\u0336  ---\u25c1",
+        "description": "Runout A, variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1 #2 M\u0336  ---\u25c1",
+        "description": "Runout B, variant 12"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 #4 ---\u25c1",
+        "description": "Runout A, variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1 M #9 ---\u25c1",
+        "description": "Runout B, variant 13"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266-WW11 ---\u25c1",
+        "description": "Runout A, variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266-WW5 ---\u25c1",
+        "description": "Runout B, variant 14"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 #8 ---\u25c1",
+        "description": "Runout A, variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW3 #3 ---\u25c1",
+        "description": "Runout B, variant 15"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 ww2 #8 ---\u25c1",
+        "description": "Runout A, variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 ww4 ---\u25c1",
+        "description": "Runout B, variant 16"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW2 #2 ---\u25c1",
+        "description": "Runout A, variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW2 ---\u25c1",
+        "description": "Runout B, variant 17"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 #4 ---\u25c1",
+        "description": "Runout A, variant 18"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1 #6 M\u0336  ---\u25c1",
+        "description": "Runout B, variant 18"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 #6  ---\u25c1",
+        "description": "Runout A, variant 19"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WWI M #9  ---\u25c1",
+        "description": "Runout B, variant 19"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 .---\u25c1",
+        "description": "Runout A, variant 20"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WWI #5  \u0336M\u0336  .---\u25c1",
+        "description": "Runout B, variant 20"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 #6  ---\u25c1",
+        "description": "Runout A, variant 21"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW4 #2 ---\u25c1",
+        "description": "Runout B, variant 21"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-1-3266 WW2 #6  ---\u25c1",
+        "description": "Runout A, variant 22"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "BSK-2-3266 WW1 M ---\u25c1 #9",
+        "description": "Runout B, variant 22"
+      }
+    ],
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Y2Duog7ZWcA",
+        "title": "Down To The Waterline",
+        "description": "Provided to YouTube by Universal Music Group\n\nDown To The Waterline \u00b7 Dire Straits\n\nDire Straits\n\n\u2117 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nAssociated Per",
+        "duration": 242,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rQF4kK63UKs",
+        "title": "Water Of Love",
+        "description": "Provided to YouTube by Universal Music Group\n\nWater Of Love \u00b7 Dire Straits\n\nDire Straits\n\n\u2117 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nAssociated Performer, ",
+        "duration": 326,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=YEBdP8JKdAE",
+        "title": "Setting Me Up",
+        "description": "Provided to YouTube by Universal Music Group\n\nSetting Me Up \u00b7 Dire Straits\n\nDire Straits\n\n\u2117 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nAssociated Performer, ",
+        "duration": 199,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=yRN04uR9kcc",
+        "title": "Six Blade Knife",
+        "description": "Provided to YouTube by Universal Music Group\n\nSix Blade Knife \u00b7 Dire Straits\n\nDire Straits\n\n\u2117 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nComposer Lyricist, Associated Performer, Vocals: Mark Knopfler\nBass Guitar, Associa",
+        "duration": 252,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=F7YgXdms6-0",
+        "title": "Southbound Again",
+        "description": "Provided to YouTube by Universal Music Group\n\nSouthbound Again \u00b7 Dire Straits\n\nDire Straits\n\n\u2117 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nComposer Lyricist, Associated Performer, Vocals: Mark Knopfler\nAssociated Performe",
+        "duration": 180,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=UKCTm7TkI88",
+        "title": "Sultans Of Swing",
+        "description": "Provided to YouTube by Universal Music Group\n\nSultans Of Swing \u00b7 Dire Straits\n\nSultans Of Swing / Eastbound Train\n\n\u2117 1978 Mercury Records Limited\n\nReleased on: 1978-05-19\n\nComposer Lyricist, Vocalist, Associated Performer, Producer: Mark Knopfler\nProducer",
+        "duration": 355,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=0_6CaC_gNCk",
+        "title": "In The Gallery",
+        "description": "Provided to YouTube by Universal Music Group\n\nIn The Gallery \u00b7 Dire Straits\n\nDire Straits\n\n\u2117 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nAssociated Performer,",
+        "duration": 376,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Uy2l-fJh8R4",
+        "title": "Dire Straits \u2013 Wild West End (1978)",
+        "description": "Dire Straits \u2013 Wild West End (1978) \n#70s \nVinile 12\" 33 \u2153 RPM\nVertigo \u2013 6360 162\nTaken From The Album \u2013 Dire Straits*\nBass \u2013 John Illsley*\nDrums \u2013 Pick Withers*\nSongwriter \u2013 Mark Knopfler*\nVocals* Lead Guitar* Rhythm Guitar \u2013 Mark Knopfler*\nEngineer \u2013 Rh",
+        "duration": 284,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=va7aQJt0Qh8",
+        "title": "Lions",
+        "description": "Provided to YouTube by Universal Music Group\n\nLions \u00b7 Dire Straits\n\nDire Straits\n\n\u2117 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nBass Guitar, Associated Perfor",
+        "duration": 304,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=h0ffIJ7ZO4U",
+        "title": "Dire Straits - Sultans Of Swing (Official Music Video)",
+        "description": "The Official Music Video for Sultans of Swing. Taken from Dire Straits \u2013 Dire Straits.\n\nDire Straits \u2013 Live 1978-1992' is out now (UK/ROW). Out January 19th, 2024. (US). Order now: https://DireStraits.lnk.to/live78-92ID \n\n--\n\nListen to more music from Dir",
+        "duration": 267,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wTP2RUD_cL0",
+        "title": "Dire Straits - Money For Nothing (Official Music Video)",
+        "description": "The Official Music Video for Money For Nothing. Taken from Dire Straits \u2013 Brothers in Arms.\n\nDire Straits \u2013 Live 1978-1992' is out now (UK/ROW). Out January 19th, 2024. (US). Order now: https://DireStraits.lnk.to/live78-92ID \n\n--\n\nListen to more music fro",
+        "duration": 279,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=eEVj5z6Yslk",
+        "title": "Dire Straits Playlist Of All Songs || Dire Straits Greatest Hits Full Album",
+        "description": "\u2022 Dire Straits Greatest Hits Full Album 2022 | Best Songs Of Dire Straits\n\u2022 Dire Straits Greatest Hits Full Album 2022 | Best Songs Of Dire Straits\n\u2022 Dire Straits Greatest Hits Full Album 2022 | Best Songs Of Dire Straits\n\u25bdFollow '1980s Music'\n\u279e Subscribe",
+        "duration": 0,
+        "embed": true
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "AOR",
+      "Rock & Roll"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Down To The Waterline",
+        "duration": "3:55"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Water Of Love",
+        "duration": "5:23"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Setting Me Up",
+        "duration": "3:18"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Six Blade Knife",
+        "duration": "4:10"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Southbound Again",
+        "duration": "2:58"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Sultans Of Swing",
+        "duration": "5:47"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "In The Gallery",
+        "duration": "6:16"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Wild West End",
+        "duration": "4:42"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Lions",
+        "duration": "5:05"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Alan Schmidt",
+        "anv": "",
+        "join": "",
+        "role": "Art Direction",
+        "tracks": "",
+        "id": 597221,
+        "resource_url": "https://api.discogs.com/artists/597221"
+      },
+      {
+        "name": "John Illsley",
+        "anv": "",
+        "join": "",
+        "role": "Bass",
+        "tracks": "",
+        "id": 252763,
+        "resource_url": "https://api.discogs.com/artists/252763"
+      },
+      {
+        "name": "Chuck Loyola",
+        "anv": "",
+        "join": "",
+        "role": "Cover [Cover Painting], Painting [Cover Painting]",
+        "tracks": "",
+        "id": 1904339,
+        "resource_url": "https://api.discogs.com/artists/1904339"
+      },
+      {
+        "name": "Hothouse (2)",
+        "anv": "",
+        "join": "",
+        "role": "Design, Artwork",
+        "tracks": "",
+        "id": 1837000,
+        "resource_url": "https://api.discogs.com/artists/1837000"
+      },
+      {
+        "name": "Pick Withers",
+        "anv": "",
+        "join": "",
+        "role": "Drums",
+        "tracks": "",
+        "id": 420030,
+        "resource_url": "https://api.discogs.com/artists/420030"
+      },
+      {
+        "name": "Rhett Davies",
+        "anv": "",
+        "join": "",
+        "role": "Engineer",
+        "tracks": "",
+        "id": 60621,
+        "resource_url": "https://api.discogs.com/artists/60621"
+      },
+      {
+        "name": "Paddy Eckersley",
+        "anv": "",
+        "join": "",
+        "role": "Photography By",
+        "tracks": "",
+        "id": 2235118,
+        "resource_url": "https://api.discogs.com/artists/2235118"
+      },
+      {
+        "name": "Muff Winwood",
+        "anv": "",
+        "join": "",
+        "role": "Producer [Produced By]",
+        "tracks": "",
+        "id": 260197,
+        "resource_url": "https://api.discogs.com/artists/260197"
+      },
+      {
+        "name": "David Knopfler",
+        "anv": "",
+        "join": "",
+        "role": "Rhythm Guitar",
+        "tracks": "",
+        "id": 260480,
+        "resource_url": "https://api.discogs.com/artists/260480"
+      },
+      {
+        "name": "Mark Knopfler",
+        "anv": "",
+        "join": "",
+        "role": "Vocals, Lead Guitar, Rhythm Guitar",
+        "tracks": "",
+        "id": 236897,
+        "resource_url": "https://api.discogs.com/artists/236897"
+      },
+      {
+        "name": "Mark Knopfler",
+        "anv": "",
+        "join": "",
+        "role": "Written-By [All Selections]",
+        "tracks": "",
+        "id": 236897,
+        "resource_url": "https://api.discogs.com/artists/236897"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/fWEj_og1fkDTPXFBpfkKX37OYsc7IYL03ThS00rCClw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk0/LTU1MzEuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/fWEj_og1fkDTPXFBpfkKX37OYsc7IYL03ThS00rCClw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk0/LTU1MzEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/A8Vtc5XJ8I5BZehCR2P355JbB7dsx-hau_s_PKoilXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk0/LTU1MzEuanBlZw.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/BHjLwkmGImMGJYOZPE6GLFpKxycthmTR78MZM2-AqBU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk5/LTc3NzQuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/BHjLwkmGImMGJYOZPE6GLFpKxycthmTR78MZM2-AqBU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk5/LTc3NzQuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/M8mb80roXCPtokpPq2vTzIQsTYXbsPntSGNrs-1PEpQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk5/LTc3NzQuanBlZw.jpeg",
+        "width": 596,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/qp_LMzW1VHDYI9jgMCOSR1mgGluXcGg1ITfwevZAN7c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg0NzU4MzE4/LTkxMTcuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/qp_LMzW1VHDYI9jgMCOSR1mgGluXcGg1ITfwevZAN7c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg0NzU4MzE4/LTkxMTcuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/rZKK9ORtPJbjRQ5kkpvfJnSUgs0BkFJp5qiwB0g3C3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg0NzU4MzE4/LTkxMTcuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/t6Q4sXTP0n9pp5l88PmEZSAfnuFcTugSyJD-yEgJpCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg0NzU4MzIy/LTkwNjYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/t6Q4sXTP0n9pp5l88PmEZSAfnuFcTugSyJD-yEgJpCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg0NzU4MzIy/LTkwNjYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/4x_jnnjzyyhP1wK3-J9XGlfr7XzAdHc2A4JV5gyYXqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg0NzU4MzIy/LTkwNjYuanBlZw.jpeg",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dwzL8rMI2wI-6CnPmjnXL5A2uIq2WkzFaNN0v2euwn8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMzA0/LTE3NjEuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/dwzL8rMI2wI-6CnPmjnXL5A2uIq2WkzFaNN0v2euwn8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMzA0/LTE3NjEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/2DKDWt88gAB5eq9f0xf0f8maMrjm1Yt0WrsGMtMrRa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMzA0/LTE3NjEuanBlZw.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/9-pDFwa5eCuCjakfrJRQWmb9yMIb7_zl01TevPmz4Cc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMzA3/LTMyNzYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/9-pDFwa5eCuCjakfrJRQWmb9yMIb7_zl01TevPmz4Cc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMzA3/LTMyNzYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/_YVO_IpULuRO5lLXsm9nKWcpXq7G6AJOV8wScrb3GYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMzA3/LTMyNzYuanBlZw.jpeg",
+        "width": 600,
+        "height": 593
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8_CAVMwQQ4iHnTZ6jZzupq2LTJrPx8TrtqVwi42-EM8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xNTM4NzAxNjUw/LTY3MTYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/8_CAVMwQQ4iHnTZ6jZzupq2LTJrPx8TrtqVwi42-EM8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xNTM4NzAxNjUw/LTY3MTYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/FxIxXBRjwRg3f6PACcTCLBYgOmlRawGK-Q7pDpRelds/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xNTM4NzAxNjUw/LTY3MTYuanBlZw.jpeg",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/u9n_TSJyO3R20j3uMrNDb2QpD1IW5lox0H1EsH8smnA/rs:fit/g:sm/q:90/h:497/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xNTgyMzc1NzA0/LTE1NDMuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/u9n_TSJyO3R20j3uMrNDb2QpD1IW5lox0H1EsH8smnA/rs:fit/g:sm/q:90/h:497/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xNTgyMzc1NzA0/LTE1NDMuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/dZrVq3xlWIleiGHzrHFMik8sxdsO0rI2HZkx8ugw6Ks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xNTgyMzc1NzA0/LTE1NDMuanBlZw.jpeg",
+        "width": 600,
+        "height": 497
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ulAdX_jfL4IeKeAkDOyLrFvH9q4e_3VE4FK-rAGYkT8/rs:fit/g:sm/q:90/h:437/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xNTgyMzc1NzI1/LTUzMTkuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/ulAdX_jfL4IeKeAkDOyLrFvH9q4e_3VE4FK-rAGYkT8/rs:fit/g:sm/q:90/h:437/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xNTgyMzc1NzI1/LTUzMTkuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/9zY0X9wvDqQ8H5fx9SNFMsP6VMMsxHyh_88M0z_y9rI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xNTgyMzc1NzI1/LTUzMTkuanBlZw.jpeg",
+        "width": 600,
+        "height": 437
+      }
+    ],
+    "thumb": "https://i.discogs.com/A8Vtc5XJ8I5BZehCR2P355JbB7dsx-hau_s_PKoilXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk0/LTU1MzEuanBlZw.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  }
+}

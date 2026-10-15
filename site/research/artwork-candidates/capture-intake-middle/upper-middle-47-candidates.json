@@ -1,0 +1,737 @@
+{
+  "id": "upper-middle-47",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Jimi+Hendrix&catno=6307"
+  ],
+  "releases": [
+    {
+      "id": 6778528,
+      "title": "Electric Ladyland",
+      "artists": [
+        {
+          "name": "The Jimi Hendrix Experience",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 255672,
+          "resource_url": "https://api.discogs.com/artists/255672",
+          "thumbnail_url": "https://i.discogs.com/cUqu3D8zu0Gd4P71y6q9jxRCskheqkuK-J3NdD5Dv4M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NTY3/Mi0xNzc3NjU0NTc1/LTExNDIuanBlZw.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 0,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catno": "2RS 6307",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 157,
+          "resource_url": "https://api.discogs.com/labels/157",
+          "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+        },
+        {
+          "name": "Reprise Records",
+          "catno": "6307",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 157,
+          "resource_url": "https://api.discogs.com/labels/157",
+          "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+        }
+      ],
+      "notes": "Gatefold cover.\r\nFirst Pressing with Warner 7Arts/Reprise 'disc' logo. Orange/Yellow two-tone labels.\r\n(later issues have tan label & square red Reprise logo.)\r\n\r\nAuto-coupled:\r\nRecord 1: Side A and D\r\nRecord 2: Side B and C\r\n\r\nPrinted in U.S.A.\r\n\r\nAll compositions published by Bella Godiva Music with the exceptions of \"Little Miss Strange\", Joint Music; \"Burning of the Midnight Lamp\", Yameta Co., Ltd.; and \"All Along the Watchtower\", Dwarf Music.\r\nRecorded at The Record Plant, New York.\r\n\r\nReprise Records, a division of Warner Bros.-Seven Arts Records, Inc.\r\nMade in U.S.A.\r\n\r\nCatalog numbers:\r\n2RS 6307 - Gatefold & spine\r\n6307 - Front, back & spine\r\n2 RS 6307 - Labels\r\n\r\nTitle on spine: Electric Lady Land",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "... And The Gods Made Love",
+          "duration": ""
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Have You Ever Been (To Electric Ladyland)",
+          "duration": ""
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Crosstown Traffic",
+          "duration": ""
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Voodoo Chile",
+          "extraartists": [
+            {
+              "name": "Jack Casady",
+              "anv": "Jack Cassidy",
+              "join": "",
+              "role": "Bass",
+              "tracks": "",
+              "id": 362002,
+              "resource_url": "https://api.discogs.com/artists/362002"
+            },
+            {
+              "name": "Steve Winwood",
+              "anv": "Stevie Winwood",
+              "join": "",
+              "role": "Organ",
+              "tracks": "",
+              "id": 201571,
+              "resource_url": "https://api.discogs.com/artists/201571"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Little Miss Strange",
+          "duration": ""
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Long Hot Summer Night",
+          "extraartists": [
+            {
+              "name": "Al Kooper",
+              "anv": "",
+              "join": "",
+              "role": "Piano",
+              "tracks": "",
+              "id": 255185,
+              "resource_url": "https://api.discogs.com/artists/255185"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Come On (Part I)",
+          "extraartists": [
+            {
+              "name": "Earl King",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 274061,
+              "resource_url": "https://api.discogs.com/artists/274061"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Gypsy Eyes",
+          "duration": ""
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Burning Of The Midnight Lamp",
+          "duration": ""
+        },
+        {
+          "position": "C1",
+          "type_": "track",
+          "title": "Rainy Day, Dream Away",
+          "extraartists": [
+            {
+              "name": "Larry Faucette",
+              "anv": "",
+              "join": "",
+              "role": "Congas",
+              "tracks": "",
+              "id": 274063,
+              "resource_url": "https://api.discogs.com/artists/274063"
+            },
+            {
+              "name": "Buddy Miles",
+              "anv": "",
+              "join": "",
+              "role": "Drums",
+              "tracks": "",
+              "id": 254578,
+              "resource_url": "https://api.discogs.com/artists/254578"
+            },
+            {
+              "name": "Freddie Smith",
+              "anv": "",
+              "join": "",
+              "role": "Horn",
+              "tracks": "",
+              "id": 274062,
+              "resource_url": "https://api.discogs.com/artists/274062"
+            },
+            {
+              "name": "Mike Finnigan",
+              "anv": "",
+              "join": "",
+              "role": "Organ",
+              "tracks": "",
+              "id": 274060,
+              "resource_url": "https://api.discogs.com/artists/274060"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "C2",
+          "type_": "track",
+          "title": "1983....(A Merman I Should Turn To Be)",
+          "extraartists": [
+            {
+              "name": "Chris Wood (2)",
+              "anv": "",
+              "join": "",
+              "role": "Flute",
+              "tracks": "",
+              "id": 260852,
+              "resource_url": "https://api.discogs.com/artists/260852"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "C3",
+          "type_": "track",
+          "title": "Moon, Turn The Tides....Gently Gently Away",
+          "duration": ""
+        },
+        {
+          "position": "D1",
+          "type_": "track",
+          "title": "Still Raining, Still Dreaming",
+          "extraartists": [
+            {
+              "name": "Larry Faucette",
+              "anv": "",
+              "join": "",
+              "role": "Congas",
+              "tracks": "",
+              "id": 274063,
+              "resource_url": "https://api.discogs.com/artists/274063"
+            },
+            {
+              "name": "Buddy Miles",
+              "anv": "",
+              "join": "",
+              "role": "Drums",
+              "tracks": "",
+              "id": 254578,
+              "resource_url": "https://api.discogs.com/artists/254578"
+            },
+            {
+              "name": "Freddie Smith",
+              "anv": "",
+              "join": "",
+              "role": "Horn",
+              "tracks": "",
+              "id": 274062,
+              "resource_url": "https://api.discogs.com/artists/274062"
+            },
+            {
+              "name": "Mike Finnigan",
+              "anv": "",
+              "join": "",
+              "role": "Organ",
+              "tracks": "",
+              "id": 274060,
+              "resource_url": "https://api.discogs.com/artists/274060"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "D2",
+          "type_": "track",
+          "title": "House Burning Down",
+          "duration": ""
+        },
+        {
+          "position": "D3",
+          "type_": "track",
+          "title": "All Along The Watchtower",
+          "extraartists": [
+            {
+              "name": "Jimi Hendrix",
+              "anv": "",
+              "join": "",
+              "role": "Arranged By",
+              "tracks": "",
+              "id": 110593,
+              "resource_url": "https://api.discogs.com/artists/110593"
+            },
+            {
+              "name": "Bob Dylan",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 59792,
+              "resource_url": "https://api.discogs.com/artists/59792"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "D4",
+          "type_": "track",
+          "title": "Voodoo Child (Slight Return)",
+          "duration": ""
+        }
+      ],
+      "url": "https://www.discogs.com/release/6778528",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-6778528-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/HnSqhVajFSaXYb_sr5d85pU0vW7ypsnY6uWfCJlHUeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/MjgtMTQyNzgzNzA4/Mi0zODE3LmpwZWc.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-6778528-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/LzPLYXhS16fztJJh3E6a5RzNl8yYphDkOj_db81Iz3A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/MjgtMTQyNzgzNzA4/MC00OTk3LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-6778528-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/gBtRGbJtWNApRnMld834mdn7v2Ka-CzGxWoeeVqIddU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/MjgtMTQyNzgzNzA4/Mi05Mzc0LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-6778528-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/RQMnElZEMBaaKXRgNElRRZDsWuzUR-d55SlrXq8yKBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/MjgtMTQyNzgzNzA4/MC04MTM0LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-6778528-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/DNljMsV8fEQlf6lP-8EByqLCdU0EO3jRoVVDY-zq-YA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/MjgtMTQyNzgzNzA4/MC0zNjE2LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-6778528-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/D-q6JnLd-Wso9KA771kEclwzW_Z1t6Oe1h5riF4Xa-8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Nzg1/MjgtMTQyNzgzNzA3/OS02MDE1LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 2665603,
+      "title": "Electric Ladyland",
+      "artists": [
+        {
+          "name": "The Jimi Hendrix Experience",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 255672,
+          "resource_url": "https://api.discogs.com/artists/255672",
+          "thumbnail_url": "https://i.discogs.com/cUqu3D8zu0Gd4P71y6q9jxRCskheqkuK-J3NdD5Dv4M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1NTY3/Mi0xNzc3NjU0NTc1/LTExNDIuanBlZw.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1979,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ],
+          "text": "Quality Records Pressing"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Reprise Records",
+          "catno": "2RS 6307",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 157,
+          "resource_url": "https://api.discogs.com/labels/157",
+          "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+        },
+        {
+          "name": "Reprise Records",
+          "catno": "6307",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 157,
+          "resource_url": "https://api.discogs.com/labels/157",
+          "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+        },
+        {
+          "name": "Reprise Records",
+          "catno": "2 RS 6307",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 157,
+          "resource_url": "https://api.discogs.com/labels/157",
+          "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+        }
+      ],
+      "notes": "Tan Reprise Records label swith the Reprise logo in a red box and \"Manufactured and distributed by WEA Music Of Canada, Ltd. A Warner Communication Company ⓦ\" along the bottom edge.\r\n\r\nThis version comes in a gatefold jacket with twin printed inner sleeves featuring a memorial to Hendrix (\"Jimi Hendrix November 27, 1942 - September 18, 1970\"), including his discography.\r\n\r\nCat# on front and back cover: 6307\r\nCat# on interior of gatefold: 2RS 6307\r\nCat# on labels: 2 RS 6307\r\n\r\nStereo. Manufactured and distributed by WEA Music of Canada, Ltd.\r\n\r\n\"We dedicate this album to acoustic and electric woman and man alike, and to the girl at or from or with the button store, and Arizona, and Bil of some English town in England, and well, EVERYBODY.\"\r\n\r\nAll compositions published by Bella Godiva Music with the exceptions of B1 published by Joint Music, B5 published by Yameta Co., Ltd.; and D3 published by Dwarf Music.\r\n\r\nRecorded at The Record Plant, New York.\r\nReprise Records, a division of Warner Bros.-Seven Arts Records, Inc. Made in U.S.A.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": ".... And The Gods Made Love",
+          "duration": ""
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Have You Ever Been (To Electric Ladyland)",
+          "duration": ""
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Crosstown Traffic",
+          "duration": ""
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Voodoo Chile",
+          "extraartists": [
+            {
+              "name": "Jack Casady",
+              "anv": "Jack Cassidy",
+              "join": "",
+              "role": "Bass",
+              "tracks": "",
+              "id": 362002,
+              "resource_url": "https://api.discogs.com/artists/362002"
+            },
+            {
+              "name": "Steve Winwood",
+              "anv": "",
+              "join": "",
+              "role": "Organ",
+              "tracks": "",
+              "id": 201571,
+              "resource_url": "https://api.discogs.com/artists/201571"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Little Miss Strange",
+          "extraartists": [
+            {
+              "name": "Noel Redding",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 252848,
+              "resource_url": "https://api.discogs.com/artists/252848"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Long Hot Summer Night",
+          "extraartists": [
+            {
+              "name": "Al Kooper",
+              "anv": "",
+              "join": "",
+              "role": "Piano",
+              "tracks": "",
+              "id": 255185,
+              "resource_url": "https://api.discogs.com/artists/255185"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Come On (Part 1)",
+          "extraartists": [
+            {
+              "name": "Earl King",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 274061,
+              "resource_url": "https://api.discogs.com/artists/274061"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Gypsy Eyes",
+          "duration": ""
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Burning Of The Midnight Lamp",
+          "duration": ""
+        },
+        {
+          "position": "C1",
+          "type_": "track",
+          "title": "Rainy Day, Dream Away",
+          "extraartists": [
+            {
+              "name": "Larry Faucette",
+              "anv": "",
+              "join": "",
+              "role": "Congas",
+              "tracks": "",
+              "id": 274063,
+              "resource_url": "https://api.discogs.com/artists/274063"
+            },
+            {
+              "name": "Buddy Miles",
+              "anv": "",
+              "join": "",
+              "role": "Drums",
+              "tracks": "",
+              "id": 254578,
+              "resource_url": "https://api.discogs.com/artists/254578"
+            },
+            {
+              "name": "Freddie Smith",
+              "anv": "",
+              "join": "",
+              "role": "Horn",
+              "tracks": "",
+              "id": 274062,
+              "resource_url": "https://api.discogs.com/artists/274062"
+            },
+            {
+              "name": "Mike Finnigan",
+              "anv": "",
+              "join": "",
+              "role": "Organ",
+              "tracks": "",
+              "id": 274060,
+              "resource_url": "https://api.discogs.com/artists/274060"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "C2",
+          "type_": "track",
+          "title": "1983...(A Merman I Should Turn To Be)",
+          "extraartists": [
+            {
+              "name": "Chris Wood (2)",
+              "anv": "",
+              "join": "",
+              "role": "Flute",
+              "tracks": "",
+              "id": 260852,
+              "resource_url": "https://api.discogs.com/artists/260852"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "C3",
+          "type_": "track",
+          "title": "Moon, Turn The Tides...Gently Gently Away",
+          "duration": ""
+        },
+        {
+          "position": "D1",
+          "type_": "track",
+          "title": "Still Raining, Still Dreaming",
+          "extraartists": [
+            {
+              "name": "Larry Faucette",
+              "anv": "",
+              "join": "",
+              "role": "Congas",
+              "tracks": "",
+              "id": 274063,
+              "resource_url": "https://api.discogs.com/artists/274063"
+            },
+            {
+              "name": "Buddy Miles",
+              "anv": "",
+              "join": "",
+              "role": "Drums",
+              "tracks": "",
+              "id": 254578,
+              "resource_url": "https://api.discogs.com/artists/254578"
+            },
+            {
+              "name": "Freddie Smith",
+              "anv": "",
+              "join": "",
+              "role": "Horn",
+              "tracks": "",
+              "id": 274062,
+              "resource_url": "https://api.discogs.com/artists/274062"
+            },
+            {
+              "name": "Mike Finnigan",
+              "anv": "",
+              "join": "",
+              "role": "Organ",
+              "tracks": "",
+              "id": 274060,
+              "resource_url": "https://api.discogs.com/artists/274060"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "D2",
+          "type_": "track",
+          "title": "House Burning Down",
+          "duration": ""
+        },
+        {
+          "position": "D3",
+          "type_": "track",
+          "title": "All Along The Watchtower",
+          "extraartists": [
+            {
+              "name": "Jimi Hendrix",
+              "anv": "",
+              "join": "",
+              "role": "Arranged By",
+              "tracks": "",
+              "id": 110593,
+              "resource_url": "https://api.discogs.com/artists/110593"
+            },
+            {
+              "name": "Bob Dylan",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 59792,
+              "resource_url": "https://api.discogs.com/artists/59792"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "D4",
+          "type_": "track",
+          "title": "Voodoo Child (Slight Return)",
+          "duration": ""
+        }
+      ],
+      "url": "https://www.discogs.com/release/2665603",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-2665603-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/TtOcCEN7C4z39kMiz-aT8sPL7lD7NuOc9GMXE_GkU04/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU2/MDMtMTMwMzQ3NjYx/NS5qcGVn.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 599,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-2665603-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/iEsOoxRdJCsc5-ogh0ifQDxuSgXX8N9igpO_Ff1MDxU/rs:fit/g:sm/q:90/h:294/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU2/MDMtMTQ1NDYxNjc5/Ny02MzUyLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 597,
+          "height": 294,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-2665603-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/K_LJ8vIvFyp4GbqfKb2aC7-DdPEAxiaV1XnJ36enLok/rs:fit/g:sm/q:90/h:586/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU2/MDMtMTMwMzQ3NjYy/NS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 590,
+          "height": 586,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-2665603-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/ln6cuyRG8jNpcpEQCeamJVNnvtKrLrC-gUhL6yFwwug/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU2/MDMtMTI5NTcyNTMx/NS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 599,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-2665603-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/Li-ldwdqKdMKTcTi1E2OmQs3hFOrGoSYm0CpxB9cMYE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU2/MDMtMTI5NTcyNTMy/My5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-47-discogs-2665603-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/BUZAEzxJIB6HZlvv0xS8ag7YmNvRziNl5RI3H9yJ0yo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU2/MDMtMTI5NTcyNTMz/MC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 599,
+          "height": 600,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

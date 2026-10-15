@@ -1,0 +1,1518 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Caravanserai%22+AND+artist%3A%22Santana%22&fmt=json&limit=100",
+  "retrieved": "2026-10-15T03:16:11Z",
+  "data": {
+    "created": "2026-10-15T03:16:11.023Z",
+    "count": 22,
+    "offset": 0,
+    "releases": [
+      {
+        "id": "96c380d4-ff84-46b1-a5ec-7b29b5cdb318",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "1990",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1990",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "07464316102",
+        "label-info": [
+          {
+            "catalog-number": "CK 31610",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "4fe4b5c4-fd4a-324d-af48-bd6ddfa6dbe7",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "3cc9b05c-86b6-4320-ac40-8ac584a1a823",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "None",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2014",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2014",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "3ca59192-76fb-3329-affd-9a71d63e3a53",
+            "format": "Digital Media",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "4cacc355-6685-4ede-9456-f89e12b88d5f",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "1985-04-01",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "1985-04-01",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "30DP 301",
+            "label": {
+              "id": "08f37a61-1c54-4257-b31d-810fa2ac5cd5",
+              "name": "CBS/Sony"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "63f6b3bd-c54e-3f3d-958b-61a5456313ae",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "1280cc35-5d7b-3380-a55a-a6aff57fe310",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "1990-01-01",
+        "country": "CA",
+        "release-events": [
+          {
+            "date": "1990-01-01",
+            "area": {
+              "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+              "name": "Canada",
+              "sort-name": "Canada",
+              "iso-3166-1-codes": [
+                "CA"
+              ]
+            }
+          }
+        ],
+        "barcode": "074643161022",
+        "asin": "B0000024Z7",
+        "label-info": [
+          {
+            "catalog-number": "CK 31610",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "d00d36f8-4bb8-30ae-b611-7f8a04997349",
+            "format": "CD",
+            "disc-count": 8,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "55fd1348-d141-3e57-a264-59f76015cb07",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2002",
+        "country": "GB",
+        "release-events": [
+          {
+            "date": "2002",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "iso-3166-1-codes": [
+                "GB"
+              ]
+            }
+          }
+        ],
+        "barcode": "5099751057420",
+        "asin": "B0000A2I1B",
+        "label-info": [
+          {
+            "catalog-number": "510574 2",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "06a02ba0-ff28-3404-9467-3a1efd854dd5",
+            "format": "CD",
+            "disc-count": 8,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "bc427956-a0bb-3d40-b0db-a6639f173bd0",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "1985-10-15",
+        "country": "GB",
+        "release-events": [
+          {
+            "date": "1985-10-15",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "iso-3166-1-codes": [
+                "GB"
+              ]
+            }
+          }
+        ],
+        "barcode": "5099706529927",
+        "asin": "B0000264WG",
+        "label-info": [
+          {
+            "catalog-number": "CDCBS 65299",
+            "label": {
+              "id": "b8d33bec-92cc-40d9-bd92-4eb089b401a9",
+              "name": "CBS"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "873ce332-c385-37b7-9cd9-6b4e25fb66ee",
+            "format": "CD",
+            "disc-count": 9,
+            "track-count": 10
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "jazz"
+          },
+          {
+            "count": 1,
+            "name": "classic rock"
+          }
+        ]
+      },
+      {
+        "id": "8fcf2805-0ea3-48bc-ada7-5ab16ea69b3a",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 2,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2011-11-08",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2011-11-08",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "821797207966",
+        "asin": "B005M4K94G",
+        "label-info": [
+          {
+            "catalog-number": "UDSACD 2079",
+            "label": {
+              "id": "edd54e2f-2eef-46b1-a9b5-bedfe5ed33be",
+              "name": "Mobile Fidelity Sound Lab"
+            }
+          }
+        ],
+        "track-count": 20,
+        "media": [
+          {
+            "id": "146b6296-501f-3308-8c09-ecff07896e9f",
+            "format": "Hybrid SACD (CD layer)",
+            "disc-count": 1,
+            "track-count": 10
+          },
+          {
+            "id": "a95c16da-35e7-3051-94f5-f98fbe39a9f6",
+            "format": "Hybrid SACD (SACD layer, 2 channels)",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "54ba8fc9-b584-417f-bc7a-bf79bfffc24b",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "1972-10",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1972-10",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "asin": "B001AXB7BC",
+        "label-info": [
+          {
+            "catalog-number": "KC 31610",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "789f3010-c88c-37e2-816e-e741416c3d17",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "4302146a-5da7-357e-b621-78c375fe0725",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2003-09-30",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2003-09-30",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "074646359525",
+        "asin": "B0000AKY7E",
+        "label-info": [
+          {
+            "catalog-number": "CK 63595",
+            "label": {
+              "id": "45ffe1d8-92da-4750-9a4a-f42861f46e2c",
+              "name": "Legacy"
+            }
+          },
+          {
+            "catalog-number": "CK 63595",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "fa4562c7-b9a4-3525-8f5c-430fbf4c660d",
+            "format": "CD",
+            "disc-count": 9,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "ae352139-2d1a-4ddb-879e-007dbed0fd1e",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2003-10-20",
+        "country": "XE",
+        "release-events": [
+          {
+            "date": "2003-10-20",
+            "area": {
+              "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+              "name": "Europe",
+              "sort-name": "Europe",
+              "iso-3166-1-codes": [
+                "XE"
+              ]
+            }
+          }
+        ],
+        "barcode": "5099751112822",
+        "asin": "B0000A2I1B",
+        "label-info": [
+          {
+            "catalog-number": "511128 2",
+            "label": {
+              "id": "45ffe1d8-92da-4750-9a4a-f42861f46e2c",
+              "name": "Legacy"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "06767c30-5591-3cac-bd1f-635312cf11cd",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "e83b778b-bc2d-4ea1-8c4c-6387d9a1c694",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "disambiguation": "quadraphonic",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "CAQ 31610",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "cbdb0c90-0cb9-3664-a4e0-af9d8308ca64",
+            "format": "8-Track Cartridge",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "e2bd7b41-0411-44ed-a689-36039de1de8f",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Gatefold Cover",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2008-03-18",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2008-03-18",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "barcode": "4260019713339",
+        "label-info": [
+          {
+            "catalog-number": "KC 31610",
+            "label": {
+              "id": "402e80eb-91ca-451a-92e6-925354d488f8",
+              "name": "Speakers Corner"
+            }
+          },
+          {
+            "catalog-number": "KC 31610",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "0916a65a-c015-354e-b35e-fa63d24666a9",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "0dd714d3-6ac4-4591-a446-0725fea7378a",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 3,
+        "title": "Caravanserai",
+        "status": "Official",
+        "disambiguation": "quadraphonic edition",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2022-11-30",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "2022-11-30",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "4547366577266",
+        "asin": "B0BLH5ZJ47",
+        "label-info": [
+          {
+            "catalog-number": "SICP 10142",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 30,
+        "media": [
+          {
+            "id": "ba7658f6-05f3-39ed-ab61-e9f609d5aaa3",
+            "format": "Hybrid SACD (CD layer)",
+            "disc-count": 1,
+            "track-count": 10
+          },
+          {
+            "id": "5905cf38-5a67-3df3-ae8b-c9a5cb48992d",
+            "format": "Hybrid SACD (SACD layer, 2 channels)",
+            "disc-count": 0,
+            "track-count": 10
+          },
+          {
+            "id": "a3998ec7-d1b8-312c-ba6f-07ea161385fa",
+            "format": "Hybrid SACD (SACD layer, multichannel)",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "5574c31c-1ed0-4aef-9a87-f576c11b252a",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2003",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2003",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "886978775023",
+        "label-info": [
+          {
+            "catalog-number": "CK 63595",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "2974fa60-22a4-36c9-9600-241da4a79987",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "d63b5f3d-117d-40ad-ae8e-0ef87921a818",
+        "score": 100,
+        "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Bootleg",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2001",
+        "country": "RU",
+        "release-events": [
+          {
+            "date": "2001",
+            "area": {
+              "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+              "name": "Russia",
+              "sort-name": "Russia",
+              "iso-3166-1-codes": [
+                "RU"
+              ]
+            }
+          }
+        ],
+        "barcode": "4607016130170",
+        "label-info": [
+          {
+            "label": {
+              "id": "93cc1cc3-0ff3-4646-8d64-c3a839d94249",
+              "name": "SomeWax"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "43005f63-9674-394c-a77d-810b667e3e31",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "320f28c5-eb54-4b68-b65f-6f17eb4729f3",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2006-05-03",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "2006-05-03",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "4571191057105",
+        "label-info": [
+          {
+            "catalog-number": "MHCP 1000",
+            "label": {
+              "id": "c9a4ea86-7611-4fff-9f4f-41f18be7e14b",
+              "name": "Sony Records International"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "4f1a2c7b-caeb-3d16-be30-f13f4daada9d",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "ea4fe756-3f9d-4696-b489-3abddbb7158f",
+        "score": 100,
+        "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "packaging": "Gatefold Cover",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "2024-06-14",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2024-06-14",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "196588867415",
+        "label-info": [
+          {
+            "catalog-number": "MFSL 1-524",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          },
+          {
+            "catalog-number": "MFSL 1-524",
+            "label": {
+              "id": "edd54e2f-2eef-46b1-a9b5-bedfe5ed33be",
+              "name": "Mobile Fidelity Sound Lab"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "b4c2a260-89cb-39a1-80b1-bd669929d451",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "ddc7729e-5624-4762-97e4-85e6334f99d3",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "",
+        "country": "XE",
+        "release-events": [
+          {
+            "date": "",
+            "area": {
+              "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+              "name": "Europe",
+              "sort-name": "Europe",
+              "iso-3166-1-codes": [
+                "XE"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "CDCBS 65299",
+            "label": {
+              "id": "b8d33bec-92cc-40d9-bd92-4eb089b401a9",
+              "name": "CBS"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "401d06d2-abe2-375e-80f7-938863d55cae",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "f1fba9ad-dd6e-4b76-9fe5-808429ee11f3",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "disambiguation": "quadraphonic",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "1973-01",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1973-01",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "label-info": [
+          {
+            "catalog-number": "CQ 31610",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "b6449419-706b-3834-ad54-ba2d743a63ed",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "d4ba4d5f-60ce-4142-8ff1-dd85aa53ff42",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "1987",
+        "country": "XE",
+        "release-events": [
+          {
+            "date": "1987",
+            "area": {
+              "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+              "name": "Europe",
+              "sort-name": "Europe",
+              "iso-3166-1-codes": [
+                "XE"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "CDCBS 65299",
+            "label": {
+              "id": "b8d33bec-92cc-40d9-bd92-4eb089b401a9",
+              "name": "CBS"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "e3ca0f75-591d-454b-87c3-7537f83d67bc",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "4d189452-8e08-4962-ad0e-47c62dfa3480",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "8f931351-d2e2-310f-afc6-37b89ddba246",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "disambiguation": "Single Layer SACD",
+        "packaging": "Digipak",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "1999-12-18",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "1999-12-18",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "4988009452425",
+        "asin": "B00005GA18",
+        "label-info": [
+          {
+            "catalog-number": "SRGS 4524",
+            "label": {
+              "id": "7c614735-33ba-4bed-bbb7-89b7e72ce9bb",
+              "name": "SME Records"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "1c0b4f15-9668-37c2-a3f4-05351058e2a5",
+            "format": "SACD",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      },
+      {
+        "id": "eaa2c63d-8f00-419b-b486-97188a43d687",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+        "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+        "count": 1,
+        "title": "Caravanserai",
+        "status": "Official",
+        "disambiguation": "Santa Maria pressing",
+        "packaging": "Gatefold Cover",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Santana",
+            "artist": {
+              "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+              "name": "Santana",
+              "sort-name": "Santana",
+              "disambiguation": "US Latin, blues, & rock band"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Caravanserai",
+          "primary-type": "Album"
+        },
+        "date": "1972-10-11",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1972-10-11",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "KC 31610",
+            "label": {
+              "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+              "name": "Columbia"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "d0d685bc-6c3f-4e01-b7e0-091cf10db7d7",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 10
+          }
+        ]
+      }
+    ]
+  }
+}

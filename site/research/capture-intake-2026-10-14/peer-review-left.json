@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "reviewer": "catalog_left",
+  "status": "approved-identification-and-selected-artwork; final-integration-requirements-noted",
+  "scope": "Read-only visual review of all45 physical front/back pairs, receipt reconciliation, all28 selected middle clean-art faces and all6 selected right clean-art/book faces. No canonical/catalogue/mask/application/asset edits.",
+  "inputs": [
+    "site/research/capture-intake-2026-10-14/reconciliation.json",
+    "tmp/capture-intake-2026-10-14/contact-01.jpg through contact-08.jpg",
+    "site/research/capture-intake-artwork-middle-2026-10-14.json",
+    "site/research/capture-intake-clean-art-right-2026-10-14.json"
+  ],
+  "coverage": {
+    "physicalPairsReviewed": 45,
+    "originalFilesReviewed": 90,
+    "middleSelectedOuterFacesReviewed": 28,
+    "rightSelectedOuterFacesReviewed": 6,
+    "cameraNumberGaps": [3626,3627],
+    "unaccountedCapturedPairs": 0,
+    "newBlockers": 0
+  },
+  "identityAndSequenceChecks": [
+    {"ids":["upper-middle-07","upper-middle-08"],"result":"pass","evidence":"IMG3636/37 explicitly show J.S.D. Band Travelling Days, not a new lower-left61 record. User reports no separate early Box3 sleeve and photographed the preceding anchor. Reconciliation preserves07 and aliases08, rather than inventing a second JSD record."},
+    {"ids":["upper-middle-14","upper-middle-15"],"result":"pass","evidence":"IMG3638/39 show Manfred Mann’s Earth Band Chance. The original source has adjacent blue XBS3498/Chance spine and gray continuation; user’s explicit early-Box3 note supports the15→14 merge."},
+    {"ids":["upper-middle-38","upper-middle-39"],"result":"pass","evidence":"IMG3644/45 show Axis; IMG3646/47 are a separate Leo Kottke front and outer rear, CHR1106 and original programme. Source39 is a separate narrow cream edge with Chrysalis copyright. Keeping39 as a physical jacket is correct."},
+    {"ids":["lower-middle-20","lower-middle-25"],"result":"pass","evidence":"IMG3658/59 show Abbey Road at the requested25 region. Original source visibly contains two separate THE BEATLES ABBEY ROAD spines at20 and25, with David Bowie/Jeff Beck records between;25 immediately precedes White Album26. Reusing clean representative art is acceptable, merging the copies is not."},
+    {"ids":["lower-middle-04","lower-middle-04b","lower-middle-05"],"result":"pass","evidence":"IMG3652/53 show the DG compilation;3654/55 show separate Julian Bream Plays Bach tennis-racket jacket, Westminster9008-8113. User explicitly reported the extra sleeve before Firebird;04b insertion is supported and is distinct from later Bach/Villa-Lobos45."},
+    {"ids":["right-04","right-04b","right-05"],"result":"pass","evidence":"IMG3674/75 show Django/Grappelly GNP9001;3676/77 show Herbie Mann Brazil Blues UAS5636. User explicitly reported two albums before Hubert Laws, and room source has a distinct narrow pale sleeve after the broad Django edge.04b insertion is supported."},
+    {"ids":["right-52"],"result":"pass","evidence":"IMG3678/79 show Roger Dean Views front and dragon-logo outer back. It remains a book, with no vinyl or Spotify requirement. Selected external back is the same historical outer design, not its supporting colophon photograph."},
+    {"ids":["upper-middle-67","upper-middle-68"],"result":"pass-with-held-physical-merge","evidence":"Only one Bette Midler pair3650/51 is captured.68 preferred as the broad cream face and67 held as a possible source-slot alias correctly expresses remaining physical uncertainty; do not present a proven second copy."}
+  ],
+  "artworkChecks": {
+    "middle": "All14 selected front/back pairs depict the correct album’s outer artwork. Moondog Matinee selects the Jook Joint/Blackie’s Pool Hall exteriors rather than inner black title panels; Axis selects the two exterior halves; Electric Ladyland uses US outer portrait designs; labels and lyric interiors are not substituted. Bream and classical/children’s LP faces match photographed catalogues/designs. Representative printing differences are documented.",
+    "right": "Django and Herbie Mann selected faces are actual LP outer front/rear designs with appropriate programmes and catalogues. Views selected front and rear are correct historical paperback outer designs; raw rear candidate still includes its photographic background and must receive the manifest’s documented outer-quad crop before display."
+  },
+  "knownIntegrationRequirements": [
+    {
+      "recordId":"right-52",
+      "requirement":"Apply supplied suggestedOuterQuad to the dealer rear photograph before publishing. The manifest already marks accepted-candidate-needs-outer-face-crop; this is not a newly discovered identity/artwork failure.",
+      "source":"site/research/capture-intake-clean-art-right-2026-10-14.json"
+    },
+    {
+      "recordId":"lower-middle-35",
+      "requirement":"Retain valid clean front and use the actual IMG3663 outer rear as a clearly sourced family-photo fallback unless a verified external rear is acquired. Baseline has no back; do not publish a blank face or a label.",
+      "quickExternalCheck":"Discogs6297034 currently supplies only one225px front. Collector’s WGS8196 page and exact-title search did not yield a documented outer back during bounded follow-up."
+    },
+    {
+      "recordId":"lower-middle-43",
+      "requirement":"Retain valid clean front and use actual IMG3665 outer rear as family-photo fallback. This rear repeats the front design but adds Canadian licensing/copyright blocks along the bottom, so a front duplicate should not be claimed as its exact rear.",
+      "quickExternalCheck":"Discogs5987501 supplies two front photographs and six media labels; no documented outer back. Source images0/1 were visually checked. Family3665 explicitly shows Licensed and Distributed by RCA Limited and Printed in Canada."
+    }
+  ],
+  "findings": [],
+  "verdict": "Approve the45-pair content mapping and the selected middle/right external faces. No newly found blocker. Publication completeness remains conditional on the three already-known crop/fallback requirements above. Other skipped conditional source edges remain honestly unresolved; they are not unaccounted photographs."
+}

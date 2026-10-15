@@ -1,0 +1,1839 @@
+{
+  "version": 1,
+  "status": "proposal_only",
+  "date": "2026-10-14",
+  "frozenGuideVersion": "7ac3efbb41aa",
+  "scope": "Box1–2 captures IMG_3588 through IMG_3637, matched by visible jacket contents; no canonical data, source image, mask or served asset edits.",
+  "coordinateConventions": {
+    "rotation": "Clockwise degrees applied AFTER EXIF orientation; relative to root previews.",
+    "manualOuterQuad": "If supplied: [TL,TR,BR,BL], normalized preview coordinates with top-left origin.",
+    "visionCandidateIndex": "Zero-based ordinary Vision rectangle candidate index; not Apple document-segmentation candidate index."
+  },
+  "summary": {
+    "photosReviewed": 48,
+    "physicalFrontBackPairs": 23,
+    "knownAlbumPairs": 13,
+    "newOrCorrectedIdentities": 10,
+    "guideRequestedLeftPairs": 25,
+    "filenameGaps": [
+      "IMG_3626.HEIC",
+      "IMG_3627.HEIC"
+    ],
+    "nextBoxBeginsAt": "IMG_3636.HEIC (existing J.S.D. Band Travelling Days, upper-middle07; confirmed independently by middle reviewer)",
+    "noFilenameOffsetAssumed": true,
+    "leftPhotos": 46,
+    "boundaryHandoffPairs": 1
+  },
+  "pairs": [
+    {
+      "intakePair": 1,
+      "guidePair": 1,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3588.HEIC",
+        "IMG_3589.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-06"
+      ],
+      "identity": {
+        "title": "Sing It Again Rod",
+        "artist": "Rod Stewart",
+        "year": 1973,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "Mercury; catalogue digits on the worn edge are not clean enough to transcribe."
+        ]
+      },
+      "existingIdentity": {
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "proposalType": "new_identity",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "A separate die-cut Rod Stewart sleeve is present in the first requested brown-edge region; it is not a guessed Anthology leaf. Bind to06 provisionally by source-region/order, without moving any other slot.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3588.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3588.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3588.jpg",
+          "sha256": "8994b0561315737bd37739253d8bba1745a3167e12db2c1ae61504b512c9c060",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "SING IT AGAIN ROD / ROD STEWART is readable on the left sleeve edge; distinctive die-cut tumbler artwork; Mercury logo; 1973 PHONOGRAM INC."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Special die-cut glass outline; square document crop includes floor; root handling.",
+          "captureQuality": "Die-cut physical sleeve, not a square cover. Needs a special contour; outer lip is curved/open."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3589.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3589.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3589.jpg",
+          "sha256": "27a297322f6d1b1a1cc504c941a850b089a24d2cca47d5432f6b237e27efcb9c",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Reason to Believe, You Wear It Well, Mandolin Wind, Country Comfort, Maggie May, Handbags and Gladrags; Street Fighting Man, Twistin’ the Night Away, Lost Paraguayos, (I Know) I’m Losing You, Pinball Wizard, Gasoline Alley."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Special die-cut glass outline and curved/open lip; root handling.",
+          "captureQuality": "Die-cut physical sleeve, not a square cover. Needs a special contour; outer lip is curved/open."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    },
+    {
+      "intakePair": 2,
+      "guidePair": 2,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3590.HEIC",
+        "IMG_3591.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-08"
+      ],
+      "identity": {
+        "title": "The Hissing of Summer Lawns",
+        "artist": "Joni Mitchell",
+        "year": 1975,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "7ES-1051"
+        ]
+      },
+      "existingIdentity": {
+        "title": "The Hissing of Summer Lawns",
+        "artist": "Joni Mitchell",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_anchor",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Photo identifies existing08, not a new anonymous07 album. It supports overlap/fold suspicion for07 but does not by itself prove that07 is a gatefold leaf. Do not add a second Joni copy or silently collapse07.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3590.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3590.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3590.jpg",
+          "sha256": "9d8483eff9456b1d160723075dd69e6da0bd8dd1e460e58e47c2e899bc18b0dc",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "THE HISSING OF SUMMER LAWNS JONI MITCHELL across top; green/white hunter/city cover."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3591.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3591.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3591.jpg",
+          "sha256": "0a693ff9a2e26f58702799815c4b04c0a6817d1e29c5e10318eb5024ef9fb926",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "7ES-1051; In France They Kiss on Main Street, The Jungle Line, Edith and the Kingpin, Don’t Interrupt the Sorrow, Shades of Scarlett Conquering, title track, The Boho Dance, Harry’s House/Centerpiece, Sweet Bird, Shadows and Light; WEA Music of Canada."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 3,
+      "guidePair": 3,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3592.HEIC",
+        "IMG_3593.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-19"
+      ],
+      "identity": {
+        "title": "Graham Nash / David Crosby",
+        "artist": "Graham Nash & David Crosby",
+        "year": 1972,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "SD7220 remains source-spine evidence, not newly legible on this rear."
+        ]
+      },
+      "existingIdentity": {
+        "title": "Graham Nash / David Crosby",
+        "artist": "Crosby & Nash",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_anchor",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Existing19 photographed as the physical anchor for the thin20 edge. No second independent black jacket is established by this pair; do not create duplicate Crosby/Nash records.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3592.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3592.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3592.jpg",
+          "sha256": "5320479006e1a306c53f9d978f55f602699690ca999ae78261d0337f5a61cc2d",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "graham nash / david crosby; black jacket with small two-musician portrait."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3593.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3593.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3593.jpg",
+          "sha256": "72799795132a543816a33758aa87357f6b307356f80e223aad32408010e34876",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Black outer rear with two silhouettes/shadows in a spotlight, visually matching the same jacket. No readable catalogue text on this face."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 4,
+      "guidePair": 4,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3594.HEIC",
+        "IMG_3595.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-36"
+      ],
+      "identity": {
+        "title": "Caravanserai",
+        "artist": "Santana",
+        "year": 1972,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": []
+      },
+      "existingIdentity": {
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "proposalType": "new_identity",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "Strong photographic identification of Santana Caravanserai in the worn-blue36 region; year/pressing should be researched or transcribed from the disc rather than inferred from cover condition.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3594.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3594.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3594.jpg",
+          "sha256": "b195db1ee8d9adb3cae56e1451c50a480016d7073fcf33779019f7d125d5673e",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Santana / Caravanserai at upper right; orange sun, blue desert and camel caravan."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3595.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3595.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3595.jpg",
+          "sha256": "e5688e29359079111c648553157be95983910c339f5d9d95ae5b12a25cd51a28",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Continuation of blue caravan landscape under a bright star; outer rear text/catalogue too small/worn to establish from this capture."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Visible fringe/floor wedge across lower edge; full outer back needs manual quad.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    },
+    {
+      "intakePair": 5,
+      "guidePair": 5,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3596.HEIC",
+        "IMG_3597.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-39"
+      ],
+      "identity": {
+        "title": "Demon in Disguise",
+        "artist": "David Bromberg",
+        "year": 1972,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "KC31753"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Demon in Disguise",
+        "artist": "David Bromberg",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_anchor",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Existing39 is captured for the suspected40 duplicate edge. Photograph shows one Demon in Disguise jacket pair; it does not establish a second40 jacket.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3596.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3596.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3596.jpg",
+          "sha256": "c6d5c1f24a342e08fb9301843538bd851eb1bd0b1aaf4b80d6de334273d41633",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "DAVID BROMBERG / DEMON IN DISGUISE; Columbia KC31753; seated portrait with glasses."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Fringe/rug wedge under lower edge; retain full portrait and top title.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3597.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3597.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3597.jpg",
+          "sha256": "e6c21d5774a733f5d4ffb458d8e6161f61a8897bec204ef9ea2b8d8fbda7145a",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "DAVID BROMBERG / DEMON IN DISGUISE; KC31753; Hardworkin’ John, Sharon, Medley of Irish Fiddle Tunes, Diamond Lil, Jugband Song, title track, Tennessee Waltz, Mr. Bojangles, Sugar in the Gourd; ©1972 CBS."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 6,
+      "guidePair": 6,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3598.HEIC",
+        "IMG_3599.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-50"
+      ],
+      "identity": {
+        "title": "Brief Replies",
+        "artist": "Ten Wheel Drive with Genya Ravan",
+        "year": 1970,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "Polydor2425 022"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Can't Buy a Thrill",
+        "artist": "Steely Dan",
+        "confidence": "probable"
+      },
+      "proposalType": "identity_correction",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "The photographed worn-purple jacket is Brief Replies, not the tentative Steely Dan Can’t Buy a Thrill. Proposed logical replacement for50; original50 mask was known to overlap OMD, so geometry must be rebound to the real sleeve rather than assuming its old polygon is exact.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3598.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3598.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3598.jpg",
+          "sha256": "25db162307205e06c3bb9749c105743b5edc9216691eac6f8616e77bcbe154f5",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "TEN WHEEL DRIVE WITH GENYA RAVAN / Brief Replies; distinctive orange-purple distorted figures on a black sleeve."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Detected polygon follows a diagonal within the art, not the full sleeve.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Small fringe wedge under lower edge; refine outer lower corners.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3599.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3599.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3599.jpg",
+          "sha256": "ba5f8eb405e9840f8d00eecd19a6f02bfc656d30cf2a42e5b7535477771f28cc",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Brief Replies; Polydor2425 022; Morning Much Better, title track, Pulse, Come Live With Me, Stay With Me, How Long Before I’m Gone, Last of the Line, Interlude: A View of Soft."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    },
+    {
+      "intakePair": 7,
+      "guidePair": 7,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3600.HEIC",
+        "IMG_3601.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-52"
+      ],
+      "identity": {
+        "title": "No Stranger to Danger",
+        "artist": "Payola$",
+        "year": 1982,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "SP9070"
+        ]
+      },
+      "existingIdentity": {
+        "title": "No Stranger to Danger",
+        "artist": "Payola$",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_anchor_instead_of_requested_neighbor",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "This pair is existing52 Payola$, although the nearby guide target was53 The Up Escalator. Do not attach these images to Graham Parker or replace53 based on filename order. No new photo of The Up Escalator is present in the reviewed left range.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3600.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3600.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3600.jpg",
+          "sha256": "5bfca0ce9b1295142d6648b7ba7d61af3413980816a88a848e89e0cbdf251aeb",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "PAYOLA$ / no stranger to danger; black front with portrait."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Both candidates isolate/diagonally truncate the portrait area, not the full jacket.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3601.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3601.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3601.jpg",
+          "sha256": "392caecf02f9a143ee459c54db5f946027d74bb58ce4a29686949cc75ca477c7",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "SP9070; Romance, Eyes of a Stranger, Some Old Song, Rose, Hastings Street, Youth, Lights to Change, Mystery to Me, Pennies into Gold, Screaming, Rockers; Produced by Mick Ronson; A&M Records of Canada."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 8,
+      "guidePair": 8,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3602.HEIC",
+        "IMG_3603.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-54"
+      ],
+      "identity": {
+        "title": "Construction #1",
+        "artist": "Ten Wheel Drive with Genya Ravan",
+        "year": 1969,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "Polydor543.112"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Construction #1",
+        "artist": "Ten Wheel Drive with Genya Ravan",
+        "confidence": "probable"
+      },
+      "proposalType": "existing_identity_confirmed",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Confirms Construction #1 as a separate physical jacket and preserves the distinction from the newly photographed Brief Replies.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3602.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3602.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3602.jpg",
+          "sha256": "5388f71c1368d3a309b10e7953632f38334387d74f5b1320a6deca7b57fbf4da",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "TEN WHEEL DRIVE WITH GENYA RAVAN / CONSTRUCTION #1; red photographic cover; Polydor543.112."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidate cuts the lower-right sleeve with a diagonal.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3603.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3603.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3603.jpg",
+          "sha256": "a0168ba6059ab9613345a7f8805af32c9ddb8f920385279ee681ed794c35a042",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Construction #1; Polydor543.112; Tightrope, Lapidary, Eye of the Needle, Candy Man Blues; Ain’t Gonna Happen, Polar Bear Rug, House in Central Park, I Am a Want Ad; manufactured/distributed by Polydor Records Canada Limited."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidates are inset photographs/logo, not the full outer back.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 9,
+      "guidePair": 9,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3604.HEIC",
+        "IMG_3605.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-55"
+      ],
+      "identity": {
+        "title": "The Pointer Sisters",
+        "artist": "The Pointer Sisters",
+        "year": 1973,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "BTS48 is existing spine evidence; this photograph’s small rear code was not independently read."
+        ]
+      },
+      "existingIdentity": {
+        "title": "The Pointer Sisters",
+        "artist": "The Pointer Sisters",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_identity_confirmed",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Confirms55; use the entire white bordered outer back, not only its inset band portrait.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3604.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3604.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3604.jpg",
+          "sha256": "28aa4d9cf377d01b93d41f08f641bfe788a39276155bfe62b25f5fbc187c0f39",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "The Pointer Sisters; seated quartet in period clothing, original debut front design."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3605.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3605.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3605.jpg",
+          "sha256": "306e084cb61c9ed0030678c66d683d0fb94369208f51d1dbffc3a8a85b8a7ad9",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "THE POINTER SISTERS; Yes We Can Can, Cloudburst, Old Songs, River Boulevard; That’s How I Feel, Sugar, Pains and Tears, Naked Foot, Wang Dang Doodle; produced by David Rubinson & Friends."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidates are the inset band photograph, not the full white outer sleeve.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 10,
+      "guidePair": 10,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3606.HEIC",
+        "IMG_3607.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-56"
+      ],
+      "identity": {
+        "title": "Between the Buttons",
+        "artist": "The Rolling Stones",
+        "year": 1967,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "London MONO LL3499; rear liner reference PS499/LL3499"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Between the Buttons",
+        "artist": "The Rolling Stones",
+        "confidence": "probable"
+      },
+      "proposalType": "pressing_correction",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Actual family jacket is labelled MONO LL3499. Earlier PS499 stereo-only interpretation should be corrected in physical edition provenance; digital stereo playback remains a different mastering/edition of the same album programme.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3606.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3606.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3606.jpg",
+          "sha256": "e6b02c0cc57a86b4fec883fc79addb093b73cb6082166ffd1180140c0aac672d",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "MONO LL3499 is clearly printed at upper left once rotated upright; hazy Rolling Stones portrait."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Large rug/fringe wedge on right of sideways proof; full sleeve needs manual quad.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3607.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3607.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3607.jpg",
+          "sha256": "effa8154da2ee7e643dc5a0c23adc43e0883be651beccdf977d3ac98a2c5cb2d",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Between the Buttons; printed US programme begins Let’s Spend the Night Together, Yesterday’s Papers, Ruby Tuesday; rear LINERPS499/LL3499."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 11,
+      "guidePair": 11,
+      "box": "upper-left",
+      "filenames": [
+        "IMG_3608.HEIC",
+        "IMG_3609.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-left-57"
+      ],
+      "identity": {
+        "title": "Bruised Orange",
+        "artist": "John Prine",
+        "year": 1978,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "Asylum6E-139"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Bruised Orange",
+        "artist": "John Prine",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_identity_confirmed",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Confirms57. The rear must include all outer white text/margins; current automatic proof selects the inset band photo and is unsuitable.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3608.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3608.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3608.jpg",
+          "sha256": "5b9d4685e7abc6f2d70de8e53c63096c7a4910955faa9d26575b747261af9629",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "JOHN PRINE / BRUISED ORANGE; monochrome head-and-shoulders portrait."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidate cuts diagonally through the head/portrait.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3609.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3609.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3609.jpg",
+          "sha256": "2a21281bbb6caa2f7b4cda364620aaea94937b1a197ef0a0162133b06b75bf3b",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "6E-139; Fish and Whistle, There She Goes, If You Don’t Want My Love, That’s the Way That the World Goes ’Round, Bruised Orange (Chain of Sorrow); Sabu Visits the Twin Cities Alone, Aw Heck, Crooked Piece of Time, Iron Ore Betty, The Hobo Song; WEA Music of Canada; ©1978."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidates are inset band photographs, not the full white outer sleeve.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "CRITICAL: current proof isolates the inset band photograph and cuts off outer track/credit text.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 12,
+      "guidePair": 12,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3610.HEIC",
+        "IMG_3611.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-07"
+      ],
+      "identity": {
+        "title": "Magicians Hat",
+        "artist": "Bo Hansson",
+        "year": 1972,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "CharismaFC6062"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Unknown title",
+        "artist": "Van der Graaf Generator",
+        "confidence": "unknown"
+      },
+      "proposalType": "identity_correction",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "Corrects the tentative Van der Graaf Generator artist reading. The shared Charisma label did not establish that artist; the photographed album is Bo Hansson. Original album dates to1972; the English-language Canadian jacket carries1973 copyright, which is edition evidence rather than the original release year.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3610.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3610.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3610.jpg",
+          "sha256": "8c627349423573155b4490d7fa536645e64c2ee891f1681bc633347d326e8fac",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "magicians hat / BO hansson; forest/mushroom artwork."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidate is only the illustrated panel; it omits the black title strip.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3611.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3611.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3611.jpg",
+          "sha256": "d046dc653a8548ba5d0f93532abcd7df9da704a95518f05b72f04c12c020c6e8",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "BO hansson / magicians hat; FC6062; The City, Divided Reality, Elidor, Before the Rain, Folke, Playing Downhill into the Downs, The Sun (Parallel or90°), Excursion with Complications; The Famous Charisma Label; Canadian WEA; ©1973 Stratton-Smith Productions."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    },
+    {
+      "intakePair": 13,
+      "guidePair": 13,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3612.HEIC",
+        "IMG_3613.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-12"
+      ],
+      "identity": {
+        "title": "The Ecstasy of Rita Joe",
+        "artist": "Ann Mortifee, Chief Dan George & Paul Horn",
+        "year": 1973,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "United ArtistsUA-LA126-F"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "proposalType": "new_identity",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "A distinct The Ecstasy of Rita Joe sleeve, not an Electric Ladyland fold. Principal front credits and back composer/performer credits are recorded separately; outer rear is artwork/credits, not a missing track-list photo.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3612.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3612.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3612.jpg",
+          "sha256": "9512d7073aadac9003ce8a4b3acf3310eb8972d487a8ad935b511bf14798dc25",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "The Ecstasy of Rita Joe; CHIEF DAN GEORGE / PAUL HORN / ANN MORTIFEE; United Artists UA-LA126-F; Frank Lewis illustration."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3613.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3613.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3613.jpg",
+          "sha256": "46501b17e3b0e9279d41ac3b8780de81169abc90ff027d880caadcc7840787af",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "WORDS BY GEORGE RYGA; MUSIC BY ANN MORTIFEE / WILLIE DUNN; FEATURING JOHN AVISON / PETER HAWORTH, with matching purple circular illustration."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    },
+    {
+      "intakePair": 14,
+      "guidePair": 14,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3614.HEIC",
+        "IMG_3615.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-18"
+      ],
+      "identity": {
+        "title": "A Trick of the Tail",
+        "artist": "Genesis",
+        "year": 1976,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "AtcoSD36-129"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "proposalType": "new_identity",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "Identifies the separate worn cream/handwritten18 jacket as Genesis. Do not confuse it with Selling England by the Pound elsewhere in the collection.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3614.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3614.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3614.jpg",
+          "sha256": "71fa4cdc4b14059c5638af59425d2344d870f5a8fd2ad7ebcd4a32cad98a1f20",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "GENESIS / A Trick of the Tail; cream cover with red character illustrations."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3615.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3615.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3615.jpg",
+          "sha256": "6eec8855229d2e7134b4ee1c94f39c540bb7379ce63b8bb99a0fb443e12f9fb6",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "ATCO SD36-129; Dance on a Volcano, Entangled, Squonk, Mad Man Moon, Robbery Assault & Battery, Ripples, A Trick of the Tail, Los Endos; ©1976 Atlantic; WEA Music of Canada."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    },
+    {
+      "intakePair": 15,
+      "guidePair": 15,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3616.HEIC",
+        "IMG_3617.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-45"
+      ],
+      "identity": {
+        "title": "What Were Once Vices Are Now Habits",
+        "artist": "The Doobie Brothers",
+        "year": 1974,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "Warner Bros.; catalogue digits not confidently read from this outer capture."
+        ]
+      },
+      "existingIdentity": {
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "proposalType": "new_identity",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "A separate Doobie Brothers album exists at the worn ©1974 Warner edge. It is not merely the rear leaf of Before the Flood. Title band must be retained when cropping.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3616.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3616.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3616.jpg",
+          "sha256": "b9b720dd3e028c906010f59790049706358345a9cbfa2851ea7e176e8de7d063",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "the doobie brothers / what were once vices are now habits; red live-stage front with black title band."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidates select the red inset stage photograph; title band is outside.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "CRITICAL: front title strip is cut off and one edge remains diagonal; use full black outer sleeve.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3617.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3617.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3617.jpg",
+          "sha256": "4cf3eb9f173e85e5287eede176381373232986e1d2ff6106c2ae3518964489ad",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Same title and band; Black Water, Another Park Another Sunday, Eyes of Silver, Road Angel, Song to See You Through and the remaining original programme; produced by Ted Templeman; ©1974 Warner Bros; WEA Canada."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidates select the inset stage photograph, not the full outer back.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    },
+    {
+      "intakePair": 16,
+      "guidePair": 16,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3618.HEIC",
+        "IMG_3619.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-46"
+      ],
+      "identity": {
+        "title": "Neiges",
+        "artist": "André Gagnon",
+        "year": 1975,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "London Phase4StereoSP.44252"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Neiges",
+        "artist": "André Gagnon",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_identity_confirmed",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Confirms46. Pale rear is legitimately faint and photographed under a strong shadow; retain it as the actual outer back rather than replacing it with a fabricated stronger print.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3618.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3618.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3618.jpg",
+          "sha256": "f9038c459c34595395844d7ba0df7b8c34de16e4322cf9fd6013aba61e9ce62a",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "ANDRÉ GAGNON / Neiges; pale stippled portrait."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3619.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3619.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3619.jpg",
+          "sha256": "251cf4c79b555d9f62f999fa26ee130093fe455c95c0ef6444a93e5e7917136a",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "PHASE4STEREO / SP.44252; L’Ouverture-Éclair, Dédéthoven, L’Inoubliable, Ta Samba, Petit Concerto pour Carignan et Orchestre, Flashback, Wow, Neiges, Chanson pour Renée Claude; London Records of Canada."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 17,
+      "guidePair": 18,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3620.HEIC",
+        "IMG_3621.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-48"
+      ],
+      "identity": {
+        "title": "David Bromberg",
+        "artist": "David Bromberg",
+        "year": 1971,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "ColumbiaC31104"
+        ]
+      },
+      "existingIdentity": {
+        "title": "David Bromberg",
+        "artist": "David Bromberg",
+        "confidence": "probable"
+      },
+      "proposalType": "existing_identity_confirmed",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Confirms tentative C31104 code/title and48 identity. No separate lower-left47 jacket is photographed between Neiges and this album; possible skipped fold/overlap remains unresolved.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3620.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3620.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3620.jpg",
+          "sha256": "bb99fc05b97cc281e447ba1a90bbf032590730cdb09c28bd2eb1e9b59b34a249",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "David Bromberg; Columbia C31104; sparse line drawing on cream jacket."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3621.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3621.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3621.jpg",
+          "sha256": "514b1d118b2f418465f39916aa7e587c6e5966ee366441ad2c380102f5ceca12",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "DAVID BROMBERG (Program Copy); C31104; Last Song for Shelby Jean, Suffer to Sing the Blues, The Boggy Road to Milledgeville, Dehlia; ©1971 credits; extensive Alfred G. Aronowitz text."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidate selects only the small band photograph inside the rear text.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 18,
+      "guidePair": 19,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3622.HEIC",
+        "IMG_3623.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-49"
+      ],
+      "identity": {
+        "title": "Humans",
+        "artist": "Bruce Cockburn",
+        "year": 1980,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "True North/CBS Canada; exact small jacket catalogue not read."
+        ]
+      },
+      "existingIdentity": {
+        "title": "Humans",
+        "artist": "Bruce Cockburn",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_identity_confirmed",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Confirms Humans. Existing SR2107/SHELTER text associated with49 belongs to the separately photographed J.J.Cale Okie jacket, not this True North album; revise that spine/code attribution.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3622.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3622.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3622.jpg",
+          "sha256": "25c38b1b58d48f6291217a1a60adb0e21a1d4efe432abdf8783b3b343d93f239",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "BRUCE COCKBURN / HUMANS; orange/black/cream line-frame portrait design."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3623.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3623.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3623.jpg",
+          "sha256": "4b7e7a6568a76e35a2c0dbfe5176c50b3af715b9a262fe6c4dad94310ac97fdc",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "True North logo; original ten tracks Grim Travellers through The Rose Above the Sky; High Romance Music Ltd1980; Golden Mountain Music; CBS Records Canada."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidate selects the black inset live photograph, not the orange/cream outer design.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 19,
+      "guidePair": 20,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3624.HEIC",
+        "IMG_3625.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-50"
+      ],
+      "identity": {
+        "title": "Okie",
+        "artist": "J.J. Cale",
+        "year": 1974,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "ShelterSR2107"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Unidentified sleeve",
+        "artist": "Unidentified",
+        "confidence": "unknown"
+      },
+      "proposalType": "new_identity",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "Newly established physical Okie sleeve. Source49/50 masks were known to cross neighboring text: SR2107/Shelter belongs to Okie, while True North belongs to Humans. Rebind geometry based on actual spine edges before assuming50 polygon is exact.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3624.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3624.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3624.jpg",
+          "sha256": "8a7e2dcb596d63b5eb7ba987233ef76f29eb3c69e055966b053918a7dc17ea2f",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "J.J.CALE / Okie on a stamp within the four-panel cover (red drawers, steering wheel, guitar/player and landscape)."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Detected panels/diagonals do not reliably include the complete white outer border.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Rug/fringe wedge on right; cover remains trapezoidal rather than a full rectified square.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3625.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3625.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3625.jpg",
+          "sha256": "0c3a2aa3b2f9c8f7ec18d0558238e4416c02b6e3a76bea819a7682222e7105d2",
+          "clockwiseRotationAfterExif": 90,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "SR2107; Crying, I’ll Be There (If You Ever Want Me), Starbound, Rock and Roll Records, The Old Man and Me, Everlovin’ Woman; Cajun Moon, I’d Like to Love You Baby, Anyway the Wind Blows, Precious Memories, Okie, I Got the Same Old Blues; Produced by Audie Ashworth."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable_after_rotation",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    },
+    {
+      "intakePair": 20,
+      "guidePair": 21,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3628.HEIC",
+        "IMG_3629.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-51"
+      ],
+      "identity": {
+        "title": "Pat Garrett & Billy the Kid",
+        "artist": "Bob Dylan",
+        "year": 1973,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "ColumbiaKC32460"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Pat Garrett & Billy the Kid",
+        "artist": "Bob Dylan",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_identity_confirmed",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Confirms51 title and Canadian Columbia catalogue; no missing 3626/27 files are needed to pair3628/29.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3628.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3628.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3628.jpg",
+          "sha256": "59d5dfd2253da2b27379aec7740dd4f2407556cc3c9567444bd6a600fc8686f6",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Bob Dylan/Soundtrack PAT GARRETT & BILLY THE KID; ColumbiaKC32460."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3629.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3629.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3629.jpg",
+          "sha256": "76e26c5bae9f04e4bacd60c5b881b4dc1040cd329baa7ceb89559e0ce8b9af34",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Soundtrack by Bob Dylan; original themes/Billy tracks and Knockin’ on Heaven’s Door; produced by Gordon Carroll; dedicated to Sam Peckinpah."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 21,
+      "guidePair": 22,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3630.HEIC",
+        "IMG_3631.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-52"
+      ],
+      "identity": {
+        "title": "Never for Ever",
+        "artist": "Kate Bush",
+        "year": 1980,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "Exact rear catalogue string is not confidently read."
+        ]
+      },
+      "existingIdentity": {
+        "title": "Never for Ever",
+        "artist": "Kate Bush",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_identity_confirmed",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Confirms52 album presence. Crop out the rug/fringe outside the physical sleeve while retaining the original bottom legal text.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3630.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3630.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3630.jpg",
+          "sha256": "74bfae4e313c4611aca6b22559d0026d5c98fd47325402806fe28928f416c20c",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Never for Ever / Kate Bush; original illustrated front."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Rug/fringe included below physical jacket; refine full sleeve outer bottom corners.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3631.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3631.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3631.jpg",
+          "sha256": "6e7097dff53c8d354cd88b1bf055c2b97d07b2f0fa3e16e7267fe564fc4e125b",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Matching outer rear landscape/butterfly design; small copyright/label text at bottom."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Large fringe triangle below physical jacket; preserve legal text at printed bottom edge.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Original photographed copy confirmed; exact record pressing/matrix is not established without the disc."
+    },
+    {
+      "intakePair": 22,
+      "guidePair": 23,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3632.HEIC",
+        "IMG_3633.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-53"
+      ],
+      "identity": {
+        "title": "Sun Secrets",
+        "artist": "The Eric Burdon Band",
+        "year": 1974,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "CapitolST-11359"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Alchemy",
+        "artist": "The Third Ear Band",
+        "confidence": "probable"
+      },
+      "proposalType": "identity_correction",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "Replaces the earlier Third Ear Band / Alchemy interpretation for the requested region. Legacy source crop lower-left53 visibly contains ERIC BURDON BAND, supporting this binding. No Alchemy cover is present in this capture batch; do not retain the old identity-dependent artwork/Spotify link on a Sun Secrets record.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3632.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3632.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3632.jpg",
+          "sha256": "6ab8ca906c3f6fd5ec9ecc5679e908be7dd7cf2f23328a12afb1b8f27fc60707",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "THE ERIC BURDON BAND / Sun Secrets; ST-11359 at upper left; Capitol; four-musician photo."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "No ordinary rectangle candidate reliably selected; use full physical outer edge.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3633.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3633.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3633.jpg",
+          "sha256": "8d4a37b2e33d2054167d78559b94b352643904b4cc2f35ca6dc402eeffa7edfe",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "Don’t Let Me Be Misunderstood, It’s My Life, Letter from the County Farm, Ring of Fire, Sun Secrets, The Real Me, When I Was Young; vocals Eric Burdon; ©1974 Capitol; manufactured in Canada; ST-11359 visible at bottom."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    },
+    {
+      "intakePair": 23,
+      "guidePair": 24,
+      "box": "lower-left",
+      "filenames": [
+        "IMG_3634.HEIC",
+        "IMG_3635.HEIC"
+      ],
+      "proposedRecordIds": [
+        "lower-left-57"
+      ],
+      "identity": {
+        "title": "Dire Straits",
+        "artist": "Dire Straits",
+        "year": 1978,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "MercurySRM-1-1197"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Unknown title",
+        "artist": "Pure Prairie League",
+        "confidence": "unknown"
+      },
+      "proposalType": "identity_correction",
+      "slotBindingConfidence": "probable",
+      "bindingAndCorrections": "The captured jacket for this local request is the Dire Straits debut, not the tentative Pure Prairie League artist. Proposed57 binding needs source-spine reinspection because the old text attribution was weak; do not invent a Pure Prairie League title to keep the old guess.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3634.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3634.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3634.jpg",
+          "sha256": "0f1a95da36a497f47055fbea5cca6b94908f45fd956af2c88b08da82ec868703",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "DIRE STRAITS; cream jacket with doorway/figure painting."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidate truncates the lower edge with a diagonal.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3635.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3635.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3635.jpg",
+          "sha256": "09ee0eba43330e7427c5dad92844aefe4e2590f3b9d68c7052d455e441544b23",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "SRM-1-1197; Mark Knopfler, David Knopfler, John Illsley, Pick Withers; Down to the Waterline, Water of Love, Setting Me Up, Six Blade Knife, Southbound Again, Sultans of Swing, In the Gallery, Wild West End, Lions; ©1978 Phonogram."
+          ],
+          "visionRectangleCandidateIndex": 0,
+          "visionCandidateNote": "Candidate0 follows the full outer sleeve; refine a few edge pixels to preserve wear.",
+          "automaticDocumentCropReview": "acceptable",
+          "cropIssue": null,
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    }
+  ],
+  "newlyEstablishedAlbums": [
+    {
+      "recordId": "upper-left-06",
+      "title": "Sing It Again Rod",
+      "artist": "Rod Stewart",
+      "files": [
+        "IMG_3588.HEIC",
+        "IMG_3589.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    },
+    {
+      "recordId": "upper-left-36",
+      "title": "Caravanserai",
+      "artist": "Santana",
+      "files": [
+        "IMG_3594.HEIC",
+        "IMG_3595.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    },
+    {
+      "recordId": "upper-left-50",
+      "title": "Brief Replies",
+      "artist": "Ten Wheel Drive with Genya Ravan",
+      "files": [
+        "IMG_3598.HEIC",
+        "IMG_3599.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    },
+    {
+      "recordId": "lower-left-07",
+      "title": "Magicians Hat",
+      "artist": "Bo Hansson",
+      "files": [
+        "IMG_3610.HEIC",
+        "IMG_3611.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    },
+    {
+      "recordId": "lower-left-12",
+      "title": "The Ecstasy of Rita Joe",
+      "artist": "Ann Mortifee, Chief Dan George & Paul Horn",
+      "files": [
+        "IMG_3612.HEIC",
+        "IMG_3613.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    },
+    {
+      "recordId": "lower-left-18",
+      "title": "A Trick of the Tail",
+      "artist": "Genesis",
+      "files": [
+        "IMG_3614.HEIC",
+        "IMG_3615.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    },
+    {
+      "recordId": "lower-left-45",
+      "title": "What Were Once Vices Are Now Habits",
+      "artist": "The Doobie Brothers",
+      "files": [
+        "IMG_3616.HEIC",
+        "IMG_3617.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    },
+    {
+      "recordId": "lower-left-50",
+      "title": "Okie",
+      "artist": "J.J. Cale",
+      "files": [
+        "IMG_3624.HEIC",
+        "IMG_3625.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    },
+    {
+      "recordId": "lower-left-53",
+      "title": "Sun Secrets",
+      "artist": "The Eric Burdon Band",
+      "files": [
+        "IMG_3632.HEIC",
+        "IMG_3633.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    },
+    {
+      "recordId": "lower-left-57",
+      "title": "Dire Straits",
+      "artist": "Dire Straits",
+      "files": [
+        "IMG_3634.HEIC",
+        "IMG_3635.HEIC"
+      ],
+      "bindingConfidence": "probable"
+    }
+  ],
+  "physicalGroupDecisions": [
+    {
+      "ids": [
+        "upper-left-07",
+        "upper-left-08"
+      ],
+      "capturedId": "upper-left-08",
+      "files": [
+        "IMG_3590.HEIC",
+        "IMG_3591.HEIC"
+      ],
+      "decision": "Known Joni jacket captured;07 may be a fold/overlap. No second copy demonstrated; do not collapse without physical confirmation."
+    },
+    {
+      "ids": [
+        "upper-left-19",
+        "upper-left-20"
+      ],
+      "capturedId": "upper-left-19",
+      "files": [
+        "IMG_3592.HEIC",
+        "IMG_3593.HEIC"
+      ],
+      "decision": "Known Crosby/Nash jacket captured; no second20 record established."
+    },
+    {
+      "ids": [
+        "upper-left-39",
+        "upper-left-40"
+      ],
+      "capturedId": "upper-left-39",
+      "files": [
+        "IMG_3596.HEIC",
+        "IMG_3597.HEIC"
+      ],
+      "decision": "Known Demon in Disguise jacket captured; no second40 record established."
+    },
+    {
+      "ids": [
+        "lower-left-46",
+        "lower-left-47",
+        "lower-left-48"
+      ],
+      "capturedIds": [
+        "lower-left-46",
+        "lower-left-48"
+      ],
+      "files": [
+        "IMG_3618.HEIC",
+        "IMG_3619.HEIC",
+        "IMG_3620.HEIC",
+        "IMG_3621.HEIC"
+      ],
+      "decision": "No distinct47 jacket appears between Neiges and David Bromberg in the returned sequence. Treat as a skipped conditional request, not a missing filename offset or automatic deletion."
+    },
+    {
+      "ids": [
+        "lower-left-49",
+        "lower-left-50"
+      ],
+      "capturedIds": [
+        "lower-left-49",
+        "lower-left-50"
+      ],
+      "decision": "Two distinct jackets: Humans has True North/CBS credits; Okie has ShelterSR2107. Old spine-code fields cross the neighboring sleeves; preserve albums, rebind geometry/text separately."
+    }
+  ],
+  "unphotographedOrUnresolved": [
+    {
+      "recordId": "upper-left-53",
+      "title": "The Up Escalator",
+      "reason": "The nearby guide step returned Payola$52 instead; no Graham Parker front/back pair is present in this range. Existing identity should not be overwritten merely because of guide order."
+    },
+    {
+      "recordId": "lower-left-47",
+      "reason": "Conditional pale-edge request appears skipped; whether it is a fold or separate jacket remains physically unconfirmed."
+    },
+    {
+      "recordIds": [
+        "upper-left-07",
+        "upper-left-20",
+        "upper-left-40"
+      ],
+      "reason": "Photos show already-known neighbor jackets. They support overlap/fold suspicions, not proof of second records or proof permitting slot deletion."
+    },
+    {
+      "recordId": "lower-left-53",
+      "oldTitle": "Alchemy",
+      "reason": "The returned jacket is Sun Secrets, and legacy local spine crop reads Eric Burdon Band. No Alchemy jacket was returned; parent should re-evaluate any separate evidence of Alchemy presence, not silently carry its old artwork/Spotify link onto Sun Secrets."
+    },
+    {
+      "recordId": "lower-left-61",
+      "reason": "No separate photographed sleeve is returned for this conditional pale-edge request. IMG3636/37 is the existing Box3 JSD Band07 anchor, not evidence of a second JSD album at lower-left61. Treat61 as skipped/physically unresolved."
+    }
+  ],
+  "integrationCautions": [
+    "Preserve original filenames and capture order. Do not renumber the camera files or force guide pair numbers onto filenames.",
+    "Every identity correction needs old identity-dependent archive images, Spotify IDs, and provenance invalidated/researched before reuse. Photos themselves are original-copy evidence.",
+    "Catalogue IDs in this proposal are logical association recommendations; pre-existing source-mask crossings are separate geometry questions. Do not shift all subsequent records because one fold was skipped.",
+    "Visible catalogue and Mono/Stereo statements are jacket evidence. Exact vinyl pressing, matrix, and actual disc label are not established by front/back photos."
+  ],
+  "externalCorroboration": [
+    {
+      "title": "Contemporary RPM1973 album report confirms The Ecstasy of Rita Joe and principal performers",
+      "url": "https://www.worldradiohistory.com/CANADA/RPM/70s/1973/RPM-1973-07-28.pdf",
+      "use": "1973 release context; primary contemporary music-industry report, not a substitute for the family photo."
+    },
+    {
+      "title": "MusicBrainz Sun Secrets release-group",
+      "url": "https://musicbrainz.org/release-group/52822b87-6373-3758-9211-b65dc0736a79",
+      "use": "1974 Eric Burdon Band album identity and catalogue11359 corroboration."
+    },
+    {
+      "title": "Contemporary RPM Brief Replies listing",
+      "url": "https://www.worldradiohistory.com/Archive-All-Music/RPM/70s/1970/RPM-1970-08-08.pdf",
+      "use": "1970 Ten Wheel Drive Polydor2425 022 listing corroborates the visible code."
+    },
+    {
+      "title": "Contemporary Billboard Travelling Days review",
+      "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/70s/1973/Billboard%201973-08-25.pdf",
+      "use": "1973 JSD Band WarnerBS2723 corroborates the photographed sleeve."
+    }
+  ],
+  "boundaryPairs": [
+    {
+      "intakePair": 24,
+      "guidePair": 26,
+      "box": "upper-middle",
+      "filenames": [
+        "IMG_3636.HEIC",
+        "IMG_3637.HEIC"
+      ],
+      "proposedRecordIds": [
+        "upper-middle-07"
+      ],
+      "identity": {
+        "title": "Travelling Days",
+        "artist": "JSD Band",
+        "year": 1973,
+        "confidence": "confirmed_from_family_cover",
+        "visibleCatalogues": [
+          "Warner BrosBS2723"
+        ]
+      },
+      "existingIdentity": {
+        "title": "Travelling Days",
+        "artist": "J.S.D. Band",
+        "confidence": "confirmed"
+      },
+      "proposalType": "existing_anchor_boundary_handoff",
+      "slotBindingConfidence": "confirmed",
+      "bindingAndCorrections": "Whole-catalogue check identifies the already-known upper-middle07 Travelling Days. The user explicitly said Box3 absent early slots were represented by the preceding known sleeve; middle reviewer independently confirms this pair is the Box3 anchor for requested08, not lower-left61.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3636.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3636.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3636.jpg",
+          "sha256": "964fb81e16d6de02c88c2ca8a57abab01ba586e72ae9a375de04ccad1be465bd",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "JSD Band–Travelling Days; cream outer border surrounding a framed woodland/band photograph."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidates select the inner framed picture and omit cream/title border.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "Outer sleeve remains substantially skewed; keep complete cream/title border.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3637.HEIC",
+          "originalPath": "captures/2026-10-14/IMG_3637.HEIC",
+          "previewPath": "tmp/capture-intake-2026-10-14/previews/IMG_3637.jpg",
+          "sha256": "ed04c71a6279898b7d855942b43ea42f9dea9c6ba8d81984f62187f62cb29427",
+          "clockwiseRotationAfterExif": 0,
+          "rotationReference": "EXIF-oriented original / supplied preview; rotate clockwise before final upright display.",
+          "identityEvidence": [
+            "JSD Band–Travelling Days; BS2723 on right spine; Galway Races, Fishin’ Blues, Sarah Jane, Travelling Days, King’s Favourite; Cuckoo, Dowie Dens of Yarrow, Down the Road, Young Waters, Green Fields (of America); ©1973 Warner Bros; WEA Music of Canada."
+          ],
+          "visionRectangleCandidateIndex": null,
+          "visionCandidateNote": "Candidate selects the inner rear frame and omits cream/title/legal border.",
+          "automaticDocumentCropReview": "needs_manual_correction",
+          "cropIssue": "CRITICAL: proof captures inner picture-frame panel, omitting cream outer border, title and legal text.",
+          "captureQuality": "All four outer corners are visible; physical wear is retained. Strong cast shadow/glare is part of this capture."
+        }
+      ],
+      "uncertainty": "Photographic album identity is clear; numbered source-mask correspondence is provisional where an old overlap/unknown was present."
+    }
+  ],
+  "cropPolicy": "New user steering: prioritize clean sourced LP fronts/outer backs; family photographs are identification/edition evidence. Crop warnings remain only for fallback use; no further calibration performed."
+}

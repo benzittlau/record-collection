@@ -1,0 +1,571 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Okie%22+AND+artist%3A%22J.J.+Cale%22&fmt=json&limit=100",
+  "retrieved": "2026-10-15T03:16:17Z",
+  "data": {
+    "created": "2026-10-15T03:16:17.539Z",
+    "count": 8,
+    "offset": 0,
+    "releases": [
+      {
+        "id": "40a9b272-bf36-47ee-935c-523ca4930583",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "9e603fd9-60be-3454-a7c7-c04089689798",
+        "count": 1,
+        "title": "Okie",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "J.J. Cale",
+            "artist": {
+              "id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+              "name": "J.J. Cale",
+              "sort-name": "Cale, J.J."
+            }
+          }
+        ],
+        "release-group": {
+          "id": "49b02836-e6d4-31a7-8c29-5c310da804bb",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Okie",
+          "primary-type": "Album"
+        },
+        "date": "1990",
+        "country": "NL",
+        "release-events": [
+          {
+            "date": "1990",
+            "area": {
+              "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+              "name": "Netherlands",
+              "sort-name": "Netherlands",
+              "iso-3166-1-codes": [
+                "NL"
+              ]
+            }
+          }
+        ],
+        "barcode": "042284210225",
+        "asin": "B000008DXB",
+        "label-info": [
+          {
+            "catalog-number": "842 102-2",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "76dbfa5b-832d-3bda-8d07-abc11a38647b",
+            "format": "CD",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "9dd60477-17f1-4914-9b36-10e717d720bc",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "9e603fd9-60be-3454-a7c7-c04089689798",
+        "count": 1,
+        "title": "Okie",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "J.J. Cale",
+            "artist": {
+              "id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+              "name": "J.J. Cale",
+              "sort-name": "Cale, J.J."
+            }
+          }
+        ],
+        "release-group": {
+          "id": "49b02836-e6d4-31a7-8c29-5c310da804bb",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Okie",
+          "primary-type": "Album"
+        },
+        "date": "1990-04-03",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1990-04-03",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "042284210225",
+        "asin": "B000008DXB",
+        "label-info": [
+          {
+            "catalog-number": "842 102-2",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "a426e3d2-e448-326c-bd83-ab1b632bca42",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 12
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "rock"
+          },
+          {
+            "count": 1,
+            "name": "blues"
+          },
+          {
+            "count": 1,
+            "name": "folk rock"
+          },
+          {
+            "count": 1,
+            "name": "blues rock"
+          }
+        ]
+      },
+      {
+        "id": "c0cca6d7-69b5-4af7-b29b-225a55ed4d1a",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "9e603fd9-60be-3454-a7c7-c04089689798",
+        "count": 1,
+        "title": "Okie",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "J.J. Cale",
+            "artist": {
+              "id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+              "name": "J.J. Cale",
+              "sort-name": "Cale, J.J."
+            }
+          }
+        ],
+        "release-group": {
+          "id": "49b02836-e6d4-31a7-8c29-5c310da804bb",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Okie",
+          "primary-type": "Album"
+        },
+        "date": "",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "barcode": "042284210225",
+        "asin": "B000008DXB",
+        "label-info": [
+          {
+            "catalog-number": "842 102-2",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "c784f3c1-af1b-3b3d-a761-3bd6b5da43e8",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "4d9650c0-b6ef-4460-8057-05e893bac4b8",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "9e603fd9-60be-3454-a7c7-c04089689798",
+        "count": 1,
+        "title": "Okie",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "J.J. Cale",
+            "artist": {
+              "id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+              "name": "J.J. Cale",
+              "sort-name": "Cale, J.J."
+            }
+          }
+        ],
+        "release-group": {
+          "id": "49b02836-e6d4-31a7-8c29-5c310da804bb",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Okie",
+          "primary-type": "Album"
+        },
+        "date": "1976",
+        "country": "NL",
+        "release-events": [
+          {
+            "date": "1976",
+            "area": {
+              "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+              "name": "Netherlands",
+              "sort-name": "Netherlands",
+              "iso-3166-1-codes": [
+                "NL"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "67.608",
+            "label": {
+              "id": "e003df8d-84ea-4c87-b9f5-879968b45c0e",
+              "name": "Shelter Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "1334dddc-1147-3cd0-a72a-952749ac8419",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "77518f33-3158-492a-a7e1-da1dc77e9296",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "9e603fd9-60be-3454-a7c7-c04089689798",
+        "count": 1,
+        "title": "Okie",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "J.J. Cale",
+            "artist": {
+              "id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+              "name": "J.J. Cale",
+              "sort-name": "Cale, J.J."
+            }
+          }
+        ],
+        "release-group": {
+          "id": "49b02836-e6d4-31a7-8c29-5c310da804bb",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Okie",
+          "primary-type": "Album"
+        },
+        "date": "1974",
+        "country": "GB",
+        "release-events": [
+          {
+            "date": "1974",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "iso-3166-1-codes": [
+                "GB"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "AMLS 68261",
+            "label": {
+              "id": "35515729-1f2c-4cc9-9390-9af2764bc56c",
+              "name": "A&M Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "9fd692e8-cd7a-3c68-8ffb-113187e3e7ee",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "4b14fa68-73a6-4f7b-9754-31a318f3445c",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "9e603fd9-60be-3454-a7c7-c04089689798",
+        "count": 1,
+        "title": "Okie",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "J.J. Cale",
+            "artist": {
+              "id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+              "name": "J.J. Cale",
+              "sort-name": "Cale, J.J."
+            }
+          }
+        ],
+        "release-group": {
+          "id": "49b02836-e6d4-31a7-8c29-5c310da804bb",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Okie",
+          "primary-type": "Album"
+        },
+        "date": "1974",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1974",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "SR2107",
+            "label": {
+              "id": "e003df8d-84ea-4c87-b9f5-879968b45c0e",
+              "name": "Shelter Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "37abc923-81c4-30b5-a5f4-d85d0036f48e",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "325e40fb-37dd-4029-9951-fcda85513cc3",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+        "artist-credit-id": "9e603fd9-60be-3454-a7c7-c04089689798",
+        "count": 1,
+        "title": "Okie",
+        "status": "Official",
+        "packaging": "None",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "J.J. Cale",
+            "artist": {
+              "id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+              "name": "J.J. Cale",
+              "sort-name": "Cale, J.J."
+            }
+          }
+        ],
+        "release-group": {
+          "id": "49b02836-e6d4-31a7-8c29-5c310da804bb",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Okie",
+          "primary-type": "Album"
+        },
+        "date": "",
+        "country": "XW",
+        "release-events": [
+          {
+            "date": "",
+            "area": {
+              "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+              "name": "[Worldwide]",
+              "sort-name": "[Worldwide]",
+              "iso-3166-1-codes": [
+                "XW"
+              ]
+            }
+          }
+        ],
+        "barcode": "042284210225",
+        "label-info": [
+          {
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "88f80677-ce8a-391c-893e-efa5f1f82c06",
+            "format": "Digital Media",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "rock"
+          }
+        ]
+      },
+      {
+        "id": "d50ef1c9-f9f1-4f4f-86c5-953bbd93fef4",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "9e603fd9-60be-3454-a7c7-c04089689798",
+        "count": 1,
+        "title": "Okie",
+        "status": "Official",
+        "disambiguation": "remastered",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "J.J. Cale",
+            "artist": {
+              "id": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
+              "name": "J.J. Cale",
+              "sort-name": "Cale, J.J."
+            }
+          }
+        ],
+        "release-group": {
+          "id": "49b02836-e6d4-31a7-8c29-5c310da804bb",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Okie",
+          "primary-type": "Album"
+        },
+        "date": "2013-06-26",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "2013-06-26",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "4988005771605",
+        "label-info": [
+          {
+            "catalog-number": "UICY-75629",
+            "label": {
+              "id": "13a464dc-b9fd-4d16-a4f4-d4316f6a46c7",
+              "name": "Universal Music"
+            }
+          },
+          {
+            "catalog-number": "UICY-75629",
+            "label": {
+              "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+              "name": "Mercury Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "e651d6ec-d0f7-479b-bb03-58c0d7b187cb",
+            "format": "SHM-CD",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      }
+    ]
+  }
+}

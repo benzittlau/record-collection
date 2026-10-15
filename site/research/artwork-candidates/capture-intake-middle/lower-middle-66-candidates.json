@@ -1,0 +1,467 @@
+{
+  "id": "lower-middle-66",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=David+Grisman&release_title=Quintet+80"
+  ],
+  "releases": [
+    {
+      "id": 11870271,
+      "title": "Quintet '80",
+      "artists": [
+        {
+          "name": "David Grisman",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 274438,
+          "resource_url": "https://api.discogs.com/artists/274438",
+          "thumbnail_url": "https://i.discogs.com/dxGlC2WuIxvjO81wV1Uq26bVx-xo9_v3FRoztf54Qo0/rs:fit/g:sm/q:90/h:268/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3NDQz/OC0xMjc0Njg1MTM5/LmpwZWc.jpeg"
+        }
+      ],
+      "country": "US",
+      "year": 1980,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ],
+          "text": "Wakefield Pressing"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Bros. Records",
+          "catno": "BSK 3469",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 1000,
+          "resource_url": "https://api.discogs.com/labels/1000",
+          "thumbnail_url": "https://i.discogs.com/GO-baqlieZvkZypxRJOHC9sgGPzAinoiWBc7_LwuZ10/rs:fit/g:sm/q:90/h:358/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDAt/MTY0NDg3NDIwMS01/ODI0LmpwZWc.jpeg"
+        }
+      ],
+      "notes": "[l367883] pressing. Released with promotional belly band under shrink wrap.\n\nRecorded and mixed at 1750 Arch Studios\n\n\"All the instruments heard on this LP are acoustic.\"\n\n℗ 1980 Warner Bros. Records Inc.\nWarner Bros. Records Inc., a subsidiary and licensee of Warner Bros. Inc., a Warner Communications Company\n© 1980 Warner Bros. Records Inc. \nPrinted in U.S.A.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Dawgma",
+          "duration": "3:38"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Bow Wow",
+          "extraartists": [
+            {
+              "name": "Darol Anger",
+              "anv": "",
+              "join": "",
+              "role": "Cello",
+              "tracks": "",
+              "id": 297288,
+              "resource_url": "https://api.discogs.com/artists/297288"
+            },
+            {
+              "name": "Mike Marshall (2)",
+              "anv": "",
+              "join": "",
+              "role": "Guitar",
+              "tracks": "",
+              "id": 316798,
+              "resource_url": "https://api.discogs.com/artists/316798"
+            },
+            {
+              "name": "Mark O'Connor",
+              "anv": "",
+              "join": "",
+              "role": "Violin",
+              "tracks": "",
+              "id": 274736,
+              "resource_url": "https://api.discogs.com/artists/274736"
+            }
+          ],
+          "duration": "4:34"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Barkley's Bug",
+          "extraartists": [
+            {
+              "name": "Mark O'Connor",
+              "anv": "",
+              "join": "",
+              "role": "Guitar [Guitar Duet]",
+              "tracks": "",
+              "id": 274736,
+              "resource_url": "https://api.discogs.com/artists/274736"
+            }
+          ],
+          "duration": "4:16"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Sea Of Cortez",
+          "extraartists": [
+            {
+              "name": "Darol Anger",
+              "anv": "",
+              "join": "",
+              "role": "Arranged By [Violin Arrangement]",
+              "tracks": "",
+              "id": 297288,
+              "resource_url": "https://api.discogs.com/artists/297288"
+            },
+            {
+              "name": "Mark O'Connor",
+              "anv": "",
+              "join": "",
+              "role": "Violin",
+              "tracks": "",
+              "id": 274736,
+              "resource_url": "https://api.discogs.com/artists/274736"
+            },
+            {
+              "name": "Mike Marshall (2)",
+              "anv": "",
+              "join": "",
+              "role": "Violin",
+              "tracks": "",
+              "id": 316798,
+              "resource_url": "https://api.discogs.com/artists/316798"
+            }
+          ],
+          "duration": "5:23"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Naima",
+          "extraartists": [
+            {
+              "name": "John Coltrane",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 97545,
+              "resource_url": "https://api.discogs.com/artists/97545"
+            }
+          ],
+          "duration": "2:47"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Mugavero",
+          "extraartists": [
+            {
+              "name": "John Carlini",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 1003862,
+              "resource_url": "https://api.discogs.com/artists/1003862"
+            }
+          ],
+          "duration": "5:13"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Dawgmatism",
+          "duration": "5:04"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Thailand",
+          "duration": "11:13"
+        }
+      ],
+      "url": "https://www.discogs.com/release/11870271",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-11870271-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/JsKtri3OghHpVG5GAmLGP-7s2tRNek0jxWZaUhSccho/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE3MDkzMTA0/MDktODA5NC5qcGVn.jpeg",
+          "type": "primary",
+          "width": 593,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-11870271-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/nRa4ePNKoB59nmYhiRL53J8vDG9CMFHhoCO43Y2o3sc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE3MDkzMTA0/MDktODI5MC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 597,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-11870271-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/H_iqPH9zNvnfO6nGZtLLVan_PkU0G8IFuvwP5xkYSfI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzUtNDkzNS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 598,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-11870271-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/iaYJj4IDhRNxuY6fujM2vEi4U4g-_is_3w-vtAvz-cI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzYtMjkyOS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 597,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-11870271-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/KcFiUWJvejtZ2IY5WQDuKE2IwMT9saHg2BW8wA7sEY0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzUtMTcxNS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 593,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-11870271-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/Nie56mUQVI59yHshMz9oblJPRee3oZUaDlTk7U3c_hM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzQtOTMyMC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 595,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 2741810,
+      "title": "Quintet '80",
+      "artists": [
+        {
+          "name": "David Grisman",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": null,
+          "resource_url": null
+        }
+      ],
+      "country": "US",
+      "year": 1980,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ],
+          "text": "Winchester Pressing"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Warner Bros. Records",
+          "catno": "BSK 3469",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 1000,
+          "resource_url": "https://api.discogs.com/labels/1000",
+          "thumbnail_url": "https://i.discogs.com/GO-baqlieZvkZypxRJOHC9sgGPzAinoiWBc7_LwuZ10/rs:fit/g:sm/q:90/h:358/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDAt/MTY0NDg3NDIwMS01/ODI0LmpwZWc.jpeg"
+        }
+      ],
+      "notes": "Recorded and mixed at 1750 Arch Studios\n\n\"All the instruments heard on this LP are acoustic.\"\n\n℗ 1980 Warner Bros. Records Inc.\nWarner Bros. Records Inc., a subsidiary and licensee of Warner Bros. Inc., a Warner Communications Company\n© 1980 Warner Bros. Records Inc. \nPrinted in U.S.A.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Dawgma",
+          "duration": "3:38"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Bow Wow",
+          "extraartists": [
+            {
+              "name": "Darol Anger",
+              "anv": "",
+              "join": "",
+              "role": "Cello",
+              "tracks": "",
+              "id": 297288,
+              "resource_url": "https://api.discogs.com/artists/297288"
+            },
+            {
+              "name": "Mike Marshall (2)",
+              "anv": "",
+              "join": "",
+              "role": "Guitar",
+              "tracks": "",
+              "id": 316798,
+              "resource_url": "https://api.discogs.com/artists/316798"
+            },
+            {
+              "name": "Mark O'Connor",
+              "anv": "",
+              "join": "",
+              "role": "Violin",
+              "tracks": "",
+              "id": 274736,
+              "resource_url": "https://api.discogs.com/artists/274736"
+            }
+          ],
+          "duration": "4:34"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Barkley's Bug",
+          "extraartists": [
+            {
+              "name": "Mark O'Connor",
+              "anv": "",
+              "join": "",
+              "role": "Guitar [Guitar Duet]",
+              "tracks": "",
+              "id": 274736,
+              "resource_url": "https://api.discogs.com/artists/274736"
+            }
+          ],
+          "duration": "4:16"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Sea Of Cortez",
+          "extraartists": [
+            {
+              "name": "Darol Anger",
+              "anv": "",
+              "join": "",
+              "role": "Arranged By [Violin Arrangement]",
+              "tracks": "",
+              "id": 297288,
+              "resource_url": "https://api.discogs.com/artists/297288"
+            },
+            {
+              "name": "Mark O'Connor",
+              "anv": "",
+              "join": "",
+              "role": "Violin",
+              "tracks": "",
+              "id": 274736,
+              "resource_url": "https://api.discogs.com/artists/274736"
+            },
+            {
+              "name": "Mike Marshall (2)",
+              "anv": "",
+              "join": "",
+              "role": "Violin",
+              "tracks": "",
+              "id": 316798,
+              "resource_url": "https://api.discogs.com/artists/316798"
+            }
+          ],
+          "duration": "5:23"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Naima",
+          "extraartists": [
+            {
+              "name": "John Coltrane",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 97545,
+              "resource_url": "https://api.discogs.com/artists/97545"
+            }
+          ],
+          "duration": "2:47"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Mugavero",
+          "extraartists": [
+            {
+              "name": "John Carlini",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 1003862,
+              "resource_url": "https://api.discogs.com/artists/1003862"
+            }
+          ],
+          "duration": "5:13"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Dawgmatism",
+          "duration": "5:04"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Thailand",
+          "duration": "11:13"
+        }
+      ],
+      "url": "https://www.discogs.com/release/2741810",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-2741810-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/2DKWGwBV4zY1Vp0ieMGfyuPGqTc18cB0oMw60l0jQLE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDE4/MTAtMTQ5NDQ0MDc0/MC0yOTkyLmpwZWc.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-2741810-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/XyNehSMe7pFoiEUiy780AMmYFg4ybK_bnSh2i09Ytj4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDE4/MTAtMTQ5NDQ0MDcz/OS03NjQ2LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-2741810-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/y_zbwdvrxdkk3wuQXmUSgPlO_NZMXjYs5VWjAEqggkM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDE4/MTAtMTQ5NDQ0MDcz/OC0xMzg0LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-66-discogs-2741810-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/nbAgBwveJ8QemwBJhi_GvVXKvIMor89y5blAr9a7JRc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDE4/MTAtMTQ5NDQ0MDcz/OS0yOTM2LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "id": "upper-middle-39",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Leo+Kottke&catno=CHR1106"
+  ],
+  "releases": [
+    {
+      "id": 8345708,
+      "title": "Leo Kottke",
+      "artists": [
+        {
+          "name": "Leo Kottke",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 191662,
+          "resource_url": "https://api.discogs.com/artists/191662",
+          "thumbnail_url": "https://i.discogs.com/W44iJWSeMunjBCTtTVVU4Cd1T05-qqsxtn6fyeYibUk/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5MTY2/Mi0xMTM3NTQ0MjM2/LmpwZWc.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1976,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Chrysalis",
+          "catno": "CHR 1106",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 3198,
+          "resource_url": "https://api.discogs.com/labels/3198",
+          "thumbnail_url": "https://i.discogs.com/4R9zV_8WYdi_hDTzFDEooGSsS0H_A0-g_2JpPMuInA0/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxOTgt/MTYzOTI2NzA5NS0y/MTA1LmpwZWc.jpeg"
+        },
+        {
+          "name": "Chrysalis",
+          "catno": "CHR-1106",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 3198,
+          "resource_url": "https://api.discogs.com/labels/3198",
+          "thumbnail_url": "https://i.discogs.com/4R9zV_8WYdi_hDTzFDEooGSsS0H_A0-g_2JpPMuInA0/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxOTgt/MTYzOTI2NzA5NS0y/MTA1LmpwZWc.jpeg"
+        }
+      ],
+      "notes": "First cat. # on cover, second on label.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Buckaroo",
+          "extraartists": [
+            {
+              "name": "Bob Morris (2)",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 999450,
+              "resource_url": "https://api.discogs.com/artists/999450"
+            }
+          ],
+          "duration": "2:03"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "The White Ape",
+          "duration": "2:08"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Hayseed Suede",
+          "duration": "2:43"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Rio Leo",
+          "duration": "2:55"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Range",
+          "duration": "3:24"
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "title": "Airproofing",
+          "duration": "2:16"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Maroon",
+          "duration": "1:59"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Waltz",
+          "duration": "2:22"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Death By Reputation",
+          "duration": "4:07"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Up Tempo",
+          "duration": "1:40"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Shadowland",
+          "duration": "4:03"
+        }
+      ],
+      "url": "https://www.discogs.com/release/8345708",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-8345708-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/-Bz6B5Yd7bbGZh9M2L_0mGR71UfFodXUgjUp5jB-gVs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/MDgtMTQ1OTc5NDUy/MC01MTQ0LmpwZWc.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-8345708-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/hdxYDORYL0j0llipzuadi93xZKsBu8hKApR0uMBt9tg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/MDgtMTUyNjM4Njcw/NC01ODIyLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-8345708-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/G-6Ny_wpUq2PMKjThRzBaoCGAmB5iwDKkyhxdTz3jww/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/MDgtMTUyNjM4Njcw/NC0zNjcwLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-8345708-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/5O37Stkhsw43Jcf1UOKgQasqNtdP-EH7_OlRsnTrJ1s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/MDgtMTUyNjM4Njcw/NC02MTM4LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 14259591,
+      "title": "Leo Kottke",
+      "artists": [
+        {
+          "name": "Leo Kottke",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 191662,
+          "resource_url": "https://api.discogs.com/artists/191662",
+          "thumbnail_url": "https://i.discogs.com/W44iJWSeMunjBCTtTVVU4Cd1T05-qqsxtn6fyeYibUk/rs:fit/g:sm/q:90/h:466/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5MTY2/Mi0xMTM3NTQ0MjM2/LmpwZWc.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1976,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Chrysalis",
+          "catno": "CHR 1106",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 3198,
+          "resource_url": "https://api.discogs.com/labels/3198",
+          "thumbnail_url": "https://i.discogs.com/4R9zV_8WYdi_hDTzFDEooGSsS0H_A0-g_2JpPMuInA0/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxOTgt/MTYzOTI2NzA5NS0y/MTA1LmpwZWc.jpeg"
+        },
+        {
+          "name": "Chrysalis",
+          "catno": "CHR-1106",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 3198,
+          "resource_url": "https://api.discogs.com/labels/3198",
+          "thumbnail_url": "https://i.discogs.com/4R9zV_8WYdi_hDTzFDEooGSsS0H_A0-g_2JpPMuInA0/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxOTgt/MTYzOTI2NzA5NS0y/MTA1LmpwZWc.jpeg"
+        }
+      ],
+      "notes": "Variation; this Canadian version varies back cover bottom edge text.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Buckaroo",
+          "extraartists": [
+            {
+              "name": "Bob Morris (2)",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 999450,
+              "resource_url": "https://api.discogs.com/artists/999450"
+            }
+          ],
+          "duration": "2:03"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "The White Ape",
+          "duration": "2:08"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Hayseed Suede",
+          "duration": "2:43"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Rio Leo",
+          "duration": "2:55"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Range",
+          "duration": "3:24"
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "title": "Airproofing",
+          "duration": "2:16"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Maroon",
+          "duration": "1:59"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "Waltz",
+          "duration": "2:22"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Death By Reputation",
+          "duration": "4:07"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Up Tempo",
+          "duration": "1:40"
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "Shadowland",
+          "duration": "4:03"
+        }
+      ],
+      "url": "https://www.discogs.com/release/14259591",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-14259591-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/fJs0chkRkY27WIws7CLfLLyODEPA8oRDKNRJvRidEGk/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/NTkxLTE1NzA5MTUy/MDQtODI4Ny5qcGVn.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 585,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-14259591-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/8qBqb4hNeOKrFOFx_sd2YdL8cIojtoc6MasZKl3kPwA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/NTkxLTE1NzA5MTUy/MDYtMjQzNS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 590,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-14259591-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/WTzuWnRZYPhpxPt-cB80wASe9fMrwpwCn3UEFc47jxc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/NTkxLTE1NzA5MTUy/MDYtNjEzMy5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 596,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-14259591-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/3IDovpXGZOfauOisGPmZIag2UNa0-iCBnK8MwYIN8d4/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/NTkxLTE1NzA5MTUy/MDYtMzQ0OS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 583,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-14259591-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/UvRYZHMmYKyoY5H9kHa7uiTfc9k24_jBIL158V179tk/rs:fit/g:sm/q:90/h:205/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/NTkxLTE1NzA5MTUy/MDUtNTA2Mi5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 205,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/upper-middle-39-discogs-14259591-5.jpg",
+          "imageIndex": 5,
+          "sourceUrl": "https://i.discogs.com/PRgaAOCvEA8VRJeBiEBuEshXUfD49z5n9zXKHmYl4zQ/rs:fit/g:sm/q:90/h:283/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjU5/NTkxLTE1NzA5MTUy/MDQtNjYxNC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 283,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

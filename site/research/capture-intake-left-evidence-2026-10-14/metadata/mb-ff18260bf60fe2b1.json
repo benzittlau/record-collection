@@ -1,0 +1,212 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/42f9a44b-b325-4443-90da-9ef0a749b57f?inc=url-rels+labels+recordings&fmt=json",
+  "retrieved": "2026-10-15T03:18:03Z",
+  "data": {
+    "barcode": "",
+    "quality": "normal",
+    "id": "42f9a44b-b325-4443-90da-9ef0a749b57f",
+    "release-events": [
+      {
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null,
+          "name": "United States",
+          "type": null,
+          "sort-name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "disambiguation": ""
+        },
+        "date": "1976"
+      }
+    ],
+    "disambiguation": "",
+    "title": "A Trick of the Tail",
+    "relations": [
+      {
+        "direction": "forward",
+        "target-type": "url",
+        "begin": null,
+        "attribute-values": {},
+        "url": {
+          "id": "6fab8706-3093-4ee6-9446-30d093e50053",
+          "resource": "https://www.discogs.com/release/1480145"
+        },
+        "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+        "type": "discogs",
+        "attributes": [],
+        "end": null,
+        "ended": false,
+        "source-credit": "",
+        "attribute-ids": {},
+        "target-credit": ""
+      }
+    ],
+    "media": [
+      {
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "id": "9659bb19-9627-3e1f-be30-f9270be411d2",
+        "format": "12\" Vinyl",
+        "tracks": [
+          {
+            "number": "A1",
+            "id": "da0db521-9ad2-3793-94ff-13eb49a1a68b",
+            "length": 355400,
+            "title": "Dance on a Volcano",
+            "recording": {
+              "video": false,
+              "title": "Dance on a Volcano",
+              "disambiguation": "",
+              "id": "19bddd86-ba35-4b43-824c-3d2e58c8df7e",
+              "length": 355400,
+              "first-release-date": "1976-02"
+            },
+            "position": 1
+          },
+          {
+            "number": "A2",
+            "id": "ff60cda9-f3f4-3707-baa4-9a3f0715b0f2",
+            "length": 386506,
+            "title": "Entangled",
+            "recording": {
+              "first-release-date": "1976-02-20",
+              "id": "9cdce509-1a4b-491a-a507-c252f8e06890",
+              "length": 386506,
+              "disambiguation": "",
+              "title": "Entangled",
+              "video": false
+            },
+            "position": 2
+          },
+          {
+            "number": "A3",
+            "length": 389600,
+            "id": "81007b48-0ce3-3b8f-b7a1-7fe2c071f9d4",
+            "position": 3,
+            "title": "Squonk",
+            "recording": {
+              "video": false,
+              "title": "Squonk",
+              "disambiguation": "",
+              "length": 389600,
+              "id": "d29b637b-9ad3-4c56-9d2e-461bd995f59a",
+              "first-release-date": "1976-02"
+            }
+          },
+          {
+            "recording": {
+              "first-release-date": "1976-02",
+              "id": "6b56ca65-772e-4f87-9077-e093a2cf1b29",
+              "length": 455533,
+              "title": "Mad Man Moon",
+              "disambiguation": "",
+              "video": false
+            },
+            "title": "Mad Man Moon",
+            "position": 4,
+            "id": "8fbb35c2-6f12-3ab3-8bf8-058ac398b3d5",
+            "length": 455533,
+            "number": "A4"
+          },
+          {
+            "title": "Robbery, Assault and Battery",
+            "recording": {
+              "length": 376826,
+              "id": "88923ed8-c821-49de-8058-038603907929",
+              "first-release-date": "1976-02",
+              "video": false,
+              "disambiguation": "",
+              "title": "Robbery, Assault and Battery"
+            },
+            "position": 5,
+            "id": "79f1676a-3fcf-3051-ba8b-c6981aec047b",
+            "length": 376826,
+            "number": "B1"
+          },
+          {
+            "title": "Ripples…",
+            "recording": {
+              "video": false,
+              "title": "Ripples…",
+              "disambiguation": "",
+              "id": "4c0f5a78-0542-4a14-965d-bf62b96e2571",
+              "length": 486266,
+              "first-release-date": "1976-02"
+            },
+            "position": 6,
+            "number": "B2",
+            "id": "d80ece5d-1f04-30d3-b437-3cecbf9db2c1",
+            "length": 486266
+          },
+          {
+            "recording": {
+              "id": "729bfc81-5824-4904-a7c1-59473d0ee1a9",
+              "length": 275266,
+              "first-release-date": "1976-02-20",
+              "video": false,
+              "disambiguation": "",
+              "title": "A Trick of the Tail"
+            },
+            "title": "A Trick of the Tail",
+            "position": 7,
+            "number": "B3",
+            "id": "ef73364e-8e5a-30e8-aa87-c7638fa6fe94",
+            "length": 275266
+          },
+          {
+            "number": "B4",
+            "length": 346440,
+            "id": "13432275-5501-3232-8ba1-ef281db7ecf2",
+            "position": 8,
+            "title": "Los Endos",
+            "recording": {
+              "video": false,
+              "disambiguation": "",
+              "title": "Los Endos",
+              "id": "07e789e6-3838-47d0-a91c-6634a623a395",
+              "length": 346440,
+              "first-release-date": "1976-02"
+            }
+          }
+        ],
+        "title": "",
+        "position": 1,
+        "track-count": 8,
+        "track-offset": 0
+      }
+    ],
+    "label-info": [
+      {
+        "catalog-number": "SD 36-129",
+        "label": {
+          "disambiguation": "",
+          "sort-name": "ATCO Records",
+          "type": "Original Production",
+          "name": "ATCO Records",
+          "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+          "id": "a9de694a-2e5b-4a1d-8d7a-a7ca620e3f80",
+          "label-code": 120
+        }
+      }
+    ],
+    "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+    "status": "Official",
+    "country": "US",
+    "packaging": "Gatefold Cover",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+      "count": 2,
+      "darkened": false,
+      "artwork": true,
+      "back": false,
+      "front": true
+    },
+    "date": "1976",
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    },
+    "asin": null
+  }
+}

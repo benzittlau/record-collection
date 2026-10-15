@@ -1,0 +1,272 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/f2630cac-2f82-4e49-8a0f-e56a57483308?inc=url-rels+labels+recordings&fmt=json",
+  "retrieved": "2026-10-15T03:18:02Z",
+  "data": {
+    "media": [
+      {
+        "id": "7b767e2e-a6a6-344e-aa38-55a6ed917fdc",
+        "track-count": 12,
+        "track-offset": 0,
+        "position": 1,
+        "format": "12\" Vinyl",
+        "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+        "title": "",
+        "tracks": [
+          {
+            "id": "a3a69eb5-1b7b-4fbb-afd9-f7e0c6d03d9e",
+            "recording": {
+              "first-release-date": "1971",
+              "title": "Reason to Believe",
+              "length": 227000,
+              "id": "545b0ab2-1742-42d6-9f45-c4e3012f2402",
+              "video": false,
+              "disambiguation": "early fade"
+            },
+            "length": 225000,
+            "position": 1,
+            "number": "A1",
+            "title": "Reason to Believe (Find a Reason to Believe)"
+          },
+          {
+            "length": 250000,
+            "position": 2,
+            "number": "A2",
+            "title": "You Wear It Well",
+            "id": "c9843149-81a6-4e03-a48b-0071c2506489",
+            "recording": {
+              "length": 250693,
+              "id": "fc2ee48c-eba2-463f-8063-c9253ca97f68",
+              "disambiguation": "without \"Interludings\" intro",
+              "video": false,
+              "first-release-date": "1973-08-10",
+              "title": "You Wear It Well"
+            }
+          },
+          {
+            "id": "41ccb100-9e2d-44f9-ab11-9be9f82920f7",
+            "recording": {
+              "id": "0fb80002-993c-42bd-9d66-a6a22d770b0c",
+              "length": 333000,
+              "video": false,
+              "disambiguation": "",
+              "first-release-date": "1971-05-18",
+              "title": "Mandolin Wind"
+            },
+            "length": 325000,
+            "position": 3,
+            "number": "A3",
+            "title": "Mandolin Wind"
+          },
+          {
+            "recording": {
+              "length": 285533,
+              "id": "549d1030-b2ae-479a-88d7-a6b95376a1b3",
+              "disambiguation": "",
+              "video": false,
+              "first-release-date": "1970-06-12",
+              "title": "Country Comforts"
+            },
+            "id": "2887a012-e5b0-4d96-80af-a2f8730a9456",
+            "number": "A4",
+            "title": "Country Comforts",
+            "length": 281000,
+            "position": 4
+          },
+          {
+            "length": 312000,
+            "position": 5,
+            "number": "A5",
+            "title": "Maggie May",
+            "id": "d4087faf-d08c-4b90-8a74-da4db2aefc26",
+            "recording": {
+              "first-release-date": "1971-07",
+              "title": "Maggie May",
+              "length": 314133,
+              "id": "4aba9786-3c73-4108-b68d-2b7f11535c4d",
+              "video": false,
+              "disambiguation": "without “Henry” prelude"
+            }
+          },
+          {
+            "title": "Handbags and Gladrags",
+            "number": "A6",
+            "position": 6,
+            "length": 238000,
+            "recording": {
+              "length": 236000,
+              "id": "7928f563-3dab-4ac8-92f7-7494e3d02ae1",
+              "disambiguation": "",
+              "video": false,
+              "first-release-date": "1973-08-10",
+              "title": "Handbags and Gladrags"
+            },
+            "id": "be90cd70-d725-4042-baca-0d20e7ca7660"
+          },
+          {
+            "title": "Street Fighting Man",
+            "number": "B1",
+            "position": 7,
+            "length": 299000,
+            "recording": {
+              "video": false,
+              "disambiguation": "",
+              "length": 306946,
+              "id": "548fbf62-3a31-4656-a327-be04418f627a",
+              "title": "Street Fighting Man",
+              "first-release-date": "1969"
+            },
+            "id": "3e42783b-3b98-4c02-89b7-8aef4f64fcf2"
+          },
+          {
+            "id": "4ac47034-e2df-4150-934c-931bb61199c5",
+            "recording": {
+              "title": "Twisting the Night Away",
+              "first-release-date": "1973-08-10",
+              "video": false,
+              "disambiguation": "early fade",
+              "length": 187000,
+              "id": "aa4a1cb6-bc94-4736-a602-2208ed67d738"
+            },
+            "length": 187000,
+            "position": 8,
+            "number": "B2",
+            "title": "Twisting the Night Away"
+          },
+          {
+            "position": 9,
+            "length": 230000,
+            "title": "Lost Paraguayos",
+            "number": "B3",
+            "id": "6c297abb-b5f7-4e90-b9d3-682c132f26cb",
+            "recording": {
+              "first-release-date": "1972",
+              "title": "Lost Paraguayos",
+              "id": "e97d5686-9d19-4ef0-b065-e3da050662b8",
+              "length": 239000,
+              "video": false,
+              "disambiguation": ""
+            }
+          },
+          {
+            "number": "B4",
+            "title": "(I Know) I’m Losing You",
+            "length": 303000,
+            "position": 10,
+            "recording": {
+              "length": 303666,
+              "id": "9579e858-f1e1-4cff-a2a9-73b5735dfbed",
+              "video": false,
+              "disambiguation": "intro fade",
+              "first-release-date": "1973-08-10",
+              "title": "(I Know) I’m Losing You"
+            },
+            "id": "e21ad61e-620c-4498-8639-a8b44def4474"
+          },
+          {
+            "id": "1ab4c459-7e1b-4557-9aeb-7fbbe8cf7c00",
+            "recording": {
+              "length": 191040,
+              "id": "683601ae-1f52-450c-bab8-7cc643532203",
+              "video": false,
+              "disambiguation": "edit",
+              "first-release-date": "1973-08-10",
+              "title": "Pinball Wizard"
+            },
+            "position": 11,
+            "length": 189000,
+            "title": "Pinball Wizard (From the Rock Opera “Tommy” (1914-1984))",
+            "number": "B5"
+          },
+          {
+            "id": "4476fde5-c29c-4653-a186-089a05cba84b",
+            "recording": {
+              "first-release-date": "1970-06-12",
+              "title": "Gasoline Alley",
+              "length": 245000,
+              "id": "fc57371c-4bbd-40d4-ac66-75f498603dd7",
+              "video": false,
+              "disambiguation": ""
+            },
+            "length": 242000,
+            "position": 12,
+            "number": "B6",
+            "title": "Gasoline Alley"
+          }
+        ]
+      }
+    ],
+    "id": "f2630cac-2f82-4e49-8a0f-e56a57483308",
+    "relations": [
+      {
+        "end": null,
+        "target-credit": "",
+        "begin": null,
+        "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+        "url": {
+          "resource": "https://www.discogs.com/release/438323",
+          "id": "92dae675-9935-4649-b735-4a117be8080e"
+        },
+        "attribute-values": {},
+        "attribute-ids": {},
+        "ended": false,
+        "target-type": "url",
+        "direction": "forward",
+        "type": "discogs",
+        "attributes": [],
+        "source-credit": ""
+      }
+    ],
+    "release-events": [
+      {
+        "date": "1973-08-10",
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "sort-name": "United Kingdom",
+          "type-id": null,
+          "disambiguation": "",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "name": "United Kingdom"
+        }
+      }
+    ],
+    "date": "1973-08-10",
+    "asin": null,
+    "title": "Sing It Again Rod",
+    "cover-art-archive": {
+      "front": false,
+      "back": false,
+      "count": 0,
+      "darkened": false,
+      "artwork": false
+    },
+    "quality": "normal",
+    "label-info": [
+      {
+        "label": {
+          "disambiguation": "or just “Mercury”; a UMG imprint, do not use it for ©/℗ credits",
+          "id": "995428e7-81b6-41dd-bd38-5a7a0ece8ad6",
+          "name": "Mercury Records",
+          "type": "Imprint",
+          "sort-name": "Mercury Records",
+          "type-id": "b6285b2a-3514-3d43-80df-fcf528824ded",
+          "label-code": 268
+        },
+        "catalog-number": "6499 484"
+      }
+    ],
+    "packaging": "Cardboard/Paper Sleeve",
+    "barcode": "",
+    "country": "GB",
+    "disambiguation": "",
+    "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "status": "Official"
+  }
+}

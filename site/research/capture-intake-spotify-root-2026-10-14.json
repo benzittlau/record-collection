@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "upper-middle-68",
+      "status": "matched",
+      "spotifyId": "5LGiNCGWsy2X59KZQ3S6kH",
+      "spotifyTitle": "Bette Midler",
+      "spotifyArtists": [
+        "Bette Midler"
+      ],
+      "spotifyTrackCount": 10,
+      "url": "https://open.spotify.com/album/5LGiNCGWsy2X59KZQ3S6kH",
+      "evidence": "Official track page for Breaking Up Somebody’s Home exposes spotify:album:5LGiNCGWsy2X59KZQ3S6kH. Independent official album metadata contains the ten photographed tracks, including Skylark, Drinkin’ Again and Surabaya Johnny.",
+      "discoverySource": "https://open.spotify.com/track/2YxyYVDwRxGnjkQx1YbEvu",
+      "editionNote": "Original 1973 album programme; digital mastering may differ from the family LP."
+    },
+    {
+      "id": "upper-middle-39",
+      "status": "unresolved",
+      "reason": "Native Canadian full artist discography lists 28 releases but not the self-titled 1976 Chrysalis CHR1106 album. Best Of Chrysalis is a partial anthology including live versions; no verified full original programme found.",
+      "sources": [
+        "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx/discography/all",
+        "https://open.spotify.com/album/5YYv5MWJ2mq7Om5VrYAYlB"
+      ],
+      "evidenceFile": "research/capture-intake-2026-10-14/leo-native-discography.json"
+    }
+  ]
+}

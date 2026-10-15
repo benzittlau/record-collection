@@ -2157,9 +2157,9 @@
         "spotifyId": null,
         "sources": []
       },
-      "title": "Unidentified sleeve",
-      "artist": "Unidentified",
-      "confidence": "unknown",
+      "title": "Sing It Again Rod",
+      "artist": "Rod Stewart",
+      "confidence": "confirmed",
       "spineText": "Worn dark brown spine; text not legible",
       "identityEvidence": [
         {
@@ -2196,17 +2196,24 @@
       "blockedRequests": [],
       "physicalGroup": "upper-left-05-06",
       "finalArtwork": {},
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "No surviving artist/title/catalogue code on the brown edge. Could be a folded leaf of Anthology; no guessed identity assigned.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": true
+      "captureConditional": true,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Unidentified sleeve",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-07",
@@ -2761,11 +2768,18 @@
         "back": "/assets/covers/upper-left-08-lp-back.jpg",
         "label": "/assets/covers/upper-left-08-lp-label.jpg"
       },
-      "status": "complete_reference_artwork",
+      "status": "confirmed-from-family-capture",
       "neededFaces": [],
-      "reason": "Photographed album identity is supported and usable outer front/back scans are available from visually verified LP editions. Exact pressing and family wear remain unverified.",
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "complete_reference_artwork",
+        "title": "The Hissing of Summer Lawns",
+        "confidence": "confirmed",
+        "neededFaces": []
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-09",
@@ -10471,11 +10485,18 @@
         "back": "/assets/covers/upper-left-19-lp-back.jpg",
         "label": "/assets/covers/upper-left-19-lp-label.jpg"
       },
-      "status": "complete_reference_artwork",
+      "status": "confirmed-from-family-capture",
       "neededFaces": [],
-      "reason": "Photographed album identity is supported and usable outer front/back scans are available from visually verified LP editions. Exact pressing and family wear remain unverified.",
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "complete_reference_artwork",
+        "title": "Graham Nash / David Crosby",
+        "confidence": "confirmed",
+        "neededFaces": []
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-20",
@@ -22134,9 +22155,9 @@
         "spotifyId": null,
         "sources": []
       },
-      "title": "Unidentified sleeve",
-      "artist": "Unidentified",
-      "confidence": "unknown",
+      "title": "Caravanserai",
+      "artist": "Santana",
+      "confidence": "confirmed",
       "spineText": "Bright blue spine, extensively worn; no readable title",
       "identityEvidence": [
         {
@@ -22173,17 +22194,24 @@
       "blockedRequests": [],
       "physicalGroup": null,
       "finalArtwork": {},
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Worn blue strip has no reliable artist/title/catalogue digits. Neighboring Todd/Leon titles and color do not establish identity.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Unidentified sleeve",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-37",
@@ -26860,11 +26888,18 @@
         "back": "/assets/covers/upper-left-39-discogs-7096163-02.jpg",
         "label": "/assets/covers/upper-left-39-discogs-7096163-03.jpg"
       },
-      "status": "complete_reference_artwork",
+      "status": "confirmed-from-family-capture",
       "neededFaces": [],
-      "reason": "Photographed album identity is supported and usable outer front/back scans are available from visually verified LP editions. Exact pressing and family wear remain unverified.",
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "complete_reference_artwork",
+        "title": "Demon in Disguise",
+        "confidence": "confirmed",
+        "neededFaces": []
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-40",
@@ -33945,9 +33980,9 @@
         "digitalReleaseDate": "1972-11-01T08:00:00Z",
         "digitalCopyright": "A Geffen Records release; ℗ 2022 UMG Recordings, Inc."
       },
-      "title": "Can't Buy a Thrill",
-      "artist": "Steely Dan",
-      "confidence": "probable",
+      "title": "Brief Replies",
+      "artist": "Ten Wheel Drive with Genya Ravan",
+      "confidence": "confirmed",
       "spineText": "ABCX 758 · partially legible THRILL",
       "identityEvidence": [
         {
@@ -34514,17 +34549,24 @@
         "back": "/assets/covers/upper-left-50-lp-back.jpg",
         "label": "/assets/covers/upper-left-50-lp-label.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Can't Buy a Thrill",
+        "confidence": "probable",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-51",
@@ -35647,11 +35689,18 @@
         "back": "/assets/covers/upper-left-52-extra-discogs-3445092-02.jpg",
         "label": "/assets/covers/upper-left-52-extra-discogs-3445092-03.jpg"
       },
-      "status": "complete_reference_artwork",
+      "status": "confirmed-from-family-capture",
       "neededFaces": [],
-      "reason": "Photographed album identity is supported and usable outer front/back scans are available from visually verified LP editions. Exact pressing and family wear remain unverified.",
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "complete_reference_artwork",
+        "title": "No Stranger to Danger",
+        "confidence": "confirmed",
+        "neededFaces": []
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-53",
@@ -36360,7 +36409,7 @@
       },
       "title": "Construction #1",
       "artist": "Ten Wheel Drive with Genya Ravan",
-      "confidence": "probable",
+      "confidence": "confirmed",
       "spineText": "…STRUCTION NO.1 · POLYDOR 543 112",
       "identityEvidence": [
         {
@@ -36768,17 +36817,24 @@
         "back": "/assets/covers/upper-left-54-discogs-3060009-02.jpg",
         "label": "/assets/covers/upper-left-54-discogs-3060009-03.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Construction #1",
+        "confidence": "probable",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-55",
@@ -37001,17 +37057,24 @@
         "back": "/assets/covers/upper-left-55-lp-back.jpg",
         "label": "/assets/covers/upper-left-55-lp-label.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "The Pointer Sisters",
+        "confidence": "confirmed",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-56",
@@ -37041,7 +37104,7 @@
       },
       "title": "Between the Buttons",
       "artist": "The Rolling Stones",
-      "confidence": "probable",
+      "confidence": "confirmed",
       "spineText": "…THE BUTTONS · THE ROLLING STONES · LONDON · PS 499",
       "identityEvidence": [
         {
@@ -37425,17 +37488,24 @@
         "back": "/assets/covers/upper-left-56-lp-back.jpg",
         "label": "/assets/covers/upper-left-56-lp-label.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Between the Buttons",
+        "confidence": "probable",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-57",
@@ -37668,17 +37738,24 @@
         "back": "/assets/covers/upper-left-57-lp-back.jpg",
         "label": "/assets/covers/upper-left-57-lp-label.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Bruised Orange",
+        "confidence": "confirmed",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "upper-left-58",
@@ -41119,9 +41196,9 @@
         "spotifyId": null,
         "sources": []
       },
-      "title": "Unknown title",
-      "artist": "Van der Graaf Generator",
-      "confidence": "unknown",
+      "title": "Magicians Hat",
+      "artist": "Bo Hansson",
+      "confidence": "confirmed",
       "spineText": "THE FAMOUS CHARISMA LABEL · partial VAN DER GRAAF; title unclear",
       "identityEvidence": [
         {
@@ -41181,17 +41258,24 @@
       "blockedRequests": [],
       "physicalGroup": null,
       "finalArtwork": {},
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Partial Van der Graaf / Charisma survives but the title/code is erased. Godbluff and other black Charisma sleeves cannot be distinguished from these pixels.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Unknown title",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-08",
@@ -43585,9 +43669,9 @@
         "spotifyId": null,
         "sources": []
       },
-      "title": "Unidentified sleeve",
-      "artist": "Unidentified",
-      "confidence": "unknown",
+      "title": "The Ecstasy of Rita Joe",
+      "artist": "Ann Mortifee, Chief Dan George & Paul Horn",
+      "confidence": "confirmed",
       "spineText": "Worn black sleeve between Eagles and Jimi Hendrix",
       "identityEvidence": [
         {
@@ -43624,17 +43708,24 @@
       "blockedRequests": [],
       "physicalGroup": "lower-left-11-13",
       "finalArtwork": {},
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Blank dark edge between Eagles and Hendrix has no independent text; possible thick Hendrix gatefold leaf.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": true
+      "captureConditional": true,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Unidentified sleeve",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-13",
@@ -45768,9 +45859,9 @@
         "spotifyId": null,
         "sources": []
       },
-      "title": "Unidentified sleeve",
-      "artist": "Unidentified",
-      "confidence": "unknown",
+      "title": "A Trick of the Tail",
+      "artist": "Genesis",
+      "confidence": "confirmed",
       "spineText": "Worn cream sleeve with handwriting; title obscured",
       "identityEvidence": [
         {
@@ -45807,17 +45898,24 @@
       "blockedRequests": [],
       "physicalGroup": "lower-left-16-18",
       "finalArtwork": {},
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Handwritten cream strip is too worn to interpret reliably; no guessed handwritten title assigned.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Unidentified sleeve",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-19",
@@ -61540,9 +61638,9 @@
         "spotifyId": null,
         "sources": []
       },
-      "title": "Unidentified sleeve",
-      "artist": "Unidentified",
-      "confidence": "unknown",
+      "title": "What Were Once Vices Are Now Habits",
+      "artist": "The Doobie Brothers",
+      "confidence": "confirmed",
       "spineText": "Almost completely flaked black-and-white spine · ©1974 WARNER BROS.",
       "identityEvidence": [
         {
@@ -61579,17 +61677,24 @@
       "blockedRequests": [],
       "physicalGroup": "lower-left-44-45",
       "finalArtwork": {},
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "©1974 WARNER BROS. survives but is not an album identifier. May be folded rear edge of Before the Flood.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": true
+      "captureConditional": true,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Unidentified sleeve",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-46",
@@ -61800,17 +61905,24 @@
         "back": "/assets/covers/lower-left-46-lp-back.jpg",
         "label": "/assets/covers/lower-left-46-lp-label.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Neiges",
+        "confidence": "confirmed",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-47",
@@ -61911,7 +62023,7 @@
       },
       "title": "David Bromberg",
       "artist": "David Bromberg",
-      "confidence": "probable",
+      "confidence": "confirmed",
       "spineText": "DAVID BROMBERG · C31104? (worn code; earlier ST114 reading rejected)",
       "identityEvidence": [
         {
@@ -62175,17 +62287,24 @@
         "back": "/assets/covers/lower-left-48-owner-back.jpg",
         "label": "/assets/covers/lower-left-48-owner-label.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "David Bromberg",
+        "confidence": "probable",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-49",
@@ -62429,17 +62548,24 @@
         "back": "/assets/covers/lower-left-49-lp-back.jpg",
         "label": "/assets/covers/lower-left-49-lp-label.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Humans",
+        "confidence": "confirmed",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-50",
@@ -62464,9 +62590,9 @@
         "spotifyId": null,
         "sources": []
       },
-      "title": "Unidentified sleeve",
-      "artist": "Unidentified",
-      "confidence": "unknown",
+      "title": "Okie",
+      "artist": "J.J. Cale",
+      "confidence": "confirmed",
       "spineText": "Worn blue-gray strip · TRUE NORTH label fragment; title/code unreadable",
       "identityEvidence": [
         {
@@ -62503,17 +62629,24 @@
       "blockedRequests": [],
       "physicalGroup": "lower-left-46-53",
       "finalArtwork": {},
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "TRUE NORTH label fragment is reliable, but artist/title/code are not. No Bruce Cockburn album guessed from the label alone.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Unidentified sleeve",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-51",
@@ -63524,17 +63657,24 @@
         "back": "/assets/covers/lower-left-51-discogs-1545825-02.jpg",
         "label": "/assets/covers/lower-left-51-discogs-1545825-03.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Pat Garrett & Billy the Kid",
+        "confidence": "confirmed",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-52",
@@ -63978,17 +64118,24 @@
         "back": "/assets/covers/lower-left-52-lp-back.jpg",
         "label": "/assets/covers/lower-left-52-lp-label.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Never for Ever",
+        "confidence": "confirmed",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-53",
@@ -64013,9 +64160,9 @@
         "spotifyId": null,
         "sources": []
       },
-      "title": "Alchemy",
-      "artist": "The Third Ear Band",
-      "confidence": "probable",
+      "title": "Sun Secrets",
+      "artist": "The Eric Burdon Band",
+      "confidence": "confirmed",
       "spineText": "THE THIRD EAR BAND · ALCHEMY (read on adjacent overlapping source strip)",
       "identityEvidence": [
         {
@@ -64300,17 +64447,24 @@
         "front": "/assets/covers/lower-left-53-lp-front.jpg",
         "back": "/assets/covers/lower-left-53-lp-back.jpg"
       },
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Album is present in the original source, but several adjacent masks cross neighboring spine text. Physical front/back pairs are needed to establish jacket order and slot binding.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Alchemy",
+        "confidence": "probable",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-54",
@@ -65542,9 +65696,9 @@
         "spotifyId": null,
         "sources": []
       },
-      "title": "Unknown title",
-      "artist": "Pure Prairie League",
-      "confidence": "unknown",
+      "title": "Dire Straits",
+      "artist": "Dire Straits",
+      "confidence": "confirmed",
       "spineText": "PURE PRAIRIE LEAGUE · RCA; title illegible",
       "identityEvidence": [
         {
@@ -65596,17 +65750,24 @@
       "blockedRequests": [],
       "physicalGroup": null,
       "finalArtwork": {},
-      "status": "needs_physical_confirmation",
-      "neededFaces": [
-        "front",
-        "back"
-      ],
-      "reason": "Pure Prairie League / RCA survives; album title/catalogue digits do not. Bustin’ Out, self-titled, Dance and other RCA sleeves cannot be selected honestly.",
+      "status": "confirmed-from-family-capture",
+      "neededFaces": [],
+      "reason": "Family front/back photographs confirm identity; selected clean external artwork is documented separately.",
       "remainingCaptureNeeds": [
         "front",
         "back"
       ],
-      "captureConditional": false
+      "captureConditional": false,
+      "beforeCapture": {
+        "status": "needs_physical_confirmation",
+        "title": "Unknown title",
+        "confidence": "unknown",
+        "neededFaces": [
+          "front",
+          "back"
+        ]
+      },
+      "captureReceipt": "research/capture-intake-2026-10-14/reconciliation.json"
     },
     {
       "id": "lower-left-58",

@@ -1,0 +1,577 @@
+{
+  "id": "lower-middle-69",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Orchestral+Manoeuvres+In+The+Dark&catno=VL2206"
+  ],
+  "releases": [
+    {
+      "id": 8690003,
+      "title": "Organisation",
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 9462,
+          "resource_url": "https://api.discogs.com/artists/9462",
+          "thumbnail_url": "https://i.discogs.com/_Cdjl4T0Tled3DEqqG475w9wKCWwUfsR0l3BrqGpP0g/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk0NjIt/MTQwMTc5MDQ1OS0x/MTgxLmpwZWc.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 0,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Virgin",
+          "catno": "VL 2206",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 750,
+          "resource_url": "https://api.discogs.com/labels/750",
+          "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+        },
+        {
+          "name": "Dindisc",
+          "catno": "VL 2206",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 2748,
+          "resource_url": "https://api.discogs.com/labels/2748",
+          "thumbnail_url": "https://i.discogs.com/v1XSU2gc2V9cmbZgREP-FA5xl8tVqx8UfOBeR4ZHDYA/rs:fit/g:sm/q:90/h:70/w:214/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NDgt/MTU2NzU3OTA5Mi0y/ODMzLmpwZWc.jpeg"
+        }
+      ],
+      "notes": "All tracks recorded and mixed at Ridge Farm and Advision, except A2 recorded at The Gramophone Suite.\n\nPrinted on labels:\n℗ 1980 Dindisc Ltd\nManufactured by Virgin Records Canada Inc.\n\nPrinted on back cover:\n℗ 1980 Dindisc Limited\n© 1980 Dinsong Limited\nManufactured by Polygram Inc. and Distributed by Polygram Distribution Inc., Montreal\nMade in Canada\n\nPlain white inner sleeve.",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Enola Gay",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            }
+          ],
+          "duration": "3:25"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "2nd Thought",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            }
+          ],
+          "duration": "4:03"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "VCL XI",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            }
+          ],
+          "duration": "3:45"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Motion And Heart",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            },
+            {
+              "name": "Paul Humphreys",
+              "anv": "Humphreys",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 243381,
+              "resource_url": "https://api.discogs.com/artists/243381"
+            }
+          ],
+          "duration": "3:08"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Statues",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            }
+          ],
+          "duration": "4:05"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "The Misunderstanding",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            },
+            {
+              "name": "Paul Humphreys",
+              "anv": "Humphreys",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 243381,
+              "resource_url": "https://api.discogs.com/artists/243381"
+            }
+          ],
+          "duration": "4:40"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "The More I See You",
+          "extraartists": [
+            {
+              "name": "Harry Warren (2)",
+              "anv": "Warren",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 601710,
+              "resource_url": "https://api.discogs.com/artists/601710"
+            },
+            {
+              "name": "Mack Gordon",
+              "anv": "Gordon",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 623105,
+              "resource_url": "https://api.discogs.com/artists/623105"
+            }
+          ],
+          "duration": "4:00"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Promise",
+          "extraartists": [
+            {
+              "name": "Paul Humphreys",
+              "anv": "Humphreys",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 243381,
+              "resource_url": "https://api.discogs.com/artists/243381"
+            }
+          ],
+          "duration": "4:38"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Stanlow",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            },
+            {
+              "name": "Paul Humphreys",
+              "anv": "Humphreys",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 243381,
+              "resource_url": "https://api.discogs.com/artists/243381"
+            }
+          ],
+          "duration": "6:16"
+        }
+      ],
+      "url": "https://www.discogs.com/release/8690003",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-69-discogs-8690003-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/UjZqeSMVnZVTVo0CpRKa31innYgZOf9Bhbua_fiiSsM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTAw/MDMtMTQ2NjY3ODQx/Ni03MDQxLnBuZw.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-69-discogs-8690003-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/zT4oivMn4Arr1h1JXWZ3Io6puwuC_rmSiOy2akMeDJ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTAw/MDMtMTQ2NjY3ODQy/MC02NDM5LnBuZw.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-69-discogs-8690003-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/jDWtK7_kPHes0p9ZT-_oloDzrcxXTkbk3tA4_KFFues/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTAw/MDMtMTQ2NjY3ODQy/MS04OTQ4LnBuZw.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-69-discogs-8690003-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/dxUR87wV0TVau4J82t3TwZP01cBlxCWYVrIiHYgi8S8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTAw/MDMtMTQ2NjY3ODQy/MS0yMTMwLnBuZw.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 600,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 25904623,
+      "title": "Organisation",
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 9462,
+          "resource_url": "https://api.discogs.com/artists/9462",
+          "thumbnail_url": "https://i.discogs.com/_Cdjl4T0Tled3DEqqG475w9wKCWwUfsR0l3BrqGpP0g/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk0NjIt/MTQwMTc5MDQ1OS0x/MTgxLmpwZWc.jpeg"
+        }
+      ],
+      "country": "Canada",
+      "year": 1980,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Virgin",
+          "catno": "VL 2206",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 750,
+          "resource_url": "https://api.discogs.com/labels/750",
+          "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+        },
+        {
+          "name": "Dindisc",
+          "catno": "VL 2206",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 2748,
+          "resource_url": "https://api.discogs.com/labels/2748",
+          "thumbnail_url": "https://i.discogs.com/v1XSU2gc2V9cmbZgREP-FA5xl8tVqx8UfOBeR4ZHDYA/rs:fit/g:sm/q:90/h:70/w:214/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NDgt/MTU2NzU3OTA5Mi0y/ODMzLmpwZWc.jpeg"
+        }
+      ],
+      "notes": "Similar to [r506142]   this version has; SPC [Shorewood Canada logo] back cover bottom right.  \n\n℗ 1980 Dindisc Ltd\n© 1980 Dinsong Limited\nManufactured by Polygram Inc and Distributed by Polygram Distribution Inc., Montreal\nMade in Canada\n\nPlastic inner sleeve.\n\nAll tracks recorded and mixed at Ridge Farm and Advision except track A2 recorded at The Gramophone Suite\n\n",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Enola Gay",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            }
+          ],
+          "duration": "3:25"
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "2nd Thought",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            }
+          ],
+          "duration": "4:03"
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "VCL XI",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            }
+          ],
+          "duration": "3:45"
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Motion And Heart",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            },
+            {
+              "name": "Paul Humphreys",
+              "anv": "Humphreys",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 243381,
+              "resource_url": "https://api.discogs.com/artists/243381"
+            }
+          ],
+          "duration": "3:08"
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Statues",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            }
+          ],
+          "duration": "4:05"
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "The Misunderstanding",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            },
+            {
+              "name": "Paul Humphreys",
+              "anv": "Humphreys",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 243381,
+              "resource_url": "https://api.discogs.com/artists/243381"
+            }
+          ],
+          "duration": "4:40"
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "The More I See You",
+          "extraartists": [
+            {
+              "name": "Harry Warren (2)",
+              "anv": "Warren",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 601710,
+              "resource_url": "https://api.discogs.com/artists/601710"
+            },
+            {
+              "name": "Mack Gordon",
+              "anv": "Gordon",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 623105,
+              "resource_url": "https://api.discogs.com/artists/623105"
+            }
+          ],
+          "duration": "4:00"
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "Promise",
+          "extraartists": [
+            {
+              "name": "Paul Humphreys",
+              "anv": "Humphreys",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 243381,
+              "resource_url": "https://api.discogs.com/artists/243381"
+            }
+          ],
+          "duration": "4:38"
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Stanlow",
+          "extraartists": [
+            {
+              "name": "Andy McCluskey",
+              "anv": "McCluskey",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 87657,
+              "resource_url": "https://api.discogs.com/artists/87657"
+            },
+            {
+              "name": "Paul Humphreys",
+              "anv": "Humphreys",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 243381,
+              "resource_url": "https://api.discogs.com/artists/243381"
+            }
+          ],
+          "duration": "6:16"
+        }
+      ],
+      "url": "https://www.discogs.com/release/25904623",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-69-discogs-25904623-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/WRUsQohpdYVorwpkiUFziRLa2A83at9tuf8igwAtuD0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA0/NjIzLTE2NzQ4NDEw/NjYtODM5NC5qcGVn.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 595,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-69-discogs-25904623-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/3vx3YaP5aMLKHI4J6r__FxLYU5u3n1ji90w-kNRhF3I/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA0/NjIzLTE2NzQ4NDEw/NjYtODkwNy5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 596,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-69-discogs-25904623-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/AwEMpggmvV-7f-3wq1VffB-t_29kjn7hleYyIwfheVg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA0/NjIzLTE2NzQ4NDEw/NjQtMzE0OS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 591,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-69-discogs-25904623-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/GdCS8yv-sTDq58k7YZCgKA1T1gzPUEDEJNjFJjjw7hI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA0/NjIzLTE2NzQ4NDEw/NjMtOTExMC5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 599,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-69-discogs-25904623-4.jpg",
+          "imageIndex": 4,
+          "sourceUrl": "https://i.discogs.com/xFwXtBc-7ipwPyeMs50-0_wqSq_pro3KW1TrXjHJFok/rs:fit/g:sm/q:90/h:199/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTA0/NjIzLTE2NzQ4NDEw/NjItMTQxNy5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 402,
+          "height": 199,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

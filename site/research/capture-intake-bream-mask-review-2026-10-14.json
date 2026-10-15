@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "createdAt": "2026-10-15T03:26:27.848158+00:00",
+  "status": "proposal-only; no canonical mask edits",
+  "box": "lower-middle",
+  "coordinateSpace": "source-photo, EXIF-transposed",
+  "photo": {
+    "path": "site/dist/assets/boxes/lower-middle.jpg",
+    "width": 4032,
+    "height": 3024,
+    "sha256": "6f949842d33f601f7dc1e038636d519e13736ed36dcfd36adfc3ba0bfc015612"
+  },
+  "records": [
+    {
+      "id": "lower-middle-03",
+      "polygon": [
+        [
+          692.8,
+          551
+        ],
+        [
+          736,
+          555
+        ],
+        [
+          872,
+          1500
+        ],
+        [
+          1081,
+          2932
+        ],
+        [
+          1053,
+          2937
+        ],
+        [
+          840,
+          1500
+        ]
+      ],
+      "anchor": [
+        1067,
+        2934.5
+      ],
+      "changeReason": "Cabaret’s black face ends before Fricsay’s cream paper. Trim the middle-right boundary from879 to872; extend the old right heel slightly to1081 within the visible black face. Other cap/left anchors preserved."
+    },
+    {
+      "id": "lower-middle-04",
+      "polygon": [
+        [
+          741.5,
+          565
+        ],
+        [
+          791,
+          548
+        ],
+        [
+          901,
+          1500
+        ],
+        [
+          1111,
+          2925
+        ],
+        [
+          1087,
+          2934
+        ],
+        [
+          883,
+          1500
+        ]
+      ],
+      "anchor": [
+        1099,
+        2929.5
+      ],
+      "changeReason": "The old wide cap/body included the separate gray Bream sleeve. Keep Fricsay on the cream band between Cabaret’s black spine and the gray seam; cap-right791, body-right901. Correct its displaced foot onto the visible cream rounded heel."
+    },
+    {
+      "id": "lower-middle-04b",
+      "polygon": [
+        [
+          796,
+          539
+        ],
+        [
+          825,
+          542
+        ],
+        [
+          928,
+          1500
+        ],
+        [
+          1140,
+          2918
+        ],
+        [
+          1119,
+          2927
+        ],
+        [
+          906,
+          1500
+        ]
+      ],
+      "anchor": [
+        1129.5,
+        2922.5
+      ],
+      "changeReason": "New stable inserted sleeve. The narrow gray band is visible from cap through body to the foot reading Westminster Gold Series. The earlier1101–1116 foot proposal landed on the cream neighbor; corrected foot is1119–1140."
+    },
+    {
+      "id": "lower-middle-05",
+      "polygon": [
+        [
+          834,
+          543
+        ],
+        [
+          858,
+          544
+        ],
+        [
+          959,
+          1500
+        ],
+        [
+          1167,
+          2907
+        ],
+        [
+          1145,
+          2915
+        ],
+        [
+          933,
+          1500
+        ]
+      ],
+      "anchor": [
+        1156,
+        2911
+      ],
+      "changeReason": "Firebird’s pale Philips sleeve is immediately right of the gray Bream band. Shift the old foot1104–1125 to the actual pale Philips band1145–1167. Slight body/cap insets exclude the seams."
+    }
+  ],
+  "requiredNeighborAdjustment": {
+    "id": "lower-middle-06",
+    "polygon": [
+      [
+        864.6,
+        548
+      ],
+      [
+        897,
+        553
+      ],
+      [
+        994,
+        1500
+      ],
+      [
+        1183.7,
+        2911
+      ],
+      [
+        1173,
+        2918
+      ],
+      [
+        967,
+        1500
+      ]
+    ],
+    "anchor": [
+      1178.35,
+      2914.5
+    ],
+    "changeReason": "Required minimal adjacent adjustment: keep all existing06 cap, body, right-foot and endpoint heights, but move only left-foot x1127.7 to1173. The old left edge crosses the actual Bream and Firebird feet. This conservative mask covers the left portion of the photographed Ravel heel while retaining a gap before unchanged07."
+  },
+  "unrelatedMasks": "All other boxes and lower-middle01/02/07 onward remain unchanged. Neighbor06 needs only the explicitly listed left-foot correction.",
+  "diagnosticOverlay": "site/research/capture-intake-bream-mask-review-2026-10-14.jpg",
+  "physicalSeamEvidence": [
+    "Cabaret is the black face on the left, followed by the cream Fricsay jacket, then a distinct gray sleeve, then the pale/yellow Philips Firebird spine.",
+    "Gray sleeve at the foot visibly reads Westminster Gold Series, independently anchoring Bream. It is not the cream Fricsay heel used by the earlier inserted-foot proposal.",
+    "The new family front/back establish Bream as a separate physical jacket. Its catalogued programme and identity are taken from those captures, not reconstructed from fuzzy room-photo text.",
+    "Blurred printed identifiers near the heels are used only as visual positioning anchors. The photographed Fricsay catalogue remains SLPEM136226 from IMG_3652/3653; this review makes no catalogue correction from the fuzzy room-photo digits."
+  ],
+  "measuredBands": [
+    {
+      "y": 650,
+      "notes": "Visible cream/gray/yellow boundaries provide cap-to-body continuity.",
+      "fricsayInterior": [
+        754,
+        802
+      ],
+      "breamInterior": [
+        809,
+        832
+      ],
+      "firebirdInterior": [
+        839,
+        867
+      ]
+    },
+    {
+      "y": 1500,
+      "cabaretInterior": [
+        840,
+        872
+      ],
+      "fricsayInterior": [
+        883,
+        901
+      ],
+      "breamInterior": [
+        906,
+        928
+      ],
+      "firebirdInterior": [
+        933,
+        959
+      ],
+      "ravelInterior": [
+        967,
+        994
+      ]
+    },
+    {
+      "y": 2920,
+      "notes": "Rounded heels and shadow make exact full contours uncertain; conservative inset polygons stop before the most ragged tips.",
+      "fricsayApproximateVisibleBand": [
+        1086,
+        1115
+      ],
+      "breamApproximateVisibleBand": [
+        1119,
+        1141
+      ],
+      "firebirdApproximateVisibleBand": [
+        1144,
+        1169
+      ],
+      "ravelApproximateVisibleBand": [
+        1173,
+        1195
+      ]
+    }
+  ],
+  "geometryQa": {
+    "method": "Horizontal source scanline intersections sampled every0.5px; no overlap among proposed neighbors, unchanged02 or unchanged07.",
+    "checks": [
+      {
+        "left": "lower-middle-02",
+        "right": "lower-middle-03",
+        "minimumSampledGapPixels": 3.978,
+        "atY": 551.0,
+        "sampleStepPixels": 0.5
+      },
+      {
+        "left": "lower-middle-03",
+        "right": "lower-middle-04",
+        "minimumSampledGapPixels": 4.061,
+        "atY": 565.0,
+        "sampleStepPixels": 0.5
+      },
+      {
+        "left": "lower-middle-04",
+        "right": "lower-middle-04b",
+        "minimumSampledGapPixels": 5.0,
+        "atY": 1500.0,
+        "sampleStepPixels": 0.5
+      },
+      {
+        "left": "lower-middle-04b",
+        "right": "lower-middle-05",
+        "minimumSampledGapPixels": 5.0,
+        "atY": 1500.0,
+        "sampleStepPixels": 0.5
+      },
+      {
+        "left": "lower-middle-05",
+        "right": "lower-middle-06",
+        "minimumSampledGapPixels": 4.402,
+        "atY": 2907.0,
+        "sampleStepPixels": 0.5
+      },
+      {
+        "left": "lower-middle-06",
+        "right": "lower-middle-07",
+        "minimumSampledGapPixels": 3.942,
+        "atY": 553.0,
+        "sampleStepPixels": 0.5
+      }
+    ]
+  },
+  "limitations": [
+    "This is a manual visual trace proposal, not subpixel metrology. Rounded corners and short occluded seams are approximated.",
+    "Conservative06 adjustment keeps its existing right boundary, so it selects part of the Ravel heel rather than re-tracing the unrelated07 seam.",
+    "Parent must review the overlay before integration and re-run the canonical source-hash, noncrossing and projection validators."
+  ]
+}

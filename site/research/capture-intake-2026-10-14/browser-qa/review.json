@@ -1,0 +1,41 @@
+{
+  "browser": "Codex native in-app browser",
+  "date": "2026-10-14",
+  "status": "passed",
+  "viewportChecks": [
+    {
+      "width": 857,
+      "height": 853,
+      "layout": "desktop"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "layout": "phone",
+      "horizontalOverflow": false
+    }
+  ],
+  "checks": [
+    "New Herbie Mann spine opens Brazil Blues directly in the full album overlay, with Django and Hubert preview neighbors.",
+    "Julian Bream stable 4b deep link loads the front, actual sourced outer back and exact verified Spotify album.",
+    "Visible Bream spine body pointer hit opens Bream 4b directly; marker and location agree.",
+    "Next from Bream selects Firebird 5; source labels stay distinct from physical browsing counters.",
+    "Legacy upper-middle-08 resolves to Travelling Days 07; its SVG combines two source outlines.",
+    "Legacy upper-middle-15 resolves to Chance 14; its SVG combines two source outlines.",
+    "Trios family back loads its selected metadata-free asset with an actual-family-copy caption; settled image remains square and readable.",
+    "Spotify iframe uses album 2DxA1kE23NCa5wakaEkUr0 and remains the same src when minimized into the corner widget. Full Premium playback is not asserted.",
+    "Browse-all reports 318 items and searches Lightdreams as one result; opening it shows Islands in Space.",
+    "Phone 390 × 844 keeps large cover, front/back controls and previous/next album previews visible; album information scrolls below. No horizontal overflow.",
+    "Viewport override reset after phone checks."
+  ],
+  "screenshots": [
+    "bream-desktop.png",
+    "bream-mobile.png",
+    "bream-back-mobile.png",
+    "trios-back-desktop.png"
+  ],
+  "limitations": [
+    "The native browser was available only to the parent runtime; subagents independently reviewed saved screenshots and code/data.",
+    "This verifies UI and Spotify album identity/iframe persistence, not authenticated Premium audio playback."
+  ]
+}

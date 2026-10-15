@@ -16,7 +16,10 @@ for(const r of records){
   if(r.label){try{await access(new URL(`../dist/${r.label}`,import.meta.url));}catch{r.label=null;}}
   r.photo=`assets/${r.photo?.split('/').at(-1)}`;
 }
-const meta={recordCount:records.length,confirmed:records.filter(r=>r.confidence==='confirmed').length,probable:records.filter(r=>r.confidence==='probable').length,unknown:records.filter(r=>r.confidence==='unknown').length,artwork:records.filter(r=>r.cover).length,spotify:records.filter(r=>r.spotifyId).length,note:'Spine positions are reconstructed estimates. Covers may show other pressings; illustrated vinyl is not a photograph of the original disc.'};
+// Stable source IDs include photographed fold aliases. Count each physical
+// item once, while retaining those source rows for old links and the guide.
+const physical=records.filter(r=>!r.mergedInto);
+const meta={recordCount:physical.length,sourcePositionCount:records.length,mergedAliasCount:records.length-physical.length,confirmed:physical.filter(r=>r.confidence==='confirmed').length,probable:physical.filter(r=>r.confidence==='probable').length,unknown:physical.filter(r=>r.confidence==='unknown').length,artwork:physical.filter(r=>r.cover).length,spotify:physical.filter(r=>r.spotifyId).length,note:'Source positions retain stable IDs, including documented folded sleeve edges. Covers may show other pressings; illustrated vinyl is not a photograph of the original disc.'};
 const serialized=JSON.stringify({meta,records},null,2)+'\n';
 await writeFile(new URL('../dist/catalog.json',import.meta.url),serialized);
 const hash=createHash('sha256').update(serialized).digest('hex').slice(0,12);

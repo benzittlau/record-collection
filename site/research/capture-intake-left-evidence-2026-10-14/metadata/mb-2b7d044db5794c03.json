@@ -1,0 +1,89 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22Dire+Straits%22+AND+artist%3A%22Dire+Straits%22+AND+format%3Avinyl&fmt=json&limit=30",
+  "retrieved": "2026-10-15T03:14:38Z",
+  "data": {
+    "created": "2026-10-15T03:14:38.870Z",
+    "count": 1,
+    "offset": 0,
+    "releases": [
+      {
+        "id": "35f7de6f-236f-4018-af74-3a674067bcbb",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+        "artist-credit-id": "8fa379c3-a27c-3da3-b315-a43d27a6e250",
+        "count": 2,
+        "title": "Alchemy: Dire Straits Live",
+        "status": "Official",
+        "packaging": "Gatefold Cover",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "Dire Straits",
+            "artist": {
+              "id": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+              "name": "Dire Straits",
+              "sort-name": "Dire Straits"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "43efa07b-7298-3458-b591-5e1083b5dcb8",
+          "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "Alchemy: Dire Straits Live",
+          "primary-type": "Album",
+          "secondary-types": [
+            "Live"
+          ],
+          "secondary-type-ids": [
+            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+          ]
+        },
+        "date": "1984",
+        "country": "PT",
+        "release-events": [
+          {
+            "date": "1984",
+            "area": {
+              "id": "781b0c54-3d54-362d-a941-8a617def4992",
+              "name": "Portugal",
+              "sort-name": "Portugal",
+              "iso-3166-1-codes": [
+                "PT"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "818 243-1",
+            "label": {
+              "id": "1b3b52a5-ef89-4f8b-8d5f-e15a7a58863b",
+              "name": "Vertigo"
+            }
+          }
+        ],
+        "track-count": 10,
+        "media": [
+          {
+            "id": "96a835d7-5b6b-367c-80ea-31115bf577fa",
+            "format": "Vinyl",
+            "disc-count": 0,
+            "track-count": 5
+          },
+          {
+            "id": "9230e788-23a6-34c2-b053-c6d17e28360e",
+            "format": "Vinyl",
+            "disc-count": 0,
+            "track-count": 5
+          }
+        ]
+      }
+    ]
+  }
+}

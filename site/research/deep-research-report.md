@@ -1,5 +1,8 @@
 # Record identification and artwork research
 
+> October 14 capture update: The completed 90-photo intake now confirms 311 physical items; seven conditional spine edges remain unresolved. Clean sourced artwork is preferred, with two actual-copy back-photo fallbacks. The earlier research below is retained as history; see [the intake receipt and decisions](capture-intake-2026-10-14/README.md) for current outcomes.
+
+
 Deep pass completed 2026-10-13. Every catalogued position was reviewed across the three box research shards. The source photos preserve physical order, but 318 outlined positions are estimates: some very thin edges may be folded parts of a neighboring sleeve. One item is Roger Dean's Views art book.
 
 ## Results

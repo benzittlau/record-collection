@@ -1,0 +1,1527 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 3,
+    "per_page": 25,
+    "items": 56,
+    "urls": {
+      "last": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Jimi+Hendrix&catno=6281&page=3",
+      "next": "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&artist=Jimi+Hendrix&catno=6281&page=2"
+    }
+  },
+  "results": [
+    {
+      "country": "US",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 12162106,
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records",
+        "Yameta Co. Ltd.",
+        "Capitol Records Pressing Plant, Jacksonville"
+      ],
+      "type": "release",
+      "barcode": [
+        "0",
+        "30,725",
+        "30,726",
+        "RS-1-6281 JW2 #2 M̶ 0",
+        "RS-2-6281 JW2 #1 0",
+        "RS-1-6281 JW2 #2 M̶ 0",
+        "RS-2-6281 JW2 #3 0"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/12162106-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12162106",
+      "community": {
+        "want": 416,
+        "have": 324
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Jacksonville Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Columbia Records Pressing Plant, Santa Maria",
+        "A. Schroeder Music",
+        "Customatrix"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 11516035,
+      "barcode": [
+        "30,725",
+        "30,726",
+        "Ƨ  \\  30725  RS-6281-A  1A  o  A3",
+        "Ƨ  30726  RS-6281-B  1A  o  A4",
+        "Ƨ \\ 30725 RS-6281-A 1-B o /\\ 4",
+        "Ƨ 30726 RS-6281-B 1A / o A5",
+        "Ƨ o 1 30725 RS-6281-A 1-B B2",
+        "Ƨ 30726 RS-6281-B 1A o A7",
+        " Ƨ \\ 30725 RS-6281-A 1-B o/\\6 ",
+        " Ƨ 30726 RS-6281-B 1A / o A5 "
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/11516035-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11516035",
+      "community": {
+        "want": 824,
+        "have": 1076
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold, Santa Maria Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records Inc.",
+        "Warner Communications",
+        "Yameta Productions",
+        "Yameta Co. Ltd.",
+        "Sea-Lark Enterprises, Inc.",
+        "Warner Bros. Records Inc.",
+        "Capitol Records Pressing Plant, Los Angeles",
+        "Schroeder Music Publ. Co. Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 12539918,
+      "barcode": [
+        "30,725",
+        "30,726",
+        "RS-6281 (30725-1) 1-W·1·  2  ✲",
+        "RS-6281 (30726-1) 2-W-1·  2  ✲",
+        "RS-6281 (30725-1) 1-W·1·  3  ✲ #64",
+        "RS-6281 (30726-1) 2-W·1·  2  ✲ #64",
+        "RS-6281 (30725-1) 1-W·1·  1  ✲",
+        "RS-6281 (30726-1) 2-W-1·  1  ✲"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/12539918-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12539918",
+      "community": {
+        "want": 445,
+        "have": 428
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Los Angeles Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo",
+        "Reissue"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock",
+        "Classic Rock"
+      ],
+      "id": 3624653,
+      "label": [
+        "Reprise Records",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Music Of Canada, Ltd.",
+        "Reprise Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "30725 RS-6281-A 1A",
+        "30726 RS-6281-B 1A"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/3624653-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/3624653",
+      "community": {
+        "want": 590,
+        "have": 184
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 10338221,
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Music Of Canada, Ltd.",
+        "Shorewood Packaging Corp. Of Canada Ltd.",
+        "Yameta Co. Ltd.",
+        "Columbia Records Pressing Plant, Don Mills, ON"
+      ],
+      "type": "release",
+      "barcode": [
+        "(30,725)",
+        "(30,726)",
+        "C2-D 30725-1A",
+        "C2-DO 30726-1A",
+        "C2-D 30725-1A o",
+        "C2-DO 30726-1A o"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/10338221-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/10338221",
+      "community": {
+        "want": 438,
+        "have": 175
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold Album Cover",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Repress",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Yameta Co. Ltd.",
+        "Polydor Records Ltd.",
+        "A. Schroeder Music",
+        "RCA Records Pressing Plant, Indianapolis"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 7528837,
+      "barcode": [
+        "30725 1S I",
+        "30726 1S I",
+        "(30,725)",
+        "(30,726)",
+        "I"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/7528837-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "R 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7528837",
+      "community": {
+        "want": 701,
+        "have": 400
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "RCA Indianapolis Pressing ",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "2000",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Test Pressing",
+        "Stereo"
+      ],
+      "label": [
+        "Track Record",
+        "Record Technology Incorporated"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Blues"
+      ],
+      "style": [
+        "Modern Electric Blues",
+        "Psychedelic Rock"
+      ],
+      "id": 14020947,
+      "barcode": [
+        "R-6281 A",
+        "R-6281 B"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/14020947-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "R-6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/14020947",
+      "community": {
+        "want": 357,
+        "have": 7
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Test Pressing",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Communications",
+        "Warner Bros. Records Inc.",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Yameta Productions",
+        "Capitol Records Pressing Plant, Winchester",
+        "Capitol Records Pressing Plant, Jacksonville",
+        "Yameta Co. Ltd.",
+        "Sea-Lark Enterprises, Inc.",
+        "A. Schroeder Music Pub. Co. Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 19840834,
+      "barcode": [
+        "30,725",
+        "30,726",
+        "RS •1• 6281 JW 3 0",
+        "RS-2-6281 WW2 #2 ─̶◁̶ 0",
+        "RS -1- 6281 JW 3#1 0",
+        "RS-2-6281 WW2 #2 ·̶ ̶─̶◁̶ 0"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/19840834-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/19840834",
+      "community": {
+        "want": 280,
+        "have": 214
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Jacksonville Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Yameta Co. Ltd.",
+        "A. Schroeder Music",
+        "Customatrix",
+        "Columbia Records Pressing Plant, Santa Maria"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 4908740,
+      "barcode": [
+        "30,725",
+        "30,726",
+        "30725 RS-6281-A 1-B Sx D o",
+        "30726 RS-6281-B 1A Sx A A o",
+        "30725 RS-6281 1-E 3 A3",
+        "30726 RS6281-B-1G o Sx A"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/4908740-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/4908740",
+      "community": {
+        "want": 749,
+        "have": 1200
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Santa Maria Pressing, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Musique Du Canada Ltée.",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Musique Du Canada Ltée.",
+        "Yameta Co. Ltd.",
+        "Customatrix",
+        "Columbia Records Pressing Plant, Don Mills, ON",
+        "Columbia Records Pressing Plant, Don Mills, ON"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 5475898,
+      "barcode": [
+        "30,725",
+        "30,726",
+        "C2-D o 30725-1A",
+        "C2-DO 30726-1A",
+        "C2-D o 30725-1A",
+        "C2-DO 25 30726-1A o",
+        "C2-D 30725-1A DM-13 o",
+        "C2-DO 30726-1A o DM-33",
+        "C2-D o 30725-1A",
+        "C2-DO 30726-1A o"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/5475898-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5475898",
+      "community": {
+        "want": 612,
+        "have": 636
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 5348425,
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Music Of Canada, Ltd.",
+        "Quality Records Limited",
+        "The Lacquer Channel Limited"
+      ],
+      "type": "release",
+      "barcode": [
+        "Q",
+        "31,725",
+        "31,726",
+        "RS•6281•A• TLC A•",
+        "RS-6821-B-2 TLC•T"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/5348425-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/5348425",
+      "community": {
+        "want": 588,
+        "have": 425
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1979",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records",
+        "Yameta Co. Ltd.",
+        "Specialty Records Corporation"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock",
+        "Blues"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Hard Rock"
+      ],
+      "id": 8086763,
+      "barcode": [
+        "RS-1-6281-SR1",
+        "RS-2-6281-SR1",
+        "R and C inside an S",
+        "30,725",
+        "30,726"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/8086763-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/8086763",
+      "community": {
+        "want": 572,
+        "have": 685
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1974",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Reprise Records",
+        "Columbia Records Pressing Plant, Terre Haute",
+        "Columbia Records Pressing Plant, Santa Maria",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records Inc.",
+        "A. Schroeder Music Pub. Co. Ltd.",
+        "Yameta Productions",
+        "Yameta Co. Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock",
+        "Hard Rock"
+      ],
+      "id": 37233693,
+      "barcode": [
+        "30,725",
+        "30,726 ",
+        "T1 30725 RS6281A-1G D3",
+        "30726 RS6281-B-1G SXT B A̶4",
+        "4"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/37233693-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis:  Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/37233693",
+      "community": {
+        "want": 35,
+        "have": 11
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Terre Haute Pressing",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 11917271,
+      "label": [
+        "Reprise Records",
+        "Reprise Records"
+      ],
+      "type": "release",
+      "barcode": [
+        "T1     30725 RS6281A-1G     A15",
+        "XS     30726 RS-6281B     1A     o     A20     A15",
+        "T1     30725 RS6281A-1G     A6",
+        "XS     30726 RS-6281B     1A     o     A"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/11917271-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis:  Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11917271",
+      "community": {
+        "want": 417,
+        "have": 274
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Mono"
+      ],
+      "label": [
+        "Reprise Records",
+        "Olympic Studios",
+        "Polydor Records Ltd.",
+        "A. Schroeder Music",
+        "Ernest J. Day & Co. Ltd.",
+        "Ernest J. Day & Co. Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 12234958,
+      "barcode": [
+        "10725-1S",
+        "10726-1S"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/12234958-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "R 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/12234958",
+      "community": {
+        "want": 786,
+        "have": 93
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Mono"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1986",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Warner Bros. Records",
+        "Yameta Co. Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 26207732,
+      "barcode": [
+        "30,725",
+        "30,726",
+        "RS-1-6281 - SR1",
+        "RS-2-6281 - SR1",
+        "0 7599-27440-1"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/26207732-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/26207732",
+      "community": {
+        "want": 178,
+        "have": 77
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "label": [
+        "Reprise Records",
+        "Ever Reddy",
+        "Warner Bros.-Seven Arts Records Of Canada Ltd.",
+        "Warner Bros.-Seven Arts Records Of Canada Ltd.",
+        "Warner Bros. Records Of Canada, Ltd.",
+        "Warner Bros. Records Of Canada, Ltd.",
+        "Yameta Co. Ltd."
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 1562677,
+      "barcode": [
+        "30725 RS-6281-A 1A",
+        "30726 RS-6281-B 1A",
+        "30725 TG"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/1562677-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/1562677",
+      "community": {
+        "want": 650,
+        "have": 289
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Repress",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Columbia Records Pressing Plant, Terre Haute",
+        "Columbia Records Pressing Plant, Santa Maria",
+        "Warner Bros. Records Inc.",
+        "A. Schroeder Music Pub. Co. Ltd.",
+        "Yameta Productions"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 20341945,
+      "barcode": [
+        "30,725",
+        "30,726 ",
+        "T1 30725 RS6281A-1G ",
+        "30726 RS-6281-B 1A 0 SX A",
+        "T1"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/20341945-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis:  Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/20341945",
+      "community": {
+        "want": 272,
+        "have": 281
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Terre Haute Pressing",
+          "descriptions": [
+            "LP",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1968",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Promo",
+        "Mono"
+      ],
+      "label": [
+        "Reprise Records"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 7233589,
+      "barcode": [
+        "10725 R-6281 A 1A",
+        "10725 R-6281 B 1A"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/7233589-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "R 6281",
+      "title": "The Jimi Hendrix Experience - Axis Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/7233589",
+      "community": {
+        "want": 1043,
+        "have": 220
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Promo",
+            "Mono"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 30418622,
+      "label": [
+        "Reprise Records",
+        "Columbia Records Pressing Plant, Terre Haute"
+      ],
+      "type": "release",
+      "barcode": [
+        "T",
+        "4",
+        "(30,725)",
+        "(30,726)",
+        "30725 RS-6281 º 1-D 1 Λ T",
+        "30726 RS-6281 º 1-C T"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/30418622-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/30418622",
+      "community": {
+        "want": 130,
+        "have": 41
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Terre Haute Pressing, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1969",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Repress",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Warner Bros. Records Inc.",
+        "Customatrix",
+        "Columbia Records Pressing Plant, Terre Haute"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 9045763,
+      "barcode": [
+        "30725  o  RS-6281 A 1-C  29",
+        "30726 o RS-6281 1-C  57",
+        "o 30725 RS-6281 1-C 1 V 11 T",
+        "30726 o RS-6281 1-C 1 C 1 T"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/9045763-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9045763",
+      "community": {
+        "want": 642,
+        "have": 453
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Terre Haute Press.",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo",
+        "Reissue"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 9252516,
+      "label": [
+        "Reprise Records",
+        "Capitol Records Pressing Plant, Los Angeles"
+      ],
+      "type": "release",
+      "barcode": [
+        "(30,725)",
+        "(30,726)",
+        "RS-1-6281-LW3  *",
+        "RS {scratched}B-S -2-6281-LW2  \"[stickman]\"  *",
+        "RS BS(scratched out)-1-6281-LW2- (stickman) *",
+        "RS BS(scratched out)-2-6281-LW2 (stickman) *"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/9252516-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/9252516",
+      "community": {
+        "want": 474,
+        "have": 147
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Los Angeles Pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo",
+            "Reissue"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Warner Bros. Records Of Canada, Ltd.",
+        "Warner Bros.-Seven Arts Records Of Canada Ltd.",
+        "Warner Bros. Records Of Canada, Ltd.",
+        "Warner Bros.-Seven Arts Records Of Canada Ltd.",
+        "A. Schroeder Music",
+        "Olympic Studios",
+        "RCA Studios, Toronto",
+        "RCA Records Pressing Plant, Smiths Falls, Ontario",
+        "Ever Reddy"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "id": 11933990,
+      "barcode": [
+        "ACR",
+        "30,725",
+        "30,726",
+        "30725-2 . TG . ACR",
+        "307262 . TG . ACR"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/11933990-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/11933990",
+      "community": {
+        "want": 410,
+        "have": 83
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "US",
+      "year": "1970",
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "label": [
+        "Reprise Records",
+        "Reprise Records",
+        "Warner Bros. Records Inc.",
+        "Warner Bros. - Seven Arts Records, Inc.",
+        "Yameta Co. Ltd.",
+        "Sea-Lark Enterprises, Inc.",
+        "A. Schroeder Music Pub. Co. Ltd.",
+        "Customatrix",
+        "Columbia Records Pressing Plant, Santa Maria",
+        "Columbia Records Pressing Plant, Santa Maria"
+      ],
+      "type": "release",
+      "genre": [
+        "Rock"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 30043096,
+      "barcode": [
+        "30,725",
+        "30,726",
+        "30725 RS-6281-A 1-B o Sx D",
+        "p o 30726 RS-6281-B 1A Sx D"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/30043096-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/30043096",
+      "community": {
+        "want": 152,
+        "have": 23
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Pitman Pressing, Gatefold",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Reissue",
+            "Stereo"
+          ]
+        }
+      ]
+    },
+    {
+      "country": "Canada",
+      "genre": [
+        "Rock"
+      ],
+      "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo",
+        "Reissue"
+      ],
+      "style": [
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "id": 705879,
+      "label": [
+        "Reprise Records",
+        "Warner Communications",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Musique Du Canada Ltée.",
+        "WEA Music Of Canada, Ltd.",
+        "WEA Musique Du Canada Ltée.",
+        "The Lacquer Channel Limited",
+        "Impact Records Mfg. Co. Of Canada"
+      ],
+      "type": "release",
+      "barcode": [
+        "I",
+        "30,725",
+        "30,726",
+        "RS·6281·A TLC-A · JC.",
+        "RS-6281-B-2 TLC·T"
+      ],
+      "master_id": 24511,
+      "master_url": "https://api.discogs.com/masters/24511",
+      "uri": "/release/705879-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love",
+      "catno": "RS 6281",
+      "title": "The Jimi Hendrix Experience - Axis: Bold As Love",
+      "thumb": "",
+      "cover_image": "",
+      "resource_url": "https://api.discogs.com/releases/705879",
+      "community": {
+        "want": 646,
+        "have": 450
+      },
+      "format_quantity": 1,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "text": "Impact pressing",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Stereo",
+            "Reissue"
+          ]
+        }
+      ]
+    }
+  ]
+}

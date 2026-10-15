@@ -1,0 +1,654 @@
+{
+  "id": "lower-middle-44",
+  "queries": [
+    "https://api.discogs.com/database/search?type=release&format=Vinyl&per_page=25&release_title=Mouse+Factory&catno=1342"
+  ],
+  "releases": [
+    {
+      "id": 8353000,
+      "title": "The Mouse Factory Presents Mickey And His Friends",
+      "artists": [
+        {
+          "name": "Various",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "country": "Canada",
+      "year": 1973,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Repress"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Disneyland",
+          "catno": "1342",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 35242,
+          "resource_url": "https://api.discogs.com/labels/35242",
+          "thumbnail_url": "https://i.discogs.com/mvYUf9GNq3FAmSmXzmHLmxr6xBUUB7jhzrLcvG_UvoU/rs:fit/g:sm/q:90/h:219/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1MjQy/LTE0MDY4NTMxNTEt/MzQ2Mi5qcGVn.jpeg"
+        }
+      ],
+      "notes": null,
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "Happy Mouse",
+          "extraartists": [
+            {
+              "name": "Gil George",
+              "anv": "George",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 923937,
+              "resource_url": "https://api.discogs.com/artists/923937"
+            },
+            {
+              "name": "Paul J. Smith",
+              "anv": "Smith",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 923938,
+              "resource_url": "https://api.discogs.com/artists/923938"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "Donald Duck Song",
+          "extraartists": [
+            {
+              "name": "Oliver Wallace",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 784858,
+              "resource_url": "https://api.discogs.com/artists/784858"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "Quack! Quack! Quack! Donald Duck ",
+          "extraartists": [
+            {
+              "name": "Jimmie Dodd",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 739211,
+              "resource_url": "https://api.discogs.com/artists/739211"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "Uncle Scrooge's Rocket To The Moon",
+          "duration": ""
+        },
+        {
+          "position": "A5",
+          "type_": "track",
+          "title": "Donald's Party; Kookaburra; Polly Wolly Doodle; Daisy, Daisy; Row, Row, Row Your Boat; For He's A Jolly Good Fellow. ",
+          "duration": ""
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "title": "Minnie's Yoo Hoo ",
+          "duration": ""
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "Mickey Mouse March",
+          "extraartists": [
+            {
+              "name": "Jimmie Dodd",
+              "anv": "Jimmy Dodd",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 739211,
+              "resource_url": "https://api.discogs.com/artists/739211"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "The Ballad Of Davy Crocket ",
+          "extraartists": [
+            {
+              "name": "George Bruns",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 692755,
+              "resource_url": "https://api.discogs.com/artists/692755"
+            },
+            {
+              "name": "Tom Blackburn",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 814545,
+              "resource_url": "https://api.discogs.com/artists/814545"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "title": "The Baby Mosquito ",
+          "duration": ""
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "Goofy Commercials ",
+          "duration": ""
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "All About Recording ",
+          "duration": ""
+        },
+        {
+          "position": "B6",
+          "type_": "track",
+          "title": "Minnie's Yoo Hoo",
+          "extraartists": [
+            {
+              "name": "Carl Stalling",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 306884,
+              "resource_url": "https://api.discogs.com/artists/306884"
+            }
+          ],
+          "duration": ""
+        }
+      ],
+      "url": "https://www.discogs.com/release/8353000",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-44-discogs-8353000-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/wzT-JW4hvndG1J5WxrmnjwqV-xg3iY0jNX8w6UYy3rM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTMw/MDAtMTQ1OTk0NDky/MC04MDY5LmpwZWc.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 594,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-44-discogs-8353000-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/sGUN1_IuGSulo39rzaL8KKOGbL-naHbPcELUrfOj6QU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTMw/MDAtMTQ1OTk0NDky/Mi00NzQxLmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 596,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-44-discogs-8353000-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/sJ2aVKVp6_gyBKRqJ-EXS2zz1VicnGEVP5r3eL0PRUA/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTMw/MDAtMTUxODk5NDc0/Ni00ODA0LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 585,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-44-discogs-8353000-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/iJ1TJAOcenaoTdtHkBCfjJnkHrSS14q537-lv6pZuPk/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNTMw/MDAtMTUxODk5NDc0/Ni00NzA4LmpwZWc.jpeg",
+          "type": "secondary",
+          "width": 590,
+          "height": 600,
+          "error": null
+        }
+      ]
+    },
+    {
+      "id": 26751035,
+      "title": "The Mouse Factory Presents Mickey And His Friends",
+      "artists": [
+        {
+          "name": "Various",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 194,
+          "resource_url": "https://api.discogs.com/artists/194"
+        }
+      ],
+      "country": "US",
+      "year": 1972,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "name": "Disneyland",
+          "catno": "DQ-1342",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 35242,
+          "resource_url": "https://api.discogs.com/labels/35242",
+          "thumbnail_url": "https://i.discogs.com/mvYUf9GNq3FAmSmXzmHLmxr6xBUUB7jhzrLcvG_UvoU/rs:fit/g:sm/q:90/h:219/w:399/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1MjQy/LTE0MDY4NTMxNTEt/MzQ2Mi5qcGVn.jpeg"
+        }
+      ],
+      "notes": "© 1972 Walt Disney Productions\nPrinted in U.S.A.\n\nTrack A5e artist is credited with - All\n\nJimmie Dodd Is wrong credited to track A4 instead A3, artist has been assigned to the correct track.\n\nSlightly different label to [r4773131] and [r11456437]\nOnly the cat number is under the left castle, set inwards.\n",
+      "tracklist": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Unknown Artist",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 355,
+              "resource_url": "https://api.discogs.com/artists/355"
+            }
+          ],
+          "title": "Happy Mouse",
+          "extraartists": [
+            {
+              "name": "Gil George",
+              "anv": "George",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 923937,
+              "resource_url": "https://api.discogs.com/artists/923937"
+            },
+            {
+              "name": "Paul J. Smith",
+              "anv": "Smith",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 923938,
+              "resource_url": "https://api.discogs.com/artists/923938"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Unknown Artist",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 355,
+              "resource_url": "https://api.discogs.com/artists/355"
+            }
+          ],
+          "title": "Donald Duck Song",
+          "extraartists": [
+            {
+              "name": "Oliver Wallace",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 784858,
+              "resource_url": "https://api.discogs.com/artists/784858"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Unknown Artist",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 355,
+              "resource_url": "https://api.discogs.com/artists/355"
+            }
+          ],
+          "title": "Quack! Quack! Quack! Donald Duck",
+          "extraartists": [
+            {
+              "name": "Jimmie Dodd",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 739211,
+              "resource_url": "https://api.discogs.com/artists/739211"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Unknown Artist",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 355,
+              "resource_url": "https://api.discogs.com/artists/355"
+            }
+          ],
+          "title": "Uncle Scrooge's Rocket To The Moon",
+          "duration": ""
+        },
+        {
+          "position": "",
+          "type_": "index",
+          "title": "Donald's Party",
+          "duration": "",
+          "sub_tracks": [
+            {
+              "position": "A5a",
+              "type_": "track",
+              "title": "Kookaburra",
+              "duration": ""
+            },
+            {
+              "position": "A5b",
+              "type_": "track",
+              "title": "Polly Wolly Doodle",
+              "duration": ""
+            },
+            {
+              "position": "A5c",
+              "type_": "track",
+              "title": "Daisy, Daisy",
+              "duration": ""
+            },
+            {
+              "position": "A5d",
+              "type_": "track",
+              "title": "Row, Row, Row Your Boat",
+              "duration": ""
+            },
+            {
+              "position": "A5e",
+              "type_": "track",
+              "title": "For He's A Jolly Good Fellow",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "position": "A6",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Unknown Artist",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 355,
+              "resource_url": "https://api.discogs.com/artists/355"
+            }
+          ],
+          "title": "Minnie's Yoo Hoo!",
+          "extraartists": [
+            {
+              "name": "Carl Stalling",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 306884,
+              "resource_url": "https://api.discogs.com/artists/306884"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B1",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Jimmie Dodd",
+              "anv": "",
+              "join": ",",
+              "role": "",
+              "tracks": "",
+              "id": 739211,
+              "resource_url": "https://api.discogs.com/artists/739211"
+            },
+            {
+              "name": "The Mouseketeers Chorus And Orchestra",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 1223456,
+              "resource_url": "https://api.discogs.com/artists/1223456"
+            }
+          ],
+          "title": "Mickey Mouse March",
+          "extraartists": [
+            {
+              "name": "Jimmie Dodd",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 739211,
+              "resource_url": "https://api.discogs.com/artists/739211"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Four Mosquitoes From Jersey Marsh",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 6765939,
+              "resource_url": "https://api.discogs.com/artists/6765939"
+            }
+          ],
+          "title": "The Ballad Of Davy Crockett",
+          "extraartists": [
+            {
+              "name": "George Bruns",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 692755,
+              "resource_url": "https://api.discogs.com/artists/692755"
+            },
+            {
+              "name": "Tom Blackburn",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 814545,
+              "resource_url": "https://api.discogs.com/artists/814545"
+            }
+          ],
+          "duration": ""
+        },
+        {
+          "position": "B3",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Goofy (2)",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 682682,
+              "resource_url": "https://api.discogs.com/artists/682682"
+            }
+          ],
+          "title": "The Baby Mosquito",
+          "duration": ""
+        },
+        {
+          "position": "B4",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Unknown Artist",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 355,
+              "resource_url": "https://api.discogs.com/artists/355"
+            }
+          ],
+          "title": "Goofy Commercials",
+          "duration": ""
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Ludwig Von Drake",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 2911781,
+              "resource_url": "https://api.discogs.com/artists/2911781"
+            }
+          ],
+          "title": "All About Recording",
+          "duration": ""
+        },
+        {
+          "position": "B6",
+          "type_": "track",
+          "artists": [
+            {
+              "name": "Unknown Artist",
+              "anv": "",
+              "join": "",
+              "role": "",
+              "tracks": "",
+              "id": 355,
+              "resource_url": "https://api.discogs.com/artists/355"
+            }
+          ],
+          "title": "Minnie's Yoo Hoo!",
+          "extraartists": [
+            {
+              "name": "Carl Stalling",
+              "anv": "",
+              "join": "",
+              "role": "Written-By",
+              "tracks": "",
+              "id": 306884,
+              "resource_url": "https://api.discogs.com/artists/306884"
+            }
+          ],
+          "duration": ""
+        }
+      ],
+      "url": "https://www.discogs.com/release/26751035",
+      "images": [
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-44-discogs-26751035-0.jpg",
+          "imageIndex": 0,
+          "sourceUrl": "https://i.discogs.com/6dP-3b0I_UGH9tFwZVpVaBQWX6k_RmVzisadu6CZz50/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzUx/MDM1LTE2ODE0MTkw/NjMtNjMxMS5qcGVn.jpeg",
+          "type": "primary",
+          "width": 600,
+          "height": 594,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-44-discogs-26751035-1.jpg",
+          "imageIndex": 1,
+          "sourceUrl": "https://i.discogs.com/0N7TqFbDC7awSPdWMXw5YPLfYsEVpIw3-RP9B4fRwhA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzUx/MDM1LTE2ODE0MTkw/NjMtNDk5Ni5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 599,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-44-discogs-26751035-2.jpg",
+          "imageIndex": 2,
+          "sourceUrl": "https://i.discogs.com/m_GuCw1xVxzqgTPm3uVCEbQyYd7CXZCvr2ilSblNEOM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzUx/MDM1LTE2ODE0MTkw/NjItNTE3Ni5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 595,
+          "height": 600,
+          "error": null
+        },
+        {
+          "path": "site/research/artwork-candidates/capture-intake-middle/lower-middle-44-discogs-26751035-3.jpg",
+          "imageIndex": 3,
+          "sourceUrl": "https://i.discogs.com/BIY5gsr9zFY9xAQ2GHFTa2OucYTTveV7BMAdTJsc0RQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzUx/MDM1LTE2ODE0MTkw/NjItMTg4MS5qcGVn.jpeg",
+          "type": "secondary",
+          "width": 600,
+          "height": 598,
+          "error": null
+        }
+      ]
+    }
+  ]
+}

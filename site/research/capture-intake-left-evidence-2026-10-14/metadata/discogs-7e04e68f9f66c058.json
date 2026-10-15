@@ -1,0 +1,534 @@
+{
+  "url": "https://api.discogs.com/releases/905882",
+  "retrieved": "2026-10-15T03:26:55Z",
+  "data": {
+    "id": 905882,
+    "status": "Accepted",
+    "year": 1973,
+    "resource_url": "https://api.discogs.com/releases/905882",
+    "uri": "https://www.discogs.com/release/905882-Bo-Hansson-Magicians-Hat",
+    "artists": [
+      {
+        "name": "Bo Hansson",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 240815,
+        "resource_url": "https://api.discogs.com/artists/240815",
+        "thumbnail_url": "https://i.discogs.com/kc5iRyzzKVhk1hHS_Q29vmOBWTdWyqN5IYO4cPKDqgw/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0MDgx/NS0xMjg2ODgzNjkw/LmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "Bo Hansson",
+    "labels": [
+      {
+        "name": "Charisma",
+        "catno": "FC 6062",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 3109,
+        "resource_url": "https://api.discogs.com/labels/3109",
+        "thumbnail_url": "https://i.discogs.com/xdXicj-QfyH-4lFVjrsR2vmkUdyh03Zm8Z33V9ui65E/rs:fit/g:sm/q:90/h:477/w:477/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMDkt/MTM1NDY1MzA1My0z/NTk3LmpwZWc.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Atlantic Recording Corporation",
+        "catno": "",
+        "entity_type": "9",
+        "entity_type_name": "Distributed By",
+        "id": 23937,
+        "resource_url": "https://api.discogs.com/labels/23937",
+        "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+      },
+      {
+        "name": "Stratton-Smith Productions, Ltd.",
+        "catno": "",
+        "entity_type": "13",
+        "entity_type_name": "Phonographic Copyright (p)",
+        "id": 314075,
+        "resource_url": "https://api.discogs.com/labels/314075"
+      },
+      {
+        "name": "Studio Decibel",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 352242,
+        "resource_url": "https://api.discogs.com/labels/352242"
+      },
+      {
+        "name": "Presswell",
+        "catno": "",
+        "entity_type": "17",
+        "entity_type_name": "Pressed By",
+        "id": 130920,
+        "resource_url": "https://api.discogs.com/labels/130920",
+        "thumbnail_url": "https://i.discogs.com/ysV-e6sWbExpfZeN9fnDYcNiNvIjmBIqrwjhLWvN2j4/rs:fit/g:sm/q:90/h:135/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMDky/MC0xMzQwNDE4NTUw/LTI4NDUuanBlZw.jpeg"
+      },
+      {
+        "name": "Mooncrest Music",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 381607,
+        "resource_url": "https://api.discogs.com/labels/381607"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "PR - Presswell Pressing"
+      }
+    ],
+    "data_quality": "Correct",
+    "community": {
+      "have": 1063,
+      "want": 302,
+      "rating": {
+        "count": 93,
+        "average": 4.23
+      },
+      "submitter": {
+        "username": "funprox",
+        "resource_url": "https://api.discogs.com/users/funprox"
+      },
+      "contributors": [
+        {
+          "username": "funprox",
+          "resource_url": "https://api.discogs.com/users/funprox"
+        },
+        {
+          "username": "Morten-Hattestad",
+          "resource_url": "https://api.discogs.com/users/Morten-Hattestad"
+        },
+        {
+          "username": "mikosteuben",
+          "resource_url": "https://api.discogs.com/users/mikosteuben"
+        },
+        {
+          "username": "1a2sections",
+          "resource_url": "https://api.discogs.com/users/1a2sections"
+        },
+        {
+          "username": "Darthemed",
+          "resource_url": "https://api.discogs.com/users/Darthemed"
+        },
+        {
+          "username": "belzoboy",
+          "resource_url": "https://api.discogs.com/users/belzoboy"
+        },
+        {
+          "username": "Modern.Angel",
+          "resource_url": "https://api.discogs.com/users/Modern.Angel"
+        },
+        {
+          "username": "data_boy",
+          "resource_url": "https://api.discogs.com/users/data_boy"
+        },
+        {
+          "username": "MeraMors",
+          "resource_url": "https://api.discogs.com/users/MeraMors"
+        },
+        {
+          "username": "Pongo214",
+          "resource_url": "https://api.discogs.com/users/Pongo214"
+        },
+        {
+          "username": "CDLP60",
+          "resource_url": "https://api.discogs.com/users/CDLP60"
+        },
+        {
+          "username": "antonhund",
+          "resource_url": "https://api.discogs.com/users/antonhund"
+        },
+        {
+          "username": "hockeydad9371",
+          "resource_url": "https://api.discogs.com/users/hockeydad9371"
+        }
+      ],
+      "data_quality": "Correct",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2007-04-06T00:46:28-07:00",
+    "date_changed": "2023-09-07T15:32:16-07:00",
+    "num_for_sale": 40,
+    "lowest_price": 3.93,
+    "master_id": 96550,
+    "master_url": "https://api.discogs.com/masters/96550",
+    "title": "Magician's Hat",
+    "country": "US",
+    "released": "1973",
+    "notes": "English version of \"Ur Trollkarlens Hatt\".",
+    "released_formatted": "1973",
+    "identifiers": [
+      {
+        "type": "Rights Society",
+        "value": "ASCAP"
+      },
+      {
+        "type": "Pressing Plant ID",
+        "value": "PR"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-FC-733025-PR",
+        "description": "Side A label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-FC-733026-PR",
+        "description": "Side B label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-FC-733025 AAA-1 AT GP NEW-M  PR",
+        "description": "Side A runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-FC-733026 AAA-1 AT GP N-A1 PR",
+        "description": "Side B runout, variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-FC-733025 A AT GP NEW-M. PR",
+        "description": "Side A runout, variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-FC-733026 A AT, GP N-M. PR",
+        "description": "Side B runout, variant 2"
+      }
+    ],
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=kwH0Nk3v5JQ",
+        "title": "Bo Hansson ► Storstad (The City) [HQ Audio] Ur Trollkarlens Hatt, 1972",
+        "description": "Recorded and produced at Studio Decibel, 1972.\n\nBo Hansson - organ, synthesizer, guitar \nKenny Håkansson - guitar\nGunnar Bergsten - flute, saxophones\nSten Bergman - flute\nRune Carlsson - drums, congas, cowbell\nBobo Stenson - electric piano \nOwe Gustavsson",
+        "duration": 0,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=4jdrRIMj0gY",
+        "title": "Divided Reality",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nDivided Reality · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nMusic  Publisher: E",
+        "duration": 380,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=yo9JlRzse4s",
+        "title": "Elidor",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nElidor · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nComposer: Gunnar Bergsten\nMu",
+        "duration": 96,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=JFBFU7jSRYk",
+        "title": "Before the Rain",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nBefore the Rain · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nMusic  Publisher: E",
+        "duration": 91,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=RzSMZzsyplU",
+        "title": "Fylke",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nFylke · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nMusic  Publisher: EMI Music P",
+        "duration": 113,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=7wvkGRtHipI",
+        "title": "Playing Downhill into the Downs",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nPlaying Downhill into the Downs · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nMus",
+        "duration": 106,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Z_pws-GFdv4",
+        "title": "Findhorn's Song",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nFindhorn's Song · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nMusic  Publisher: E",
+        "duration": 98,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Jva2SW0KCKs",
+        "title": "The Awakening",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nThe Awakening · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nMusic  Publisher: EMI",
+        "duration": 167,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=aOR3RFpY5ww",
+        "title": "Wandering Song",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nWandering Song · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nComposer: Kenny Håka",
+        "duration": 197,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=x204CkqTYTQ",
+        "title": "The Sun (Parallell or 90 Degrees)",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nThe Sun (Parallell or 90 Degrees) · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nM",
+        "duration": 435,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rrx01PSQQxc",
+        "title": "Excursion with Complications",
+        "description": "Provided to YouTube by Playground Music Scandinavia AB\n\nExcursion with Complications · Bo Hansson\n\nMagicians Hat\n\n℗ Silence Records\n\nReleased on: 1972-12-04\n\nArtist: Bo Hansson\nProducer: Anders Lind\nComposer: Bo Hansson\nSound  Engineer: Anders Lind\nMusic ",
+        "duration": 211,
+        "embed": true
+      }
+    ],
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Ambient",
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "The City",
+        "duration": "6:59"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Divided Reality",
+        "duration": "6:15"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Elidor",
+        "duration": "1:39"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Before The Rain",
+        "duration": "1:43"
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Fylke",
+        "duration": "1:42"
+      },
+      {
+        "position": "A6",
+        "type_": "track",
+        "title": "Playing Downhill Into The Downs",
+        "duration": "1:41"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Findhorn's Song",
+        "duration": "1:40"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Awakening",
+        "duration": "2:40"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Wandering Song",
+        "duration": "3:10"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "The Sun (Parallel Or 90º)",
+        "duration": "6:54"
+      },
+      {
+        "position": "B5",
+        "type_": "track",
+        "title": "Excursion With Complications",
+        "duration": "3:15"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Rolf Scherrer",
+        "anv": "",
+        "join": "",
+        "role": "Acoustic Guitar",
+        "tracks": "",
+        "id": 849261,
+        "resource_url": "https://api.discogs.com/artists/849261"
+      },
+      {
+        "name": "Gunnar Bergsten",
+        "anv": "",
+        "join": "",
+        "role": "Arranged By",
+        "tracks": "A1, A4",
+        "id": 296011,
+        "resource_url": "https://api.discogs.com/artists/296011"
+      },
+      {
+        "name": "Kenny Håkansson (2)",
+        "anv": "",
+        "join": "",
+        "role": "Arranged By",
+        "tracks": "B4",
+        "id": 622035,
+        "resource_url": "https://api.discogs.com/artists/622035"
+      },
+      {
+        "name": "Ove Gustavsson",
+        "anv": "Owe Gustavsson",
+        "join": "",
+        "role": "Bass",
+        "tracks": "",
+        "id": 1372272,
+        "resource_url": "https://api.discogs.com/artists/1372272"
+      },
+      {
+        "name": "Bill Öhrström",
+        "anv": "",
+        "join": "",
+        "role": "Congas",
+        "tracks": "",
+        "id": 335013,
+        "resource_url": "https://api.discogs.com/artists/335013"
+      },
+      {
+        "name": "Pelle Ekman",
+        "anv": "",
+        "join": "",
+        "role": "Drums",
+        "tracks": "",
+        "id": 722306,
+        "resource_url": "https://api.discogs.com/artists/722306"
+      },
+      {
+        "name": "Rune Carlsson",
+        "anv": "",
+        "join": "",
+        "role": "Drums",
+        "tracks": "",
+        "id": 296010,
+        "resource_url": "https://api.discogs.com/artists/296010"
+      },
+      {
+        "name": "Kenny Håkansson (2)",
+        "anv": "",
+        "join": "",
+        "role": "Electric Guitar",
+        "tracks": "",
+        "id": 622035,
+        "resource_url": "https://api.discogs.com/artists/622035"
+      },
+      {
+        "name": "Bobo Stenson",
+        "anv": "Bobo Stensson",
+        "join": "",
+        "role": "Electric Piano",
+        "tracks": "",
+        "id": 257307,
+        "resource_url": "https://api.discogs.com/artists/257307"
+      },
+      {
+        "name": "Sten Bergman",
+        "anv": "",
+        "join": "",
+        "role": "Flute",
+        "tracks": "",
+        "id": 630957,
+        "resource_url": "https://api.discogs.com/artists/630957"
+      },
+      {
+        "name": "Gunnar Bergsten",
+        "anv": "",
+        "join": "",
+        "role": "Flute, Saxophone",
+        "tracks": "",
+        "id": 296011,
+        "resource_url": "https://api.discogs.com/artists/296011"
+      },
+      {
+        "name": "Anders Lind",
+        "anv": "",
+        "join": "",
+        "role": "Producer, Recorded By",
+        "tracks": "",
+        "id": 252769,
+        "resource_url": "https://api.discogs.com/artists/252769"
+      },
+      {
+        "name": "Bo Hansson",
+        "anv": "",
+        "join": "",
+        "role": "Producer, Recorded By, Organ, Guitar, Bass, Synthesizer, Mellotron, Composed By",
+        "tracks": "",
+        "id": 240815,
+        "resource_url": "https://api.discogs.com/artists/240815"
+      },
+      {
+        "name": "Göran Freese",
+        "anv": "",
+        "join": "",
+        "role": "Saxophone",
+        "tracks": "",
+        "id": 623383,
+        "resource_url": "https://api.discogs.com/artists/623383"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/ArVCM_O9pRyZHChaHurY0wit7ISZMFIiXLQt1bWJ70Q/rs:fit/g:sm/q:90/h:450/w:431/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xMjgyMTM1MjI5/LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ArVCM_O9pRyZHChaHurY0wit7ISZMFIiXLQt1bWJ70Q/rs:fit/g:sm/q:90/h:450/w:431/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xMjgyMTM1MjI5/LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/N1R09l5J3hvsDsSMJvl1tJkWsakY8TxNl4CFkfKQ92M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xMjgyMTM1MjI5/LmpwZWc.jpeg",
+        "width": 431,
+        "height": 450
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/4U5vcDthez83J4lAe8WLgmZQ391if_4IJg60MlBS7u4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xNDE0MzM3NjU0/LTc1MzUuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/4U5vcDthez83J4lAe8WLgmZQ391if_4IJg60MlBS7u4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xNDE0MzM3NjU0/LTc1MzUuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/fOYjisI2-ogjJDficDA-JYC45IZqU4_mw1vVonkb9Eo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xNDE0MzM3NjU0/LTc1MzUuanBlZw.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/gJKyRWTz-b5bxN6o60nwISUgXlJKIuxacqS9NQM4Ibc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xNDE0MzM3NjU1/LTQxNjEuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/gJKyRWTz-b5bxN6o60nwISUgXlJKIuxacqS9NQM4Ibc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xNDE0MzM3NjU1/LTQxNjEuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/m9SOQxq1pHkyoNap47ZiltG_YIwgdHIjMSzWnfA416k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xNDE0MzM3NjU1/LTQxNjEuanBlZw.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Phe7YC4i3TqaFsKGMErPOYuSoDHXck2VGSDoZBxS7Is/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xNjYxMDkzNDQz/LTk3MzYuanBlZw.jpeg",
+        "resource_url": "https://i.discogs.com/Phe7YC4i3TqaFsKGMErPOYuSoDHXck2VGSDoZBxS7Is/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xNjYxMDkzNDQz/LTk3MzYuanBlZw.jpeg",
+        "uri150": "https://i.discogs.com/lQ6tSzyrSy-EVNrmGmCZIKVdOD0Ek0rHolL7co5TTsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xNjYxMDkzNDQz/LTk3MzYuanBlZw.jpeg",
+        "width": 590,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/N1R09l5J3hvsDsSMJvl1tJkWsakY8TxNl4CFkfKQ92M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNTg4/Mi0xMjgyMTM1MjI5/LmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  }
+}

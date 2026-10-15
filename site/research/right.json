@@ -8,7 +8,7 @@
     "year": 1964,
     "confidence": "confirmed",
     "spineText": "MUSIC FOR ZEN MEDITATION",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Title readable; artist verified against the Verve release.",
     "coverUrl": "https://i.discogs.com/GzVO9iWzgXm-Qv5_OhAt6r_Rv6g1MmyUcA1MYm-gYSw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NjAtMTUxOTQ5NzYy/Mi04Mjg0LmpwZWc.jpeg",
     "backUrl": "https://i.discogs.com/uIxUaW3rCxpTz_VDY_QcZ3uVX5QcmDFszvzpxPu84ig/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQx/NjAtMTUxOTQ5NzYz/OC03OTkzLmpwZWc.jpeg",
@@ -168,7 +168,7 @@
     "year": 1973,
     "confidence": "confirmed",
     "spineText": "WEATHER REPORT SWEETNIGHTER",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/6f38c9a5-0b6d-4927-b902-95df3f562283/16604007421.jpg",
     "backUrl": "https://coverartarchive.org/release/6f38c9a5-0b6d-4927-b902-95df3f562283/16604011800.jpg",
@@ -259,7 +259,8 @@
         "quality": "high-resolution-readable"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (NL, 1973, S 65532). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (NL, 1973, S 65532). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-03",
@@ -270,7 +271,7 @@
     "year": 1973,
     "confidence": "confirmed",
     "spineText": "DON SEBESKY/GIANT BOX CTX 6031/32",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://i.discogs.com/y_dRZOV1LG_-yBhSUI180pF_6-_jBU_4IiPceiQ-8kk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI1/MzUtMTMxMzUxOTQx/OC5qcGVn.jpeg",
     "backUrl": "https://i.discogs.com/XQjgeDqTjR_SNJtBX31eWX6tu9gQP_JGPtjDylI7rCE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTI1/MzUtMTMxMzUxOTQz/MS5qcGVn.jpeg",
@@ -425,21 +426,244 @@
     "id": "right-04",
     "box": "right",
     "position": 4,
-    "title": "Unidentified cream sleeve",
-    "artist": "Unknown artist",
+    "title": "The Quintet of the Hot Club of France",
+    "artist": "Django Reinhardt & Stéphane Grappelli",
     "year": null,
-    "confidence": "unknown",
-    "spineText": "DANCES … RENA…",
-    "photo": "reference/IMG_3573.jpg",
-    "notes": "Check the cream edge between Giant Box and Afro-Classic. If it is a separate jacket, take its front then back. If it is a folded part of Giant Box, skip this pair and leave it in place.",
-    "coverUrl": null,
-    "backUrl": null,
-    "spotifyId": null,
-    "sources": [],
-    "cover": null,
+    "confidence": "confirmed",
+    "spineText": "",
+    "photo": "assets/IMG_3573.jpg",
+    "notes": "The front and back of the family copy confirm this album.",
+    "sources": [
+      "https://www.discogs.com/release/22311889-Django-Reinhardt-Stephane-Grappelly-With-The-Quintet-Of-The-Hot-Club-Of-France-The-Quintet-Of-The-Ho"
+    ],
     "kind": "record",
     "compartment": 1,
-    "back": null
+    "familyCapture": {
+      "batch": "2026-10-14",
+      "guideVersion": "7ac3efbb41aa",
+      "printedTitle": "The Quintet of the Hot Club of France",
+      "printedArtist": "Django Reinhardt & Stéphane Grappelli",
+      "catalogueNumbers": [
+        "GNP-9001"
+      ],
+      "bindingConfidence": "confirmed",
+      "evidence": "The original room photo has a wide cream spine immediately after Giant Box reading DJANGO REINHARDT / STEPHANE GRAPPELLY; the old DANCES … RENA… transcription was incorrect. The new front and rear both print GNP-9001 and the same named musicians. The user explicitly said there were two albums before Hubert Laws and captured both; the Django pair is followed immediately by the Herbie Mann pair.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3674.HEIC",
+          "sha256": "dbdfd7b5ac40203faa09cceefea224487d30eda5bce10329d547ace901b57cf6"
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3675.HEIC",
+          "sha256": "5f931433dd4f544da3bad0a376e95c421ca2e6d436848657e7804c6ec7b608a1"
+        }
+      ],
+      "auditFile": "research/capture-intake-2026-10-14/reconciliation.json"
+    },
+    "artworkProvenance": {
+      "front": {
+        "source": "Discogs physical LP image",
+        "sourceUrl": "https://i.discogs.com/WJinwxhs9wY3_UjFfFx-zkEXrS_lazSjWAO-0m4qn1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzEx/ODg5LTE2NTI3MjYx/MDUtNjQ0MC5qcGVn.jpeg",
+        "releaseUrl": "https://www.discogs.com/release/22311889-Django-Reinhardt-Stephane-Grappelly-With-The-Quintet-Of-The-Hot-Club-Of-France-The-Quintet-Of-The-Ho",
+        "releaseId": "22311889",
+        "catalogue": [
+          "GNP-9001",
+          "GNPS 9001"
+        ],
+        "path": "assets/covers/right-04-intake-front-8faa8c9d22.jpg",
+        "localPath": "assets/covers/right-04-intake-front-8faa8c9d22.jpg",
+        "dimensions": [
+          600,
+          600
+        ],
+        "sha256": "8faa8c9d22cd05c75dc0d60e261af32aa80ae74b57467155c8c59d5708a04c4c",
+        "sourceSha256": "15faae57d9f190da194ac6df8ea5bd8c7617d64df6d9253b49f42824e4ae1d5f",
+        "face": "outer LP front",
+        "exactFamilyPressingVerified": false,
+        "editionNote": "Representative US GNP Crescendo GNP-9001 / GNPS 9001 LP repress, catalogued 1974. Front design and catalogue match the family sleeve; its exact pressing year is unverified.",
+        "processing": "EXIF orientation normalized; documented outer-face crop applied where needed; resized only above 2200px; capture metadata omitted. No generated or retouched printed content.",
+        "visualReview": {
+          "status": "accepted",
+          "checkedAt": "2026-10-15T03:21:00.186852+00:00",
+          "findings": "Opened at full available resolution and compared with both family faces. Correct title, artist, catalogue and LP outer face; no CD tray, label, inner sleeve or gatefold interior substitution.",
+          "quality": "Flat, usable sleeve scan; fine print is limited at approximately 600 pixels."
+        },
+        "auditFile": "research/capture-intake-2026-10-14/artwork-assets.json"
+      },
+      "back": {
+        "source": "Discogs physical LP image",
+        "sourceUrl": "https://i.discogs.com/O0TzWLEtYlt6f2H4zotzzcZZa9ctZJfJdzLm39fCbTY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzEx/ODg5LTE2NTI3MjYx/MDUtOTI4NS5qcGVn.jpeg",
+        "releaseUrl": "https://www.discogs.com/release/22311889-Django-Reinhardt-Stephane-Grappelly-With-The-Quintet-Of-The-Hot-Club-Of-France-The-Quintet-Of-The-Ho",
+        "releaseId": "22311889",
+        "catalogue": [
+          "GNP-9001",
+          "GNPS 9001"
+        ],
+        "path": "assets/covers/right-04-intake-back-c7b1052e60.jpg",
+        "localPath": "assets/covers/right-04-intake-back-c7b1052e60.jpg",
+        "dimensions": [
+          600,
+          600
+        ],
+        "sha256": "c7b1052e606aa06dfbfe45fb5b5f33ea2049de12413871314de7314bde5af9a3",
+        "sourceSha256": "f435c08701307c223bab3096e1dea30082f07ee486d6ff02400a71a4131936a2",
+        "face": "outer LP back",
+        "exactFamilyPressingVerified": false,
+        "editionNote": "Representative US GNP-9001 LP outer back with the same fourteen selections, Ken Sykora notes and 1938–1946 London sessions as the family jacket. Exact pressing unverified.",
+        "processing": "EXIF orientation normalized; documented outer-face crop applied where needed; resized only above 2200px; capture metadata omitted. No generated or retouched printed content.",
+        "visualReview": {
+          "status": "accepted",
+          "checkedAt": "2026-10-15T03:21:00.186852+00:00",
+          "findings": "Opened at full available resolution and compared with both family faces. Correct title, artist, catalogue and LP outer face; no CD tray, label, inner sleeve or gatefold interior substitution.",
+          "quality": "Flat, usable sleeve scan; fine print is limited at approximately 600 pixels."
+        },
+        "auditFile": "research/capture-intake-2026-10-14/artwork-assets.json"
+      }
+    },
+    "cover": "assets/covers/right-04-intake-front-8faa8c9d22.jpg",
+    "coverPath": "assets/covers/right-04-intake-front-8faa8c9d22.jpg",
+    "coverUrl": "https://i.discogs.com/WJinwxhs9wY3_UjFfFx-zkEXrS_lazSjWAO-0m4qn1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzEx/ODg5LTE2NTI3MjYx/MDUtNjQ0MC5qcGVn.jpeg",
+    "artworkEdition": "Representative US GNP Crescendo GNP-9001 / GNPS 9001 LP repress, catalogued 1974. Front design and catalogue match the family sleeve; its exact pressing year is unverified.",
+    "frontEdition": "Representative US GNP Crescendo GNP-9001 / GNPS 9001 LP repress, catalogued 1974. Front design and catalogue match the family sleeve; its exact pressing year is unverified.",
+    "coverThumbnail": "assets/covers/right-04-intake-thumb-13d2a4fee4.webp",
+    "back": "assets/covers/right-04-intake-back-c7b1052e60.jpg",
+    "backPath": "assets/covers/right-04-intake-back-c7b1052e60.jpg",
+    "backUrl": "https://i.discogs.com/O0TzWLEtYlt6f2H4zotzzcZZa9ctZJfJdzLm39fCbTY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzEx/ODg5LTE2NTI3MjYx/MDUtOTI4NS5qcGVn.jpeg",
+    "backSourceUrl": "https://i.discogs.com/O0TzWLEtYlt6f2H4zotzzcZZa9ctZJfJdzLm39fCbTY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzEx/ODg5LTE2NTI3MjYx/MDUtOTI4NS5qcGVn.jpeg",
+    "backArtworkEdition": "Representative US GNP-9001 LP outer back with the same fourteen selections, Ken Sykora notes and 1938–1946 London sessions as the family jacket. Exact pressing unverified.",
+    "backEdition": "Representative US GNP-9001 LP outer back with the same fourteen selections, Ken Sykora notes and 1938–1946 London sessions as the family jacket. Exact pressing unverified."
+  },
+  {
+    "id": "right-04b",
+    "box": "right",
+    "position": 4.5,
+    "positionLabel": "4b",
+    "insertAfter": "right-04",
+    "insertBefore": "right-05",
+    "photo": "assets/IMG_3573.jpg",
+    "compartment": 1,
+    "compartmentPosition": 4.5,
+    "compartmentCount": 1,
+    "kind": "record",
+    "sources": [
+      "https://www.discogs.com/release/12396415-Herbie-Mann-Brazil-Blues",
+      "https://www.discogs.com/release/890356-Herbie-Mann-Brazil-Blues",
+      "https://open.spotify.com/album/6XO6EaQ8soeQN2xCyRlT49"
+    ],
+    "spineText": "",
+    "title": "Brazil Blues",
+    "artist": "Herbie Mann",
+    "year": 1972,
+    "confidence": "confirmed",
+    "familyCapture": {
+      "batch": "2026-10-14",
+      "guideVersion": "7ac3efbb41aa",
+      "printedTitle": "Brazil Blues",
+      "printedArtist": "Herbie Mann",
+      "catalogueNumbers": [
+        "UAS 5636"
+      ],
+      "bindingConfidence": "confirmed-identity; placement-supported-by-user-and-sequence",
+      "evidence": "The user explicitly identified two albums before Hubert Laws. The new Herbie Mann front/back pair follows the spine-anchored Django pair and precedes Views; all photos are chronological. The original room photo shows a distinct narrow pale sleeve between the broad Django sleeve and the black/blue Hubert Laws spine. Its own title is not readable in that room photo.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3676.HEIC",
+          "sha256": "720e8d4daac3a9a57c5f9868390f9a826473765090c4897f99cdc794982c8c0a"
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3677.HEIC",
+          "sha256": "047b537cd7bac512b1aed8ed38d1a1aac5749e9ccaf3da597b5454055f6a2562"
+        }
+      ],
+      "auditFile": "research/capture-intake-2026-10-14/reconciliation.json"
+    },
+    "notes": "The front and back of the family copy confirm this album. The photographed Brazil Blues jacket is a 1972 reissue of Brazil, Bossa Nova & Blues.",
+    "artworkProvenance": {
+      "front": {
+        "source": "Discogs physical LP image",
+        "sourceUrl": "https://i.discogs.com/irw_L7kIzhNQlHw0wmGRVrNP92SIIlfMj_A-BwXkljI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk2/NDE1LTE1MzQ0MzE1/NjAtMzg5Ni5qcGVn.jpeg",
+        "releaseUrl": "https://www.discogs.com/release/12396415-Herbie-Mann-Brazil-Blues",
+        "releaseId": "12396415",
+        "catalogue": [
+          "UAS 5636"
+        ],
+        "path": "assets/covers/right-04b-intake-front-c10678c48c.jpg",
+        "localPath": "assets/covers/right-04b-intake-front-c10678c48c.jpg",
+        "dimensions": [
+          599,
+          597
+        ],
+        "sha256": "c10678c48c06a5f6e8bd21a7dd7362f4b74729a72df1a4f95950011479de114d",
+        "sourceSha256": "4656ede17b9b50e9d468b56a83be9774c0a11a91f779d8f7ac745fca89a1068d",
+        "face": "outer LP front",
+        "exactFamilyPressingVerified": false,
+        "editionNote": "Representative US United Artists UAS 5636 stereo LP reissue, 1972. The Douglas Collection design and catalogue match the family jacket; pressing country is not established for the family disc.",
+        "processing": "EXIF orientation normalized; documented outer-face crop applied where needed; resized only above 2200px; capture metadata omitted. No generated or retouched printed content.",
+        "visualReview": {
+          "status": "accepted",
+          "checkedAt": "2026-10-15T03:21:00.186852+00:00",
+          "findings": "Opened at full available resolution and compared with both family faces. Correct title, artist, catalogue and LP outer face; no CD tray, label, inner sleeve or gatefold interior substitution.",
+          "quality": "Flat, usable sleeve scan; fine print is limited at approximately 600 pixels."
+        },
+        "auditFile": "research/capture-intake-2026-10-14/artwork-assets.json"
+      },
+      "back": {
+        "source": "Discogs physical LP image",
+        "sourceUrl": "https://i.discogs.com/UvhoOFkgiFxfC8Nio19SLddP-da0PZtnekj26srT6jc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDM1/Ni0xMjI0NjQ2NDA5/LmpwZWc.jpeg",
+        "releaseUrl": "https://www.discogs.com/release/890356-Herbie-Mann-Brazil-Blues",
+        "releaseId": "890356",
+        "catalogue": [
+          "UAS 5636"
+        ],
+        "path": "assets/covers/right-04b-intake-back-fce1104416.jpg",
+        "localPath": "assets/covers/right-04b-intake-back-fce1104416.jpg",
+        "dimensions": [
+          594,
+          600
+        ],
+        "sha256": "fce11044162837bc9c0574038d33b8f05756abd70a088c73c293a14f9275d860",
+        "sourceSha256": "6aa6d7276dd38d6c79474ca5601c0c178bb58ba0009e729c20fefe5820a79c4f",
+        "face": "outer LP back",
+        "exactFamilyPressingVerified": false,
+        "editionNote": "Representative US UAS 5636 outer rear, 1972. Same six-track programme and UAJ 15009 / SS 18020 reissue note as the family sleeve. This US image lacks the family copy’s U.A. Records Limited overprint.",
+        "processing": "EXIF orientation normalized; documented outer-face crop applied where needed; resized only above 2200px; capture metadata omitted. No generated or retouched printed content.",
+        "visualReview": {
+          "status": "accepted",
+          "checkedAt": "2026-10-15T03:21:00.186852+00:00",
+          "findings": "Opened at full available resolution and compared with both family faces. Correct title, artist, catalogue and LP outer face; no CD tray, label, inner sleeve or gatefold interior substitution.",
+          "quality": "Flat, usable sleeve scan; fine print is limited at approximately 600 pixels."
+        },
+        "auditFile": "research/capture-intake-2026-10-14/artwork-assets.json"
+      }
+    },
+    "cover": "assets/covers/right-04b-intake-front-c10678c48c.jpg",
+    "coverPath": "assets/covers/right-04b-intake-front-c10678c48c.jpg",
+    "coverUrl": "https://i.discogs.com/irw_L7kIzhNQlHw0wmGRVrNP92SIIlfMj_A-BwXkljI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzk2/NDE1LTE1MzQ0MzE1/NjAtMzg5Ni5qcGVn.jpeg",
+    "artworkEdition": "Representative US United Artists UAS 5636 stereo LP reissue, 1972. The Douglas Collection design and catalogue match the family jacket; pressing country is not established for the family disc.",
+    "frontEdition": "Representative US United Artists UAS 5636 stereo LP reissue, 1972. The Douglas Collection design and catalogue match the family jacket; pressing country is not established for the family disc.",
+    "coverThumbnail": "assets/covers/right-04b-intake-thumb-1436dc52ef.webp",
+    "back": "assets/covers/right-04b-intake-back-fce1104416.jpg",
+    "backPath": "assets/covers/right-04b-intake-back-fce1104416.jpg",
+    "backUrl": "https://i.discogs.com/UvhoOFkgiFxfC8Nio19SLddP-da0PZtnekj26srT6jc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDM1/Ni0xMjI0NjQ2NDA5/LmpwZWc.jpeg",
+    "backSourceUrl": "https://i.discogs.com/UvhoOFkgiFxfC8Nio19SLddP-da0PZtnekj26srT6jc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDM1/Ni0xMjI0NjQ2NDA5/LmpwZWc.jpeg",
+    "backArtworkEdition": "Representative US UAS 5636 outer rear, 1972. Same six-track programme and UAJ 15009 / SS 18020 reissue note as the family sleeve. This US image lacks the family copy’s U.A. Records Limited overprint.",
+    "backEdition": "Representative US UAS 5636 outer rear, 1972. Same six-track programme and UAJ 15009 / SS 18020 reissue note as the family sleeve. This US image lacks the family copy’s U.A. Records Limited overprint.",
+    "spotifyId": "6XO6EaQ8soeQN2xCyRlT49",
+    "spotifyEdition": "The same six-track album under its original title, Brazil, Bossa Nova & Blues. The photographed Brazil Blues jacket is a 1972 reissue.",
+    "spotifyProvenance": {
+      "url": "https://open.spotify.com/album/6XO6EaQ8soeQN2xCyRlT49",
+      "trackArtists": [
+        "Herbie Mann"
+      ],
+      "auditFile": "research/capture-intake-2026-10-14/spotify-decisions.json",
+      "evidenceFile": "research/spotify-link-verification/6XO6EaQ8soeQN2xCyRlT49.json",
+      "editionNotes": "The same six-track album under its original title, Brazil, Bossa Nova & Blues. The photographed Brazil Blues jacket is a 1972 reissue.",
+      "verifiedAgainstFamilyCapture": true
+    }
   },
   {
     "id": "right-05",
@@ -450,7 +674,7 @@
     "year": 1970,
     "confidence": "confirmed",
     "spineText": "CTI 6006 HUBERT LAWS: AFRO-CLASSIC",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/d0a965d8-ad77-482e-9be7-4b8939594234/16705402939.jpg",
     "backUrl": "https://i.discogs.com/gXRKhk25Skp9kd1OyiBqMt2E6OOACaB6J6PjnN43E1k/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDI3/MjItMTYyMTI3MTA2/My01OTQ3LmpwZWc.jpeg",
@@ -585,7 +809,7 @@
     "year": 1975,
     "confidence": "confirmed",
     "spineText": "ECM 1064/65 KEITH JARRETT THE KÖLN CONCERT",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/b0d9e23f-43ce-491b-84dd-a6d6b8980733/44383472920-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/b0d9e23f-43ce-491b-84dd-a6d6b8980733/44383473971-1200.jpg",
@@ -678,7 +902,8 @@
       }
     },
     "back": "assets/covers/right-06-lp-back.jpg",
-    "backNotes": "Photographed LP outer back from Cover Art Archive (DE, 1975-11, ECM 1064/65 ST). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (DE, 1975-11, ECM 1064/65 ST). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-07",
@@ -689,7 +914,7 @@
     "year": 1976,
     "confidence": "confirmed",
     "spineText": "KEITH JARRETT HYMNS SPHERES ECM-2-1086",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://i.discogs.com/wVTDAmf_ZpzwMghl7A_qKfAH0Jd4bjApdIk52koZso0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzUz/MzQtMTUxNDkwNjQ0/MS00MzQ5LmpwZWc.jpeg",
     "backUrl": "https://i.discogs.com/9U_E_P8xpWVUJ1-wcEixO73YOu24vBMMAJifkMi25u0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzUz/MzQtMTUxNDkwNjQx/OS01NzMzLmpwZWc.jpeg",
@@ -825,7 +1050,7 @@
     "year": 1971,
     "confidence": "confirmed",
     "spineText": "ECM 1014 ST / CHICK COREA, PIANO IMPROVISATIONS VOL 1",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://i.discogs.com/_L9st9ZeyTyLOVMtzoEHQ1FHzDADbjKKZUG6jVOYpkY/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjA4/MC0xMzI3NTkxMzA3/LmpwZWc.jpeg",
     "backUrl": "https://i.discogs.com/i1hH5MclgI-QFMqgDmW5702PGW56Dq1j5NJbjRbAyns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMjA4/MC0xNTE4NDQ2MzE2/LTkzNDQuanBlZw.jpeg",
@@ -958,7 +1183,7 @@
     "year": 1975,
     "confidence": "confirmed",
     "spineText": "BOLLING SUITE FOR FLUTE AND JAZZ PIANO JEAN-PIERRE RAMPAL CLAUDE BOLLING",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/4ca45f89-7cb9-4fe7-94f2-65ab94cd67eb/9998532385.jpg",
     "backUrl": "https://coverartarchive.org/release/4ca45f89-7cb9-4fe7-94f2-65ab94cd67eb/9998535534.jpg",
@@ -1070,7 +1295,8 @@
       "editionNotes": "Original 1975 performers; seven movements are split into 14 digital tracks.",
       "evidenceFile": "research/spotify-link-verification/3mJigbmu7UYww3riSZlOkS.json",
       "auditFile": "research/spotify-link-audit-right.json"
-    }
+    },
+    "label": null
   },
   {
     "id": "right-10",
@@ -1081,7 +1307,7 @@
     "year": 1975,
     "confidence": "confirmed",
     "spineText": "ASD-9301 KEITH JARRETT: DEATH AND THE FLOWER",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://i.discogs.com/GGbk5LECYvb4gg5RcYkXPf6CWOuKdVl9qzy_otC4RBA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDQx/OS0xNTg4MDkwNzc1/LTMyNDYuanBlZw.jpeg",
     "backUrl": "https://i.discogs.com/y9fIovk039OTJ6M2HENOhAxDfol1kEQSjlyX_ygKuzI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDQx/OS0xNTg4MDkwNzc1/LTE0NjYuanBlZw.jpeg",
@@ -1237,7 +1463,7 @@
     "year": 1973,
     "confidence": "confirmed",
     "spineText": "HERBIE HANCOCK HEADHUNTERS",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/267a7c89-3624-4b7a-b7a2-aefc2bdc5e89/2584336352-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/267a7c89-3624-4b7a-b7a2-aefc2bdc5e89/36785254332-1200.jpg",
@@ -1328,7 +1554,8 @@
         "quality": "usable-sleeve-scan; fine print is limited at600px"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1973-10-13, KC 32731). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1973-10-13, KC 32731). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-12",
@@ -1339,7 +1566,7 @@
     "year": 1974,
     "confidence": "confirmed",
     "spineText": "KG 33236",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Title lettering is worn away; visible Columbia catalog number KG 33236 identifies the album. Exact pressing needs inspection.",
     "coverUrl": "https://i.discogs.com/2KFaxGN5AGJ6-vBRjJJeRQ8ehKt8slaHF2MwGz8h0dI/rs:fit/g:sm/q:90/h:586/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTQ2/Ni0xNTYwMzY3MzA2/LTkzMjUuanBlZw.jpeg",
     "backUrl": "https://i.discogs.com/HO7A9frC6oRxu_n3kwlvylIuQPw4LNH_ZELxEpESrR4/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTQ2/Ni0xNTcwNDI0MDY2/LTEwMzMuanBlZw.jpeg",
@@ -1495,7 +1722,7 @@
     "year": 1959,
     "confidence": "confirmed",
     "spineText": "CS 8192 DAVE BRUBECK QUARTET TIME OUT FEATURING TAKE FIVE",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Original album year verified from the matching Spotify album; an ambiguous duplicate MusicBrainz date was discarded.",
     "coverUrl": "https://coverartarchive.org/release/fdc00f1e-7d3b-4f5b-bf87-7da137060921/23581196868-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/fdc00f1e-7d3b-4f5b-bf87-7da137060921/23581198681-1200.jpg",
@@ -1584,7 +1811,8 @@
       }
     },
     "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1959, CS 8192). The catalogue number matches the photographed spine; exact pressing is unverified.",
-    "musicbrainzGroup": "035a7881-3e2c-39d2-b110-fe26a4de94e5"
+    "musicbrainzGroup": "035a7881-3e2c-39d2-b110-fe26a4de94e5",
+    "label": null
   },
   {
     "id": "right-14",
@@ -1595,7 +1823,7 @@
     "year": 1973,
     "confidence": "confirmed",
     "spineText": "LIGHT AS A FEATHER / CHICK COREA AND RETURN TO FOREVER",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/280b3744-0ca0-4ac5-926b-b8ad83761204/34868580681-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/280b3744-0ca0-4ac5-926b-b8ad83761204/34868581368-1200.jpg",
@@ -1685,7 +1913,8 @@
       }
     },
     "back": "assets/covers/right-14-lp-back.jpg",
-    "backNotes": "Photographed LP outer back from Cover Art Archive (DE, 2310 247). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (DE, 2310 247). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-15",
@@ -1696,7 +1925,7 @@
     "year": 1975,
     "confidence": "confirmed",
     "spineText": "PRESTIGE P-24055 MOSE ALLISON CREEK BANK",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Prestige P-24055 is the 1975 two-LP Creek Bank compilation: Young Man Mose (P-7137) on sides 1–2 and Creek Bank (P-7152) on sides 3–4. Do not substitute only the1959 single album.",
     "coverUrl": "https://i.discogs.com/1T-VVcv_TbdS5BKq7xXd1aovIHlhWTxVd6N095Zbpqw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkw/MzMtMTM0NDY1Mzgw/NC01ODI5LmpwZWc.jpeg",
     "backUrl": "https://i.discogs.com/sQjkmXKddz9SFyh0DJv0d0EphXreMGUmZnblGybVKDE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkw/MzMtMTU0NjkwMzgx/NS00OTc3LmpwZWc.jpeg",
@@ -1853,7 +2082,7 @@
     "year": 1983,
     "confidence": "confirmed",
     "spineText": "ZZ TOP ELIMINATOR 92 37741",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/753543e5-5a0b-433d-ae92-e17697b2c9d8/24856454221-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/753543e5-5a0b-433d-ae92-e17697b2c9d8/24856456670-1200.jpg",
@@ -1947,7 +2176,8 @@
       }
     },
     "back": "assets/covers/right-16-lp-back.jpg",
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1983, 9 23774-1/9 23774-1). The catalogue number matches the photographed spine; exact pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1983, 9 23774-1/9 23774-1). The catalogue number matches the photographed spine; exact pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-17",
@@ -1958,7 +2188,7 @@
     "year": 1975,
     "confidence": "confirmed",
     "spineText": "DS 2234 ZAPPA/BEEFHEART/MOTHERS BONGO FURY",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/822d589e-39d2-4d9b-a35e-9cfff71b4245/44410463303-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/822d589e-39d2-4d9b-a35e-9cfff71b4245/44410465040-1200.jpg",
@@ -2074,7 +2304,8 @@
       "editionNotes": "The original live and studio album; Spotify adds “Live” to the title.",
       "evidenceFile": "research/spotify-link-verification/0u4GsfF3p8pt7BVSHIZq2N.json",
       "auditFile": "research/spotify-link-audit-right.json"
-    }
+    },
+    "label": null
   },
   {
     "id": "right-18",
@@ -2085,7 +2316,7 @@
     "year": 1970,
     "confidence": "confirmed",
     "spineText": "6386 AFTER THE GOLD RUSH NEIL YOUNG",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/95723f6f-f2e3-4a94-9ede-5d2f69932a8a/25980652618-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/95723f6f-f2e3-4a94-9ede-5d2f69932a8a/3743166754-1200.jpg",
@@ -2179,7 +2410,8 @@
         "quality": "usable-sleeve-scan; fine print is limited at600px"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1970-09-19, RS 6383). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1970-09-19, RS 6383). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-19",
@@ -2190,7 +2422,7 @@
     "year": 1974,
     "confidence": "confirmed",
     "spineText": "…ANK ZAPPA / APOSTROPHE",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Worn but artist and album are still recognizable.",
     "coverUrl": "https://coverartarchive.org/release/1d86856f-73e9-4dc5-b2f1-7f2ed586ffea/33567056548-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/1d86856f-73e9-4dc5-b2f1-7f2ed586ffea/33567057258-1200.jpg",
@@ -2304,7 +2536,8 @@
       "editionNotes": "The original nine-track studio album.",
       "evidenceFile": "research/spotify-link-verification/61eEIJPtxDANbzhNFKbqxF.json",
       "auditFile": "research/spotify-link-audit-right.json"
-    }
+    },
+    "label": null
   },
   {
     "id": "right-20",
@@ -2315,7 +2548,7 @@
     "year": 1979,
     "confidence": "confirmed",
     "spineText": "HS 2295 NEIL YOUNG & CRAZY HORSE / RUST NEVER SLEEPS",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Original album year verified from the matching Spotify album; an ambiguous duplicate MusicBrainz date was discarded.",
     "coverUrl": "https://i.discogs.com/vuwOzYhanFLjB4lv0Sm9hE_kB7rHE4dEuCHlCS0cSO0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDE0/My0xNDk4Nzg3OTc4/LTY5NzcuanBlZw.jpeg",
     "backUrl": "https://i.discogs.com/WiwybT51OcTMXw7-8wNe7FpGa7u2kZ7_7UZTF4V7wQ0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDE0/My0xNDk4Nzg4MDI3/LTUyNzUuanBlZw.jpeg",
@@ -2446,7 +2679,7 @@
     "year": 1973,
     "confidence": "confirmed",
     "spineText": "BS 2734 … COLIN YOUNG/SONG FOR JULI",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "First part of artist name is worn; catalog number BS 2734 matches.",
     "coverUrl": "https://i.discogs.com/6QnsdAiLCxy2ubgLDw2MpFxNHHAFDsmpTpnhTPpmb8s/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUz/OTktMTMyMzA1NTYw/Ny5qcGVn.jpeg",
     "backUrl": "https://i.discogs.com/zJQO0YGznNnoAnawIAohIpSPBtUI4QNYXkyM-rc6TUA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDUz/OTktMTc1NTA0OTcx/OS0yMDE1LmpwZWc.jpeg",
@@ -2578,7 +2811,7 @@
     "year": 1972,
     "confidence": "confirmed",
     "spineText": "CLOSE TO THE EDGE YES ATLANTIC SD 7244",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/971fa477-074b-4f7c-ab7a-a75dd610b84d/19858341751-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/971fa477-074b-4f7c-ab7a-a75dd610b84d/19858383278-1200.jpg",
@@ -2664,7 +2897,8 @@
       }
     },
     "back": "assets/covers/right-22-lp-back.jpg",
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1972, SD 7244). The catalogue number matches the photographed spine; exact pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1972, SD 7244). The catalogue number matches the photographed spine; exact pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-23",
@@ -2675,7 +2909,7 @@
     "year": 1975,
     "confidence": "confirmed",
     "spineText": "YES YESTERDAYS ATLANTIC SD 18103",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/590e240f-3d7c-4907-9949-91eb2f2455de/45041508368-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/590e240f-3d7c-4907-9949-91eb2f2455de/45041514872-1200.jpg",
@@ -2784,7 +3018,8 @@
       "editionNotes": "The original 1975 compilation, eight tracks.",
       "evidenceFile": "research/spotify-link-verification/1TEHDLJNEFZzXlmmtGGfnk.json",
       "auditFile": "research/spotify-link-audit-right.json"
-    }
+    },
+    "label": null
   },
   {
     "id": "right-24",
@@ -2795,7 +3030,7 @@
     "year": 1976,
     "confidence": "confirmed",
     "spineText": "PZ 34033 JOHNNY & EDGAR WINTER/TOGETHER",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/4adfd309-7325-44a8-9195-e02883f3c323/14282391325-1200.jpg",
     "backUrl": "https://i.discogs.com/_-9JTB9GAavd1L7FDzmClUhP4nQmE_CIUDWtA4P_yiQ/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3NjYy/MjMtMTQ2ODM4NzI2/Ny05NTE2LmpwZWc.jpeg",
@@ -2954,7 +3189,7 @@
     "year": 1971,
     "confidence": "confirmed",
     "spineText": "WHO’S NEXT THE WHO",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Original album year verified from the matching Spotify album; an ambiguous duplicate MusicBrainz date was discarded.",
     "coverUrl": "https://coverartarchive.org/release/a6545e7f-991e-3d1b-8ada-e2182adcbc8a/2013004401.jpg",
     "backUrl": "https://coverartarchive.org/release/a6545e7f-991e-3d1b-8ada-e2182adcbc8a/2013007725.jpg",
@@ -3043,7 +3278,8 @@
     },
     "back": "assets/covers/right-25-lp-back.jpg",
     "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1971-08-14, 79182). Representative vinyl edition; the photographed pressing is unverified.",
-    "musicbrainzGroup": "9584e28b-66a7-3846-8d52-b3008a283539"
+    "musicbrainzGroup": "9584e28b-66a7-3846-8d52-b3008a283539",
+    "label": null
   },
   {
     "id": "right-26",
@@ -3054,7 +3290,7 @@
     "year": 1988,
     "confidence": "confirmed",
     "spineText": "TRAVELING WILBURYS VOLUME ONE 92 57961",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/3b4d9bce-4ff4-4621-ba91-5ac32d0670ab/39474616632-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/3b4d9bce-4ff4-4621-ba91-5ac32d0670ab/39474705621-1200.jpg",
@@ -3149,7 +3385,8 @@
       }
     },
     "back": "assets/covers/right-26-lp-back.jpg",
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1988, 1-25796/9 25796-1). The catalogue number matches the photographed spine; exact pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1988, 1-25796/9 25796-1). The catalogue number matches the photographed spine; exact pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-27",
@@ -3160,7 +3397,7 @@
     "year": 1978,
     "confidence": "confirmed",
     "spineText": "ASYLUM 6E-141 JOE WALSH BUT SERIOUSLY, FOLKS…",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/3fb57944-262a-4758-92fb-05eaf0c37e12/18990140659.jpg",
     "backUrl": "https://coverartarchive.org/release/3fb57944-262a-4758-92fb-05eaf0c37e12/18990149797.jpg",
@@ -3277,7 +3514,8 @@
       "editionNotes": "The original eight-track album.",
       "evidenceFile": "research/spotify-link-verification/5yqBTSoJqE9EfApl2Pptva.json",
       "auditFile": "research/spotify-link-audit-right.json"
-    }
+    },
+    "label": null
   },
   {
     "id": "right-28",
@@ -3288,7 +3526,7 @@
     "year": 1972,
     "confidence": "confirmed",
     "spineText": "BARNSTORM JOE WALSH",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://i.discogs.com/X5rJlLM9rO63hgbEoiolMGjC93Bax_vIxOmLCKHIFgI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc0/ODktMTI1NzY4MDI0/Ny5qcGVn.jpeg",
     "backUrl": "https://i.discogs.com/8AFZPQdDlm3QBwLcoP7EGgAejQ_5nH_bSHxYnhLw8J8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTc0/ODktMTI1NzY4MDI1/Ni5qcGVn.jpeg",
@@ -3447,7 +3685,7 @@
     "year": 1974,
     "confidence": "confirmed",
     "spineText": "RICK WAKEMAN JOURNEY TO THE CENTRE OF THE EARTH A&M SP-3621",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/744c930f-156a-387e-a20e-a8334ed20ad6/6897378434-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/744c930f-156a-387e-a20e-a8334ed20ad6/39719595681.jpg",
@@ -3561,7 +3799,8 @@
       "editionNotes": "The original 1974 live recording, indexed as four digital sections.",
       "evidenceFile": "research/spotify-link-verification/3TYOdKDhbQihMNCb9LkvNJ.json",
       "auditFile": "research/spotify-link-audit-right.json"
-    }
+    },
+    "label": null
   },
   {
     "id": "right-30",
@@ -3572,7 +3811,7 @@
     "year": null,
     "confidence": "unknown",
     "spineText": "Pale narrow edge, no readable title",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Check the pale edge between the two Rick Wakeman albums. Photograph front then back only if it is a separate jacket. If it belongs to Journey’s gatefold, skip this pair.",
     "coverUrl": null,
     "backUrl": null,
@@ -3581,7 +3820,8 @@
     "cover": null,
     "kind": "record",
     "compartment": 2,
-    "back": null
+    "back": null,
+    "label": null
   },
   {
     "id": "right-31",
@@ -3592,7 +3832,7 @@
     "year": 1973,
     "confidence": "confirmed",
     "spineText": "RICK WAKEMAN THE SIX WIVES OF HENRY VIII A&M SP-4361",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/a4e27186-94c5-4af5-b9c7-2cb8897ec758/31746589270-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/a4e27186-94c5-4af5-b9c7-2cb8897ec758/31746590023-1200.jpg",
@@ -3687,7 +3927,8 @@
         "quality": "usable-sleeve-scan; fine print is limited at600px"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1973, SP 4361/SP-4361). The catalogue number matches the photographed spine; exact pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1973, SP 4361/SP-4361). The catalogue number matches the photographed spine; exact pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-32",
@@ -3698,7 +3939,7 @@
     "year": 1977,
     "confidence": "confirmed",
     "spineText": "ASYLUM 7ES-1117 TOM WAITS FOREIGN AFFAIRS",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/71d7f127-04f3-49f6-85cc-5abb7a2d2e73/29325870255-1200.jpg",
     "backUrl": "https://i.discogs.com/cRaUMO7kyksK3Pkh6t8eci4SKssQRHAo2YWTGX0XzhI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTY3/OS0xNDE3ODYzNjMz/LTk3MjEuanBlZw.jpeg",
@@ -3856,7 +4097,7 @@
     "year": 1984,
     "confidence": "confirmed",
     "spineText": "STEVIE RAY VAUGHAN AND DOUBLE TROUBLE COULDN’T STAND THE WEATHER",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/c605cafa-07e1-3b23-9101-b12d4d85019d/15217549579-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/c605cafa-07e1-3b23-9101-b12d4d85019d/15217556988-1200.jpg",
@@ -3950,7 +4191,8 @@
         "quality": "high-resolution-readable"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1984, FE 39304). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1984, FE 39304). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-34",
@@ -3961,7 +4203,7 @@
     "year": 1978,
     "confidence": "confirmed",
     "spineText": "TOM WAITS BLUE VALENTINE",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/8fe3d091-b970-4ae0-9a13-0d18e083367e/1276347739.jpg",
     "backUrl": "https://coverartarchive.org/release/8fe3d091-b970-4ae0-9a13-0d18e083367e/1276350244.jpg",
@@ -4052,7 +4294,8 @@
       }
     },
     "back": "assets/covers/right-34-lp-back.jpg",
-    "backNotes": "Photographed LP outer back from Cover Art Archive (XE, 1978-10, AS 53088). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (XE, 1978-10, AS 53088). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-35",
@@ -4063,7 +4306,7 @@
     "year": 1975,
     "confidence": "confirmed",
     "spineText": "ASYLUM 7E-2008 TOM WAITS NIGHTHAWKS AT THE DINER",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://i.discogs.com/go1d2T9NL0qeCUk0v2bjK4m6UyEZFJhXUHGmWwSic3g/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjA1/ODctMTQ2MDQzMjA5/OS0zNDIxLmpwZWc.jpeg",
     "backUrl": "https://i.discogs.com/KDYrdprEeWbmIg_CLsRkgcXIB-aFylu0fTmdhmOrRxM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjA1/ODctMTQ2MDQzMjEw/NC03OTEyLmpwZWc.jpeg",
@@ -4199,7 +4442,7 @@
     "year": 1975,
     "confidence": "confirmed",
     "spineText": "WINGS VENUS AND MARS SMAS-11419",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/af841443-b03b-418b-be34-ecbcbfa3790b/18576700247-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/af841443-b03b-418b-be34-ecbcbfa3790b/18576702614-1200.jpg",
@@ -4337,7 +4580,7 @@
     "year": 1979,
     "confidence": "confirmed",
     "spineText": "VANGELIS CHINA POLYDOR",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://i.discogs.com/nR0cDLkXyRIaA5o6TnUnBPGyS19UyY4uf8fuouivmwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE3/NDctMTM0ODUyMjU2/Mi04OTc3LmpwZWc.jpeg",
     "backUrl": "https://i.discogs.com/OAL0Ox0HmWZ-UO-vWtmAkiobUjqTikM7NqCrdbx3Nwo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MzE3/NDctMTU4NDIzNjI0/Ny04NjIyLmpwZWc.jpeg",
@@ -4470,7 +4713,7 @@
     "year": 1984,
     "confidence": "confirmed",
     "spineText": "CHS 41461 JETHRO TULL UNDER WRAPS",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/df788156-5899-4414-87bd-ed5751337f6c/4673091520.jpg",
     "backUrl": "https://coverartarchive.org/release/df788156-5899-4414-87bd-ed5751337f6c/4673095618.jpg",
@@ -4560,7 +4803,8 @@
     "coverNotes": "Photographed LP outer front from Cover Art Archive (US, 1984, FV 41461). Representative vinyl edition; the photographed pressing is unverified.",
     "back": "assets/covers/right-38-lp-back.jpg",
     "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1984, FV 41461). Representative vinyl edition; the photographed pressing is unverified.",
-    "musicbrainzGroup": "87dc163a-b158-34a4-a7e0-85bcb0e2142a"
+    "musicbrainzGroup": "87dc163a-b158-34a4-a7e0-85bcb0e2142a",
+    "label": null
   },
   {
     "id": "right-39",
@@ -4571,7 +4815,7 @@
     "year": 1978,
     "confidence": "confirmed",
     "spineText": "9022-1104 DAVID CLAYTON-THOMAS CLAYTON",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Readable 9022-1104 catalogue number matches the Canadian ABC LP documented by the Museum of Canadian Music and the downloaded physical sleeve/label scans.",
     "coverUrl": "https://i.discogs.com/DK3xBU7gvbjPp-3-bBGUYzKhw0KGtYSlShQSiboDwiA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTY2/OTEtMTQwOTk0Njcw/My03NzU4LmpwZWc.jpeg",
     "backUrl": "https://i.discogs.com/FnC6OU8xIG3m2-fr6fhay8S8Qetx9k5_qykT_WO6W4w/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTY2/OTEtMTQwOTk0Njcw/Ni01ODk2LmpwZWc.jpeg",
@@ -4702,7 +4946,7 @@
     "year": 1985,
     "confidence": "confirmed",
     "spineText": "TEARS FOR FEARS SONGS FROM THE BIG CHAIR",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/75e1acd9-9721-4aa8-b4a6-e9138ed63a87/23957779877-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/75e1acd9-9721-4aa8-b4a6-e9138ed63a87/23957782174-1200.jpg",
@@ -4797,7 +5041,8 @@
       }
     },
     "back": "assets/covers/right-40-lp-back.jpg",
-    "backNotes": "Photographed LP outer back from Cover Art Archive (DE, 1985, 824 300-1/824 300-1Q). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (DE, 1985, 824 300-1/824 300-1Q). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-41",
@@ -4808,7 +5053,7 @@
     "year": 1971,
     "confidence": "confirmed",
     "spineText": "MUD SLIDE SLIM AND THE BLUE HORIZON/JAMES TAYLOR",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/b6e1226f-6d8e-48f5-8365-fc33d14a9f2d/9632763545.jpg",
     "backUrl": "https://i.discogs.com/5k_mhCyhfKgisv4vnNwUHUJYwpxCJSjxqsbMzi0umHc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NzQy/Ni0xNDA1NTMzMDc5/LTk4MjYuanBlZw.jpeg",
@@ -4945,7 +5190,7 @@
     "year": 1979,
     "confidence": "confirmed",
     "spineText": "James Taylor Flag",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://i.discogs.com/HG3WQsEJTUxUE1AfOO1XVpfk2QfgA0uYsmTwMNaSNlQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM0/NDctMTc0OTUxNTQz/My00NzIwLmpwZWc.jpeg",
     "backUrl": "https://i.discogs.com/F-f3fhmORk45xU4srhpg7711YND2-kJh-PAGCfexAzM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzM0/NDctMTM3MjgwNzAy/MS05MzI3LmpwZWc.jpeg",
@@ -5101,7 +5346,7 @@
     "year": 1979,
     "confidence": "confirmed",
     "spineText": "TALKING HEADS FEAR OF MUSIC QSR 6076",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/aa2efc1d-4330-4ce1-b7f9-ad091dfef349/43909034168-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/aa2efc1d-4330-4ce1-b7f9-ad091dfef349/43909035122-1200.jpg",
@@ -5192,7 +5437,8 @@
       }
     },
     "back": "assets/covers/right-43-lp-back.jpg",
-    "backNotes": "Photographed LP outer back from Cover Art Archive (CA, 1979, QSR 6076). The catalogue number matches the photographed spine; exact pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (CA, 1979, QSR 6076). The catalogue number matches the photographed spine; exact pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-44",
@@ -5203,7 +5449,7 @@
     "year": 1978,
     "confidence": "confirmed",
     "spineText": "QSR 6058 TALKING HEADS MORE SONGS ABOUT BUILDINGS AND FOOD",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/66c399b8-e67f-4031-82d5-fec6251fc6b0/10611888787.jpg",
     "backUrl": "https://coverartarchive.org/release/66c399b8-e67f-4031-82d5-fec6251fc6b0/10611892481.jpg",
@@ -5294,7 +5540,8 @@
         "quality": "high-resolution-readable"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1978-07-14, SRK 6058). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1978-07-14, SRK 6058). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-45",
@@ -5305,7 +5552,7 @@
     "year": 1980,
     "confidence": "confirmed",
     "spineText": "TALKING HEADS REMAIN IN LIGHT",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/a07c1dab-ec4f-4a25-85a7-8ad99b9b124e/43914907440-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/a07c1dab-ec4f-4a25-85a7-8ad99b9b124e/43914908219-1200.jpg",
@@ -5397,7 +5644,8 @@
         "quality": "usable-sleeve-scan; fine print is limited at600px"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (CA, 1980, XSR 6095). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (CA, 1980, XSR 6095). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-46",
@@ -5408,7 +5656,7 @@
     "year": 1988,
     "confidence": "confirmed",
     "spineText": "TALKING HEADS NAKED",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/0767516a-747c-4b37-9495-d1ca0dc36df5/36304121708-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/0767516a-747c-4b37-9495-d1ca0dc36df5/36304122384-1200.jpg",
@@ -5503,7 +5751,8 @@
       }
     },
     "back": "assets/covers/right-46-lp-back.jpg",
-    "backNotes": "Photographed LP outer back from Cover Art Archive (GB, 1988-03-21, EMD 1005/EMD 1005). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (GB, 1988-03-21, EMD 1005/EMD 1005). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-47",
@@ -5514,7 +5763,7 @@
     "year": 1986,
     "confidence": "confirmed",
     "spineText": "TALKING HEADS TRUE STORIES",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/18f1d7ce-6971-45fe-a73e-417a4f6a6503/45210843105-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/18f1d7ce-6971-45fe-a73e-417a4f6a6503/45210843604-1200.jpg",
@@ -5610,7 +5859,8 @@
         "quality": "usable-sleeve-scan; fine print is limited at600px"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1986, 1-25512/9 25512-1). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1986, 1-25512/9 25512-1). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-48",
@@ -5621,7 +5871,7 @@
     "year": 1971,
     "confidence": "confirmed",
     "spineText": "C 30767 TAJ MAHAL HAPPY JUST TO BE LIKE I AM",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/6644b93d-5f66-4278-8856-4e4283a0e352/35614231452-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/6644b93d-5f66-4278-8856-4e4283a0e352/35614231919-1200.jpg",
@@ -5739,7 +5989,8 @@
       "editionNotes": "The original eight-track album.",
       "evidenceFile": "research/spotify-link-verification/4qUaN7ScvMt6pZ73D9g43i.json",
       "auditFile": "research/spotify-link-audit-right.json"
-    }
+    },
+    "label": null
   },
   {
     "id": "right-49",
@@ -5750,7 +6001,7 @@
     "year": 1985,
     "confidence": "confirmed",
     "spineText": "TALKING HEADS LITTLE CREATURES",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/205952c4-e54f-35a5-a299-5d16e600b23f/10919499939-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/205952c4-e54f-35a5-a299-5d16e600b23f/10919497491-1200.jpg",
@@ -5841,7 +6092,8 @@
         "quality": "usable-sleeve-scan; fine print is limited at600px"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1985-06-10, 9 25305-1). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1985-06-10, 9 25305-1). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-50",
@@ -5852,7 +6104,7 @@
     "year": 1975,
     "confidence": "confirmed",
     "spineText": "SUPERTRAMP CRISIS? WHAT CRISIS? A&M SP-4560",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/03e58a6f-cfb5-4383-af0e-f3b637c6335a/23836322232-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/03e58a6f-cfb5-4383-af0e-f3b637c6335a/23836337179-1200.jpg",
@@ -5966,7 +6218,8 @@
       "editionNotes": "2025 remaster of the original ten-track album.",
       "evidenceFile": "research/spotify-link-verification/2Nip1nntVPSdHJs0ZcRRHg.json",
       "auditFile": "research/spotify-link-audit-right.json"
-    }
+    },
+    "label": null
   },
   {
     "id": "right-51",
@@ -5977,7 +6230,7 @@
     "year": 1974,
     "confidence": "confirmed",
     "spineText": "SUPERTRAMP CRIME OF THE CENTURY",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/9992c9b6-7813-42f6-8530-da829cb4e791/42812774608-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/9992c9b6-7813-42f6-8530-da829cb4e791/42812775266-1200.jpg",
@@ -6068,7 +6321,8 @@
         "quality": "usable-sleeve-scan; fine print is limited at600px"
       }
     },
-    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1974, SP-3647). Representative vinyl edition; the photographed pressing is unverified."
+    "backNotes": "Photographed LP outer back from Cover Art Archive (US, 1974, SP-3647). Representative vinyl edition; the photographed pressing is unverified.",
+    "label": null
   },
   {
     "id": "right-52",
@@ -6076,41 +6330,111 @@
     "position": 52,
     "title": "Views",
     "artist": "Roger Dean",
-    "year": 1976,
+    "year": null,
     "confidence": "confirmed",
     "spineText": "ROGER DEAN VIEWS LEHMKUHL/HAMILTON/CAPALBO DRAGON’S DREAM",
-    "photo": "reference/IMG_3573.jpg",
-    "notes": "Art book, not a record. The photographed spine confirms Views, Roger Dean, Lehmkuhl/Hamilton/Capalbo and Dragon’s Dream.1976 is the contributor’s reference edition, not a verified date for this copy.",
+    "photo": "assets/IMG_3573.jpg",
+    "notes": "The front and back confirm the historical Dragon’s Dream / Big O paperback design. The exact printing year of the family copy has not been established.",
     "coverUrl": "https://cdn.shopify.com/s/files/1/2412/3425/files/2024_03_1214_03OfficeLens_15.jpg?v=1710339469",
-    "backUrl": null,
+    "backUrl": "https://i.ebayimg.com/images/g/s9gAAeSwtFxqjwZF/s-l1600.webp",
     "spotifyId": null,
     "sources": [
       "https://carlacapalbo.com/2021/02/roger-dean-views/",
-      "https://www.worldradiohistory.com/UK/New-Musical-Express/1975/NME-1975-11-22.pdf"
+      "https://www.worldradiohistory.com/UK/New-Musical-Express/1975/NME-1975-11-22.pdf",
+      "https://richarddalbyslibrary.com/products/roger-dean-views-dragons-dream-1975",
+      "https://www.ebay.co.uk/itm/198623190442"
     ],
     "cover": "assets/covers/right-52-book-front.jpg",
     "kind": "book",
     "compartment": 3,
-    "coverNotes": "Representative front of a photographed1975 Dragon’s Dream paperback from Richard Dalby’s Library. The actual book’s edition and year are unverified; a front/back pair is requested.",
-    "back": null,
+    "back": "assets/covers/right-52-intake-back-92ec51ac65.jpg",
     "artworkProvenance": {
       "front": {
-        "source": "Photographed book from Richard Dalby’s Library",
+        "source": "Richard Dalby’s Library photographed book",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/2412/3425/files/2024_03_1214_03OfficeLens_15.jpg?v=1710339469",
         "releaseUrl": "https://richarddalbyslibrary.com/products/roger-dean-views-dragons-dream-1975",
-        "imageUrl": "https://cdn.shopify.com/s/files/1/2412/3425/files/2024_03_1214_03OfficeLens_15.jpg?v=1710339469",
+        "releaseId": "Richard Dalby listing / Roger Dean Views 1975",
+        "catalogue": [
+          "ISBN 090507100X"
+        ],
+        "path": "assets/covers/right-52-book-front.jpg",
         "localPath": "assets/covers/right-52-book-front.jpg",
         "dimensions": [
           1400,
           1400
         ],
-        "media": "Book / oversize paperback",
-        "date": "1975",
-        "isbn": "090507100X (read in the same dealer copy’s copyright photo)",
-        "exactEditionVerified": false,
-        "processing": "Book front quadrilateral cropped from the original2160×3840 dealer photograph; preserves visible wear. Slightly cropped source corners limit its archival quality.",
-        "quality": "usable reference front; actual-copy photographs requested"
+        "sha256": "cf7300a7269500e8f9a41034425e73dfb899583438a68878ba2d5deadab7caca",
+        "sourceSha256": "cf7300a7269500e8f9a41034425e73dfb899583438a68878ba2d5deadab7caca",
+        "face": "outer book front",
+        "exactFamilyPressingVerified": false,
+        "editionNote": "Keep the existing representative historical Dragon’s Dream paperback front. Its illustration, title layout and ISBN family match the newly photographed book; exact printing remains unverified.",
+        "processing": "Existing verified artwork retained byte-for-byte.",
+        "visualReview": {
+          "status": "accepted-existing-front",
+          "findings": "Existing front opened in prior research; fresh dealer colophon again reads ISBN 0 905071 00 X. Family front matches the same black square paperback design. Dealer interior/title pages are not substituted for the outer back."
+        },
+        "auditFile": "research/capture-intake-2026-10-14/artwork-assets.json"
+      },
+      "back": {
+        "source": "Mencap Retail UK photographed historical paperback",
+        "sourceUrl": "https://i.ebayimg.com/images/g/s9gAAeSwtFxqjwZF/s-l1600.webp",
+        "releaseUrl": "https://www.ebay.co.uk/itm/198623190442",
+        "releaseId": "eBay 198623190442 / Mencap Retail UK",
+        "catalogue": [
+          "ISBN 090507100X"
+        ],
+        "path": "assets/covers/right-52-intake-back-92ec51ac65.jpg",
+        "localPath": "assets/covers/right-52-intake-back-92ec51ac65.jpg",
+        "dimensions": [
+          1009,
+          1009
+        ],
+        "sha256": "92ec51ac6530cc7297d3105e5aeb7c0f7ba86293ecd1f73b6deae7a92a7740bc",
+        "sourceSha256": "5a708ccb9fa42039d366617c89dc784a4751c5bf18586169a94ac313ee180b59",
+        "face": "outer book back",
+        "exactFamilyPressingVerified": false,
+        "editionNote": "Representative Dragon’s Dream / Big O paperback outer back with the same dragon logo, £3.95 UK price and ISBN 090507100X as the family copy. The listing’s colophon photograph confirms the ISBN and 1975 copyright; exact family printing is unverified.",
+        "processing": "EXIF orientation normalized; documented outer-face crop applied where needed; resized only above 2200px; capture metadata omitted. No generated or retouched printed content.",
+        "visualReview": {
+          "status": "accepted-candidate-needs-outer-face-crop",
+          "checkedAt": "2026-10-15T03:21:00.186852+00:00",
+          "findings": "Opened the complete outer black rear and the same copy’s copyright page. Rear is complete including logo, imprint, price and ISBN; no interior substitution. More even lighting than family capture, but this is still a worn dealer photograph with mild upper-right reflection.",
+          "quality": "Complete usable external photograph, not a pristine flat scan."
+        },
+        "auditFile": "research/capture-intake-2026-10-14/artwork-assets.json"
       }
-    }
+    },
+    "label": null,
+    "familyCapture": {
+      "batch": "2026-10-14",
+      "guideVersion": "7ac3efbb41aa",
+      "printedTitle": "Views",
+      "printedArtist": "Roger Dean",
+      "catalogueNumbers": [],
+      "bindingConfidence": "confirmed",
+      "evidence": "The room spine explicitly names ROGER DEAN VIEWS and DRAGON’S DREAM. Captured front prints Roger Dean / Views; rear ISBN, Dragon’s Dream / Big O imprint and historical square paperback design agree.",
+      "faces": [
+        {
+          "face": "front",
+          "filename": "IMG_3678.HEIC",
+          "sha256": "f49516b79a1a9478cd59671f6f95f79a374cae4532c468ab09a7ed54f006b312"
+        },
+        {
+          "face": "back",
+          "filename": "IMG_3679.HEIC",
+          "sha256": "5b97ed7c3a5fc5f3b1ab9b21b4fcee0cefc14b32e641f2aae504a86b126a8e43"
+        }
+      ],
+      "auditFile": "research/capture-intake-2026-10-14/reconciliation.json"
+    },
+    "coverPath": "assets/covers/right-52-book-front.jpg",
+    "artworkEdition": "Keep the existing representative historical Dragon’s Dream paperback front. Its illustration, title layout and ISBN family match the newly photographed book; exact printing remains unverified.",
+    "frontEdition": "Keep the existing representative historical Dragon’s Dream paperback front. Its illustration, title layout and ISBN family match the newly photographed book; exact printing remains unverified.",
+    "coverThumbnail": "assets/covers/right-52-intake-thumb-6389bb18e9.webp",
+    "backPath": "assets/covers/right-52-intake-back-92ec51ac65.jpg",
+    "backSourceUrl": "https://i.ebayimg.com/images/g/s9gAAeSwtFxqjwZF/s-l1600.webp",
+    "backArtworkEdition": "Representative Dragon’s Dream / Big O paperback outer back with the same dragon logo, £3.95 UK price and ISBN 090507100X as the family copy. The listing’s colophon photograph confirms the ISBN and 1975 copyright; exact family printing is unverified.",
+    "backEdition": "Representative Dragon’s Dream / Big O paperback outer back with the same dragon logo, £3.95 UK price and ISBN 090507100X as the family copy. The listing’s colophon photograph confirms the ISBN and 1975 copyright; exact family printing is unverified."
   },
   {
     "id": "right-53",
@@ -6121,7 +6445,7 @@
     "year": 1973,
     "confidence": "confirmed",
     "spineText": "KEITH JARRETT SOLO-CONCERTS ECM 3-1035/37 ST 3LP-SET",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "",
     "coverUrl": "https://coverartarchive.org/release/7a6e665f-5aab-453a-9957-23cfbe4cb000/44182610102-1200.jpg",
     "backUrl": "https://coverartarchive.org/release/7a6e665f-5aab-453a-9957-23cfbe4cb000/44182610499-1200.jpg",
@@ -6239,7 +6563,8 @@
       "editionNotes": "The complete original concerts, indexed as three digital tracks.",
       "evidenceFile": "research/spotify-link-verification/2CMCLp7kOI8Be6rPaYyHeZ.json",
       "auditFile": "research/spotify-link-audit-right.json"
-    }
+    },
+    "label": null
   },
   {
     "id": "right-54",
@@ -6250,7 +6575,7 @@
     "year": 1972,
     "confidence": "confirmed",
     "spineText": "PRESTIGE 24002 MOSE ALLISON",
-    "photo": "reference/IMG_3573.jpg",
+    "photo": "assets/IMG_3573.jpg",
     "notes": "Two-LP compilation combines Back Country Suite and Local Color. Do not substitute a similarly named studio album.",
     "coverUrl": "https://i.discogs.com/QSTD1U6ZwG5z8KG7vNqycwVtB_lpFT5gHkgkqHW4BJ4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTcz/NzUtMTUwOTIwNjEz/Ni03ODUwLmpwZWc.jpeg",
     "backUrl": "https://i.discogs.com/yPaSzpNz_Wdf3BdmS-cw8AXM7LBg97O07HMsbq6JNxk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNTcz/NzUtMTUwOTIwNjE1/MS01MDA0LmpwZWc.jpeg",

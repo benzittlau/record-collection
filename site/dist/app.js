@@ -20,14 +20,14 @@ const roomGeometry = {
 };
 let cameraReturnTimer;
 let cameraBase = null, carouselIndex = 0, manualCarouselScroll = false, scrollSettleTimer;
-let records = [], currentBox = null, currentIndex = 0, previewIndex = null, previewAnchor = {}, currentView = 'front', lastRoomFocus = null, ignoreJacketClick = false;
+let records = [], sourceRecords = [], currentBox = null, currentIndex = 0, previewIndex = null, previewAnchor = {}, currentView = 'front', lastRoomFocus = null, ignoreJacketClick = false;
 const spotifyIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="currentColor"/><path d="M5 8c5-1.6 10-1.3 14 1M6 12c4-1.2 8-1 12 .8M7 16c3-.7 6-.5 9 .6" fill="none" stroke="#d8e0cb" stroke-width="1.6" stroke-linecap="round"/></svg>';
 const photoCalibrationReady=fetch('box-photos.json?v=2',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
-const spineMasksReady=fetch('spine-masks.json?v=3cee3be1a42d',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+const spineMasksReady=fetch('spine-masks.json?v=51fd67f9dfb8',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 let photoProjectionRequest=0;
-const catalogReady = fetch('catalog.json?v=0dc5e9ca3f37',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
-  records = data.records ?? data;
-  records = records.map(r => ({...r,cover:r.cover ?? r.coverPath ?? null,back:r.back ?? r.backPath ?? r.backCover ?? null,kind:r.kind ?? 'record'}));
+const catalogReady = fetch('catalog.json?v=34b6abcb6a93',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
+  sourceRecords = (data.records ?? data).map(r => ({...r,cover:r.cover ?? r.coverPath ?? null,back:r.back ?? r.backPath ?? r.backCover ?? null,kind:r.kind ?? 'record'}));
+  records = sourceRecords.filter(r => !r.mergedInto);
   const identified = records.filter(r => r.confidence === 'confirmed').length;
   const unknown = records.filter(r => r.confidence === 'unknown').length;
   $('record-total').textContent = `${records.length} catalogued sleeves & books`;
@@ -36,23 +36,34 @@ const catalogReady = fetch('catalog.json?v=0dc5e9ca3f37',{cache:'no-store'}).the
   const linked = records.filter(r => r.spotifyId).length;
   $('about-stats').title = `${linked} verified Spotify album links. Positions are reconstructed from visible spines; very thin worn sleeves may need confirmation.`;
   const hash = decodeURIComponent(location.hash.slice(1));
-  if(hash.startsWith('record=')){const r = records.find(r => r.id === hash.slice(7));if(r)openBox(r.box,r.id);}else if(hash.startsWith('box=')&&boxes[hash.slice(4)])openBox(hash.slice(4));
+  if(hash.startsWith('record=')){const r = records.find(r => r.id === resolveRecordId(hash.slice(7)));if(r)openBox(r.box,r.id);}else if(hash.startsWith('box=')&&boxes[hash.slice(4)])openBox(hash.slice(4));
   return records;
 }).catch(() => {
   const banner = document.createElement('div');banner.className='load-error';banner.innerHTML='The collection could not load. <button>Try again</button>';banner.querySelector('button').onclick=()=>location.reload();$('room').append(banner);
   return [];
 });
 function boxRecords(){return records.filter(r=>r.box===currentBox).sort((a,b)=>a.position-b.position);}
+function resolveRecordId(id){const seen=new Set();let row=sourceRecords.find(r=>r.id===id);while(row?.mergedInto&&!seen.has(row.id)){seen.add(row.id);row=sourceRecords.find(r=>r.id===row.mergedInto);}return row?.id??id;}
+function sleeveNumber(r){return r.positionLabel??r.position;}
+function isFamilyArtwork(r,side){return r.artworkProvenance?.[side]?.source==='Family photograph';}
+function artworkNote(r,side='front'){
+  if(!artworkPath(r,side))return side==='back'?'The original back cover is still to come':'A placeholder until the cover is found';
+  if(isFamilyArtwork(r,side))return `The family copy · ${side==='back'?'back':'front'} of the original sleeve`;
+  return side==='back'?'Sourced back artwork · exact pressing may differ':'Album artwork · original sleeve edition may differ';
+}
 function artworkPath(r, side='front'){return side==='front' ? r.cover : r.back || (r.backUrl?.startsWith('https:') ? r.backUrl : r.backUrl?.replace('http:','https:'));}
 function placeholder(r,small=false){
   if(small)return `<span class="strip-placeholder">${escapeHtml(r.confidence==='unknown'?'Unidentified sleeve':r.title)}</span>`;
   return `<div class="placeholder-cover"><span class="small-label">${r.confidence==='unknown'?'Waiting to be rediscovered':'Artwork still to come'}</span><strong>${escapeHtml(r.title)}</strong><small>${escapeHtml(r.artist)}<br>${r.confidence==='unknown'?'This sleeve keeps its place in the box.':'Album identified from the spine.'}</small></div>`;
 }
 function mountCover(container,r,side='front',small=false,lazy=false){
+  container.classList.remove('cover-missing');
   const path = artworkPath(r,side);
   if(!path){container.innerHTML=placeholder(r,small);return;}
   const img=document.createElement('img');img.className='cover-image';img.alt=side==='front'?`${r.artist} — ${r.title}, front cover`:`${r.title}, sourced back cover`;img.loading=lazy?'lazy':'eager';img.decoding='async';img.src=path;
-  img.onerror=()=>{container.innerHTML=side==='back'?backPlaceholder():placeholder(r,small);container.classList.add('cover-missing');};
+  let usingThumbnail=small&&side==='front'&&!!r.coverThumbnail;
+  if(usingThumbnail)img.src=r.coverThumbnail;
+  img.onerror=()=>{if(usingThumbnail){usingThumbnail=false;img.src=path;return;}container.innerHTML=side==='back'?backPlaceholder():placeholder(r,small);container.classList.add('cover-missing');};
   container.replaceChildren(img);
 }
 function backPlaceholder(){return '<div class="back-placeholder"><span class="brand-disc" aria-hidden="true"></span><p>A little more<br>to rediscover.</p><small>The back of this sleeve hasn’t been photographed yet. It’ll be here when it is.</small></div>';}
@@ -60,7 +71,7 @@ async function openBox(box,id){
   await catalogReady;
   clearTimeout(cameraReturnTimer);
   if(!records.length)return;
-  currentBox=box;const list=boxRecords();currentIndex=id?Math.max(0,list.findIndex(r=>r.id===id)):0;
+  currentBox=box;const list=boxRecords();currentIndex=id?Math.max(0,list.findIndex(r=>r.id===resolveRecordId(id))):0;
   const meta=boxes[box];$('box-number').textContent=`Box ${meta.number} of 5 · ${list.length} catalogued items`;$('box-name').textContent=meta.name;
   $('box-photo').src=`assets/${meta.photo}`;$('box-photo').alt=`Original photograph of ${meta.name.toLowerCase()}`;$('box-description').textContent=meta.description;
   if(!$('box-dialog').open)lastRoomFocus=document.activeElement;
@@ -71,8 +82,8 @@ async function openBox(box,id){
 }
 function buildStrip(list){
   const strip=$('record-strip');strip.replaceChildren();
-  list.forEach((r,i)=>{const b=document.createElement('button');b.className='strip-record';b.dataset.index=i;b.title=`${i+1}. ${r.artist} — ${r.title}`;b.setAttribute('aria-label',`${i+1}. ${r.artist}, ${r.title}`);mountCover(b,r,'front',true,true);b.addEventListener('mouseenter',()=>previewSpine(r,{element:b}));b.addEventListener('mouseleave',hidePreview);b.addEventListener('focus',()=>previewSpine(r,{element:b}));b.addEventListener('blur',hidePreview);
-    const num=document.createElement('small');num.textContent=i+1;b.append(num);b.onclick=()=>{if(strip.dataset.dragged==='true')return;openRecord(i);};strip.append(b);});requestAnimationFrame(styleCarousel);
+  list.forEach((r,i)=>{const b=document.createElement('button');b.className='strip-record';b.dataset.index=i;b.title=`${sleeveNumber(r)}. ${r.artist} — ${r.title}`;b.setAttribute('aria-label',`Sleeve ${sleeveNumber(r)}. ${r.artist}, ${r.title}`);mountCover(b,r,'front',true,true);b.addEventListener('mouseenter',()=>previewSpine(r,{element:b}));b.addEventListener('mouseleave',hidePreview);b.addEventListener('focus',()=>previewSpine(r,{element:b}));b.addEventListener('blur',hidePreview);
+    const num=document.createElement('small');num.textContent=sleeveNumber(r);b.append(num);b.onclick=()=>{if(strip.dataset.dragged==='true')return;openRecord(i);};strip.append(b);});requestAnimationFrame(styleCarousel);
 }
 function renderRecord(){
   const list=boxRecords(),r=list[currentIndex];if(!r)return;
@@ -83,13 +94,13 @@ function renderRecord(){
   $('vinyl-label-image').src=r.label||r.cover||'';$('vinyl-label-image').style.display=r.label||r.cover?'block':'none';$('vinyl-label-image').style.opacity=r.label?'1':'';$('vinyl-label-image').parentElement.style.border=r.label?'1px solid #25231e':'';$('vinyl-label-title').textContent=r.label?'':r.title;
   $('vinyl-button').hidden=r.kind==='book';
   $('jacket').setAttribute('aria-label',`Turn over ${r.title}`);
-  $('record-location').textContent=`Box ${boxes[currentBox].number} · ${r.kind==='book'?'Art book':'Sleeve'} ${r.position}${r.compartment?` · Section ${r.compartment}`:''}`;
+  $('record-location').textContent=`Box ${boxes[currentBox].number} · ${r.kind==='book'?'Art book':'Sleeve'} ${sleeveNumber(r)}${r.compartment?` · Section ${r.compartment}`:''}`;
   $('album-position').textContent=`${currentIndex+1} / ${list.length}`;
   $('album-position').title=`${currentIndex+1} of ${list.length} in this box`;
   document.querySelector('.sleeve-stage').dataset.view='front';
   $('record-title').textContent=r.title;$('record-artist').textContent=r.artist;
   $('record-tags').innerHTML=[r.year,r.kind==='book'?'Art book':'Vinyl',r.confidence==='unknown'?'Unidentified':r.confidence==='probable'?'Likely identification':null].filter(Boolean).map(t=>`<span>${escapeHtml(t)}</span>`).join('');
-  $('record-evidence').textContent=r.confidence==='confirmed'?'Identified from the photographed spine.':r.confidence==='probable'?'A likely match from the visible spine. A closer photograph will help confirm it.':'The spine is too worn to identify yet. Its place in the collection is preserved.';
+  $('record-evidence').textContent=r.familyCapture?'Identified from the front and back of the family sleeve.':r.confidence==='confirmed'?'Identified from the photographed spine.':r.confidence==='probable'?'A likely match from the visible spine. A closer photograph will help confirm it.':'The spine is too worn to identify yet. Its place in the collection is preserved.';
   $('record-notes').textContent=[r.spineText?`Spine: “${r.spineText}”.`:null,r.notes,r.artworkEdition||r.coverNotes||(r.cover?'Cover art represents the album; the exact pressing is unverified.':null),r.backArtworkEdition||r.backEdition||r.backNotes||(r.back?'The sourced back cover may be from a different pressing.':null),r.label?(r.labelEdition||'The pictured label is sourced from a documented LP edition; the family disc and its condition have not been photographed.'):null,r.spotifyId&&r.spotifyEdition?`Spotify edition: ${r.spotifyEdition}`:null].filter(Boolean).join(' ');
   const sourceLinks=(r.sources??[]).map(s=>typeof s==='string'?s:s.url).filter(s=>/^https?:\/\//.test(s??''));
   $('record-sources').innerHTML=sourceLinks.slice(0,6).map((url,i)=>`<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(sourceName(url,i))} ↗</a>`).join('');
@@ -115,7 +126,7 @@ function renderRecord(){
   document.querySelectorAll('.strip-record').forEach((b,i)=>{b.classList.toggle('selected',i===currentIndex);b.setAttribute('aria-pressed',String(i===currentIndex));b.tabIndex=i===currentIndex?0:-1;});
   const strip=$('record-strip');const selected=strip.children[currentIndex];if(selected){manualCarouselScroll=false;const target=selected.getBoundingClientRect().left-strip.getBoundingClientRect().left+strip.scrollLeft-(strip.clientWidth-selected.clientWidth)/2;strip.scrollTo({left:Math.max(0,target),behavior:reducedMotion?'instant':'smooth'});}
   $('record-info')?.scrollTo?.(0,0);
-  $('view-note').textContent=r.cover?'Album artwork · original sleeve edition may differ':'A placeholder until the cover is found';
+  $('view-note').textContent=artworkNote(r);
   $('announcement').textContent=`${currentIndex+1} of ${list.length}. ${r.title} by ${r.artist}`;
   if($('box-dialog').classList.contains('album-open'))history.replaceState(null,'',`${location.pathname}${location.search}#record=${encodeURIComponent(r.id)}`);
   document.querySelector('.identification').open=false;
@@ -129,7 +140,7 @@ function changeRecord(step){const focusWasSpine=document.activeElement?.classLis
 function changeView(view){
   const r=boxRecords()[currentIndex];currentView=view;document.querySelector('.sleeve-stage').dataset.view=view;$('jacket-front').setAttribute('aria-hidden',String(view==='back'));$('jacket-back').setAttribute('aria-hidden',String(view!=='back'));$('jacket').classList.toggle('is-back',view==='back');$('record-view').classList.toggle('show-vinyl',view==='vinyl');
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('active',b.dataset.view===view);b.setAttribute('aria-pressed',String(b.dataset.view===view));});
-  $('view-note').textContent=view==='vinyl'?(r.label?'Illustrated vinyl · sourced LP label, exact pressing may differ':'Illustrated vinyl · original disc label hasn’t been photographed'):view==='back'?(artworkPath(r,'back')?'Sourced back artwork · exact pressing may differ':'The original back cover is still to come'):(r.cover?'Album artwork · original sleeve edition may differ':'A placeholder until the cover is found');
+  $('view-note').textContent=view==='vinyl'?(r.label?'Illustrated vinyl · sourced LP label, exact pressing may differ':'Illustrated vinyl · original disc label hasn’t been photographed'):artworkNote(r,view==='back'?'back':'front');
 }
 function closeBox(){if($('box-dialog').open)$('box-dialog').close();}
 $('box-dialog').addEventListener('close',()=>{returnCameraToRoom();$('scene-plane').classList.remove('camera-zoomed');cameraReturnTimer=setTimeout(()=>{if(!$('box-dialog').open)$('scene').classList.remove('camera-active');},reducedMotion?0:900);$('room').classList.remove('at-box');$('box-dialog').classList.remove('album-open');hidePreview();cameraBase=null;history.replaceState(null,'',location.pathname+location.search);lastRoomFocus?.focus();});
@@ -154,7 +165,7 @@ function renderLibrary(){
   $('search-results').textContent=`${results.length} ${results.length===1?'item':'items'}${q?' found':''} · kept in the order of the boxes`;
   const grid=$('library-grid');grid.replaceChildren();
   if(!results.length){grid.innerHTML='<p class="empty-results">No records found.<br>Try a different title, artist, or box.</p>';return;}
-  results.forEach(r=>{const b=document.createElement('button');b.className='library-record';const cover=document.createElement('div');mountCover(cover,r,'front',true,true);b.append(cover);b.insertAdjacentHTML('beforeend',`<strong>${escapeHtml(r.title)}</strong><small>${escapeHtml(r.artist)}</small><span class="small-label">Box ${boxes[r.box].number} · ${r.kind==='book'?'Art book':r.confidence==='unknown'?'Unidentified sleeve':r.confidence==='probable'?'Likely match':`Sleeve ${r.position}`}</span>`);b.onclick=()=>{$('library-dialog').close();openBox(r.box,r.id);};grid.append(b);});
+  results.forEach(r=>{const b=document.createElement('button');b.className='library-record';const cover=document.createElement('div');mountCover(cover,r,'front',true,true);b.append(cover);b.insertAdjacentHTML('beforeend',`<strong>${escapeHtml(r.title)}</strong><small>${escapeHtml(r.artist)}</small><span class="small-label">Box ${boxes[r.box].number} · ${r.kind==='book'?'Art book':r.confidence==='unknown'?'Unidentified sleeve':r.confidence==='probable'?'Likely match':`Sleeve ${sleeveNumber(r)}`}</span>`);b.onclick=()=>{$('library-dialog').close();openBox(r.box,r.id);};grid.append(b);});
 }
 $('search-input').addEventListener('input',renderLibrary);$('box-filter').onchange=renderLibrary;
 function openListen(r){
@@ -234,7 +245,8 @@ function buildSpines(list,face,traced=new Map()){
     const a=c/compartmentCount+.009+(local/count)*(1/compartmentCount-.018),b=c/compartmentCount+.009+((local+weight)/count)*(1/compartmentCount-.018);
     const outline=traced.get(r.id),points=outline?.polygon??[lerp(tl,tr,a),lerp(tl,tr,b),lerp(bl,br,b),lerp(bl,br,a)];
     const anchor=outline?.anchor??[(points[2][0]+points[3][0])/2,(points[2][1]+points[3][1])/2];
-    const poly=document.createElementNS('http://www.w3.org/2000/svg','polygon');poly.setAttribute('points',points.map(p=>p.join(',')).join(' '));poly.setAttribute('class',`spine-hit${i===currentIndex?' selected-spine':''}`);poly.dataset.index=i;poly.dataset.recordId=r.id;poly.dataset.maskSource=outline?'photo':'estimated';poly.dataset.slotAnchor=anchor.join(',');poly.setAttribute('role','button');poly.setAttribute('aria-label',`Pull out ${r.title} by ${r.artist}`);poly.setAttribute('tabindex',i===currentIndex&&!$('box-dialog').classList.contains('album-open')?'0':'-1');
+    const extraOutlines=sourceRecords.filter(source=>source.mergedInto&&resolveRecordId(source.id)===r.id).map(source=>traced.get(source.id)?.polygon).filter(Boolean);
+    const poly=document.createElementNS('http://www.w3.org/2000/svg','path');poly.setAttribute('d',[points,...extraOutlines].map(outline=>`M${outline.map(p=>p.join(',')).join(' L')} Z`).join(' '));poly.setAttribute('class',`spine-hit${i===currentIndex?' selected-spine':''}`);poly.dataset.index=i;poly.dataset.recordId=r.id;poly.dataset.maskSource=outline?'photo':'estimated';poly.dataset.slotAnchor=anchor.join(',');poly.setAttribute('role','button');poly.setAttribute('aria-label',`Pull out ${r.title} by ${r.artist}`);poly.setAttribute('tabindex',i===currentIndex&&!$('box-dialog').classList.contains('album-open')?'0':'-1');
     poly.addEventListener('mouseenter',e=>previewSpine(r,{event:e}));poly.addEventListener('mouseleave',hidePreview);
     poly.addEventListener('focus',()=>previewSpine(r));poly.addEventListener('blur',hidePreview);poly.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openRecord(i);}});poly.addEventListener('click',e=>{e.stopPropagation();openRecord(i);});svg.append(poly);
   });
@@ -244,7 +256,7 @@ function previewSpine(r,anchor={}){
   previewIndex=boxRecords().findIndex(item=>item.id===r.id);updateSlotMarker();
   const card=$('record-preview');card.innerHTML='<div class="preview-art"></div><div class="preview-caption"></div>';
   mountCover(card.querySelector('.preview-art'),r,'front',true);
-  card.querySelector('.preview-caption').innerHTML=`<span class="small-label">Sleeve ${r.position} · ${r.confidence==='unknown'?'Unidentified':'Pull out to explore'}</span><strong>${escapeHtml(r.title)}</strong><span>${escapeHtml(r.artist)}</span>`;
+  card.querySelector('.preview-caption').innerHTML=`<span class="small-label">Sleeve ${sleeveNumber(r)} · ${r.confidence==='unknown'?'Unidentified':'Pull out to explore'}</span><strong>${escapeHtml(r.title)}</strong><span>${escapeHtml(r.artist)}</span>`;
   previewAnchor=anchor;positionPreview();
   card.classList.add('visible');$('box-dialog').classList.add('has-preview');
 }
@@ -292,9 +304,9 @@ function nearestCarouselRecord(){
 }
 function navigateCarousel(step){currentIndex=carouselIndex;changeRecord(step);}
 function updateCarouselCaption(r){
-  $('prev-record').disabled=r.position===1;$('next-record').disabled=r.position===boxRecords().length;
+  const index=boxRecords().findIndex(item=>item.id===r.id);$('prev-record').disabled=index===0;$('next-record').disabled=index===boxRecords().length-1;
   $('carousel-title').textContent=r.title;$('carousel-artist').textContent=r.artist;
-  $('position-label').textContent=`${r.position} / ${boxRecords().length} · ${$('box-dialog').classList.contains('album-open')?'Browse this box':'Pull out a sleeve'}`;
+  $('position-label').textContent=`${index+1} / ${boxRecords().length} · ${$('box-dialog').classList.contains('album-open')?'Browse this box':'Pull out a sleeve'}`;
 }
 function styleCarousel(){
   const bounds=strip.getBoundingClientRect(),center=bounds.left+bounds.width/2;
@@ -330,7 +342,7 @@ function updateSlotMarker(){
   let marker=svg.querySelector('.spine-slot-marker');
   if(!marker){marker=document.createElementNS('http://www.w3.org/2000/svg','g');marker.setAttribute('class','spine-slot-marker');marker.setAttribute('aria-hidden','true');marker.innerHTML='<path d="M-3 0 L0 -5 L3 0"/><rect x="-10" y="1" width="20" height="13" rx="2"/><text x="0" y="10"></text>';svg.append(marker);}
   const [x,y]=poly.dataset.slotAnchor.split(',').map(Number);
-  marker.setAttribute('transform',`translate(${x} ${y+5})`);marker.querySelector('text').textContent=boxRecords()[index].position;
+  marker.setAttribute('transform',`translate(${x} ${y+5})`);marker.querySelector('text').textContent=sleeveNumber(boxRecords()[index]);
   if(previewIndex!==null&&$('record-preview').classList.contains('visible'))positionPreview();
 }
 $('spine-layer').addEventListener('transitionend',e=>{if(e.propertyName==='transform'&&$('box-dialog').classList.contains('has-preview'))positionPreview();});

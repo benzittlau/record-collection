@@ -1,0 +1,90 @@
+{
+  "recordId": "upper-left-36",
+  "release": {
+    "id": "54ba8fc9-b584-417f-bc7a-bf79bfffc24b",
+    "score": 100,
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "artist-credit-id": "fc5a8a5b-763b-336c-84ff-c117b3c8a779",
+    "count": 1,
+    "title": "Caravanserai",
+    "status": "Official",
+    "text-representation": {
+      "language": "eng",
+      "script": "Latn"
+    },
+    "artist-credit": [
+      {
+        "name": "Santana",
+        "artist": {
+          "id": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+          "name": "Santana",
+          "sort-name": "Santana",
+          "disambiguation": "US Latin, blues, & rock band"
+        }
+      }
+    ],
+    "release-group": {
+      "id": "5dc38932-b507-3bcd-94a9-3b39c1d96526",
+      "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Caravanserai",
+      "primary-type": "Album"
+    },
+    "date": "1972-10",
+    "country": "US",
+    "release-events": [
+      {
+        "date": "1972-10",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "name": "United States",
+          "sort-name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        }
+      }
+    ],
+    "asin": "B001AXB7BC",
+    "label-info": [
+      {
+        "catalog-number": "KC 31610",
+        "label": {
+          "id": "011d1192-6f65-45bd-85c4-0400dd45693e",
+          "name": "Columbia"
+        }
+      }
+    ],
+    "track-count": 10,
+    "media": [
+      {
+        "id": "789f3010-c88c-37e2-816e-e741416c3d17",
+        "format": "12\" Vinyl",
+        "disc-count": 0,
+        "track-count": 10
+      }
+    ]
+  },
+  "url": "https://coverartarchive.org/release/54ba8fc9-b584-417f-bc7a-bf79bfffc24b",
+  "data": {
+    "images": [
+      {
+        "types": [
+          "Front"
+        ],
+        "front": true,
+        "back": false,
+        "edit": 31700315,
+        "image": "http://coverartarchive.org/release/54ba8fc9-b584-417f-bc7a-bf79bfffc24b/9683118265.jpg",
+        "comment": "",
+        "approved": true,
+        "id": "9683118265",
+        "thumbnails": {
+          "large": "http://coverartarchive.org/release/54ba8fc9-b584-417f-bc7a-bf79bfffc24b/9683118265-500.jpg",
+          "small": "http://coverartarchive.org/release/54ba8fc9-b584-417f-bc7a-bf79bfffc24b/9683118265-250.jpg"
+        }
+      }
+    ],
+    "release": "http://musicbrainz.org/release/54ba8fc9-b584-417f-bc7a-bf79bfffc24b"
+  }
+}

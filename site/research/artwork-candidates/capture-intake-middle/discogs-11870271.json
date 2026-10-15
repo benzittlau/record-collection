@@ -1,0 +1,632 @@
+{
+  "id": 11870271,
+  "status": "Accepted",
+  "year": 1980,
+  "resource_url": "https://api.discogs.com/releases/11870271",
+  "uri": "https://www.discogs.com/release/11870271-David-Grisman-Quintet-80",
+  "artists": [
+    {
+      "name": "David Grisman",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 274438,
+      "resource_url": "https://api.discogs.com/artists/274438",
+      "thumbnail_url": "https://i.discogs.com/dxGlC2WuIxvjO81wV1Uq26bVx-xo9_v3FRoztf54Qo0/rs:fit/g:sm/q:90/h:268/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3NDQz/OC0xMjc0Njg1MTM5/LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "David Grisman",
+  "labels": [
+    {
+      "name": "Warner Bros. Records",
+      "catno": "BSK 3469",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1000,
+      "resource_url": "https://api.discogs.com/labels/1000",
+      "thumbnail_url": "https://i.discogs.com/GO-baqlieZvkZypxRJOHC9sgGPzAinoiWBc7_LwuZ10/rs:fit/g:sm/q:90/h:358/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDAt/MTY0NDg3NDIwMS01/ODI0LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Warner Bros. Records Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 90718,
+      "resource_url": "https://api.discogs.com/labels/90718",
+      "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Warner Bros. Records Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 90718,
+      "resource_url": "https://api.discogs.com/labels/90718",
+      "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Warner Bros. Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 266767,
+      "resource_url": "https://api.discogs.com/labels/266767",
+      "thumbnail_url": "https://i.discogs.com/8sBGvV9JckdSkNSV1wlf_qn-YRZOU7_U1EUA_Ka3WUk/rs:fit/g:sm/q:90/h:61/w:168/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Njc2/Ny0xNDk5ODc3MzA1/LTI4OTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Warner Communications",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 552180,
+      "resource_url": "https://api.discogs.com/labels/552180",
+      "thumbnail_url": "https://i.discogs.com/S_f58w7fIK9rNZ3U5whQEZTIi2iFjwgB2vgoNCBgAvk/rs:fit/g:sm/q:90/h:156/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU1MjE4/MC0xNDQ0NjE2MTQy/LTk2NTcucG5n.jpeg"
+    },
+    {
+      "name": "1750 Arch Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 300427,
+      "resource_url": "https://api.discogs.com/labels/300427",
+      "thumbnail_url": "https://i.discogs.com/HnajBlfwwZH2Ppmog3SyEPCHCyp72v3s5oYT_W6xYIc/rs:fit/g:sm/q:90/h:201/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMDQy/Ny0xNDY0MjEzMDE1/LTcxMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "1750 Arch Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 300427,
+      "resource_url": "https://api.discogs.com/labels/300427",
+      "thumbnail_url": "https://i.discogs.com/HnajBlfwwZH2Ppmog3SyEPCHCyp72v3s5oYT_W6xYIc/rs:fit/g:sm/q:90/h:201/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMDQy/Ny0xNDY0MjEzMDE1/LTcxMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Artisan Sound Recorders",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 267310,
+      "resource_url": "https://api.discogs.com/labels/267310",
+      "thumbnail_url": "https://i.discogs.com/cC642yFOUYkhedsG2ga2aJbls_pKHjleXiAyzOV1VR4/rs:fit/g:sm/q:90/h:147/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzMx/MC0xNjQ3NTU4OTM3/LTU4ODAuanBlZw.jpeg"
+    },
+    {
+      "name": "Wakefield Manufacturing",
+      "catno": "37693",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 367883,
+      "resource_url": "https://api.discogs.com/labels/367883",
+      "thumbnail_url": "https://i.discogs.com/SrBWW7LSF-gzKlgavIgKSUCS2JsRFq90s1b9SzIOrEo/rs:fit/g:sm/q:90/h:319/w:254/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Nzg4/My0xNjM5MzU4OTkz/LTQzNDIuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Wakefield Pressing"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 406,
+    "want": 30,
+    "rating": {
+      "count": 21,
+      "average": 4.19
+    },
+    "submitter": {
+      "username": "mbchase24",
+      "resource_url": "https://api.discogs.com/users/mbchase24"
+    },
+    "contributors": [
+      {
+        "username": "mbchase24",
+        "resource_url": "https://api.discogs.com/users/mbchase24"
+      },
+      {
+        "username": "litmus",
+        "resource_url": "https://api.discogs.com/users/litmus"
+      },
+      {
+        "username": "TopCats45s",
+        "resource_url": "https://api.discogs.com/users/TopCats45s"
+      },
+      {
+        "username": "DAVE-I.D.",
+        "resource_url": "https://api.discogs.com/users/DAVE-I.D."
+      },
+      {
+        "username": "mr_mando",
+        "resource_url": "https://api.discogs.com/users/mr_mando"
+      },
+      {
+        "username": "Same.Old.Me",
+        "resource_url": "https://api.discogs.com/users/Same.Old.Me"
+      },
+      {
+        "username": "lukahsamson",
+        "resource_url": "https://api.discogs.com/users/lukahsamson"
+      },
+      {
+        "username": "jwkedd",
+        "resource_url": "https://api.discogs.com/users/jwkedd"
+      },
+      {
+        "username": "bruff76",
+        "resource_url": "https://api.discogs.com/users/bruff76"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2018-04-15T12:29:50-07:00",
+  "date_changed": "2025-06-01T11:39:52-07:00",
+  "num_for_sale": 26,
+  "lowest_price": 6.0,
+  "master_id": 729523,
+  "master_url": "https://api.discogs.com/masters/729523",
+  "title": "Quintet '80",
+  "country": "US",
+  "released": "1980",
+  "notes": "[l367883] pressing. Released with promotional belly band under shrink wrap.\n\nRecorded and mixed at 1750 Arch Studios\n\n\"All the instruments heard on this LP are acoustic.\"\n\n℗ 1980 Warner Bros. Records Inc.\nWarner Bros. Records Inc., a subsidiary and licensee of Warner Bros. Inc., a Warner Communications Company\n© 1980 Warner Bros. Records Inc. \nPrinted in U.S.A.",
+  "released_formatted": "1980",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "07599234691"
+    },
+    {
+      "type": "Barcode",
+      "value": "0 7599-23469-1",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK-1-3469-WA-1 #7 [Artisan logo] GF MO#2 [Wakefield tulip logo] 37693-A",
+      "description": "Side A runout etched, logos stamped, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK-2-3469-WA-1 ⑧ [Wakefield tulip logo] 37693-B MO#3 [Artisan logo] GF ",
+      "description": "Side B runout etched, logos stamped, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK-1-3469-WA-5  [Artisan logo]  [Wakefield tulip logo] 37693-A",
+      "description": "Side A runout etched, logos stamped, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK-2-3469-WA-1 ④ [Wakefield tulip logo] 37693-B [Artisan logo] GF ",
+      "description": "Side B runout etched, logos stamped, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK-1-3469-WA-1 [Artisan logo] GF [Wakefield tulip logo] 37693-A #2 MO#3",
+      "description": "Side A runout etched, logos stamped, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK-2-3469-WA-1 #5 [Wakefield tulip logo] 37693-B MO#3 [Artisan logo] GF",
+      "description": "Side B runout etched, logos stamped, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK-1-3469-WA-1 [Artisan logo] GF #1  [Wakefield tulip logo] 37693-A MO#3",
+      "description": "Side A runout etched, logos stamped, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK-2-3469-WA-1 #1 [Wakefield tulip logo] 37693-B MO#2 [Artisan logo] GF",
+      "description": "Side B runout etched, logos stamped, variant 4"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=YcjlSpAH8hs",
+      "title": "Sea of Cortez",
+      "description": "Provided to YouTube by Rhino/Warner Records\n\nSea of Cortez · David Grisman\n\nQuintet '80\n\n℗ 1980 Warner Records Inc.\n\nWriter: David Grisman\n\nAuto-generated by YouTube.",
+      "duration": 326,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zVEwEwYFb60",
+      "title": "Bow Wow 1",
+      "description": "Provided to YouTube by Acoustic Disc\n\nBow Wow 1 · David Grisman Quintet\n\nQuintet '80\n\n℗ 2023 Acoustic Disc\n\nReleased on: 2023-07-21\n\nMain  Artist: David Grisman Quintet\nAssociated  Performer: David Grisman\nComposer: David Grisman\n\nAuto-generated by YouTub",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cvlTDykxoTQ",
+      "title": "Bow Wow",
+      "description": "Provided to YouTube by Rhino/Warner Records\n\nBow Wow · David Grisman\n\nQuintet '80\n\n℗ 1980 Warner Records Inc.\n\nWriter: David Grisman\n\nAuto-generated by YouTube.",
+      "duration": 277,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=btnpT_9p-58",
+      "title": "Mugavero",
+      "description": "Provided to YouTube by Acoustic Disc\n\nMugavero · David Grisman Quintet\n\nQuintet '80\n\n℗ 2023 Acoustic Disc\n\nReleased on: 2023-07-21\n\nMain  Artist: David Grisman Quintet\nAssociated  Performer: David Grisman\nArranger: David Grisman\n\nAuto-generated by YouTube",
+      "duration": 314,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0NsUFwmXJr0",
+      "title": "Thailand",
+      "description": "Provided to YouTube by Rhino/Warner Records\n\nThailand · David Grisman\n\nQuintet '80\n\n℗ 1980 Warner Records Inc.\n\nWriter: David Grisman\n\nAuto-generated by YouTube.",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=doCmVTnhJbA",
+      "title": "Bow Wow 2",
+      "description": "Provided to YouTube by Acoustic Disc\n\nBow Wow 2 · David Grisman Quintet\n\nQuintet '80\n\n℗ 2023 Acoustic Disc\n\nReleased on: 2023-07-21\n\nMain  Artist: David Grisman Quintet\nAssociated  Performer: David Grisman\nComposer: David Grisman\n\nAuto-generated by YouTub",
+      "duration": 165,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=h-jYeQ1SBFA",
+      "title": "Naima",
+      "description": "Provided to YouTube by Acoustic Disc\n\nNaima · David Grisman Quintet\n\nQuintet '80\n\n℗ 2023 Acoustic Disc\n\nReleased on: 2023-07-21\n\nMain  Artist: David Grisman Quintet\nAssociated  Performer: David Grisman\nArranger: David Grisman\n\nAuto-generated by YouTube.",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gd8ND8n8vZ8",
+      "title": "Dawgmatism",
+      "description": "Provided to YouTube by Acoustic Disc\n\nDawgmatism · David Grisman Quintet\n\nQuintet '80\n\n℗ 2023 Acoustic Disc\n\nReleased on: 2023-07-21\n\nMain  Artist: David Grisman Quintet\nAssociated  Performer: David Grisman\nComposer: David Grisman\n\nAuto-generated by YouTu",
+      "duration": 304,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pR7FcHkcT5Y",
+      "title": "Mugavero",
+      "description": "Provided to YouTube by Rhino/Warner Records\n\nMugavero · David Grisman\n\nQuintet '80\n\n℗ 1980 Warner Records Inc.\n\nWriter: David Grisman\n\nAuto-generated by YouTube.",
+      "duration": 317,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lvSijuud8uM",
+      "title": "Barkley's Bug",
+      "description": "Provided to YouTube by Rhino/Warner Records\n\nBarkley's Bug · David Grisman\n\nQuintet '80\n\n℗ 1980 Warner Records Inc.\n\nWriter: David Grisman\n\nAuto-generated by YouTube.",
+      "duration": 260,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cVGAwxY_SeQ",
+      "title": "Dawgmatism",
+      "description": "Provided to YouTube by Entertainment One Distribution US\n\nDawgmatism · David Grisman Quintet\n\nDawgwood\n\n℗ Acoustic Disc\n\nReleased on: 1993-01-01\n\nAuto-generated by YouTube.",
+      "duration": 402,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hQBaVhid1K0",
+      "title": "Sea Of Cortez",
+      "description": "Provided to YouTube by Entertainment One Distribution US\n\nSea Of Cortez · David Grisman Quintet\n\nDawgwood\n\n℗ Acoustic Disc\n\nReleased on: 1993-01-01\n\nAuto-generated by YouTube.",
+      "duration": 386,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Jazz",
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Acoustic",
+    "Bluegrass"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Dawgma",
+      "duration": "3:38"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Bow Wow",
+      "extraartists": [
+        {
+          "name": "Darol Anger",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 297288,
+          "resource_url": "https://api.discogs.com/artists/297288"
+        },
+        {
+          "name": "Mike Marshall (2)",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 316798,
+          "resource_url": "https://api.discogs.com/artists/316798"
+        },
+        {
+          "name": "Mark O'Connor",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 274736,
+          "resource_url": "https://api.discogs.com/artists/274736"
+        }
+      ],
+      "duration": "4:34"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Barkley's Bug",
+      "extraartists": [
+        {
+          "name": "Mark O'Connor",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Guitar Duet]",
+          "tracks": "",
+          "id": 274736,
+          "resource_url": "https://api.discogs.com/artists/274736"
+        }
+      ],
+      "duration": "4:16"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Sea Of Cortez",
+      "extraartists": [
+        {
+          "name": "Darol Anger",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Violin Arrangement]",
+          "tracks": "",
+          "id": 297288,
+          "resource_url": "https://api.discogs.com/artists/297288"
+        },
+        {
+          "name": "Mark O'Connor",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 274736,
+          "resource_url": "https://api.discogs.com/artists/274736"
+        },
+        {
+          "name": "Mike Marshall (2)",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 316798,
+          "resource_url": "https://api.discogs.com/artists/316798"
+        }
+      ],
+      "duration": "5:23"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Naima",
+      "extraartists": [
+        {
+          "name": "John Coltrane",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 97545,
+          "resource_url": "https://api.discogs.com/artists/97545"
+        }
+      ],
+      "duration": "2:47"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Mugavero",
+      "extraartists": [
+        {
+          "name": "John Carlini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1003862,
+          "resource_url": "https://api.discogs.com/artists/1003862"
+        }
+      ],
+      "duration": "5:13"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Dawgmatism",
+      "duration": "5:04"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Thailand",
+      "duration": "11:13"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Richard Escasany",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design",
+      "tracks": "",
+      "id": 2236938,
+      "resource_url": "https://api.discogs.com/artists/2236938"
+    },
+    {
+      "name": "Suzanne Phister",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design",
+      "tracks": "",
+      "id": 2236937,
+      "resource_url": "https://api.discogs.com/artists/2236937"
+    },
+    {
+      "name": "Rob Wasserman",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 281040,
+      "resource_url": "https://api.discogs.com/artists/281040"
+    },
+    {
+      "name": "Mark O'Connor",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 274736,
+      "resource_url": "https://api.discogs.com/artists/274736"
+    },
+    {
+      "name": "Greg Fulginiti",
+      "anv": "GF",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 373939,
+      "resource_url": "https://api.discogs.com/artists/373939"
+    },
+    {
+      "name": "David Grisman",
+      "anv": "",
+      "join": "",
+      "role": "Mandolin [Mandolins]",
+      "tracks": "",
+      "id": 274438,
+      "resource_url": "https://api.discogs.com/artists/274438"
+    },
+    {
+      "name": "Mike Marshall (2)",
+      "anv": "",
+      "join": "",
+      "role": "Mandolin [Mandolins]",
+      "tracks": "",
+      "id": 316798,
+      "resource_url": "https://api.discogs.com/artists/316798"
+    },
+    {
+      "name": "Keith Silva (2)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2255341,
+      "resource_url": "https://api.discogs.com/artists/2255341"
+    },
+    {
+      "name": "David Grisman",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Arranged By",
+      "tracks": "",
+      "id": 274438,
+      "resource_url": "https://api.discogs.com/artists/274438"
+    },
+    {
+      "name": "Bill Wolf",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By, Mixed By",
+      "tracks": "",
+      "id": 416991,
+      "resource_url": "https://api.discogs.com/artists/416991"
+    },
+    {
+      "name": "Darol Anger",
+      "anv": "",
+      "join": "",
+      "role": "Violin, Electric Violin [Violectra]",
+      "tracks": "",
+      "id": 297288,
+      "resource_url": "https://api.discogs.com/artists/297288"
+    },
+    {
+      "name": "David Grisman",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1 to A4, B2, B3",
+      "id": 274438,
+      "resource_url": "https://api.discogs.com/artists/274438"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/JsKtri3OghHpVG5GAmLGP-7s2tRNek0jxWZaUhSccho/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE3MDkzMTA0/MDktODA5NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JsKtri3OghHpVG5GAmLGP-7s2tRNek0jxWZaUhSccho/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE3MDkzMTA0/MDktODA5NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2q4gaT1AMEuDqzbWF8upx9PaL4w9SNjDgnWVGsdJCzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE3MDkzMTA0/MDktODA5NC5qcGVn.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nRa4ePNKoB59nmYhiRL53J8vDG9CMFHhoCO43Y2o3sc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE3MDkzMTA0/MDktODI5MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nRa4ePNKoB59nmYhiRL53J8vDG9CMFHhoCO43Y2o3sc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE3MDkzMTA0/MDktODI5MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6PSvkF1UBnNvFXuWM1vU0D6i4xOuSKGaswHWccJGFQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE3MDkzMTA0/MDktODI5MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/H_iqPH9zNvnfO6nGZtLLVan_PkU0G8IFuvwP5xkYSfI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzUtNDkzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/H_iqPH9zNvnfO6nGZtLLVan_PkU0G8IFuvwP5xkYSfI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzUtNDkzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/V-mQE204cu2kJZt9p94BB6sRk3LPO9MHXBcwi8kdwwI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzUtNDkzNS5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iaYJj4IDhRNxuY6fujM2vEi4U4g-_is_3w-vtAvz-cI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzYtMjkyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/iaYJj4IDhRNxuY6fujM2vEi4U4g-_is_3w-vtAvz-cI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzYtMjkyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mx4JJ4TCRhI1lIhiN2wO6lsxTSz-Wvx0BgwDs3krA0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzYtMjkyOS5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KcFiUWJvejtZ2IY5WQDuKE2IwMT9saHg2BW8wA7sEY0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzUtMTcxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KcFiUWJvejtZ2IY5WQDuKE2IwMT9saHg2BW8wA7sEY0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzUtMTcxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mlrcWSYIdmCAbfshRaa65VRAdCWAOE0gkodrnzeIwRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzUtMTcxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Nie56mUQVI59yHshMz9oblJPRee3oZUaDlTk7U3c_hM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzQtOTMyMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Nie56mUQVI59yHshMz9oblJPRee3oZUaDlTk7U3c_hM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzQtOTMyMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KTWgwdaaJ2OJoKJVkFvaLDJwmNqcBfi_RmC3-wDtvSA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE1Mjc2NTkw/NzQtOTMyMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    }
+  ],
+  "thumb": "https://i.discogs.com/2q4gaT1AMEuDqzbWF8upx9PaL4w9SNjDgnWVGsdJCzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MjcxLTE3MDkzMTA0/MDktODA5NC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

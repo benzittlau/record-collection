@@ -1,0 +1,7245 @@
+{
+  "version": 1,
+  "status": "proposal-only",
+  "createdAt": "2026-10-15T03:28:26.745338+00:00",
+  "scope": "13 newly identified/corrected or newly confirmed left-box albums; one existing Pointer Sisters anchor link rechecked for preservation. No canonical mutations.",
+  "counts": {
+    "targets": 13,
+    "matched": 11,
+    "unresolved": 2,
+    "preserveExisting": 1
+  },
+  "records": [
+    {
+      "recordId": "upper-left-06",
+      "status": "matched",
+      "spotifyId": "1aGejI37sLQuTpU5W86Cyp",
+      "url": "https://open.spotify.com/album/1aGejI37sLQuTpU5W86Cyp",
+      "title": "Sing It Again Rod",
+      "artists": [
+        "Rod Stewart"
+      ],
+      "date": "1973-01-01",
+      "trackCount": 12,
+      "editionNotes": "Same 1973 compilation programme. Public metadata marks three tracks unavailable in the fetched context; do not promise complete playback.",
+      "programmeProof": [
+        "All twelve selections match the photographed Sing It Again Rod rear; original compilation, not a later hits substitute."
+      ],
+      "availability": {
+        "publicTrackCount": 12,
+        "playableTrackCount": 9,
+        "unplayableTitles": [
+          "Reason To Believe",
+          "Handbags & Gladrags",
+          "(I Know) I'm Losing You"
+        ],
+        "canadaListed": null,
+        "marketEvidenceNote": "Public album market list was empty; this does not prove absence in Canada."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3589.HEIC",
+        "https://open.spotify.com/album/1aGejI37sLQuTpU5W86Cyp"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album1ageji37slqutpu5w86cyp.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/1aGejI37sLQuTpU5W86Cyp",
+        "fetchedAt": "2026-10-15T03:14:41Z",
+        "pageTitle": "Sing It Again Rod - Album by Rod Stewart | Spotify",
+        "spotifyId": "1aGejI37sLQuTpU5W86Cyp",
+        "title": "Sing It Again Rod",
+        "artists": [
+          "Rod Stewart"
+        ],
+        "date": "1973-01-01",
+        "trackCount": 12,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "(C) 1973 The Island Def Jam Music Group",
+            "type": "C"
+          },
+          {
+            "text": "(P) 1973 The Island Def Jam Music Group",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Reason To Believe",
+            "uri": "spotify:track:6QJrQDStyOzatnR36nIGjk",
+            "durationMs": 227360,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": false
+            }
+          },
+          {
+            "title": "You Wear It Well",
+            "uri": "spotify:track:4JTfHjzWAvPeRPK5qOU66f",
+            "durationMs": 251611,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Mandolin Wind",
+            "uri": "spotify:track:5MzMZr9eRKpnbbfagYCBef",
+            "durationMs": 328693,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Country Comfort",
+            "uri": "spotify:track:1GfDJ455QD9BAvMjt68Zji",
+            "durationMs": 282215,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Maggie May",
+            "uri": "spotify:track:69VQKfhXvZaX3D0t7ImR7P",
+            "durationMs": 314226,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Handbags & Gladrags",
+            "uri": "spotify:track:2gsp9wqJ8757WHKxqwluGW",
+            "durationMs": 236173,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": false
+            }
+          },
+          {
+            "title": "Street Fighting Man",
+            "uri": "spotify:track:7uje6fzcqts1bLUyBOAMjK",
+            "durationMs": 302293,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Twistin' The Night Away",
+            "uri": "spotify:track:4WPlZju9zqQa2U2w24uu9p",
+            "durationMs": 187506,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Lost Paraguayos",
+            "uri": "spotify:track:2OmdjlGNzJcK5FEDcvLwty",
+            "durationMs": 230160,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "(I Know) I'm Losing You",
+            "uri": "spotify:track:0voQ3vXLS11ubPk5mvlXNf",
+            "durationMs": 304533,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": false
+            }
+          },
+          {
+            "title": "Pinball Wizard",
+            "uri": "spotify:track:6Wu2d3fV6yhqukGZoA8RNk",
+            "durationMs": 190000,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Gasoline Alley",
+            "uri": "spotify:track:6fO702rEK8OwxGQNQT64tL",
+            "durationMs": 245533,
+            "artists": [
+              "Rod Stewart"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": []
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851523629d6c923b7b99acd7f14",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02523629d6c923b7b99acd7f14",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273523629d6c923b7b99acd7f14",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "upper-left-36",
+      "status": "matched",
+      "spotifyId": "0abfpuzzbTUNxasNmX04RU",
+      "url": "https://open.spotify.com/album/0abfpuzzbTUNxasNmX04RU",
+      "title": "Caravanserai",
+      "artists": [
+        "Santana"
+      ],
+      "date": "1972-10-11",
+      "trackCount": 10,
+      "editionNotes": "Original album programme; digital mastering is not asserted to match the family LP.",
+      "programmeProof": [
+        "All ten original Caravanserai selections match the photographed rear, in order."
+      ],
+      "availability": {
+        "publicTrackCount": 10,
+        "playableTrackCount": 10,
+        "unplayableTitles": [],
+        "canadaListed": true,
+        "marketEvidenceNote": "Canada is listed in public album markets."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3595.HEIC",
+        "https://open.spotify.com/album/0abfpuzzbTUNxasNmX04RU"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album0abfpuzzbtunxasnmx04ru.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/0abfpuzzbTUNxasNmX04RU",
+        "fetchedAt": "2026-10-15T03:14:41Z",
+        "pageTitle": "Caravanserai - Album by Santana | Spotify",
+        "spotifyId": "0abfpuzzbTUNxasNmX04RU",
+        "title": "Caravanserai",
+        "artists": [
+          "Santana"
+        ],
+        "date": "1972-10-11",
+        "trackCount": 10,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "1972 CBS INC.",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Eternal Caravan of Reincarnation",
+            "uri": "spotify:track:0QzHgI18cfyVPd1c6p5NvH",
+            "durationMs": 270914,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Waves Within",
+            "uri": "spotify:track:1lPIRpoeSqAuOyYWnjh68s",
+            "durationMs": 233669,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Look Up (To See What's Coming Down)",
+            "uri": "spotify:track:1iHy158qAooAxsLhp6cDVI",
+            "durationMs": 176780,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Just in Time to See the Sun",
+            "uri": "spotify:track:0mqH8gu07bYAAKmJBGEX3b",
+            "durationMs": 133058,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Song of the Wind",
+            "uri": "spotify:track:3Zm2gmffkeAwqLQxFOEsYo",
+            "durationMs": 368533,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "All the Love of the Universe",
+            "uri": "spotify:track:25Tmrb98XgJSIcvRbafriI",
+            "durationMs": 456697,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Future Primitive",
+            "uri": "spotify:track:7hIG0j57IsVwGLV5yHqkiD",
+            "durationMs": 253256,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Stone Flower",
+            "uri": "spotify:track:2JLcycFUYUaRm8tnHEBArh",
+            "durationMs": 373023,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "La Fuente del Ritmo",
+            "uri": "spotify:track:7cEs8omkgmsuIkH9pOWo66",
+            "durationMs": 271183,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Every Step of the Way",
+            "uri": "spotify:track:4kbo7522YtoLQI4tENna5L",
+            "durationMs": 541694,
+            "artists": [
+              "Santana"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": [
+            {
+              "countryCode": "AR"
+            },
+            {
+              "countryCode": "AU"
+            },
+            {
+              "countryCode": "AT"
+            },
+            {
+              "countryCode": "BE"
+            },
+            {
+              "countryCode": "BO"
+            },
+            {
+              "countryCode": "BR"
+            },
+            {
+              "countryCode": "BG"
+            },
+            {
+              "countryCode": "CA"
+            },
+            {
+              "countryCode": "CL"
+            },
+            {
+              "countryCode": "CO"
+            },
+            {
+              "countryCode": "CR"
+            },
+            {
+              "countryCode": "CY"
+            },
+            {
+              "countryCode": "CZ"
+            },
+            {
+              "countryCode": "DK"
+            },
+            {
+              "countryCode": "DO"
+            },
+            {
+              "countryCode": "DE"
+            },
+            {
+              "countryCode": "EC"
+            },
+            {
+              "countryCode": "EE"
+            },
+            {
+              "countryCode": "SV"
+            },
+            {
+              "countryCode": "FI"
+            },
+            {
+              "countryCode": "FR"
+            },
+            {
+              "countryCode": "GR"
+            },
+            {
+              "countryCode": "GT"
+            },
+            {
+              "countryCode": "HN"
+            },
+            {
+              "countryCode": "HK"
+            },
+            {
+              "countryCode": "HU"
+            },
+            {
+              "countryCode": "IS"
+            },
+            {
+              "countryCode": "IE"
+            },
+            {
+              "countryCode": "IT"
+            },
+            {
+              "countryCode": "LV"
+            },
+            {
+              "countryCode": "LT"
+            },
+            {
+              "countryCode": "LU"
+            },
+            {
+              "countryCode": "MY"
+            },
+            {
+              "countryCode": "MT"
+            },
+            {
+              "countryCode": "MX"
+            },
+            {
+              "countryCode": "NL"
+            },
+            {
+              "countryCode": "NZ"
+            },
+            {
+              "countryCode": "NI"
+            },
+            {
+              "countryCode": "NO"
+            },
+            {
+              "countryCode": "PA"
+            },
+            {
+              "countryCode": "PY"
+            },
+            {
+              "countryCode": "PE"
+            },
+            {
+              "countryCode": "PH"
+            },
+            {
+              "countryCode": "PL"
+            },
+            {
+              "countryCode": "PT"
+            },
+            {
+              "countryCode": "SG"
+            },
+            {
+              "countryCode": "SK"
+            },
+            {
+              "countryCode": "ES"
+            },
+            {
+              "countryCode": "SE"
+            },
+            {
+              "countryCode": "CH"
+            },
+            {
+              "countryCode": "TW"
+            },
+            {
+              "countryCode": "TR"
+            },
+            {
+              "countryCode": "UY"
+            },
+            {
+              "countryCode": "US"
+            },
+            {
+              "countryCode": "GB"
+            },
+            {
+              "countryCode": "AD"
+            },
+            {
+              "countryCode": "LI"
+            },
+            {
+              "countryCode": "MC"
+            },
+            {
+              "countryCode": "ID"
+            },
+            {
+              "countryCode": "JP"
+            },
+            {
+              "countryCode": "TH"
+            },
+            {
+              "countryCode": "VN"
+            },
+            {
+              "countryCode": "RO"
+            },
+            {
+              "countryCode": "IL"
+            },
+            {
+              "countryCode": "ZA"
+            },
+            {
+              "countryCode": "SA"
+            },
+            {
+              "countryCode": "AE"
+            },
+            {
+              "countryCode": "BH"
+            },
+            {
+              "countryCode": "QA"
+            },
+            {
+              "countryCode": "OM"
+            },
+            {
+              "countryCode": "KW"
+            },
+            {
+              "countryCode": "EG"
+            },
+            {
+              "countryCode": "MA"
+            },
+            {
+              "countryCode": "DZ"
+            },
+            {
+              "countryCode": "TN"
+            },
+            {
+              "countryCode": "LB"
+            },
+            {
+              "countryCode": "JO"
+            },
+            {
+              "countryCode": "PS"
+            },
+            {
+              "countryCode": "IN"
+            },
+            {
+              "countryCode": "BY"
+            },
+            {
+              "countryCode": "KZ"
+            },
+            {
+              "countryCode": "MD"
+            },
+            {
+              "countryCode": "UA"
+            },
+            {
+              "countryCode": "AL"
+            },
+            {
+              "countryCode": "BA"
+            },
+            {
+              "countryCode": "HR"
+            },
+            {
+              "countryCode": "ME"
+            },
+            {
+              "countryCode": "MK"
+            },
+            {
+              "countryCode": "RS"
+            },
+            {
+              "countryCode": "SI"
+            },
+            {
+              "countryCode": "KR"
+            },
+            {
+              "countryCode": "BD"
+            },
+            {
+              "countryCode": "PK"
+            },
+            {
+              "countryCode": "LK"
+            },
+            {
+              "countryCode": "GH"
+            },
+            {
+              "countryCode": "KE"
+            },
+            {
+              "countryCode": "NG"
+            },
+            {
+              "countryCode": "TZ"
+            },
+            {
+              "countryCode": "UG"
+            },
+            {
+              "countryCode": "AG"
+            },
+            {
+              "countryCode": "AM"
+            },
+            {
+              "countryCode": "BS"
+            },
+            {
+              "countryCode": "BB"
+            },
+            {
+              "countryCode": "BZ"
+            },
+            {
+              "countryCode": "BT"
+            },
+            {
+              "countryCode": "BW"
+            },
+            {
+              "countryCode": "BF"
+            },
+            {
+              "countryCode": "CV"
+            },
+            {
+              "countryCode": "CW"
+            },
+            {
+              "countryCode": "DM"
+            },
+            {
+              "countryCode": "FJ"
+            },
+            {
+              "countryCode": "GM"
+            },
+            {
+              "countryCode": "GE"
+            },
+            {
+              "countryCode": "GD"
+            },
+            {
+              "countryCode": "GW"
+            },
+            {
+              "countryCode": "GY"
+            },
+            {
+              "countryCode": "HT"
+            },
+            {
+              "countryCode": "JM"
+            },
+            {
+              "countryCode": "KI"
+            },
+            {
+              "countryCode": "LS"
+            },
+            {
+              "countryCode": "LR"
+            },
+            {
+              "countryCode": "MW"
+            },
+            {
+              "countryCode": "MV"
+            },
+            {
+              "countryCode": "ML"
+            },
+            {
+              "countryCode": "MH"
+            },
+            {
+              "countryCode": "FM"
+            },
+            {
+              "countryCode": "NA"
+            },
+            {
+              "countryCode": "NR"
+            },
+            {
+              "countryCode": "NE"
+            },
+            {
+              "countryCode": "PW"
+            },
+            {
+              "countryCode": "PG"
+            },
+            {
+              "countryCode": "PR"
+            },
+            {
+              "countryCode": "WS"
+            },
+            {
+              "countryCode": "SM"
+            },
+            {
+              "countryCode": "ST"
+            },
+            {
+              "countryCode": "SN"
+            },
+            {
+              "countryCode": "SC"
+            },
+            {
+              "countryCode": "SL"
+            },
+            {
+              "countryCode": "SB"
+            },
+            {
+              "countryCode": "KN"
+            },
+            {
+              "countryCode": "LC"
+            },
+            {
+              "countryCode": "VC"
+            },
+            {
+              "countryCode": "SR"
+            },
+            {
+              "countryCode": "TL"
+            },
+            {
+              "countryCode": "TO"
+            },
+            {
+              "countryCode": "TT"
+            },
+            {
+              "countryCode": "TV"
+            },
+            {
+              "countryCode": "VU"
+            },
+            {
+              "countryCode": "AZ"
+            },
+            {
+              "countryCode": "BN"
+            },
+            {
+              "countryCode": "BI"
+            },
+            {
+              "countryCode": "KH"
+            },
+            {
+              "countryCode": "CM"
+            },
+            {
+              "countryCode": "TD"
+            },
+            {
+              "countryCode": "KM"
+            },
+            {
+              "countryCode": "GQ"
+            },
+            {
+              "countryCode": "SZ"
+            },
+            {
+              "countryCode": "GA"
+            },
+            {
+              "countryCode": "GN"
+            },
+            {
+              "countryCode": "KG"
+            },
+            {
+              "countryCode": "LA"
+            },
+            {
+              "countryCode": "MO"
+            },
+            {
+              "countryCode": "MR"
+            },
+            {
+              "countryCode": "MN"
+            },
+            {
+              "countryCode": "NP"
+            },
+            {
+              "countryCode": "RW"
+            },
+            {
+              "countryCode": "TG"
+            },
+            {
+              "countryCode": "UZ"
+            },
+            {
+              "countryCode": "ZW"
+            },
+            {
+              "countryCode": "BJ"
+            },
+            {
+              "countryCode": "MG"
+            },
+            {
+              "countryCode": "MU"
+            },
+            {
+              "countryCode": "MZ"
+            },
+            {
+              "countryCode": "AO"
+            },
+            {
+              "countryCode": "CI"
+            },
+            {
+              "countryCode": "DJ"
+            },
+            {
+              "countryCode": "ZM"
+            },
+            {
+              "countryCode": "CD"
+            },
+            {
+              "countryCode": "CG"
+            },
+            {
+              "countryCode": "IQ"
+            },
+            {
+              "countryCode": "LY"
+            },
+            {
+              "countryCode": "TJ"
+            },
+            {
+              "countryCode": "VE"
+            },
+            {
+              "countryCode": "ET"
+            },
+            {
+              "countryCode": "XK"
+            }
+          ]
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851093b9bc501a6a2041809a212",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02093b9bc501a6a2041809a212",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273093b9bc501a6a2041809a212",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "upper-left-56",
+      "status": "matched",
+      "spotifyId": "27wrSa8Ojd5lJMnvRMZ02F",
+      "url": "https://open.spotify.com/album/27wrSa8Ojd5lJMnvRMZ02F",
+      "title": "Between The Buttons (US track listing)",
+      "artists": [
+        "The Rolling Stones"
+      ],
+      "date": "1967-01-20",
+      "trackCount": 12,
+      "editionNotes": "2002 digital issue of the US programme. The photographed jacket is MONO LL3499; this digital page does not certify mono mastering.",
+      "programmeProof": [
+        "All twelve US selections match LL3499: starts Let’s Spend the Night Together, Yesterday’s Papers, Ruby Tuesday; UK-only Back Street Girl/Please Go Home are absent."
+      ],
+      "availability": {
+        "publicTrackCount": 12,
+        "playableTrackCount": 12,
+        "unplayableTitles": [],
+        "canadaListed": null,
+        "marketEvidenceNote": "Public album market list was empty; this does not prove absence in Canada."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3607.HEIC",
+        "https://open.spotify.com/album/27wrSa8Ojd5lJMnvRMZ02F"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album27wrsa8ojd5ljmnvrmz02f.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/27wrSa8Ojd5lJMnvRMZ02F",
+        "fetchedAt": "2026-10-15T03:16:09Z",
+        "pageTitle": "Between The Buttons (US track listing) - Album by The Rolling Stones | Spotify",
+        "spotifyId": "27wrSa8Ojd5lJMnvRMZ02F",
+        "title": "Between The Buttons (US track listing)",
+        "artists": [
+          "The Rolling Stones"
+        ],
+        "date": "1967-01-20",
+        "trackCount": 12,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "© 2002 Universal Music International",
+            "type": "C"
+          },
+          {
+            "text": "℗ 2002 ABKCO Records Inc.",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Let's Spend The Night Together",
+            "uri": "spotify:track:4gEaCKxWXhwTuFdaS9uq1F",
+            "durationMs": 215893,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Yesterday's Papers",
+            "uri": "spotify:track:448glK82bkOMYh2fSlPVeY",
+            "durationMs": 123266,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Ruby Tuesday",
+            "uri": "spotify:track:144S2OoUubFZNcQwIjpi6C",
+            "durationMs": 196466,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Connection",
+            "uri": "spotify:track:47NDsH1cLqlEtrSYr3p74r",
+            "durationMs": 127773,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "She Smiled Sweetly",
+            "uri": "spotify:track:4NYYm8Hy6NunNMBuWPlWSz",
+            "durationMs": 164733,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Cool, Calm And Collected",
+            "uri": "spotify:track:0Wc7pOstI0udl6el45HQTW",
+            "durationMs": 255093,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "All Sold Out",
+            "uri": "spotify:track:6OGe8yBz53bJCEqkF5RnW5",
+            "durationMs": 137573,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "My Obsession",
+            "uri": "spotify:track:14XSZqo7His2J1Oy2HCkJt",
+            "durationMs": 196733,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Who's Been Sleeping Here?",
+            "uri": "spotify:track:5n7NZWOHWhjIgsOGBAoTa8",
+            "durationMs": 235266,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Complicated",
+            "uri": "spotify:track:3STQ1n2pb2B2Mk4ORcdBeP",
+            "durationMs": 194893,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Miss Amanda Jones",
+            "uri": "spotify:track:3qSX7oBHdu0nSSTFePS4db",
+            "durationMs": 166840,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Something Happened To Me Yesterday",
+            "uri": "spotify:track:2OA84ki6nMV2qgyaPYOfl1",
+            "durationMs": 295066,
+            "artists": [
+              "The Rolling Stones"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": []
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485150a2a71e09c841a2f0cbeb2a",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0250a2a71e09c841a2f0cbeb2a",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27350a2a71e09c841a2f0cbeb2a",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "lower-left-07",
+      "status": "matched",
+      "spotifyId": "7k04j3W62C3mpBZBoiMN0P",
+      "url": "https://open.spotify.com/album/7k04j3W62C3mpBZBoiMN0P",
+      "title": "Magicians Hat",
+      "artists": [
+        "Bo Hansson"
+      ],
+      "date": "1972-12-04",
+      "trackCount": 12,
+      "editionNotes": "Expanded digital edition: Big City is the extended 11:28 version rather than the English LP’s shorter The City, followed by the original programme and one bonus track. Same album, different opening edit.",
+      "programmeProof": [
+        "The eleven original compositions match the photographed Charisma FC6062 programme; this issue restores the longer Swedish opening and adds Waltz at Dawn."
+      ],
+      "availability": {
+        "publicTrackCount": 12,
+        "playableTrackCount": 12,
+        "unplayableTitles": [],
+        "canadaListed": true,
+        "marketEvidenceNote": "Canada is listed in public album markets."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3611.HEIC",
+        "https://open.spotify.com/album/7k04j3W62C3mpBZBoiMN0P"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album7k04j3w62c3mpbzboimn0p.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/7k04j3W62C3mpBZBoiMN0P",
+        "fetchedAt": "2026-10-15T03:16:08Z",
+        "pageTitle": "Magicians Hat - Album by Bo Hansson | Spotify",
+        "spotifyId": "7k04j3W62C3mpBZBoiMN0P",
+        "title": "Magicians Hat",
+        "artists": [
+          "Bo Hansson"
+        ],
+        "date": "1972-12-04",
+        "trackCount": 12,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "1972 Silence Records, a division of Playground Music Scandinavia AB",
+            "type": "C"
+          },
+          {
+            "text": "1972 Silence Records, a division of Playground Music Scandinavia AB",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Big City - Extended Version",
+            "uri": "spotify:track:3ZTlQkuwQTW6svbbYxVKC1",
+            "durationMs": 688400,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Divided Reality",
+            "uri": "spotify:track:2IgE9WnJdCkf8KrDLZctrh",
+            "durationMs": 380000,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Elidor",
+            "uri": "spotify:track:17qvSJ3qrmCsyZInTc8Gca",
+            "durationMs": 95400,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Before the Rain",
+            "uri": "spotify:track:43XVKu5Ad0BswJVlo3dLD5",
+            "durationMs": 90786,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Fylke",
+            "uri": "spotify:track:4TCpqLEKEoL4V50HED0V0y",
+            "durationMs": 112253,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Playing Downhill into the Downs",
+            "uri": "spotify:track:7EaKZQrdUvPV043qtaypMS",
+            "durationMs": 105066,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Findhorn's Song",
+            "uri": "spotify:track:0DUmByOv7ryDlVSzAjOE3v",
+            "durationMs": 97040,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "The Awakening",
+            "uri": "spotify:track:6ZiUpdqGUafyW3HgvNRj8O",
+            "durationMs": 166893,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Wandering Song",
+            "uri": "spotify:track:1kkAIBqT4dqRTI72q2XL3N",
+            "durationMs": 196360,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "The Sun (Parallell or 90 Degrees)",
+            "uri": "spotify:track:6EWhuRBcvBH2SqccLE709q",
+            "durationMs": 434746,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Excursion with Complications",
+            "uri": "spotify:track:1N9JiKPaAg8B8tXTNEvGsd",
+            "durationMs": 210933,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Waltz at Dawn - Bonus",
+            "uri": "spotify:track:2W0t5TJwCZF9Tjj4pT46MV",
+            "durationMs": 351146,
+            "artists": [
+              "Bo Hansson"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": [
+            {
+              "countryCode": "AR"
+            },
+            {
+              "countryCode": "AU"
+            },
+            {
+              "countryCode": "AT"
+            },
+            {
+              "countryCode": "BE"
+            },
+            {
+              "countryCode": "BO"
+            },
+            {
+              "countryCode": "BR"
+            },
+            {
+              "countryCode": "BG"
+            },
+            {
+              "countryCode": "CA"
+            },
+            {
+              "countryCode": "CL"
+            },
+            {
+              "countryCode": "CO"
+            },
+            {
+              "countryCode": "CR"
+            },
+            {
+              "countryCode": "CY"
+            },
+            {
+              "countryCode": "CZ"
+            },
+            {
+              "countryCode": "DK"
+            },
+            {
+              "countryCode": "DO"
+            },
+            {
+              "countryCode": "DE"
+            },
+            {
+              "countryCode": "EC"
+            },
+            {
+              "countryCode": "EE"
+            },
+            {
+              "countryCode": "SV"
+            },
+            {
+              "countryCode": "FI"
+            },
+            {
+              "countryCode": "FR"
+            },
+            {
+              "countryCode": "GR"
+            },
+            {
+              "countryCode": "GT"
+            },
+            {
+              "countryCode": "HN"
+            },
+            {
+              "countryCode": "HK"
+            },
+            {
+              "countryCode": "HU"
+            },
+            {
+              "countryCode": "IS"
+            },
+            {
+              "countryCode": "IE"
+            },
+            {
+              "countryCode": "IT"
+            },
+            {
+              "countryCode": "LV"
+            },
+            {
+              "countryCode": "LT"
+            },
+            {
+              "countryCode": "LU"
+            },
+            {
+              "countryCode": "MY"
+            },
+            {
+              "countryCode": "MT"
+            },
+            {
+              "countryCode": "MX"
+            },
+            {
+              "countryCode": "NL"
+            },
+            {
+              "countryCode": "NZ"
+            },
+            {
+              "countryCode": "NI"
+            },
+            {
+              "countryCode": "NO"
+            },
+            {
+              "countryCode": "PA"
+            },
+            {
+              "countryCode": "PY"
+            },
+            {
+              "countryCode": "PE"
+            },
+            {
+              "countryCode": "PH"
+            },
+            {
+              "countryCode": "PL"
+            },
+            {
+              "countryCode": "PT"
+            },
+            {
+              "countryCode": "SG"
+            },
+            {
+              "countryCode": "SK"
+            },
+            {
+              "countryCode": "ES"
+            },
+            {
+              "countryCode": "SE"
+            },
+            {
+              "countryCode": "CH"
+            },
+            {
+              "countryCode": "TW"
+            },
+            {
+              "countryCode": "TR"
+            },
+            {
+              "countryCode": "UY"
+            },
+            {
+              "countryCode": "US"
+            },
+            {
+              "countryCode": "GB"
+            },
+            {
+              "countryCode": "AD"
+            },
+            {
+              "countryCode": "LI"
+            },
+            {
+              "countryCode": "MC"
+            },
+            {
+              "countryCode": "ID"
+            },
+            {
+              "countryCode": "JP"
+            },
+            {
+              "countryCode": "TH"
+            },
+            {
+              "countryCode": "VN"
+            },
+            {
+              "countryCode": "RO"
+            },
+            {
+              "countryCode": "IL"
+            },
+            {
+              "countryCode": "ZA"
+            },
+            {
+              "countryCode": "SA"
+            },
+            {
+              "countryCode": "AE"
+            },
+            {
+              "countryCode": "BH"
+            },
+            {
+              "countryCode": "QA"
+            },
+            {
+              "countryCode": "OM"
+            },
+            {
+              "countryCode": "KW"
+            },
+            {
+              "countryCode": "EG"
+            },
+            {
+              "countryCode": "MA"
+            },
+            {
+              "countryCode": "DZ"
+            },
+            {
+              "countryCode": "TN"
+            },
+            {
+              "countryCode": "LB"
+            },
+            {
+              "countryCode": "JO"
+            },
+            {
+              "countryCode": "PS"
+            },
+            {
+              "countryCode": "IN"
+            },
+            {
+              "countryCode": "BY"
+            },
+            {
+              "countryCode": "KZ"
+            },
+            {
+              "countryCode": "MD"
+            },
+            {
+              "countryCode": "UA"
+            },
+            {
+              "countryCode": "AL"
+            },
+            {
+              "countryCode": "BA"
+            },
+            {
+              "countryCode": "HR"
+            },
+            {
+              "countryCode": "ME"
+            },
+            {
+              "countryCode": "MK"
+            },
+            {
+              "countryCode": "RS"
+            },
+            {
+              "countryCode": "SI"
+            },
+            {
+              "countryCode": "KR"
+            },
+            {
+              "countryCode": "BD"
+            },
+            {
+              "countryCode": "PK"
+            },
+            {
+              "countryCode": "LK"
+            },
+            {
+              "countryCode": "GH"
+            },
+            {
+              "countryCode": "KE"
+            },
+            {
+              "countryCode": "NG"
+            },
+            {
+              "countryCode": "TZ"
+            },
+            {
+              "countryCode": "UG"
+            },
+            {
+              "countryCode": "AG"
+            },
+            {
+              "countryCode": "AM"
+            },
+            {
+              "countryCode": "BS"
+            },
+            {
+              "countryCode": "BB"
+            },
+            {
+              "countryCode": "BZ"
+            },
+            {
+              "countryCode": "BT"
+            },
+            {
+              "countryCode": "BW"
+            },
+            {
+              "countryCode": "BF"
+            },
+            {
+              "countryCode": "CV"
+            },
+            {
+              "countryCode": "CW"
+            },
+            {
+              "countryCode": "DM"
+            },
+            {
+              "countryCode": "FJ"
+            },
+            {
+              "countryCode": "GM"
+            },
+            {
+              "countryCode": "GE"
+            },
+            {
+              "countryCode": "GD"
+            },
+            {
+              "countryCode": "GW"
+            },
+            {
+              "countryCode": "GY"
+            },
+            {
+              "countryCode": "HT"
+            },
+            {
+              "countryCode": "JM"
+            },
+            {
+              "countryCode": "KI"
+            },
+            {
+              "countryCode": "LS"
+            },
+            {
+              "countryCode": "LR"
+            },
+            {
+              "countryCode": "MW"
+            },
+            {
+              "countryCode": "MV"
+            },
+            {
+              "countryCode": "ML"
+            },
+            {
+              "countryCode": "MH"
+            },
+            {
+              "countryCode": "FM"
+            },
+            {
+              "countryCode": "NA"
+            },
+            {
+              "countryCode": "NR"
+            },
+            {
+              "countryCode": "NE"
+            },
+            {
+              "countryCode": "PW"
+            },
+            {
+              "countryCode": "PG"
+            },
+            {
+              "countryCode": "PR"
+            },
+            {
+              "countryCode": "WS"
+            },
+            {
+              "countryCode": "SM"
+            },
+            {
+              "countryCode": "ST"
+            },
+            {
+              "countryCode": "SN"
+            },
+            {
+              "countryCode": "SC"
+            },
+            {
+              "countryCode": "SL"
+            },
+            {
+              "countryCode": "SB"
+            },
+            {
+              "countryCode": "KN"
+            },
+            {
+              "countryCode": "LC"
+            },
+            {
+              "countryCode": "VC"
+            },
+            {
+              "countryCode": "SR"
+            },
+            {
+              "countryCode": "TL"
+            },
+            {
+              "countryCode": "TO"
+            },
+            {
+              "countryCode": "TT"
+            },
+            {
+              "countryCode": "TV"
+            },
+            {
+              "countryCode": "VU"
+            },
+            {
+              "countryCode": "AZ"
+            },
+            {
+              "countryCode": "BN"
+            },
+            {
+              "countryCode": "BI"
+            },
+            {
+              "countryCode": "KH"
+            },
+            {
+              "countryCode": "CM"
+            },
+            {
+              "countryCode": "TD"
+            },
+            {
+              "countryCode": "KM"
+            },
+            {
+              "countryCode": "GQ"
+            },
+            {
+              "countryCode": "SZ"
+            },
+            {
+              "countryCode": "GA"
+            },
+            {
+              "countryCode": "GN"
+            },
+            {
+              "countryCode": "KG"
+            },
+            {
+              "countryCode": "LA"
+            },
+            {
+              "countryCode": "MO"
+            },
+            {
+              "countryCode": "MR"
+            },
+            {
+              "countryCode": "MN"
+            },
+            {
+              "countryCode": "NP"
+            },
+            {
+              "countryCode": "RW"
+            },
+            {
+              "countryCode": "TG"
+            },
+            {
+              "countryCode": "UZ"
+            },
+            {
+              "countryCode": "ZW"
+            },
+            {
+              "countryCode": "BJ"
+            },
+            {
+              "countryCode": "MG"
+            },
+            {
+              "countryCode": "MU"
+            },
+            {
+              "countryCode": "MZ"
+            },
+            {
+              "countryCode": "AO"
+            },
+            {
+              "countryCode": "CI"
+            },
+            {
+              "countryCode": "DJ"
+            },
+            {
+              "countryCode": "ZM"
+            },
+            {
+              "countryCode": "CD"
+            },
+            {
+              "countryCode": "CG"
+            },
+            {
+              "countryCode": "IQ"
+            },
+            {
+              "countryCode": "LY"
+            },
+            {
+              "countryCode": "TJ"
+            },
+            {
+              "countryCode": "VE"
+            },
+            {
+              "countryCode": "ET"
+            },
+            {
+              "countryCode": "XK"
+            }
+          ]
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512d9b91c0b6d0a7a7a1ed032c",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022d9b91c0b6d0a7a7a1ed032c",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732d9b91c0b6d0a7a7a1ed032c",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "lower-left-12",
+      "status": "matched",
+      "spotifyId": "47T7WSIGl0mmtpBYkbVX6S",
+      "url": "https://open.spotify.com/album/47T7WSIGl0mmtpBYkbVX6S",
+      "title": "The Ecstasy of Rita Joe",
+      "artists": [
+        "Ann Mortifee/Paul Horn"
+      ],
+      "date": "2009-09-29",
+      "trackCount": 15,
+      "editionNotes": "2009 digital reissue credited Ann Mortifee/Paul Horn; the physical jacket credits Chief Dan George, Paul Horn and Ann Mortifee. Digital date is not the original LP release date.",
+      "programmeProof": [
+        "The fifteen musical/scene titles and order match the photographed United Artists rear and the Museum of Canadian Music LP programme; Ann Mortifee and Paul Horn credits correspond to the original production."
+      ],
+      "availability": {
+        "publicTrackCount": 15,
+        "playableTrackCount": 15,
+        "unplayableTitles": [],
+        "canadaListed": true,
+        "marketEvidenceNote": "Canada is listed in public album markets."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3613.HEIC",
+        "https://open.spotify.com/album/47T7WSIGl0mmtpBYkbVX6S"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album47t7wsigl0mmtpbykbvx6s.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/47T7WSIGl0mmtpBYkbVX6S",
+        "fetchedAt": "2026-10-15T03:21:20Z",
+        "pageTitle": "The Ecstasy of Rita Joe - Album by Ann Mortifee/Paul Horn | Spotify",
+        "spotifyId": "47T7WSIGl0mmtpBYkbVX6S",
+        "title": "The Ecstasy of Rita Joe",
+        "artists": [
+          "Ann Mortifee/Paul Horn"
+        ],
+        "date": "2009-09-29",
+        "trackCount": 15,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "2009 Eskova Enterprises Ltd.",
+            "type": "C"
+          },
+          {
+            "text": "2009 Eskova Enterprises Ltd.",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Overture (feat. Paul Horn)",
+            "uri": "spotify:track:3gJfo1uwGEVfMeebFgVHaU",
+            "durationMs": 148026,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Sleepless Hours",
+            "uri": "spotify:track:4I1JozFbZBSpKUQabwVZtb",
+            "durationMs": 140306,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Seeds of a Dandelion/ City Dance",
+            "uri": "spotify:track:5GHubLyI8pg9EbZTKugOK9",
+            "durationMs": 231746,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Jesus God",
+            "uri": "spotify:track:3SNg6C5XenKZaPeKP4u3HL",
+            "durationMs": 145680,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Magistrate Remembers/ Blueberries",
+            "uri": "spotify:track:6WdfnGUi48LBFYTCf99rHY",
+            "durationMs": 182426,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Nobody Gets My Child",
+            "uri": "spotify:track:2q4mobJvlydOHwBHV5haqH",
+            "durationMs": 149066,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "I Tried",
+            "uri": "spotify:track:5eAXbMPtNCngWHOX6TgiUK",
+            "durationMs": 150693,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Night Pas de Deux",
+            "uri": "spotify:track:18cIwHWZNT1iSuMlNrj0Hv",
+            "durationMs": 141146,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Wonder/ Morning Pas de Deux",
+            "uri": "spotify:track:0ntZ0YJyC9fwR57MvBgOhd",
+            "durationMs": 255026,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Birch and Willow",
+            "uri": "spotify:track:6sdPQZxD9kJWzqQ4Jgvjtn",
+            "durationMs": 160666,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Hot Day",
+            "uri": "spotify:track:3zPg7dGKPGJNEbwUFbFMC6",
+            "durationMs": 184346,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Good Boys/ Silver Train",
+            "uri": "spotify:track:50e7UTUdixk2s1i0iyxMSb",
+            "durationMs": 137786,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Four O' Clock/ A Country Evening",
+            "uri": "spotify:track:5ky8Bzm7iDHYOHbUfElgiQ",
+            "durationMs": 175986,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Death Carousel",
+            "uri": "spotify:track:6ydoRxCM9jDLw7FBG1PCkH",
+            "durationMs": 233600,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Epilogue (feat. Paul Horn)",
+            "uri": "spotify:track:7LMw0IJmHEUvHRydR5RO5l",
+            "durationMs": 83186,
+            "artists": [
+              "Ann Mortifee"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": [
+            {
+              "countryCode": "AR"
+            },
+            {
+              "countryCode": "AU"
+            },
+            {
+              "countryCode": "AT"
+            },
+            {
+              "countryCode": "BE"
+            },
+            {
+              "countryCode": "BO"
+            },
+            {
+              "countryCode": "BR"
+            },
+            {
+              "countryCode": "BG"
+            },
+            {
+              "countryCode": "CA"
+            },
+            {
+              "countryCode": "CL"
+            },
+            {
+              "countryCode": "CO"
+            },
+            {
+              "countryCode": "CR"
+            },
+            {
+              "countryCode": "CY"
+            },
+            {
+              "countryCode": "CZ"
+            },
+            {
+              "countryCode": "DK"
+            },
+            {
+              "countryCode": "DO"
+            },
+            {
+              "countryCode": "DE"
+            },
+            {
+              "countryCode": "EC"
+            },
+            {
+              "countryCode": "EE"
+            },
+            {
+              "countryCode": "SV"
+            },
+            {
+              "countryCode": "FI"
+            },
+            {
+              "countryCode": "FR"
+            },
+            {
+              "countryCode": "GR"
+            },
+            {
+              "countryCode": "GT"
+            },
+            {
+              "countryCode": "HN"
+            },
+            {
+              "countryCode": "HK"
+            },
+            {
+              "countryCode": "HU"
+            },
+            {
+              "countryCode": "IS"
+            },
+            {
+              "countryCode": "IE"
+            },
+            {
+              "countryCode": "IT"
+            },
+            {
+              "countryCode": "LV"
+            },
+            {
+              "countryCode": "LT"
+            },
+            {
+              "countryCode": "LU"
+            },
+            {
+              "countryCode": "MY"
+            },
+            {
+              "countryCode": "MT"
+            },
+            {
+              "countryCode": "MX"
+            },
+            {
+              "countryCode": "NL"
+            },
+            {
+              "countryCode": "NZ"
+            },
+            {
+              "countryCode": "NI"
+            },
+            {
+              "countryCode": "NO"
+            },
+            {
+              "countryCode": "PA"
+            },
+            {
+              "countryCode": "PY"
+            },
+            {
+              "countryCode": "PE"
+            },
+            {
+              "countryCode": "PH"
+            },
+            {
+              "countryCode": "PL"
+            },
+            {
+              "countryCode": "PT"
+            },
+            {
+              "countryCode": "SG"
+            },
+            {
+              "countryCode": "SK"
+            },
+            {
+              "countryCode": "ES"
+            },
+            {
+              "countryCode": "SE"
+            },
+            {
+              "countryCode": "CH"
+            },
+            {
+              "countryCode": "TW"
+            },
+            {
+              "countryCode": "TR"
+            },
+            {
+              "countryCode": "UY"
+            },
+            {
+              "countryCode": "US"
+            },
+            {
+              "countryCode": "GB"
+            },
+            {
+              "countryCode": "AD"
+            },
+            {
+              "countryCode": "LI"
+            },
+            {
+              "countryCode": "MC"
+            },
+            {
+              "countryCode": "ID"
+            },
+            {
+              "countryCode": "TH"
+            },
+            {
+              "countryCode": "VN"
+            },
+            {
+              "countryCode": "RO"
+            },
+            {
+              "countryCode": "IL"
+            },
+            {
+              "countryCode": "ZA"
+            },
+            {
+              "countryCode": "SA"
+            },
+            {
+              "countryCode": "AE"
+            },
+            {
+              "countryCode": "BH"
+            },
+            {
+              "countryCode": "QA"
+            },
+            {
+              "countryCode": "OM"
+            },
+            {
+              "countryCode": "KW"
+            },
+            {
+              "countryCode": "EG"
+            },
+            {
+              "countryCode": "MA"
+            },
+            {
+              "countryCode": "DZ"
+            },
+            {
+              "countryCode": "TN"
+            },
+            {
+              "countryCode": "LB"
+            },
+            {
+              "countryCode": "JO"
+            },
+            {
+              "countryCode": "PS"
+            },
+            {
+              "countryCode": "IN"
+            },
+            {
+              "countryCode": "BY"
+            },
+            {
+              "countryCode": "KZ"
+            },
+            {
+              "countryCode": "MD"
+            },
+            {
+              "countryCode": "UA"
+            },
+            {
+              "countryCode": "AL"
+            },
+            {
+              "countryCode": "BA"
+            },
+            {
+              "countryCode": "HR"
+            },
+            {
+              "countryCode": "MK"
+            },
+            {
+              "countryCode": "SI"
+            },
+            {
+              "countryCode": "KR"
+            },
+            {
+              "countryCode": "BD"
+            },
+            {
+              "countryCode": "PK"
+            },
+            {
+              "countryCode": "LK"
+            },
+            {
+              "countryCode": "GH"
+            },
+            {
+              "countryCode": "KE"
+            },
+            {
+              "countryCode": "NG"
+            },
+            {
+              "countryCode": "TZ"
+            },
+            {
+              "countryCode": "UG"
+            },
+            {
+              "countryCode": "AG"
+            },
+            {
+              "countryCode": "AM"
+            },
+            {
+              "countryCode": "BS"
+            },
+            {
+              "countryCode": "BB"
+            },
+            {
+              "countryCode": "BZ"
+            },
+            {
+              "countryCode": "BT"
+            },
+            {
+              "countryCode": "BW"
+            },
+            {
+              "countryCode": "BF"
+            },
+            {
+              "countryCode": "CV"
+            },
+            {
+              "countryCode": "CW"
+            },
+            {
+              "countryCode": "DM"
+            },
+            {
+              "countryCode": "FJ"
+            },
+            {
+              "countryCode": "GM"
+            },
+            {
+              "countryCode": "GE"
+            },
+            {
+              "countryCode": "GD"
+            },
+            {
+              "countryCode": "GW"
+            },
+            {
+              "countryCode": "GY"
+            },
+            {
+              "countryCode": "HT"
+            },
+            {
+              "countryCode": "JM"
+            },
+            {
+              "countryCode": "KI"
+            },
+            {
+              "countryCode": "LS"
+            },
+            {
+              "countryCode": "LR"
+            },
+            {
+              "countryCode": "MW"
+            },
+            {
+              "countryCode": "MV"
+            },
+            {
+              "countryCode": "ML"
+            },
+            {
+              "countryCode": "MH"
+            },
+            {
+              "countryCode": "FM"
+            },
+            {
+              "countryCode": "NA"
+            },
+            {
+              "countryCode": "NR"
+            },
+            {
+              "countryCode": "NE"
+            },
+            {
+              "countryCode": "PW"
+            },
+            {
+              "countryCode": "PG"
+            },
+            {
+              "countryCode": "PR"
+            },
+            {
+              "countryCode": "WS"
+            },
+            {
+              "countryCode": "SM"
+            },
+            {
+              "countryCode": "ST"
+            },
+            {
+              "countryCode": "SN"
+            },
+            {
+              "countryCode": "SC"
+            },
+            {
+              "countryCode": "SL"
+            },
+            {
+              "countryCode": "SB"
+            },
+            {
+              "countryCode": "KN"
+            },
+            {
+              "countryCode": "LC"
+            },
+            {
+              "countryCode": "VC"
+            },
+            {
+              "countryCode": "SR"
+            },
+            {
+              "countryCode": "TL"
+            },
+            {
+              "countryCode": "TO"
+            },
+            {
+              "countryCode": "TT"
+            },
+            {
+              "countryCode": "TV"
+            },
+            {
+              "countryCode": "VU"
+            },
+            {
+              "countryCode": "AZ"
+            },
+            {
+              "countryCode": "BN"
+            },
+            {
+              "countryCode": "BI"
+            },
+            {
+              "countryCode": "KH"
+            },
+            {
+              "countryCode": "CM"
+            },
+            {
+              "countryCode": "TD"
+            },
+            {
+              "countryCode": "KM"
+            },
+            {
+              "countryCode": "GQ"
+            },
+            {
+              "countryCode": "SZ"
+            },
+            {
+              "countryCode": "GA"
+            },
+            {
+              "countryCode": "GN"
+            },
+            {
+              "countryCode": "KG"
+            },
+            {
+              "countryCode": "LA"
+            },
+            {
+              "countryCode": "MO"
+            },
+            {
+              "countryCode": "MR"
+            },
+            {
+              "countryCode": "MN"
+            },
+            {
+              "countryCode": "NP"
+            },
+            {
+              "countryCode": "RW"
+            },
+            {
+              "countryCode": "TG"
+            },
+            {
+              "countryCode": "UZ"
+            },
+            {
+              "countryCode": "ZW"
+            },
+            {
+              "countryCode": "BJ"
+            },
+            {
+              "countryCode": "MG"
+            },
+            {
+              "countryCode": "MU"
+            },
+            {
+              "countryCode": "MZ"
+            },
+            {
+              "countryCode": "AO"
+            },
+            {
+              "countryCode": "CI"
+            },
+            {
+              "countryCode": "DJ"
+            },
+            {
+              "countryCode": "ZM"
+            },
+            {
+              "countryCode": "CD"
+            },
+            {
+              "countryCode": "CG"
+            },
+            {
+              "countryCode": "IQ"
+            },
+            {
+              "countryCode": "LY"
+            },
+            {
+              "countryCode": "TJ"
+            },
+            {
+              "countryCode": "VE"
+            },
+            {
+              "countryCode": "ET"
+            }
+          ]
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485103cd0974f4450b3dfb696a14",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0203cd0974f4450b3dfb696a14",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27303cd0974f4450b3dfb696a14",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "lower-left-18",
+      "status": "matched",
+      "spotifyId": "4B84Q4vYuoTPaxmFMYlbWD",
+      "url": "https://open.spotify.com/album/4B84Q4vYuoTPaxmFMYlbWD",
+      "title": "A Trick of the Tail (2007 Remaster)",
+      "artists": [
+        "Genesis"
+      ],
+      "date": "1976-02-02",
+      "trackCount": 8,
+      "editionNotes": "2007 remaster of the original 1976 album, eight tracks and no bonus programme.",
+      "programmeProof": [
+        "All eight original selections match the photographed ATCO SD36-129 rear, from Dance on a Volcano through Los Endos."
+      ],
+      "availability": {
+        "publicTrackCount": 8,
+        "playableTrackCount": 8,
+        "unplayableTitles": [],
+        "canadaListed": true,
+        "marketEvidenceNote": "Canada is listed in public album markets."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3615.HEIC",
+        "https://open.spotify.com/album/4B84Q4vYuoTPaxmFMYlbWD"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album4b84q4vyuotpaxmfmylbwd.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/4B84Q4vYuoTPaxmFMYlbWD",
+        "fetchedAt": "2026-10-15T03:14:41Z",
+        "pageTitle": "A Trick of the Tail (2007 Remaster) - Album by Genesis | Spotify",
+        "spotifyId": "4B84Q4vYuoTPaxmFMYlbWD",
+        "title": "A Trick of the Tail (2007 Remaster)",
+        "artists": [
+          "Genesis"
+        ],
+        "date": "1976-02-02",
+        "trackCount": 8,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "Under exclusive license to Rhino Entertainment Company, a Warner Music Group Company for the United States and Canada and to Warner Music UK Limited for the rest of the world, © 1976, 2007 Craft Recordings",
+            "type": "C"
+          },
+          {
+            "text": "Under exclusive license to Rhino Entertainment Company, a Warner Music Group Company for the United States and Canada and to Warner Music UK Limited for the rest of the world, ℗ 1976, 2007 Craft Recordings",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Dance on a Volcano - 2007 Remaster",
+            "uri": "spotify:track:0HWHskHvBQnAzJHVvOYMRG",
+            "durationMs": 358626,
+            "artists": [
+              "Genesis"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Entangled - 2007 Remaster",
+            "uri": "spotify:track:35hV8zjn00S3f2TatviobG",
+            "durationMs": 387400,
+            "artists": [
+              "Genesis"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Squonk - 2007 Remaster",
+            "uri": "spotify:track:5dX7gE8mUL5iJQVzgXCqdj",
+            "durationMs": 390440,
+            "artists": [
+              "Genesis"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Mad Man Moon - 2007 Remaster",
+            "uri": "spotify:track:55NvoQy26NTVFAbGibsCP3",
+            "durationMs": 455293,
+            "artists": [
+              "Genesis"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Robbery, Assault and Battery - 2007 Remaster",
+            "uri": "spotify:track:2JXQ8tArh3BFpriollStDe",
+            "durationMs": 378880,
+            "artists": [
+              "Genesis"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Ripples - 2007 Remaster",
+            "uri": "spotify:track:2B0riORotkwvPE1XrOgPIF",
+            "durationMs": 484893,
+            "artists": [
+              "Genesis"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "A Trick of the Tail - 2007 Remaster",
+            "uri": "spotify:track:2qHUpdBqTF1ULxiNqfr9gi",
+            "durationMs": 274600,
+            "artists": [
+              "Genesis"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Los Endos - 2007 Remaster",
+            "uri": "spotify:track:44E1amu24J4b5Sq95pZnL9",
+            "durationMs": 352240,
+            "artists": [
+              "Genesis"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": [
+            {
+              "countryCode": "AR"
+            },
+            {
+              "countryCode": "AU"
+            },
+            {
+              "countryCode": "AT"
+            },
+            {
+              "countryCode": "BE"
+            },
+            {
+              "countryCode": "BO"
+            },
+            {
+              "countryCode": "BR"
+            },
+            {
+              "countryCode": "BG"
+            },
+            {
+              "countryCode": "CA"
+            },
+            {
+              "countryCode": "CL"
+            },
+            {
+              "countryCode": "CO"
+            },
+            {
+              "countryCode": "CR"
+            },
+            {
+              "countryCode": "CY"
+            },
+            {
+              "countryCode": "CZ"
+            },
+            {
+              "countryCode": "DK"
+            },
+            {
+              "countryCode": "DO"
+            },
+            {
+              "countryCode": "DE"
+            },
+            {
+              "countryCode": "EC"
+            },
+            {
+              "countryCode": "EE"
+            },
+            {
+              "countryCode": "SV"
+            },
+            {
+              "countryCode": "FI"
+            },
+            {
+              "countryCode": "FR"
+            },
+            {
+              "countryCode": "GR"
+            },
+            {
+              "countryCode": "GT"
+            },
+            {
+              "countryCode": "HN"
+            },
+            {
+              "countryCode": "HK"
+            },
+            {
+              "countryCode": "HU"
+            },
+            {
+              "countryCode": "IS"
+            },
+            {
+              "countryCode": "IE"
+            },
+            {
+              "countryCode": "IT"
+            },
+            {
+              "countryCode": "LV"
+            },
+            {
+              "countryCode": "LT"
+            },
+            {
+              "countryCode": "LU"
+            },
+            {
+              "countryCode": "MY"
+            },
+            {
+              "countryCode": "MT"
+            },
+            {
+              "countryCode": "MX"
+            },
+            {
+              "countryCode": "NL"
+            },
+            {
+              "countryCode": "NZ"
+            },
+            {
+              "countryCode": "NI"
+            },
+            {
+              "countryCode": "NO"
+            },
+            {
+              "countryCode": "PA"
+            },
+            {
+              "countryCode": "PY"
+            },
+            {
+              "countryCode": "PE"
+            },
+            {
+              "countryCode": "PH"
+            },
+            {
+              "countryCode": "PL"
+            },
+            {
+              "countryCode": "PT"
+            },
+            {
+              "countryCode": "SG"
+            },
+            {
+              "countryCode": "SK"
+            },
+            {
+              "countryCode": "ES"
+            },
+            {
+              "countryCode": "SE"
+            },
+            {
+              "countryCode": "CH"
+            },
+            {
+              "countryCode": "TW"
+            },
+            {
+              "countryCode": "TR"
+            },
+            {
+              "countryCode": "UY"
+            },
+            {
+              "countryCode": "US"
+            },
+            {
+              "countryCode": "GB"
+            },
+            {
+              "countryCode": "AD"
+            },
+            {
+              "countryCode": "LI"
+            },
+            {
+              "countryCode": "MC"
+            },
+            {
+              "countryCode": "ID"
+            },
+            {
+              "countryCode": "JP"
+            },
+            {
+              "countryCode": "TH"
+            },
+            {
+              "countryCode": "VN"
+            },
+            {
+              "countryCode": "RO"
+            },
+            {
+              "countryCode": "IL"
+            },
+            {
+              "countryCode": "ZA"
+            },
+            {
+              "countryCode": "SA"
+            },
+            {
+              "countryCode": "AE"
+            },
+            {
+              "countryCode": "BH"
+            },
+            {
+              "countryCode": "QA"
+            },
+            {
+              "countryCode": "OM"
+            },
+            {
+              "countryCode": "KW"
+            },
+            {
+              "countryCode": "EG"
+            },
+            {
+              "countryCode": "MA"
+            },
+            {
+              "countryCode": "DZ"
+            },
+            {
+              "countryCode": "TN"
+            },
+            {
+              "countryCode": "LB"
+            },
+            {
+              "countryCode": "JO"
+            },
+            {
+              "countryCode": "PS"
+            },
+            {
+              "countryCode": "IN"
+            },
+            {
+              "countryCode": "KZ"
+            },
+            {
+              "countryCode": "MD"
+            },
+            {
+              "countryCode": "UA"
+            },
+            {
+              "countryCode": "AL"
+            },
+            {
+              "countryCode": "BA"
+            },
+            {
+              "countryCode": "HR"
+            },
+            {
+              "countryCode": "ME"
+            },
+            {
+              "countryCode": "MK"
+            },
+            {
+              "countryCode": "RS"
+            },
+            {
+              "countryCode": "SI"
+            },
+            {
+              "countryCode": "KR"
+            },
+            {
+              "countryCode": "BD"
+            },
+            {
+              "countryCode": "PK"
+            },
+            {
+              "countryCode": "LK"
+            },
+            {
+              "countryCode": "GH"
+            },
+            {
+              "countryCode": "KE"
+            },
+            {
+              "countryCode": "NG"
+            },
+            {
+              "countryCode": "TZ"
+            },
+            {
+              "countryCode": "UG"
+            },
+            {
+              "countryCode": "AG"
+            },
+            {
+              "countryCode": "AM"
+            },
+            {
+              "countryCode": "BS"
+            },
+            {
+              "countryCode": "BB"
+            },
+            {
+              "countryCode": "BZ"
+            },
+            {
+              "countryCode": "BT"
+            },
+            {
+              "countryCode": "BW"
+            },
+            {
+              "countryCode": "BF"
+            },
+            {
+              "countryCode": "CV"
+            },
+            {
+              "countryCode": "CW"
+            },
+            {
+              "countryCode": "DM"
+            },
+            {
+              "countryCode": "FJ"
+            },
+            {
+              "countryCode": "GM"
+            },
+            {
+              "countryCode": "GE"
+            },
+            {
+              "countryCode": "GD"
+            },
+            {
+              "countryCode": "GW"
+            },
+            {
+              "countryCode": "GY"
+            },
+            {
+              "countryCode": "HT"
+            },
+            {
+              "countryCode": "JM"
+            },
+            {
+              "countryCode": "KI"
+            },
+            {
+              "countryCode": "LS"
+            },
+            {
+              "countryCode": "LR"
+            },
+            {
+              "countryCode": "MW"
+            },
+            {
+              "countryCode": "MV"
+            },
+            {
+              "countryCode": "ML"
+            },
+            {
+              "countryCode": "MH"
+            },
+            {
+              "countryCode": "FM"
+            },
+            {
+              "countryCode": "NA"
+            },
+            {
+              "countryCode": "NR"
+            },
+            {
+              "countryCode": "NE"
+            },
+            {
+              "countryCode": "PW"
+            },
+            {
+              "countryCode": "PG"
+            },
+            {
+              "countryCode": "PR"
+            },
+            {
+              "countryCode": "WS"
+            },
+            {
+              "countryCode": "SM"
+            },
+            {
+              "countryCode": "ST"
+            },
+            {
+              "countryCode": "SN"
+            },
+            {
+              "countryCode": "SC"
+            },
+            {
+              "countryCode": "SL"
+            },
+            {
+              "countryCode": "SB"
+            },
+            {
+              "countryCode": "KN"
+            },
+            {
+              "countryCode": "LC"
+            },
+            {
+              "countryCode": "VC"
+            },
+            {
+              "countryCode": "SR"
+            },
+            {
+              "countryCode": "TL"
+            },
+            {
+              "countryCode": "TO"
+            },
+            {
+              "countryCode": "TT"
+            },
+            {
+              "countryCode": "TV"
+            },
+            {
+              "countryCode": "VU"
+            },
+            {
+              "countryCode": "AZ"
+            },
+            {
+              "countryCode": "BN"
+            },
+            {
+              "countryCode": "BI"
+            },
+            {
+              "countryCode": "KH"
+            },
+            {
+              "countryCode": "CM"
+            },
+            {
+              "countryCode": "TD"
+            },
+            {
+              "countryCode": "KM"
+            },
+            {
+              "countryCode": "GQ"
+            },
+            {
+              "countryCode": "SZ"
+            },
+            {
+              "countryCode": "GA"
+            },
+            {
+              "countryCode": "GN"
+            },
+            {
+              "countryCode": "KG"
+            },
+            {
+              "countryCode": "LA"
+            },
+            {
+              "countryCode": "MO"
+            },
+            {
+              "countryCode": "MR"
+            },
+            {
+              "countryCode": "MN"
+            },
+            {
+              "countryCode": "NP"
+            },
+            {
+              "countryCode": "RW"
+            },
+            {
+              "countryCode": "TG"
+            },
+            {
+              "countryCode": "UZ"
+            },
+            {
+              "countryCode": "ZW"
+            },
+            {
+              "countryCode": "BJ"
+            },
+            {
+              "countryCode": "MG"
+            },
+            {
+              "countryCode": "MU"
+            },
+            {
+              "countryCode": "MZ"
+            },
+            {
+              "countryCode": "AO"
+            },
+            {
+              "countryCode": "CI"
+            },
+            {
+              "countryCode": "DJ"
+            },
+            {
+              "countryCode": "ZM"
+            },
+            {
+              "countryCode": "CD"
+            },
+            {
+              "countryCode": "CG"
+            },
+            {
+              "countryCode": "IQ"
+            },
+            {
+              "countryCode": "LY"
+            },
+            {
+              "countryCode": "TJ"
+            },
+            {
+              "countryCode": "VE"
+            },
+            {
+              "countryCode": "ET"
+            },
+            {
+              "countryCode": "XK"
+            }
+          ]
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485158dccdc06dafe0d0dc170283",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0258dccdc06dafe0d0dc170283",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27358dccdc06dafe0d0dc170283",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "lower-left-45",
+      "status": "matched",
+      "spotifyId": "6Jnw1MZ5lrICgurtzc3WqB",
+      "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB",
+      "title": "What Were Once Vices Are Now Habits",
+      "artists": [
+        "The Doobie Brothers"
+      ],
+      "date": "1974-01-01",
+      "trackCount": 12,
+      "editionNotes": "Original 1974 album programme; digital mastering is not asserted to match the family LP.",
+      "programmeProof": [
+        "All twelve original What Were Once Vices Are Now Habits titles match the photographed rear in order."
+      ],
+      "availability": {
+        "publicTrackCount": 12,
+        "playableTrackCount": 12,
+        "unplayableTitles": [],
+        "canadaListed": true,
+        "marketEvidenceNote": "Canada is listed in public album markets."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3617.HEIC",
+        "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album6jnw1mz5lricgurtzc3wqb.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB",
+        "fetchedAt": "2026-10-15T03:14:41Z",
+        "pageTitle": "What Were Once Vices Are Now Habits - Album by The Doobie Brothers | Spotify",
+        "spotifyId": "6Jnw1MZ5lrICgurtzc3WqB",
+        "title": "What Were Once Vices Are Now Habits",
+        "artists": [
+          "The Doobie Brothers"
+        ],
+        "date": "1974-01-01",
+        "trackCount": 12,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "© 1974 Warner Records Inc.",
+            "type": "C"
+          },
+          {
+            "text": "℗ 1974 Warner Records Inc.",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Song to See You Through",
+            "uri": "spotify:track:4RN78yENTzjbDg6nWcG541",
+            "durationMs": 247533,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Spirit",
+            "uri": "spotify:track:0O8kSSeBh3uhyfcGSDkTBk",
+            "durationMs": 196240,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Pursuit on 53rd St.",
+            "uri": "spotify:track:76mvwMUJfkgvnalJKtI6qc",
+            "durationMs": 154360,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Black Water",
+            "uri": "spotify:track:4p8QcNkaq2FQj8uGJ7HEDK",
+            "durationMs": 255266,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Eyes of Silver",
+            "uri": "spotify:track:1XOuMDdsVbGb2vHsSaUaE5",
+            "durationMs": 179173,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Road Angel",
+            "uri": "spotify:track:2uOj8Hsq5eSYVgApA643b6",
+            "durationMs": 288133,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "You Just Can't Stop It",
+            "uri": "spotify:track:5666pcaiVbXoC3qsNvMZMG",
+            "durationMs": 210000,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Tell Me What You Want (And I'll Give You What You Need)",
+            "uri": "spotify:track:4lEENIpjGtfopWp7UkBgcE",
+            "durationMs": 235466,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Down in the Track",
+            "uri": "spotify:track:4FXgjs1Z34XKrRJpP7Xq1w",
+            "durationMs": 256466,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Another Park, Another Sunday",
+            "uri": "spotify:track:6K1Wr66UPDkfsS4lrNdY9e",
+            "durationMs": 267800,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Daughters of the Sea",
+            "uri": "spotify:track:4flerVpctkIiQH6g29YxSl",
+            "durationMs": 274800,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Flying Cloud",
+            "uri": "spotify:track:3uUVAJzN25gMlcNH4kpL8L",
+            "durationMs": 119893,
+            "artists": [
+              "The Doobie Brothers"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": [
+            {
+              "countryCode": "AR"
+            },
+            {
+              "countryCode": "AU"
+            },
+            {
+              "countryCode": "AT"
+            },
+            {
+              "countryCode": "BE"
+            },
+            {
+              "countryCode": "BO"
+            },
+            {
+              "countryCode": "BR"
+            },
+            {
+              "countryCode": "BG"
+            },
+            {
+              "countryCode": "CA"
+            },
+            {
+              "countryCode": "CL"
+            },
+            {
+              "countryCode": "CO"
+            },
+            {
+              "countryCode": "CR"
+            },
+            {
+              "countryCode": "CY"
+            },
+            {
+              "countryCode": "CZ"
+            },
+            {
+              "countryCode": "DK"
+            },
+            {
+              "countryCode": "DO"
+            },
+            {
+              "countryCode": "DE"
+            },
+            {
+              "countryCode": "EC"
+            },
+            {
+              "countryCode": "EE"
+            },
+            {
+              "countryCode": "SV"
+            },
+            {
+              "countryCode": "FI"
+            },
+            {
+              "countryCode": "FR"
+            },
+            {
+              "countryCode": "GR"
+            },
+            {
+              "countryCode": "GT"
+            },
+            {
+              "countryCode": "HN"
+            },
+            {
+              "countryCode": "HK"
+            },
+            {
+              "countryCode": "HU"
+            },
+            {
+              "countryCode": "IS"
+            },
+            {
+              "countryCode": "IE"
+            },
+            {
+              "countryCode": "IT"
+            },
+            {
+              "countryCode": "LV"
+            },
+            {
+              "countryCode": "LT"
+            },
+            {
+              "countryCode": "LU"
+            },
+            {
+              "countryCode": "MY"
+            },
+            {
+              "countryCode": "MT"
+            },
+            {
+              "countryCode": "MX"
+            },
+            {
+              "countryCode": "NL"
+            },
+            {
+              "countryCode": "NZ"
+            },
+            {
+              "countryCode": "NI"
+            },
+            {
+              "countryCode": "NO"
+            },
+            {
+              "countryCode": "PA"
+            },
+            {
+              "countryCode": "PY"
+            },
+            {
+              "countryCode": "PE"
+            },
+            {
+              "countryCode": "PH"
+            },
+            {
+              "countryCode": "PL"
+            },
+            {
+              "countryCode": "PT"
+            },
+            {
+              "countryCode": "SG"
+            },
+            {
+              "countryCode": "SK"
+            },
+            {
+              "countryCode": "ES"
+            },
+            {
+              "countryCode": "SE"
+            },
+            {
+              "countryCode": "CH"
+            },
+            {
+              "countryCode": "TW"
+            },
+            {
+              "countryCode": "TR"
+            },
+            {
+              "countryCode": "UY"
+            },
+            {
+              "countryCode": "US"
+            },
+            {
+              "countryCode": "GB"
+            },
+            {
+              "countryCode": "AD"
+            },
+            {
+              "countryCode": "LI"
+            },
+            {
+              "countryCode": "MC"
+            },
+            {
+              "countryCode": "ID"
+            },
+            {
+              "countryCode": "JP"
+            },
+            {
+              "countryCode": "TH"
+            },
+            {
+              "countryCode": "VN"
+            },
+            {
+              "countryCode": "RO"
+            },
+            {
+              "countryCode": "IL"
+            },
+            {
+              "countryCode": "ZA"
+            },
+            {
+              "countryCode": "SA"
+            },
+            {
+              "countryCode": "AE"
+            },
+            {
+              "countryCode": "BH"
+            },
+            {
+              "countryCode": "QA"
+            },
+            {
+              "countryCode": "OM"
+            },
+            {
+              "countryCode": "KW"
+            },
+            {
+              "countryCode": "EG"
+            },
+            {
+              "countryCode": "MA"
+            },
+            {
+              "countryCode": "DZ"
+            },
+            {
+              "countryCode": "TN"
+            },
+            {
+              "countryCode": "LB"
+            },
+            {
+              "countryCode": "JO"
+            },
+            {
+              "countryCode": "PS"
+            },
+            {
+              "countryCode": "IN"
+            },
+            {
+              "countryCode": "BY"
+            },
+            {
+              "countryCode": "KZ"
+            },
+            {
+              "countryCode": "MD"
+            },
+            {
+              "countryCode": "UA"
+            },
+            {
+              "countryCode": "AL"
+            },
+            {
+              "countryCode": "BA"
+            },
+            {
+              "countryCode": "HR"
+            },
+            {
+              "countryCode": "ME"
+            },
+            {
+              "countryCode": "MK"
+            },
+            {
+              "countryCode": "RS"
+            },
+            {
+              "countryCode": "SI"
+            },
+            {
+              "countryCode": "KR"
+            },
+            {
+              "countryCode": "BD"
+            },
+            {
+              "countryCode": "PK"
+            },
+            {
+              "countryCode": "LK"
+            },
+            {
+              "countryCode": "GH"
+            },
+            {
+              "countryCode": "KE"
+            },
+            {
+              "countryCode": "NG"
+            },
+            {
+              "countryCode": "TZ"
+            },
+            {
+              "countryCode": "UG"
+            },
+            {
+              "countryCode": "AG"
+            },
+            {
+              "countryCode": "AM"
+            },
+            {
+              "countryCode": "BS"
+            },
+            {
+              "countryCode": "BB"
+            },
+            {
+              "countryCode": "BZ"
+            },
+            {
+              "countryCode": "BT"
+            },
+            {
+              "countryCode": "BW"
+            },
+            {
+              "countryCode": "BF"
+            },
+            {
+              "countryCode": "CV"
+            },
+            {
+              "countryCode": "CW"
+            },
+            {
+              "countryCode": "DM"
+            },
+            {
+              "countryCode": "FJ"
+            },
+            {
+              "countryCode": "GM"
+            },
+            {
+              "countryCode": "GE"
+            },
+            {
+              "countryCode": "GD"
+            },
+            {
+              "countryCode": "GW"
+            },
+            {
+              "countryCode": "GY"
+            },
+            {
+              "countryCode": "HT"
+            },
+            {
+              "countryCode": "JM"
+            },
+            {
+              "countryCode": "KI"
+            },
+            {
+              "countryCode": "LS"
+            },
+            {
+              "countryCode": "LR"
+            },
+            {
+              "countryCode": "MW"
+            },
+            {
+              "countryCode": "MV"
+            },
+            {
+              "countryCode": "ML"
+            },
+            {
+              "countryCode": "MH"
+            },
+            {
+              "countryCode": "FM"
+            },
+            {
+              "countryCode": "NA"
+            },
+            {
+              "countryCode": "NR"
+            },
+            {
+              "countryCode": "NE"
+            },
+            {
+              "countryCode": "PW"
+            },
+            {
+              "countryCode": "PG"
+            },
+            {
+              "countryCode": "WS"
+            },
+            {
+              "countryCode": "SM"
+            },
+            {
+              "countryCode": "ST"
+            },
+            {
+              "countryCode": "SN"
+            },
+            {
+              "countryCode": "SC"
+            },
+            {
+              "countryCode": "SL"
+            },
+            {
+              "countryCode": "SB"
+            },
+            {
+              "countryCode": "KN"
+            },
+            {
+              "countryCode": "LC"
+            },
+            {
+              "countryCode": "VC"
+            },
+            {
+              "countryCode": "SR"
+            },
+            {
+              "countryCode": "TL"
+            },
+            {
+              "countryCode": "TO"
+            },
+            {
+              "countryCode": "TT"
+            },
+            {
+              "countryCode": "TV"
+            },
+            {
+              "countryCode": "VU"
+            },
+            {
+              "countryCode": "AZ"
+            },
+            {
+              "countryCode": "BN"
+            },
+            {
+              "countryCode": "BI"
+            },
+            {
+              "countryCode": "KH"
+            },
+            {
+              "countryCode": "CM"
+            },
+            {
+              "countryCode": "TD"
+            },
+            {
+              "countryCode": "KM"
+            },
+            {
+              "countryCode": "GQ"
+            },
+            {
+              "countryCode": "SZ"
+            },
+            {
+              "countryCode": "GA"
+            },
+            {
+              "countryCode": "GN"
+            },
+            {
+              "countryCode": "KG"
+            },
+            {
+              "countryCode": "LA"
+            },
+            {
+              "countryCode": "MO"
+            },
+            {
+              "countryCode": "MR"
+            },
+            {
+              "countryCode": "MN"
+            },
+            {
+              "countryCode": "NP"
+            },
+            {
+              "countryCode": "RW"
+            },
+            {
+              "countryCode": "TG"
+            },
+            {
+              "countryCode": "UZ"
+            },
+            {
+              "countryCode": "ZW"
+            },
+            {
+              "countryCode": "BJ"
+            },
+            {
+              "countryCode": "MG"
+            },
+            {
+              "countryCode": "MU"
+            },
+            {
+              "countryCode": "MZ"
+            },
+            {
+              "countryCode": "AO"
+            },
+            {
+              "countryCode": "CI"
+            },
+            {
+              "countryCode": "DJ"
+            },
+            {
+              "countryCode": "ZM"
+            },
+            {
+              "countryCode": "CD"
+            },
+            {
+              "countryCode": "CG"
+            },
+            {
+              "countryCode": "IQ"
+            },
+            {
+              "countryCode": "LY"
+            },
+            {
+              "countryCode": "TJ"
+            },
+            {
+              "countryCode": "VE"
+            },
+            {
+              "countryCode": "ET"
+            },
+            {
+              "countryCode": "XK"
+            }
+          ]
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d524e7d73e88574f2b7d7699",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d524e7d73e88574f2b7d7699",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d524e7d73e88574f2b7d7699",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "lower-left-48",
+      "status": "matched",
+      "spotifyId": "1GocfLxf23Q5mHRe6mxRK1",
+      "url": "https://open.spotify.com/album/1GocfLxf23Q5mHRe6mxRK1",
+      "title": "David Bromberg",
+      "artists": [
+        "David Bromberg"
+      ],
+      "date": "1971-01-01",
+      "trackCount": 9,
+      "editionNotes": "Original 1971 debut; digital metadata identifies The Holdup as the Harrison version, consistent with the debut recording. No different album by the same artist is substituted.",
+      "programmeProof": [
+        "Nine-track debut programme matches Columbia C31104, including Last Song for Shelby Jean, The Holdup and Sammy’s Song."
+      ],
+      "availability": {
+        "publicTrackCount": 9,
+        "playableTrackCount": 9,
+        "unplayableTitles": [],
+        "canadaListed": true,
+        "marketEvidenceNote": "Canada is listed in public album markets."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3621.HEIC",
+        "https://open.spotify.com/album/1GocfLxf23Q5mHRe6mxRK1"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album1gocflxf23q5mhre6mxrk1.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/1GocfLxf23Q5mHRe6mxRK1",
+        "fetchedAt": "2026-10-15T03:17:11Z",
+        "pageTitle": "David Bromberg - Album by David Bromberg | Spotify",
+        "spotifyId": "1GocfLxf23Q5mHRe6mxRK1",
+        "title": "David Bromberg",
+        "artists": [
+          "David Bromberg"
+        ],
+        "date": "1971-01-01",
+        "trackCount": 9,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "(P) 1972 Sony Music Entertainment",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Last Song For Shelby Jean",
+            "uri": "spotify:track:0QM7ZOfaREAzxFikwzUBmT",
+            "durationMs": 255280,
+            "artists": [
+              "David Bromberg"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Suffer To Sing The Blues",
+            "uri": "spotify:track:1qurqxABFoSKHjUwqpMWHj",
+            "durationMs": 294173,
+            "artists": [
+              "David Bromberg"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "The Boggy Road To MilledgeVille (Arkansas Traveler)",
+            "uri": "spotify:track:37d4ZYPcyBLsvDYX5108J2",
+            "durationMs": 131613,
+            "artists": [
+              "David Bromberg"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Dehlia",
+            "uri": "spotify:track:2QJ9xFIj6IhHKqvm2KfZla",
+            "durationMs": 469546,
+            "artists": [
+              "David Bromberg"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Pine Tree Woman",
+            "uri": "spotify:track:7IBbPqNWXPGilePAgRm0FB",
+            "durationMs": 314706,
+            "artists": [
+              "David Bromberg"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Lonesome Dave's Lovesick Blues # 3",
+            "uri": "spotify:track:17fJVUJbRqsX31bqBjSlni",
+            "durationMs": 159400,
+            "artists": [
+              "David Bromberg"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Mississippi Blues",
+            "uri": "spotify:track:6mQgZYvzCSw6OWkelH2qEX",
+            "durationMs": 274693,
+            "artists": [
+              "David Bromberg"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "The Holdup - \"Harrison\" version",
+            "uri": "spotify:track:3nxJX9Ad5WjJfLl5MRjlbD",
+            "durationMs": 178973,
+            "artists": [
+              "David Bromberg"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Sammy's Song",
+            "uri": "spotify:track:3vNUrqwzngCX6HeNNB4Rxr",
+            "durationMs": 286880,
+            "artists": [
+              "David Bromberg"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": [
+            {
+              "countryCode": "AR"
+            },
+            {
+              "countryCode": "AU"
+            },
+            {
+              "countryCode": "AT"
+            },
+            {
+              "countryCode": "BE"
+            },
+            {
+              "countryCode": "BO"
+            },
+            {
+              "countryCode": "BR"
+            },
+            {
+              "countryCode": "BG"
+            },
+            {
+              "countryCode": "CA"
+            },
+            {
+              "countryCode": "CL"
+            },
+            {
+              "countryCode": "CO"
+            },
+            {
+              "countryCode": "CR"
+            },
+            {
+              "countryCode": "CY"
+            },
+            {
+              "countryCode": "CZ"
+            },
+            {
+              "countryCode": "DK"
+            },
+            {
+              "countryCode": "DO"
+            },
+            {
+              "countryCode": "DE"
+            },
+            {
+              "countryCode": "EC"
+            },
+            {
+              "countryCode": "EE"
+            },
+            {
+              "countryCode": "SV"
+            },
+            {
+              "countryCode": "FI"
+            },
+            {
+              "countryCode": "FR"
+            },
+            {
+              "countryCode": "GR"
+            },
+            {
+              "countryCode": "GT"
+            },
+            {
+              "countryCode": "HN"
+            },
+            {
+              "countryCode": "HK"
+            },
+            {
+              "countryCode": "HU"
+            },
+            {
+              "countryCode": "IS"
+            },
+            {
+              "countryCode": "IE"
+            },
+            {
+              "countryCode": "IT"
+            },
+            {
+              "countryCode": "LV"
+            },
+            {
+              "countryCode": "LT"
+            },
+            {
+              "countryCode": "LU"
+            },
+            {
+              "countryCode": "MY"
+            },
+            {
+              "countryCode": "MT"
+            },
+            {
+              "countryCode": "MX"
+            },
+            {
+              "countryCode": "NL"
+            },
+            {
+              "countryCode": "NZ"
+            },
+            {
+              "countryCode": "NI"
+            },
+            {
+              "countryCode": "NO"
+            },
+            {
+              "countryCode": "PA"
+            },
+            {
+              "countryCode": "PY"
+            },
+            {
+              "countryCode": "PE"
+            },
+            {
+              "countryCode": "PH"
+            },
+            {
+              "countryCode": "PL"
+            },
+            {
+              "countryCode": "PT"
+            },
+            {
+              "countryCode": "SG"
+            },
+            {
+              "countryCode": "SK"
+            },
+            {
+              "countryCode": "ES"
+            },
+            {
+              "countryCode": "SE"
+            },
+            {
+              "countryCode": "CH"
+            },
+            {
+              "countryCode": "TW"
+            },
+            {
+              "countryCode": "TR"
+            },
+            {
+              "countryCode": "UY"
+            },
+            {
+              "countryCode": "US"
+            },
+            {
+              "countryCode": "GB"
+            },
+            {
+              "countryCode": "AD"
+            },
+            {
+              "countryCode": "LI"
+            },
+            {
+              "countryCode": "MC"
+            },
+            {
+              "countryCode": "ID"
+            },
+            {
+              "countryCode": "JP"
+            },
+            {
+              "countryCode": "TH"
+            },
+            {
+              "countryCode": "VN"
+            },
+            {
+              "countryCode": "RO"
+            },
+            {
+              "countryCode": "IL"
+            },
+            {
+              "countryCode": "ZA"
+            },
+            {
+              "countryCode": "SA"
+            },
+            {
+              "countryCode": "AE"
+            },
+            {
+              "countryCode": "BH"
+            },
+            {
+              "countryCode": "QA"
+            },
+            {
+              "countryCode": "OM"
+            },
+            {
+              "countryCode": "KW"
+            },
+            {
+              "countryCode": "EG"
+            },
+            {
+              "countryCode": "MA"
+            },
+            {
+              "countryCode": "DZ"
+            },
+            {
+              "countryCode": "TN"
+            },
+            {
+              "countryCode": "LB"
+            },
+            {
+              "countryCode": "JO"
+            },
+            {
+              "countryCode": "PS"
+            },
+            {
+              "countryCode": "IN"
+            },
+            {
+              "countryCode": "BY"
+            },
+            {
+              "countryCode": "KZ"
+            },
+            {
+              "countryCode": "MD"
+            },
+            {
+              "countryCode": "UA"
+            },
+            {
+              "countryCode": "AL"
+            },
+            {
+              "countryCode": "BA"
+            },
+            {
+              "countryCode": "HR"
+            },
+            {
+              "countryCode": "ME"
+            },
+            {
+              "countryCode": "MK"
+            },
+            {
+              "countryCode": "RS"
+            },
+            {
+              "countryCode": "SI"
+            },
+            {
+              "countryCode": "KR"
+            },
+            {
+              "countryCode": "BD"
+            },
+            {
+              "countryCode": "PK"
+            },
+            {
+              "countryCode": "LK"
+            },
+            {
+              "countryCode": "GH"
+            },
+            {
+              "countryCode": "KE"
+            },
+            {
+              "countryCode": "NG"
+            },
+            {
+              "countryCode": "TZ"
+            },
+            {
+              "countryCode": "UG"
+            },
+            {
+              "countryCode": "AG"
+            },
+            {
+              "countryCode": "AM"
+            },
+            {
+              "countryCode": "BS"
+            },
+            {
+              "countryCode": "BB"
+            },
+            {
+              "countryCode": "BZ"
+            },
+            {
+              "countryCode": "BT"
+            },
+            {
+              "countryCode": "BW"
+            },
+            {
+              "countryCode": "BF"
+            },
+            {
+              "countryCode": "CV"
+            },
+            {
+              "countryCode": "CW"
+            },
+            {
+              "countryCode": "DM"
+            },
+            {
+              "countryCode": "FJ"
+            },
+            {
+              "countryCode": "GM"
+            },
+            {
+              "countryCode": "GE"
+            },
+            {
+              "countryCode": "GD"
+            },
+            {
+              "countryCode": "GW"
+            },
+            {
+              "countryCode": "GY"
+            },
+            {
+              "countryCode": "HT"
+            },
+            {
+              "countryCode": "JM"
+            },
+            {
+              "countryCode": "KI"
+            },
+            {
+              "countryCode": "LS"
+            },
+            {
+              "countryCode": "LR"
+            },
+            {
+              "countryCode": "MW"
+            },
+            {
+              "countryCode": "MV"
+            },
+            {
+              "countryCode": "ML"
+            },
+            {
+              "countryCode": "MH"
+            },
+            {
+              "countryCode": "FM"
+            },
+            {
+              "countryCode": "NA"
+            },
+            {
+              "countryCode": "NR"
+            },
+            {
+              "countryCode": "NE"
+            },
+            {
+              "countryCode": "PW"
+            },
+            {
+              "countryCode": "PG"
+            },
+            {
+              "countryCode": "PR"
+            },
+            {
+              "countryCode": "WS"
+            },
+            {
+              "countryCode": "SM"
+            },
+            {
+              "countryCode": "ST"
+            },
+            {
+              "countryCode": "SN"
+            },
+            {
+              "countryCode": "SC"
+            },
+            {
+              "countryCode": "SL"
+            },
+            {
+              "countryCode": "SB"
+            },
+            {
+              "countryCode": "KN"
+            },
+            {
+              "countryCode": "LC"
+            },
+            {
+              "countryCode": "VC"
+            },
+            {
+              "countryCode": "SR"
+            },
+            {
+              "countryCode": "TL"
+            },
+            {
+              "countryCode": "TO"
+            },
+            {
+              "countryCode": "TT"
+            },
+            {
+              "countryCode": "TV"
+            },
+            {
+              "countryCode": "VU"
+            },
+            {
+              "countryCode": "AZ"
+            },
+            {
+              "countryCode": "BN"
+            },
+            {
+              "countryCode": "BI"
+            },
+            {
+              "countryCode": "KH"
+            },
+            {
+              "countryCode": "CM"
+            },
+            {
+              "countryCode": "TD"
+            },
+            {
+              "countryCode": "KM"
+            },
+            {
+              "countryCode": "GQ"
+            },
+            {
+              "countryCode": "SZ"
+            },
+            {
+              "countryCode": "GA"
+            },
+            {
+              "countryCode": "GN"
+            },
+            {
+              "countryCode": "KG"
+            },
+            {
+              "countryCode": "LA"
+            },
+            {
+              "countryCode": "MO"
+            },
+            {
+              "countryCode": "MR"
+            },
+            {
+              "countryCode": "MN"
+            },
+            {
+              "countryCode": "NP"
+            },
+            {
+              "countryCode": "RW"
+            },
+            {
+              "countryCode": "TG"
+            },
+            {
+              "countryCode": "UZ"
+            },
+            {
+              "countryCode": "ZW"
+            },
+            {
+              "countryCode": "BJ"
+            },
+            {
+              "countryCode": "MG"
+            },
+            {
+              "countryCode": "MU"
+            },
+            {
+              "countryCode": "MZ"
+            },
+            {
+              "countryCode": "AO"
+            },
+            {
+              "countryCode": "CI"
+            },
+            {
+              "countryCode": "DJ"
+            },
+            {
+              "countryCode": "ZM"
+            },
+            {
+              "countryCode": "CD"
+            },
+            {
+              "countryCode": "CG"
+            },
+            {
+              "countryCode": "IQ"
+            },
+            {
+              "countryCode": "LY"
+            },
+            {
+              "countryCode": "TJ"
+            },
+            {
+              "countryCode": "VE"
+            },
+            {
+              "countryCode": "ET"
+            },
+            {
+              "countryCode": "XK"
+            }
+          ]
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cbbabb135077fc04f1c9896d",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cbbabb135077fc04f1c9896d",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cbbabb135077fc04f1c9896d",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "lower-left-50",
+      "status": "matched",
+      "spotifyId": "4AoZm62WXF3I0Rg1l6GCK6",
+      "url": "https://open.spotify.com/album/4AoZm62WXF3I0Rg1l6GCK6",
+      "title": "Okie",
+      "artists": [
+        "J.J. Cale"
+      ],
+      "date": "1974-04-30",
+      "trackCount": 12,
+      "editionNotes": "Original 1974 album programme; digital mastering is not asserted to match the family LP.",
+      "programmeProof": [
+        "All twelve Okie selections match the photographed Shelter SR2107 programme in order."
+      ],
+      "availability": {
+        "publicTrackCount": 12,
+        "playableTrackCount": 12,
+        "unplayableTitles": [],
+        "canadaListed": true,
+        "marketEvidenceNote": "Canada is listed in public album markets."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3625.HEIC",
+        "https://open.spotify.com/album/4AoZm62WXF3I0Rg1l6GCK6"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album4aozm62wxf3i0rg1l6gck6.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/4AoZm62WXF3I0Rg1l6GCK6",
+        "fetchedAt": "2026-10-15T03:14:41Z",
+        "pageTitle": "Okie - Album by J.J. Cale | Spotify",
+        "spotifyId": "4AoZm62WXF3I0Rg1l6GCK6",
+        "title": "Okie",
+        "artists": [
+          "J.J. Cale"
+        ],
+        "date": "1974-04-30",
+        "trackCount": 12,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "© 1974 Universal International Music B.V.",
+            "type": "C"
+          },
+          {
+            "text": "℗ 1974 Universal International Music B.V.",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Crying",
+            "uri": "spotify:track:0DXMLkTJm8S13yLYrm9gg7",
+            "durationMs": 155826,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "I'll Be There (If You Ever Want Me)",
+            "uri": "spotify:track:05AtiHFaFCR57d16s96PeS",
+            "durationMs": 141666,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Starbound",
+            "uri": "spotify:track:0hlX3I3u0sYNTTsvVgEKKQ",
+            "durationMs": 118666,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Rock And Roll Records",
+            "uri": "spotify:track:1lVBd93gbyrICq6cehD43P",
+            "durationMs": 126666,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "The Old Man And Me",
+            "uri": "spotify:track:2mAZzbAXk9ao0216cAAH7n",
+            "durationMs": 124160,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Everlovin' Woman",
+            "uri": "spotify:track:3pZE9MpyfoTRtnW1F5OV1W",
+            "durationMs": 130160,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Cajun Moon",
+            "uri": "spotify:track:43niiTshfUdTN32wHykv7h",
+            "durationMs": 131826,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "I'd Like To Love You Baby",
+            "uri": "spotify:track:2JyYrrywWBGHf2dJ6MCzcR",
+            "durationMs": 170333,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Anyway The Wind Blows",
+            "uri": "spotify:track:3dygHSr6gI25idXCPJVKsT",
+            "durationMs": 202666,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Precious Memories",
+            "uri": "spotify:track:3vzA1Pm9V4ItunYaufwhyM",
+            "durationMs": 129826,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Okie",
+            "uri": "spotify:track:1kCtNu600SgA1H05x0haY9",
+            "durationMs": 117160,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "I Got The Same Old Blues",
+            "uri": "spotify:track:2BTMbIArFNAgxmT1t3RmKm",
+            "durationMs": 179666,
+            "artists": [
+              "J.J. Cale"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": [
+            {
+              "countryCode": "AR"
+            },
+            {
+              "countryCode": "AU"
+            },
+            {
+              "countryCode": "AT"
+            },
+            {
+              "countryCode": "BE"
+            },
+            {
+              "countryCode": "BO"
+            },
+            {
+              "countryCode": "BR"
+            },
+            {
+              "countryCode": "BG"
+            },
+            {
+              "countryCode": "CA"
+            },
+            {
+              "countryCode": "CL"
+            },
+            {
+              "countryCode": "CO"
+            },
+            {
+              "countryCode": "CR"
+            },
+            {
+              "countryCode": "CY"
+            },
+            {
+              "countryCode": "CZ"
+            },
+            {
+              "countryCode": "DK"
+            },
+            {
+              "countryCode": "DO"
+            },
+            {
+              "countryCode": "DE"
+            },
+            {
+              "countryCode": "EC"
+            },
+            {
+              "countryCode": "EE"
+            },
+            {
+              "countryCode": "SV"
+            },
+            {
+              "countryCode": "FI"
+            },
+            {
+              "countryCode": "FR"
+            },
+            {
+              "countryCode": "GR"
+            },
+            {
+              "countryCode": "GT"
+            },
+            {
+              "countryCode": "HN"
+            },
+            {
+              "countryCode": "HK"
+            },
+            {
+              "countryCode": "HU"
+            },
+            {
+              "countryCode": "IS"
+            },
+            {
+              "countryCode": "IE"
+            },
+            {
+              "countryCode": "IT"
+            },
+            {
+              "countryCode": "LV"
+            },
+            {
+              "countryCode": "LT"
+            },
+            {
+              "countryCode": "LU"
+            },
+            {
+              "countryCode": "MY"
+            },
+            {
+              "countryCode": "MT"
+            },
+            {
+              "countryCode": "MX"
+            },
+            {
+              "countryCode": "NL"
+            },
+            {
+              "countryCode": "NZ"
+            },
+            {
+              "countryCode": "NI"
+            },
+            {
+              "countryCode": "NO"
+            },
+            {
+              "countryCode": "PA"
+            },
+            {
+              "countryCode": "PY"
+            },
+            {
+              "countryCode": "PE"
+            },
+            {
+              "countryCode": "PH"
+            },
+            {
+              "countryCode": "PL"
+            },
+            {
+              "countryCode": "PT"
+            },
+            {
+              "countryCode": "SG"
+            },
+            {
+              "countryCode": "SK"
+            },
+            {
+              "countryCode": "ES"
+            },
+            {
+              "countryCode": "SE"
+            },
+            {
+              "countryCode": "CH"
+            },
+            {
+              "countryCode": "TW"
+            },
+            {
+              "countryCode": "TR"
+            },
+            {
+              "countryCode": "UY"
+            },
+            {
+              "countryCode": "US"
+            },
+            {
+              "countryCode": "GB"
+            },
+            {
+              "countryCode": "AD"
+            },
+            {
+              "countryCode": "LI"
+            },
+            {
+              "countryCode": "MC"
+            },
+            {
+              "countryCode": "ID"
+            },
+            {
+              "countryCode": "JP"
+            },
+            {
+              "countryCode": "TH"
+            },
+            {
+              "countryCode": "VN"
+            },
+            {
+              "countryCode": "RO"
+            },
+            {
+              "countryCode": "IL"
+            },
+            {
+              "countryCode": "ZA"
+            },
+            {
+              "countryCode": "SA"
+            },
+            {
+              "countryCode": "AE"
+            },
+            {
+              "countryCode": "BH"
+            },
+            {
+              "countryCode": "QA"
+            },
+            {
+              "countryCode": "OM"
+            },
+            {
+              "countryCode": "KW"
+            },
+            {
+              "countryCode": "EG"
+            },
+            {
+              "countryCode": "MA"
+            },
+            {
+              "countryCode": "DZ"
+            },
+            {
+              "countryCode": "TN"
+            },
+            {
+              "countryCode": "LB"
+            },
+            {
+              "countryCode": "JO"
+            },
+            {
+              "countryCode": "PS"
+            },
+            {
+              "countryCode": "IN"
+            },
+            {
+              "countryCode": "KZ"
+            },
+            {
+              "countryCode": "MD"
+            },
+            {
+              "countryCode": "UA"
+            },
+            {
+              "countryCode": "AL"
+            },
+            {
+              "countryCode": "BA"
+            },
+            {
+              "countryCode": "HR"
+            },
+            {
+              "countryCode": "ME"
+            },
+            {
+              "countryCode": "MK"
+            },
+            {
+              "countryCode": "RS"
+            },
+            {
+              "countryCode": "SI"
+            },
+            {
+              "countryCode": "KR"
+            },
+            {
+              "countryCode": "BD"
+            },
+            {
+              "countryCode": "PK"
+            },
+            {
+              "countryCode": "LK"
+            },
+            {
+              "countryCode": "GH"
+            },
+            {
+              "countryCode": "KE"
+            },
+            {
+              "countryCode": "NG"
+            },
+            {
+              "countryCode": "TZ"
+            },
+            {
+              "countryCode": "UG"
+            },
+            {
+              "countryCode": "AG"
+            },
+            {
+              "countryCode": "AM"
+            },
+            {
+              "countryCode": "BS"
+            },
+            {
+              "countryCode": "BB"
+            },
+            {
+              "countryCode": "BZ"
+            },
+            {
+              "countryCode": "BT"
+            },
+            {
+              "countryCode": "BW"
+            },
+            {
+              "countryCode": "BF"
+            },
+            {
+              "countryCode": "CV"
+            },
+            {
+              "countryCode": "CW"
+            },
+            {
+              "countryCode": "DM"
+            },
+            {
+              "countryCode": "FJ"
+            },
+            {
+              "countryCode": "GM"
+            },
+            {
+              "countryCode": "GE"
+            },
+            {
+              "countryCode": "GD"
+            },
+            {
+              "countryCode": "GW"
+            },
+            {
+              "countryCode": "GY"
+            },
+            {
+              "countryCode": "HT"
+            },
+            {
+              "countryCode": "JM"
+            },
+            {
+              "countryCode": "KI"
+            },
+            {
+              "countryCode": "LS"
+            },
+            {
+              "countryCode": "LR"
+            },
+            {
+              "countryCode": "MW"
+            },
+            {
+              "countryCode": "MV"
+            },
+            {
+              "countryCode": "ML"
+            },
+            {
+              "countryCode": "MH"
+            },
+            {
+              "countryCode": "FM"
+            },
+            {
+              "countryCode": "NA"
+            },
+            {
+              "countryCode": "NR"
+            },
+            {
+              "countryCode": "NE"
+            },
+            {
+              "countryCode": "PW"
+            },
+            {
+              "countryCode": "PG"
+            },
+            {
+              "countryCode": "WS"
+            },
+            {
+              "countryCode": "SM"
+            },
+            {
+              "countryCode": "ST"
+            },
+            {
+              "countryCode": "SN"
+            },
+            {
+              "countryCode": "SC"
+            },
+            {
+              "countryCode": "SL"
+            },
+            {
+              "countryCode": "SB"
+            },
+            {
+              "countryCode": "KN"
+            },
+            {
+              "countryCode": "LC"
+            },
+            {
+              "countryCode": "VC"
+            },
+            {
+              "countryCode": "SR"
+            },
+            {
+              "countryCode": "TL"
+            },
+            {
+              "countryCode": "TO"
+            },
+            {
+              "countryCode": "TT"
+            },
+            {
+              "countryCode": "TV"
+            },
+            {
+              "countryCode": "VU"
+            },
+            {
+              "countryCode": "AZ"
+            },
+            {
+              "countryCode": "BN"
+            },
+            {
+              "countryCode": "BI"
+            },
+            {
+              "countryCode": "KH"
+            },
+            {
+              "countryCode": "CM"
+            },
+            {
+              "countryCode": "TD"
+            },
+            {
+              "countryCode": "KM"
+            },
+            {
+              "countryCode": "GQ"
+            },
+            {
+              "countryCode": "SZ"
+            },
+            {
+              "countryCode": "GA"
+            },
+            {
+              "countryCode": "GN"
+            },
+            {
+              "countryCode": "KG"
+            },
+            {
+              "countryCode": "LA"
+            },
+            {
+              "countryCode": "MO"
+            },
+            {
+              "countryCode": "MR"
+            },
+            {
+              "countryCode": "MN"
+            },
+            {
+              "countryCode": "NP"
+            },
+            {
+              "countryCode": "RW"
+            },
+            {
+              "countryCode": "TG"
+            },
+            {
+              "countryCode": "UZ"
+            },
+            {
+              "countryCode": "ZW"
+            },
+            {
+              "countryCode": "BJ"
+            },
+            {
+              "countryCode": "MG"
+            },
+            {
+              "countryCode": "MU"
+            },
+            {
+              "countryCode": "MZ"
+            },
+            {
+              "countryCode": "AO"
+            },
+            {
+              "countryCode": "CI"
+            },
+            {
+              "countryCode": "DJ"
+            },
+            {
+              "countryCode": "ZM"
+            },
+            {
+              "countryCode": "CD"
+            },
+            {
+              "countryCode": "CG"
+            },
+            {
+              "countryCode": "IQ"
+            },
+            {
+              "countryCode": "LY"
+            },
+            {
+              "countryCode": "TJ"
+            },
+            {
+              "countryCode": "VE"
+            },
+            {
+              "countryCode": "ET"
+            },
+            {
+              "countryCode": "XK"
+            }
+          ]
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485164ce417349958ed70dae8572",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0264ce417349958ed70dae8572",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27364ce417349958ed70dae8572",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "lower-left-53",
+      "status": "matched",
+      "spotifyId": "2A7T9hErQeid61IZfq4Iwe",
+      "url": "https://open.spotify.com/album/2A7T9hErQeid61IZfq4Iwe",
+      "title": "Sun Secret - Stop",
+      "artists": [
+        "The Eric Burdon Band"
+      ],
+      "date": "1993-01-01",
+      "trackCount": 16,
+      "editionNotes": "1993 remastered Sun Secrets/Stop twofer, titled Sun Secret - Stop by Spotify. Complete original Sun Secrets recordings are included; nine Stop tracks are additional. Not the later live Sun Secrets recordings.",
+      "programmeProof": [
+        "The first seven tracks contain the complete Sun Secrets programme, including both medleys; the next nine are Stop. The original seven are reordered on this two-album issue."
+      ],
+      "availability": {
+        "publicTrackCount": 16,
+        "playableTrackCount": 16,
+        "unplayableTitles": [],
+        "canadaListed": true,
+        "marketEvidenceNote": "Canada is listed in public album markets."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3633.HEIC",
+        "https://open.spotify.com/album/2A7T9hErQeid61IZfq4Iwe"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album2a7t9herqeid61izfq4iwe.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/2A7T9hErQeid61IZfq4Iwe",
+        "fetchedAt": "2026-10-15T03:16:08Z",
+        "pageTitle": "Sun Secret - Stop - Album by The Eric Burdon Band | Spotify",
+        "spotifyId": "2A7T9hErQeid61IZfq4Iwe",
+        "title": "Sun Secret - Stop",
+        "artists": [
+          "The Eric Burdon Band"
+        ],
+        "date": "1993-01-01",
+        "trackCount": 16,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "© 1993 Far Out Productions, Inc under exclusive license to Rhino Entertainment Company, a Warner Music Group Company",
+            "type": "C"
+          },
+          {
+            "text": "℗ 1993 Far Out Productions, Inc under exclusive license to Rhino Entertainment Company, a Warner Music Group Company",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "It's My Life - 1993 Remastered Version",
+            "uri": "spotify:track:1KudvgFnPVQYzVsCbDWZFg",
+            "durationMs": 287106,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Ring of Fire - 1993 Remastered Version",
+            "uri": "spotify:track:7r1kds8OVUTjjNPgHBNALF",
+            "durationMs": 375426,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Medley: When I Was Young / War Child - 1993 Remastered Version",
+            "uri": "spotify:track:79Au3KaS30CkjaTuBnTcoJ",
+            "durationMs": 515039,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "The Real Me - 1993 Remastered Version",
+            "uri": "spotify:track:3KTf97Gd97P8X48yCz7SuR",
+            "durationMs": 218000,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Medley: Don't Let Me Be Misunderstood / Nina's School - 1993 Remastered Version",
+            "uri": "spotify:track:5KlvYQeJlP6esIjyh8WsPK",
+            "durationMs": 508733,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Letter from the Country Farm - 1993 Remastered Version",
+            "uri": "spotify:track:7eRZdY0T7VZwb9oVfR99Bb",
+            "durationMs": 789426,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Sun Secrets - 1993 Remastered Version",
+            "uri": "spotify:track:2hJOidpiBJksURFW69dJJC",
+            "durationMs": 186640,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "City Boy - 1993 Remastered Version",
+            "uri": "spotify:track:40fLGbGTnJU769WbS8E4UP",
+            "durationMs": 217093,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Gotta Get it On - 1993 Remastered Version",
+            "uri": "spotify:track:0jlH1u0GEasJ7PqwEe8yHi",
+            "durationMs": 178040,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "The Man - 1993 Remastered Version",
+            "uri": "spotify:track:3SAcggRiGGYS7lYREHGtiz",
+            "durationMs": 177333,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "I'm Lookin' Up - 1993 Remastered Version",
+            "uri": "spotify:track:3lNzGi2zSLfGmxBXfLTbx1",
+            "durationMs": 139266,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Rainbow - 1993 Remastered Version",
+            "uri": "spotify:track:6THUm6rChlwTM8igKRp6XY",
+            "durationMs": 162000,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "All I Do - 1993 Remastered Version",
+            "uri": "spotify:track:4KcO43hkC5s6yKRc8KlaCg",
+            "durationMs": 131493,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Funky Fever - 1993 Remastered Version",
+            "uri": "spotify:track:0RKoelFwPX9kaecqbI7FUt",
+            "durationMs": 170706,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "The Way it Should Be - 1993 Remastered Version",
+            "uri": "spotify:track:2lCTBfBWAGt7LuntC26mwB",
+            "durationMs": 195733,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Stop - 1993 Remastered Version",
+            "uri": "spotify:track:5oVGU99LlhLkX3EJQoYMYH",
+            "durationMs": 346266,
+            "artists": [
+              "The Eric Burdon Band"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": [
+            {
+              "countryCode": "AR"
+            },
+            {
+              "countryCode": "AU"
+            },
+            {
+              "countryCode": "AT"
+            },
+            {
+              "countryCode": "BE"
+            },
+            {
+              "countryCode": "BO"
+            },
+            {
+              "countryCode": "BR"
+            },
+            {
+              "countryCode": "BG"
+            },
+            {
+              "countryCode": "CA"
+            },
+            {
+              "countryCode": "CL"
+            },
+            {
+              "countryCode": "CO"
+            },
+            {
+              "countryCode": "CR"
+            },
+            {
+              "countryCode": "CY"
+            },
+            {
+              "countryCode": "CZ"
+            },
+            {
+              "countryCode": "DK"
+            },
+            {
+              "countryCode": "DO"
+            },
+            {
+              "countryCode": "DE"
+            },
+            {
+              "countryCode": "EC"
+            },
+            {
+              "countryCode": "EE"
+            },
+            {
+              "countryCode": "SV"
+            },
+            {
+              "countryCode": "FI"
+            },
+            {
+              "countryCode": "FR"
+            },
+            {
+              "countryCode": "GR"
+            },
+            {
+              "countryCode": "GT"
+            },
+            {
+              "countryCode": "HN"
+            },
+            {
+              "countryCode": "HK"
+            },
+            {
+              "countryCode": "HU"
+            },
+            {
+              "countryCode": "IS"
+            },
+            {
+              "countryCode": "IE"
+            },
+            {
+              "countryCode": "IT"
+            },
+            {
+              "countryCode": "LV"
+            },
+            {
+              "countryCode": "LT"
+            },
+            {
+              "countryCode": "LU"
+            },
+            {
+              "countryCode": "MY"
+            },
+            {
+              "countryCode": "MT"
+            },
+            {
+              "countryCode": "MX"
+            },
+            {
+              "countryCode": "NL"
+            },
+            {
+              "countryCode": "NZ"
+            },
+            {
+              "countryCode": "NI"
+            },
+            {
+              "countryCode": "NO"
+            },
+            {
+              "countryCode": "PA"
+            },
+            {
+              "countryCode": "PY"
+            },
+            {
+              "countryCode": "PE"
+            },
+            {
+              "countryCode": "PH"
+            },
+            {
+              "countryCode": "PL"
+            },
+            {
+              "countryCode": "PT"
+            },
+            {
+              "countryCode": "SG"
+            },
+            {
+              "countryCode": "SK"
+            },
+            {
+              "countryCode": "ES"
+            },
+            {
+              "countryCode": "SE"
+            },
+            {
+              "countryCode": "CH"
+            },
+            {
+              "countryCode": "TW"
+            },
+            {
+              "countryCode": "TR"
+            },
+            {
+              "countryCode": "UY"
+            },
+            {
+              "countryCode": "US"
+            },
+            {
+              "countryCode": "GB"
+            },
+            {
+              "countryCode": "AD"
+            },
+            {
+              "countryCode": "LI"
+            },
+            {
+              "countryCode": "MC"
+            },
+            {
+              "countryCode": "ID"
+            },
+            {
+              "countryCode": "JP"
+            },
+            {
+              "countryCode": "TH"
+            },
+            {
+              "countryCode": "VN"
+            },
+            {
+              "countryCode": "RO"
+            },
+            {
+              "countryCode": "IL"
+            },
+            {
+              "countryCode": "ZA"
+            },
+            {
+              "countryCode": "SA"
+            },
+            {
+              "countryCode": "AE"
+            },
+            {
+              "countryCode": "BH"
+            },
+            {
+              "countryCode": "QA"
+            },
+            {
+              "countryCode": "OM"
+            },
+            {
+              "countryCode": "KW"
+            },
+            {
+              "countryCode": "EG"
+            },
+            {
+              "countryCode": "MA"
+            },
+            {
+              "countryCode": "DZ"
+            },
+            {
+              "countryCode": "TN"
+            },
+            {
+              "countryCode": "LB"
+            },
+            {
+              "countryCode": "JO"
+            },
+            {
+              "countryCode": "PS"
+            },
+            {
+              "countryCode": "IN"
+            },
+            {
+              "countryCode": "BY"
+            },
+            {
+              "countryCode": "KZ"
+            },
+            {
+              "countryCode": "MD"
+            },
+            {
+              "countryCode": "UA"
+            },
+            {
+              "countryCode": "AL"
+            },
+            {
+              "countryCode": "BA"
+            },
+            {
+              "countryCode": "HR"
+            },
+            {
+              "countryCode": "ME"
+            },
+            {
+              "countryCode": "MK"
+            },
+            {
+              "countryCode": "RS"
+            },
+            {
+              "countryCode": "SI"
+            },
+            {
+              "countryCode": "KR"
+            },
+            {
+              "countryCode": "BD"
+            },
+            {
+              "countryCode": "PK"
+            },
+            {
+              "countryCode": "LK"
+            },
+            {
+              "countryCode": "GH"
+            },
+            {
+              "countryCode": "KE"
+            },
+            {
+              "countryCode": "NG"
+            },
+            {
+              "countryCode": "TZ"
+            },
+            {
+              "countryCode": "UG"
+            },
+            {
+              "countryCode": "AG"
+            },
+            {
+              "countryCode": "AM"
+            },
+            {
+              "countryCode": "BS"
+            },
+            {
+              "countryCode": "BB"
+            },
+            {
+              "countryCode": "BZ"
+            },
+            {
+              "countryCode": "BT"
+            },
+            {
+              "countryCode": "BW"
+            },
+            {
+              "countryCode": "BF"
+            },
+            {
+              "countryCode": "CV"
+            },
+            {
+              "countryCode": "CW"
+            },
+            {
+              "countryCode": "DM"
+            },
+            {
+              "countryCode": "FJ"
+            },
+            {
+              "countryCode": "GM"
+            },
+            {
+              "countryCode": "GE"
+            },
+            {
+              "countryCode": "GD"
+            },
+            {
+              "countryCode": "GW"
+            },
+            {
+              "countryCode": "GY"
+            },
+            {
+              "countryCode": "HT"
+            },
+            {
+              "countryCode": "JM"
+            },
+            {
+              "countryCode": "KI"
+            },
+            {
+              "countryCode": "LS"
+            },
+            {
+              "countryCode": "LR"
+            },
+            {
+              "countryCode": "MW"
+            },
+            {
+              "countryCode": "MV"
+            },
+            {
+              "countryCode": "ML"
+            },
+            {
+              "countryCode": "MH"
+            },
+            {
+              "countryCode": "FM"
+            },
+            {
+              "countryCode": "NA"
+            },
+            {
+              "countryCode": "NR"
+            },
+            {
+              "countryCode": "NE"
+            },
+            {
+              "countryCode": "PW"
+            },
+            {
+              "countryCode": "PG"
+            },
+            {
+              "countryCode": "PR"
+            },
+            {
+              "countryCode": "WS"
+            },
+            {
+              "countryCode": "SM"
+            },
+            {
+              "countryCode": "ST"
+            },
+            {
+              "countryCode": "SN"
+            },
+            {
+              "countryCode": "SC"
+            },
+            {
+              "countryCode": "SL"
+            },
+            {
+              "countryCode": "SB"
+            },
+            {
+              "countryCode": "KN"
+            },
+            {
+              "countryCode": "LC"
+            },
+            {
+              "countryCode": "VC"
+            },
+            {
+              "countryCode": "SR"
+            },
+            {
+              "countryCode": "TL"
+            },
+            {
+              "countryCode": "TO"
+            },
+            {
+              "countryCode": "TT"
+            },
+            {
+              "countryCode": "TV"
+            },
+            {
+              "countryCode": "VU"
+            },
+            {
+              "countryCode": "AZ"
+            },
+            {
+              "countryCode": "BN"
+            },
+            {
+              "countryCode": "BI"
+            },
+            {
+              "countryCode": "KH"
+            },
+            {
+              "countryCode": "CM"
+            },
+            {
+              "countryCode": "TD"
+            },
+            {
+              "countryCode": "KM"
+            },
+            {
+              "countryCode": "GQ"
+            },
+            {
+              "countryCode": "SZ"
+            },
+            {
+              "countryCode": "GA"
+            },
+            {
+              "countryCode": "GN"
+            },
+            {
+              "countryCode": "KG"
+            },
+            {
+              "countryCode": "LA"
+            },
+            {
+              "countryCode": "MO"
+            },
+            {
+              "countryCode": "MR"
+            },
+            {
+              "countryCode": "MN"
+            },
+            {
+              "countryCode": "NP"
+            },
+            {
+              "countryCode": "RW"
+            },
+            {
+              "countryCode": "TG"
+            },
+            {
+              "countryCode": "UZ"
+            },
+            {
+              "countryCode": "ZW"
+            },
+            {
+              "countryCode": "BJ"
+            },
+            {
+              "countryCode": "MG"
+            },
+            {
+              "countryCode": "MU"
+            },
+            {
+              "countryCode": "MZ"
+            },
+            {
+              "countryCode": "AO"
+            },
+            {
+              "countryCode": "CI"
+            },
+            {
+              "countryCode": "DJ"
+            },
+            {
+              "countryCode": "ZM"
+            },
+            {
+              "countryCode": "CD"
+            },
+            {
+              "countryCode": "CG"
+            },
+            {
+              "countryCode": "IQ"
+            },
+            {
+              "countryCode": "LY"
+            },
+            {
+              "countryCode": "TJ"
+            },
+            {
+              "countryCode": "VE"
+            },
+            {
+              "countryCode": "ET"
+            },
+            {
+              "countryCode": "XK"
+            }
+          ]
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516173e805be7369c757603da0",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026173e805be7369c757603da0",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736173e805be7369c757603da0",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "lower-left-57",
+      "status": "matched",
+      "spotifyId": "2rCS6Xwx32V27pvgFzLzlT",
+      "url": "https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT",
+      "title": "Dire Straits",
+      "artists": [
+        "Dire Straits"
+      ],
+      "date": "1978-10-07",
+      "trackCount": 9,
+      "editionNotes": "Original 1978 debut programme; digital mastering is not asserted to match the family LP.",
+      "programmeProof": [
+        "All nine debut selections match the photographed Mercury SRM-1-1197 rear, from Down to the Waterline through Lions."
+      ],
+      "availability": {
+        "publicTrackCount": 9,
+        "playableTrackCount": 9,
+        "unplayableTitles": [],
+        "canadaListed": true,
+        "marketEvidenceNote": "Canada is listed in public album markets."
+      },
+      "sources": [
+        "captures/2026-10-14/IMG_3635.HEIC",
+        "https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT"
+      ],
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album2rcs6xwx32v27pvgfzlzlt.json",
+      "verification": {
+        "url": "https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT",
+        "fetchedAt": "2026-10-15T03:14:41Z",
+        "pageTitle": "Dire Straits - Album by Dire Straits | Spotify",
+        "spotifyId": "2rCS6Xwx32V27pvgFzLzlT",
+        "title": "Dire Straits",
+        "artists": [
+          "Dire Straits"
+        ],
+        "date": "1978-10-07",
+        "trackCount": 9,
+        "type": "ALBUM",
+        "copyright": [
+          {
+            "text": "© 1978 Mercury Records Limited",
+            "type": "C"
+          },
+          {
+            "text": "℗ 1978 Mercury Records Limited",
+            "type": "P"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Down To The Waterline",
+            "uri": "spotify:track:7fYKKFD0jiSlMDgG9IUs1q",
+            "durationMs": 241906,
+            "artists": [
+              "Dire Straits"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Water Of Love",
+            "uri": "spotify:track:62JvDbmEtwIU3m4LhiG6Ah",
+            "durationMs": 325133,
+            "artists": [
+              "Dire Straits"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Setting Me Up",
+            "uri": "spotify:track:1e7sKwOgiMF2FBgb8HmlRb",
+            "durationMs": 198906,
+            "artists": [
+              "Dire Straits"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Six Blade Knife",
+            "uri": "spotify:track:2miIOgni3EEut8pvYcxeYn",
+            "durationMs": 252000,
+            "artists": [
+              "Dire Straits"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Southbound Again",
+            "uri": "spotify:track:1lzaRptS63unC0qgT6hm7T",
+            "durationMs": 179200,
+            "artists": [
+              "Dire Straits"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Sultans Of Swing",
+            "uri": "spotify:track:37Tmv4NnfQeb0ZgUC4fOJj",
+            "durationMs": 348400,
+            "artists": [
+              "Dire Straits"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "In The Gallery",
+            "uri": "spotify:track:5SXemxLERs0imkLpe4Aq8v",
+            "durationMs": 375626,
+            "artists": [
+              "Dire Straits"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Wild West End",
+            "uri": "spotify:track:6yVnpVWuT3NdhAmQe05T33",
+            "durationMs": 281706,
+            "artists": [
+              "Dire Straits"
+            ],
+            "playability": {
+              "playable": true
+            }
+          },
+          {
+            "title": "Lions",
+            "uri": "spotify:track:4PgZTLaGAMlKD6FCATr2sz",
+            "durationMs": 303893,
+            "artists": [
+              "Dire Straits"
+            ],
+            "playability": {
+              "playable": true
+            }
+          }
+        ],
+        "availableMarkets": {
+          "items": [
+            {
+              "countryCode": "AR"
+            },
+            {
+              "countryCode": "AU"
+            },
+            {
+              "countryCode": "AT"
+            },
+            {
+              "countryCode": "BE"
+            },
+            {
+              "countryCode": "BO"
+            },
+            {
+              "countryCode": "BR"
+            },
+            {
+              "countryCode": "BG"
+            },
+            {
+              "countryCode": "CA"
+            },
+            {
+              "countryCode": "CL"
+            },
+            {
+              "countryCode": "CO"
+            },
+            {
+              "countryCode": "CR"
+            },
+            {
+              "countryCode": "CY"
+            },
+            {
+              "countryCode": "CZ"
+            },
+            {
+              "countryCode": "DK"
+            },
+            {
+              "countryCode": "DO"
+            },
+            {
+              "countryCode": "DE"
+            },
+            {
+              "countryCode": "EC"
+            },
+            {
+              "countryCode": "EE"
+            },
+            {
+              "countryCode": "SV"
+            },
+            {
+              "countryCode": "FI"
+            },
+            {
+              "countryCode": "FR"
+            },
+            {
+              "countryCode": "GR"
+            },
+            {
+              "countryCode": "GT"
+            },
+            {
+              "countryCode": "HN"
+            },
+            {
+              "countryCode": "HK"
+            },
+            {
+              "countryCode": "HU"
+            },
+            {
+              "countryCode": "IS"
+            },
+            {
+              "countryCode": "IE"
+            },
+            {
+              "countryCode": "IT"
+            },
+            {
+              "countryCode": "LV"
+            },
+            {
+              "countryCode": "LT"
+            },
+            {
+              "countryCode": "LU"
+            },
+            {
+              "countryCode": "MY"
+            },
+            {
+              "countryCode": "MT"
+            },
+            {
+              "countryCode": "MX"
+            },
+            {
+              "countryCode": "NL"
+            },
+            {
+              "countryCode": "NZ"
+            },
+            {
+              "countryCode": "NI"
+            },
+            {
+              "countryCode": "NO"
+            },
+            {
+              "countryCode": "PA"
+            },
+            {
+              "countryCode": "PY"
+            },
+            {
+              "countryCode": "PE"
+            },
+            {
+              "countryCode": "PH"
+            },
+            {
+              "countryCode": "PL"
+            },
+            {
+              "countryCode": "PT"
+            },
+            {
+              "countryCode": "SG"
+            },
+            {
+              "countryCode": "SK"
+            },
+            {
+              "countryCode": "ES"
+            },
+            {
+              "countryCode": "SE"
+            },
+            {
+              "countryCode": "CH"
+            },
+            {
+              "countryCode": "TW"
+            },
+            {
+              "countryCode": "TR"
+            },
+            {
+              "countryCode": "UY"
+            },
+            {
+              "countryCode": "GB"
+            },
+            {
+              "countryCode": "AD"
+            },
+            {
+              "countryCode": "LI"
+            },
+            {
+              "countryCode": "MC"
+            },
+            {
+              "countryCode": "ID"
+            },
+            {
+              "countryCode": "JP"
+            },
+            {
+              "countryCode": "TH"
+            },
+            {
+              "countryCode": "VN"
+            },
+            {
+              "countryCode": "RO"
+            },
+            {
+              "countryCode": "IL"
+            },
+            {
+              "countryCode": "ZA"
+            },
+            {
+              "countryCode": "SA"
+            },
+            {
+              "countryCode": "AE"
+            },
+            {
+              "countryCode": "BH"
+            },
+            {
+              "countryCode": "QA"
+            },
+            {
+              "countryCode": "OM"
+            },
+            {
+              "countryCode": "KW"
+            },
+            {
+              "countryCode": "EG"
+            },
+            {
+              "countryCode": "MA"
+            },
+            {
+              "countryCode": "DZ"
+            },
+            {
+              "countryCode": "TN"
+            },
+            {
+              "countryCode": "LB"
+            },
+            {
+              "countryCode": "JO"
+            },
+            {
+              "countryCode": "PS"
+            },
+            {
+              "countryCode": "IN"
+            },
+            {
+              "countryCode": "KZ"
+            },
+            {
+              "countryCode": "MD"
+            },
+            {
+              "countryCode": "UA"
+            },
+            {
+              "countryCode": "AL"
+            },
+            {
+              "countryCode": "BA"
+            },
+            {
+              "countryCode": "HR"
+            },
+            {
+              "countryCode": "ME"
+            },
+            {
+              "countryCode": "MK"
+            },
+            {
+              "countryCode": "RS"
+            },
+            {
+              "countryCode": "SI"
+            },
+            {
+              "countryCode": "KR"
+            },
+            {
+              "countryCode": "BD"
+            },
+            {
+              "countryCode": "PK"
+            },
+            {
+              "countryCode": "LK"
+            },
+            {
+              "countryCode": "GH"
+            },
+            {
+              "countryCode": "KE"
+            },
+            {
+              "countryCode": "NG"
+            },
+            {
+              "countryCode": "TZ"
+            },
+            {
+              "countryCode": "UG"
+            },
+            {
+              "countryCode": "AG"
+            },
+            {
+              "countryCode": "AM"
+            },
+            {
+              "countryCode": "BS"
+            },
+            {
+              "countryCode": "BB"
+            },
+            {
+              "countryCode": "BZ"
+            },
+            {
+              "countryCode": "BT"
+            },
+            {
+              "countryCode": "BW"
+            },
+            {
+              "countryCode": "BF"
+            },
+            {
+              "countryCode": "CV"
+            },
+            {
+              "countryCode": "CW"
+            },
+            {
+              "countryCode": "DM"
+            },
+            {
+              "countryCode": "FJ"
+            },
+            {
+              "countryCode": "GM"
+            },
+            {
+              "countryCode": "GE"
+            },
+            {
+              "countryCode": "GD"
+            },
+            {
+              "countryCode": "GW"
+            },
+            {
+              "countryCode": "GY"
+            },
+            {
+              "countryCode": "HT"
+            },
+            {
+              "countryCode": "JM"
+            },
+            {
+              "countryCode": "KI"
+            },
+            {
+              "countryCode": "LS"
+            },
+            {
+              "countryCode": "LR"
+            },
+            {
+              "countryCode": "MW"
+            },
+            {
+              "countryCode": "MV"
+            },
+            {
+              "countryCode": "ML"
+            },
+            {
+              "countryCode": "MH"
+            },
+            {
+              "countryCode": "FM"
+            },
+            {
+              "countryCode": "NA"
+            },
+            {
+              "countryCode": "NR"
+            },
+            {
+              "countryCode": "NE"
+            },
+            {
+              "countryCode": "PW"
+            },
+            {
+              "countryCode": "PG"
+            },
+            {
+              "countryCode": "WS"
+            },
+            {
+              "countryCode": "SM"
+            },
+            {
+              "countryCode": "ST"
+            },
+            {
+              "countryCode": "SN"
+            },
+            {
+              "countryCode": "SC"
+            },
+            {
+              "countryCode": "SL"
+            },
+            {
+              "countryCode": "SB"
+            },
+            {
+              "countryCode": "KN"
+            },
+            {
+              "countryCode": "LC"
+            },
+            {
+              "countryCode": "VC"
+            },
+            {
+              "countryCode": "SR"
+            },
+            {
+              "countryCode": "TL"
+            },
+            {
+              "countryCode": "TO"
+            },
+            {
+              "countryCode": "TT"
+            },
+            {
+              "countryCode": "TV"
+            },
+            {
+              "countryCode": "VU"
+            },
+            {
+              "countryCode": "AZ"
+            },
+            {
+              "countryCode": "BN"
+            },
+            {
+              "countryCode": "BI"
+            },
+            {
+              "countryCode": "KH"
+            },
+            {
+              "countryCode": "CM"
+            },
+            {
+              "countryCode": "TD"
+            },
+            {
+              "countryCode": "KM"
+            },
+            {
+              "countryCode": "GQ"
+            },
+            {
+              "countryCode": "SZ"
+            },
+            {
+              "countryCode": "GA"
+            },
+            {
+              "countryCode": "GN"
+            },
+            {
+              "countryCode": "KG"
+            },
+            {
+              "countryCode": "LA"
+            },
+            {
+              "countryCode": "MO"
+            },
+            {
+              "countryCode": "MR"
+            },
+            {
+              "countryCode": "MN"
+            },
+            {
+              "countryCode": "NP"
+            },
+            {
+              "countryCode": "RW"
+            },
+            {
+              "countryCode": "TG"
+            },
+            {
+              "countryCode": "UZ"
+            },
+            {
+              "countryCode": "ZW"
+            },
+            {
+              "countryCode": "BJ"
+            },
+            {
+              "countryCode": "MG"
+            },
+            {
+              "countryCode": "MU"
+            },
+            {
+              "countryCode": "MZ"
+            },
+            {
+              "countryCode": "AO"
+            },
+            {
+              "countryCode": "CI"
+            },
+            {
+              "countryCode": "DJ"
+            },
+            {
+              "countryCode": "ZM"
+            },
+            {
+              "countryCode": "CD"
+            },
+            {
+              "countryCode": "CG"
+            },
+            {
+              "countryCode": "IQ"
+            },
+            {
+              "countryCode": "LY"
+            },
+            {
+              "countryCode": "TJ"
+            },
+            {
+              "countryCode": "VE"
+            },
+            {
+              "countryCode": "ET"
+            },
+            {
+              "countryCode": "XK"
+            }
+          ]
+        },
+        "coverSources": [
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b49d49cc95564aede7998bb8",
+            "width": 64
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b49d49cc95564aede7998bb8",
+            "width": 300
+          },
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
+            "width": 640
+          }
+        ]
+      }
+    },
+    {
+      "recordId": "upper-left-50",
+      "status": "unresolved",
+      "spotifyId": null,
+      "url": null,
+      "title": "Brief Replies",
+      "artists": [
+        "Ten Wheel Drive with Genya Ravan"
+      ],
+      "reason": "No public Spotify page for the complete original album was verified. Exact album-title searches, the Ten Wheel Drive artist discography, and original-song parent-album leads yield The Best of Ten Wheel Drive, an incomplete compilation; it is rejected as an album substitute.",
+      "rejectedCandidates": [
+        {
+          "spotifyId": "0ADlyDwEqsq0FW83DxKbJy",
+          "url": "https://open.spotify.com/album/0ADlyDwEqsq0FW83DxKbJy",
+          "reason": "Contains only six of the eight original album selections; missing Pulse, Interlude: View From A Soft-Heart Garden."
+        }
+      ],
+      "sources": [
+        "captures/2026-10-14/IMG_3599.HEIC",
+        "https://open.spotify.com/artist/2ZScr2wDTaoDFg4XzPkoxQ",
+        "https://open.spotify.com/album/0ADlyDwEqsq0FW83DxKbJy"
+      ],
+      "evidencePaths": [
+        "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/artist2zscr2wdtaodfg4xzpkoxq.json",
+        "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album0adlydweqsq0fw83dxkbjy.json"
+      ],
+      "suggestedAction": "Retain search fallback; do not assign the compilation ID."
+    },
+    {
+      "recordId": "upper-left-54",
+      "status": "unresolved",
+      "spotifyId": null,
+      "url": null,
+      "title": "Construction #1",
+      "artists": [
+        "Ten Wheel Drive with Genya Ravan"
+      ],
+      "reason": "No public Spotify page for the complete original album was verified. Exact album-title searches, the Ten Wheel Drive artist discography, and original-song parent-album leads yield The Best of Ten Wheel Drive, an incomplete compilation; it is rejected as an album substitute.",
+      "rejectedCandidates": [
+        {
+          "spotifyId": "0ADlyDwEqsq0FW83DxKbJy",
+          "url": "https://open.spotify.com/album/0ADlyDwEqsq0FW83DxKbJy",
+          "reason": "Contains only six of the eight original album selections; missing Polar Bear Rug, I Am A Want Ad."
+        }
+      ],
+      "sources": [
+        "captures/2026-10-14/IMG_3603.HEIC",
+        "https://open.spotify.com/artist/2ZScr2wDTaoDFg4XzPkoxQ",
+        "https://open.spotify.com/album/0ADlyDwEqsq0FW83DxKbJy"
+      ],
+      "evidencePaths": [
+        "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/artist2zscr2wdtaodfg4xzpkoxq.json",
+        "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album0adlydweqsq0fw83dxkbjy.json"
+      ],
+      "suggestedAction": "Retain search fallback; do not assign the compilation ID."
+    },
+    {
+      "recordId": "upper-left-55",
+      "status": "preserve-existing",
+      "spotifyId": "4mzvakrydkVKHDK1qkKvyu",
+      "url": "https://open.spotify.com/album/4mzvakrydkVKHDK1qkKvyu",
+      "reason": "Photographed Pointer Sisters debut confirms the existing correct identity and link; ten original tracks independently rechecked.",
+      "evidencePath": "/Users/benzittlau/code/record-collection/site/research/capture-intake-left-evidence-2026-10-14/spotify/album4mzvakrydkvkhdk1qkkvyu.json"
+    }
+  ]
+}

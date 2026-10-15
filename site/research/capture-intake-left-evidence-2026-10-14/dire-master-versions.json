@@ -1,0 +1,4783 @@
+{
+  "url": "https://api.discogs.com/masters/23759/versions?per_page=100&page=1",
+  "retrieved": "2026-10-15T03:27:39Z",
+  "data": {
+    "pagination": {
+      "page": 1,
+      "pages": 5,
+      "per_page": 100,
+      "items": 474,
+      "urls": {
+        "last": "https://api.discogs.com/masters/23759/versions?per_page=100&page=5",
+        "next": "https://api.discogs.com/masters/23759/versions?per_page=100&page=2"
+      }
+    },
+    "filters": {
+      "applied": {},
+      "available": {
+        "format": {
+          "Album": 469,
+          "Reissue": 253,
+          "LP": 201,
+          "Vinyl": 201,
+          "Cassette": 131,
+          "CD": 130,
+          "Stereo": 118,
+          "Remastered": 66,
+          "Unofficial Release": 54,
+          "Repress": 34,
+          "Club Edition": 27,
+          "Limited Edition": 8,
+          "Special Edition": 5,
+          "8-Track Cartridge": 4,
+          "Mispress": 3,
+          "Numbered": 3,
+          "Promo": 3,
+          "SACD": 3,
+          "DCC": 2,
+          "File": 2,
+          "Misprint": 2,
+          "Test Pressing": 2,
+          "White Label": 2,
+          "12\"": 1,
+          "33 \u2153 RPM": 1,
+          "45 RPM": 1,
+          "AAC": 1,
+          "Acetate": 1,
+          "Compilation": 1,
+          "FLAC": 1,
+          "Hybrid": 1
+        },
+        "label": {
+          "Vertigo": 339,
+          "Basing Street Studios": 277,
+          "Rondor Music": 174,
+          "Phonogram": 143,
+          "Phonogram Ltd.": 138,
+          "Straitjacket Songs": 135,
+          "Straitjacket Songs Ltd.": 63,
+          "Phonogram Ltd. (London)": 61,
+          "Warner Bros. Records": 54,
+          "Mercury Records Ltd.": 44,
+          "Warner Bros. Records Inc.": 41,
+          "Hothouse London": 37,
+          "Rondor Music (London) Ltd.": 33,
+          "Gateway Mastering": 32,
+          "Dire Straits Remastered": 30,
+          "Mercury": 29,
+          "Polygram": 29,
+          "Phonodisc B.V.": 24,
+          "Pgp Rtb": 19,
+          "Almo Music Corp.": 17,
+          "Polygram Inc.": 17,
+          "Warner Communications": 17,
+          "Prs Hannover": 15,
+          "Philips": 14,
+          "Rtb Records": 14,
+          "Columbia House": 13,
+          "Phonogram International": 12,
+          "Almo Music": 11,
+          "Polygram Ib\u00e9rica, S.A.": 11,
+          "Polygram Industries Messageries": 11,
+          "Strait Jacket Songs": 11,
+          "Phonodisc Ltd.": 10,
+          "Polygram, Hanover, West Germany": 10,
+          "Cinram": 9,
+          "Gr\u00e1ficas Foco, S.A.": 9,
+          "Mercury Records Ltd. (Uk)": 9,
+          "Phonogram International B.V.": 9,
+          "Pmdc, France": 9,
+          "Team-Trykk A.S.": 9,
+          "Wea Manufacturing": 9,
+          "G.P.I. S.A.": 8,
+          "Specialty Records Corporation": 8,
+          "Universal Music Llc": 8,
+          "Warner Bros. Inc.": 8,
+          "C.I.D.I.S. Louviers": 7,
+          "Capitol Records Pressing Plant, Winchester": 7,
+          "Pdo, Germany": 7,
+          "Polygram Distribution Inc.": 7,
+          "Prs Ltd.": 7,
+          "Straight Jacket Songs": 7,
+          "Back To Black": 6,
+          "Copyright Control": 6,
+          "Euro Star": 6,
+          "Gip \"Beograd\"": 6,
+          "Phonogram Private Limited Malaysia": 6,
+          "Polydor Ltd.": 6,
+          "Polygram Do Brasil Ltda.": 6,
+          "Polygram Records Ltd., Hong Kong": 6,
+          "Polygram Records Private Limited Singapore": 6,
+          "Prs Baarn": 6,
+          "Universal International": 6,
+          "Eurogram, S.A.": 5,
+          "Fonogram, S.A.": 5,
+          "London Records Of Canada (1967) Ltd.": 5,
+          "Mpo": 5,
+          "Nippon Phonogram Co., Ltd.": 5,
+          "Polygram Records Pty. Limited": 5,
+          "Sung Eum Limited": 5,
+          "Umc": 5,
+          "Fx Copyroom": 4,
+          "Phonogram S.P.A.": 4,
+          "Phonoster": 4,
+          "Plaksan A.\u015e.": 4,
+          "Polygram Discos S.A.": 4,
+          "Polygram Servicios, S.A.": 4,
+          "Sericrom Lda.": 4,
+          "Universal Music K.K.": 4,
+          "Universal Music Studios, Tokyo": 4,
+          "Usm Japan": 4,
+          "Warner Remasters": 4,
+          "C.I.D.I.S.": 3,
+          "Capitol Records Pressing Plant, Jacksonville": 3,
+          "Capitol Records Pressing Plant, Los Angeles": 3,
+          "Cbs Records, Artarmon": 3,
+          "Cofasa": 3,
+          "Disques Snb Lt\u00e9e.": 3,
+          "Dyna Products, Inc.": 3,
+          "Foco, S. A.": 3,
+          "Fonobr\u00e1s, Distribuidora Fonogr\u00e1fica Brasileira Ltda.": 3,
+          "Imprimerie Jat": 3,
+          "Ministry Of Culture & Information No. 3": 3,
+          "Musikkindustri A/S": 3,
+          "Phonokol Ltd.": 3,
+          "Polygram Discos Ltda.": 3,
+          "Polygram Discos Sarl": 3,
+          "Polygram Discos, S.A. De C.V.": 3,
+          "Polygram Group Canada Inc.": 3,
+          "Prs Ges.Mbh": 3,
+          "Quality Records Limited": 3,
+          "Rca Music Service": 3,
+          "Rosenborg Studio": 3,
+          "Takt Music": 3,
+          "Ukrainian Distribution": 3,
+          "Victor Company Of Japan, Ltd. Media Company": 3,
+          "Warner Music Group": 3,
+          "Warner Records": 3,
+          "Warner Records Inc.": 3,
+          "\u0391\u03b4\u03b5\u03bb\u03c6\u03bf\u03af \u039d. \u03a0\u03b9\u03c4\u03c3\u03b9\u03bb\u03bf\u03cd \u039f.\u0395.": 3,
+          "Belmont Printers": 2,
+          "Bernie Grundman Mastering": 2,
+          "Bmg Direct Marketing, Inc.": 2,
+          "Carlton Productions": 2,
+          "Chariscourt Ltd.": 2,
+          "Cinram, Olyphant, Pa": 2,
+          "Columbia Records Pressing Plant, Carrollton, Ga": 2,
+          "Dire Straits Shm-Cd Paper Jacket Collection": 2,
+          "Elbo": 2,
+          "Foot Print": 2,
+          "Fotomecanica Coracolor, S.A.": 2,
+          "Grafica Centonze": 2,
+          "High Stereo": 2,
+          "High Stereo Light": 2,
+          "Hofmanndruck": 2,
+          "Hothouse": 2,
+          "Imd": 2,
+          "Imp. Polygram": 2,
+          "Imprimerie Jat, Saint-Quentin": 2,
+          "Mobile Fidelity Sound Lab": 2,
+          "Mobile Fidelity Sound Lab, Inc.": 2,
+          "Montreuil Offset": 2,
+          "Music Giants": 2,
+          "My Generation, My Music": 2,
+          "New Star Record": 2,
+          "Original Master Recording": 2,
+          "Phonodisc Gesmbh": 2,
+          "Pmdc, Germany": 2,
+          "Polygram Dischi S.P.A.": 2,
+          "Polygram Discos, S.A.": 2,
+          "Polygram International Music B.V.": 2,
+          "Polygram Records": 2,
+          "Polygram Records Limited": 2,
+          "Prs, Louviers": 2,
+          "Pyramid": 2,
+          "Rca Limited (Suc. Argentina)": 2,
+          "Rhino Entertainment Company": 2,
+          "Rondor Music Pty. Ltd.": 2,
+          "Sanyo Japan": 2,
+          "Sawiton": 2,
+          "Sonopress": 2,
+          "Sony Dadc": 2,
+          "Time Warner": 2,
+          "Ukrainian Records": 2,
+          "Universal": 2,
+          "Universal Music": 2,
+          "Victor Creative Media": 2,
+          "Wea Mfg. Olyphant": 2,
+          "Yonca Plak Ve Kaset": 2,
+          "\"El Virrey\" Industrias Musicales S.A.": 1,
+          "100% Pure Lp": 1,
+          "747": 1,
+          "Abcd Music": 1,
+          "Allied Record Company": 1,
+          "Artone": 1,
+          "Arvato": 1,
+          "As (Rinc\u00f3n 387)": 1,
+          "Audio Max": 1,
+          "Audio One": 1,
+          "Balet Plak Ve M\u00fczikaset Ticaret": 1,
+          "Because Sound Matters": 1,
+          "Bertelsmann Club": 1,
+          "Bmg Direct Ltd.": 1,
+          "Cassette Magazine Records": 1,
+          "Cdt Berlin": 1,
+          "Chappell & Co. Ltd.": 1,
+          "Cherry Series": 1,
+          "Columbia House Canada": 1,
+          "Columbia Records Pressing Plant, Don Mills, On": 1,
+          "Columbia Records Pressing Plant, Santa Maria": 1,
+          "Columbia Records Pressing Plant, Terre Haute": 1,
+          "Ct": 1,
+          "Curve Pusher": 1,
+          "Dadc": 1,
+          "Decibel Trading Srl": 1,
+          "Delta": 1,
+          "Dideca": 1,
+          "Digital Audio Disc Corp.": 1,
+          "Digital Record": 1,
+          "Dire Straits - The Complete Collection": 1,
+          "Dire Straits Re-Master Collection": 1,
+          "Dire Straits Studio Collection": 1,
+          "Discos De Centroam\u00e9rica, S.A.": 1,
+          "Discos Philips": 1,
+          "Discos Philips Colombia": 1,
+          "Disctronics B": 1,
+          "Disctronics, Uk": 1,
+          "Disque Americ": 1,
+          "Dvc": 1,
+          "Dyna Pressing Plant, Caloocan City": 1,
+          "E.T.": 1,
+          "Edc, Germany": 1,
+          "Edisa": 1,
+          "Emi Records": 1,
+          "Estr\u00e9ia": 1,
+          "Euro Studio": 1,
+          "Eurostar Ltd.": 1,
+          "Fann": 1,
+          "Gain 2\u2122 Ultra Analog 45Rpm 180G Series": 1,
+          "Grafica Pozzoli S.P.A.": 1,
+          "Gramofonov\u00e9 Z\u00e1vody": 1,
+          "Gruppo Editoriale L'Espresso S.P.A.": 1,
+          "Gz Digital Media": 1,
+          "Gz Media": 1,
+          "Helicon Records": 1,
+          "Intergr\u00e1ficas Ltda.": 1,
+          "Interpak": 1,
+          "Jam": 1,
+          "King Sound Co. Ltd Taiwan": 1,
+          "La Musica Di Repubblica - L'Espresso": 1,
+          "Litratone Ltd.": 1,
+          "M.P.A.": 1,
+          "Mag Magic": 1,
+          "Mc": 1,
+          "Memory-Tech": 1,
+          "Mercury Music Entertainment Co., Ltd.": 1,
+          "Mg Records": 1,
+          "Microservice": 1,
+          "Microservice - Microfilmagens E Reprodu\u00e7\u00f5es T\u00e9cnicas Da Amaz\u00f4nia Ltda.": 1,
+          "Microservice - Microfilmagens E Reprodu\u00e7\u00f5es T\u00e9cnicas Ltda.": 1,
+          "Monarch Record Mfg. Co.": 1,
+          "Music Carriers (Nz) Ltd.": 1,
+          "My Generation, My Music - Back To The Rock Years 1978-1982": 1,
+          "New Horizon": 1,
+          "New Jen Sheng": 1,
+          "Not On Label": 1,
+          "Not On Label (Dire Straits)": 1,
+          "Oditec": 1,
+          "Optimal Media Gmbh": 1,
+          "Original": 1,
+          "Pallas": 1,
+          "Pdo, France": 1,
+          "Pdo, Usa": 1,
+          "Philips Chilena S.A.": 1,
+          "Philips Del Uruguay S.A.": 1,
+          "Philips Phonografische Industrie": 1,
+          "Phonogram S.A.I.C.": 1,
+          "Plus Gold": 1,
+          "Pmdc, Uk": 1,
+          "Pmi": 1,
+          "Poker Sound": 1,
+          "Polydor International Gmbh": 1,
+          "Polydor Of India Ltd.": 1,
+          "Polydor S.A.": 1,
+          "Polygram Distribution": 1,
+          "Polygram Inc. Canada": 1,
+          "Polygram Int'L Music B.V.": 1,
+          "Polygram K.K.": 1,
+          "Polygram Polska": 1,
+          "Pop M\u00fczik": 1,
+          "Printwell": 1,
+          "Pt. Suara Sentral Sejati": 1,
+          "Raks M\u00fczik": 1,
+          "Raks M\u00fczik Yap\u0131m San. Ve Tic. A.\u015e.": 1,
+          "Record Technology Incorporated": 1,
+          "Rhino Records": 1,
+          "Rock Music Records Co. Ltd": 1,
+          "Rock Records & Tapes": 1,
+          "Rondor Music (Australia) Pty Ltd": 1,
+          "Rondor Music International, Inc.": 1,
+          "Rota": 1,
+          "S180 Series": 1,
+          "Schallplattenfabrik Pallas Gmbh": 1,
+          "Sem Gramophone": 1,
+          "Servicios Ib\u00e9ricos Entertainment, S.A.": 1,
+          "Siegfried": 1,
+          "Simply Vinyl": 1,
+          "Skc": 1,
+          "Sma": 1,
+          "Sony Dadc Australia": 1,
+          "Sony Dadc Japan": 1,
+          "Spc Records": 1,
+          "Ssd": 1,
+          "Strawberry Mastering": 1,
+          "Strawberry Mastering (Uk) Ltd": 1,
+          "Studio Max": 1,
+          "Super Price": 1,
+          "Supraphon": 1,
+          "Symbol": 1,
+          "Takt Direct": 1,
+          "Technicolor, Guadalajara, Mexico": 1,
+          "Technicolor, Olyphant, Pa": 1,
+          "Teltron": 1,
+          "The Big Comeback : \u03a4\u03b1 \u039c\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u039f\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03a4\u03b7\u03c2 \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1\u03c2 \u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u03a3\u03ba\u03b7\u03bd\u03ae\u03c2": 1,
+          "The Studio Albums 1978-1991": 1,
+          "Thomsun Original": 1,
+          "Trutone": 1,
+          "Uep-Cd": 1,
+          "Ultradisc Uhr": 1,
+          "Um\u00b3/Usm Japan": 1,
+          "Universal International Music B.V.": 1,
+          "Universal M & L, France": 1,
+          "Universal M & L, Germany": 1,
+          "Universal M & L, Uk": 1,
+          "Universal Mastering Studios, Japan": 1,
+          "Universal Music Australia": 1,
+          "Universal Music Operations Ltd.": 1,
+          "Universal Music Publishing Ltd.": 1,
+          "Universal Strategic Marketing Japan": 1,
+          "Veb Deutsche Schallplatten Berlin": 1,
+          "Vertigo Classics Super Price": 1,
+          "Warner Bros.": 1,
+          "Wea Mfg. Commerce": 1,
+          "Yalu": 1,
+          "Yonca Music International": 1,
+          "Zimbabwe Music Corporation": 1,
+          "\u0397 \u039a\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae": 1,
+          "\u0417\u0430\u043e \"\u042e\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b \u041c\u044c\u044e\u0437\u0438\u043a\"": 1,
+          "\u0422\u043e\u0432 \"\u0420\u043e\u0441\u0442\u043e\u043a-\u0421\u0434\"": 1
+        },
+        "country": {
+          "Europe": 59,
+          "US": 59,
+          "Canada": 30,
+          "UK": 25,
+          "Poland": 23,
+          "Japan": 21,
+          "Netherlands": 19,
+          "Germany": 18,
+          "Yugoslavia": 18,
+          "Spain": 17,
+          "France": 12,
+          "Italy": 12,
+          "Greece": 11,
+          "South Korea": 11,
+          "Brazil": 10,
+          "Australasia": 8,
+          "Russia": 8,
+          "Scandinavia": 8,
+          "Australia": 7,
+          "Singapore, Malaysia & Hong Kong": 7,
+          "Argentina": 6,
+          "Portugal": 6,
+          "Saudi Arabia": 6,
+          "South Africa": 6,
+          "Taiwan": 6,
+          "Turkey": 6,
+          "Unknown": 6,
+          "Israel": 5,
+          "Ukraine": 5,
+          "Austria": 4,
+          "Ireland": 3,
+          "Mexico": 3,
+          "New Zealand": 3,
+          "Philippines": 3,
+          "Czechoslovakia": 2,
+          "Malaysia": 2,
+          "Rhodesia": 2,
+          "Thailand": 2,
+          "Asia": 1,
+          "Chile": 1,
+          "China": 1,
+          "Colombia": 1,
+          "German Democratic Republic (GDR)": 1,
+          "Guatemala": 1,
+          "India": 1,
+          "Indonesia": 1,
+          "Peru": 1,
+          "Romania": 1,
+          "Syria": 1,
+          "UK & Europe": 1,
+          "Uruguay": 1,
+          "Venezuela": 1,
+          "Zimbabwe": 1
+        },
+        "released": {
+          "1978": 118,
+          "1979": 33,
+          "1980": 11,
+          "1981": 1,
+          "1982": 8,
+          "1983": 10,
+          "1984": 7,
+          "1985": 7,
+          "1986": 9,
+          "1987": 4,
+          "1988": 3,
+          "1989": 9,
+          "1991": 7,
+          "1992": 6,
+          "1993": 1,
+          "1994": 1,
+          "1995": 1,
+          "1996": 14,
+          "1999": 1,
+          "2000": 3,
+          "2002": 2,
+          "2006": 1,
+          "2008": 2,
+          "2009": 3,
+          "2010": 1,
+          "2011": 1,
+          "2012": 2,
+          "2013": 2,
+          "2014": 6,
+          "2015": 1,
+          "2017": 1,
+          "2018": 2,
+          "2019": 2,
+          "2020": 1,
+          "2021": 2,
+          "2024": 1
+        }
+      }
+    },
+    "filter_facets": [
+      {
+        "title": "Format",
+        "id": "format",
+        "values": [
+          {
+            "title": "Album",
+            "value": "Album",
+            "count": 469
+          },
+          {
+            "title": "Reissue",
+            "value": "Reissue",
+            "count": 253
+          },
+          {
+            "title": "LP",
+            "value": "LP",
+            "count": 201
+          },
+          {
+            "title": "Vinyl",
+            "value": "Vinyl",
+            "count": 201
+          },
+          {
+            "title": "Cassette",
+            "value": "Cassette",
+            "count": 131
+          },
+          {
+            "title": "CD",
+            "value": "CD",
+            "count": 130
+          },
+          {
+            "title": "Stereo",
+            "value": "Stereo",
+            "count": 118
+          },
+          {
+            "title": "Remastered",
+            "value": "Remastered",
+            "count": 66
+          },
+          {
+            "title": "Unofficial Release",
+            "value": "Unofficial+Release",
+            "count": 54
+          },
+          {
+            "title": "Repress",
+            "value": "Repress",
+            "count": 34
+          },
+          {
+            "title": "Club Edition",
+            "value": "Club+Edition",
+            "count": 27
+          },
+          {
+            "title": "Limited Edition",
+            "value": "Limited+Edition",
+            "count": 8
+          },
+          {
+            "title": "Special Edition",
+            "value": "Special+Edition",
+            "count": 5
+          },
+          {
+            "title": "8-Track Cartridge",
+            "value": "8-Track+Cartridge",
+            "count": 4
+          },
+          {
+            "title": "Mispress",
+            "value": "Mispress",
+            "count": 3
+          },
+          {
+            "title": "Numbered",
+            "value": "Numbered",
+            "count": 3
+          },
+          {
+            "title": "Promo",
+            "value": "Promo",
+            "count": 3
+          },
+          {
+            "title": "SACD",
+            "value": "SACD",
+            "count": 3
+          },
+          {
+            "title": "DCC",
+            "value": "DCC",
+            "count": 2
+          },
+          {
+            "title": "File",
+            "value": "File",
+            "count": 2
+          },
+          {
+            "title": "Misprint",
+            "value": "Misprint",
+            "count": 2
+          },
+          {
+            "title": "Test Pressing",
+            "value": "Test+Pressing",
+            "count": 2
+          },
+          {
+            "title": "White Label",
+            "value": "White+Label",
+            "count": 2
+          },
+          {
+            "title": "12\"",
+            "value": "12%22",
+            "count": 1
+          },
+          {
+            "title": "33 \u2153 RPM",
+            "value": "33+%E2%85%93+RPM",
+            "count": 1
+          },
+          {
+            "title": "45 RPM",
+            "value": "45+RPM",
+            "count": 1
+          },
+          {
+            "title": "AAC",
+            "value": "AAC",
+            "count": 1
+          },
+          {
+            "title": "Acetate",
+            "value": "Acetate",
+            "count": 1
+          },
+          {
+            "title": "Compilation",
+            "value": "Compilation",
+            "count": 1
+          },
+          {
+            "title": "FLAC",
+            "value": "FLAC",
+            "count": 1
+          },
+          {
+            "title": "Hybrid",
+            "value": "Hybrid",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": true
+      },
+      {
+        "title": "Label",
+        "id": "label",
+        "values": [
+          {
+            "title": "Vertigo",
+            "value": "Vertigo",
+            "count": 339
+          },
+          {
+            "title": "Basing Street Studios",
+            "value": "Basing+Street+Studios",
+            "count": 277
+          },
+          {
+            "title": "Rondor Music",
+            "value": "Rondor+Music",
+            "count": 174
+          },
+          {
+            "title": "Phonogram",
+            "value": "Phonogram",
+            "count": 143
+          },
+          {
+            "title": "Phonogram Ltd.",
+            "value": "Phonogram+Ltd.",
+            "count": 138
+          },
+          {
+            "title": "Straitjacket Songs",
+            "value": "Straitjacket+Songs",
+            "count": 135
+          },
+          {
+            "title": "Straitjacket Songs Ltd.",
+            "value": "Straitjacket+Songs+Ltd.",
+            "count": 63
+          },
+          {
+            "title": "Phonogram Ltd. (London)",
+            "value": "Phonogram+Ltd.+%28London%29",
+            "count": 61
+          },
+          {
+            "title": "Warner Bros. Records",
+            "value": "Warner+Bros.+Records",
+            "count": 54
+          },
+          {
+            "title": "Mercury Records Ltd.",
+            "value": "Mercury+Records+Ltd.",
+            "count": 44
+          },
+          {
+            "title": "Warner Bros. Records Inc.",
+            "value": "Warner+Bros.+Records+Inc.",
+            "count": 41
+          },
+          {
+            "title": "Hothouse London",
+            "value": "Hothouse+London",
+            "count": 37
+          },
+          {
+            "title": "Rondor Music (London) Ltd.",
+            "value": "Rondor+Music+%28London%29+Ltd.",
+            "count": 33
+          },
+          {
+            "title": "Gateway Mastering",
+            "value": "Gateway+Mastering",
+            "count": 32
+          },
+          {
+            "title": "Dire Straits Remastered",
+            "value": "Dire+Straits+Remastered",
+            "count": 30
+          },
+          {
+            "title": "Mercury",
+            "value": "Mercury",
+            "count": 29
+          },
+          {
+            "title": "Polygram",
+            "value": "Polygram",
+            "count": 29
+          },
+          {
+            "title": "Phonodisc B.V.",
+            "value": "Phonodisc+B.V.",
+            "count": 24
+          },
+          {
+            "title": "Pgp Rtb",
+            "value": "Pgp+Rtb",
+            "count": 19
+          },
+          {
+            "title": "Almo Music Corp.",
+            "value": "Almo+Music+Corp.",
+            "count": 17
+          },
+          {
+            "title": "Polygram Inc.",
+            "value": "Polygram+Inc.",
+            "count": 17
+          },
+          {
+            "title": "Warner Communications",
+            "value": "Warner+Communications",
+            "count": 17
+          },
+          {
+            "title": "Prs Hannover",
+            "value": "Prs+Hannover",
+            "count": 15
+          },
+          {
+            "title": "Philips",
+            "value": "Philips",
+            "count": 14
+          },
+          {
+            "title": "Rtb Records",
+            "value": "Rtb+Records",
+            "count": 14
+          },
+          {
+            "title": "Columbia House",
+            "value": "Columbia+House",
+            "count": 13
+          },
+          {
+            "title": "Phonogram International",
+            "value": "Phonogram+International",
+            "count": 12
+          },
+          {
+            "title": "Almo Music",
+            "value": "Almo+Music",
+            "count": 11
+          },
+          {
+            "title": "Polygram Ib\u00e9rica, S.A.",
+            "value": "Polygram+Ib%C3%A9rica%2C+S.A.",
+            "count": 11
+          },
+          {
+            "title": "Polygram Industries Messageries",
+            "value": "Polygram+Industries+Messageries",
+            "count": 11
+          },
+          {
+            "title": "Strait Jacket Songs",
+            "value": "Strait+Jacket+Songs",
+            "count": 11
+          },
+          {
+            "title": "Phonodisc Ltd.",
+            "value": "Phonodisc+Ltd.",
+            "count": 10
+          },
+          {
+            "title": "Polygram, Hanover, West Germany",
+            "value": "Polygram%2C+Hanover%2C+West+Germany",
+            "count": 10
+          },
+          {
+            "title": "Cinram",
+            "value": "Cinram",
+            "count": 9
+          },
+          {
+            "title": "Gr\u00e1ficas Foco, S.A.",
+            "value": "Gr%C3%A1ficas+Foco%2C+S.A.",
+            "count": 9
+          },
+          {
+            "title": "Mercury Records Ltd. (Uk)",
+            "value": "Mercury+Records+Ltd.+%28Uk%29",
+            "count": 9
+          },
+          {
+            "title": "Phonogram International B.V.",
+            "value": "Phonogram+International+B.V.",
+            "count": 9
+          },
+          {
+            "title": "Pmdc, France",
+            "value": "Pmdc%2C+France",
+            "count": 9
+          },
+          {
+            "title": "Team-Trykk A.S.",
+            "value": "Team-Trykk+A.S.",
+            "count": 9
+          },
+          {
+            "title": "Wea Manufacturing",
+            "value": "Wea+Manufacturing",
+            "count": 9
+          },
+          {
+            "title": "G.P.I. S.A.",
+            "value": "G.P.I.+S.A.",
+            "count": 8
+          },
+          {
+            "title": "Specialty Records Corporation",
+            "value": "Specialty+Records+Corporation",
+            "count": 8
+          },
+          {
+            "title": "Universal Music Llc",
+            "value": "Universal+Music+Llc",
+            "count": 8
+          },
+          {
+            "title": "Warner Bros. Inc.",
+            "value": "Warner+Bros.+Inc.",
+            "count": 8
+          },
+          {
+            "title": "C.I.D.I.S. Louviers",
+            "value": "C.I.D.I.S.+Louviers",
+            "count": 7
+          },
+          {
+            "title": "Capitol Records Pressing Plant, Winchester",
+            "value": "Capitol+Records+Pressing+Plant%2C+Winchester",
+            "count": 7
+          },
+          {
+            "title": "Pdo, Germany",
+            "value": "Pdo%2C+Germany",
+            "count": 7
+          },
+          {
+            "title": "Polygram Distribution Inc.",
+            "value": "Polygram+Distribution+Inc.",
+            "count": 7
+          },
+          {
+            "title": "Prs Ltd.",
+            "value": "Prs+Ltd.",
+            "count": 7
+          },
+          {
+            "title": "Straight Jacket Songs",
+            "value": "Straight+Jacket+Songs",
+            "count": 7
+          },
+          {
+            "title": "Back To Black",
+            "value": "Back+To+Black",
+            "count": 6
+          },
+          {
+            "title": "Copyright Control",
+            "value": "Copyright+Control",
+            "count": 6
+          },
+          {
+            "title": "Euro Star",
+            "value": "Euro+Star",
+            "count": 6
+          },
+          {
+            "title": "Gip \"Beograd\"",
+            "value": "Gip+%22Beograd%22",
+            "count": 6
+          },
+          {
+            "title": "Phonogram Private Limited Malaysia",
+            "value": "Phonogram+Private+Limited+Malaysia",
+            "count": 6
+          },
+          {
+            "title": "Polydor Ltd.",
+            "value": "Polydor+Ltd.",
+            "count": 6
+          },
+          {
+            "title": "Polygram Do Brasil Ltda.",
+            "value": "Polygram+Do+Brasil+Ltda.",
+            "count": 6
+          },
+          {
+            "title": "Polygram Records Ltd., Hong Kong",
+            "value": "Polygram+Records+Ltd.%2C+Hong+Kong",
+            "count": 6
+          },
+          {
+            "title": "Polygram Records Private Limited Singapore",
+            "value": "Polygram+Records+Private+Limited+Singapore",
+            "count": 6
+          },
+          {
+            "title": "Prs Baarn",
+            "value": "Prs+Baarn",
+            "count": 6
+          },
+          {
+            "title": "Universal International",
+            "value": "Universal+International",
+            "count": 6
+          },
+          {
+            "title": "Eurogram, S.A.",
+            "value": "Eurogram%2C+S.A.",
+            "count": 5
+          },
+          {
+            "title": "Fonogram, S.A.",
+            "value": "Fonogram%2C+S.A.",
+            "count": 5
+          },
+          {
+            "title": "London Records Of Canada (1967) Ltd.",
+            "value": "London+Records+Of+Canada+%281967%29+Ltd.",
+            "count": 5
+          },
+          {
+            "title": "Mpo",
+            "value": "Mpo",
+            "count": 5
+          },
+          {
+            "title": "Nippon Phonogram Co., Ltd.",
+            "value": "Nippon+Phonogram+Co.%2C+Ltd.",
+            "count": 5
+          },
+          {
+            "title": "Polygram Records Pty. Limited",
+            "value": "Polygram+Records+Pty.+Limited",
+            "count": 5
+          },
+          {
+            "title": "Sung Eum Limited",
+            "value": "Sung+Eum+Limited",
+            "count": 5
+          },
+          {
+            "title": "Umc",
+            "value": "Umc",
+            "count": 5
+          },
+          {
+            "title": "Fx Copyroom",
+            "value": "Fx+Copyroom",
+            "count": 4
+          },
+          {
+            "title": "Phonogram S.P.A.",
+            "value": "Phonogram+S.P.A.",
+            "count": 4
+          },
+          {
+            "title": "Phonoster",
+            "value": "Phonoster",
+            "count": 4
+          },
+          {
+            "title": "Plaksan A.\u015e.",
+            "value": "Plaksan+A.%C5%9E.",
+            "count": 4
+          },
+          {
+            "title": "Polygram Discos S.A.",
+            "value": "Polygram+Discos+S.A.",
+            "count": 4
+          },
+          {
+            "title": "Polygram Servicios, S.A.",
+            "value": "Polygram+Servicios%2C+S.A.",
+            "count": 4
+          },
+          {
+            "title": "Sericrom Lda.",
+            "value": "Sericrom+Lda.",
+            "count": 4
+          },
+          {
+            "title": "Universal Music K.K.",
+            "value": "Universal+Music+K.K.",
+            "count": 4
+          },
+          {
+            "title": "Universal Music Studios, Tokyo",
+            "value": "Universal+Music+Studios%2C+Tokyo",
+            "count": 4
+          },
+          {
+            "title": "Usm Japan",
+            "value": "Usm+Japan",
+            "count": 4
+          },
+          {
+            "title": "Warner Remasters",
+            "value": "Warner+Remasters",
+            "count": 4
+          },
+          {
+            "title": "C.I.D.I.S.",
+            "value": "C.I.D.I.S.",
+            "count": 3
+          },
+          {
+            "title": "Capitol Records Pressing Plant, Jacksonville",
+            "value": "Capitol+Records+Pressing+Plant%2C+Jacksonville",
+            "count": 3
+          },
+          {
+            "title": "Capitol Records Pressing Plant, Los Angeles",
+            "value": "Capitol+Records+Pressing+Plant%2C+Los+Angeles",
+            "count": 3
+          },
+          {
+            "title": "Cbs Records, Artarmon",
+            "value": "Cbs+Records%2C+Artarmon",
+            "count": 3
+          },
+          {
+            "title": "Cofasa",
+            "value": "Cofasa",
+            "count": 3
+          },
+          {
+            "title": "Disques Snb Lt\u00e9e.",
+            "value": "Disques+Snb+Lt%C3%A9e.",
+            "count": 3
+          },
+          {
+            "title": "Dyna Products, Inc.",
+            "value": "Dyna+Products%2C+Inc.",
+            "count": 3
+          },
+          {
+            "title": "Foco, S. A.",
+            "value": "Foco%2C+S.+A.",
+            "count": 3
+          },
+          {
+            "title": "Fonobr\u00e1s, Distribuidora Fonogr\u00e1fica Brasileira Ltda.",
+            "value": "Fonobr%C3%A1s%2C+Distribuidora+Fonogr%C3%A1fica+Brasileira+Ltda.",
+            "count": 3
+          },
+          {
+            "title": "Imprimerie Jat",
+            "value": "Imprimerie+Jat",
+            "count": 3
+          },
+          {
+            "title": "Ministry Of Culture & Information No. 3",
+            "value": "Ministry+Of+Culture+%26+Information+No.+3",
+            "count": 3
+          },
+          {
+            "title": "Musikkindustri A/S",
+            "value": "Musikkindustri+A%2FS",
+            "count": 3
+          },
+          {
+            "title": "Phonokol Ltd.",
+            "value": "Phonokol+Ltd.",
+            "count": 3
+          },
+          {
+            "title": "Polygram Discos Ltda.",
+            "value": "Polygram+Discos+Ltda.",
+            "count": 3
+          },
+          {
+            "title": "Polygram Discos Sarl",
+            "value": "Polygram+Discos+Sarl",
+            "count": 3
+          },
+          {
+            "title": "Polygram Discos, S.A. De C.V.",
+            "value": "Polygram+Discos%2C+S.A.+De+C.V.",
+            "count": 3
+          },
+          {
+            "title": "Polygram Group Canada Inc.",
+            "value": "Polygram+Group+Canada+Inc.",
+            "count": 3
+          },
+          {
+            "title": "Prs Ges.Mbh",
+            "value": "Prs+Ges.Mbh",
+            "count": 3
+          },
+          {
+            "title": "Quality Records Limited",
+            "value": "Quality+Records+Limited",
+            "count": 3
+          },
+          {
+            "title": "Rca Music Service",
+            "value": "Rca+Music+Service",
+            "count": 3
+          },
+          {
+            "title": "Rosenborg Studio",
+            "value": "Rosenborg+Studio",
+            "count": 3
+          },
+          {
+            "title": "Takt Music",
+            "value": "Takt+Music",
+            "count": 3
+          },
+          {
+            "title": "Ukrainian Distribution",
+            "value": "Ukrainian+Distribution",
+            "count": 3
+          },
+          {
+            "title": "Victor Company Of Japan, Ltd. Media Company",
+            "value": "Victor+Company+Of+Japan%2C+Ltd.+Media+Company",
+            "count": 3
+          },
+          {
+            "title": "Warner Music Group",
+            "value": "Warner+Music+Group",
+            "count": 3
+          },
+          {
+            "title": "Warner Records",
+            "value": "Warner+Records",
+            "count": 3
+          },
+          {
+            "title": "Warner Records Inc.",
+            "value": "Warner+Records+Inc.",
+            "count": 3
+          },
+          {
+            "title": "\u0391\u03b4\u03b5\u03bb\u03c6\u03bf\u03af \u039d. \u03a0\u03b9\u03c4\u03c3\u03b9\u03bb\u03bf\u03cd \u039f.\u0395.",
+            "value": "%CE%91%CE%B4%CE%B5%CE%BB%CF%86%CE%BF%CE%AF+%CE%9D.+%CE%A0%CE%B9%CF%84%CF%83%CE%B9%CE%BB%CE%BF%CF%8D+%CE%9F.%CE%95.",
+            "count": 3
+          },
+          {
+            "title": "Belmont Printers",
+            "value": "Belmont+Printers",
+            "count": 2
+          },
+          {
+            "title": "Bernie Grundman Mastering",
+            "value": "Bernie+Grundman+Mastering",
+            "count": 2
+          },
+          {
+            "title": "Bmg Direct Marketing, Inc.",
+            "value": "Bmg+Direct+Marketing%2C+Inc.",
+            "count": 2
+          },
+          {
+            "title": "Carlton Productions",
+            "value": "Carlton+Productions",
+            "count": 2
+          },
+          {
+            "title": "Chariscourt Ltd.",
+            "value": "Chariscourt+Ltd.",
+            "count": 2
+          },
+          {
+            "title": "Cinram, Olyphant, Pa",
+            "value": "Cinram%2C+Olyphant%2C+Pa",
+            "count": 2
+          },
+          {
+            "title": "Columbia Records Pressing Plant, Carrollton, Ga",
+            "value": "Columbia+Records+Pressing+Plant%2C+Carrollton%2C+Ga",
+            "count": 2
+          },
+          {
+            "title": "Dire Straits Shm-Cd Paper Jacket Collection",
+            "value": "Dire+Straits+Shm-Cd+Paper+Jacket+Collection",
+            "count": 2
+          },
+          {
+            "title": "Elbo",
+            "value": "Elbo",
+            "count": 2
+          },
+          {
+            "title": "Foot Print",
+            "value": "Foot+Print",
+            "count": 2
+          },
+          {
+            "title": "Fotomecanica Coracolor, S.A.",
+            "value": "Fotomecanica+Coracolor%2C+S.A.",
+            "count": 2
+          },
+          {
+            "title": "Grafica Centonze",
+            "value": "Grafica+Centonze",
+            "count": 2
+          },
+          {
+            "title": "High Stereo",
+            "value": "High+Stereo",
+            "count": 2
+          },
+          {
+            "title": "High Stereo Light",
+            "value": "High+Stereo+Light",
+            "count": 2
+          },
+          {
+            "title": "Hofmanndruck",
+            "value": "Hofmanndruck",
+            "count": 2
+          },
+          {
+            "title": "Hothouse",
+            "value": "Hothouse",
+            "count": 2
+          },
+          {
+            "title": "Imd",
+            "value": "Imd",
+            "count": 2
+          },
+          {
+            "title": "Imp. Polygram",
+            "value": "Imp.+Polygram",
+            "count": 2
+          },
+          {
+            "title": "Imprimerie Jat, Saint-Quentin",
+            "value": "Imprimerie+Jat%2C+Saint-Quentin",
+            "count": 2
+          },
+          {
+            "title": "Mobile Fidelity Sound Lab",
+            "value": "Mobile+Fidelity+Sound+Lab",
+            "count": 2
+          },
+          {
+            "title": "Mobile Fidelity Sound Lab, Inc.",
+            "value": "Mobile+Fidelity+Sound+Lab%2C+Inc.",
+            "count": 2
+          },
+          {
+            "title": "Montreuil Offset",
+            "value": "Montreuil+Offset",
+            "count": 2
+          },
+          {
+            "title": "Music Giants",
+            "value": "Music+Giants",
+            "count": 2
+          },
+          {
+            "title": "My Generation, My Music",
+            "value": "My+Generation%2C+My+Music",
+            "count": 2
+          },
+          {
+            "title": "New Star Record",
+            "value": "New+Star+Record",
+            "count": 2
+          },
+          {
+            "title": "Original Master Recording",
+            "value": "Original+Master+Recording",
+            "count": 2
+          },
+          {
+            "title": "Phonodisc Gesmbh",
+            "value": "Phonodisc+Gesmbh",
+            "count": 2
+          },
+          {
+            "title": "Pmdc, Germany",
+            "value": "Pmdc%2C+Germany",
+            "count": 2
+          },
+          {
+            "title": "Polygram Dischi S.P.A.",
+            "value": "Polygram+Dischi+S.P.A.",
+            "count": 2
+          },
+          {
+            "title": "Polygram Discos, S.A.",
+            "value": "Polygram+Discos%2C+S.A.",
+            "count": 2
+          },
+          {
+            "title": "Polygram International Music B.V.",
+            "value": "Polygram+International+Music+B.V.",
+            "count": 2
+          },
+          {
+            "title": "Polygram Records",
+            "value": "Polygram+Records",
+            "count": 2
+          },
+          {
+            "title": "Polygram Records Limited",
+            "value": "Polygram+Records+Limited",
+            "count": 2
+          },
+          {
+            "title": "Prs, Louviers",
+            "value": "Prs%2C+Louviers",
+            "count": 2
+          },
+          {
+            "title": "Pyramid",
+            "value": "Pyramid",
+            "count": 2
+          },
+          {
+            "title": "Rca Limited (Suc. Argentina)",
+            "value": "Rca+Limited+%28Suc.+Argentina%29",
+            "count": 2
+          },
+          {
+            "title": "Rhino Entertainment Company",
+            "value": "Rhino+Entertainment+Company",
+            "count": 2
+          },
+          {
+            "title": "Rondor Music Pty. Ltd.",
+            "value": "Rondor+Music+Pty.+Ltd.",
+            "count": 2
+          },
+          {
+            "title": "Sanyo Japan",
+            "value": "Sanyo+Japan",
+            "count": 2
+          },
+          {
+            "title": "Sawiton",
+            "value": "Sawiton",
+            "count": 2
+          },
+          {
+            "title": "Sonopress",
+            "value": "Sonopress",
+            "count": 2
+          },
+          {
+            "title": "Sony Dadc",
+            "value": "Sony+Dadc",
+            "count": 2
+          },
+          {
+            "title": "Time Warner",
+            "value": "Time+Warner",
+            "count": 2
+          },
+          {
+            "title": "Ukrainian Records",
+            "value": "Ukrainian+Records",
+            "count": 2
+          },
+          {
+            "title": "Universal",
+            "value": "Universal",
+            "count": 2
+          },
+          {
+            "title": "Universal Music",
+            "value": "Universal+Music",
+            "count": 2
+          },
+          {
+            "title": "Victor Creative Media",
+            "value": "Victor+Creative+Media",
+            "count": 2
+          },
+          {
+            "title": "Wea Mfg. Olyphant",
+            "value": "Wea+Mfg.+Olyphant",
+            "count": 2
+          },
+          {
+            "title": "Yonca Plak Ve Kaset",
+            "value": "Yonca+Plak+Ve+Kaset",
+            "count": 2
+          },
+          {
+            "title": "\"El Virrey\" Industrias Musicales S.A.",
+            "value": "%22El+Virrey%22+Industrias+Musicales+S.A.",
+            "count": 1
+          },
+          {
+            "title": "100% Pure Lp",
+            "value": "100%25+Pure+Lp",
+            "count": 1
+          },
+          {
+            "title": "747",
+            "value": "747",
+            "count": 1
+          },
+          {
+            "title": "Abcd Music",
+            "value": "Abcd+Music",
+            "count": 1
+          },
+          {
+            "title": "Allied Record Company",
+            "value": "Allied+Record+Company",
+            "count": 1
+          },
+          {
+            "title": "Artone",
+            "value": "Artone",
+            "count": 1
+          },
+          {
+            "title": "Arvato",
+            "value": "Arvato",
+            "count": 1
+          },
+          {
+            "title": "As (Rinc\u00f3n 387)",
+            "value": "As+%28Rinc%C3%B3n+387%29",
+            "count": 1
+          },
+          {
+            "title": "Audio Max",
+            "value": "Audio+Max",
+            "count": 1
+          },
+          {
+            "title": "Audio One",
+            "value": "Audio+One",
+            "count": 1
+          },
+          {
+            "title": "Balet Plak Ve M\u00fczikaset Ticaret",
+            "value": "Balet+Plak+Ve+M%C3%BCzikaset+Ticaret",
+            "count": 1
+          },
+          {
+            "title": "Because Sound Matters",
+            "value": "Because+Sound+Matters",
+            "count": 1
+          },
+          {
+            "title": "Bertelsmann Club",
+            "value": "Bertelsmann+Club",
+            "count": 1
+          },
+          {
+            "title": "Bmg Direct Ltd.",
+            "value": "Bmg+Direct+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Cassette Magazine Records",
+            "value": "Cassette+Magazine+Records",
+            "count": 1
+          },
+          {
+            "title": "Cdt Berlin",
+            "value": "Cdt+Berlin",
+            "count": 1
+          },
+          {
+            "title": "Chappell & Co. Ltd.",
+            "value": "Chappell+%26+Co.+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Cherry Series",
+            "value": "Cherry+Series",
+            "count": 1
+          },
+          {
+            "title": "Columbia House Canada",
+            "value": "Columbia+House+Canada",
+            "count": 1
+          },
+          {
+            "title": "Columbia Records Pressing Plant, Don Mills, On",
+            "value": "Columbia+Records+Pressing+Plant%2C+Don+Mills%2C+On",
+            "count": 1
+          },
+          {
+            "title": "Columbia Records Pressing Plant, Santa Maria",
+            "value": "Columbia+Records+Pressing+Plant%2C+Santa+Maria",
+            "count": 1
+          },
+          {
+            "title": "Columbia Records Pressing Plant, Terre Haute",
+            "value": "Columbia+Records+Pressing+Plant%2C+Terre+Haute",
+            "count": 1
+          },
+          {
+            "title": "Ct",
+            "value": "Ct",
+            "count": 1
+          },
+          {
+            "title": "Curve Pusher",
+            "value": "Curve+Pusher",
+            "count": 1
+          },
+          {
+            "title": "Dadc",
+            "value": "Dadc",
+            "count": 1
+          },
+          {
+            "title": "Decibel Trading Srl",
+            "value": "Decibel+Trading+Srl",
+            "count": 1
+          },
+          {
+            "title": "Delta",
+            "value": "Delta",
+            "count": 1
+          },
+          {
+            "title": "Dideca",
+            "value": "Dideca",
+            "count": 1
+          },
+          {
+            "title": "Digital Audio Disc Corp.",
+            "value": "Digital+Audio+Disc+Corp.",
+            "count": 1
+          },
+          {
+            "title": "Digital Record",
+            "value": "Digital+Record",
+            "count": 1
+          },
+          {
+            "title": "Dire Straits - The Complete Collection",
+            "value": "Dire+Straits+-+The+Complete+Collection",
+            "count": 1
+          },
+          {
+            "title": "Dire Straits Re-Master Collection",
+            "value": "Dire+Straits+Re-Master+Collection",
+            "count": 1
+          },
+          {
+            "title": "Dire Straits Studio Collection",
+            "value": "Dire+Straits+Studio+Collection",
+            "count": 1
+          },
+          {
+            "title": "Discos De Centroam\u00e9rica, S.A.",
+            "value": "Discos+De+Centroam%C3%A9rica%2C+S.A.",
+            "count": 1
+          },
+          {
+            "title": "Discos Philips",
+            "value": "Discos+Philips",
+            "count": 1
+          },
+          {
+            "title": "Discos Philips Colombia",
+            "value": "Discos+Philips+Colombia",
+            "count": 1
+          },
+          {
+            "title": "Disctronics B",
+            "value": "Disctronics+B",
+            "count": 1
+          },
+          {
+            "title": "Disctronics, Uk",
+            "value": "Disctronics%2C+Uk",
+            "count": 1
+          },
+          {
+            "title": "Disque Americ",
+            "value": "Disque+Americ",
+            "count": 1
+          },
+          {
+            "title": "Dvc",
+            "value": "Dvc",
+            "count": 1
+          },
+          {
+            "title": "Dyna Pressing Plant, Caloocan City",
+            "value": "Dyna+Pressing+Plant%2C+Caloocan+City",
+            "count": 1
+          },
+          {
+            "title": "E.T.",
+            "value": "E.T.",
+            "count": 1
+          },
+          {
+            "title": "Edc, Germany",
+            "value": "Edc%2C+Germany",
+            "count": 1
+          },
+          {
+            "title": "Edisa",
+            "value": "Edisa",
+            "count": 1
+          },
+          {
+            "title": "Emi Records",
+            "value": "Emi+Records",
+            "count": 1
+          },
+          {
+            "title": "Estr\u00e9ia",
+            "value": "Estr%C3%A9ia",
+            "count": 1
+          },
+          {
+            "title": "Euro Studio",
+            "value": "Euro+Studio",
+            "count": 1
+          },
+          {
+            "title": "Eurostar Ltd.",
+            "value": "Eurostar+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Fann",
+            "value": "Fann",
+            "count": 1
+          },
+          {
+            "title": "Gain 2\u2122 Ultra Analog 45Rpm 180G Series",
+            "value": "Gain+2%E2%84%A2+Ultra+Analog+45Rpm+180G+Series",
+            "count": 1
+          },
+          {
+            "title": "Grafica Pozzoli S.P.A.",
+            "value": "Grafica+Pozzoli+S.P.A.",
+            "count": 1
+          },
+          {
+            "title": "Gramofonov\u00e9 Z\u00e1vody",
+            "value": "Gramofonov%C3%A9+Z%C3%A1vody",
+            "count": 1
+          },
+          {
+            "title": "Gruppo Editoriale L'Espresso S.P.A.",
+            "value": "Gruppo+Editoriale+L%27Espresso+S.P.A.",
+            "count": 1
+          },
+          {
+            "title": "Gz Digital Media",
+            "value": "Gz+Digital+Media",
+            "count": 1
+          },
+          {
+            "title": "Gz Media",
+            "value": "Gz+Media",
+            "count": 1
+          },
+          {
+            "title": "Helicon Records",
+            "value": "Helicon+Records",
+            "count": 1
+          },
+          {
+            "title": "Intergr\u00e1ficas Ltda.",
+            "value": "Intergr%C3%A1ficas+Ltda.",
+            "count": 1
+          },
+          {
+            "title": "Interpak",
+            "value": "Interpak",
+            "count": 1
+          },
+          {
+            "title": "Jam",
+            "value": "Jam",
+            "count": 1
+          },
+          {
+            "title": "King Sound Co. Ltd Taiwan",
+            "value": "King+Sound+Co.+Ltd+Taiwan",
+            "count": 1
+          },
+          {
+            "title": "La Musica Di Repubblica - L'Espresso",
+            "value": "La+Musica+Di+Repubblica+-+L%27Espresso",
+            "count": 1
+          },
+          {
+            "title": "Litratone Ltd.",
+            "value": "Litratone+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "M.P.A.",
+            "value": "M.P.A.",
+            "count": 1
+          },
+          {
+            "title": "Mag Magic",
+            "value": "Mag+Magic",
+            "count": 1
+          },
+          {
+            "title": "Mc",
+            "value": "Mc",
+            "count": 1
+          },
+          {
+            "title": "Memory-Tech",
+            "value": "Memory-Tech",
+            "count": 1
+          },
+          {
+            "title": "Mercury Music Entertainment Co., Ltd.",
+            "value": "Mercury+Music+Entertainment+Co.%2C+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Mg Records",
+            "value": "Mg+Records",
+            "count": 1
+          },
+          {
+            "title": "Microservice",
+            "value": "Microservice",
+            "count": 1
+          },
+          {
+            "title": "Microservice - Microfilmagens E Reprodu\u00e7\u00f5es T\u00e9cnicas Da Amaz\u00f4nia Ltda.",
+            "value": "Microservice+-+Microfilmagens+E+Reprodu%C3%A7%C3%B5es+T%C3%A9cnicas+Da+Amaz%C3%B4nia+Ltda.",
+            "count": 1
+          },
+          {
+            "title": "Microservice - Microfilmagens E Reprodu\u00e7\u00f5es T\u00e9cnicas Ltda.",
+            "value": "Microservice+-+Microfilmagens+E+Reprodu%C3%A7%C3%B5es+T%C3%A9cnicas+Ltda.",
+            "count": 1
+          },
+          {
+            "title": "Monarch Record Mfg. Co.",
+            "value": "Monarch+Record+Mfg.+Co.",
+            "count": 1
+          },
+          {
+            "title": "Music Carriers (Nz) Ltd.",
+            "value": "Music+Carriers+%28Nz%29+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "My Generation, My Music - Back To The Rock Years 1978-1982",
+            "value": "My+Generation%2C+My+Music+-+Back+To+The+Rock+Years+1978-1982",
+            "count": 1
+          },
+          {
+            "title": "New Horizon",
+            "value": "New+Horizon",
+            "count": 1
+          },
+          {
+            "title": "New Jen Sheng",
+            "value": "New+Jen+Sheng",
+            "count": 1
+          },
+          {
+            "title": "Not On Label",
+            "value": "Not+On+Label",
+            "count": 1
+          },
+          {
+            "title": "Not On Label (Dire Straits)",
+            "value": "Not+On+Label+%28Dire+Straits%29",
+            "count": 1
+          },
+          {
+            "title": "Oditec",
+            "value": "Oditec",
+            "count": 1
+          },
+          {
+            "title": "Optimal Media Gmbh",
+            "value": "Optimal+Media+Gmbh",
+            "count": 1
+          },
+          {
+            "title": "Original",
+            "value": "Original",
+            "count": 1
+          },
+          {
+            "title": "Pallas",
+            "value": "Pallas",
+            "count": 1
+          },
+          {
+            "title": "Pdo, France",
+            "value": "Pdo%2C+France",
+            "count": 1
+          },
+          {
+            "title": "Pdo, Usa",
+            "value": "Pdo%2C+Usa",
+            "count": 1
+          },
+          {
+            "title": "Philips Chilena S.A.",
+            "value": "Philips+Chilena+S.A.",
+            "count": 1
+          },
+          {
+            "title": "Philips Del Uruguay S.A.",
+            "value": "Philips+Del+Uruguay+S.A.",
+            "count": 1
+          },
+          {
+            "title": "Philips Phonografische Industrie",
+            "value": "Philips+Phonografische+Industrie",
+            "count": 1
+          },
+          {
+            "title": "Phonogram S.A.I.C.",
+            "value": "Phonogram+S.A.I.C.",
+            "count": 1
+          },
+          {
+            "title": "Plus Gold",
+            "value": "Plus+Gold",
+            "count": 1
+          },
+          {
+            "title": "Pmdc, Uk",
+            "value": "Pmdc%2C+Uk",
+            "count": 1
+          },
+          {
+            "title": "Pmi",
+            "value": "Pmi",
+            "count": 1
+          },
+          {
+            "title": "Poker Sound",
+            "value": "Poker+Sound",
+            "count": 1
+          },
+          {
+            "title": "Polydor International Gmbh",
+            "value": "Polydor+International+Gmbh",
+            "count": 1
+          },
+          {
+            "title": "Polydor Of India Ltd.",
+            "value": "Polydor+Of+India+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Polydor S.A.",
+            "value": "Polydor+S.A.",
+            "count": 1
+          },
+          {
+            "title": "Polygram Distribution",
+            "value": "Polygram+Distribution",
+            "count": 1
+          },
+          {
+            "title": "Polygram Inc. Canada",
+            "value": "Polygram+Inc.+Canada",
+            "count": 1
+          },
+          {
+            "title": "Polygram Int'L Music B.V.",
+            "value": "Polygram+Int%27L+Music+B.V.",
+            "count": 1
+          },
+          {
+            "title": "Polygram K.K.",
+            "value": "Polygram+K.K.",
+            "count": 1
+          },
+          {
+            "title": "Polygram Polska",
+            "value": "Polygram+Polska",
+            "count": 1
+          },
+          {
+            "title": "Pop M\u00fczik",
+            "value": "Pop+M%C3%BCzik",
+            "count": 1
+          },
+          {
+            "title": "Printwell",
+            "value": "Printwell",
+            "count": 1
+          },
+          {
+            "title": "Pt. Suara Sentral Sejati",
+            "value": "Pt.+Suara+Sentral+Sejati",
+            "count": 1
+          },
+          {
+            "title": "Raks M\u00fczik",
+            "value": "Raks+M%C3%BCzik",
+            "count": 1
+          },
+          {
+            "title": "Raks M\u00fczik Yap\u0131m San. Ve Tic. A.\u015e.",
+            "value": "Raks+M%C3%BCzik+Yap%C4%B1m+San.+Ve+Tic.+A.%C5%9E.",
+            "count": 1
+          },
+          {
+            "title": "Record Technology Incorporated",
+            "value": "Record+Technology+Incorporated",
+            "count": 1
+          },
+          {
+            "title": "Rhino Records",
+            "value": "Rhino+Records",
+            "count": 1
+          },
+          {
+            "title": "Rock Music Records Co. Ltd",
+            "value": "Rock+Music+Records+Co.+Ltd",
+            "count": 1
+          },
+          {
+            "title": "Rock Records & Tapes",
+            "value": "Rock+Records+%26+Tapes",
+            "count": 1
+          },
+          {
+            "title": "Rondor Music (Australia) Pty Ltd",
+            "value": "Rondor+Music+%28Australia%29+Pty+Ltd",
+            "count": 1
+          },
+          {
+            "title": "Rondor Music International, Inc.",
+            "value": "Rondor+Music+International%2C+Inc.",
+            "count": 1
+          },
+          {
+            "title": "Rota",
+            "value": "Rota",
+            "count": 1
+          },
+          {
+            "title": "S180 Series",
+            "value": "S180+Series",
+            "count": 1
+          },
+          {
+            "title": "Schallplattenfabrik Pallas Gmbh",
+            "value": "Schallplattenfabrik+Pallas+Gmbh",
+            "count": 1
+          },
+          {
+            "title": "Sem Gramophone",
+            "value": "Sem+Gramophone",
+            "count": 1
+          },
+          {
+            "title": "Servicios Ib\u00e9ricos Entertainment, S.A.",
+            "value": "Servicios+Ib%C3%A9ricos+Entertainment%2C+S.A.",
+            "count": 1
+          },
+          {
+            "title": "Siegfried",
+            "value": "Siegfried",
+            "count": 1
+          },
+          {
+            "title": "Simply Vinyl",
+            "value": "Simply+Vinyl",
+            "count": 1
+          },
+          {
+            "title": "Skc",
+            "value": "Skc",
+            "count": 1
+          },
+          {
+            "title": "Sma",
+            "value": "Sma",
+            "count": 1
+          },
+          {
+            "title": "Sony Dadc Australia",
+            "value": "Sony+Dadc+Australia",
+            "count": 1
+          },
+          {
+            "title": "Sony Dadc Japan",
+            "value": "Sony+Dadc+Japan",
+            "count": 1
+          },
+          {
+            "title": "Spc Records",
+            "value": "Spc+Records",
+            "count": 1
+          },
+          {
+            "title": "Ssd",
+            "value": "Ssd",
+            "count": 1
+          },
+          {
+            "title": "Strawberry Mastering",
+            "value": "Strawberry+Mastering",
+            "count": 1
+          },
+          {
+            "title": "Strawberry Mastering (Uk) Ltd",
+            "value": "Strawberry+Mastering+%28Uk%29+Ltd",
+            "count": 1
+          },
+          {
+            "title": "Studio Max",
+            "value": "Studio+Max",
+            "count": 1
+          },
+          {
+            "title": "Super Price",
+            "value": "Super+Price",
+            "count": 1
+          },
+          {
+            "title": "Supraphon",
+            "value": "Supraphon",
+            "count": 1
+          },
+          {
+            "title": "Symbol",
+            "value": "Symbol",
+            "count": 1
+          },
+          {
+            "title": "Takt Direct",
+            "value": "Takt+Direct",
+            "count": 1
+          },
+          {
+            "title": "Technicolor, Guadalajara, Mexico",
+            "value": "Technicolor%2C+Guadalajara%2C+Mexico",
+            "count": 1
+          },
+          {
+            "title": "Technicolor, Olyphant, Pa",
+            "value": "Technicolor%2C+Olyphant%2C+Pa",
+            "count": 1
+          },
+          {
+            "title": "Teltron",
+            "value": "Teltron",
+            "count": 1
+          },
+          {
+            "title": "The Big Comeback : \u03a4\u03b1 \u039c\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u039f\u03bd\u03cc\u03bc\u03b1\u03c4\u03b1 \u03a4\u03b7\u03c2 \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03b1\u03c2 \u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u03a3\u03ba\u03b7\u03bd\u03ae\u03c2",
+            "value": "The+Big+Comeback+%3A+%CE%A4%CE%B1+%CE%9C%CE%B5%CE%B3%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B1+%CE%9F%CE%BD%CF%8C%CE%BC%CE%B1%CF%84%CE%B1+%CE%A4%CE%B7%CF%82+%CE%A0%CE%B1%CE%B3%CE%BA%CF%8C%CF%83%CE%BC%CE%B9%CE%B1%CF%82+%CE%9C%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE%CF%82+%CE%A3%CE%BA%CE%B7%CE%BD%CE%AE%CF%82",
+            "count": 1
+          },
+          {
+            "title": "The Studio Albums 1978-1991",
+            "value": "The+Studio+Albums+1978-1991",
+            "count": 1
+          },
+          {
+            "title": "Thomsun Original",
+            "value": "Thomsun+Original",
+            "count": 1
+          },
+          {
+            "title": "Trutone",
+            "value": "Trutone",
+            "count": 1
+          },
+          {
+            "title": "Uep-Cd",
+            "value": "Uep-Cd",
+            "count": 1
+          },
+          {
+            "title": "Ultradisc Uhr",
+            "value": "Ultradisc+Uhr",
+            "count": 1
+          },
+          {
+            "title": "Um\u00b3/Usm Japan",
+            "value": "Um%C2%B3%2FUsm+Japan",
+            "count": 1
+          },
+          {
+            "title": "Universal International Music B.V.",
+            "value": "Universal+International+Music+B.V.",
+            "count": 1
+          },
+          {
+            "title": "Universal M & L, France",
+            "value": "Universal+M+%26+L%2C+France",
+            "count": 1
+          },
+          {
+            "title": "Universal M & L, Germany",
+            "value": "Universal+M+%26+L%2C+Germany",
+            "count": 1
+          },
+          {
+            "title": "Universal M & L, Uk",
+            "value": "Universal+M+%26+L%2C+Uk",
+            "count": 1
+          },
+          {
+            "title": "Universal Mastering Studios, Japan",
+            "value": "Universal+Mastering+Studios%2C+Japan",
+            "count": 1
+          },
+          {
+            "title": "Universal Music Australia",
+            "value": "Universal+Music+Australia",
+            "count": 1
+          },
+          {
+            "title": "Universal Music Operations Ltd.",
+            "value": "Universal+Music+Operations+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Universal Music Publishing Ltd.",
+            "value": "Universal+Music+Publishing+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Universal Strategic Marketing Japan",
+            "value": "Universal+Strategic+Marketing+Japan",
+            "count": 1
+          },
+          {
+            "title": "Veb Deutsche Schallplatten Berlin",
+            "value": "Veb+Deutsche+Schallplatten+Berlin",
+            "count": 1
+          },
+          {
+            "title": "Vertigo Classics Super Price",
+            "value": "Vertigo+Classics+Super+Price",
+            "count": 1
+          },
+          {
+            "title": "Warner Bros.",
+            "value": "Warner+Bros.",
+            "count": 1
+          },
+          {
+            "title": "Wea Mfg. Commerce",
+            "value": "Wea+Mfg.+Commerce",
+            "count": 1
+          },
+          {
+            "title": "Yalu",
+            "value": "Yalu",
+            "count": 1
+          },
+          {
+            "title": "Yonca Music International",
+            "value": "Yonca+Music+International",
+            "count": 1
+          },
+          {
+            "title": "Zimbabwe Music Corporation",
+            "value": "Zimbabwe+Music+Corporation",
+            "count": 1
+          },
+          {
+            "title": "\u0397 \u039a\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae",
+            "value": "%CE%97+%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE",
+            "count": 1
+          },
+          {
+            "title": "\u0417\u0430\u043e \"\u042e\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b \u041c\u044c\u044e\u0437\u0438\u043a\"",
+            "value": "%D0%97%D0%B0%D0%BE+%22%D0%AE%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB+%D0%9C%D1%8C%D1%8E%D0%B7%D0%B8%D0%BA%22",
+            "count": 1
+          },
+          {
+            "title": "\u0422\u043e\u0432 \"\u0420\u043e\u0441\u0442\u043e\u043a-\u0421\u0434\"",
+            "value": "%D0%A2%D0%BE%D0%B2+%22%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%BA-%D0%A1%D0%B4%22",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": true
+      },
+      {
+        "title": "Country",
+        "id": "country",
+        "values": [
+          {
+            "title": "Europe",
+            "value": "Europe",
+            "count": 59
+          },
+          {
+            "title": "US",
+            "value": "US",
+            "count": 59
+          },
+          {
+            "title": "Canada",
+            "value": "Canada",
+            "count": 30
+          },
+          {
+            "title": "UK",
+            "value": "UK",
+            "count": 25
+          },
+          {
+            "title": "Poland",
+            "value": "Poland",
+            "count": 23
+          },
+          {
+            "title": "Japan",
+            "value": "Japan",
+            "count": 21
+          },
+          {
+            "title": "Netherlands",
+            "value": "Netherlands",
+            "count": 19
+          },
+          {
+            "title": "Germany",
+            "value": "Germany",
+            "count": 18
+          },
+          {
+            "title": "Yugoslavia",
+            "value": "Yugoslavia",
+            "count": 18
+          },
+          {
+            "title": "Spain",
+            "value": "Spain",
+            "count": 17
+          },
+          {
+            "title": "France",
+            "value": "France",
+            "count": 12
+          },
+          {
+            "title": "Italy",
+            "value": "Italy",
+            "count": 12
+          },
+          {
+            "title": "Greece",
+            "value": "Greece",
+            "count": 11
+          },
+          {
+            "title": "South Korea",
+            "value": "South+Korea",
+            "count": 11
+          },
+          {
+            "title": "Brazil",
+            "value": "Brazil",
+            "count": 10
+          },
+          {
+            "title": "Australasia",
+            "value": "Australasia",
+            "count": 8
+          },
+          {
+            "title": "Russia",
+            "value": "Russia",
+            "count": 8
+          },
+          {
+            "title": "Scandinavia",
+            "value": "Scandinavia",
+            "count": 8
+          },
+          {
+            "title": "Australia",
+            "value": "Australia",
+            "count": 7
+          },
+          {
+            "title": "Singapore, Malaysia & Hong Kong",
+            "value": "Singapore%2C+Malaysia+%26+Hong+Kong",
+            "count": 7
+          },
+          {
+            "title": "Argentina",
+            "value": "Argentina",
+            "count": 6
+          },
+          {
+            "title": "Portugal",
+            "value": "Portugal",
+            "count": 6
+          },
+          {
+            "title": "Saudi Arabia",
+            "value": "Saudi+Arabia",
+            "count": 6
+          },
+          {
+            "title": "South Africa",
+            "value": "South+Africa",
+            "count": 6
+          },
+          {
+            "title": "Taiwan",
+            "value": "Taiwan",
+            "count": 6
+          },
+          {
+            "title": "Turkey",
+            "value": "Turkey",
+            "count": 6
+          },
+          {
+            "title": "Unknown",
+            "value": "Unknown",
+            "count": 6
+          },
+          {
+            "title": "Israel",
+            "value": "Israel",
+            "count": 5
+          },
+          {
+            "title": "Ukraine",
+            "value": "Ukraine",
+            "count": 5
+          },
+          {
+            "title": "Austria",
+            "value": "Austria",
+            "count": 4
+          },
+          {
+            "title": "Ireland",
+            "value": "Ireland",
+            "count": 3
+          },
+          {
+            "title": "Mexico",
+            "value": "Mexico",
+            "count": 3
+          },
+          {
+            "title": "New Zealand",
+            "value": "New+Zealand",
+            "count": 3
+          },
+          {
+            "title": "Philippines",
+            "value": "Philippines",
+            "count": 3
+          },
+          {
+            "title": "Czechoslovakia",
+            "value": "Czechoslovakia",
+            "count": 2
+          },
+          {
+            "title": "Malaysia",
+            "value": "Malaysia",
+            "count": 2
+          },
+          {
+            "title": "Rhodesia",
+            "value": "Rhodesia",
+            "count": 2
+          },
+          {
+            "title": "Thailand",
+            "value": "Thailand",
+            "count": 2
+          },
+          {
+            "title": "Asia",
+            "value": "Asia",
+            "count": 1
+          },
+          {
+            "title": "Chile",
+            "value": "Chile",
+            "count": 1
+          },
+          {
+            "title": "China",
+            "value": "China",
+            "count": 1
+          },
+          {
+            "title": "Colombia",
+            "value": "Colombia",
+            "count": 1
+          },
+          {
+            "title": "German Democratic Republic (GDR)",
+            "value": "German+Democratic+Republic+%28GDR%29",
+            "count": 1
+          },
+          {
+            "title": "Guatemala",
+            "value": "Guatemala",
+            "count": 1
+          },
+          {
+            "title": "India",
+            "value": "India",
+            "count": 1
+          },
+          {
+            "title": "Indonesia",
+            "value": "Indonesia",
+            "count": 1
+          },
+          {
+            "title": "Peru",
+            "value": "Peru",
+            "count": 1
+          },
+          {
+            "title": "Romania",
+            "value": "Romania",
+            "count": 1
+          },
+          {
+            "title": "Syria",
+            "value": "Syria",
+            "count": 1
+          },
+          {
+            "title": "UK & Europe",
+            "value": "UK+%26+Europe",
+            "count": 1
+          },
+          {
+            "title": "Uruguay",
+            "value": "Uruguay",
+            "count": 1
+          },
+          {
+            "title": "Venezuela",
+            "value": "Venezuela",
+            "count": 1
+          },
+          {
+            "title": "Zimbabwe",
+            "value": "Zimbabwe",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": true
+      },
+      {
+        "title": "Released",
+        "id": "released",
+        "values": [
+          {
+            "title": "1978",
+            "value": "1978",
+            "count": 118
+          },
+          {
+            "title": "1979",
+            "value": "1979",
+            "count": 33
+          },
+          {
+            "title": "1980",
+            "value": "1980",
+            "count": 11
+          },
+          {
+            "title": "1981",
+            "value": "1981",
+            "count": 1
+          },
+          {
+            "title": "1982",
+            "value": "1982",
+            "count": 8
+          },
+          {
+            "title": "1983",
+            "value": "1983",
+            "count": 10
+          },
+          {
+            "title": "1984",
+            "value": "1984",
+            "count": 7
+          },
+          {
+            "title": "1985",
+            "value": "1985",
+            "count": 7
+          },
+          {
+            "title": "1986",
+            "value": "1986",
+            "count": 9
+          },
+          {
+            "title": "1987",
+            "value": "1987",
+            "count": 4
+          },
+          {
+            "title": "1988",
+            "value": "1988",
+            "count": 3
+          },
+          {
+            "title": "1989",
+            "value": "1989",
+            "count": 9
+          },
+          {
+            "title": "1991",
+            "value": "1991",
+            "count": 7
+          },
+          {
+            "title": "1992",
+            "value": "1992",
+            "count": 6
+          },
+          {
+            "title": "1993",
+            "value": "1993",
+            "count": 1
+          },
+          {
+            "title": "1994",
+            "value": "1994",
+            "count": 1
+          },
+          {
+            "title": "1995",
+            "value": "1995",
+            "count": 1
+          },
+          {
+            "title": "1996",
+            "value": "1996",
+            "count": 14
+          },
+          {
+            "title": "1999",
+            "value": "1999",
+            "count": 1
+          },
+          {
+            "title": "2000",
+            "value": "2000",
+            "count": 3
+          },
+          {
+            "title": "2002",
+            "value": "2002",
+            "count": 2
+          },
+          {
+            "title": "2006",
+            "value": "2006",
+            "count": 1
+          },
+          {
+            "title": "2008",
+            "value": "2008",
+            "count": 2
+          },
+          {
+            "title": "2009",
+            "value": "2009",
+            "count": 3
+          },
+          {
+            "title": "2010",
+            "value": "2010",
+            "count": 1
+          },
+          {
+            "title": "2011",
+            "value": "2011",
+            "count": 1
+          },
+          {
+            "title": "2012",
+            "value": "2012",
+            "count": 2
+          },
+          {
+            "title": "2013",
+            "value": "2013",
+            "count": 2
+          },
+          {
+            "title": "2014",
+            "value": "2014",
+            "count": 6
+          },
+          {
+            "title": "2015",
+            "value": "2015",
+            "count": 1
+          },
+          {
+            "title": "2017",
+            "value": "2017",
+            "count": 1
+          },
+          {
+            "title": "2018",
+            "value": "2018",
+            "count": 2
+          },
+          {
+            "title": "2019",
+            "value": "2019",
+            "count": 2
+          },
+          {
+            "title": "2020",
+            "value": "2020",
+            "count": 1
+          },
+          {
+            "title": "2021",
+            "value": "2021",
+            "count": 2
+          },
+          {
+            "title": "2024",
+            "value": "2024",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": false
+      }
+    ],
+    "versions": [
+      {
+        "id": 14536415,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7231 015",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/14536415",
+        "thumb": "https://i.discogs.com/YIv3tFPB9NmtbIlcQ3FIeSStnG4RhFt9C0HOlUDLA9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM2/NDE1LTE3MTU2MTM5/NDktOTE4Ni5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 144,
+            "in_collection": 97
+          }
+        }
+      },
+      {
+        "id": 20745502,
+        "label": "Vertigo",
+        "country": "Taiwan",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162, KPC-112",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/20745502",
+        "thumb": "https://i.discogs.com/0mBlFEvt3WekHZDJvYdJv1aipHeD8tkoHYo53La39ns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzQ1/NTAyLTE2MzUzMTIz/NjQtMzcxOC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 274,
+            "in_collection": 30
+          }
+        }
+      },
+      {
+        "id": 24052742,
+        "label": "Vertigo",
+        "country": "Singapore, Malaysia & Hong Kong",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Stereo",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/24052742",
+        "thumb": "https://i.discogs.com/2Yqhq3rsdBoJ2rRcf-Zgj0hH-ajML21CItCVXhxN3ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUy/NzQyLTE3NzA0MzM2/MDctMTI5NC5wbmc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 63,
+            "in_collection": 2
+          }
+        }
+      },
+      {
+        "id": 1514594,
+        "label": "Vertigo",
+        "country": "Scandinavia",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1514594",
+        "thumb": "https://i.discogs.com/sgUtsKAtr1SSO_2aEZYnV7zWfo-nL48gIHtXv38kHnI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTQ1/OTQtMTM3NTUyNTU4/OS0yMTcyLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 772,
+            "in_collection": 3950
+          }
+        }
+      },
+      {
+        "id": 11284929,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Club Edition",
+        "catno": "BSK 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/11284929",
+        "thumb": "https://i.discogs.com/YIRCK8CyJ2i8jmY2KmQgg-8sNfmaMZkKK04G-Uqp0Cs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg0/OTI5LTE1MTM0MzEy/MDktMjQwNi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 662,
+            "in_collection": 3160
+          }
+        }
+      },
+      {
+        "id": 8917897,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/8917897",
+        "thumb": "https://i.discogs.com/ey8VIBKfBBH9PLMcN_XZY7zWnM87ggaXOi8yUR_1inw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MTc4/OTctMTQ3MTU1ODAw/OS03NDcxLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 507,
+            "in_collection": 1127
+          }
+        }
+      },
+      {
+        "id": 7830327,
+        "label": "Vertigo",
+        "country": "Germany",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/7830327",
+        "thumb": "https://i.discogs.com/3wNzhOuYqIOSI_YTrgiuVckdwh7YA8mFhGJG32ih-Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MzAz/MjctMTU4MzIyODMw/My0zNzc3LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 537,
+            "in_collection": 721
+          }
+        }
+      },
+      {
+        "id": 4120908,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/4120908",
+        "thumb": "https://i.discogs.com/UgSBMsobZ46ddRWabsF8C2omuWtPVjM1lMBvCqYus2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjA5/MDgtMTcyOTMyODU2/MS0zNTg0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 658,
+            "in_collection": 1849
+          }
+        }
+      },
+      {
+        "id": 5355170,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/5355170",
+        "thumb": "https://i.discogs.com/eix3qmOg6RbvTTWUrBAIsmRoI276y_SEDw9jnY67PIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNTUx/NzAtMTM5MTMzODY3/OC00OTM4LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 516,
+            "in_collection": 359
+          }
+        }
+      },
+      {
+        "id": 1538634,
+        "label": "Vertigo",
+        "country": "Israel",
+        "title": "Sultans Of Swing \u2022 \u05d4\u05de\u05d5\u05e9\u05dc\u05d9\u05dd \u05d1\u05e1\u05d5\u05d5\u05d9\u05e0\u05d2",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1538634",
+        "thumb": "https://i.discogs.com/4hC3_Lq5qrV8ClfYAIGlwG2QOtpdz2hoLzJ_a-t7DXU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzg2/MzQtMTQwNTU5OTk3/My04ODI2LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 461,
+            "in_collection": 113
+          }
+        }
+      },
+      {
+        "id": 5419619,
+        "label": "Vertigo",
+        "country": "Australia",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/5419619",
+        "thumb": "https://i.discogs.com/D2ctuZKg4mk8zJLbXE9GxlfIYWTv-zXn5rnjfo-2ZQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTk2/MTktMTQ5NjgzODE4/OS0zMDY1LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 215,
+            "in_collection": 76
+          }
+        }
+      },
+      {
+        "id": 21721354,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Mispress",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/21721354",
+        "thumb": "https://i.discogs.com/3QxKWv5hYZBjB4MR-_sTaIhIKLH-Zj5FnocqLJxBJug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzIx/MzU0LTE2NDI3ODc0/MjUtNDA3Mi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 289,
+            "in_collection": 33
+          }
+        }
+      },
+      {
+        "id": 25012879,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "M5 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/25012879",
+        "thumb": "https://i.discogs.com/turkNn0A7973wy_NXjGStYzEE0zjBHDO_SnaP8-XgtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDEy/ODc5LTE2NjcyNzk1/NTQtODEwMy5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 66,
+            "in_collection": 23
+          }
+        }
+      },
+      {
+        "id": 30010270,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "M5 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/30010270",
+        "thumb": "https://i.discogs.com/FEYSAVH2u1TL95T5Qd4cN6hwZshHQ6pQ0hJ3eIqkJMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDEw/MjcwLTE3MDk2NjE5/MjQtNDAwMi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 51,
+            "in_collection": 10
+          }
+        }
+      },
+      {
+        "id": 24702218,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7231 015",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/24702218",
+        "thumb": "https://i.discogs.com/q8hsw1-MZbfDzKqPZ1_gZ8ksnRr6H4EbWsgP-xbtx2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NzAy/MjE4LTE2NjQ3NDY5/NTYtNTY2Ny5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 68,
+            "in_collection": 2
+          }
+        }
+      },
+      {
+        "id": 10348349,
+        "label": "New Horizon (10)",
+        "country": "Taiwan",
+        "title": "Sultans Of Swing",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Unofficial Release, Stereo",
+        "catno": "7922",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/10348349",
+        "thumb": "https://i.discogs.com/DZTBK89Kma6wpzcyNYeFWmmO5_ZeL7iFHYTGDrcKlDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzQ4/MzQ5LTE0OTU3NjM1/MjktOTI2Ny5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 391,
+            "in_collection": 1
+          }
+        }
+      },
+      {
+        "id": 435164,
+        "label": "Vertigo",
+        "country": "Germany",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/435164",
+        "thumb": "https://i.discogs.com/8m07Ln7m4O_nfxDMXGhpCN2TZdvxHExPO19rmq8dBL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTE2/NC0xMTEzMDM5Nzg1/LmpwZw.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 1130,
+            "in_collection": 9450
+          }
+        }
+      },
+      {
+        "id": 9040478,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Club Edition",
+        "catno": "BSK 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/9040478",
+        "thumb": "https://i.discogs.com/-VmHb_JZ2ryBwrAaYZNJMqRivP6vNH0_p7Pi7IMmb8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNDA0/NzgtMTQ3NTAzNTk0/MC04MTg2LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 550,
+            "in_collection": 1179
+          }
+        }
+      },
+      {
+        "id": 30067528,
+        "label": "Mercury",
+        "country": "Canada",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "SRM-1-1197",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/30067528",
+        "thumb": "https://i.discogs.com/sqSxF82ZQYmffYpokUi_WfzFwaZIDQiNvpP24q29tQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDY3/NTI4LTE3MTAxNzU3/MTQtMzQ4OC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 181,
+            "in_collection": 325
+          }
+        }
+      },
+      {
+        "id": 36767638,
+        "label": "Vertigo",
+        "country": "Germany",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/36767638",
+        "thumb": "https://i.discogs.com/F-SJ83eL_nNCXQT9WwMuSEdIghu6IsvcqsH1AsWOvOU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzY3/NjM4LTE3NzM0NzY1/MTQtNzQ1MC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 54,
+            "in_collection": 25
+          }
+        }
+      },
+      {
+        "id": 945639,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/945639",
+        "thumb": "https://i.discogs.com/qviD-EcX64zCFceEHxu_5EStxLSPUe9Y5eK9vidyX2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTYz/OS0xMzI4MTA0NTEz/LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 855,
+            "in_collection": 12159
+          }
+        }
+      },
+      {
+        "id": 28259944,
+        "label": "Vertigo",
+        "country": "Germany",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Reissue, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/28259944",
+        "thumb": "https://i.discogs.com/dHc89Pxc8ArzEqH-zH8vo4RpVxnsDLlEW8VEYCvn6bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU5/OTQ0LTE2OTQ2OTYz/MTQtNzAzOC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 206,
+            "in_collection": 378
+          }
+        }
+      },
+      {
+        "id": 14103934,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Club Edition",
+        "catno": "M5 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/14103934",
+        "thumb": "https://i.discogs.com/mjwXh0LHakpHiJAOfucLVe37ciBgJ4tRmw_19VM7cM0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTAz/OTM0LTE2NTY2NDY2/NTEtMjc3Mi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 135,
+            "in_collection": 22
+          }
+        }
+      },
+      {
+        "id": 13718098,
+        "label": "Vertigo",
+        "country": "Germany",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/13718098",
+        "thumb": "https://i.discogs.com/5kPQH6GpOTv5kV9i6vTVzdZnzBEuDZdCSJm65S6TL-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzE4/MDk4LTE2MTgwNzUz/NzUtMTgxNS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 146,
+            "in_collection": 14
+          }
+        }
+      },
+      {
+        "id": 10019440,
+        "label": "Mercury",
+        "country": "Canada",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Club Edition",
+        "catno": "P4 11197",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/10019440",
+        "thumb": "https://i.discogs.com/F4RZWGsGGq2qp-aq6Fhd2EXoZP3oXwIgGQ-UnUeQI9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDE5/NDQwLTE1NDU1MDkw/OTAtMzQ2Ny5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 184,
+            "in_collection": 21
+          }
+        }
+      },
+      {
+        "id": 6952901,
+        "label": "Vertigo",
+        "country": "Australia",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6952901",
+        "thumb": "https://i.discogs.com/nNwWFdDERghNpj2AlE-A-09FzAJjBKICjDQka-rvSmA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NTI5/MDEtMTQzMDI4NDM2/Ni04ODA0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 485,
+            "in_collection": 762
+          }
+        }
+      },
+      {
+        "id": 2098109,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "M5 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/2098109",
+        "thumb": "https://i.discogs.com/yzGacSoRYMyjHKnx1iIrrsHvpSsRF1kmhwKtvOSN8hw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTgx/MDktMTQ5NTU3MDE4/NS0zNDUyLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 247,
+            "in_collection": 243
+          }
+        }
+      },
+      {
+        "id": 3415506,
+        "label": "Vertigo",
+        "country": "New Zealand",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/3415506",
+        "thumb": "https://i.discogs.com/pisy5Zk3-FJe8r-UyMgk8DgKASXXFpPo4NcwmSA-MIU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTU1/MDYtMTMzODYxMTMw/NC0yODQ0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 220,
+            "in_collection": 27
+          }
+        }
+      },
+      {
+        "id": 11607373,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Stereo",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/11607373",
+        "thumb": "https://i.discogs.com/k3dZwlLIi_bINKlGBGIzRRPi-YXLm-i_bMVDWapozpA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjA3/MzczLTE2NTU5MjU1/MzYtNjkzMS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 166,
+            "in_collection": 23
+          }
+        }
+      },
+      {
+        "id": 13765437,
+        "label": "Mercury",
+        "country": "Canada",
+        "title": "Dire Straits",
+        "major_formats": [
+          "8-Track Cartridge"
+        ],
+        "format": "Album",
+        "catno": "MC8-1-1197",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/13765437",
+        "thumb": "https://i.discogs.com/bxpSdm5H2MV-g70sK-bN06i0ZIOwoLZcqqh3Jv3pAQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzY1/NDM3LTE1NjA2MzIx/NDEtMzk4NC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 142,
+            "in_collection": 20
+          }
+        }
+      },
+      {
+        "id": 1621241,
+        "label": "Vertigo",
+        "country": "France",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1621241",
+        "thumb": "https://i.discogs.com/iY_pxmEKoi_E2c4eBqX2M-KSCxuWDqVSYWYw2MuBWYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjEy/NDEtMTYyODc1OTMz/MC05NTU2LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 616,
+            "in_collection": 4492
+          }
+        }
+      },
+      {
+        "id": 24162821,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/24162821",
+        "thumb": "https://i.discogs.com/M2nfE_yU4W8myAdbqs_jbuanyd-BivHRl4R9VpQ7y4w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTYy/ODIxLTE2NjAxNjgw/NjQtMzU4MC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 347,
+            "in_collection": 383
+          }
+        }
+      },
+      {
+        "id": 20970739,
+        "label": "Mercury",
+        "country": "Canada",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "SRM-1-1197",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/20970739",
+        "thumb": "https://i.discogs.com/a9zh1zUMbMgtp6jpzbV56mcs98nbP-VZ6PaQ6yMf5bg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTcw/NzM5LTE2MzY4NTQ4/MTktNzc0MS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 280,
+            "in_collection": 263
+          }
+        }
+      },
+      {
+        "id": 7653897,
+        "label": "Vertigo",
+        "country": "Spain",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/7653897",
+        "thumb": "https://i.discogs.com/K3wMrGuzU1WGwOipsubPVBxEpDvIvzl6iQlduPf9TDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NTM4/OTctMTQ0NjAyNDkz/My0xNDIzLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 439,
+            "in_collection": 246
+          }
+        }
+      },
+      {
+        "id": 32590932,
+        "label": "Vertigo",
+        "country": "France",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/32590932",
+        "thumb": "https://i.discogs.com/lrUMrqswe31Svm8tTsTRdhPK1GFKmbDMH2BLjF2-UCU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTkw/OTMyLTE3MzQ0NDgw/ODUtNzY2Ny5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 134,
+            "in_collection": 137
+          }
+        }
+      },
+      {
+        "id": 9065331,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "8-Track Cartridge"
+        ],
+        "format": "Album, Club Edition",
+        "catno": "M8 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/9065331",
+        "thumb": "https://i.discogs.com/BsN82Lh4dhpGaALJvfoPxavLWY7ePKjl_vdU3nAGnlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjUz/MzEtMTQ3NDE2MTE1/OC05MjE0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 202,
+            "in_collection": 41
+          }
+        }
+      },
+      {
+        "id": 10929236,
+        "label": "Mercury",
+        "country": "Canada",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Stereo",
+        "catno": "MCR4-1-1197",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/10929236",
+        "thumb": "https://i.discogs.com/lSmsh6Fg0zAxEYgZIHWhmqPuSY6uVwF9s_4ZEyUVdUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTI5/MjM2LTE1MDY2OTYy/MDYtMjg1MS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 171,
+            "in_collection": 26
+          }
+        }
+      },
+      {
+        "id": 35841025,
+        "label": "Vertigo",
+        "country": "Austria",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/35841025",
+        "thumb": "https://i.discogs.com/-bTWkOVd4UcWFfDuspU09_TkPSS-gFrojo3RU3UMSvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODQx/MDI1LTE3NjQ4NzM1/NTgtMjk4NC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 73,
+            "in_collection": 3
+          }
+        }
+      },
+      {
+        "id": 32301056,
+        "label": "Vertigo",
+        "country": "Ireland",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7231 015",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/32301056",
+        "thumb": "https://i.discogs.com/Y_9Uoxh1Xf-rEHUK8fgNdoihp1g0j_31L2xil_aWhNY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMzAx/MDU2LTE3MzE3MDY2/NjAtODc2MC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 43,
+            "in_collection": 1
+          }
+        }
+      },
+      {
+        "id": 6398906,
+        "label": "Mercury",
+        "country": "Canada",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "SRM-1-1197",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6398906",
+        "thumb": "https://i.discogs.com/afmKd-kSko4H04w4QmztvSrizOdzWryZDpjsqRZiV94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg5/MDYtMTQ0OTUyNDgx/MC02NDkyLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 532,
+            "in_collection": 1921
+          }
+        }
+      },
+      {
+        "id": 35881960,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Club Edition",
+        "catno": "BSK 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/35881960",
+        "thumb": "https://i.discogs.com/Xlf31m1ICzpxLkxy24y9q--04jRGVof9Zb3bTJ65a50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgx/OTYwLTE3NjUyOTMz/NTEtNzU0Mi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 90,
+            "in_collection": 29
+          }
+        }
+      },
+      {
+        "id": 4924332,
+        "label": "Vertigo",
+        "country": "Germany",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Club Edition, Special Edition, Stereo",
+        "catno": "27 269-0",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/4924332",
+        "thumb": "https://i.discogs.com/-YPQp6G40RmzioUIug5HzYh4sj-s0wLdJ3jPRuHwY1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQz/MzItMTcyNzY4NDEw/NS04NTI1LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 522,
+            "in_collection": 627
+          }
+        }
+      },
+      {
+        "id": 13556873,
+        "label": "Vertigo",
+        "country": "Austria",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Club Edition",
+        "catno": "38 126",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/13556873",
+        "thumb": "https://i.discogs.com/kfNJTm75PjtSjoAs3tcxLqetLBhtmpLVtw7I5F4xxPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTU2/ODczLTE1NTY0NTgz/NTMtNTA5Mi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 338,
+            "in_collection": 32
+          }
+        }
+      },
+      {
+        "id": 31669484,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "M5 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/31669484",
+        "thumb": "https://i.discogs.com/CuFP-yRtFSNJczWemztdYuO4WJFLDZA4UJZg6ZVy5ts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjY5/NDg0LTE3MjU2NDQ2/NDQtODgyMi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 46,
+            "in_collection": 6
+          }
+        }
+      },
+      {
+        "id": 1308001,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1308001",
+        "thumb": "https://i.discogs.com/F55xfOxMvdgh8yEISdqxZZMkZM5WVFEmA19mMuCNh9g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDgw/MDEtMTY1NzQ0MTIy/Ny00NjI4LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 5372,
+            "in_collection": 25430
+          }
+        }
+      },
+      {
+        "id": 4206067,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7231 015",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/4206067",
+        "thumb": "https://i.discogs.com/GnQjf_WxSDrqDOdmSlXN1AtRZE_ISQ4vLDkFoGadvp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMDYw/NjctMTM2ODI4ODAw/OC02ODcyLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 229,
+            "in_collection": 85
+          }
+        }
+      },
+      {
+        "id": 7722757,
+        "label": "Vertigo",
+        "country": "Ireland",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/7722757",
+        "thumb": "https://i.discogs.com/rInKq9H26u4_RHyzCW-tYMuV33Xk3BERAFL6VJ0gciA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjI3/NTctMTYyNzM0Mjc4/NS04NjMxLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 434,
+            "in_collection": 66
+          }
+        }
+      },
+      {
+        "id": 33071430,
+        "label": "Vertigo",
+        "country": "Scandinavia",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Stereo",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/33071430",
+        "thumb": "https://i.discogs.com/eRmuoW4UCCuYCTx_iWbuzmHuwzVEnW5dPzifwiB4t1A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDcx/NDMwLTE3Mzg5Mzgx/NTAtNDEyNS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 39,
+            "in_collection": 2
+          }
+        }
+      },
+      {
+        "id": 621110,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "BSK 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/621110",
+        "thumb": "https://i.discogs.com/A8Vtc5XJ8I5BZehCR2P355JbB7dsx-hau_s_PKoilXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk0/LTU1MzEuanBlZw.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 1984,
+            "in_collection": 19446
+          }
+        }
+      },
+      {
+        "id": 6516631,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "BSK 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6516631",
+        "thumb": "https://i.discogs.com/qoknQBkimmRvicc1Nai5tvcmP1XkfW8teO1Xt-s9Mvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MTY2/MzEtMTUyMjg5Mjkx/Ny0xMjQ0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 702,
+            "in_collection": 3215
+          }
+        }
+      },
+      {
+        "id": 8089163,
+        "label": "Vertigo",
+        "country": "Greece",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/8089163",
+        "thumb": "https://i.discogs.com/6Zz0yCsfu0JNLmeJ4W4yJq1Ybhi306i0E-DTbCv7ZPQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwODkx/NjMtMTQ2Mjc5MTA0/NC0zNzQ4LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 424,
+            "in_collection": 169
+          }
+        }
+      },
+      {
+        "id": 30278360,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, White Label",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/30278360",
+        "thumb": "https://i.discogs.com/oyaKdjYKtlH38HGEPOrcmO5XzMGnCkZyWMB2fQtP9PU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjc4/MzYwLTE3MTIwNTMy/NTgtNDU4NS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 178,
+            "in_collection": 1
+          }
+        }
+      },
+      {
+        "id": 4719484,
+        "label": "Vertigo",
+        "country": "South Africa",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "STAR 5050",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/4719484",
+        "thumb": "https://i.discogs.com/B9lcO9B1WX9mcFxEYjZaXMyvzblEcciz5pw2pRxxLco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTk0/ODQtMTUwNzU1MTQx/OC05ODY0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 462,
+            "in_collection": 625
+          }
+        }
+      },
+      {
+        "id": 5790139,
+        "label": "Vertigo",
+        "country": "Israel",
+        "title": "Sultans Of Swing = \u05d4\u05de\u05d5\u05e9\u05dc\u05d9\u05dd \u05d1\u05e1\u05d5\u05d5\u05d9\u05e0\u05d2",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/5790139",
+        "thumb": "https://i.discogs.com/QxKvGhqw5Hy_9E2LqDxs65PxnbjdnPj9ULPywkk1eTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3OTAx/MzktMTQwMjc0NTc0/OC04NTM0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 451,
+            "in_collection": 91
+          }
+        }
+      },
+      {
+        "id": 21748651,
+        "label": "Mercury",
+        "country": "Canada",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "MCR4 1 1197",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/21748651",
+        "thumb": "https://i.discogs.com/I0C4sIVmFaROk5usp5P_4B42qmS-JR3D9LtWZmtClY4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzQ4/NjUxLTE2NDIyNjE0/OTMtNDYwMi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 79,
+            "in_collection": 9
+          }
+        }
+      },
+      {
+        "id": 1906096,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1906096",
+        "thumb": "https://i.discogs.com/K9-z0vJaQG9gJkE40QbFN_UsDxQ40c82bqcnpex5tTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDYw/OTYtMTMzNDY2MjUz/Ni5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 687,
+            "in_collection": 968
+          }
+        }
+      },
+      {
+        "id": 1767564,
+        "label": "Vertigo",
+        "country": "Scandinavia",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Stereo",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1767564",
+        "thumb": "https://i.discogs.com/cm1cSh5w7E-xIwbkPpcJcEM-KLFxZP4FbKe7b3BOVz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3Njc1/NjQtMTI0OTkyMTYw/My5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 224,
+            "in_collection": 56
+          }
+        }
+      },
+      {
+        "id": 32172696,
+        "label": "Vertigo",
+        "country": "South Africa",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "STAR 5050",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/32172696",
+        "thumb": "https://i.discogs.com/zMncJGwpX9gchvm3XBwimVqDx2pBZbOMnU_YwQHzKmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTcy/Njk2LTE3MzA1MDgw/MjMtODQ0NC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 133,
+            "in_collection": 8
+          }
+        }
+      },
+      {
+        "id": 1934670,
+        "label": "Vertigo",
+        "country": "Italy",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162, 6360162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1934670",
+        "thumb": "https://i.discogs.com/qQRE57DV3n-yrfjqo_AYP5b6muymSUZDhqyFXml2cfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQ2/NzAtMTMzNTIwMzg2/Mi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 578,
+            "in_collection": 3128
+          }
+        }
+      },
+      {
+        "id": 1537517,
+        "label": "Vertigo",
+        "country": "Italy",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1537517",
+        "thumb": "https://i.discogs.com/P6L7HscAUaSE5cgt4d4mqV7B5dTClaZwq0P2v7ehSBY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc1/MTctMTM4ODkyMjc3/MS01MjEwLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 531,
+            "in_collection": 849
+          }
+        }
+      },
+      {
+        "id": 14412892,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/14412892",
+        "thumb": "https://i.discogs.com/Ccen_xBbkazEksSoV06Jxp_dhSPw367PvzbWHGnOUsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDEy/ODkyLTE1NzQwMTA4/OTItOTY3Ny5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 372,
+            "in_collection": 350
+          }
+        }
+      },
+      {
+        "id": 2478155,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "8-Track Cartridge"
+        ],
+        "format": "Album",
+        "catno": "M8 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/2478155",
+        "thumb": "https://i.discogs.com/R99o0yoYO_5ssucnKhsDgS5BM4friQcUpGEULofF4VY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Nzgx/NTUtMTI4NjQ0NzE0/Mi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 237,
+            "in_collection": 97
+          }
+        }
+      },
+      {
+        "id": 13302684,
+        "label": "Vertigo",
+        "country": "Rhodesia",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "STAR 5050, 6310 035",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/13302684",
+        "thumb": "https://i.discogs.com/W3kHfGCwBxS9WPka6iebLAnyb7mx0nAofrVNdfBQrHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzAy/Njg0LTE3NjUwNDg2/NDctNzcwNS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 333,
+            "in_collection": 21
+          }
+        }
+      },
+      {
+        "id": 16543848,
+        "label": "Pyramid (7)",
+        "country": "Saudi Arabia",
+        "title": "Dire Straits ",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Unofficial Release",
+        "catno": "P-2254",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/16543848",
+        "thumb": "https://i.discogs.com/ZBNNBwZWolFeHAG2GSDAQbHnZy1QwB56xbpa3YXMIPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTQz/ODQ4LTE2MDgzOTc2/NDMtODU3OS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 112,
+            "in_collection": 3
+          }
+        }
+      },
+      {
+        "id": 1922051,
+        "label": "Vertigo",
+        "country": "Spain",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "63 60 162, 6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1922051",
+        "thumb": "https://i.discogs.com/FMDqorxwSP-bDqvBAYsC_at7xcyHwga2GUyhVH8GOZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjIw/NTEtMTQ5Mzg5MDY5/Ny03MzM5LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 594,
+            "in_collection": 3529
+          }
+        }
+      },
+      {
+        "id": 5757916,
+        "label": "Vertigo",
+        "country": "Philippines",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/5757916",
+        "thumb": "https://i.discogs.com/PdSwHOpvsHiX8w1G7nmVBCJ2QwxXB7xxvHHUvKNsafY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NTc5/MTYtMTQwMTgyOTk2/MC04MTU0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 441,
+            "in_collection": 112
+          }
+        }
+      },
+      {
+        "id": 6643806,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6643806",
+        "thumb": "https://i.discogs.com/RWBL96KRusjgRWXyd940z4L_HX8ZYsHtAXDYml8Ps-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NDM4/MDYtMTQyNDIwMDU2/OS0zNzAwLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 512,
+            "in_collection": 1213
+          }
+        }
+      },
+      {
+        "id": 15441305,
+        "label": "Vertigo",
+        "country": "Italy",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/15441305",
+        "thumb": "https://i.discogs.com/NgF7thUhnAVQG9fdtq7KLiM_1k1WtxXi9kAQW-_57fg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQx/MzA1LTE2Mjg5MzQz/MzQtMzYxOS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 333,
+            "in_collection": 479
+          }
+        }
+      },
+      {
+        "id": 7427163,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Club Edition",
+        "catno": "M5 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/7427163",
+        "thumb": "https://i.discogs.com/blxBUCmKzdccsOzvziHcLVMEC_JH6XuGH4e97mc_rkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0Mjcx/NjMtMTQ0MTMwMDMw/NC05OTY4LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 206,
+            "in_collection": 19
+          }
+        }
+      },
+      {
+        "id": 25083562,
+        "label": "Vertigo",
+        "country": "South Africa",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "MC STAR 5050",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/25083562",
+        "thumb": "https://i.discogs.com/bPdcts1iqQ6u3O3ozzu1MChOUmbbYCF_qOhOmiEAKG0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDgz/NTYyLTE3ODAzMjI0/NzAtMzk2MS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 61,
+            "in_collection": 4
+          }
+        }
+      },
+      {
+        "id": 11689546,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/11689546",
+        "thumb": "https://i.discogs.com/fRLzYgyW_HNdr_Thac5n_82YzV-S1lIkt85kffHu2hU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjg5/NTQ2LTE1MjA3MDI1/NTEtODUxMC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 634,
+            "in_collection": 1728
+          }
+        }
+      },
+      {
+        "id": 2517060,
+        "label": "Vertigo",
+        "country": "Australia",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/2517060",
+        "thumb": "https://i.discogs.com/R8JZ2zzZe97uWcjUYlg3txJYHoBWCKsCRD90ROVbWBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTcw/NjAtMTI4ODMyMDc0/OC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 571,
+            "in_collection": 2668
+          }
+        }
+      },
+      {
+        "id": 19647334,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/19647334",
+        "thumb": "https://i.discogs.com/Ji5jHQI15YK8ozcTxYgJEv_yF5oBzWWqi3Gfwbd-Ppc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjQ3/MzM0LTE2Mjc0MTU0/ODAtNTA2OC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 302,
+            "in_collection": 121
+          }
+        }
+      },
+      {
+        "id": 24146771,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/24146771",
+        "thumb": "https://i.discogs.com/8Una9OtSWlQcxE0epukw6f3HUli8oVB13Xp2UFaFCQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTQ2/NzcxLTE2NjAwNTAz/OTktMTg1My5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 247,
+            "in_collection": 98
+          }
+        }
+      },
+      {
+        "id": 15327534,
+        "label": "Vertigo",
+        "country": "Australia",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/15327534",
+        "thumb": "https://i.discogs.com/_J0Vt6rxtFRNMNgFlC7HwtFknDfShIJ8MUuaOAv0UdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI3/NTM0LTE1ODk3OTk0/NTItMjM4OC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 327,
+            "in_collection": 94
+          }
+        }
+      },
+      {
+        "id": 6576635,
+        "label": "Vertigo",
+        "country": "Spain",
+        "title": "Dire Straits ",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Stereo",
+        "catno": "71 38 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6576635",
+        "thumb": "https://i.discogs.com/stHyLaFOlgPQY93Z4-b9Mij3SvUu1sFtrwkb4BD0B64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NzY2/MzUtMTU1NzE2MzMy/OC03ODc5LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 206,
+            "in_collection": 53
+          }
+        }
+      },
+      {
+        "id": 13263902,
+        "label": "Vertigo",
+        "country": "Japan",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Promo",
+        "catno": "RJ-7541",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/13263902",
+        "thumb": "https://i.discogs.com/Gkcq6k7fjPkJ-LlpR61F89OpTK0MNuDduQTbfEn5Mvs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYz/OTAyLTE1NTA5ODAx/MzgtMzI5My5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 373,
+            "in_collection": 40
+          }
+        }
+      },
+      {
+        "id": 12480612,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Stereo",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/12480612",
+        "thumb": "https://i.discogs.com/LmlzYPCvGBjbgNhv7pbLhejmDC-6wFViuHU2WJef-MY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDgw/NjEyLTE1MzYxMzQ5/NzYtODU5Ni5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 163,
+            "in_collection": 21
+          }
+        }
+      },
+      {
+        "id": 26802212,
+        "label": "Vertigo",
+        "country": "Philippines",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/26802212",
+        "thumb": "https://i.discogs.com/rR1UzzUymi9NRaXCaRheo8NjjSql8-Z86uJ5Vbm0sIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODAy/MjEyLTE2ODE4Mzkw/MDEtNzI3Ni5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 185,
+            "in_collection": 6
+          }
+        }
+      },
+      {
+        "id": 32877414,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "8-Track Cartridge"
+        ],
+        "format": "Album, Club Edition, Stereo",
+        "catno": "M8 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/32877414",
+        "thumb": "https://i.discogs.com/asXW9fnOocOYn0PEqT_sY3k0CXW70WSSRPTlvWqgb8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODc3/NDE0LTE3ODY3MDk2/MTYtMjM3OS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 38,
+            "in_collection": 6
+          }
+        }
+      },
+      {
+        "id": 34137445,
+        "label": "Vertigo",
+        "country": "Japan",
+        "title": "\u60b2\u3057\u304d\u30b5\u30eb\u30bf\u30f3",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Limited Edition",
+        "catno": "25PT-114",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/34137445",
+        "thumb": "https://i.discogs.com/I9YsBm0ywEjTVC_HWBX3ZolGqt42GMoeuo-_k7XqaXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTM3/NDQ1LTE3NDg3MDQz/MjYtNzU5Ni5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 31,
+            "in_collection": 2
+          }
+        }
+      },
+      {
+        "id": 1239084,
+        "label": "Mercury",
+        "country": "Canada",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "SRM-1-1197",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1239084",
+        "thumb": "https://i.discogs.com/10gHVNXiEqaJDfQXv_JG6gfdIfS-UMfYcSry3Y07H5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzkw/ODQtMTU5MzA4MzQw/NS01Njk1LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 709,
+            "in_collection": 6949
+          }
+        }
+      },
+      {
+        "id": 6534940,
+        "label": "Vertigo",
+        "country": "Netherlands",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6534940",
+        "thumb": "https://i.discogs.com/C6M99hbKdUK2qE4w2tQa2usj3lnOPJD3nu0bxMXPRxc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzQ5/NDAtMTQ1ODIzMTY0/Ni04OTEwLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 561,
+            "in_collection": 2368
+          }
+        }
+      },
+      {
+        "id": 4556493,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7231 015",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/4556493",
+        "thumb": "https://i.discogs.com/MCmBiXqqbYiMFi546elRXAtEsWjE-955Oz41cS9EGHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTY0/OTMtMTM2ODI5Mjc2/NS04ODc3LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 230,
+            "in_collection": 120
+          }
+        }
+      },
+      {
+        "id": 12260864,
+        "label": "Vertigo",
+        "country": "France",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7231 015",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/12260864",
+        "thumb": "https://i.discogs.com/MwZcOLlSN3hvnVdUVdfbjmz757mnG55VSn1TXenpGWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjYw/ODY0LTE1MzIxMDcx/NTktNzkzNS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 158,
+            "in_collection": 36
+          }
+        }
+      },
+      {
+        "id": 492894,
+        "label": "Vertigo",
+        "country": "Germany",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Club Edition",
+        "catno": "33 594 3",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/492894",
+        "thumb": "https://i.discogs.com/Y8WzIX_4oWRBeNxcfzW8c-lvoCNdt_132t1NshbHlIw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Mjg5/NC0xNDg2MTYzNTA4/LTU0MzYuanBlZw.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 227,
+            "in_collection": 27
+          }
+        }
+      },
+      {
+        "id": 18317488,
+        "label": "Vertigo",
+        "country": "UK",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7231 015",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/18317488",
+        "thumb": "https://i.discogs.com/CPdFcnorWEjFjQPMJ-FtPyWHijwahh_VPpUuc7372O0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzE3/NDg4LTE2MTg1NTYy/MjMtNDA4Ni5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 100,
+            "in_collection": 4
+          }
+        }
+      },
+      {
+        "id": 2084364,
+        "label": "Vertigo",
+        "country": "New Zealand",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/2084364",
+        "thumb": "https://i.discogs.com/p4Q0-kRAAouSU1flvlGDncUD6gRwqdIMReJXq-9UgdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQz/NjQtMTI2MzA5NTU4/OC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 501,
+            "in_collection": 2382
+          }
+        }
+      },
+      {
+        "id": 38489397,
+        "label": "Vertigo",
+        "country": "Japan",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "RJ-7541",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/38489397",
+        "thumb": "https://i.discogs.com/HYrxRk1VC9MCTZwrld4jLP1bc-IqWhaM2J0AodY4O4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDg5/Mzk3LTE3ODk5ODgy/NTgtMjU2MS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 7,
+            "in_collection": 3
+          }
+        }
+      },
+      {
+        "id": 28611712,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "BSK 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/28611712",
+        "thumb": "https://i.discogs.com/k03ap1fOdUzbJBTLu_gCah2L5Ql0JZpIQ7-z9CR310s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjEx/NzEyLTE2OTc0ODE1/MDctOTI5Ni5wbmc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 207,
+            "in_collection": 452
+          }
+        }
+      },
+      {
+        "id": 32813892,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "BSK 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/32813892",
+        "thumb": "https://i.discogs.com/5h5Af08ppl4tnfevhr-PXa01omJQq-ZmQSiBesYn0F4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODEz/ODkyLTE3MzY3NDIy/MDAtNTU4Ny5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 154,
+            "in_collection": 77
+          }
+        }
+      },
+      {
+        "id": 8324856,
+        "label": "Warner Bros. Records",
+        "country": "US",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Club Edition",
+        "catno": "M5 3266",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/8324856",
+        "thumb": "https://i.discogs.com/_K19P6dvZfJUspgnGX13mskK9exnQ891L4h7ko6q9K0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjQ4/NTYtMTQ2MDU4NzAy/My00NjQwLnBuZw.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 196,
+            "in_collection": 62
+          }
+        }
+      },
+      {
+        "id": 7299289,
+        "label": "Vertigo",
+        "country": "Greece",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/7299289",
+        "thumb": "https://i.discogs.com/dx-ThWRHYWlyfIdTL4_BwCsVnre_DxPuSk4NydoDEtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyOTky/ODktMTQzODMzMzE3/NC0zODEyLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 201,
+            "in_collection": 24
+          }
+        }
+      },
+      {
+        "id": 21826849,
+        "label": "Vertigo",
+        "country": "Germany",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/21826849",
+        "thumb": "https://i.discogs.com/bwjc_vk7zKEm9C2omRm6bZGa5VdAwLdvhOo2F75fm0U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODI2/ODQ5LTE2NzkwMzYz/NDYtODM2NS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 74,
+            "in_collection": 22
+          }
+        }
+      },
+      {
+        "id": 26806205,
+        "label": "Vertigo",
+        "country": "Israel",
+        "title": "Sultans Of Swing \u2022 \u05d4\u05de\u05d5\u05e9\u05dc\u05d9\u05dd \u05d1\u05e1\u05d5\u05d5\u05d9\u05e0\u05d2",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162, 3360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/26806205",
+        "thumb": "https://i.discogs.com/KMeCYExlMTQRATeY574nqwV3gpHbmTYbtfogAEZ6pkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODA2/MjA1LTE2ODE4Njg0/MDQtOTcwOC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 190,
+            "in_collection": 18
+          }
+        }
+      },
+      {
+        "id": 2254154,
+        "label": "Mercury",
+        "country": "Canada",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "MCR4-1-1197",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/2254154",
+        "thumb": "https://i.discogs.com/BUDLF931tpNg6prAT5mGawPRNCHHX3hpKOqciF-UNyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQx/NTQtMTU0NTE5Mzk4/My0zMjQ5LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 222,
+            "in_collection": 16
+          }
+        }
+      },
+      {
+        "id": 19656640,
+        "label": "747",
+        "country": "Saudi Arabia",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album, Unofficial Release, Stereo",
+        "catno": "2768",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/19656640",
+        "thumb": "https://i.discogs.com/OtPaE0FeyAUMEu_DbY_7ZBiMtCc20wMEuFItki2Aeew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjU2/NjQwLTE2Mjc0ODc0/MTItMzExMS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 77,
+            "in_collection": 4
+          }
+        }
+      },
+      {
+        "id": 11451583,
+        "label": "Vertigo",
+        "country": "Israel",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "7138 101",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/11451583",
+        "thumb": "https://i.discogs.com/SvP35Kl8-hXgjXF_GP9_QitzaxzviWZ8buLM1T1urHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDUx/NTgzLTE1MTY1NjAw/MzAtNTY2MC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 163,
+            "in_collection": 3
+          }
+        }
+      },
+      {
+        "id": 35142308,
+        "label": "Vertigo",
+        "country": "France",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "9102 021",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/35142308",
+        "thumb": "https://i.discogs.com/UGijcomFspYnnFViVjvxAomXKsnu9Ceepu4JS990iiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTQy/MzA4LTE3NTgyODcw/NzgtODgwMi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 90,
+            "in_collection": 106
+          }
+        }
+      },
+      {
+        "id": 7142130,
+        "label": "Vertigo",
+        "country": "Singapore, Malaysia & Hong Kong",
+        "title": "Dire Straits",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "6360 162",
+        "released": "1978",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/7142130",
+        "thumb": "https://i.discogs.com/J4R4slpVb4AaAUO4TpO3cGp58hJh4cQasKYYQNk4prU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDIx/MzAtMTQzNDY1MzAz/Ni00NjM5LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 437,
+            "in_collection": 64
+          }
+        }
+      }
+    ]
+  }
+}

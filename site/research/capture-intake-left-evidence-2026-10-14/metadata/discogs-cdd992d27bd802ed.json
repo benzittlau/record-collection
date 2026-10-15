@@ -1,0 +1,705 @@
+{
+  "url": "https://api.discogs.com/releases/1480145",
+  "retrieved": "2026-10-15T03:19:06Z",
+  "data": {
+    "id": 1480145,
+    "status": "Accepted",
+    "year": 1976,
+    "resource_url": "https://api.discogs.com/releases/1480145",
+    "uri": "https://www.discogs.com/release/1480145-Genesis-A-Trick-Of-The-Tail",
+    "artists": [
+      {
+        "name": "Genesis",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 124506,
+        "resource_url": "https://api.discogs.com/artists/124506",
+        "thumbnail_url": "https://i.discogs.com/z0zMUi4CK4C8YPEUOKKzzU0pEOcA0zmZ_9ZHQ-p3Vz4/rs:fit/g:sm/q:90/h:200/w:273/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDUw/Ni0xNDk4NjYwNjM0/LTg4MzcuanBlZw.jpeg"
+      }
+    ],
+    "artists_sort": "Genesis",
+    "labels": [
+      {
+        "name": "ATCO Records",
+        "catno": "SD 36-129",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 3820,
+        "resource_url": "https://api.discogs.com/labels/3820",
+        "thumbnail_url": "https://i.discogs.com/XdJCX-gQqJ_8GnOftWjhnOohybo2J6PnHjNzJ7Msmqs/rs:fit/g:sm/q:90/h:600/w:406/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MjAt/MTY4OTM1Njg5My04/NTA0LmpwZWc.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Atlantic Recording Corporation",
+        "catno": "",
+        "entity_type": "13",
+        "entity_type_name": "Phonographic Copyright (p)",
+        "id": 23937,
+        "resource_url": "https://api.discogs.com/labels/23937",
+        "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+      },
+      {
+        "name": "Atlantic Recording Corporation",
+        "catno": "",
+        "entity_type": "14",
+        "entity_type_name": "Copyright (c)",
+        "id": 23937,
+        "resource_url": "https://api.discogs.com/labels/23937",
+        "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+      },
+      {
+        "name": "Trident Studios",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 218698,
+        "resource_url": "https://api.discogs.com/labels/218698",
+        "thumbnail_url": "https://i.discogs.com/qBzTp7bUDRGYQ6Gge1VGKQyOeVgaAv2QwOqD5qqliyY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxODY5/OC0xNjgwMTg4NjEz/LTU3NDEuanBlZw.jpeg"
+      },
+      {
+        "name": "Atlantic Studios",
+        "catno": "",
+        "entity_type": "30",
+        "entity_type_name": "Lacquer Cut At",
+        "id": 264584,
+        "resource_url": "https://api.discogs.com/labels/264584",
+        "thumbnail_url": "https://i.discogs.com/p0I8ehlfTm_iEWWkwO9YhR1Ee5FTLfoVLkTXrQWY9SI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDU4/NC0xNjYzMzQxMzg4/LTE1NTMuanBlZw.jpeg"
+      },
+      {
+        "name": "Presswell",
+        "catno": "",
+        "entity_type": "17",
+        "entity_type_name": "Pressed By",
+        "id": 130920,
+        "resource_url": "https://api.discogs.com/labels/130920",
+        "thumbnail_url": "https://i.discogs.com/ysV-e6sWbExpfZeN9fnDYcNiNvIjmBIqrwjhLWvN2j4/rs:fit/g:sm/q:90/h:135/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMDky/MC0xMzQwNDE4NTUw/LTI4NDUuanBlZw.jpeg"
+      },
+      {
+        "name": "Hipgnosis (2)",
+        "catno": "",
+        "entity_type": "33",
+        "entity_type_name": "Designed At",
+        "id": 278599,
+        "resource_url": "https://api.discogs.com/labels/278599",
+        "thumbnail_url": "https://i.discogs.com/J8SrEdO_3UAtvu-BEqM-mHidtUqiGzFINzbJNMJ8ZMk/rs:fit/g:sm/q:90/h:365/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3ODU5/OS0xNTk2NDA0MjUz/LTI3MDUuanBlZw.jpeg"
+      },
+      {
+        "name": "Atlantic Recording Corporation",
+        "catno": "",
+        "entity_type": "4",
+        "entity_type_name": "Record Company",
+        "id": 23937,
+        "resource_url": "https://api.discogs.com/labels/23937",
+        "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+      },
+      {
+        "name": "Warner Communications",
+        "catno": "",
+        "entity_type": "4",
+        "entity_type_name": "Record Company",
+        "id": 552180,
+        "resource_url": "https://api.discogs.com/labels/552180",
+        "thumbnail_url": "https://i.discogs.com/S_f58w7fIK9rNZ3U5whQEZTIi2iFjwgB2vgoNCBgAvk/rs:fit/g:sm/q:90/h:156/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU1MjE4/MC0xNDQ0NjE2MTQy/LTk2NTcucG5n.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ],
+        "text": "PR - Presswell Press"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 4552,
+      "want": 366,
+      "rating": {
+        "count": 355,
+        "average": 4.17
+      },
+      "submitter": {
+        "username": "joseph_blough",
+        "resource_url": "https://api.discogs.com/users/joseph_blough"
+      },
+      "contributors": [
+        {
+          "username": "joseph_blough",
+          "resource_url": "https://api.discogs.com/users/joseph_blough"
+        },
+        {
+          "username": "ldgendt",
+          "resource_url": "https://api.discogs.com/users/ldgendt"
+        },
+        {
+          "username": "Antiskub",
+          "resource_url": "https://api.discogs.com/users/Antiskub"
+        },
+        {
+          "username": "gravelfreeman",
+          "resource_url": "https://api.discogs.com/users/gravelfreeman"
+        },
+        {
+          "username": "bloodmyst",
+          "resource_url": "https://api.discogs.com/users/bloodmyst"
+        },
+        {
+          "username": "vcmonk",
+          "resource_url": "https://api.discogs.com/users/vcmonk"
+        },
+        {
+          "username": "recordsbay",
+          "resource_url": "https://api.discogs.com/users/recordsbay"
+        },
+        {
+          "username": "Cornbread55",
+          "resource_url": "https://api.discogs.com/users/Cornbread55"
+        },
+        {
+          "username": "kaoscapt",
+          "resource_url": "https://api.discogs.com/users/kaoscapt"
+        },
+        {
+          "username": "Diognes_The_Fox",
+          "resource_url": "https://api.discogs.com/users/Diognes_The_Fox"
+        },
+        {
+          "username": "Jp_NH",
+          "resource_url": "https://api.discogs.com/users/Jp_NH"
+        },
+        {
+          "username": "youtoo_records",
+          "resource_url": "https://api.discogs.com/users/youtoo_records"
+        },
+        {
+          "username": "ferevervinyl",
+          "resource_url": "https://api.discogs.com/users/ferevervinyl"
+        },
+        {
+          "username": "Showbiz_Kid",
+          "resource_url": "https://api.discogs.com/users/Showbiz_Kid"
+        },
+        {
+          "username": "hockeydad9371",
+          "resource_url": "https://api.discogs.com/users/hockeydad9371"
+        },
+        {
+          "username": "Bulettenkoenig_1982",
+          "resource_url": "https://api.discogs.com/users/Bulettenkoenig_1982"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2008-09-30T21:02:05-07:00",
+    "date_changed": "2024-09-21T03:15:38-07:00",
+    "num_for_sale": 62,
+    "lowest_price": 3.7,
+    "master_id": 28748,
+    "master_url": "https://api.discogs.com/masters/28748",
+    "title": "A Trick Of The Tail",
+    "country": "US",
+    "released": "1976-02-24",
+    "notes": "[l=Presswell] pressing denoted by \"PR\" plant code on labels and etched in runouts. Gatefold.\nIssued with custom illustrated inner sleeve.\n\nEquipment - Tex and Jeff\nLiquid Sustenance - Neal, John and Terry\nSpecial Thanks to - Tony Smith, Alex Sim and Regis",
+    "released_formatted": "24 Feb 1976",
+    "identifiers": [
+      {
+        "type": "Pressing Plant ID",
+        "value": "PR",
+        "description": "Labels"
+      },
+      {
+        "type": "Price Code",
+        "value": "0698",
+        "description": "Spine"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-C-763533 PR",
+        "description": "Label A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-C-763534 PR",
+        "description": "Label B"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "STC-763533-A AT PR",
+        "description": "Runout A"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "ST-C-763534-A AT PR",
+        "description": "Runout B"
+      }
+    ],
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=DwNC9nqERHw",
+        "title": "Dance on a Volcano",
+        "description": "Provided to YouTube by Atlantic Records\n\nDance on a Volcano · Genesis\n\nA Trick of the Tail\n\n℗ 1976 Philip Collins Limited, Anthony Banks Limited, Michael Rutherford Limited under exclusive license to Atlantic Recording Corporation for the United States an",
+        "duration": 355,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=hc-zm2pSoBQ",
+        "title": "Entangled",
+        "description": "Provided to YouTube by Atlantic Records\n\nEntangled · Genesis\n\nA Trick of the Tail\n\n℗ 1976 Philip Collins Limited, Anthony Banks Limited, Michael Rutherford Limited under exclusive license to Atlantic Recording Corporation for the United States and WEA Int",
+        "duration": 387,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=1aRjG72RCEM",
+        "title": "Squonk",
+        "description": "Provided to YouTube by Atlantic Records\n\nSquonk · Genesis\n\nA Trick of the Tail\n\n℗ 1976 Philip Collins Limited, Anthony Banks Limited, Michael Rutherford Limited under exclusive license to Atlantic Recording Corporation for the United States and WEA Intern",
+        "duration": 390,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=UMPT1jIz4SE",
+        "title": "Mad Man Moon",
+        "description": "Provided to YouTube by Atlantic Records\n\nMad Man Moon · Genesis\n\nA Trick of the Tail\n\n℗ 1976 Philip Collins Limited, Anthony Banks Limited, Michael Rutherford Limited under exclusive license to Atlantic Recording Corporation for the United States and WEA ",
+        "duration": 456,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=a5QvdboHcII",
+        "title": "Robbery, Assault and Battery",
+        "description": "Provided to YouTube by Atlantic Records\n\nRobbery, Assault and Battery · Genesis\n\nA Trick of the Tail\n\n℗ 1976 Philip Collins Limited, Anthony Banks Limited, Michael Rutherford Limited under exclusive license to Atlantic Recording Corporation for the United",
+        "duration": 377,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Dol5N1SbYl0",
+        "title": "Ripples",
+        "description": "Provided to YouTube by Atlantic Records\n\nRipples · Genesis\n\nA Trick of the Tail\n\n℗ 1976 Philip Collins Limited, Anthony Banks Limited, Michael Rutherford Limited under exclusive license to Atlantic Recording Corporation for the United States and WEA Inter",
+        "duration": 487,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=A2ODxj7A-_w",
+        "title": "A Trick of the Tail",
+        "description": "Provided to YouTube by Atlantic Records\n\nA Trick of the Tail · Genesis\n\nA Trick of the Tail\n\n℗ 1976 Philip Collins Limited, Anthony Banks Limited, Michael Rutherford Limited under exclusive license to Atlantic Recording Corporation for the United States a",
+        "duration": 275,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=7qEalMA46mQ",
+        "title": "Los Endos",
+        "description": "Provided to YouTube by Atlantic Records\n\nLos Endos · Genesis\n\nA Trick of the Tail\n\n℗ 1976 Philip Collins Limited, Anthony Banks Limited, Michael Rutherford Limited under exclusive license to Atlantic Recording Corporation for the United States and WEA Int",
+        "duration": 347,
+        "embed": true
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Dance On A Volcano",
+        "extraartists": [
+          {
+            "name": "Mike Rutherford",
+            "anv": "Rutherford",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 296372,
+            "resource_url": "https://api.discogs.com/artists/296372"
+          },
+          {
+            "name": "Phil Collins",
+            "anv": "Collins",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 101028,
+            "resource_url": "https://api.discogs.com/artists/101028"
+          },
+          {
+            "name": "Steve Hackett",
+            "anv": "Hackett",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 125989,
+            "resource_url": "https://api.discogs.com/artists/125989"
+          },
+          {
+            "name": "Tony Banks",
+            "anv": "Banks",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 336885,
+            "resource_url": "https://api.discogs.com/artists/336885"
+          }
+        ],
+        "duration": "5:54"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Entangled",
+        "extraartists": [
+          {
+            "name": "Steve Hackett",
+            "anv": "Hackett",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 125989,
+            "resource_url": "https://api.discogs.com/artists/125989"
+          },
+          {
+            "name": "Tony Banks",
+            "anv": "Banks",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 336885,
+            "resource_url": "https://api.discogs.com/artists/336885"
+          }
+        ],
+        "duration": "6:26"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Squonk",
+        "extraartists": [
+          {
+            "name": "Mike Rutherford",
+            "anv": "Rutherford",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 296372,
+            "resource_url": "https://api.discogs.com/artists/296372"
+          },
+          {
+            "name": "Tony Banks",
+            "anv": "Banks",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 336885,
+            "resource_url": "https://api.discogs.com/artists/336885"
+          }
+        ],
+        "duration": "6:29"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Mad Man Moon",
+        "extraartists": [
+          {
+            "name": "Tony Banks",
+            "anv": "Banks",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 336885,
+            "resource_url": "https://api.discogs.com/artists/336885"
+          }
+        ],
+        "duration": "7:35"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Robbery, Assault & Battery",
+        "extraartists": [
+          {
+            "name": "Phil Collins",
+            "anv": "Collins",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 101028,
+            "resource_url": "https://api.discogs.com/artists/101028"
+          },
+          {
+            "name": "Tony Banks",
+            "anv": "Banks",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 336885,
+            "resource_url": "https://api.discogs.com/artists/336885"
+          }
+        ],
+        "duration": "6:16"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "Ripples",
+        "extraartists": [
+          {
+            "name": "Mike Rutherford",
+            "anv": "Rutherford",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 296372,
+            "resource_url": "https://api.discogs.com/artists/296372"
+          },
+          {
+            "name": "Tony Banks",
+            "anv": "Banks",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 336885,
+            "resource_url": "https://api.discogs.com/artists/336885"
+          }
+        ],
+        "duration": "8:07"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "A Trick Of The Tail",
+        "extraartists": [
+          {
+            "name": "Tony Banks",
+            "anv": "Banks",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 336885,
+            "resource_url": "https://api.discogs.com/artists/336885"
+          }
+        ],
+        "duration": "4:34"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Los Endos",
+        "extraartists": [
+          {
+            "name": "Mike Rutherford",
+            "anv": "Rutherford",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 296372,
+            "resource_url": "https://api.discogs.com/artists/296372"
+          },
+          {
+            "name": "Phil Collins",
+            "anv": "Collins",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 101028,
+            "resource_url": "https://api.discogs.com/artists/101028"
+          },
+          {
+            "name": "Steve Hackett",
+            "anv": "Hackett",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 125989,
+            "resource_url": "https://api.discogs.com/artists/125989"
+          },
+          {
+            "name": "Tony Banks",
+            "anv": "Banks",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 336885,
+            "resource_url": "https://api.discogs.com/artists/336885"
+          }
+        ],
+        "duration": "5:46"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Genesis",
+        "anv": "",
+        "join": "",
+        "role": "Arranged By, Performer",
+        "tracks": "",
+        "id": 124506,
+        "resource_url": "https://api.discogs.com/artists/124506"
+      },
+      {
+        "name": "Phil Collins",
+        "anv": "",
+        "join": "",
+        "role": "Drums, Percussion, Lead Vocals, Backing Vocals",
+        "tracks": "",
+        "id": 101028,
+        "resource_url": "https://api.discogs.com/artists/101028"
+      },
+      {
+        "name": "David Hentschel",
+        "anv": "",
+        "join": "",
+        "role": "Engineer",
+        "tracks": "",
+        "id": 264826,
+        "resource_url": "https://api.discogs.com/artists/264826"
+      },
+      {
+        "name": "Nick Bradford",
+        "anv": "Nick 'Haddock' Bradford",
+        "join": "",
+        "role": "Engineer",
+        "tracks": "",
+        "id": 410761,
+        "resource_url": "https://api.discogs.com/artists/410761"
+      },
+      {
+        "name": "Steve Hackett",
+        "anv": "",
+        "join": "",
+        "role": "Guitar, Twelve-String Guitar",
+        "tracks": "",
+        "id": 125989,
+        "resource_url": "https://api.discogs.com/artists/125989"
+      },
+      {
+        "name": "Tony Banks",
+        "anv": "",
+        "join": "",
+        "role": "Piano, Synthesizer, Organ, Mellotron, Twelve-String Guitar, Backing Vocals",
+        "tracks": "",
+        "id": 336885,
+        "resource_url": "https://api.discogs.com/artists/336885"
+      },
+      {
+        "name": "David Hentschel",
+        "anv": "",
+        "join": "",
+        "role": "Producer",
+        "tracks": "",
+        "id": 264826,
+        "resource_url": "https://api.discogs.com/artists/264826"
+      },
+      {
+        "name": "Genesis",
+        "anv": "",
+        "join": "",
+        "role": "Producer",
+        "tracks": "",
+        "id": 124506,
+        "resource_url": "https://api.discogs.com/artists/124506"
+      },
+      {
+        "name": "Colin Elgie",
+        "anv": "",
+        "join": "",
+        "role": "Sleeve, Design",
+        "tracks": "",
+        "id": 1829112,
+        "resource_url": "https://api.discogs.com/artists/1829112"
+      },
+      {
+        "name": "Mike Rutherford",
+        "anv": "",
+        "join": "",
+        "role": "Twelve-String Guitar, Bass, Pedalboard [Bass Pedals]",
+        "tracks": "",
+        "id": 296372,
+        "resource_url": "https://api.discogs.com/artists/296372"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/Uku6PmubyKwlcls2Vey11Ud8JhmVEWPS1dEvFdkqsR8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE1/OS0yOTI3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Uku6PmubyKwlcls2Vey11Ud8JhmVEWPS1dEvFdkqsR8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE1/OS0yOTI3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/CSlQzNNjjjN3WBUgTpUpGCE7JSbIIv212NoyGWa3psY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE1/OS0yOTI3LmpwZWc.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/nVxjxLu5HwMR7vzLK0Kyez9H7KZIo7_QGpwb-WREM1M/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE2/OS00MTc4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/nVxjxLu5HwMR7vzLK0Kyez9H7KZIo7_QGpwb-WREM1M/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE2/OS00MTc4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/RoM8r9GERkhZ_PIRSXsaop7rqgfAp_699geg1S4d6B4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE2/OS00MTc4LmpwZWc.jpeg",
+        "width": 600,
+        "height": 295
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/pye0c9HqFmCsjRoIv6k-qfNKp1GvN6r2dCpMWSzQ3LM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE3/Ni00Mjc2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/pye0c9HqFmCsjRoIv6k-qfNKp1GvN6r2dCpMWSzQ3LM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE3/Ni00Mjc2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/MhYuXR3XTBTG-giBLxRNCyyJt02grww654OF9k46hZ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE3/Ni00Mjc2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/ZDwqwWtpd5prODIjln9iJYTBmX3akvt2c33oWZ1gs9k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE5/Mi02NzE0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/ZDwqwWtpd5prODIjln9iJYTBmX3akvt2c33oWZ1gs9k/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE5/Mi02NzE0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/faETAILK0__6HEgJu3eeyNQO9S2ZTBY4AgKAKXFGAW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE5/Mi02NzE0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 597
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/0-JV0FEQeJymGJzCK7_cEeg1Vpzcoo-YdUpGmFtqhco/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE5/NC02Njg2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/0-JV0FEQeJymGJzCK7_cEeg1Vpzcoo-YdUpGmFtqhco/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE5/NC02Njg2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/ycQokHh6MWRRyK3Yr9PdXkz5dB4iMIvut8WQKouGHck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE5/NC02Njg2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/sErhYKf6JXE9y0Q6J18Yq0vriQDMwCBoViUyl2-FSuY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTIx/Ni05NDI0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/sErhYKf6JXE9y0Q6J18Yq0vriQDMwCBoViUyl2-FSuY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTIx/Ni05NDI0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/6ScKbSmlXQxI3-o2HmBA6SHsrhYbix4dn01hsDcCiCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTIx/Ni05NDI0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 592
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/TWavOgI2bgE9I34bHz-5jDovJ5DcFlSqntNU0Pe6Gsc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTIx/My0xODgyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/TWavOgI2bgE9I34bHz-5jDovJ5DcFlSqntNU0Pe6Gsc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTIx/My0xODgyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/BTR00JzMbGwjGxQO6sbaDrGSyMcpaex-e6aBg8jNgNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTIx/My0xODgyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/KZ3qxIP3NnZaFnVli1CVuYjlP4Fbu7WwWXn_d4zkUhg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTYyOTEwMTAw/OS04NTg0LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/KZ3qxIP3NnZaFnVli1CVuYjlP4Fbu7WwWXn_d4zkUhg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTYyOTEwMTAw/OS04NTg0LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/KGQszcRFPwjN0OTPTRh9ihhoRvU7l_nJl5hJhX6-ubU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTYyOTEwMTAw/OS04NTg0LmpwZWc.jpeg",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/CSlQzNNjjjN3WBUgTpUpGCE7JSbIIv212NoyGWa3psY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODAx/NDUtMTQ4NDM2MTE1/OS0yOTI3LmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  }
+}

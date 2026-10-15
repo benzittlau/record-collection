@@ -1,0 +1,686 @@
+{
+  "id": 9642423,
+  "status": "Accepted",
+  "year": 1975,
+  "resource_url": "https://api.discogs.com/releases/9642423",
+  "uri": "https://www.discogs.com/release/9642423-Janis-Ian-Between-The-Lines",
+  "artists": [
+    {
+      "name": "Janis Ian",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 98825,
+      "resource_url": "https://api.discogs.com/artists/98825",
+      "thumbnail_url": "https://i.discogs.com/eBRrukT4WqEfdag-UaHMbBQMxFmxRJSG3f2bZKCljzA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk4ODI1/LTEzNDU2NTQ2ODIt/NTIxMi5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Janis Ian",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "PC 33394",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "The Rainbow Collection",
+      "catno": "PC 33394",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 310794,
+      "resource_url": "https://api.discogs.com/labels/310794",
+      "thumbnail_url": "https://i.discogs.com/vMCxBzRO1Yh2TjayRXRPYKctbkfXWdueEvhtNfBx21Q/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMDc5/NC0xNDA2NDY4NDcw/LTUyNTMuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Columbia Records of Canada, Ltd.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 266363,
+      "resource_url": "https://api.discogs.com/labels/266363",
+      "thumbnail_url": "https://i.discogs.com/oIxV9wHaY93KrTTilUUTTp66a_ED1NQxxJjq4KnBink/rs:fit/g:sm/q:90/h:245/w:245/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjM2/My0xNTk0NDEyMDE4/LTgwOTYuanBlZw.jpeg"
+    },
+    {
+      "name": "Columbia Records of Canada, Ltd.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 266363,
+      "resource_url": "https://api.discogs.com/labels/266363",
+      "thumbnail_url": "https://i.discogs.com/oIxV9wHaY93KrTTilUUTTp66a_ED1NQxxJjq4KnBink/rs:fit/g:sm/q:90/h:245/w:245/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjM2/My0xNTk0NDEyMDE4/LTgwOTYuanBlZw.jpeg"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "Customatrix",
+      "catno": "",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 586613,
+      "resource_url": "https://api.discogs.com/labels/586613",
+      "thumbnail_url": "https://i.discogs.com/LiE-B7ojg3c5y6MjWhT1mxNVst27bYOmGZyVCBx8Ljo/rs:fit/g:sm/q:90/h:203/w:176/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4NjYx/My0xNzYwNTM1MzEw/LTk2NTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Shorewood Packaging Corp. Of Canada Ltd.",
+      "catno": "",
+      "entity_type": "19",
+      "entity_type_name": "Printed By",
+      "id": 856208,
+      "resource_url": "https://api.discogs.com/labels/856208",
+      "thumbnail_url": "https://i.discogs.com/zdFPgAI9D6tUxmtCG3OFzxqTZ0gkn42M5OfmJD-oLKY/rs:fit/g:sm/q:90/h:285/w:285/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg1NjIw/OC0xNjQ2NzkzOTAw/LTc0NDkuanBlZw.jpeg"
+    },
+    {
+      "name": "Customatrix",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 586613,
+      "resource_url": "https://api.discogs.com/labels/586613",
+      "thumbnail_url": "https://i.discogs.com/LiE-B7ojg3c5y6MjWhT1mxNVst27bYOmGZyVCBx8Ljo/rs:fit/g:sm/q:90/h:203/w:176/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4NjYx/My0xNzYwNTM1MzEw/LTk2NTAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 244,
+    "want": 29,
+    "rating": {
+      "count": 10,
+      "average": 4.1
+    },
+    "submitter": {
+      "username": "dyet",
+      "resource_url": "https://api.discogs.com/users/dyet"
+    },
+    "contributors": [
+      {
+        "username": "dyet",
+        "resource_url": "https://api.discogs.com/users/dyet"
+      },
+      {
+        "username": "marcvelez",
+        "resource_url": "https://api.discogs.com/users/marcvelez"
+      },
+      {
+        "username": "Vinyl29",
+        "resource_url": "https://api.discogs.com/users/Vinyl29"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2017-01-10T13:11:37-08:00",
+  "date_changed": "2026-05-19T16:51:49-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 3.42,
+  "master_id": 60375,
+  "master_url": "https://api.discogs.com/masters/60375",
+  "title": "Between The Lines",
+  "country": "Canada",
+  "released": "1975",
+  "notes": "℗ 1975 CBS Inc. © 1975 CBS Inc.\n\nBack cover bottom; Mfd and dist by Columbia records Of Canada\n\nSpine: SPC [Shorewood Canada logo] Litho in Canada",
+  "released_formatted": "1975",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "o P O AL-33394-1D",
+      "description": "Side A etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "o P O BL-33394-1C",
+      "description": "Side B etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 33394",
+      "description": "Side A Label Matrix"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BL 33394",
+      "description": "Side B Label Matrix"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=KSmSf153-8A",
+      "title": "Janis ian - between the lines",
+      "description": "There's never much to say between the moments of\nour games and repartee\nThere's never much to read betweeen the lines of\nwhat we need and what we'll take\nThere's never much to talk about or say aloud,\nbut say it anyway\nOf holidays and yesterdays, and brok",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_8cmEMIM7So",
+      "title": "Tea and Sympathy · Janis Ian",
+      "description": "From Janis Ian album \"Between the Lines\", released in 1975.",
+      "duration": 273,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KSmSf153-8A",
+      "title": "Janis ian - between the lines",
+      "description": "There's never much to say between the moments of\nour games and repartee\nThere's never much to read betweeen the lines of\nwhat we need and what we'll take\nThere's never much to talk about or say aloud,\nbut say it anyway\nOf holidays and yesterdays, and brok",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zoeougL63k8",
+      "title": "from me to you",
+      "description": "janis ian, from me to you",
+      "duration": 200,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UR7ambpHOog",
+      "title": "bright lights and promises",
+      "description": "janis ian bright lights and promises",
+      "duration": 260,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NnBvAM-vjW8",
+      "title": "Janis Ian : Water Color",
+      "description": "Songwriters: IAN, JANIS\n\nI REMEMBER PHOTOGRAPHS\nWATERCOLORS OF THE PAST\nHE TURNED AND SAID, YOU ASK MUCH OF ME\nTHEN, WHEN WE'D MADE OUR PEACE\nWE LAY BETWEEN THE SHEETS\nHE TURNED AND SAID, I SET YOU FREE\n\nGO ON, BE A HERO, BE A PHOTOGRAPH\nMAKE YOUR OWN MYT",
+      "duration": 309,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hrxyFCVml8k",
+      "title": "JANIS IAN - THE COME ON.avi",
+      "description": "This song was included in Janis Ian's 1975 Album entitled, \"BETWEEN THE LINES\" on the Columbia Records label. The album was a Grammy winner.",
+      "duration": 139,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hwEIWGWEr28",
+      "title": "At Seventeen - Janis Ian",
+      "description": "At Seventeen is an adult contemporary song by Janis Ian featured on her 1975 album, \"Between the Lines\"\n\nCheck out my main channel for a lot of randomness\nhttp://www.youtube.com/user/Meowgon",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QiCiN1o8u2Q",
+      "title": "Between The Lines",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nBetween The Lines · Janis Ian / Janis Ian\n\nBetween The Lines\n\n℗ 1975 Sony Music Entertainment Inc.\n\nReleased on: 1986-06-24\n\nAssociated Performer, Composer: Janis Ian / Janis Ian\nProducer: Brooks Arthur\n",
+      "duration": 243,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=OonuL8v5g_E",
+      "title": "At Seventeen",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nAt Seventeen · Janis Ian / Janis Ian\n\nBetween The Lines\n\n℗ 1975 SONY BMG MUSIC ENTERTAINMENT\n\nReleased on: 1986-06-24\n\nAssociated Performer, Composer, Lyricist: Janis Ian / Janis Ian\nProducer: Brooks Art",
+      "duration": 281,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=apnTwk4RfGM",
+      "title": "Janis Ian - Between The Lines",
+      "description": "",
+      "duration": 240,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KSmSf153-8A",
+      "title": "Janis ian - between the lines",
+      "description": "There's never much to say between the moments of\nour games and repartee\nThere's never much to read betweeen the lines of\nwhat we need and what we'll take\nThere's never much to talk about or say aloud,\nbut say it anyway\nOf holidays and yesterdays, and brok",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EfwBAjfR1F0",
+      "title": "Janis Ian - At Seventeen (vinyl), Shure M35X, Graham Slee Reflex M",
+      "description": "See my blog: Music And Vinyl\nhttp://musicandvinyl.blogspot.co.uk/ \n\nShure M35X cartridge\nSony PS-X600 direct drive \"Biotracer\" turntable\nGraham Slee Reflex M phono stage\nLexicon I-O 22 USB audio interface\nAdobe Audition CC 2015\nAdobe Premier Pro CC 2015\nM",
+      "duration": 311,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gvHA86lTJmI",
+      "title": "In the Winter (Remastered)",
+      "description": "Provided to YouTube by Sony Music Entertainment\n\nIn the Winter (Remastered) · Janis Ian\n\nBetween the Lines\n\n℗ 2018 Rude Girl Records Inc., under exclusive license to Sony Music Entertainment UK Limited\n\nReleased on: 1975-03-01\n\nRe-mastering  Engineer: ",
+      "duration": 154,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KSmSf153-8A",
+      "title": "Janis ian - between the lines",
+      "description": "There's never much to say between the moments of\nour games and repartee\nThere's never much to read betweeen the lines of\nwhat we need and what we'll take\nThere's never much to talk about or say aloud,\nbut say it anyway\nOf holidays and yesterdays, and brok",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_8cmEMIM7So",
+      "title": "Tea and Sympathy · Janis Ian",
+      "description": "From Janis Ian album \"Between the Lines\", released in 1975.",
+      "duration": 273,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3WrZjTQW6S0",
+      "title": "Janis Ian - Lover's Lullaby",
+      "description": "from \"Between the Lines\" (1971)",
+      "duration": 329,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HT0H3tzCnHU",
+      "title": "Janis Ian - Seventeen",
+      "description": "From: \"Between The Lines\"\nYear of Release : 1975",
+      "duration": 288,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop",
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Ballad",
+    "Folk Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "When The Party's Over",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "2:57"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "At Seventeen",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "4:41"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "From Me To You",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "3:19"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Bright Lights And Promises",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "4:17"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "In The Winter",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "2:13"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Watercolors",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "4:58"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Between The Lines",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "4:03"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "The Come On",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "3:56"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Light A Light",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "2:45"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Tea & Sympathy",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "4:28"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Lover's Lullaby",
+      "extraartists": [
+        {
+          "name": "Janis Ian",
+          "anv": "J. Ian",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 98825,
+          "resource_url": "https://api.discogs.com/artists/98825"
+        }
+      ],
+      "duration": "5:25"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Don Payne",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 269448,
+      "resource_url": "https://api.discogs.com/artists/269448"
+    },
+    {
+      "name": "Richard Davis (2)",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 263441,
+      "resource_url": "https://api.discogs.com/artists/263441"
+    },
+    {
+      "name": "Barry Lazarowitz",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 349590,
+      "resource_url": "https://api.discogs.com/artists/349590"
+    },
+    {
+      "name": "Peter Cunningham (2)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2281254,
+      "resource_url": "https://api.discogs.com/artists/2281254"
+    },
+    {
+      "name": "Brooks Arthur",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 265102,
+      "resource_url": "https://api.discogs.com/artists/265102"
+    },
+    {
+      "name": "Al Gorgoni",
+      "anv": "",
+      "join": "",
+      "role": "Soloist",
+      "tracks": "",
+      "id": 394509,
+      "resource_url": "https://api.discogs.com/artists/394509"
+    },
+    {
+      "name": "Alan Raph",
+      "anv": "",
+      "join": "",
+      "role": "Soloist",
+      "tracks": "",
+      "id": 264570,
+      "resource_url": "https://api.discogs.com/artists/264570"
+    },
+    {
+      "name": "Burt Collins",
+      "anv": "",
+      "join": "",
+      "role": "Soloist",
+      "tracks": "",
+      "id": 106584,
+      "resource_url": "https://api.discogs.com/artists/106584"
+    },
+    {
+      "name": "George Ricci",
+      "anv": "",
+      "join": "",
+      "role": "Soloist",
+      "tracks": "",
+      "id": 259619,
+      "resource_url": "https://api.discogs.com/artists/259619"
+    },
+    {
+      "name": "Janis Ian",
+      "anv": "",
+      "join": "",
+      "role": "Soloist",
+      "tracks": "",
+      "id": 98825,
+      "resource_url": "https://api.discogs.com/artists/98825"
+    },
+    {
+      "name": "Kenny Kosek",
+      "anv": "Ken Kosak",
+      "join": "",
+      "role": "Soloist",
+      "tracks": "",
+      "id": 398008,
+      "resource_url": "https://api.discogs.com/artists/398008"
+    },
+    {
+      "name": "Phil Bodner",
+      "anv": "",
+      "join": "",
+      "role": "Soloist",
+      "tracks": "",
+      "id": 260720,
+      "resource_url": "https://api.discogs.com/artists/260720"
+    },
+    {
+      "name": "Russell George",
+      "anv": "",
+      "join": "",
+      "role": "Soloist",
+      "tracks": "",
+      "id": 353754,
+      "resource_url": "https://api.discogs.com/artists/353754"
+    },
+    {
+      "name": "Sal DiTroia",
+      "anv": "",
+      "join": "",
+      "role": "Soloist",
+      "tracks": "",
+      "id": 1374879,
+      "resource_url": "https://api.discogs.com/artists/1374879"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/9yEg_1gLtpv9oOsIySIhlKqXQh2NqPJzm5tptJXKahc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Ni01NzI5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/9yEg_1gLtpv9oOsIySIhlKqXQh2NqPJzm5tptJXKahc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Ni01NzI5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/dWevry5VMgrIBnT6ZjUctjwF9P448KPwKCh9XHQVXEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Ni01NzI5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aXwBkqaUPaS53NB98AfUw6d53eM0DJx9m65oHHVYMkM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Mi00NTIxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/aXwBkqaUPaS53NB98AfUw6d53eM0DJx9m65oHHVYMkM/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Mi00NTIxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/IEgj_qItZIRFS_wgzpNmMhCR1GtaJuVlBKkFg-fz7QQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Mi00NTIxLmpwZWc.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lFcxT3rlSwYC9jEiAGqFjtdLR4DF7wZ9mQP3npzaj2A/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/My00ODg1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/lFcxT3rlSwYC9jEiAGqFjtdLR4DF7wZ9mQP3npzaj2A/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/My00ODg1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/K9ueWRlJeth23D2v9eNNu0MAcJpTh2Fy6d-QPdoisig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/My00ODg1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CXA6zHWuP3P9muxV_00DppcJbN4U9p2iAxrOP7d5xHc/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/NS03MjE5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/CXA6zHWuP3P9muxV_00DppcJbN4U9p2iAxrOP7d5xHc/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/NS03MjE5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/e9V2NP66TYKyE1DnuQkGiO8venFAeuUjIMOpq_-aouI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/NS03MjE5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Mo3ROhMc69fNng6nn9r1o62x8SI-9Rg0JxF28uIzeUI/rs:fit/g:sm/q:90/h:600/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/NS05OTcyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Mo3ROhMc69fNng6nn9r1o62x8SI-9Rg0JxF28uIzeUI/rs:fit/g:sm/q:90/h:600/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/NS05OTcyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/7U-1ufg0XDaJGdAFdiUsym51qVggmaF_hioNy23FQoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/NS05OTcyLmpwZWc.jpeg",
+      "width": 474,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/891TT4cH1y-to271hW96JBh57FXBGDKjwxFYudqXvBg/rs:fit/g:sm/q:90/h:600/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Ni0zODQ1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/891TT4cH1y-to271hW96JBh57FXBGDKjwxFYudqXvBg/rs:fit/g:sm/q:90/h:600/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Ni0zODQ1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/_f4bj9bJdqCwIepphg8-DpxXD3F6F2R0rbvhFfWeKL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Ni0zODQ1LmpwZWc.jpeg",
+      "width": 497,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/dWevry5VMgrIBnT6ZjUctjwF9P448KPwKCh9XHQVXEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NDI0/MjMtMTQ4NDA4Mjcy/Ni01NzI5LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

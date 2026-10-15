@@ -1,0 +1,475 @@
+{
+  "url": "https://api.discogs.com/releases/6398906",
+  "retrieved": "2026-10-15T03:28:44Z",
+  "data": {
+    "id": 6398906,
+    "status": "Accepted",
+    "year": 1978,
+    "resource_url": "https://api.discogs.com/releases/6398906",
+    "uri": "https://www.discogs.com/release/6398906-Dire-Straits-Dire-Straits",
+    "artists": [
+      {
+        "name": "Dire Straits",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 103687,
+        "resource_url": "https://api.discogs.com/artists/103687",
+        "thumbnail_url": "https://i.discogs.com/4akh63U9KGNd6VUSaSpy2w-IfCEbxv5hn6GTGClEnOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwMzY4/Ny0xNTQ3MDc1MzU5/LTkxNTEuanBlZw.jpeg"
+      }
+    ],
+    "artists_sort": "Dire Straits",
+    "labels": [
+      {
+        "name": "Mercury",
+        "catno": "SRM-1-1197",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 39357,
+        "resource_url": "https://api.discogs.com/labels/39357",
+        "thumbnail_url": "https://i.discogs.com/Gk10JQfI8xTIB79ehV94mylhBMI0-KediNkDlP0wk3M/rs:fit/g:sm/q:90/h:269/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MzU3/LTE3ODE4ODgzMDIt/MTAyMS5qcGVn.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "Basing Street Studios",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 264413,
+        "resource_url": "https://api.discogs.com/labels/264413",
+        "thumbnail_url": "https://i.discogs.com/BxLoE9z0mcShxwuWyeblFh23ObJ63eaLZRCkyXiKnss/rs:fit/g:sm/q:90/h:454/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDQx/My0xMzU3NzY5Njg5/LTg3MzEuanBlZw.jpeg"
+      },
+      {
+        "name": "Polydor Ltd. (2)",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 332521,
+        "resource_url": "https://api.discogs.com/labels/332521"
+      },
+      {
+        "name": "Polydor Ltd. (2)",
+        "catno": "",
+        "entity_type": "9",
+        "entity_type_name": "Distributed By",
+        "id": 332521,
+        "resource_url": "https://api.discogs.com/labels/332521"
+      },
+      {
+        "name": "Phonogram Ltd.",
+        "catno": "",
+        "entity_type": "13",
+        "entity_type_name": "Phonographic Copyright (p)",
+        "id": 224185,
+        "resource_url": "https://api.discogs.com/labels/224185",
+        "thumbnail_url": "https://i.discogs.com/hBPAj5K-NLt-FT-FwezxkIn-1hvdZkE0or7wRe_xpo4/rs:fit/g:sm/q:90/h:122/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyNDE4/NS0xMzc0NTc4Mzcw/LTQ3NTYuanBlZw.jpeg"
+      },
+      {
+        "name": "Strait Jacket Songs",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 305616,
+        "resource_url": "https://api.discogs.com/labels/305616"
+      },
+      {
+        "name": "Rondor Music",
+        "catno": "",
+        "entity_type": "21",
+        "entity_type_name": "Published By",
+        "id": 81342,
+        "resource_url": "https://api.discogs.com/labels/81342",
+        "thumbnail_url": "https://i.discogs.com/EtZt51YYhyg9fySWZJXquiygXdmKb7xA50D_o-ucblE/rs:fit/g:sm/q:90/h:600/w:413/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgxMzQy/LTE3ODY5MDQ1NzMt/OTQ2Ny5qcGVn.jpeg"
+      },
+      {
+        "name": "London Records Of Canada (1967) Ltd.",
+        "catno": "",
+        "entity_type": "17",
+        "entity_type_name": "Pressed By",
+        "id": 264089,
+        "resource_url": "https://api.discogs.com/labels/264089",
+        "thumbnail_url": "https://i.discogs.com/4nr_aSdNiUdxPsr2MTJtXfWjoZDBA6nBopFWOn4TO18/rs:fit/g:sm/q:90/h:564/w:564/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA4/OS0xNTg3MjQxMDY4/LTk4NjkuanBlZw.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Stereo"
+        ]
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 1921,
+      "want": 532,
+      "rating": {
+        "count": 150,
+        "average": 4.33
+      },
+      "submitter": {
+        "username": "yankfish",
+        "resource_url": "https://api.discogs.com/users/yankfish"
+      },
+      "contributors": [
+        {
+          "username": "yankfish",
+          "resource_url": "https://api.discogs.com/users/yankfish"
+        },
+        {
+          "username": "essrafan",
+          "resource_url": "https://api.discogs.com/users/essrafan"
+        },
+        {
+          "username": "brunorepublic",
+          "resource_url": "https://api.discogs.com/users/brunorepublic"
+        },
+        {
+          "username": "farbigem_vinyl",
+          "resource_url": "https://api.discogs.com/users/farbigem_vinyl"
+        },
+        {
+          "username": "drfeelwell",
+          "resource_url": "https://api.discogs.com/users/drfeelwell"
+        },
+        {
+          "username": "mjk37",
+          "resource_url": "https://api.discogs.com/users/mjk37"
+        },
+        {
+          "username": "Bblanck",
+          "resource_url": "https://api.discogs.com/users/Bblanck"
+        },
+        {
+          "username": "MullaRecords",
+          "resource_url": "https://api.discogs.com/users/MullaRecords"
+        },
+        {
+          "username": "modr8r2",
+          "resource_url": "https://api.discogs.com/users/modr8r2"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2014-12-10T17:52:23-08:00",
+    "date_changed": "2025-12-01T14:14:01-08:00",
+    "num_for_sale": 6,
+    "lowest_price": 15.46,
+    "master_id": 23759,
+    "master_url": "https://api.discogs.com/masters/23759",
+    "title": "Dire Straits",
+    "country": "Canada",
+    "released": "1978",
+    "notes": "Skyscraper labels.\n\nRunouts are machine stamped, except \"y.c.\" which is etched.",
+    "released_formatted": "1978",
+    "identifiers": [
+      {
+        "type": "Pressing Plant ID",
+        "value": "1Y",
+        "description": "Runouts"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-1197A-1Y 2B",
+        "description": "Side A runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-1197B-1Y 2A",
+        "description": "Side B runout - variant 1"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-1197A-1Y 2B y.c. UO",
+        "description": "Side A runout - variant 2"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "SRM-1-1197B-1Y 2A y.c. UO",
+        "description": "Side B runout - variant 2"
+      }
+    ],
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=Y2Duog7ZWcA",
+        "title": "Down To The Waterline",
+        "description": "Provided to YouTube by Universal Music Group\n\nDown To The Waterline · Dire Straits\n\nDire Straits\n\n℗ 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nAssociated Per",
+        "duration": 242,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=rQF4kK63UKs",
+        "title": "Water Of Love",
+        "description": "Provided to YouTube by Universal Music Group\n\nWater Of Love · Dire Straits\n\nDire Straits\n\n℗ 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nAssociated Performer, ",
+        "duration": 326,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=YEBdP8JKdAE",
+        "title": "Setting Me Up",
+        "description": "Provided to YouTube by Universal Music Group\n\nSetting Me Up · Dire Straits\n\nDire Straits\n\n℗ 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nAssociated Performer, ",
+        "duration": 199,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=yRN04uR9kcc",
+        "title": "Six Blade Knife",
+        "description": "Provided to YouTube by Universal Music Group\n\nSix Blade Knife · Dire Straits\n\nDire Straits\n\n℗ 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nComposer Lyricist, Associated Performer, Vocals: Mark Knopfler\nBass Guitar, Associa",
+        "duration": 252,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=F7YgXdms6-0",
+        "title": "Southbound Again",
+        "description": "Provided to YouTube by Universal Music Group\n\nSouthbound Again · Dire Straits\n\nDire Straits\n\n℗ 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nComposer Lyricist, Associated Performer, Vocals: Mark Knopfler\nAssociated Performe",
+        "duration": 180,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=UKCTm7TkI88",
+        "title": "Sultans Of Swing",
+        "description": "Provided to YouTube by Universal Music Group\n\nSultans Of Swing · Dire Straits\n\nSultans Of Swing / Eastbound Train\n\n℗ 1978 Mercury Records Limited\n\nReleased on: 1978-05-19\n\nComposer Lyricist, Vocalist, Associated Performer, Producer: Mark Knopfler\nProducer",
+        "duration": 355,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=0_6CaC_gNCk",
+        "title": "In The Gallery",
+        "description": "Provided to YouTube by Universal Music Group\n\nIn The Gallery · Dire Straits\n\nDire Straits\n\n℗ 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nAssociated Performer,",
+        "duration": 376,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=Uy2l-fJh8R4",
+        "title": "Dire Straits – Wild West End (1978)",
+        "description": "Dire Straits – Wild West End (1978) \n#70s \nVinile 12\" 33 ⅓ RPM\nVertigo – 6360 162\nTaken From The Album – Dire Straits*\nBass – John Illsley*\nDrums – Pick Withers*\nSongwriter – Mark Knopfler*\nVocals* Lead Guitar* Rhythm Guitar – Mark Knopfler*\nEngineer – Rh",
+        "duration": 284,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=va7aQJt0Qh8",
+        "title": "Lions",
+        "description": "Provided to YouTube by Universal Music Group\n\nLions · Dire Straits\n\nDire Straits\n\n℗ 1978 Mercury Records Limited\n\nReleased on: 1978-01-01\n\nProducer: Muff Winwood\nVocals, Associated Performer, Composer Lyricist: Mark Knopfler\nBass Guitar, Associated Perfor",
+        "duration": 304,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=h0ffIJ7ZO4U",
+        "title": "Dire Straits - Sultans Of Swing (Official Music Video)",
+        "description": "The Official Music Video for Sultans of Swing. Taken from Dire Straits – Dire Straits.\n\nDire Straits – Live 1978-1992' is out now (UK/ROW). Out January 19th, 2024. (US). Order now: https://DireStraits.lnk.to/live78-92ID \n\n--\n\nListen to more music from Dir",
+        "duration": 267,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=wTP2RUD_cL0",
+        "title": "Dire Straits - Money For Nothing (Official Music Video)",
+        "description": "The Official Music Video for Money For Nothing. Taken from Dire Straits – Brothers in Arms.\n\nDire Straits – Live 1978-1992' is out now (UK/ROW). Out January 19th, 2024. (US). Order now: https://DireStraits.lnk.to/live78-92ID \n\n--\n\nListen to more music fro",
+        "duration": 279,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=eEVj5z6Yslk",
+        "title": "Dire Straits Playlist Of All Songs || Dire Straits Greatest Hits Full Album",
+        "description": "• Dire Straits Greatest Hits Full Album 2022 | Best Songs Of Dire Straits\n• Dire Straits Greatest Hits Full Album 2022 | Best Songs Of Dire Straits\n• Dire Straits Greatest Hits Full Album 2022 | Best Songs Of Dire Straits\n▽Follow '1980s Music'\n➞ Subscribe",
+        "duration": 0,
+        "embed": true
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock",
+      "Rock & Roll",
+      "Blues Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Down To The Waterline",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Water Of Love",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Setting Me Up",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Six Blade Knife",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "type_": "track",
+        "title": "Southbound Again",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Sultans Of Swing",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "In The Gallery",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Wild West End",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Lions",
+        "duration": ""
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Alan Schmidt",
+        "anv": "",
+        "join": "",
+        "role": "Art Direction",
+        "tracks": "",
+        "id": 597221,
+        "resource_url": "https://api.discogs.com/artists/597221"
+      },
+      {
+        "name": "John Illsley",
+        "anv": "",
+        "join": "",
+        "role": "Bass",
+        "tracks": "",
+        "id": 252763,
+        "resource_url": "https://api.discogs.com/artists/252763"
+      },
+      {
+        "name": "Hothouse (2)",
+        "anv": "",
+        "join": "",
+        "role": "Design, Artwork",
+        "tracks": "",
+        "id": 1837000,
+        "resource_url": "https://api.discogs.com/artists/1837000"
+      },
+      {
+        "name": "Pick Withers",
+        "anv": "",
+        "join": "",
+        "role": "Drums",
+        "tracks": "",
+        "id": 420030,
+        "resource_url": "https://api.discogs.com/artists/420030"
+      },
+      {
+        "name": "Rhett Davies",
+        "anv": "",
+        "join": "",
+        "role": "Engineer",
+        "tracks": "",
+        "id": 60621,
+        "resource_url": "https://api.discogs.com/artists/60621"
+      },
+      {
+        "name": "Yvon Caron",
+        "anv": "y.c.",
+        "join": "",
+        "role": "Lacquer Cut By",
+        "tracks": "",
+        "id": 1490852,
+        "resource_url": "https://api.discogs.com/artists/1490852"
+      },
+      {
+        "name": "Chuck Loyola",
+        "anv": "",
+        "join": "",
+        "role": "Painting [Cover]",
+        "tracks": "",
+        "id": 1904339,
+        "resource_url": "https://api.discogs.com/artists/1904339"
+      },
+      {
+        "name": "Paddy Eckersley",
+        "anv": "",
+        "join": "",
+        "role": "Photography By",
+        "tracks": "",
+        "id": 2235118,
+        "resource_url": "https://api.discogs.com/artists/2235118"
+      },
+      {
+        "name": "Muff Winwood",
+        "anv": "",
+        "join": "",
+        "role": "Producer",
+        "tracks": "",
+        "id": 260197,
+        "resource_url": "https://api.discogs.com/artists/260197"
+      },
+      {
+        "name": "David Knopfler",
+        "anv": "",
+        "join": "",
+        "role": "Rhythm Guitar",
+        "tracks": "",
+        "id": 260480,
+        "resource_url": "https://api.discogs.com/artists/260480"
+      },
+      {
+        "name": "Mark Knopfler",
+        "anv": "",
+        "join": "",
+        "role": "Vocals, Lead Guitar, Rhythm Guitar, Written-By",
+        "tracks": "",
+        "id": 236897,
+        "resource_url": "https://api.discogs.com/artists/236897"
+      }
+    ],
+    "images": [
+      {
+        "type": "primary",
+        "uri": "https://i.discogs.com/6wEJ73-GUqO1dbtLi0gvN-vPKVA2Cwj725mgO1WK7b4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg5/MDYtMTQ0OTUyNDgx/MC02NDkyLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/6wEJ73-GUqO1dbtLi0gvN-vPKVA2Cwj725mgO1WK7b4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg5/MDYtMTQ0OTUyNDgx/MC02NDkyLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/afmKd-kSko4H04w4QmztvSrizOdzWryZDpjsqRZiV94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg5/MDYtMTQ0OTUyNDgx/MC02NDkyLmpwZWc.jpeg",
+        "width": 600,
+        "height": 599
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/EtvV9mQ051OTcV5kxw2bz33ezvnMrMCLDId9FZVi4gI/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg5/MDYtMTQyNjExNDYz/MC0yNDgxLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/EtvV9mQ051OTcV5kxw2bz33ezvnMrMCLDId9FZVi4gI/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg5/MDYtMTQyNjExNDYz/MC0yNDgxLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/pVc80HYE0Y7_8s8vv9pbx2mbAZE7wRWw2VlYBU7NeQM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg5/MDYtMTQyNjExNDYz/MC0yNDgxLmpwZWc.jpeg",
+        "width": 600,
+        "height": 581
+      }
+    ],
+    "thumb": "https://i.discogs.com/afmKd-kSko4H04w4QmztvSrizOdzWryZDpjsqRZiV94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTg5/MDYtMTQ0OTUyNDgx/MC02NDkyLmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  }
+}

@@ -1,0 +1,701 @@
+{
+  "url": "https://api.discogs.com/releases/7966976",
+  "retrieved": "2026-10-15T03:29:46Z",
+  "data": {
+    "id": 7966976,
+    "status": "Accepted",
+    "year": 1970,
+    "resource_url": "https://api.discogs.com/releases/7966976",
+    "uri": "https://www.discogs.com/release/7966976-Ten-Wheel-Drive-With-Genya-Ravan-Brief-Replies",
+    "artists": [
+      {
+        "name": "Ten Wheel Drive",
+        "anv": "",
+        "join": "With",
+        "role": "",
+        "tracks": "",
+        "id": 494968,
+        "resource_url": "https://api.discogs.com/artists/494968",
+        "thumbnail_url": "https://i.discogs.com/D-gA-6RawHJfo2rpth_O_4xLLWsP4ZPHAJbVpf6esps/rs:fit/g:sm/q:90/h:377/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ5NDk2/OC0xNDA3MDQyMzY2/LTc2MjQuanBlZw.jpeg"
+      },
+      {
+        "name": "Genya Ravan",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 183977,
+        "resource_url": "https://api.discogs.com/artists/183977",
+        "thumbnail_url": "https://i.discogs.com/CE2Wjlb5Cp-zXRKwpc7nCSXAPniOeNyfkvRw9XOR_GA/rs:fit/g:sm/q:90/h:144/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE4Mzk3/Ny0xMjk5Njg4NzIw/LmpwZWc.jpeg"
+      }
+    ],
+    "artists_sort": "Ten Wheel Drive With Genya Ravan",
+    "labels": [
+      {
+        "name": "Polydor",
+        "catno": "24-4024",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1610,
+        "resource_url": "https://api.discogs.com/labels/1610",
+        "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+      },
+      {
+        "name": "Polydor",
+        "catno": "2425 022",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 1610,
+        "resource_url": "https://api.discogs.com/labels/1610",
+        "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+      }
+    ],
+    "series": [],
+    "companies": [
+      {
+        "name": "A&R Studios",
+        "catno": "",
+        "entity_type": "23",
+        "entity_type_name": "Recorded At",
+        "id": 264419,
+        "resource_url": "https://api.discogs.com/labels/264419",
+        "thumbnail_url": "https://i.discogs.com/x-HuOdXrsByg6HZkh_M4UEITnYbYjzBUfdafy5jMP20/rs:fit/g:sm/q:90/h:191/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDQx/OS0xMzUzMDA5OTc3/LTQ3NTYuanBlZw.jpeg"
+      },
+      {
+        "name": "Monarch Record Mfg. Co.",
+        "catno": "△14850",
+        "entity_type": "17",
+        "entity_type_name": "Pressed By",
+        "id": 264380,
+        "resource_url": "https://api.discogs.com/labels/264380",
+        "thumbnail_url": "https://i.discogs.com/KFXeTqZFdFUEJpuOqqdLbiVVXo_nvjzOYaPianMnXC4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDM4/MC0xNzE2ODgzNTI2/LTY0MzYuanBlZw.jpeg"
+      },
+      {
+        "name": "Polydor Incorporated",
+        "catno": "",
+        "entity_type": "10",
+        "entity_type_name": "Manufactured By",
+        "id": 264840,
+        "resource_url": "https://api.discogs.com/labels/264840",
+        "thumbnail_url": "https://i.discogs.com/kTEuJhfCryu0i-FyDOhfxCRlQjckCf26WZqXsqjEIew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDg0/MC0xNTM4MTQ1NzQ1/LTYyMjIuanBlZw.jpeg"
+      },
+      {
+        "name": "Polydor Incorporated",
+        "catno": "",
+        "entity_type": "4",
+        "entity_type_name": "Record Company",
+        "id": 264840,
+        "resource_url": "https://api.discogs.com/labels/264840",
+        "thumbnail_url": "https://i.discogs.com/kTEuJhfCryu0i-FyDOhfxCRlQjckCf26WZqXsqjEIew/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDg0/MC0xNTM4MTQ1NzQ1/LTYyMjIuanBlZw.jpeg"
+      }
+    ],
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album"
+        ],
+        "text": "Monarch Pressing, Gatefold"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "community": {
+      "have": 325,
+      "want": 80,
+      "rating": {
+        "count": 19,
+        "average": 3.84
+      },
+      "submitter": {
+        "username": "grebreges",
+        "resource_url": "https://api.discogs.com/users/grebreges"
+      },
+      "contributors": [
+        {
+          "username": "grebreges",
+          "resource_url": "https://api.discogs.com/users/grebreges"
+        },
+        {
+          "username": "Showbiz_Kid",
+          "resource_url": "https://api.discogs.com/users/Showbiz_Kid"
+        },
+        {
+          "username": "seehaas",
+          "resource_url": "https://api.discogs.com/users/seehaas"
+        }
+      ],
+      "data_quality": "Needs Vote",
+      "status": "Accepted"
+    },
+    "format_quantity": 1,
+    "date_added": "2016-01-12T03:57:22-08:00",
+    "date_changed": "2018-10-08T03:03:13-07:00",
+    "num_for_sale": 30,
+    "lowest_price": 2.35,
+    "master_id": 143035,
+    "master_url": "https://api.discogs.com/masters/143035",
+    "title": "Brief Replies",
+    "country": "US",
+    "released": "1970",
+    "notes": "[l264380] pressing denoted by (MR) stamp in runouts.\nRecorded at A&R Studios, New York City.",
+    "released_formatted": "1970",
+    "identifiers": [
+      {
+        "type": "Matrix / Runout",
+        "value": "POLP 80089",
+        "description": "Matrix A, on label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "POLP 80090",
+        "description": "Matrix B, on label"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "POLP-80089  (MR)  △14850",
+        "description": "Runout A etched / (MR) stamped"
+      },
+      {
+        "type": "Matrix / Runout",
+        "value": "POLP-80090  (MR)  △14850-X",
+        "description": "Runout B etched / (MR) stamped"
+      },
+      {
+        "type": "Rights Society",
+        "value": "BMI"
+      }
+    ],
+    "videos": [
+      {
+        "uri": "https://www.youtube.com/watch?v=7BiaheGSahA",
+        "title": "Brief Replies",
+        "description": "Provided to YouTube by Universal Music Group\n\nBrief Replies · Ten Wheel Drive · Genya Ravan\n\nThe Best Of Ten Wheel Drive\n\n℗ A Republic Records Release; ℗ 1970 UMG Recordings, Inc.\n\nReleased on: 1995-06-20\n\nProducer: Guy Draper\nComposer  Lyricist: Aram Sch",
+        "duration": 324,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qNrqm1NwFv0",
+        "title": "Ten Wheel Drive \"How Long Before I'm Gone\"",
+        "description": "Brief Replies 1970 Polydor",
+        "duration": 405,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DMTalK6JsjY",
+        "title": "Last Of The Line",
+        "description": "Provided to YouTube by Universal Music Group\n\nLast Of The Line · Ten Wheel Drive · Genya Ravan\n\nThe Best Of Ten Wheel Drive\n\n℗ A Republic Records Releaase; ℗ 1970 UMG Recordings, Inc.\n\nReleased on: 1995-06-20\n\nProducer: Guy Draper\nComposer  Lyricist: Aram",
+        "duration": 322,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=C5f6wlp5R3A",
+        "title": "Morning Much Better",
+        "description": "Provided to YouTube by Universal Music Group\n\nMorning Much Better · Ten Wheel Drive · Genya Ravan\n\nThe Best Of Ten Wheel Drive\n\n℗ A Repulic Records Release; ℗ 1970 UMG Recordings, Inc.\n\nReleased on: 1995-06-20\n\nProducer: Guy Draper\nAuthor: A. R Schefrin\nC",
+        "duration": 159,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=q5Jh2pi3Olk",
+        "title": "TEN WHEEL DRIVE: PULSE!",
+        "description": null,
+        "duration": 267,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=MF2nJ7BSmVk",
+        "title": "Ten Wheel Drive - Come Live With Me",
+        "description": null,
+        "duration": 324,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qNrqm1NwFv0",
+        "title": "Ten Wheel Drive \"How Long Before I'm Gone\"",
+        "description": null,
+        "duration": 405,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=NQX8x5q2cKI",
+        "title": "\"Stay With Me\" - Ten Wheel Drive w/ Genya Ravan",
+        "description": null,
+        "duration": 260,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=7BiaheGSahA",
+        "title": "Brief Replies",
+        "description": "Provided to YouTube by Universal Music Group\n\nBrief Replies · Ten Wheel Drive · Genya Ravan\n\nThe Best Of Ten Wheel Drive\n\n℗ A Republic Records Release; ℗ 1970 UMG Recordings, Inc.\n\nReleased on: 1995-06-20\n\nProducer: Guy Draper\nComposer  Lyricist: Aram Sch",
+        "duration": 324,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=qNrqm1NwFv0",
+        "title": "Ten Wheel Drive \"How Long Before I'm Gone\"",
+        "description": "Brief Replies 1970 Polydor",
+        "duration": 405,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=DMTalK6JsjY",
+        "title": "Last Of The Line",
+        "description": "Provided to YouTube by Universal Music Group\n\nLast Of The Line · Ten Wheel Drive · Genya Ravan\n\nThe Best Of Ten Wheel Drive\n\n℗ A Republic Records Releaase; ℗ 1970 UMG Recordings, Inc.\n\nReleased on: 1995-06-20\n\nProducer: Guy Draper\nComposer  Lyricist: Aram",
+        "duration": 322,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=C5f6wlp5R3A",
+        "title": "Morning Much Better",
+        "description": "Provided to YouTube by Universal Music Group\n\nMorning Much Better · Ten Wheel Drive · Genya Ravan\n\nThe Best Of Ten Wheel Drive\n\n℗ A Repulic Records Release; ℗ 1970 UMG Recordings, Inc.\n\nReleased on: 1995-06-20\n\nProducer: Guy Draper\nAuthor: A. R Schefrin\nC",
+        "duration": 159,
+        "embed": true
+      },
+      {
+        "uri": "https://www.youtube.com/watch?v=7mc_pxpBKvQ",
+        "title": "Ten Wheel Drive With Genya Ravan – Morning Much Better...yerdenizplak.com İstanbul Kadıköy",
+        "description": "Album: Ten Wheel Drive With Genya Ravan – Brief Replies\n\nLabel:Polydor – 24-4024, Polydor – 2425 022\n\nFormat:Vinyl, LP, Album, Stereo, Gatefold\n\nCountry:US\n\nReleased:1970\n\nGenre:Rock, Blues\n\nStyle:Blues Rock, Psychedelic Rock\n\nhttps://www.yerdenizplak.com",
+        "duration": 154,
+        "embed": true
+      }
+    ],
+    "genres": [
+      "Rock",
+      "Blues"
+    ],
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "type_": "track",
+        "title": "Morning Much Better",
+        "extraartists": [
+          {
+            "name": "Genya Ravan",
+            "anv": "Ravan",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 183977,
+            "resource_url": "https://api.discogs.com/artists/183977"
+          },
+          {
+            "name": "Michael Zager",
+            "anv": "Zager",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 91815,
+            "resource_url": "https://api.discogs.com/artists/91815"
+          }
+        ],
+        "duration": "2:36"
+      },
+      {
+        "position": "A2",
+        "type_": "track",
+        "title": "Brief Replies",
+        "extraartists": [
+          {
+            "name": "Aram Schefrin",
+            "anv": "Schefrin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 459001,
+            "resource_url": "https://api.discogs.com/artists/459001"
+          },
+          {
+            "name": "Michael Zager",
+            "anv": "Zager",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 91815,
+            "resource_url": "https://api.discogs.com/artists/91815"
+          }
+        ],
+        "duration": "5:35"
+      },
+      {
+        "position": "A3",
+        "type_": "track",
+        "title": "Pulse",
+        "extraartists": [
+          {
+            "name": "Genya Ravan",
+            "anv": "Ravan",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 183977,
+            "resource_url": "https://api.discogs.com/artists/183977"
+          },
+          {
+            "name": "Michael Zager",
+            "anv": "Zager",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 91815,
+            "resource_url": "https://api.discogs.com/artists/91815"
+          }
+        ],
+        "duration": "4:21"
+      },
+      {
+        "position": "A4",
+        "type_": "track",
+        "title": "Come Live With Me",
+        "extraartists": [
+          {
+            "name": "Aram Schefrin",
+            "anv": "Schefrin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 459001,
+            "resource_url": "https://api.discogs.com/artists/459001"
+          },
+          {
+            "name": "Genya Ravan",
+            "anv": "Ravan",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 183977,
+            "resource_url": "https://api.discogs.com/artists/183977"
+          }
+        ],
+        "duration": "5:22"
+      },
+      {
+        "position": "B1",
+        "type_": "track",
+        "title": "Stay With Me",
+        "extraartists": [
+          {
+            "name": "George David Weiss",
+            "anv": "Weiss",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 436074,
+            "resource_url": "https://api.discogs.com/artists/436074"
+          },
+          {
+            "name": "Jerry Ragovoy",
+            "anv": "Ragavoy",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 293080,
+            "resource_url": "https://api.discogs.com/artists/293080"
+          }
+        ],
+        "duration": "4:20"
+      },
+      {
+        "position": "B2",
+        "type_": "track",
+        "title": "How Long Before I'm Gone",
+        "extraartists": [
+          {
+            "name": "Aram Schefrin",
+            "anv": "Schefrin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 459001,
+            "resource_url": "https://api.discogs.com/artists/459001"
+          },
+          {
+            "name": "Michael Zager",
+            "anv": "Zager",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 91815,
+            "resource_url": "https://api.discogs.com/artists/91815"
+          }
+        ],
+        "duration": "6:45"
+      },
+      {
+        "position": "B3",
+        "type_": "track",
+        "title": "Last Of The Line",
+        "extraartists": [
+          {
+            "name": "Aram Schefrin",
+            "anv": "Schefrin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 459001,
+            "resource_url": "https://api.discogs.com/artists/459001"
+          },
+          {
+            "name": "Michael Zager",
+            "anv": "Zager",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 91815,
+            "resource_url": "https://api.discogs.com/artists/91815"
+          }
+        ],
+        "duration": "5:21"
+      },
+      {
+        "position": "B4",
+        "type_": "track",
+        "title": "Interlude: A View Of Soft",
+        "extraartists": [
+          {
+            "name": "Aram Schefrin",
+            "anv": "Schefrin",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 459001,
+            "resource_url": "https://api.discogs.com/artists/459001"
+          },
+          {
+            "name": "Michael Zager",
+            "anv": "Zager",
+            "join": "",
+            "role": "Written-By",
+            "tracks": "",
+            "id": 91815,
+            "resource_url": "https://api.discogs.com/artists/91815"
+          }
+        ],
+        "duration": "3:53"
+      }
+    ],
+    "extraartists": [
+      {
+        "name": "Aram Schefrin",
+        "anv": "",
+        "join": "",
+        "role": "Arranged By",
+        "tracks": "",
+        "id": 459001,
+        "resource_url": "https://api.discogs.com/artists/459001"
+      },
+      {
+        "name": "Michael Zager",
+        "anv": "",
+        "join": "",
+        "role": "Arranged By",
+        "tracks": "",
+        "id": 91815,
+        "resource_url": "https://api.discogs.com/artists/91815"
+      },
+      {
+        "name": "Bob Piazza",
+        "anv": "",
+        "join": "",
+        "role": "Bass, Vocals",
+        "tracks": "",
+        "id": 2194231,
+        "resource_url": "https://api.discogs.com/artists/2194231"
+      },
+      {
+        "name": "John Carisi",
+        "anv": "",
+        "join": "",
+        "role": "Conductor, Music Director",
+        "tracks": "",
+        "id": 271036,
+        "resource_url": "https://api.discogs.com/artists/271036"
+      },
+      {
+        "name": "Russell & Hinrichs, Inc.",
+        "anv": "",
+        "join": "",
+        "role": "Design",
+        "tracks": "",
+        "id": 2194230,
+        "resource_url": "https://api.discogs.com/artists/2194230"
+      },
+      {
+        "name": "Allen Herman",
+        "anv": "",
+        "join": "",
+        "role": "Drums, Percussion, Vibraphone",
+        "tracks": "",
+        "id": 1128940,
+        "resource_url": "https://api.discogs.com/artists/1128940"
+      },
+      {
+        "name": "Tony May",
+        "anv": "",
+        "join": "",
+        "role": "Engineer",
+        "tracks": "",
+        "id": 313600,
+        "resource_url": "https://api.discogs.com/artists/313600"
+      },
+      {
+        "name": "Aram Schefrin",
+        "anv": "",
+        "join": "",
+        "role": "Guitar, Percussion, Vocals, Banjo",
+        "tracks": "",
+        "id": 459001,
+        "resource_url": "https://api.discogs.com/artists/459001"
+      },
+      {
+        "name": "Michael Zager",
+        "anv": "",
+        "join": "",
+        "role": "Keyboards",
+        "tracks": "",
+        "id": 91815,
+        "resource_url": "https://api.discogs.com/artists/91815"
+      },
+      {
+        "name": "Billy Fields (2)",
+        "anv": "",
+        "join": "",
+        "role": "Management [Personal]",
+        "tracks": "",
+        "id": 554039,
+        "resource_url": "https://api.discogs.com/artists/554039"
+      },
+      {
+        "name": "Sid Bernstein",
+        "anv": "",
+        "join": "",
+        "role": "Management [Personal]",
+        "tracks": "",
+        "id": 1956609,
+        "resource_url": "https://api.discogs.com/artists/1956609"
+      },
+      {
+        "name": "Phillip Leonian",
+        "anv": "",
+        "join": "",
+        "role": "Photography By",
+        "tracks": "",
+        "id": 2700882,
+        "resource_url": "https://api.discogs.com/artists/2700882"
+      },
+      {
+        "name": "Guy Draper",
+        "anv": "",
+        "join": "",
+        "role": "Producer",
+        "tracks": "",
+        "id": 796057,
+        "resource_url": "https://api.discogs.com/artists/796057"
+      },
+      {
+        "name": "David Liebman",
+        "anv": "Dave Leibman",
+        "join": "",
+        "role": "Soprano Saxophone, Tenor Saxophone, Baritone Saxophone, Flute, Other [Illustrious Raisin]",
+        "tracks": "",
+        "id": 65749,
+        "resource_url": "https://api.discogs.com/artists/65749"
+      },
+      {
+        "name": "Dennis Parisi",
+        "anv": "",
+        "join": "",
+        "role": "Trombone",
+        "tracks": "",
+        "id": 2194223,
+        "resource_url": "https://api.discogs.com/artists/2194223"
+      },
+      {
+        "name": "John Eckert",
+        "anv": "",
+        "join": "",
+        "role": "Trumpet, Flugelhorn",
+        "tracks": "",
+        "id": 375167,
+        "resource_url": "https://api.discogs.com/artists/375167"
+      },
+      {
+        "name": "Steve Satten",
+        "anv": "",
+        "join": "",
+        "role": "Trumpet, Flugelhorn, Cowbell, Other [Hamesha]",
+        "tracks": "",
+        "id": 1601994,
+        "resource_url": "https://api.discogs.com/artists/1601994"
+      },
+      {
+        "name": "John Gatchell",
+        "anv": "",
+        "join": "",
+        "role": "Trumpet, Flugelhorn, Other [House]",
+        "tracks": "",
+        "id": 255794,
+        "resource_url": "https://api.discogs.com/artists/255794"
+      },
+      {
+        "name": "Genya Ravan",
+        "anv": "",
+        "join": "",
+        "role": "Vocals, Harmonica, Percussion",
+        "tracks": "",
+        "id": 183977,
+        "resource_url": "https://api.discogs.com/artists/183977"
+      }
+    ],
+    "images": [
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/vq77lodpd-7BXcCKkmmabENkHkKFXW5H7XeKMaiFTDA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/My0xODg2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/vq77lodpd-7BXcCKkmmabENkHkKFXW5H7XeKMaiFTDA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/My0xODg2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/PB8ksr5lFqyrn31LOo6pMr-K09pf9oU8BOv74Iyf288/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/My0xODg2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 594
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/dooNSvoqB7hqIYW-pmdDeT8R-zVxZvBjaQbN3tLZkFw/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/MS0zNjQ2LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/dooNSvoqB7hqIYW-pmdDeT8R-zVxZvBjaQbN3tLZkFw/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/MS0zNjQ2LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/xVGYbtXk2qWbT2MJbT0tYPNr7Q8NYRxMjQrjfVn-gys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/MS0zNjQ2LmpwZWc.jpeg",
+        "width": 600,
+        "height": 287
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/8PeW6xji9q7AXoYMcqL7Q9xykhSL92TgotZKUWubEHY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/Mi01MDcwLmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/8PeW6xji9q7AXoYMcqL7Q9xykhSL92TgotZKUWubEHY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/Mi01MDcwLmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/N0FftbyH0NS6_6X3uKlYFAtKd4CRZSbu88miTT8ZytE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/Mi01MDcwLmpwZWc.jpeg",
+        "width": 598,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/L8cqGwanNVYBGKqJ1JpCe4wtCapvJv-l59xojCEtNZ0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/NC0yNTI3LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/L8cqGwanNVYBGKqJ1JpCe4wtCapvJv-l59xojCEtNZ0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/NC0yNTI3LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/IdjDm4fDpUBCCNDVADoZQ2T-WamJkFvIk7-S_I82Qu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/NC0yNTI3LmpwZWc.jpeg",
+        "width": 599,
+        "height": 600
+      },
+      {
+        "type": "secondary",
+        "uri": "https://i.discogs.com/Y612O_Pj2Qh1GmWkvfhcbR6833mk414SoRU3v9X_w0o/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/My05MDA4LmpwZWc.jpeg",
+        "resource_url": "https://i.discogs.com/Y612O_Pj2Qh1GmWkvfhcbR6833mk414SoRU3v9X_w0o/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/My05MDA4LmpwZWc.jpeg",
+        "uri150": "https://i.discogs.com/JucMuSiNCn8Yh9HsNAfTv6GdWUfzT7D0YKZZ8PqVT2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/My05MDA4LmpwZWc.jpeg",
+        "width": 598,
+        "height": 600
+      }
+    ],
+    "thumb": "https://i.discogs.com/PB8ksr5lFqyrn31LOo6pMr-K09pf9oU8BOv74Iyf288/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/My0xODg2LmpwZWc.jpeg",
+    "estimated_weight": 230,
+    "blocked_from_sale": false,
+    "is_offensive": false
+  }
+}

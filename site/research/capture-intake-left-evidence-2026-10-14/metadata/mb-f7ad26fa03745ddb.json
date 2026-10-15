@@ -1,0 +1,897 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/?query=release%3A%22What+Were+Once+Vices+Are+Now+Habits%22+AND+artist%3A%22The+Doobie+Brothers%22&fmt=json&limit=100",
+  "retrieved": "2026-10-15T03:16:16Z",
+  "data": {
+    "created": "2026-10-15T03:16:16.441Z",
+    "count": 13,
+    "offset": 0,
+    "releases": [
+      {
+        "id": "84f68d9c-3b04-4dd1-a628-09bbb0b1a41b",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "1987-06-15",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1987-06-15",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "075992728027",
+        "asin": "B001NGR3V4",
+        "label-info": [
+          {
+            "catalog-number": "2750-2",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "dc9e121b-fca1-37ed-a5d5-4ae49920771d",
+            "format": "CD",
+            "disc-count": 2,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "e15aa2fc-259e-4135-8069-b9c4816b5a54",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "1978",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1978",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "W 2750",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "bd042784-a083-3bf5-bc1f-4c4685bd86c0",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "c6e05796-995e-4f6b-b650-95b60300ff42",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 2,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "2012-04-10",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2012-04-10",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "821797206068",
+        "asin": "B007RJ91Y8",
+        "label-info": [
+          {
+            "catalog-number": "UDSACD 2060",
+            "label": {
+              "id": "edd54e2f-2eef-46b1-a9b5-bedfe5ed33be",
+              "name": "Mobile Fidelity Sound Lab"
+            }
+          }
+        ],
+        "track-count": 24,
+        "media": [
+          {
+            "id": "5712ab9c-523d-395b-8709-95f87f23da02",
+            "format": "Hybrid SACD (CD layer)",
+            "disc-count": 2,
+            "track-count": 12
+          },
+          {
+            "id": "3ee17f48-02c8-364b-9443-2405fc58ef8c",
+            "format": "Hybrid SACD (SACD layer, 2 channels)",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "f61aaf63-9fc6-4e7e-9411-ee50e9e54ebf",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "2010-12-22",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "2010-12-22",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "4943674102648",
+        "asin": "B0049KDUKE",
+        "label-info": [
+          {
+            "catalog-number": "WPCR-75554",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "fabb84c5-cdf0-341b-86db-28835a0ce36f",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "776107a0-c137-4868-9fc1-e04ec9ef0e80",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "1974-02-01",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1974-02-01",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "asin": "B000002KF4",
+        "label-info": [
+          {
+            "catalog-number": "W 2750",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "27d20197-20c9-3f07-8ee5-9984ba745002",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "08fdf083-a794-3d92-ac30-ae4e8186902d",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "1997-09-03",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1997-09-03",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "075992728027",
+        "asin": "B000002KF4",
+        "label-info": [
+          {
+            "catalog-number": "7599-27280-2",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "6b9c3acd-269e-3fbf-aaef-1d3eab99024f",
+            "format": "CD",
+            "disc-count": 4,
+            "track-count": 12
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "rock"
+          }
+        ]
+      },
+      {
+        "id": "2de5e161-6efc-4850-a68c-65ffa3802d31",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "2016-05-12",
+        "country": "DE",
+        "release-events": [
+          {
+            "date": "2016-05-12",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "iso-3166-1-codes": [
+                "DE"
+              ]
+            }
+          }
+        ],
+        "label-info": [
+          {
+            "label": {
+              "id": "c4f2cf49-b57c-4cc1-8061-f54400704ac4",
+              "name": "Rhino"
+            }
+          },
+          {
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "5ce9bd2d-0ca5-34c4-bd41-69c516752680",
+            "format": "Digital Media",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "9154314d-35eb-4eac-8114-c48f8fccda35",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "a5ba7811-fe69-41be-a5f9-1e9ba91973a0",
+          "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+          "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "EP"
+        },
+        "date": "1974",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "1974",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "label-info": [
+          {
+            "catalog-number": "S 2750",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 5,
+        "media": [
+          {
+            "id": "9cb01cff-6331-3992-b9a6-268aa0bc9814",
+            "format": "7\" Vinyl",
+            "disc-count": 0,
+            "track-count": 5
+          }
+        ]
+      },
+      {
+        "id": "fe6a9511-71c9-4c1f-b033-c32066d64885",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "disambiguation": "Club edition",
+        "packaging": "Jewel Case",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "W2 2750",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "af5e7624-ce22-31ae-9e58-ac97450bc219",
+            "format": "CD",
+            "disc-count": 1,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "1e84d2c0-f3a0-479a-8a52-b7584917514b",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "1974",
+        "country": "CA",
+        "release-events": [
+          {
+            "date": "1974",
+            "area": {
+              "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+              "name": "Canada",
+              "sort-name": "Canada",
+              "iso-3166-1-codes": [
+                "CA"
+              ]
+            }
+          }
+        ],
+        "barcode": "",
+        "label-info": [
+          {
+            "catalog-number": "W2750",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          },
+          {
+            "catalog-number": "W 2750",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "d1656635-a97e-332c-a095-6dceff684adf",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "b888090e-88b9-4be3-9ab9-a0f83b09cb19",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "packaging": "Gatefold Cover",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "2024-10-03",
+        "country": "US",
+        "release-events": [
+          {
+            "date": "2024-10-03",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "name": "United States",
+              "sort-name": "United States",
+              "iso-3166-1-codes": [
+                "US"
+              ]
+            }
+          }
+        ],
+        "barcode": "603497824618",
+        "asin": "B0DFZPF2ZT",
+        "label-info": [
+          {
+            "catalog-number": "603497824618",
+            "label": {
+              "id": "d4cd174f-784d-48d7-91c6-7427bd5d57fe",
+              "name": "Warner Records"
+            }
+          },
+          {
+            "catalog-number": "RCV1 2750",
+            "label": {
+              "id": "d4cd174f-784d-48d7-91c6-7427bd5d57fe",
+              "name": "Warner Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "03cc11fd-c22d-3ce8-9ee7-815bb2b8b4d5",
+            "format": "12\" Vinyl",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "178c1f5c-e869-471f-bc61-75daec330541",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "packaging": "Cardboard/Paper Sleeve",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "2009",
+        "country": "JP",
+        "release-events": [
+          {
+            "date": "2009",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "iso-3166-1-codes": [
+                "JP"
+              ]
+            }
+          }
+        ],
+        "barcode": "4943674094073",
+        "label-info": [
+          {
+            "catalog-number": "WPCR-13656",
+            "label": {
+              "id": "c595c289-47ce-4fba-b999-b87503e8cb71",
+              "name": "Warner Bros. Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "8ff421e3-762b-476d-96c1-b1a2be20c7a5",
+            "format": "SHM-CD",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      },
+      {
+        "id": "884f8014-8db4-4cd9-aeea-d6bde38e3eee",
+        "score": 100,
+        "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+        "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+        "artist-credit-id": "cf6e1a0d-0f4d-3c4b-8f11-b8c0bd362745",
+        "count": 1,
+        "title": "What Were Once Vices Are Now Habits",
+        "status": "Official",
+        "packaging": "None",
+        "text-representation": {
+          "language": "eng",
+          "script": "Latn"
+        },
+        "artist-credit": [
+          {
+            "name": "The Doobie Brothers",
+            "artist": {
+              "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
+              "name": "The Doobie Brothers",
+              "sort-name": "Doobie Brothers, The"
+            }
+          }
+        ],
+        "release-group": {
+          "id": "74deb950-febd-3564-b0a1-b1fefa40b539",
+          "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+          "title": "What Were Once Vices Are Now Habits",
+          "primary-type": "Album"
+        },
+        "date": "2016",
+        "country": "XW",
+        "release-events": [
+          {
+            "date": "2016",
+            "area": {
+              "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+              "name": "[Worldwide]",
+              "sort-name": "[Worldwide]",
+              "iso-3166-1-codes": [
+                "XW"
+              ]
+            }
+          }
+        ],
+        "barcode": "075992728065",
+        "label-info": [
+          {
+            "label": {
+              "id": "d4cd174f-784d-48d7-91c6-7427bd5d57fe",
+              "name": "Warner Records"
+            }
+          }
+        ],
+        "track-count": 12,
+        "media": [
+          {
+            "id": "8138b7f9-3425-31fd-ac3f-a64c22964327",
+            "format": "Digital Media",
+            "disc-count": 0,
+            "track-count": 12
+          }
+        ]
+      }
+    ]
+  }
+}

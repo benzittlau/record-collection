@@ -1,0 +1,326 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/82482d5e-d918-4275-a2eb-4dd7c5e2be5e?inc=url-rels+labels+recordings&fmt=json",
+  "retrieved": "2026-10-15T03:18:06Z",
+  "data": {
+    "cover-art-archive": {
+      "count": 1,
+      "darkened": false,
+      "back": false,
+      "front": true,
+      "artwork": true
+    },
+    "quality": "normal",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "country": "US",
+    "status": "Official",
+    "date": "1967-02-11",
+    "packaging-id": null,
+    "id": "82482d5e-d918-4275-a2eb-4dd7c5e2be5e",
+    "label-info": [
+      {
+        "label": {
+          "disambiguation": "UK, 1947–1999, re-launched 2011–present",
+          "type": "Original Production",
+          "label-code": 253,
+          "id": "60a0dd34-2333-4679-9050-38c21f7bc616",
+          "name": "London Records",
+          "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+          "sort-name": "London Records"
+        },
+        "catalog-number": "LL 3499"
+      }
+    ],
+    "packaging": null,
+    "asin": null,
+    "media": [
+      {
+        "format-id": "10e17707-9751-3aaf-95b2-2432acd5374c",
+        "tracks": [
+          {
+            "title": "Let's Spend the Night Together",
+            "id": "692bd7f4-b556-3b88-a23e-d92c4e7cfdcb",
+            "length": 221000,
+            "position": 1,
+            "recording": {
+              "first-release-date": "1967-02-11",
+              "title": "Let's Spend the Night Together",
+              "disambiguation": "original mono studio mix",
+              "length": 221000,
+              "video": false,
+              "id": "c5316888-e577-4931-811e-9254c1184d92"
+            },
+            "number": "1"
+          },
+          {
+            "number": "2",
+            "recording": {
+              "video": false,
+              "id": "bca883ab-184c-4b80-8ec8-14590a9730e7",
+              "length": 125933,
+              "first-release-date": "1967-02-11",
+              "title": "Yesterday’s Papers",
+              "disambiguation": "original mono studio mix"
+            },
+            "position": 2,
+            "length": 126000,
+            "id": "2a90ad87-876c-3f49-b12d-d953d9417b64",
+            "title": "Yesterday's Papers"
+          },
+          {
+            "position": 3,
+            "length": 200000,
+            "id": "454ce2c7-96ff-3e1d-a661-c932aa5ded8c",
+            "title": "Ruby Tuesday",
+            "number": "3",
+            "recording": {
+              "id": "be0dbfc7-6c9b-448a-b3de-ae9ebf77fad8",
+              "video": false,
+              "length": 197809,
+              "disambiguation": "original mono studio mix",
+              "title": "Ruby Tuesday",
+              "first-release-date": "1967-02-11"
+            }
+          },
+          {
+            "recording": {
+              "title": "Connection",
+              "disambiguation": "original mono studio mix",
+              "first-release-date": "1967-02-11",
+              "length": 130000,
+              "video": false,
+              "id": "926204ab-3843-4e68-b588-418a2f047ea4"
+            },
+            "number": "4",
+            "id": "3b673878-6e46-365f-861a-2107d2cd132e",
+            "title": "Connection",
+            "position": 4,
+            "length": 130000
+          },
+          {
+            "recording": {
+              "title": "She Smiled Sweetly",
+              "disambiguation": "original mono studio mix",
+              "first-release-date": "1967-02-11",
+              "length": 165840,
+              "video": false,
+              "id": "1ae0faed-8bad-4671-8548-2ea3d8c800f4"
+            },
+            "number": "5",
+            "id": "fbb3a1f3-1bae-398f-9ef9-0fabe0186aa9",
+            "title": "She Smiled Sweetly",
+            "position": 5,
+            "length": 166000
+          },
+          {
+            "number": "6",
+            "recording": {
+              "id": "68b31fb4-45db-485c-878f-54320f987424",
+              "video": false,
+              "length": 255000,
+              "first-release-date": "1967-02-11",
+              "disambiguation": "original mono studio mix",
+              "title": "Cool, Calm & Collected"
+            },
+            "length": 255000,
+            "position": 6,
+            "title": "Cool, Calm & Collected",
+            "id": "62a151c7-d72f-32ed-b4ee-1e94b2a0a3f3"
+          },
+          {
+            "position": 7,
+            "length": 137000,
+            "id": "eacc82c1-b5d5-3286-b881-d01701fe44f9",
+            "title": "All Sold Out",
+            "number": "7",
+            "recording": {
+              "first-release-date": "1967-02-11",
+              "title": "All Sold Out",
+              "disambiguation": "original mono studio mix",
+              "length": 137000,
+              "video": false,
+              "id": "42295f88-0b65-467e-9cfe-56b3c3b7bd6f"
+            }
+          },
+          {
+            "number": "8",
+            "recording": {
+              "length": 199000,
+              "video": false,
+              "id": "2ba008c7-06e1-4ed4-9506-dd7a472c9207",
+              "first-release-date": "1967-02-11",
+              "title": "My Obsession",
+              "disambiguation": "original mono studio mix"
+            },
+            "length": 199000,
+            "position": 8,
+            "title": "My Obsession",
+            "id": "31109444-4a8a-3518-93e7-b88c00fae0c9"
+          },
+          {
+            "recording": {
+              "first-release-date": "1967-02-11",
+              "disambiguation": "original mono studio mix",
+              "title": "Who’s Been Sleeping Here?",
+              "length": 231000,
+              "id": "2022513a-6f5f-43a2-8561-fe95b31e6246",
+              "video": false
+            },
+            "number": "9",
+            "title": "Who's Been Sleeping Here?",
+            "id": "2e89af7f-a3da-364c-a5f2-fe561225346f",
+            "length": 231000,
+            "position": 9
+          },
+          {
+            "length": 192000,
+            "position": 10,
+            "title": "Complicated",
+            "id": "d358f7d6-9211-3243-969c-0a7d5842af31",
+            "number": "10",
+            "recording": {
+              "video": false,
+              "id": "ddf25a1d-7046-47af-8b82-4cc6bc2b6e99",
+              "length": 192000,
+              "first-release-date": "1967-02-11",
+              "title": "Complicated",
+              "disambiguation": "original mono studio mix"
+            }
+          },
+          {
+            "position": 11,
+            "length": 164000,
+            "id": "64d91db2-3700-30bd-90f3-84b47be3ae9d",
+            "title": "Miss Amanda Jones",
+            "number": "11",
+            "recording": {
+              "video": false,
+              "id": "e8602f14-94ec-4eec-8d45-89336a02b5ea",
+              "length": 164000,
+              "title": "Miss Amanda Jones",
+              "disambiguation": "original mono studio mix",
+              "first-release-date": "1967-02-11"
+            }
+          },
+          {
+            "id": "90240c68-78ec-3ce7-8c24-3d70dc229adf",
+            "title": "Something Happened to Me Yesterday",
+            "position": 12,
+            "length": 295000,
+            "recording": {
+              "first-release-date": "1967-02-11",
+              "title": "Something Happened to Me Yesterday",
+              "disambiguation": "original mono studio mix",
+              "length": 295000,
+              "video": false,
+              "id": "d95fddfb-7c2d-44f4-a3ea-b693c2a6af17"
+            },
+            "number": "12"
+          }
+        ],
+        "track-offset": 0,
+        "title": "",
+        "id": "5dae6f84-cd0f-326e-b0ef-77f07601b20c",
+        "track-count": 12,
+        "position": 1,
+        "format": "Vinyl"
+      }
+    ],
+    "disambiguation": "mono US version",
+    "title": "Between the Buttons",
+    "barcode": null,
+    "release-events": [
+      {
+        "date": "1967-02-11",
+        "area": {
+          "type": null,
+          "disambiguation": "",
+          "sort-name": "United States",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }
+      }
+    ],
+    "relations": [
+      {
+        "source-credit": "",
+        "type": "discogs",
+        "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+        "attribute-values": {},
+        "target-type": "url",
+        "attributes": [],
+        "end": null,
+        "direction": "forward",
+        "url": {
+          "id": "0c703e36-214f-4671-bf9b-f1e7d5f9fbc4",
+          "resource": "https://www.discogs.com/release/2931906"
+        },
+        "target-credit": "",
+        "begin": null,
+        "ended": false,
+        "attribute-ids": {}
+      },
+      {
+        "source-credit": "",
+        "type": "discogs",
+        "attribute-values": {},
+        "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+        "target-type": "url",
+        "direction": "forward",
+        "url": {
+          "resource": "https://www.discogs.com/release/3031797",
+          "id": "db4b419b-2b9b-4f16-83fc-d93599824622"
+        },
+        "attributes": [],
+        "end": null,
+        "attribute-ids": {},
+        "begin": null,
+        "target-credit": "",
+        "ended": false
+      },
+      {
+        "source-credit": "",
+        "type": "discogs",
+        "target-type": "url",
+        "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+        "attribute-values": {},
+        "begin": null,
+        "target-credit": "",
+        "ended": false,
+        "attribute-ids": {},
+        "end": null,
+        "attributes": [],
+        "url": {
+          "resource": "https://www.discogs.com/release/3091566",
+          "id": "ea08cc03-c5ea-4edf-9949-c5ee544f286e"
+        },
+        "direction": "forward"
+      },
+      {
+        "type": "discogs",
+        "source-credit": "",
+        "direction": "forward",
+        "url": {
+          "id": "9bf50263-0883-4a92-9f8b-48b829ea5265",
+          "resource": "https://www.discogs.com/release/822423"
+        },
+        "attributes": [],
+        "end": null,
+        "attribute-ids": {},
+        "begin": null,
+        "target-credit": "",
+        "ended": false,
+        "attribute-values": {},
+        "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+        "target-type": "url"
+      }
+    ],
+    "text-representation": {
+      "script": "Latn",
+      "language": "eng"
+    }
+  }
+}

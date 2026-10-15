@@ -1,0 +1,916 @@
+{
+  "url": "https://api.discogs.com/masters/143035/versions?per_page=100&page=1",
+  "retrieved": "2026-10-15T03:29:48Z",
+  "data": {
+    "pagination": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 100,
+      "items": 24,
+      "urls": {}
+    },
+    "filters": {
+      "applied": {},
+      "available": {
+        "format": {
+          "Album": 24,
+          "LP": 17,
+          "Vinyl": 17,
+          "CD": 3,
+          "Promo": 3,
+          "Stereo": 3,
+          "8-Track Cartridge": 2,
+          "Reissue": 2,
+          "4-Track Stereo": 1,
+          "7 \u00bd ips": 1,
+          "7\" Cine Reel": 1,
+          "Cassette": 1,
+          "Club Edition": 1,
+          "Reel-To-Reel": 1,
+          "\u00bc\"": 1
+        },
+        "label": {
+          "Polydor": 21,
+          "A&R Studios": 6,
+          "Polydor Incorporated": 6,
+          "Russell & Hinrichs, Inc.": 3,
+          "Big Pink": 2,
+          "Sterling Sound": 2,
+          "Ampex": 1,
+          "Big Pink Music": 1,
+          "Capitol Record Club": 1,
+          "Capitol Records Pressing Plant, Jacksonville": 1,
+          "Capitol Records, Inc.": 1,
+          "Columbia Records Pressing Plant, Pitman": 1,
+          "Columbia Records Pressing Plant, Terre Haute": 1,
+          "Crenshaw Music": 1,
+          "Harry Da Luggage, Inc.": 1,
+          "It'S About Music.Com": 1,
+          "Macneill Press Ltd.": 1,
+          "Monarch Record Mfg. Co.": 1,
+          "Musikkindustri A/S": 1,
+          "Nippon Grammophon Co., Ltd.": 1,
+          "Noma Music, Inc.": 1,
+          "Phonogram Recordings Pty. Limited": 1,
+          "Polydor Records Ltd.": 1,
+          "Progressive": 1,
+          "Ragmar": 1,
+          "Rosenborg Studio": 1,
+          "Shefrin-Zager Publishing Company, Inc.": 1,
+          "Team-Trykk A.S.": 1,
+          "Vivid Sound": 1,
+          "Vivid Sound Corporation": 1
+        },
+        "country": {
+          "US": 11,
+          "Canada": 2,
+          "Japan": 2,
+          "Australia": 1,
+          "France": 1,
+          "Germany": 1,
+          "New Zealand": 1,
+          "Nigeria": 1,
+          "Scandinavia": 1,
+          "South Korea": 1,
+          "Spain": 1,
+          "UK": 1
+        },
+        "released": {
+          "1970": 19,
+          "2019": 2
+        }
+      }
+    },
+    "filter_facets": [
+      {
+        "title": "Format",
+        "id": "format",
+        "values": [
+          {
+            "title": "Album",
+            "value": "Album",
+            "count": 24
+          },
+          {
+            "title": "LP",
+            "value": "LP",
+            "count": 17
+          },
+          {
+            "title": "Vinyl",
+            "value": "Vinyl",
+            "count": 17
+          },
+          {
+            "title": "CD",
+            "value": "CD",
+            "count": 3
+          },
+          {
+            "title": "Promo",
+            "value": "Promo",
+            "count": 3
+          },
+          {
+            "title": "Stereo",
+            "value": "Stereo",
+            "count": 3
+          },
+          {
+            "title": "8-Track Cartridge",
+            "value": "8-Track+Cartridge",
+            "count": 2
+          },
+          {
+            "title": "Reissue",
+            "value": "Reissue",
+            "count": 2
+          },
+          {
+            "title": "4-Track Stereo",
+            "value": "4-Track+Stereo",
+            "count": 1
+          },
+          {
+            "title": "7 \u00bd ips",
+            "value": "7+%C2%BD+ips",
+            "count": 1
+          },
+          {
+            "title": "7\" Cine Reel",
+            "value": "7%22+Cine+Reel",
+            "count": 1
+          },
+          {
+            "title": "Cassette",
+            "value": "Cassette",
+            "count": 1
+          },
+          {
+            "title": "Club Edition",
+            "value": "Club+Edition",
+            "count": 1
+          },
+          {
+            "title": "Reel-To-Reel",
+            "value": "Reel-To-Reel",
+            "count": 1
+          },
+          {
+            "title": "\u00bc\"",
+            "value": "%C2%BC%22",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": true
+      },
+      {
+        "title": "Label",
+        "id": "label",
+        "values": [
+          {
+            "title": "Polydor",
+            "value": "Polydor",
+            "count": 21
+          },
+          {
+            "title": "A&R Studios",
+            "value": "A%26R+Studios",
+            "count": 6
+          },
+          {
+            "title": "Polydor Incorporated",
+            "value": "Polydor+Incorporated",
+            "count": 6
+          },
+          {
+            "title": "Russell & Hinrichs, Inc.",
+            "value": "Russell+%26+Hinrichs%2C+Inc.",
+            "count": 3
+          },
+          {
+            "title": "Big Pink",
+            "value": "Big+Pink",
+            "count": 2
+          },
+          {
+            "title": "Sterling Sound",
+            "value": "Sterling+Sound",
+            "count": 2
+          },
+          {
+            "title": "Ampex",
+            "value": "Ampex",
+            "count": 1
+          },
+          {
+            "title": "Big Pink Music",
+            "value": "Big+Pink+Music",
+            "count": 1
+          },
+          {
+            "title": "Capitol Record Club",
+            "value": "Capitol+Record+Club",
+            "count": 1
+          },
+          {
+            "title": "Capitol Records Pressing Plant, Jacksonville",
+            "value": "Capitol+Records+Pressing+Plant%2C+Jacksonville",
+            "count": 1
+          },
+          {
+            "title": "Capitol Records, Inc.",
+            "value": "Capitol+Records%2C+Inc.",
+            "count": 1
+          },
+          {
+            "title": "Columbia Records Pressing Plant, Pitman",
+            "value": "Columbia+Records+Pressing+Plant%2C+Pitman",
+            "count": 1
+          },
+          {
+            "title": "Columbia Records Pressing Plant, Terre Haute",
+            "value": "Columbia+Records+Pressing+Plant%2C+Terre+Haute",
+            "count": 1
+          },
+          {
+            "title": "Crenshaw Music",
+            "value": "Crenshaw+Music",
+            "count": 1
+          },
+          {
+            "title": "Harry Da Luggage, Inc.",
+            "value": "Harry+Da+Luggage%2C+Inc.",
+            "count": 1
+          },
+          {
+            "title": "It'S About Music.Com",
+            "value": "It%27S+About+Music.Com",
+            "count": 1
+          },
+          {
+            "title": "Macneill Press Ltd.",
+            "value": "Macneill+Press+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Monarch Record Mfg. Co.",
+            "value": "Monarch+Record+Mfg.+Co.",
+            "count": 1
+          },
+          {
+            "title": "Musikkindustri A/S",
+            "value": "Musikkindustri+A%2FS",
+            "count": 1
+          },
+          {
+            "title": "Nippon Grammophon Co., Ltd.",
+            "value": "Nippon+Grammophon+Co.%2C+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Noma Music, Inc.",
+            "value": "Noma+Music%2C+Inc.",
+            "count": 1
+          },
+          {
+            "title": "Phonogram Recordings Pty. Limited",
+            "value": "Phonogram+Recordings+Pty.+Limited",
+            "count": 1
+          },
+          {
+            "title": "Polydor Records Ltd.",
+            "value": "Polydor+Records+Ltd.",
+            "count": 1
+          },
+          {
+            "title": "Progressive",
+            "value": "Progressive",
+            "count": 1
+          },
+          {
+            "title": "Ragmar",
+            "value": "Ragmar",
+            "count": 1
+          },
+          {
+            "title": "Rosenborg Studio",
+            "value": "Rosenborg+Studio",
+            "count": 1
+          },
+          {
+            "title": "Shefrin-Zager Publishing Company, Inc.",
+            "value": "Shefrin-Zager+Publishing+Company%2C+Inc.",
+            "count": 1
+          },
+          {
+            "title": "Team-Trykk A.S.",
+            "value": "Team-Trykk+A.S.",
+            "count": 1
+          },
+          {
+            "title": "Vivid Sound",
+            "value": "Vivid+Sound",
+            "count": 1
+          },
+          {
+            "title": "Vivid Sound Corporation",
+            "value": "Vivid+Sound+Corporation",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": true
+      },
+      {
+        "title": "Country",
+        "id": "country",
+        "values": [
+          {
+            "title": "US",
+            "value": "US",
+            "count": 11
+          },
+          {
+            "title": "Canada",
+            "value": "Canada",
+            "count": 2
+          },
+          {
+            "title": "Japan",
+            "value": "Japan",
+            "count": 2
+          },
+          {
+            "title": "Australia",
+            "value": "Australia",
+            "count": 1
+          },
+          {
+            "title": "France",
+            "value": "France",
+            "count": 1
+          },
+          {
+            "title": "Germany",
+            "value": "Germany",
+            "count": 1
+          },
+          {
+            "title": "New Zealand",
+            "value": "New+Zealand",
+            "count": 1
+          },
+          {
+            "title": "Nigeria",
+            "value": "Nigeria",
+            "count": 1
+          },
+          {
+            "title": "Scandinavia",
+            "value": "Scandinavia",
+            "count": 1
+          },
+          {
+            "title": "South Korea",
+            "value": "South+Korea",
+            "count": 1
+          },
+          {
+            "title": "Spain",
+            "value": "Spain",
+            "count": 1
+          },
+          {
+            "title": "UK",
+            "value": "UK",
+            "count": 1
+          }
+        ],
+        "allows_multiple_values": true
+      },
+      {
+        "title": "Released",
+        "id": "released",
+        "values": [
+          {
+            "title": "1970",
+            "value": "1970",
+            "count": 19
+          },
+          {
+            "title": "2019",
+            "value": "2019",
+            "count": 2
+          }
+        ],
+        "allows_multiple_values": false
+      }
+    ],
+    "versions": [
+      {
+        "id": 18355486,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Cassette"
+        ],
+        "format": "Album",
+        "catno": "CF 4024",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/18355486",
+        "thumb": "https://i.discogs.com/jdKO_u9uC3O6Sr9eWvngi-NzH2e3ZDuG-HAIEtYarvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzU1/NDg2LTE3NTk5Mjkz/ODQtNjAwMC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 8,
+            "in_collection": 2
+          }
+        }
+      },
+      {
+        "id": 3875577,
+        "label": "Polydor",
+        "country": "Nigeria",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/3875577",
+        "thumb": "https://i.discogs.com/0slN6bZ5IxWX4UWFNw-tKGHhatjozgLb5f6urwvsnN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzU1/NzctMTY4ODQ2OTc4/My0zODY4LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 35,
+            "in_collection": 0
+          }
+        }
+      },
+      {
+        "id": 5938822,
+        "label": "Polydor",
+        "country": "UK",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "2425 022, 2425-022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/5938822",
+        "thumb": "https://i.discogs.com/mzCI-liI0mncqV0xfj8_so0zUtal8Bp4mlrM08b3Ygg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mzg4/MjItMTQxMzkzNzEx/OS04OTI0LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 52,
+            "in_collection": 107
+          }
+        }
+      },
+      {
+        "id": 28753975,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "24-4024, 2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/28753975",
+        "thumb": "https://i.discogs.com/-xNVYI6I1tqG7Gg_AFJcOB0yBS6gpIHZmfwg8yKasIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzUz/OTc1LTE2OTg3MjMw/MzEtNTA3Ni5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 17,
+            "in_collection": 64
+          }
+        }
+      },
+      {
+        "id": 9064023,
+        "label": "Polydor",
+        "country": "France",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/9064023",
+        "thumb": "https://i.discogs.com/hPrrPxtgB3aW2cLHkEfFRR0rKb9xu86xKybh-UsBHjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjQw/MjMtMTQ3NDE0MzYw/MC0yODk4LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 28,
+            "in_collection": 24
+          }
+        }
+      },
+      {
+        "id": 8818200,
+        "label": "Polydor",
+        "country": "Australia",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/8818200",
+        "thumb": "https://i.discogs.com/RujGBu4fT04HSCx40EFNrZ-AbhgkV_FB_1yChvTvAeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTgy/MDAtMTQ5MDA4MDI4/MC04MjkxLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 28,
+            "in_collection": 29
+          }
+        }
+      },
+      {
+        "id": 9552745,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Promo",
+        "catno": "24-4024",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/9552745",
+        "thumb": "https://i.discogs.com/0dtZMnB2yGnKu7Hph7qj8yKGmcVepHBqtK46lBzQRtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NTI3/NDUtMTQ4MjU5ODg5/MS01NzYxLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 39,
+            "in_collection": 21
+          }
+        }
+      },
+      {
+        "id": 7966976,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "24-4024, 2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/7966976",
+        "thumb": "https://i.discogs.com/PB8ksr5lFqyrn31LOo6pMr-K09pf9oU8BOv74Iyf288/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5NjY5/NzYtMTQ1MjYwMDA3/My0xODg2LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 80,
+            "in_collection": 325
+          }
+        }
+      },
+      {
+        "id": 15820330,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Club Edition",
+        "catno": "SKAO-93288, 24-4024, 2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/15820330",
+        "thumb": "https://i.discogs.com/xZUG9dVz6oXflRyjj6BPwnIlOIJfA89lismnSGWTloo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODIw/MzMwLTE1OTgzOTYz/NDEtNTc5MC5tcG8.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 24,
+            "in_collection": 36
+          }
+        }
+      },
+      {
+        "id": 5732763,
+        "label": "Polydor",
+        "country": "Canada",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/5732763",
+        "thumb": "https://i.discogs.com/ch2wugW27YujKDkrbBqwGy13FVwEjQXw7wMefGsCv14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzI3/NjMtMTQ3NzkwNTIy/OS01MjQzLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 40,
+            "in_collection": 108
+          }
+        }
+      },
+      {
+        "id": 9969037,
+        "label": "Polydor",
+        "country": "Scandinavia",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/9969037",
+        "thumb": "https://i.discogs.com/HNPFtF63xN4kbc0s-EFOgpC7Ej4vlAVIG53H6HovYB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Njkw/MzctMTQ4OTQxMzY5/Ny05ODkyLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 27,
+            "in_collection": 39
+          }
+        }
+      },
+      {
+        "id": 24446723,
+        "label": "Polydor",
+        "country": "New Zealand",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "2486011",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/24446723",
+        "thumb": "https://i.discogs.com/69T0X1a8o4TUVJDBDyQFOP7HOMCrhTjSIsTbczMTq8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDQ2/NzIzLTE2NjI1OTcx/OTAtNDQ2MC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 10,
+            "in_collection": 1
+          }
+        }
+      },
+      {
+        "id": 4045512,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Promo",
+        "catno": "24-4024, 2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/4045512",
+        "thumb": "https://i.discogs.com/0EAim5dLy8LsySxXjzYP67SLnhxx6TYhUYI2ySxWYGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDU1/MTItMTM1MzQxODA1/OS05OTcyLmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 51,
+            "in_collection": 31
+          }
+        }
+      },
+      {
+        "id": 10621993,
+        "label": "Polydor",
+        "country": "Japan",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Promo",
+        "catno": "MP2120",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/10621993",
+        "thumb": "https://i.discogs.com/CWHnO8klTMvIayqzap5YXzzXAA3jy9HOe9EuYdVyh6M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjIx/OTkzLTE1MDExMTU0/ODUtMjcyNS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 30,
+            "in_collection": 2
+          }
+        }
+      },
+      {
+        "id": 23853371,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album, Stereo",
+        "catno": "24-4024, 2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/23853371",
+        "thumb": "https://i.discogs.com/jcSoe1ZPjB7LHHb2MVgYF8mhB46feFQeIP-To3oTO3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODUz/MzcxLTE2NTc1NTU2/MzctNDY4OC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 18,
+            "in_collection": 77
+          }
+        }
+      },
+      {
+        "id": 2945345,
+        "label": "Polydor",
+        "country": "Germany",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/2945345",
+        "thumb": "https://i.discogs.com/rmks3365mD_Sp9rK3D6IyINRuMjb0V_drt4bO9tY7s0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDUz/NDUtMTQ5OTEyNDk4/Mi02ODE1LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 63,
+            "in_collection": 124
+          }
+        }
+      },
+      {
+        "id": 6599551,
+        "label": "Polydor",
+        "country": "Spain",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/6599551",
+        "thumb": "https://i.discogs.com/AWnbYPL9BkWcxJdY7NWkot1rRKhHZ-51JupSFIDZ40M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1OTk1/NTEtMTQyMjgyNDU0/MC0zNDY5LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 30,
+            "in_collection": 35
+          }
+        }
+      },
+      {
+        "id": 13745779,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Reel-To-Reel"
+        ],
+        "format": "7 \u00bd ips, \u00bc\", 4-Track Stereo, 7\" Cine Reel, Album",
+        "catno": "M 4024",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/13745779",
+        "thumb": "https://i.discogs.com/1hAxwMqAuQZPVsskXfjqaa9iDAkGFK9PdhLT6znlg9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzQ1/Nzc5LTE1NjAyMjI3/NzYtMzk0NC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 13,
+            "in_collection": 5
+          }
+        }
+      },
+      {
+        "id": 1166472,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "Vinyl"
+        ],
+        "format": "LP, Album",
+        "catno": "24-4024, 2425 022",
+        "released": "1970",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/1166472",
+        "thumb": "https://i.discogs.com/xe3VYGkSIjEuIIalRU83INoaTN5MWVvdmzOefsv7ikw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjY0/NzItMTMyOTAzMzAx/NC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 161,
+            "in_collection": 995
+          }
+        }
+      },
+      {
+        "id": 13547701,
+        "label": "Big Pink",
+        "country": "South Korea",
+        "title": "Brief Replies",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue",
+        "catno": "BIG PINK 611",
+        "released": "2019",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/13547701",
+        "thumb": "https://i.discogs.com/bo1eqYPCG8pKFpCAUCrRTHluAh19cGmXCJOyYkmJdi8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTQ3/NzAxLTE1OTc0MTIw/NDktMTA1OS5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 24,
+            "in_collection": 22
+          }
+        }
+      },
+      {
+        "id": 14369440,
+        "label": "Vivid Sound",
+        "country": "Japan",
+        "title": "Brief Replies",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album, Reissue",
+        "catno": "VSCD-5861, BIG PINK 611",
+        "released": "2019",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/14369440",
+        "thumb": "https://i.discogs.com/C4JodrvcfVKyR1Mr4qves_acIb54Ic6GdP4ie18v01A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY5/NDQwLTE1NzMxNDM4/MjEtNjkxMy5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 25,
+            "in_collection": 6
+          }
+        }
+      },
+      {
+        "id": 25984702,
+        "label": "Polydor",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "8-Track Cartridge"
+        ],
+        "format": "Album, Stereo",
+        "catno": "8F 4024",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/25984702",
+        "thumb": "https://i.discogs.com/zl0wHozVeP6b-754qKpDMwFFfQ1a5Hzo3VeJadDTByA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTg0/NzAyLTE2NzU0Nzkx/MTYtMTU0Mi5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 6,
+            "in_collection": 1
+          }
+        }
+      },
+      {
+        "id": 7164522,
+        "label": "It's About Music.com",
+        "country": "US",
+        "title": "Brief Replies",
+        "major_formats": [
+          "CD"
+        ],
+        "format": "Album",
+        "catno": "IAM-TWD-001",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/7164522",
+        "thumb": "https://i.discogs.com/HDAsH7p33v0S8Hxa40kqNbRtgqmcUyoN36MI3vACwu0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNjQ1/MjItMTQ1MTczNzUy/Ni00Njg5LmpwZWc.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 35,
+            "in_collection": 8
+          }
+        }
+      },
+      {
+        "id": 32642163,
+        "label": "Polydor",
+        "country": "Canada",
+        "title": "Brief Replies",
+        "major_formats": [
+          "8-Track Cartridge"
+        ],
+        "format": "Album, Stereo",
+        "catno": "3827-020",
+        "released": "0",
+        "status": "Accepted",
+        "resource_url": "https://api.discogs.com/releases/32642163",
+        "thumb": "https://i.discogs.com/ZmsmsA_nq9myGkZMssMXEJ6a2FEw0zWWsFe7UHlvZZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjQy/MTYzLTE3MzQ5Mjcw/MTctMTIyOC5qcGVn.jpeg",
+        "stats": {
+          "community": {
+            "in_wantlist": 3,
+            "in_collection": 1
+          }
+        }
+      }
+    ]
+  }
+}

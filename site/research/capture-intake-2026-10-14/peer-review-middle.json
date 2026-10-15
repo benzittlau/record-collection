@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "reviewer": "catalog_middle",
+  "date": "2026-10-14",
+  "status": "code-and-data-review-passed",
+  "scope": "Independent review of capture integration, clean-art preparation, app aliases/navigation/physical counters/masks and identity/edition metadata. Canonical shards/masks/validators were not edited by this reviewer.",
+  "browserQA": {
+    "status": "not-performed-by-this-subagent",
+    "reason": "The native browser runtime available to this agent exposes only the Chrome extension, not the parent’s in-app browser2. The agent did not fall back to external Chrome or agent-browser. Parent performs desktop/mobile native QA.",
+    "remainingNativeCases": [],
+    "parentEvidence": "site/research/capture-intake-2026-10-14/browser-qa/review.json",
+    "parentNativeResult": "passed"
+  },
+  "fixes": [
+    {
+      "file": "site/scripts/prepare-capture-artwork.py",
+      "detail": "Correct left proposal filename; optional fallback-artwork.json; merge nonduplicate per-face selections so a family rear can supplement a retained external front."
+    },
+    {
+      "file": "site/scripts/apply-capture-intake.mjs",
+      "detail": "Stale dependent fields include coverThumbnail/backCover; changed unconfirmed performer identity clears unrelated artwork/links even if title matches; an unknown year on a genuinely changed identity cannot retain the prior guess."
+    },
+    {
+      "file": "site/scripts/apply-capture-intake.mjs",
+      "detail": "New faces replace stale capture-request notes and same-face edition rows while retaining unrelated label provenance. New back source URL is updated."
+    },
+    {
+      "file": "site/scripts/apply-capture-intake.mjs",
+      "detail": "Family fallback provenance uses exact captured filename and originalSHA; no external imageURL is invented. exactFamilyPressingVerified is true for the photographed jacket and false for reference scans."
+    },
+    {
+      "file": "site/scripts/apply-capture-intake.mjs",
+      "detail": "familyCapture.catalogueNumbers is always an array; new Spotify decision.availabilityNote is copied."
+    },
+    {
+      "file": "site/dist/app.js",
+      "detail": "Failed thumbnail retries the full artwork; previously missing-art state is cleared on remount."
+    },
+    {
+      "file": "site/dist/app.js",
+      "detail": "Strip title, accessible name and tiny source sleeve label use sleeveNumber(r), preserving4b for insertions. Global carousel counters stay ordinal."
+    }
+  ],
+  "findingsResolved": [
+    {
+      "id": "missing-anchor-backs",
+      "detail": "Fixture stopped at lower-middle35 because35 and43 lacked backs. Parent prepared literal family-photo rear fallbacks IMG3663/3665; all photographed records now have fronts/rears."
+    },
+    {
+      "id": "regional-metadata",
+      "detail": "Spotify availableMarkets={items:[]} means unknown in the fetched metadata, not unavailable in Canada. New middle streaming proposals correctly carry null; no generic restriction claim is added."
+    }
+  ],
+  "checks": [
+    {
+      "name": "Syntax",
+      "result": "pass",
+      "detail": "Node syntax checks for app and integration; Python AST parse for artwork preparation."
+    },
+    {
+      "name": "Isolated integration fixture",
+      "result": "pass",
+      "detail": "All45 photographed physical pairs integrated in /tmp, including family rears. Confirmed anchors retain canonical wording; old SteelyDan label removed from Brief Replies; Views no longer retains a request-to-photograph cover note."
+    },
+    {
+      "name": "Idempotence",
+      "result": "pass",
+      "detail": "Repeated application from the same frozen baseline produces byte-identical three catalog shards in /tmp."
+    },
+    {
+      "name": "Alias and insertion navigation",
+      "result": "pass",
+      "detail": "08→07 and15→14 resolve;67 remains an independent unresolved source edge because its proposed merge was only moderate. Bream04→04b→05 order is preserved."
+    },
+    {
+      "name": "Mask projection and click binding",
+      "result": "pass-without-browser",
+      "detail": "Executed the actual buildSpines against DOM stubs and current homographies:66Box3,71Box4,55right physical paths; every path has finite photographed geometry and binds the matching physical index;07/14 each include2subpaths; both inserted IDs are present."
+    },
+    {
+      "name": "Final image manifests",
+      "result": "pass",
+      "detail": "All58 selected faces across30records exist; SHA256 and dimensions match; Pillow verification succeeds; no GPS EXIF. Both family fallback faces have exact original capture provenance."
+    },
+    {
+      "name": "Thumbnail failure",
+      "result": "pass",
+      "detail": "Executed actual mountCover: broken thumbnail retries full.jpg, then placeholder only if the full image also fails."
+    },
+    {
+      "name": "Counts",
+      "result": "pass",
+      "detail": "320source positions,318physical items,311confirmed,7unknown,0probable,283Spotify links."
+    }
+  ],
+  "newMiddleArtwork": {
+    "records": 14,
+    "fronts": 14,
+    "outerBacks": 14,
+    "peerVisualReview": "catalog_right independently reviewed both selected contact sheets and found all28 correct outer LP faces, without CD trays or inner gatefold substitutions."
+  },
+  "newMiddleSpotify": {
+    "audited": 14,
+    "matched": 10,
+    "unresolved": 4,
+    "unresolvedIds": [
+      "upper-middle-23",
+      "upper-middle-39",
+      "lower-middle-44",
+      "lower-middle-53"
+    ],
+    "policy": "Original full programme; remasters/expanded editions disclosed. No partial anthology substituted."
+  },
+  "filesAtReview": [
+    {
+      "path": "site/dist/app.js",
+      "sha256": "b17f8c49100324f359d0e8f41c4d1297b2c4b553c2fa39e24ca3575ff33da8ec"
+    },
+    {
+      "path": "site/scripts/apply-capture-intake.mjs",
+      "sha256": "e443fb145ec70ae273aa6db0e6a1bc4b1dd0dc1e3a9c7a32de1756df75e7b166"
+    },
+    {
+      "path": "site/scripts/prepare-capture-artwork.py",
+      "sha256": "85d775e1bf9b022fff34edaa78f62014ef1717c0743d9d622e1fefa831b29638"
+    },
+    {
+      "path": "site/dist/catalog.json",
+      "sha256": "34b6abcb6a936a994d7ce0dee8c8c97d5417459b58475491c7dca754a9f9e7d8"
+    },
+    {
+      "path": "site/dist/spine-masks.json",
+      "sha256": "51fd67f9dfb88324d47a17e5370e5bace2fe15d752764c6763e1a2fa0c2589b6"
+    }
+  ],
+  "openCodeFindings": [],
+  "visualReview": {
+    "status": "pass-no-visible-blocker",
+    "method": "Independent direct pixel inspection of four parent native-browser screenshots. This agent did not operate the unavailable parent in-app browser.",
+    "screenshots": [
+      {
+        "path": "site/research/capture-intake-2026-10-14/browser-qa/bream-desktop.png",
+        "sha256": "015ee0c5df048496bdb5ea92eba78e3404101a7afc6b0c6b36c3d5ca7441c159"
+      },
+      {
+        "path": "site/research/capture-intake-2026-10-14/browser-qa/bream-mobile.png",
+        "sha256": "6780beb1b334bccb3033d414f91a07223c242ea9f7e4cc3d7fe59928e00f726e"
+      },
+      {
+        "path": "site/research/capture-intake-2026-10-14/browser-qa/bream-back-mobile.png",
+        "sha256": "1fa3922065af3cbf885c9ab6cf615dd637ffb8ed15a2fda48dea54d4a5924269"
+      },
+      {
+        "path": "site/research/capture-intake-2026-10-14/browser-qa/trios-back-desktop.png",
+        "sha256": "61b0ab864829c6d13de2510f5ecf96626afc7e06fffeae042a409e6972421419"
+      }
+    ],
+    "observations": [
+      {
+        "image": "bream-desktop.png",
+        "result": "pass",
+        "detail": "Photographed box remains sharp in a softly blurred room; selected Bream jacket is large and legible, with clear separation from the dark information card.4b identification, exact Spotify action and Mozart→Bream→Firebird neighbors are visible without overlap."
+      },
+      {
+        "image": "bream-mobile.png",
+        "result": "pass",
+        "detail": "At390px the jacket fits with margins, top return control remains visible, front/back/disc controls and neighbor cards stay reachable, and the information panel flows vertically. No visible horizontal clipping or text collision."
+      },
+      {
+        "image": "bream-back-mobile.png",
+        "result": "pass",
+        "detail": "Correct outer LP back fills the same jacket area, selected Back control is clear, and the sourced-back/pressing qualification is visible. Fine rear print is naturally small at this scale; this frame does not establish zoomed text readability."
+      },
+      {
+        "image": "trios-back-desktop.png",
+        "result": "pass",
+        "detail": "Reviewed replacement settled frame: the actual family rear is square and fully visible, its title and original print are clear, and it sits beside a readable information card without overlap. The family-copy caption and search-only Spotify wording are accurate. Parent measured349.590×349.590 image bounds; the prior compressed frame was captured mid-flip, not a layout defect."
+      }
+    ],
+    "judgment": "The visible result is cohesive and polished: album artwork has enough emphasis, the original room context remains present, and controls/captions clearly distinguish reference art, the family copy and verified listening. No user-facing blocker is visible in the four frames. Static screenshots alone cannot establish animation smoothness, hit accuracy or full mobile interaction quality.",
+    "actualBlockingFindings": [],
+    "parentNativeBehaviorReported": [
+      "Both old aliases resolve correctly.",
+      "Visible Bream body opens4b directly; semantic path bounding-box center can miss a bent sleeve, so click testing used the visible source body.",
+      "Neighbor order04→04b→05 works.",
+      "Exact Bream Spotify iframe survives player minimization.",
+      "Trios35 rear caption and asset path are correct.",
+      "No horizontal overflow at390px."
+    ],
+    "settledFrameConfirmation": {
+      "image": "trios-back-desktop.png",
+      "result": "pass",
+      "priorTimingCaveatCleared": true
+    }
+  }
+}
