@@ -39,3 +39,25 @@ To rebuild this audited snapshot, run `python3 scripts/verify-spotify-links.py`,
 Verified albums open a Spotify embed on demand and offer the exact album link. Closing or pressing Escape in the listening panel minimizes it to a corner player while the same iframe continues playing. Its controls remain usable in boxes, the collection, and photo views. Only Stop, Refresh player, or choosing another album resets the player. Sign in to Spotify and Refresh player are available inside the expanded turntable; refreshing resets playback. Other identified albums offer a Spotify search. Unidentified records and the art book have no playback action. Spotify manages login, regional availability, and playback permissions. Full browser playback through the Web Playback SDK requires a separate Spotify developer app, user authorization, and Spotify Premium; this project currently uses embeds.
 
 `.openai/hosting.json` declares the private Sites project and static `dist` output. No credentials are stored in this repository. Publishing keeps the owner-private audience until the user explicitly changes sharing.
+
+## Vercel hosting
+
+The Vercel project is `record-collection` in `ben-zittlaus-projects`, with production domain `records.zittlau.ca`. Use the Vercel CLI for deployment and account configuration. `vercel.json` serves only `dist/`, with no install or build step. `.vercelignore` excludes research, tooling, hosting metadata and local environment files from CLI uploads. Original phone captures live outside `site/`.
+
+From the repository root, link a fresh checkout once, then validate and deploy:
+
+```sh
+npx --yes vercel@64.1.0 --cwd site link --yes --project record-collection --scope ben-zittlaus-projects
+npm run check
+npx --yes vercel@64.1.0 --cwd site deploy --prod --scope ben-zittlaus-projects
+```
+
+The production deployment is protected by Vercel Authentication for all deployments, including custom domains. Preserve that setting unless a change in access is explicitly requested. The existing private Sites project remains separate.
+
+Vercel's recommended DNS record, retrieved October 14, 2026, is a `CNAME` named `records` pointing to `ffff5ae07e97b6f2.vercel-dns-017.com.`. Add this record at the authoritative DNS provider; the root domain and nameservers do not need to move. Recheck the recommendation and propagation with:
+
+```sh
+npx --yes vercel@64.1.0 --cwd site domains verify records.zittlau.ca --scope ben-zittlaus-projects
+```
+
+For Spotify authorization on this domain, register the exact redirect URI `https://records.zittlau.ca/` in the Spotify developer app. The current Spotify embed does not require an OAuth redirect; the future Web Playback SDK sign-in will.
