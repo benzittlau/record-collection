@@ -1,5 +1,6 @@
 import {readFile,writeFile,mkdir} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
+import {prepareResources} from './prepare-resources.mjs';
 
 const read=async path=>JSON.parse(await readFile(new URL(path,import.meta.url),'utf8'));
 const catalog=await read('../dist/catalog.json');
@@ -45,22 +46,10 @@ const created=new Intl.DateTimeFormat('sv-SE',{timeZone:'America/Edmonton'}).for
 const manifest={version,created,recipe:'front-back',pairCount:pairs.length,optionalPairCount:pairs.filter(p=>p.optional).length,shotCount:shots.length,boxes,summary:{records:catalog.records.length,confirmed:catalog.meta.confirmed,probable:catalog.meta.probable,unknown:catalog.meta.unknown,fronts:catalog.records.filter(r=>r.cover).length,backs:catalog.records.filter(r=>r.back).length},instructions:['Work through boxes 1 to 5, left to right within each section.','Take the front, then the back of each requested sleeve. Keep all four corners and small catalogue text in focus.','Put each sleeve back in its original place before moving on.','Some thin edges may be folded parts of neighboring sleeves. Skip them if they are not physically separate jackets; never photograph the same jacket twice.','Send the original camera files together, in batches if needed. Keep their original names; no renaming, captions or folders are required.','Retakes and skipped folds are fine. Photo order and cover contents will help match them; guide numbers need not match camera filenames.'],pairs,shots};
 await writeFile(new URL('../dist/capture-manifest.json',import.meta.url),JSON.stringify(manifest,null,2)+'\n');
 await writeFile(new URL('../research/capture-sequence.json',import.meta.url),JSON.stringify({version,recipe:manifest.recipe,shots},null,2)+'\n');
-const scriptUrl=new URL('../dist/capture.js',import.meta.url);
-let script=await readFile(scriptUrl,'utf8');
-script=script.replace(/capture-manifest\.json(?:\?v=[a-f0-9]+)?/g,`capture-manifest.json?v=${version}`);
-await writeFile(scriptUrl,script);
-const htmlUrl=new URL('../dist/capture.html',import.meta.url);
-let html=await readFile(htmlUrl,'utf8');
-html=html.replace(/capture-map\.pdf(?:\?v=[a-f0-9]+)?/g,`capture-map.pdf?v=${version}`);
-for(const name of ['capture.js','capture.css']){
-  const content=await readFile(new URL(`../dist/${name}`,import.meta.url));
-  const hash=createHash('sha256').update(content).digest('hex').slice(0,12);
-  html=html.replace(new RegExp(`${name.replace('.','\\.')}(?:\\?v=[a-f0-9]+)?`,'g'),`${name}?v=${hash}`);
-}
-await writeFile(htmlUrl,html);
 if(process.argv.includes('--freeze')){
   const archive=new URL('../research/capture-plans/',import.meta.url);
   await mkdir(archive,{recursive:true});
   await writeFile(new URL(`${version}.json`,archive),JSON.stringify(manifest,null,2)+'\n');
 }
+await prepareResources();
 console.log(`Capture plan ${version}: ${pairs.length} sleeves, ${shots.length} photos.`);

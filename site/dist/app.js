@@ -1,5 +1,5 @@
-import {fitHomography,cssProjection,sourceClip,projectPoint} from './photo-projection.js';
-import {projectSpineMasks} from './spine-masks.js';
+import {fitHomography,cssProjection,sourceClip,projectPoint} from './photo-projection.js?v=a275d56a7eaf';
+import {projectSpineMasks} from './spine-masks.js?v=75a96f6a5f99';
 import {openTurntable,restoreTurntable} from './turntable.js?v=9724e9847d80';
 const $ = (id) => document.getElementById(id);
 const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -23,7 +23,7 @@ let cameraBase = null, carouselIndex = 0, manualCarouselScroll = false, scrollSe
 let records = [], sourceRecords = [], currentBox = null, currentIndex = 0, previewIndex = null, previewAnchor = {}, currentView = 'front', lastRoomFocus = null, ignoreJacketClick = false;
 const spotifyIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="currentColor"/><path d="M5 8c5-1.6 10-1.3 14 1M6 12c4-1.2 8-1 12 .8M7 16c3-.7 6-.5 9 .6" fill="none" stroke="#d8e0cb" stroke-width="1.6" stroke-linecap="round"/></svg>';
 const turntableIcon = '<svg class="turntable-button-icon" viewBox="0 0 48 32" aria-hidden="true"><rect x="1" y="1" width="46" height="30" rx="2" fill="#999e8e" stroke="#777e6e"/><circle cx="17" cy="16" r="12.5" fill="#171b16"/><g fill="none" stroke="#434b3d" stroke-width=".7"><circle cx="17" cy="16" r="10.5"/><circle cx="17" cy="16" r="8.5"/><circle cx="17" cy="16" r="6.5"/></g><circle cx="17" cy="16" r="4" fill="#e6c993"/><circle cx="17" cy="16" r=".9" fill="#202420"/><path d="M40 6 33 23" fill="none" stroke="#dce1d2" stroke-width="2.2" stroke-linecap="round"/><path d="m33 22-1.5 4" stroke="#333a2d" stroke-width="3"/><circle cx="40" cy="6" r="2" fill="#6e7864"/></svg>';
-const photoCalibrationReady=fetch('box-photos.json?v=2',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+const photoCalibrationReady=fetch('box-photos.json?v=8d2f41a45e65',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 const spineMasksReady=fetch('spine-masks.json?v=51fd67f9dfb8',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 let photoProjectionRequest=0;
 const catalogReady = fetch('catalog.json?v=34b6abcb6a93',{cache:'no-store'}).then(r => {if(!r.ok)throw new Error('catalog');return r.json();}).then(data => {
