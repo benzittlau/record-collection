@@ -111,6 +111,8 @@ npm run check
 
 These cover syntax, catalogue consistency, photo projection, spine geometry, source checksums, cache keys, the saved capture sequence, and Spotify configuration and link evidence.
 
+After editing browser code, styles, calibration or the capture PDF, run `npm run prepare:resources` to refresh content-based resource URLs, then run the checks. Preparation also runs before the local server starts. It leaves the saved photo guide and archive data unchanged.
+
 ## Working on the archive
 
 | Where | What it contains |
@@ -122,13 +124,15 @@ These cover syntax, catalogue consistency, photo projection, spine geometry, sou
 | [visuals/](visuals/) | Room renderings, generation prompts, and earlier visual reviews. |
 | [docs/screenshots/](docs/screenshots/) | Screenshots in this README, captured in Codex’s built-in browser. |
 
-After editing the catalogue or traced masks, regenerate the website data from the repository root:
+Regenerate whichever data you edited from the repository root; each command also refreshes resource URLs:
 
 ```sh
 node site/scripts/merge-catalog.mjs
 node site/scripts/merge-spine-masks.mjs
 npm run check
 ```
+
+The mask merge is needed when tracing, physical order or IDs change. Ordinary catalogue metadata edits only need the catalogue merge and checks.
 
 Keep item IDs and the completed photo guide’s frozen sequence stable. See [the maintainer documentation](site/README.md) for the full editing workflow, capture reconciliation, source limitations, and deployment commands.
 

@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
 import {readFile,writeFile} from 'node:fs/promises';
+import {prepareResources} from './prepare-resources.mjs';
 
 const read=async path=>JSON.parse(await readFile(new URL(path,import.meta.url),'utf8'));
 const [photos,catalog,...sources]=await Promise.all([
@@ -24,31 +25,5 @@ for(const source of sources){
 assert.equal(Object.keys(result.boxes).length,5);
 const maskSource=JSON.stringify(result,null,2)+'\n';
 await writeFile(new URL('../dist/spine-masks.json',import.meta.url),maskSource);
-// Each trace revision must get fresh resource URLs, including in preview
-// browsers that retain an earlier response despite fetch's no-store option.
-const fingerprint=source=>createHash('sha256').update(source).digest('hex').slice(0,12);
-const appUrl=new URL('../dist/app.js',import.meta.url),indexUrl=new URL('../dist/index.html',import.meta.url);
-const appSource=await readFile(appUrl,'utf8');
-assert(/spine-masks\.json\?v=[^'"]+/.test(appSource),'Missing versioned mask request');
-const playerUrl=new URL('../dist/turntable.js',import.meta.url);
-const playerSource=await readFile(playerUrl,'utf8');
-let nextPlayer=playerSource;
-for(const module of ['spotify-session','spotify-player']){
-  const pattern=new RegExp(`${module}\\.js(?:\\?v=[^'\"]+)?(?=['\"])`);
-  if(!pattern.test(nextPlayer))continue;
-  const moduleSource=await readFile(new URL(`../dist/${module}.js`,import.meta.url),'utf8');
-  nextPlayer=nextPlayer.replace(pattern,`${module}.js?v=${fingerprint(moduleSource)}`);
-}
-if(nextPlayer!==playerSource)await writeFile(playerUrl,nextPlayer);
-assert(/turntable\.js\?v=[^'"]+/.test(appSource),'Missing versioned player module');
-const nextApp=appSource.replace(/spine-masks\.json\?v=[^'"]+/,`spine-masks.json?v=${fingerprint(maskSource)}`)
-  .replace(/turntable\.js\?v=[^'"]+/,`turntable.js?v=${fingerprint(nextPlayer)}`);
-if(nextApp!==appSource)await writeFile(appUrl,nextApp);
-const indexSource=await readFile(indexUrl,'utf8');
-const stylesSource=await readFile(new URL('../dist/styles.css',import.meta.url),'utf8');
-assert(/src="app\.js\?v=[^"]+"/.test(indexSource),'Missing versioned application script');
-assert(/href="styles\.css\?v=[^"]+"/.test(indexSource),'Missing versioned application stylesheet');
-const nextIndex=indexSource.replace(/src="app\.js\?v=[^"]+"/,`src="app.js?v=${fingerprint(nextApp)}"`)
-  .replace(/href="styles\.css\?v=[^"]+"/,`href="styles.css?v=${fingerprint(stylesSource)}"`);
-if(nextIndex!==indexSource)await writeFile(indexUrl,nextIndex);
+await prepareResources();
 console.log('Merged the five photographic spine maps and refreshed their content-based cache keys.');

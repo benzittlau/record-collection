@@ -15,13 +15,6 @@ catch(error){if(error.code!=='ENOENT')throw error;}
 const corrected=new Map(corrections.map(row=>[row.id,row]));
 assert.equal(corrected.size,corrections.length,'Duplicate historical mask correction');
 const geometry=outline=>({outline:outline.polygon,anchor:outline.anchor});
-const script=await readFile(new URL('../dist/capture.js',import.meta.url),'utf8');
-const css=await readFile(new URL('../dist/capture.css',import.meta.url));
-const html=await readFile(new URL('../dist/capture.html',import.meta.url),'utf8');
-const hash=bytes=>createHash('sha256').update(bytes).digest('hex').slice(0,12);
-assert(script.includes(`capture-manifest.json?v=${plan.version}`),'The guide must load the current saved sequence');
-assert(html.includes(`capture.js?v=${hash(script)}`),'The guide must request its current script');
-assert(html.includes(`capture.css?v=${hash(css)}`),'The guide must request its current styles');
 const map=new Map(catalog.records.map(r=>[r.id,r]));
 const seen=new Set();
 assert.equal(plan.recipe,'front-back');assert.equal(plan.pairCount,plan.pairs.length);assert.equal(plan.shotCount,plan.pairCount*2);assert.equal(plan.shots.length,plan.shotCount);

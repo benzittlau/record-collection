@@ -1,4 +1,4 @@
-import {clipToPhoto} from './spine-masks.js';
+import {clipToPhoto} from './spine-masks.js?v=75a96f6a5f99';
 const $=id=>document.getElementById(id);
 const escape=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let plan,currentShot=1,wholeBox=false,mapsBuilt=false;
@@ -87,7 +87,7 @@ function buildMaps(){
 function showMaps(){buildMaps();$('map-view').hidden=false;$('step-view').hidden=true;$('complete').hidden=true;$('step-tab').setAttribute('aria-pressed','false');$('maps-tab').setAttribute('aria-pressed','true');history.replaceState(null,'','#maps');}
 async function load(){
   try{
-    const response=await fetch('capture-manifest.json?v=7ac3efbb41aa',{cache:'no-store'});if(!response.ok)throw Error('Manifest load failed');plan=await response.json();
+    const response=await fetch('capture-manifest.json?v=e7977234e258',{cache:'no-store'});if(!response.ok)throw Error('Manifest load failed');plan=await response.json();
     $('plan-summary').textContent=`Up to ${plan.pairCount} items · ${plan.shotCount} planned photos · five boxes. ${plan.optionalPairCount||0} entries may be folded or overlapping edges.`;
     $('manifest-label').textContent=`Saved sequence · ${plan.created}`;
     $('box-jump').innerHTML=plan.boxes.filter(b=>b.pairCount).map(b=>`<option value="${b.id}">${b.number} · ${escape(b.name)}</option>`).join('');

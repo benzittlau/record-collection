@@ -1,4 +1,4 @@
-import {projectPoint} from './photo-projection.js';
+import {projectPoint} from './photo-projection.js?v=a275d56a7eaf';
 
 // The original photo and the hit outlines share the same projective transform.
 // Clipping keeps outlines off the unphotographed corner of the lower-middle box.

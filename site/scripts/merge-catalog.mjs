@@ -1,5 +1,5 @@
 import { readFile, writeFile, access } from 'node:fs/promises';
-import {createHash} from 'node:crypto';
+import {prepareResources} from './prepare-resources.mjs';
 const parts = await Promise.all(['left','middle','right'].map(async p=>JSON.parse(await readFile(new URL(`../research/${p}.json`,import.meta.url),'utf8'))));
 const order=['upper-left','lower-left','upper-middle','lower-middle','right'];
 const records=parts.flat().sort((a,b)=>order.indexOf(a.box)-order.indexOf(b.box)||a.position-b.position);
@@ -22,8 +22,5 @@ const physical=records.filter(r=>!r.mergedInto);
 const meta={recordCount:physical.length,sourcePositionCount:records.length,mergedAliasCount:records.length-physical.length,confirmed:physical.filter(r=>r.confidence==='confirmed').length,probable:physical.filter(r=>r.confidence==='probable').length,unknown:physical.filter(r=>r.confidence==='unknown').length,artwork:physical.filter(r=>r.cover).length,spotify:physical.filter(r=>r.spotifyId).length,note:'Source positions retain stable IDs, including documented folded sleeve edges. Covers may show other pressings; illustrated vinyl is not a photograph of the original disc.'};
 const serialized=JSON.stringify({meta,records},null,2)+'\n';
 await writeFile(new URL('../dist/catalog.json',import.meta.url),serialized);
-const hash=createHash('sha256').update(serialized).digest('hex').slice(0,12);
-const appUrl=new URL('../dist/app.js',import.meta.url);
-const app=await readFile(appUrl,'utf8');
-await writeFile(appUrl,app.replace(/catalog\.json\?v=[^'"]+/,`catalog.json?v=${hash}`));
+await prepareResources();
 console.log(meta);
