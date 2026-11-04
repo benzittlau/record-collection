@@ -12,6 +12,12 @@ From this directory, run `npm run dev` and open `http://127.0.0.1:4173/` or `htt
 
 `npm run check` verifies resource freshness without rewriting files and exercises changed-input preparation in temporary copies, alongside the syntax, catalog, projection, mask, Spotify configuration and provenance checks. Stale references report `npm run prepare:resources` as the repair command.
 
+## Box browsing
+
+`dist/box-browsing.js` owns selection, preview, pull-out/put-back transitions, carousel settling, focus, accessibility, and URL state. Keyboard, spine, carousel, and swipe inputs use the same module. `dist/app.js` renders sleeve artwork and details and handles camera geometry through the browsing module's rendering callbacks. After rebuilding spine geometry, refresh browsing so selection and accessibility follow the new outlines.
+
+`node --test scripts/test-box-browsing.mjs` exercises browsing sequences with a local DOM stand-in and controlled timers, including stale scroll callbacks after navigation, close, or a box change. It runs as part of `npm run check`; it does not verify browser layout or animation.
+
 ## Catalog and evidence
 
 The editable catalog lives in `research/left.json`, `research/middle.json`, and `research/right.json`. Each item retains its box, visible position, read spine text, confidence, and source links. Use `node scripts/merge-catalog.mjs` after editing those files to regenerate `dist/catalog.json` and refresh resource references, then run `npm run check`. If an edit changes the catalog's physical order or IDs, update the tracing data and merge the masks too.
