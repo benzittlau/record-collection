@@ -1,13 +1,13 @@
 import {readFile,writeFile,readdir,mkdir,rename,stat} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
-const catalog=JSON.parse(await readFile(new URL('../dist/catalog.json',import.meta.url),'utf8'));
+const catalog=JSON.parse(await readFile(new URL('../public/catalog.json',import.meta.url),'utf8'));
 const used=new Set();
 function collect(value){
   if(typeof value==='string'&&/^\/?assets\/covers\//.test(value))used.add(value.split('/').at(-1));
   else if(value&&typeof value==='object')Object.values(value).forEach(collect);
 }
 collect(catalog);
-const assets=new URL('../dist/assets/covers/',import.meta.url);
+const assets=new URL('../public/assets/covers/',import.meta.url);
 const archive=new URL('../research/artwork-candidates/',import.meta.url);
 await mkdir(archive,{recursive:true});
 const indexUrl=new URL('index.json',archive);

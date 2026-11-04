@@ -6,7 +6,7 @@ const read=async name=>JSON.parse(await readFile(new URL(name,import.meta.url),'
 const directory=new URL('../research/capture-intake-2026-10-14/',import.meta.url);
 await mkdir(directory,{recursive:true});
 const baselineURL=new URL('baseline-catalog.json',directory);
-try{await access(baselineURL);}catch(error){if(error.code!=='ENOENT')throw error;await writeFile(baselineURL,await readFile(new URL('../dist/catalog.json',import.meta.url)));}
+try{await access(baselineURL);}catch(error){if(error.code!=='ENOENT')throw error;await writeFile(baselineURL,await readFile(new URL('../public/catalog.json',import.meta.url)));}
 const baseline=JSON.parse(await readFile(baselineURL,'utf8'));
 const inventory=await read('../../tmp/capture-intake-2026-10-14/inventory.json');
 const inventoryByName=new Map(inventory.files.map(row=>[row.filename,row]));

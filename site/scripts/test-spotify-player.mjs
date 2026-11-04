@@ -4,7 +4,7 @@ import vm from 'node:vm';
 
 // Isolated SDK, clocks and HTTP stubs only. These tests never load configuration,
 // credentials, storage, a real browser, Spotify's SDK, or any network resource.
-const source=await readFile(new URL('../dist/spotify-player.js',import.meta.url),'utf8');
+const source=await readFile(new URL('../src/spotify-player.js',import.meta.url),'utf8');
 const ALBUM='a'.repeat(22), TOKEN='synthetic-access-token-do-not-display';
 const deferred=()=>{let resolve,reject;const promise=new Promise((yes,no)=>{resolve=yes;reject=no;});return{promise,resolve,reject};};
 const flush=async()=>{for(let n=0;n<12;n++)await Promise.resolve();};

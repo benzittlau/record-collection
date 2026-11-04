@@ -8,7 +8,7 @@ from PIL import Image, ImageOps
 
 ROOT=Path(__file__).resolve().parents[2]
 RESEARCH=ROOT/'site/research'
-OUTPUT=ROOT/'site/dist/assets/covers'
+OUTPUT=ROOT/'site/public/assets/covers'
 OUTPUT.mkdir(parents=True,exist_ok=True)
 
 def digest(data): return hashlib.sha256(data).hexdigest()
@@ -43,16 +43,16 @@ for proposal in proposals:
             crop=source.get('suggestedOuterQuad')
             if crop: image=rectify(image,crop['pixels'])
             if source.get('clockwiseRotation'): image=image.rotate(-source['clockwiseRotation'],expand=True)
-            reuse=str(local).startswith(str(ROOT/'site/dist')+'/') and not crop and not source.get('clockwiseRotation')
+            reuse=str(local).startswith(str(ROOT/'site/public')+'/') and not crop and not source.get('clockwiseRotation')
             if reuse:
-                asset=str(local.relative_to(ROOT/'site/dist')); result_bytes=raw
+                asset=str(local.relative_to(ROOT/'site/public')); result_bytes=raw
             else:
                 image.thumbnail((2200,2200),Image.Resampling.LANCZOS)
                 image=image.convert('RGB')
                 buffer=io.BytesIO();image.save(buffer,format='JPEG',quality=94,optimize=True,icc_profile=image.info.get('icc_profile'))
                 result_bytes=buffer.getvalue()
                 asset=f"assets/covers/{record['recordId']}-intake-{face}-{digest(result_bytes)[:10]}.jpg"
-                (ROOT/'site/dist'/asset).write_bytes(result_bytes)
+                (ROOT/'site/public'/asset).write_bytes(result_bytes)
             dimensions=list(Image.open(io.BytesIO(result_bytes)).size)
             accepted={**source,'path':asset,'originalDimensions':list(original_size),'dimensions':dimensions,
               'sourceSha256':digest(raw),'sha256':digest(result_bytes),
@@ -62,7 +62,7 @@ for proposal in proposals:
                 thumb=Image.open(io.BytesIO(result_bytes)).convert('RGB');thumb.thumbnail((560,560),Image.Resampling.LANCZOS)
                 buffer=io.BytesIO();thumb.save(buffer,format='WEBP',quality=91,method=6)
                 thumb_bytes=buffer.getvalue();thumb_asset=f"assets/covers/{record['recordId']}-intake-thumb-{digest(thumb_bytes)[:10]}.webp"
-                (ROOT/'site/dist'/thumb_asset).write_bytes(thumb_bytes)
+                (ROOT/'site/public'/thumb_asset).write_bytes(thumb_bytes)
                 accepted['thumbnail']=thumb_asset;accepted['thumbnailSha256']=digest(thumb_bytes)
             selected[face]=accepted
         records.append(selected)
