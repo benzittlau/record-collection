@@ -8,7 +8,7 @@ import {spawnSync} from 'node:child_process';
 import test from 'node:test';
 import {prepareResources} from './prepare-resources.mjs';
 
-const runtimeFiles = ['app.js','turntable.js','spotify-session.js','spotify-player.js',
+const runtimeFiles = ['app.js','box-browsing.js','turntable.js','spotify-session.js','spotify-player.js',
   'photo-projection.js','spine-masks.js','catalog.json','box-photos.json','spine-masks.json',
   'styles.css','index.html','capture.js','capture.css','capture.html','capture-manifest.json','capture-map.pdf'];
 const frozenFiles = ['capture-plans/7ac3efbb41aa.json','capture-sequence.json'];
@@ -48,6 +48,7 @@ test('changed resource bytes propagate through every browser parent in one opera
     ['turntable.js',['app.js','index.html']],
     ['photo-projection.js',['spine-masks.js','app.js','index.html','capture.js','capture.html']],
     ['spine-masks.js',['app.js','index.html','capture.js','capture.html']],
+    ['box-browsing.js',['app.js','index.html']],
     ['app.js',['index.html']],
     ['styles.css',['index.html']],
     ['capture.js',['capture.html']],

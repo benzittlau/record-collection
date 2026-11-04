@@ -1,3 +1,4 @@
+import {createBoxBrowsing} from './box-browsing.js?v=78eb6483fcdf';
 import {fitHomography,cssProjection,sourceClip,projectPoint} from './photo-projection.js?v=a275d56a7eaf';
 import {projectSpineMasks} from './spine-masks.js?v=75a96f6a5f99';
 import {openTurntable,restoreTurntable} from './turntable.js?v=9724e9847d80';
@@ -19,8 +20,9 @@ const roomGeometry = {
  'right':{polygon:'951,520 1020,446 1294,477 1262,814 946,747',face:[[962,540],[1277,580],[1244,792],[958,740]],center:[1110,635],height:368}
 };
 let cameraReturnTimer;
-let cameraBase = null, carouselIndex = 0, manualCarouselScroll = false, scrollSettleTimer;
-let records = [], sourceRecords = [], currentBox = null, currentIndex = 0, previewIndex = null, previewAnchor = {}, currentView = 'front', lastRoomFocus = null, ignoreJacketClick = false;
+let cameraBase = null;
+let records = [], sourceRecords = [], previewAnchor = {}, currentView = 'front', ignoreJacketClick = false;
+const browsing = createBoxBrowsing({document, window, renderRecord, renderPreview, positionPreview, onOpen: showBox, onClose: leaveBox});
 const spotifyIcon = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="currentColor"/><path d="M5 8c5-1.6 10-1.3 14 1M6 12c4-1.2 8-1 12 .8M7 16c3-.7 6-.5 9 .6" fill="none" stroke="#d8e0cb" stroke-width="1.6" stroke-linecap="round"/></svg>';
 const turntableIcon = '<svg class="turntable-button-icon" viewBox="0 0 48 32" aria-hidden="true"><rect x="1" y="1" width="46" height="30" rx="2" fill="#999e8e" stroke="#777e6e"/><circle cx="17" cy="16" r="12.5" fill="#171b16"/><g fill="none" stroke="#434b3d" stroke-width=".7"><circle cx="17" cy="16" r="10.5"/><circle cx="17" cy="16" r="8.5"/><circle cx="17" cy="16" r="6.5"/></g><circle cx="17" cy="16" r="4" fill="#e6c993"/><circle cx="17" cy="16" r=".9" fill="#202420"/><path d="M40 6 33 23" fill="none" stroke="#dce1d2" stroke-width="2.2" stroke-linecap="round"/><path d="m33 22-1.5 4" stroke="#333a2d" stroke-width="3"/><circle cx="40" cy="6" r="2" fill="#6e7864"/></svg>';
 const photoCalibrationReady=fetch('box-photos.json?v=8d2f41a45e65',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
@@ -43,7 +45,7 @@ const catalogReady = fetch('catalog.json?v=34b6abcb6a93',{cache:'no-store'}).the
   const banner = document.createElement('div');banner.className='load-error';banner.innerHTML='The collection could not load. <button>Try again</button>';banner.querySelector('button').onclick=()=>location.reload();$('room').append(banner);
   return [];
 });
-function boxRecords(){return records.filter(r=>r.box===currentBox).sort((a,b)=>a.position-b.position);}
+function boxRecords(){return browsing.records;}
 catalogReady.then(restoreTurntable);
 function resolveRecordId(id){const seen=new Set();let row=sourceRecords.find(r=>r.id===id);while(row?.mergedInto&&!seen.has(row.id)){seen.add(row.id);row=sourceRecords.find(r=>r.id===row.mergedInto);}return row?.id??id;}
 function sleeveNumber(r){return r.positionLabel??r.position;}
@@ -71,24 +73,30 @@ function mountCover(container,r,side='front',small=false,lazy=false){
 function backPlaceholder(){return '<div class="back-placeholder"><span class="brand-disc" aria-hidden="true"></span><p>A little more<br>to rediscover.</p><small>The back of this sleeve hasn’t been photographed yet. It’ll be here when it is.</small></div>';}
 async function openBox(box,id){
   await catalogReady;
-  clearTimeout(cameraReturnTimer);
   if(!records.length)return;
-  currentBox=box;const list=boxRecords();currentIndex=id?Math.max(0,list.findIndex(r=>r.id===resolveRecordId(id))):0;
+  const list=records.filter(r=>r.box===box).sort((a,b)=>a.position-b.position);
+  browsing.open(box,list,id?resolveRecordId(id):null);
+}
+function showBox(box,list){
+  clearTimeout(cameraReturnTimer);
   const meta=boxes[box];$('box-number').textContent=`Box ${meta.number} of 5 · ${list.length} catalogued items`;$('box-name').textContent=meta.name;
   $('box-photo').src=`assets/${meta.photo}`;$('box-photo').alt=`Original photograph of ${meta.name.toLowerCase()}`;$('box-description').textContent=meta.description;
-  if(!$('box-dialog').open)lastRoomFocus=document.activeElement;
   $('box-tooltip').classList.remove('visible');
-  if(!$('box-dialog').open){ cameraBase=getCameraBase(); $('box-dialog').showModal(); }
-  focusCamera(box,list); buildStrip(list);
-  if(id){renderRecord();pullRecord();}else{renderRecord();putRecordBack(false);}
+  cameraBase=getCameraBase();
+  focusCamera(box,list);buildStrip(list);
+}
+function leaveBox(){
+  returnCameraToRoom();$('scene-plane').classList.remove('camera-zoomed');
+  cameraReturnTimer=setTimeout(()=>{if(!$('box-dialog').open)$('scene').classList.remove('camera-active');},reducedMotion?0:900);
+  $('room').classList.remove('at-box');cameraBase=null;
 }
 function buildStrip(list){
   const strip=$('record-strip');strip.replaceChildren();
-  list.forEach((r,i)=>{const b=document.createElement('button');b.className='strip-record';b.dataset.index=i;b.title=`${sleeveNumber(r)}. ${r.artist} — ${r.title}`;b.setAttribute('aria-label',`Sleeve ${sleeveNumber(r)}. ${r.artist}, ${r.title}`);mountCover(b,r,'front',true,true);b.addEventListener('mouseenter',()=>previewSpine(r,{element:b}));b.addEventListener('mouseleave',hidePreview);b.addEventListener('focus',()=>previewSpine(r,{element:b}));b.addEventListener('blur',hidePreview);
-    const num=document.createElement('small');num.textContent=sleeveNumber(r);b.append(num);b.onclick=()=>{if(strip.dataset.dragged==='true')return;openRecord(i);};strip.append(b);});requestAnimationFrame(styleCarousel);
+  list.forEach((r,i)=>{const b=document.createElement('button');b.className='strip-record';b.dataset.index=i;b.title=`${sleeveNumber(r)}. ${r.artist} — ${r.title}`;b.setAttribute('aria-label',`Sleeve ${sleeveNumber(r)}. ${r.artist}, ${r.title}`);mountCover(b,r,'front',true,true);b.addEventListener('mouseenter',()=>previewSpine(r,{element:b}));b.addEventListener('mouseleave',browsing.hidePreview);b.addEventListener('focus',()=>previewSpine(r,{element:b}));b.addEventListener('blur',browsing.hidePreview);
+    const num=document.createElement('small');num.textContent=sleeveNumber(r);b.append(num);b.onclick=()=>{if(strip.dataset.dragged==='true')return;browsing.pull(i);};strip.append(b);});requestAnimationFrame(browsing.refresh);
 }
 function renderRecord(){
-  const list=boxRecords(),r=list[currentIndex];if(!r)return;
+  const list=boxRecords(),r=list[browsing.index];if(!r)return;
   currentView='front';$('jacket').classList.remove('is-back');$('jacket-front').setAttribute('aria-hidden','false');$('jacket-back').setAttribute('aria-hidden','true');$('record-view').classList.remove('show-vinyl');
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('active',b.dataset.view==='front');b.setAttribute('aria-pressed',String(b.dataset.view==='front'));});
   mountCover($('jacket-front'),r);
@@ -96,9 +104,9 @@ function renderRecord(){
   $('vinyl-label-image').src=r.label||r.cover||'';$('vinyl-label-image').style.display=r.label||r.cover?'block':'none';$('vinyl-label-image').style.opacity=r.label?'1':'';$('vinyl-label-image').parentElement.style.border=r.label?'1px solid #25231e':'';$('vinyl-label-title').textContent=r.label?'':r.title;
   $('vinyl-button').hidden=r.kind==='book';
   $('jacket').setAttribute('aria-label',`Turn over ${r.title}`);
-  $('record-location').textContent=`Box ${boxes[currentBox].number} · ${r.kind==='book'?'Art book':'Sleeve'} ${sleeveNumber(r)}${r.compartment?` · Section ${r.compartment}`:''}`;
-  $('album-position').textContent=`${currentIndex+1} / ${list.length}`;
-  $('album-position').title=`${currentIndex+1} of ${list.length} in this box`;
+  $('record-location').textContent=`Box ${boxes[browsing.box].number} · ${r.kind==='book'?'Art book':'Sleeve'} ${sleeveNumber(r)}${r.compartment?` · Section ${r.compartment}`:''}`;
+  $('album-position').textContent=`${browsing.index+1} / ${list.length}`;
+  $('album-position').title=`${browsing.index+1} of ${list.length} in this box`;
   document.querySelector('.sleeve-stage').dataset.view='front';
   $('record-title').textContent=r.title;$('record-artist').textContent=r.artist;
   $('record-tags').innerHTML=[r.year,r.kind==='book'?'Art book':'Vinyl',r.confidence==='unknown'?'Unidentified':r.confidence==='probable'?'Likely identification':null].filter(Boolean).map(t=>`<span>${escapeHtml(t)}</span>`).join('');
@@ -110,46 +118,29 @@ function renderRecord(){
   if(r.kind==='book'){$('listen-actions').innerHTML='<p class="record-evidence">An art book, tucked in with the records.</p>';}
   else if(r.spotifyId&&/^[A-Za-z0-9]{22}$/.test(r.spotifyId)&&r.confidence==='confirmed'){
     $('listen-actions').innerHTML=`<button class="spotify-button turntable-button" id="listen-album" aria-haspopup="dialog" aria-controls="listen-dialog">${turntableIcon} Put on the turntable</button><a class="spotify-link" href="https://open.spotify.com/album/${r.spotifyId}" target="_blank" rel="noopener noreferrer">Open the verified album ↗</a>${r.spotifyAvailabilityNote?`<p class="spotify-link">${escapeHtml(r.spotifyAvailabilityNote)}</p>`:''}`;
-    $('listen-album').onclick=()=>openListen(r);
+    $('listen-album').onclick=()=>openTurntable(r);
   }else if(r.confidence!=='unknown'){$('listen-actions').innerHTML=`<a class="spotify-button" href="${search}" target="_blank" rel="noopener noreferrer">${spotifyIcon} Find on Spotify ↗</a><p class="spotify-link">Search only · an exact album link hasn’t been verified.</p>`;}
   else{$('listen-actions').innerHTML='<p class="record-evidence">Listening will be available once this record is identified.</p>';}
-  for(const [dir,el] of [[-1,$('previous-sleeve')],[1,$('next-sleeve')]]){const neighbor=list[currentIndex+dir];el.hidden=!neighbor;if(neighbor)mountCover(el,neighbor,'front',true);}
+  for(const [dir,el] of [[-1,$('previous-sleeve')],[1,$('next-sleeve')]]){const neighbor=list[browsing.index+dir];el.hidden=!neighbor;if(neighbor)mountCover(el,neighbor,'front',true);}
   for(const [dir,id,label] of [[-1,'album-prev','Previous'],[1,'album-next','Next']]){
-    const button=$(id),neighbor=list[currentIndex+dir],art=button.querySelector('.nav-cover');
+    const button=$(id),neighbor=list[browsing.index+dir],art=button.querySelector('.nav-cover');
     button.disabled=!neighbor;button.setAttribute('aria-label',neighbor?`${label} record: ${neighbor.title} by ${neighbor.artist}`:`${label} record`);
     button.title=neighbor?`${neighbor.artist} — ${neighbor.title}`:'';
     button.querySelector('.nav-title').textContent=neighbor?neighbor.title:dir<0?'Start of box':'End of box';
     if(neighbor)mountCover(art,neighbor,'front',true);else art.replaceChildren();
   }
-  $('prev-record').disabled=currentIndex===0;$('next-record').disabled=currentIndex===list.length-1;$('album-prev').disabled=currentIndex===0;$('album-next').disabled=currentIndex===list.length-1;
-  carouselIndex=currentIndex;updateCarouselCaption(r);
-  $('position-label').textContent=`${currentIndex+1} / ${list.length} · left to right`;
-  document.querySelectorAll('.spine-hit').forEach((p,i)=>{p.setAttribute('tabindex',i===currentIndex&&!$('box-dialog').classList.contains('album-open')?'0':'-1');p.classList.toggle('selected-spine',i===currentIndex);});updateSlotMarker();
-  document.querySelectorAll('.strip-record').forEach((b,i)=>{b.classList.toggle('selected',i===currentIndex);b.setAttribute('aria-pressed',String(i===currentIndex));b.tabIndex=i===currentIndex?0:-1;});
-  const strip=$('record-strip');const selected=strip.children[currentIndex];if(selected){manualCarouselScroll=false;const target=selected.getBoundingClientRect().left-strip.getBoundingClientRect().left+strip.scrollLeft-(strip.clientWidth-selected.clientWidth)/2;strip.scrollTo({left:Math.max(0,target),behavior:reducedMotion?'instant':'smooth'});}
   $('record-info')?.scrollTo?.(0,0);
   $('view-note').textContent=artworkNote(r);
-  $('announcement').textContent=`${currentIndex+1} of ${list.length}. ${r.title} by ${r.artist}`;
-  if($('box-dialog').classList.contains('album-open'))history.replaceState(null,'',`${location.pathname}${location.search}#record=${encodeURIComponent(r.id)}`);
+  $('announcement').textContent=`${browsing.index+1} of ${list.length}. ${r.title} by ${r.artist}`;
   document.querySelector('.identification').open=false;
 }
 function sourceName(url,i){try{const host=new URL(url).hostname;return host.includes('musicbrainz')?'Album details':host.includes('coverartarchive')?'Cover archive':host.includes('spotify')?'Spotify album':host.includes('discogs')?'Release details':`Source ${i+1}`;}catch{return 'Source';}}
-function openRecord(index){
-  clearTimeout(scrollSettleTimer);manualCarouselScroll=false;currentIndex=index;previewIndex=null;
-  renderRecord();pullRecord();
-}
-function changeRecord(step){const focusWasSpine=document.activeElement?.classList.contains('spine-hit'),focusWasStrip=document.activeElement?.classList.contains('strip-record');const list=boxRecords();const next=Math.min(list.length-1,Math.max(0,currentIndex+step));if(next!==currentIndex){currentIndex=next;renderRecord();if($('box-dialog').classList.contains('album-open'))pullRecord(false);else previewSpine(list[next]);if(focusWasStrip)$('record-strip').children[currentIndex]?.focus({preventScroll:true});if(focusWasSpine)$('spine-layer').children[currentIndex]?.focus({preventScroll:true});}}
 function changeView(view){
-  const r=boxRecords()[currentIndex];currentView=view;document.querySelector('.sleeve-stage').dataset.view=view;$('jacket-front').setAttribute('aria-hidden',String(view==='back'));$('jacket-back').setAttribute('aria-hidden',String(view!=='back'));$('jacket').classList.toggle('is-back',view==='back');$('record-view').classList.toggle('show-vinyl',view==='vinyl');
+  const r=boxRecords()[browsing.index];currentView=view;document.querySelector('.sleeve-stage').dataset.view=view;$('jacket-front').setAttribute('aria-hidden',String(view==='back'));$('jacket-back').setAttribute('aria-hidden',String(view!=='back'));$('jacket').classList.toggle('is-back',view==='back');$('record-view').classList.toggle('show-vinyl',view==='vinyl');
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('active',b.dataset.view===view);b.setAttribute('aria-pressed',String(b.dataset.view===view));});
   $('view-note').textContent=view==='vinyl'?(r.label?'Illustrated vinyl · sourced LP label, exact pressing may differ':'Illustrated vinyl · original disc label hasn’t been photographed'):artworkNote(r,view==='back'?'back':'front');
 }
-function closeBox(){if($('box-dialog').open)$('box-dialog').close();}
-$('box-dialog').addEventListener('close',()=>{returnCameraToRoom();$('scene-plane').classList.remove('camera-zoomed');cameraReturnTimer=setTimeout(()=>{if(!$('box-dialog').open)$('scene').classList.remove('camera-active');},reducedMotion?0:900);$('room').classList.remove('at-box');$('box-dialog').classList.remove('album-open');hidePreview();cameraBase=null;history.replaceState(null,'',location.pathname+location.search);lastRoomFocus?.focus();});
-$('album-prev').onclick=()=>changeRecord(-1);$('album-next').onclick=()=>changeRecord(1);
-$('close-box').onclick=closeBox;$('prev-record').onclick=()=>navigateCarousel(-1);$('next-record').onclick=()=>navigateCarousel(1);$('previous-sleeve').onclick=()=>changeRecord(-1);$('next-sleeve').onclick=()=>changeRecord(1);
 document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>changeView(b.dataset.view));
-$('put-back').onclick=()=>putRecordBack();
 $('jacket').onclick=()=>{if(ignoreJacketClick)return;changeView(currentView==='back'?'front':'back');};
 for(const hotspot of document.querySelectorAll('.box-hotspot')){
   hotspot.addEventListener('click',()=>openBox(hotspot.dataset.box));
@@ -170,26 +161,17 @@ function renderLibrary(){
   results.forEach(r=>{const b=document.createElement('button');b.className='library-record';const cover=document.createElement('div');mountCover(cover,r,'front',true,true);b.append(cover);b.insertAdjacentHTML('beforeend',`<strong>${escapeHtml(r.title)}</strong><small>${escapeHtml(r.artist)}</small><span class="small-label">Box ${boxes[r.box].number} · ${r.kind==='book'?'Art book':r.confidence==='unknown'?'Unidentified sleeve':r.confidence==='probable'?'Likely match':`Sleeve ${sleeveNumber(r)}`}</span>`);b.onclick=()=>{$('library-dialog').close();openBox(r.box,r.id);};grid.append(b);});
 }
 $('search-input').addEventListener('input',renderLibrary);$('box-filter').onchange=renderLibrary;
-function openListen(r){
-  openTurntable(r);
-}
 $('about-button').onclick=()=> $('about-dialog').showModal();$('close-about').onclick=()=> $('about-dialog').close();
 function showOriginalPhoto(){
-  const meta=boxes[currentBox];const d=document.createElement('dialog');d.className='photo-dialog';d.setAttribute('aria-label','Original photograph of the selected box');d.innerHTML=`<button class="icon-button" aria-label="Close photograph">✕</button><img src="assets/boxes/${currentBox}.jpg" alt="Original photograph of ${escapeHtml(meta.name.toLowerCase())}"><p>${escapeHtml(meta.name)} · original family photograph. Positions reconstructed from the visible spines.</p>`;
+  const meta=boxes[browsing.box];const d=document.createElement('dialog');d.className='photo-dialog';d.setAttribute('aria-label','Original photograph of the selected box');d.innerHTML=`<button class="icon-button" aria-label="Close photograph">✕</button><img src="assets/boxes/${browsing.box}.jpg" alt="Original photograph of ${escapeHtml(meta.name.toLowerCase())}"><p>${escapeHtml(meta.name)} · original family photograph. Positions reconstructed from the visible spines.</p>`;
   document.body.append(d);d.querySelector('button').onclick=()=>d.close();d.addEventListener('close',()=>d.remove());d.showModal();
 }
 $('source-photo-button').onclick=showOriginalPhoto;$('record-photo').onclick=showOriginalPhoto;
-// Native dialogs trap focus and provide Escape on both desktop and mobile keyboards.
-document.addEventListener('keydown',e=>{
-  const dialogs=[...document.querySelectorAll('dialog[open]')];const top=dialogs.at(-1);
-  if(top!==$('box-dialog')||e.target.closest('.turntable-widget')||/INPUT|SELECT|TEXTAREA/.test(e.target.tagName))return;
-  if(e.key==='ArrowLeft'){e.preventDefault();changeRecord(-1);}if(e.key==='ArrowRight'){e.preventDefault();changeRecord(1);}
-});
 for(const d of document.querySelectorAll('dialog'))d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)d.close();}});
 // Swipe the large sleeve; native touch scrolling remains available on the strip.
 let swipeStart=null;
 $('record-view').addEventListener('pointerdown',e=>{if(e.pointerType==='touch')swipeStart={x:e.clientX,y:e.clientY};});
-$('record-view').addEventListener('pointerup',e=>{if(!swipeStart)return;const dx=e.clientX-swipeStart.x,dy=e.clientY-swipeStart.y;swipeStart=null;if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)*1.4){ignoreJacketClick=true;changeRecord(dx<0?1:-1);setTimeout(()=>ignoreJacketClick=false,350);}});
+$('record-view').addEventListener('pointerup',e=>{if(!swipeStart)return;const dx=e.clientX-swipeStart.x,dy=e.clientY-swipeStart.y;swipeStart=null;if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)*1.4){ignoreJacketClick=true;browsing.move(dx<0?1:-1);setTimeout(()=>ignoreJacketClick=false,350);}});
 $('record-view').addEventListener('pointercancel',()=>swipeStart=null);
 let drag=null;
 const strip=$('record-strip');
@@ -248,19 +230,18 @@ function buildSpines(list,face,traced=new Map()){
     const outline=traced.get(r.id),points=outline?.polygon??[lerp(tl,tr,a),lerp(tl,tr,b),lerp(bl,br,b),lerp(bl,br,a)];
     const anchor=outline?.anchor??[(points[2][0]+points[3][0])/2,(points[2][1]+points[3][1])/2];
     const extraOutlines=sourceRecords.filter(source=>source.mergedInto&&resolveRecordId(source.id)===r.id).map(source=>traced.get(source.id)?.polygon).filter(Boolean);
-    const poly=document.createElementNS('http://www.w3.org/2000/svg','path');poly.setAttribute('d',[points,...extraOutlines].map(outline=>`M${outline.map(p=>p.join(',')).join(' L')} Z`).join(' '));poly.setAttribute('class',`spine-hit${i===currentIndex?' selected-spine':''}`);poly.dataset.index=i;poly.dataset.recordId=r.id;poly.dataset.maskSource=outline?'photo':'estimated';poly.dataset.slotAnchor=anchor.join(',');poly.setAttribute('role','button');poly.setAttribute('aria-label',`Pull out ${r.title} by ${r.artist}`);poly.setAttribute('tabindex',i===currentIndex&&!$('box-dialog').classList.contains('album-open')?'0':'-1');
-    poly.addEventListener('mouseenter',e=>previewSpine(r,{event:e}));poly.addEventListener('mouseleave',hidePreview);
-    poly.addEventListener('focus',()=>previewSpine(r));poly.addEventListener('blur',hidePreview);poly.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openRecord(i);}});poly.addEventListener('click',e=>{e.stopPropagation();openRecord(i);});svg.append(poly);
+    const poly=document.createElementNS('http://www.w3.org/2000/svg','path');poly.setAttribute('d',[points,...extraOutlines].map(outline=>`M${outline.map(p=>p.join(',')).join(' L')} Z`).join(' '));poly.setAttribute('class','spine-hit');poly.dataset.index=i;poly.dataset.recordId=r.id;poly.dataset.maskSource=outline?'photo':'estimated';poly.dataset.slotAnchor=anchor.join(',');poly.setAttribute('role','button');poly.setAttribute('aria-label',`Pull out ${r.title} by ${r.artist}`);
+    poly.addEventListener('mouseenter',e=>previewSpine(r,{event:e}));poly.addEventListener('mouseleave',browsing.hidePreview);
+    poly.addEventListener('focus',()=>previewSpine(r));poly.addEventListener('blur',browsing.hidePreview);poly.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();browsing.pull(i);}});poly.addEventListener('click',e=>{e.stopPropagation();browsing.pull(i);});svg.append(poly);
   });
+  browsing.refresh();
 }
-function previewSpine(r,anchor={}){
-  if($('box-dialog').classList.contains('album-open'))return;
-  previewIndex=boxRecords().findIndex(item=>item.id===r.id);updateSlotMarker();
+function previewSpine(r,anchor={}){browsing.preview(boxRecords().findIndex(item=>item.id===r.id),anchor);}
+function renderPreview(r,anchor){
   const card=$('record-preview');card.innerHTML='<div class="preview-art"></div><div class="preview-caption"></div>';
   mountCover(card.querySelector('.preview-art'),r,'front',true);
   card.querySelector('.preview-caption').innerHTML=`<span class="small-label">Sleeve ${sleeveNumber(r)} · ${r.confidence==='unknown'?'Unidentified':'Pull out to explore'}</span><strong>${escapeHtml(r.title)}</strong><span>${escapeHtml(r.artist)}</span>`;
   previewAnchor=anchor;positionPreview();
-  card.classList.add('visible');$('box-dialog').classList.add('has-preview');
 }
 function positionPreview(){
   const card=$('record-preview'),anchor=previewAnchor;
@@ -280,90 +261,29 @@ function positionPreview(){
     card.style.left=`${x}px`;card.style.top=`${y}px`;card.style.bottom='auto';card.style.transform='none';
   }
 }
-function hidePreview(){ previewIndex=null;$('record-preview').classList.remove('visible');$('box-dialog').classList.remove('has-preview');updateSlotMarker(); }
-
-function pullRecord(focus=true){
-  hidePreview();$('box-dialog').classList.add('album-open');$('box-invitation').setAttribute('aria-hidden','true');$('spine-layer').setAttribute('aria-hidden','true');$('spine-layer').querySelectorAll('.spine-hit').forEach(p=>p.setAttribute('tabindex','-1'));
-  if(focus)$('jacket').focus({preventScroll:true});
-  updateSlotMarker();
-  const r=boxRecords()[currentIndex];history.replaceState(null,'',`${location.pathname}${location.search}#record=${encodeURIComponent(r.id)}`);
-}
-function putRecordBack(focus=true){
-  $('box-dialog').classList.remove('album-open');hidePreview();$('box-invitation').removeAttribute('aria-hidden');$('spine-layer').removeAttribute('aria-hidden');$('spine-layer').querySelectorAll('.spine-hit').forEach((p,i)=>p.setAttribute('tabindex',i===currentIndex?'0':'-1'));
-  history.replaceState(null,'',`${location.pathname}${location.search}#box=${currentBox}`);
-  requestAnimationFrame(()=>{const strip=$('record-strip'),selected=strip.children[currentIndex];if(selected){const target=selected.getBoundingClientRect().left-strip.getBoundingClientRect().left+strip.scrollLeft-(strip.clientWidth-selected.clientWidth)/2;strip.scrollTo({left:Math.max(0,target),behavior:'instant'});styleCarousel();if(focus)selected.focus({preventScroll:true});}});
-}
-
 let resizeTimer;
 window.addEventListener('resize',()=>{
   clearTimeout(resizeTimer);resizeTimer=setTimeout(()=>{
-    if($('box-dialog').open)focusCamera(currentBox,boxRecords(),true);else returnCameraToRoom(true);
+    if($('box-dialog').open)focusCamera(browsing.box,boxRecords(),true);else returnCameraToRoom(true);
   },100);
 });
-function nearestCarouselRecord(){
-  const bounds=strip.getBoundingClientRect(),center=bounds.left+bounds.width/2;
-  return [...strip.children].reduce((best,b)=>{const r=b.getBoundingClientRect(),distance=Math.abs(r.left+r.width/2-center);return !best||distance<best.distance?{b,distance}:best;},null)?.b;
-}
-function navigateCarousel(step){currentIndex=carouselIndex;changeRecord(step);}
-function updateCarouselCaption(r){
-  const index=boxRecords().findIndex(item=>item.id===r.id);$('prev-record').disabled=index===0;$('next-record').disabled=index===boxRecords().length-1;
-  $('carousel-title').textContent=r.title;$('carousel-artist').textContent=r.artist;
-  $('position-label').textContent=`${index+1} / ${boxRecords().length} · ${$('box-dialog').classList.contains('album-open')?'Browse this box':'Pull out a sleeve'}`;
-}
-function styleCarousel(){
-  const bounds=strip.getBoundingClientRect(),center=bounds.left+bounds.width/2;
-  for(const b of strip.children){const r=b.getBoundingClientRect(),distance=(r.left+r.width/2-center)/90,amount=Math.min(Math.abs(distance),3);b.style.opacity=String(1-amount*.17);b.style.transform=`perspective(600px) rotateY(${Math.sign(distance)*Math.min(amount*18,38)}deg) scale(${1.08-amount*.11})`;}
-}
-$('carousel-selected').onclick=()=>openRecord(carouselIndex);
-strip.addEventListener('wheel',e=>{manualCarouselScroll=true;if(Math.abs(e.deltaY)>Math.abs(e.deltaX)){e.preventDefault();strip.scrollLeft+=e.deltaY;}},{passive:false});
-strip.addEventListener('pointerdown',()=>manualCarouselScroll=true);
-strip.addEventListener('scroll',()=>{
-  styleCarousel();
-  if(!manualCarouselScroll||!$('box-dialog').open)return;
-  const nearest=nearestCarouselRecord();if(!nearest)return;
-  carouselIndex=Number(nearest.dataset.index);const r=boxRecords()[carouselIndex];updateCarouselCaption(r);
-  if(!$('box-dialog').classList.contains('album-open'))previewSpine(r);
-  clearTimeout(scrollSettleTimer);scrollSettleTimer=setTimeout(()=>{
-    if(!manualCarouselScroll)return;
-    if(currentIndex!==carouselIndex){const open=$('box-dialog').classList.contains('album-open');currentIndex=carouselIndex;renderRecord();if(open)pullRecord(false);else previewSpine(boxRecords()[currentIndex]);}
-  },180);
-});
-$('box-dialog').addEventListener('click',e=>{
-  if(e.target.closest('.sleeve-object,.view-controls,.album-navigation,.album-nav,.record-info,.crate-browser,.box-header,.put-back,.turntable-widget'))return;
-  if($('box-dialog').classList.contains('album-open'))putRecordBack();
-  else closeBox();
-});
-$('box-dialog').addEventListener('cancel',e=>{if($('box-dialog').classList.contains('album-open')){e.preventDefault();putRecordBack();}});
-
-function updateSlotMarker(){
-  const svg=$('spine-layer'),index=$('box-dialog').classList.contains('album-open')?currentIndex:previewIndex;
-  const poly=index===null?null:svg.querySelector(`.spine-hit[data-index="${index}"]`);
-  svg.classList.toggle('has-highlight',!!poly);
-  svg.querySelectorAll('.spine-hit').forEach(p=>p.classList.toggle('is-highlighted',p===poly));
-  if(!poly)return;
-  let marker=svg.querySelector('.spine-slot-marker');
-  if(!marker){marker=document.createElementNS('http://www.w3.org/2000/svg','g');marker.setAttribute('class','spine-slot-marker');marker.setAttribute('aria-hidden','true');marker.innerHTML='<path d="M-3 0 L0 -5 L3 0"/><rect x="-10" y="1" width="20" height="13" rx="2"/><text x="0" y="10"></text>';svg.append(marker);}
-  const [x,y]=poly.dataset.slotAnchor.split(',').map(Number);
-  marker.setAttribute('transform',`translate(${x} ${y+5})`);marker.querySelector('text').textContent=sleeveNumber(boxRecords()[index]);
-  if(previewIndex!==null&&$('record-preview').classList.contains('visible'))positionPreview();
-}
 $('spine-layer').addEventListener('transitionend',e=>{if(e.propertyName==='transform'&&$('box-dialog').classList.contains('has-preview'))positionPreview();});
 
 async function applyBoxPhoto(box,rect,list,preserve=false){
   const request=++photoProjectionRequest,photo=$('box-detail-image');
   if(!preserve){photo.style.transition='none';photo.classList.remove('source-ready');photo.offsetWidth;photo.style.transition='';}
   const [config,masks]=await Promise.all([photoCalibrationReady,spineMasksReady]);
-  if(request!==photoProjectionRequest||currentBox!==box||!config?.boxes?.[box])return;
+  if(request!==photoProjectionRequest||browsing.box!==box||!config?.boxes?.[box])return;
   const calibration=config.boxes[box];
   try{
     const h=fitHomography(calibration.sourceQuad,calibration.targetQuad);
     photo.style.width=`${calibration.width}px`;photo.style.height=`${calibration.height}px`;
     photo.style.clipPath=sourceClip(calibration.clipPolygon||calibration.sourceQuad,calibration.width,calibration.height);
     photo.style.transform=cssProjection(h,rect.width/config.roomWidth,rect.height/config.roomHeight);
-    photo.onload=()=>{if(request===photoProjectionRequest&&currentBox===box)photo.classList.add('source-ready');};
+    photo.onload=()=>{if(request===photoProjectionRequest&&browsing.box===box)photo.classList.add('source-ready');};
     photo.onerror=()=>photo.classList.remove('source-ready');
     if(photo.getAttribute('src')!==calibration.path)photo.src=calibration.path;
     else if(photo.complete&&photo.naturalWidth)photo.classList.add('source-ready');
-    if(calibration.openingQuad){const face=calibration.openingQuad.map(p=>projectPoint(h,p));roomGeometry[box].face=face;const traced=projectSpineMasks(h,masks?.boxes?.[box],calibration.width,calibration.height);buildSpines(list,face,traced);updateSlotMarker();}
+    if(calibration.openingQuad){const face=calibration.openingQuad.map(p=>projectPoint(h,p));roomGeometry[box].face=face;const traced=projectSpineMasks(h,masks?.boxes?.[box],calibration.width,calibration.height);buildSpines(list,face,traced);}
   }catch(error){console.warn('Box photograph projection could not load',error.message);}
 }

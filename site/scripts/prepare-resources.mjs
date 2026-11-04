@@ -15,7 +15,7 @@ const resources = [
   {
     file: 'app.js',
     dependencies: [
-      'photo-projection.js', 'spine-masks.js', 'turntable.js',
+      'photo-projection.js', 'spine-masks.js', 'turntable.js', 'box-browsing.js',
       'catalog.json', 'box-photos.json', 'spine-masks.json'
     ]
   },
