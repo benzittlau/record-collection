@@ -4,7 +4,7 @@ import {readFile} from 'node:fs/promises';
 
 // Every module instance gets an isolated, in-memory browser. No account,
 // credentials, network, or real browser storage is used by these tests.
-const source = await readFile(new URL('../dist/spotify-session.js', import.meta.url), 'utf8');
+const source = await readFile(new URL('../src/spotify-session.js', import.meta.url), 'utf8');
 const CLIENT_ID = 'a'.repeat(32);
 const CONFIG = {clientId: CLIENT_ID, redirectUri: 'https://records.example/'};
 const ATTEMPT_KEY = 'record-room.spotify.pkce.v1';

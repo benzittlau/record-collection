@@ -67,13 +67,13 @@ The app uses plain JavaScript, CSS, and SVG. There is no application framework, 
 
 Each box has an original **4032 × 3024** source photograph. Four measured corners on that photo correspond to four corners of the box in the room overview. A **projective homography** calculates how to fit one quadrilateral onto the other, including its perspective.
 
-[photo-projection.js](site/dist/photo-projection.js) solves that mapping and converts it to a CSS `matrix3d`. As the camera approaches a box, the full-resolution photo blends into its matching position. The overview, focused photo, and interactive spine layer all move with the same camera transform, keeping the transition aligned.
+[photo-projection.js](site/src/photo-projection.js) solves that mapping and converts it to a CSS `matrix3d`. As the camera approaches a box, the full-resolution photo blends into its matching position. The overview, focused photo, and interactive spine layer all move with the same camera transform, keeping the transition aligned.
 
-Calibration lives in [photo-calibration.json](site/research/photo-calibration.json), with browser-ready coordinates in [box-photos.json](site/dist/box-photos.json). A small corner of the lower-middle box falls outside its source photograph; the overview remains underneath that gap.
+Calibration lives in [photo-calibration.json](site/research/photo-calibration.json), with browser-ready coordinates in [box-photos.json](site/src/box-photos.json). A small corner of the lower-middle box falls outside its source photograph; the overview remains underneath that gap.
 
 ### Masks that follow the records
 
-Spine masks are polygons traced in the source photograph’s coordinate system and rendered as SVG paths. Multiple vertices follow leaning and worn sleeves rather than dividing the box into equal rectangles. [spine-masks.js](site/dist/spine-masks.js) projects those polygons through **the same homography as the photograph**, so the image, clickable area, and selected highlight agree.
+Spine masks are polygons traced in the source photograph’s coordinate system and rendered as SVG paths. Multiple vertices follow leaning and worn sleeves rather than dividing the box into equal rectangles. [spine-masks.js](site/src/spine-masks.js) projects those polygons through **the same homography as the photograph**, so the image, clickable area, and selected highlight agree.
 
 The number marker follows the sleeve’s lower edge. Polygons are clipped to the real image bounds, and divider gaps stay outside the record outlines. Some unreadable boundaries remain estimates between clearer anchors; a precise-looking outline does not imply a confirmed album identity.
 
@@ -87,7 +87,7 @@ The [research report](site/research/deep-research-report.md), [capture intake](s
 
 ### A player that stays with you
 
-[turntable.js](site/dist/turntable.js) keeps Spotify’s embedded player mounted when the turntable is minimized. It observes playback state and can pause it; starting playback stays with Spotify’s own controls. Browsing a different box or inspecting another sleeve does not replace the playing album. Loading a different album, reloading the player, or removing the record does.
+[turntable.js](site/src/turntable.js) keeps Spotify’s embedded player mounted when the turntable is minimized. It observes playback state and can pause it; starting playback stays with Spotify’s own controls. Browsing a different box or inspecting another sleeve does not replace the playing album. Loading a different album, reloading the player, or removing the record does.
 
 Normal browsing needs no Spotify API credentials or custom OAuth flow. Older account-player tools remain in the repository for development and callback recovery; they are described in the [maintainer documentation](site/README.md#optional-legacy-spotify-tools).
 
@@ -101,7 +101,7 @@ cd record-collection
 npm run dev
 ```
 
-Open **[http://127.0.0.1:4173/](http://127.0.0.1:4173/)**. There are no npm dependencies to install, no build step, and no account configuration required to browse the collection or load Spotify’s widget. Cloning requires access while the repository is private.
+Open **[http://127.0.0.1:4173/](http://127.0.0.1:4173/)**. There are no npm dependencies to install. The dev command builds the static site before serving it; no account configuration is required to browse the collection or load Spotify’s widget. Cloning requires access while the repository is private.
 
 Run the project checks with:
 
@@ -111,20 +111,21 @@ npm run check
 
 These cover syntax, catalogue consistency, photo projection, spine geometry, source checksums, cache keys, the saved capture sequence, and Spotify configuration and link evidence.
 
-After editing browser code, styles, calibration or the capture PDF, run `npm run prepare:resources` to refresh content-based resource URLs, then run the checks. Preparation also runs before the local server starts. It leaves the saved photo guide and archive data unchanged.
+Edit browser code, HTML, and CSS under `site/src/`; archive data and assets live under `site/public/`. Run `npm run build` after edits to copy them into the ignored `site/dist/` output and fingerprint resource URLs. The build never rewrites source or regenerates archive data. `npm run check` builds before validating.
 
 ## Working on the archive
 
 | Where | What it contains |
 | --- | --- |
-| [site/dist/](site/dist/) | The website, generated catalogue, photos, covers, and player. |
+| [site/src/](site/src/) | Readable browser modules, HTML pages, and styles. |
+| [site/public/](site/public/) | Catalog, photographs, artwork, masks, calibration, and saved capture guide. |
 | [site/research/](site/research/) | Editable catalogue, traced spine masks, calibration, sources, and research reviews. |
 | [site/scripts/](site/scripts/) | Catalogue merges, photo preparation, capture matching, and validation tools. |
 | [reference/](reference/) and the root `IMG_3568.HEIC`–`IMG_3573.HEIC` files | Original photographic references, with location and capture metadata removed. |
 | [visuals/](visuals/) | Room renderings, generation prompts, and earlier visual reviews. |
 | [docs/screenshots/](docs/screenshots/) | Screenshots in this README, captured in Codex’s built-in browser. |
 
-Regenerate whichever data you edited from the repository root; each command also refreshes resource URLs:
+Regenerate whichever data you edited from the repository root; each command also rebuilds the static output:
 
 ```sh
 node site/scripts/merge-catalog.mjs
@@ -138,6 +139,6 @@ Keep item IDs and the completed photo guide’s frozen sequence stable. See [the
 
 ## Hosting and private files
 
-The public website runs on Vercel at **[records.zittlau.ca](https://records.zittlau.ca/)**. Its static files live in `site/dist/`; deployment uses the Vercel CLI. The separate, older Sites publishing checkout lives in the ignored `.sites-publish/` directory. Preserve its Git metadata and private audience when maintaining it.
+The public website runs on Vercel at **[records.zittlau.ca](https://records.zittlau.ca/)**. Its generated static output lives in ignored `site/dist/`; Vercel runs `npm run build` from `site/` before deployment. The separate, older Sites publishing checkout lives in the ignored `.sites-publish/` directory. Preserve its Git metadata and private audience when maintaining it.
 
 Local environment files and raw phone-photo intake are ignored by Git and excluded from deployment. Committed family references have been stripped of location and capture metadata while preserving their image pixels, orientation, and colour information. Keep future credentials in local or hosting environment storage, outside tracked files.

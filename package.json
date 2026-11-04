@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "npm --prefix site run dev",
     "prepare:resources": "npm --prefix site run prepare:resources",
-    "check": "npm --prefix site run check"
+    "check": "npm --prefix site run check",
+    "build": "npm --prefix site run build"
   }
 }

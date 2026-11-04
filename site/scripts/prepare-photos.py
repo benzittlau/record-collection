@@ -55,7 +55,7 @@ def prepare(path):
     temporary.write_bytes(out)
     temporary.replace(path)
 
-root=Path(__file__).resolve().parents[1]/'dist/assets'
+root=Path(__file__).resolve().parents[1]/'public/assets'
 photos=[*root.glob('IMG_*.jpg'),*root.glob('boxes/*.jpg')]
 for photo in photos:
     prepare(photo)

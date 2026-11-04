@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import {createBoxBrowsing} from '../dist/box-browsing.js';
+import {createBoxBrowsing} from '../src/box-browsing.js';
 
 // A local DOM stand-in supplies only browser operations. Selection, timers,
 // history, focus policy, and event handling all run in the production module.

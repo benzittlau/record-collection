@@ -12,8 +12,8 @@ from reportlab.lib.utils import ImageReader
 from reportlab.pdfbase.pdfmetrics import stringWidth
 
 ROOT=Path(__file__).resolve().parents[2]
-DIST=ROOT/'site/dist';OUT=ROOT/'output/pdf';OUT.mkdir(parents=True,exist_ok=True)
-plan=json.loads((DIST/'capture-manifest.json').read_text())
+PUBLIC=ROOT/'site/public';OUT=ROOT/'output/pdf';OUT.mkdir(parents=True,exist_ok=True)
+plan=json.loads((PUBLIC/'capture-manifest.json').read_text())
 PATH=OUT/'record-collection-capture-map.pdf'
 W,H=612,792
 INK=HexColor('#20372e');MUTED=HexColor('#63706a');PAPER=HexColor('#f7f6ef');TAG=HexColor('#ffe599');LINE=HexColor('#d4dad3')
@@ -54,7 +54,7 @@ def finish():
 images={}
 def source(box):
  if box['id'] not in images:
-  im=ImageOps.exif_transpose(Image.open(DIST/box['photo'])).convert('RGB')
+  im=ImageOps.exif_transpose(Image.open(PUBLIC/box['photo'])).convert('RGB')
   images[box['id']]=im
  return images[box['id']]
 
@@ -84,7 +84,7 @@ def map_photo(box,pairs,x,y,width,height,full=False):
   c.setFillColor(INK);c.setFont('Helvetica-Bold',8);c.drawCentredString(tx,ty+4,str(p['position']))
 
 start('Photograph the remaining sleeves',f'Up to {plan["pairCount"]} items, {plan["shotCount"]} planned photos. Take the front, then the back of each requested sleeve.')
-room=Image.open(DIST/'assets/room-wide.jpg').convert('RGB');rw=540;rh=room.height/room.width*rw;ry=340
+room=Image.open(PUBLIC/'assets/room-wide.jpg').convert('RGB');rw=540;rh=room.height/room.width*rw;ry=340
 c.drawImage(ImageReader(room),36,ry,rw,rh)
 for n,px,py in [(1,410,423),(2,397,694),(3,790,376),(4,797,595),(5,1120,672)]:
  xx=36+px/1659*rw;yy=ry+rh-py/948*rh;c.setFillColor(TAG);c.setStrokeColor(INK);c.circle(xx,yy,12,fill=1,stroke=1);c.setFont('Helvetica-Bold',12);c.setFillColor(INK);c.drawCentredString(xx,yy-4,str(n))
@@ -134,5 +134,5 @@ for box in plan['boxes']:
    if any(p.get('instruction') for p in chunk):paragraph(36,66,'Some outlines here may overlap. Use actual jacket titles and avoid photographing the same sleeve twice.',540,8,11,MUTED)
    finish()
 
-c.save();shutil.copyfile(PATH,DIST/'capture-map.pdf')
+c.save();shutil.copyfile(PATH,PUBLIC/'capture-map.pdf')
 print(f'{PATH}: {page} pages, {plan["pairCount"]} sleeves, {plan["shotCount"]} photos')
