@@ -1,7 +1,7 @@
 // Owns the browsing transitions shared by spines, the carousel and the sleeve.
 // Rendering callbacks draw content; they never have to coordinate selection,
 // accessibility, focus, history or delayed carousel work.
-export function createBoxBrowsing({document, window, renderRecord, renderPreview, onOpen, onClose}) {
+export function createBoxBrowsing({document, window, renderRecord, renderPreview, positionPreview, onOpen, onClose}) {
   const $ = id => document.getElementById(id);
   const dialog = $('box-dialog'), strip = $('record-strip'), spines = $('spine-layer');
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -75,6 +75,9 @@ export function createBoxBrowsing({document, window, renderRecord, renderPreview
     caption();
     marker();
     styleCarousel();
+    // Resize and asynchronous projection rebuilds can move the slot without
+    // a transitionend event. Position the visible card against the new marker.
+    if (previewIndex !== null && $('record-preview').classList.contains('visible')) positionPreview();
   }
 
   function center(instant = false) {

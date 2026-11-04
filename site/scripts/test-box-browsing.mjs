@@ -65,9 +65,11 @@ function fixture() {
   };
   const rows = Array.from({length: 4}, (_, i) => ({id: `sleeve-${i}`, title: `Album ${i}`, artist: `Artist ${i}`, position: i + 1}));
   let rendered, previewed, closes = 0;
+  const previewPositions = [];
   const browsing = createBoxBrowsing({document, window,
     renderRecord: () => { rendered = browsing.records[browsing.index].id; },
     renderPreview: record => { previewed = record.id; },
+    positionPreview: () => { previewPositions.push(elements['spine-layer'].querySelector('.spine-slot-marker')?.getAttribute('transform')); },
     onOpen: (_, records) => {
       elements['record-strip'].children = records.map((_, i) => {
         const button = new Element('', 'strip-record'); button.dataset.index = String(i); button.left = i * 100; return button;
@@ -77,7 +79,7 @@ function fixture() {
       });
     }, onClose: () => { closes++; }
   });
-  return {browsing, rows, elements, document, roomButton, Element, timers,
+  return {browsing, rows, elements, document, roomButton, Element, timers, previewPositions,
     get rendered() { return rendered; }, get previewed() { return previewed; }, get closes() { return closes; },
     get url() { return location.url; },
     key(key, target = document.activeElement) { return listeners.keydown({key, target, preventDefault() { this.defaultPrevented = true; }}); },
@@ -198,4 +200,23 @@ test('a queued native close event does not undo a reopened box', () => {
   assertSelection(f, 2, true);
   assert.equal(f.document.activeElement, f.elements.jacket);
   assert.equal(f.closes, 0);
+});
+
+test('geometry refresh repositions a visible preview after updating its marker', () => {
+  const f = fixture(); f.browsing.open('left', f.rows);
+  f.browsing.move(1);
+  const before = f.previewPositions.length;
+  f.elements['spine-layer'].children[1].dataset.slotAnchor = '130,70';
+  f.browsing.refresh();
+  assert.equal(f.previewPositions.length, before + 1);
+  assert.equal(f.previewPositions.at(-1), 'translate(130 75)');
+  assertSelection(f, 1, false);
+
+  f.browsing.hidePreview();
+  const hidden = f.previewPositions.length;
+  f.browsing.refresh();
+  assert.equal(f.previewPositions.length, hidden, 'hidden previews stay hidden');
+  f.browsing.pull(1);
+  f.browsing.refresh();
+  assert.equal(f.previewPositions.length, hidden, 'pulled sleeves have no preview');
 });
