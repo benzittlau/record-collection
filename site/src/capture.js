@@ -1,4 +1,4 @@
-import { clipToPhoto } from "./spine-masks.js";
+import { renderCaptureMap } from "./capture-map.js";
 const $ = (id) => document.getElementById(id);
 const escape = (value) =>
   String(value ?? "").replace(
@@ -13,94 +13,6 @@ let plan,
   wholeBox = false,
   mapsBuilt = false;
 const clamp = (x, min, max) => Math.max(min, Math.min(max, x));
-function bounds(pairs, box, whole = false, detail = false) {
-  if (whole) return [0, 0, box.width, box.height];
-  if (detail) {
-    const polygon = pairs[0].outlines[0].polygon;
-    const centerX = (polygon[2][0] + polygon[5][0]) / 2,
-      centerY = (polygon[2][1] + polygon[5][1]) / 2;
-    const width = 1300,
-      height = 1500;
-    return [
-      clamp(centerX - width / 2, 0, box.width - width),
-      clamp(centerY - height / 2, 0, box.height - height),
-      width,
-      height,
-    ];
-  }
-  const points = pairs.flatMap((p) => p.outlines.flatMap((o) => o.polygon));
-  const xs = points.map((p) => p[0]),
-    ys = points.map((p) => p[1]);
-  const left = clamp(Math.min(...xs) - 220, 0, box.width),
-    right = clamp(Math.max(...xs) + 220, 0, box.width);
-  const top = clamp(Math.min(...ys) - 110, 0, box.height),
-    bottom = clamp(Math.max(...ys) + 210, 0, box.height);
-  return [left, top, right - left, bottom - top];
-}
-function mapSvg(
-  pairs,
-  box,
-  { whole = false, interactive = false, section = false } = {},
-) {
-  const detail = !whole && !section;
-  const b = section
-    ? [0, 0, box.width, box.height + 300]
-    : bounds(pairs, box, whole, detail);
-  const count = pairs.length;
-  const labelWidth = section || whole ? 280 : 105,
-    labelHeight = section || whole ? 180 : 64;
-  const shapes = pairs
-    .map((p, i) => {
-      const outline = p.outlines[0];
-      let a = outline.anchor ?? outline.polygon.at(-2);
-      if (a[1] > box.height || a[0] < 0 || a[0] > box.width) {
-        const clipped = clipToPhoto(outline.polygon, box.width, box.height);
-        const footY = Math.max(...clipped.map((v) => v[1]));
-        const foot = clipped.filter((v) => Math.abs(v[1] - footY) < 1);
-        a = [foot.reduce((sum, v) => sum + v[0], 0) / foot.length, footY];
-      }
-      if (detail) {
-        const y = b[1] + b[3] - 180;
-        const crossings = [];
-        outline.polygon.forEach((v, index) => {
-          const next = outline.polygon[(index + 1) % outline.polygon.length];
-          if ((v[1] <= y && next[1] > y) || (next[1] <= y && v[1] > y))
-            crossings.push(
-              v[0] + ((y - v[1]) * (next[0] - v[0])) / (next[1] - v[1]),
-            );
-        });
-        a = [
-          crossings.length
-            ? (Math.min(...crossings) + Math.max(...crossings)) / 2
-            : (outline.polygon[2][0] + outline.polygon[5][0]) / 2,
-          y,
-        ];
-      }
-      const x = section ? b[0] + ((i + 0.5) * b[2]) / count : a[0];
-      const y = section
-        ? box.height + 50
-        : whole
-          ? Math.min(box.height - 190, a[1] + 65)
-          : Math.min(box.height - 65, a[1] + 65);
-      return `<g${interactive ? ` data-pair="${p.pair}" role="button" tabindex="0" aria-label="Sleeve ${p.position}: ${escape(p.title)}, photos ${p.frontShot} and ${p.backShot}"` : ""}>${p.outlines
-        .map(
-          (o) =>
-            `<polygon class="${interactive ? "map-spine" : "mask"}" points="${clipToPhoto(
-              o.polygon,
-              box.width,
-              box.height,
-            )
-              .map((v) => v.join(","))
-              .join(" ")}"/>`,
-        )
-        .join(
-          "",
-        )}<g class="map-tag"><line x1="${a[0]}" y1="${Math.min(a[1], box.height)}" x2="${x}" y2="${y}"/><rect x="${x - labelWidth / 2}" y="${y}" width="${labelWidth}" height="${labelHeight}" rx="6"/><text x="${x}" y="${y + labelHeight * 0.72}" style="font-size:${section || whole ? 128 : 38}px">${p.position}</text></g></g>`;
-    })
-    .join("");
-  const clip = `crop-${box.id}-${pairs[0].pair}-${whole ? "whole" : "detail"}`;
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${b.join(" ")}" aria-label="${escape(box.name)} box, highlighted sleeve positions" role="${interactive ? "group" : "img"}"><defs><clipPath id="${clip}"><rect x="${b[0]}" y="${b[1]}" width="${b[2]}" height="${b[3]}"/></clipPath></defs><g clip-path="url(#${clip})"><image href="${escape(box.photo)}" x="0" y="0" width="${box.width}" height="${box.height}"/>${shapes}</g></svg>`;
-}
 function showShot(number, { focus = false } = {}) {
   currentShot = clamp(Number(number) || 1, 1, plan.shotCount);
   wholeBox = false;
@@ -149,7 +61,7 @@ function showShot(number, { focus = false } = {}) {
   $("skip-fold").textContent = pair.optional
     ? "This is part of the neighboring sleeve · skip pair"
     : "Already photographed this jacket · skip pair";
-  $("focus-map").innerHTML = mapSvg([pair], box);
+  $("focus-map").innerHTML = renderCaptureMap([pair], box);
   $("whole-box").textContent = "Show the whole box";
   $("neighbors").innerHTML = [
     ["Immediately left", pair.previous],
@@ -199,7 +111,7 @@ function buildMaps() {
           );
           return chunks.map(
             (chunk) =>
-              `<div class="section-map"><h3>Section ${section} · ${chunk.length === 1 ? `Sleeve ${chunk[0].position}` : `Sleeves ${chunk[0].position}–${chunk.at(-1).position}`}</h3>${mapSvg(chunk, box, { interactive: true, section: true })}<ol>${chunk.map((p) => `<li><button class="pair-link" data-pair="${p.pair}"><span class="sleeve-number">${p.position}${p.optional ? "*" : ""}</span><span><strong>${escape(p.title)}</strong><small>${escape(p.artist)}<br>Photos ${p.frontShot} / ${p.backShot} · front / back${p.optional ? "<br>Only if a separate jacket" : ""}</small></span></button></li>`).join("")}</ol></div>`,
+              `<div class="section-map"><h3>Section ${section} · ${chunk.length === 1 ? `Sleeve ${chunk[0].position}` : `Sleeves ${chunk[0].position}–${chunk.at(-1).position}`}</h3>${renderCaptureMap(chunk, box, "section")}<ol>${chunk.map((p) => `<li><button class="pair-link" data-pair="${p.pair}"><span class="sleeve-number">${p.position}${p.optional ? "*" : ""}</span><span><strong>${escape(p.title)}</strong><small>${escape(p.artist)}<br>Photos ${p.frontShot} / ${p.backShot} · front / back${p.optional ? "<br>Only if a separate jacket" : ""}</small></span></button></li>`).join("")}</ol></div>`,
           );
         })
         .join("")}</div></section>`;
@@ -298,10 +210,10 @@ async function load() {
     $("whole-box").onclick = () => {
       wholeBox = !wholeBox;
       const p = plan.pairs[plan.shots[currentShot - 1].pair - 1];
-      $("focus-map").innerHTML = mapSvg(
+      $("focus-map").innerHTML = renderCaptureMap(
         [p],
         plan.boxes.find((b) => b.id === p.box),
-        { whole: wholeBox },
+        wholeBox ? "whole" : "detail",
       );
       $("whole-box").textContent = wholeBox
         ? "Show the sleeve close up"

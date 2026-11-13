@@ -49,6 +49,8 @@ Spine outlines in `public/spine-masks.json` use the displayed source-photo coord
 
 Edit the tracing data in `research/spine-masks-left.json`, `spine-masks-middle.json`, and `spine-masks-right.json`, then run `node scripts/merge-spine-masks.mjs`. The merge retains catalog order, records a checksum of each source photo, and calls resource preparation. Geometry validation checks coverage, projection, clipping, and the Rampal/Laskine sleeve that previously highlighted the empty right frame. Several worn or uncertain boundaries remain interpolated between readable anchors; more precise outlines do not change the catalog's identification confidence.
 
+`capture.js` owns the saved photo sequence, navigation, focus, and progress. `capture-map.js` renders detail, whole-photo, and interactive section maps; crop geometry, clipped outlines, and label placement stay behind `renderCaptureMap(pairs, box, mode)`.
+
 ## Adding missing records later
 
 The retained first-pass phone guide is `capture.html`. Its 47 requested entries allowed up to 94 photos, front then back, in original box order; this is the completed intake sequence, not a new list of the seven remaining gaps. Conditional folded edges could be skipped. Each entry shows the original source-photo mask, neighboring albums and the reason for capture. No image renaming, captions or folders were required. Original file order and cover content resolve retakes and skipped folds.
