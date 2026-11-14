@@ -30,24 +30,12 @@ export function createSleeveView({
     renderListening(record);
     renderNeighbors(list);
     $("record-info")?.scrollTo?.(0, 0);
-    $("view-note").textContent = artworkNote(record);
     $("announcement").textContent =
       `${browsing.index + 1} of ${list.length}. ${record.title} by ${record.artist}`;
     document.querySelector(".identification").open = false;
   }
   function renderArtwork(record) {
-    currentView = "front";
-    $("jacket").classList.remove("is-back");
-    $("jacket-front").setAttribute("aria-hidden", "false");
-    $("jacket-back").setAttribute("aria-hidden", "true");
-    $("record-view").classList.remove("show-vinyl");
-    document.querySelectorAll("[data-view]").forEach((button) => {
-      button.classList.toggle("active", button.dataset.view === "front");
-      button.setAttribute(
-        "aria-pressed",
-        String(button.dataset.view === "front"),
-      );
-    });
+    changeView("front");
     mountCover($("jacket-front"), record);
     if (artworkPath(record, "back"))
       mountCover($("jacket-back"), record, "back");
@@ -70,7 +58,6 @@ export function createSleeveView({
     $("album-position").textContent = `${browsing.index + 1} / ${list.length}`;
     $("album-position").title =
       `${browsing.index + 1} of ${list.length} in this box`;
-    document.querySelector(".sleeve-stage").dataset.view = "front";
     $("record-title").textContent = record.title;
     $("record-artist").textContent = record.artist;
     $("record-tags").innerHTML = [
@@ -229,5 +216,5 @@ export function createSleeveView({
     changeView(currentView === "back" ? "front" : "back");
   };
 
-  return { renderRecord, changeView };
+  return { renderRecord };
 }
