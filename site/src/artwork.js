@@ -47,7 +47,8 @@ export function mountCover(
   container.classList.remove("cover-missing");
   const path = artworkPath(record, side);
   if (!path) {
-    container.innerHTML = placeholder(record, small);
+    container.innerHTML =
+      side === "back" ? backPlaceholder() : placeholder(record, small);
     return;
   }
   const image = document.createElement("img");
@@ -62,6 +63,8 @@ export function mountCover(
   let usingThumbnail = small && side === "front" && !!record.coverThumbnail;
   if (usingThumbnail) image.src = record.coverThumbnail;
   image.onerror = () => {
+    // A replacement mount owns this container, including its failure state.
+    if (image.parentNode !== container) return;
     if (usingThumbnail) {
       usingThumbnail = false;
       image.src = path;

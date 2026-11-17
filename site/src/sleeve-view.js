@@ -1,9 +1,7 @@
 import { boxes } from "./boxes.js";
 import {
   mountCover,
-  artworkPath,
   artworkNote,
-  backPlaceholder,
   sleeveNumber,
   escapeHtml,
 } from "./artwork.js";
@@ -37,9 +35,7 @@ export function createSleeveView({
   function renderArtwork(record) {
     changeView("front");
     mountCover($("jacket-front"), record);
-    if (artworkPath(record, "back"))
-      mountCover($("jacket-back"), record, "back");
-    else $("jacket-back").innerHTML = backPlaceholder();
+    mountCover($("jacket-back"), record, "back");
     $("vinyl-label-image").src = record.label || record.cover || "";
     $("vinyl-label-image").style.display =
       record.label || record.cover ? "block" : "none";
