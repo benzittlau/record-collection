@@ -46,11 +46,14 @@ function fixture(t) {
       remove: (name) => classes.delete(name),
     },
     replaceChildren(...next) {
+      for (const child of children) child.parentNode = null;
+      for (const child of next) child.parentNode = container;
       children = next;
       html = "";
     },
     set innerHTML(value) {
       html = value;
+      for (const child of children) child.parentNode = null;
       children = [];
     },
     get innerHTML() {
@@ -215,4 +218,34 @@ test("display helpers preserve physical sleeve labels and escape untrusted text"
     "&lt;script a=&quot;x&quot;&gt;&amp;&#39;&lt;/script&gt;",
   );
   assert.equal(escapeHtml(null), "");
+});
+
+
+test("replaced image failures cannot retry or overwrite the current artwork", (t) => {
+  const f = fixture(t);
+  for (const replacement of [record, { ...record, cover: null }]) {
+    for (const small of [false, true]) {
+      mountCover(f.container, record, "front", small);
+      const old = f.images.at(-1);
+      const oldPath = old.src;
+      mountCover(f.container, replacement);
+      const children = [...f.children];
+      const html = f.container.innerHTML;
+      old.onerror();
+      assert.equal(old.src, oldPath, "detached thumbnails do not retry");
+      assert.deepEqual(f.children, children);
+      assert.equal(f.container.innerHTML, html);
+      assert.equal(f.classes.has("cover-missing"), false);
+    }
+  }
+});
+
+test("missing backs use the back placeholder and clear prior failure styling", (t) => {
+  const f = fixture(t);
+  mountCover(f.container, record, "back");
+  f.images[0].onerror();
+  mountCover(f.container, { ...record, back: null }, "back");
+  assert.equal(f.container.innerHTML, backPlaceholder());
+  assert.equal(f.classes.has("cover-missing"), false);
+  assert.equal(f.images.length, 1, "absent backs need no request");
 });
