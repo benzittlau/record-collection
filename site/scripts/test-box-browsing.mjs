@@ -68,8 +68,11 @@ function fixture() {
   const previewPositions = [];
   const browsing = createBoxBrowsing({document, window,
     renderRecord: () => { rendered = browsing.records[browsing.index].id; },
-    renderPreview: record => { previewed = record.id; },
-    positionPreview: () => { previewPositions.push(elements['spine-layer'].querySelector('.spine-slot-marker')?.getAttribute('transform')); },
+    preview: {
+      show(record) { previewed = record.id; elements['record-preview'].classList.add('visible'); elements['box-dialog'].classList.add('has-preview'); },
+      hide() { elements['record-preview'].classList.remove('visible'); elements['box-dialog'].classList.remove('has-preview'); },
+      reposition() { if (elements['record-preview'].classList.contains('visible')) previewPositions.push(elements['spine-layer'].querySelector('.spine-slot-marker')?.getAttribute('transform')); }
+    },
     onOpen: (_, records) => {
       elements['record-strip'].children = records.map((_, i) => {
         const button = new Element('', 'strip-record'); button.dataset.index = String(i); button.left = i * 100; return button;
