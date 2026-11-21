@@ -29,7 +29,7 @@ The build validates missing dependencies, cycles, and source/public filename col
 - `box-browsing.js` owns selection, previews, carousel settling, focus, accessibility, and location. Every input goes through the same transitions.
 - `record-preview.js` owns cover preview content, visibility, remembered anchors, and responsive placement. Browsing supplies the record after updating the spine marker; hidden previews ignore late placement requests.
 - `room-view.js` renders the photographed room, spines, carousel, and input gestures. `spine-layout.js` computes estimated/traced outlines without touching the DOM.
-- `room-camera.js` keeps the room, detailed photograph, and traced spines aligned; stale animation and image work loses to navigation.
+- `room-camera.js` keeps the room, detailed photograph, and traced spines aligned; stale animation and image work loses to navigation. Its `focus(box, records)` and `leave()` calls own the requested scene, including resize and delayed photo work, without reading browsing or dialog state.
 - `sleeve-view.js` exposes `renderRecord()` and owns sleeve artwork, metadata, listening actions, and front/back/vinyl controls. Record selection and user face changes use the same private transition to keep artwork notes, CSS, and accessibility state together. `artwork.js` owns provenance, front/back placeholders, and thumbnail recovery. `mountCover()` owns the mounted image’s failure state; callbacks from replaced images cannot change newer artwork.
 - `collection-gallery.js` owns search/filter controls and delegates selected records to the room.
 - `turntable.js` exposes `open(record)` and `restore(records)`. Its factory owns one Spotify iframe independently of browsing, with no import-time DOM work.

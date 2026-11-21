@@ -8,10 +8,10 @@ import { projectSpineMasks } from "./spine-masks.js";
 
 // Own the overview, focused photograph and spine layer as one camera. Their
 // transforms must always agree, including while the source photo loads.
+// focus/leave own the requested scene; resize and late work need no browsing state.
 export function createRoomCamera({
   document,
   window,
-  browsing,
   buildSpines,
   photoCalibrationReady,
   spineMasksReady,
@@ -21,6 +21,7 @@ export function createRoomCamera({
     "(prefers-reduced-motion: reduce)",
   ).matches;
   let cameraReturnTimer, resizeTimer;
+  let focusedScene = null;
   let photoProjectionRequest = 0;
   let cameraRevision = 0;
   const roomGeometry = {
@@ -105,6 +106,7 @@ export function createRoomCamera({
     }
   }
   function focusCamera(box, list, instant = false) {
+    focusedScene = { box, records: list };
     window.clearTimeout(cameraReturnTimer);
     const revision = ++cameraRevision;
     const geometry = roomGeometry[box],
@@ -187,7 +189,7 @@ export function createRoomCamera({
     ]);
     if (
       request !== photoProjectionRequest ||
-      browsing.box !== box ||
+      focusedScene?.box !== box ||
       !config?.boxes?.[box]
     )
       return;
@@ -210,11 +212,11 @@ export function createRoomCamera({
         base.height / config.roomHeight,
       );
       photo.onload = () => {
-        if (request === photoProjectionRequest && browsing.box === box)
+        if (request === photoProjectionRequest && focusedScene?.box === box)
           photo.classList.add("source-ready");
       };
       photo.onerror = () => {
-        if (request === photoProjectionRequest && browsing.box === box)
+        if (request === photoProjectionRequest && focusedScene?.box === box)
           photo.classList.remove("source-ready");
       };
       if (photo.getAttribute("src") !== calibration.path)
@@ -240,6 +242,7 @@ export function createRoomCamera({
   }
 
   function leave() {
+    focusedScene = null;
     // A close wins over a queued animation frame or calibration response.
     cameraRevision++;
     photoProjectionRequest++;
@@ -247,7 +250,7 @@ export function createRoomCamera({
     $("scene-plane").classList.remove("camera-zoomed");
     cameraReturnTimer = window.setTimeout(
       () => {
-        if (!$("box-dialog").open) $("scene").classList.remove("camera-active");
+        if (!focusedScene) $("scene").classList.remove("camera-active");
       },
       reducedMotion ? 0 : 900,
     );
@@ -257,8 +260,8 @@ export function createRoomCamera({
   window.addEventListener("resize", () => {
     window.clearTimeout(resizeTimer);
     resizeTimer = window.setTimeout(() => {
-      if ($("box-dialog").open)
-        focusCamera(browsing.box, browsing.records, true);
+      if (focusedScene)
+        focusCamera(focusedScene.box, focusedScene.records, true);
       else returnCameraToRoom(true);
     }, 100);
   });
