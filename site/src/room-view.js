@@ -19,7 +19,6 @@ export function createRoomView({
   const camera = createRoomCamera({
     document,
     window,
-    browsing,
     buildSpines,
     photoCalibrationReady,
     spineMasksReady,
