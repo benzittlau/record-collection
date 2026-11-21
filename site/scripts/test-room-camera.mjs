@@ -25,7 +25,6 @@ function fixture() {
     "spine-layer",
     "focus-image",
     "box-detail-image",
-    "box-dialog",
     "room",
   ]) {
     const classes = new Set();
@@ -71,11 +70,9 @@ function fixture() {
   const calibration = deferred(),
     masks = deferred(),
     builds = [];
-  const browsing = { box: "upper-left", records: [{ id: "a" }] };
   const camera = createRoomCamera({
     document: { getElementById: (id) => elements.get(id) },
     window,
-    browsing,
     buildSpines: (records, face, traced) =>
       builds.push({ records, face, traced }),
     photoCalibrationReady: calibration.promise,
@@ -83,7 +80,6 @@ function fixture() {
   });
   return {
     camera,
-    browsing,
     builds,
     calibration,
     masks,
@@ -145,7 +141,7 @@ test("closing before animation and calibration finish leaves the room visible", 
   const f = fixture();
   f.camera.initialize();
   const roomTransform = f.get("scene-plane").style.transform;
-  f.camera.focus(f.browsing.box, f.browsing.records);
+  f.camera.focus("upper-left", [{ id: "a" }]);
   f.camera.leave();
   resolvePhotos(f);
   f.frame();
@@ -161,10 +157,8 @@ test("closing before animation and calibration finish leaves the room visible", 
 
 test("switching boxes while calibration loads projects only the latest box", async () => {
   const f = fixture();
-  f.camera.focus("upper-left", f.browsing.records);
+  f.camera.focus("upper-left", [{ id: "a" }]);
   const latestRecords = [{ id: "b" }];
-  f.browsing.box = "right";
-  f.browsing.records = latestRecords;
   f.camera.focus("right", latestRecords);
   resolvePhotos(f);
   await flush();
@@ -183,12 +177,11 @@ test("switching boxes while calibration loads projects only the latest box", asy
 test("old image callbacks cannot reveal an old photo or hide a newer loaded photo", async () => {
   const f = fixture();
   resolvePhotos(f);
-  f.camera.focus("upper-left", f.browsing.records, true);
+  f.camera.focus("upper-left", [{ id: "a" }], true);
   await flush();
   const photo = f.get("box-detail-image");
   const oldLoad = photo.onload,
     oldError = photo.onerror;
-  f.browsing.box = "right";
   f.camera.focus("right", [{ id: "b" }], true);
   oldLoad();
   assert.equal(photo.classList.contains("source-ready"), false);
@@ -206,19 +199,53 @@ test("old image callbacks cannot reveal an old photo or hide a newer loaded phot
 test("resize uses the current box records and reopening cancels room cleanup", async () => {
   const f = fixture();
   resolvePhotos(f);
-  f.camera.focus("upper-left", f.browsing.records, true);
+  f.camera.focus("upper-left", [{ id: "a" }], true);
   f.camera.leave();
-  f.browsing.box = "right";
-  f.browsing.records = [{ id: "current" }];
-  f.get("box-dialog").open = true;
-  f.camera.focus("right", f.browsing.records, true);
+  f.camera.focus("right", [{ id: "a" }], true);
   f.timers();
   assert.equal(f.get("scene").classList.contains("camera-active"), true);
   const updatedRecords = [{ id: "updated" }];
-  f.browsing.records = updatedRecords;
+  f.camera.focus("right", updatedRecords, true);
   f.resize();
   f.timers();
   await flush();
   assert.equal(f.builds.at(-1).records, updatedRecords);
   assert.equal(f.get("box-detail-image").src, "right.jpg");
+});
+
+
+test("a resize queued before leaving cannot refocus the old scene", async () => {
+  const f = fixture();
+  f.camera.initialize();
+  const roomTransform = f.get("scene-plane").style.transform;
+  f.camera.focus("upper-left", [{ id: "a" }], true);
+  f.resize();
+  f.camera.leave();
+  resolvePhotos(f);
+  f.timers();
+  f.frame();
+  await flush();
+  assert.equal(f.get("scene-plane").style.transform, roomTransform);
+  assert.equal(f.get("scene").classList.contains("camera-active"), false);
+  assert.equal(f.builds.length, 1);
+  assert.equal(f.get("box-detail-image").src, undefined);
+});
+
+test("reopening the same box invalidates old photo callbacks", async () => {
+  const f = fixture();
+  resolvePhotos(f);
+  f.camera.focus("upper-left", [{ id: "a" }], true);
+  await flush();
+  const photo = f.get("box-detail-image");
+  const oldLoad = photo.onload, oldError = photo.onerror;
+  f.camera.leave();
+  f.camera.focus("upper-left", [{ id: "b" }], true);
+  oldLoad();
+  assert.equal(photo.classList.contains("source-ready"), false);
+  await flush();
+  photo.onload();
+  oldError();
+  f.timers();
+  assert.equal(photo.classList.contains("source-ready"), true);
+  assert.equal(f.get("scene").classList.contains("camera-active"), true);
 });
