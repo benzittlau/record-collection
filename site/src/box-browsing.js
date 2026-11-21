@@ -5,8 +5,7 @@ export function createBoxBrowsing({
   document,
   window,
   renderRecord,
-  renderPreview,
-  positionPreview,
+  preview: recordPreview,
   onOpen,
   onClose,
 }) {
@@ -115,11 +114,7 @@ export function createBoxBrowsing({
     styleCarousel();
     // Resize and asynchronous projection rebuilds can move the slot without
     // a transitionend event. Position the visible card against the new marker.
-    if (
-      previewIndex !== null &&
-      $("record-preview").classList.contains("visible")
-    )
-      positionPreview();
+    recordPreview.reposition();
   }
 
   function center(instant = false) {
@@ -138,8 +133,7 @@ export function createBoxBrowsing({
 
   function hidePreview() {
     previewIndex = null;
-    $("record-preview").classList.remove("visible");
-    dialog.classList.remove("has-preview");
+    recordPreview.hide();
     marker();
   }
 
@@ -147,9 +141,7 @@ export function createBoxBrowsing({
     if (!dialog.open || pulled || !records[next]) return;
     previewIndex = next;
     marker();
-    renderPreview(records[next], anchor);
-    $("record-preview").classList.add("visible");
-    dialog.classList.add("has-preview");
+    recordPreview.show(records[next], anchor);
   }
 
   function select(

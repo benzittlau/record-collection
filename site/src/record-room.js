@@ -1,5 +1,6 @@
 import { createBoxBrowsing } from "./box-browsing.js";
 import { createSleeveView } from "./sleeve-view.js";
+import { createRecordPreview } from "./record-preview.js";
 import { createRoomView } from "./room-view.js";
 
 // Selection, rendering and camera timing are private collaborators. Callers
@@ -12,12 +13,12 @@ export function createRecordRoom({
   photosReady,
   masksReady,
 }) {
+  const preview = createRecordPreview({ document, window });
   const browsing = createBoxBrowsing({
     document,
     window,
     renderRecord: () => sleeve.renderRecord(),
-    renderPreview: (record, anchor) => view.renderPreview(record, anchor),
-    positionPreview: () => view.positionPreview(),
+    preview,
     onOpen: (box, records) => view.open(box, records),
     onClose: () => view.close(),
   });
